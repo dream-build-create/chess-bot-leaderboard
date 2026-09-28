@@ -9,13 +9,13 @@ concurrency:
   group: data
   cancel-in-progress: false
 env:
-  LEADERBOARD_CONTACT: "lichess.org/@/YOUR-USERNAME"
+  LEADERBOARD_CONTACT: "lichess.org/@/RyanMiller1988"
 jobs:
   refresh:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
-      - uses: actions/setup-python@v5
+      - uses: actions/checkout@v7
+      - uses: actions/setup-python@v7
         with:
           python-version: "3.12"
       - run: python scripts/refresh.py
