@@ -127,7 +127,7 @@
   },
   "atari-video-chess": {
    "first_seen": "2026-09-27",
-   "last_online": "2026-09-27",
+   "last_online": "2026-09-28",
    "username": "ATARI-VIDEO-CHESS"
   },
   "axiom_bot": {
@@ -1417,12 +1417,12 @@
   },
   "pdp8-chekmo": {
    "first_seen": "2026-09-27",
-   "last_online": "2026-09-27",
+   "last_online": "2026-09-28",
    "username": "PDP8-CHEKMO"
   },
   "pdp8-clash": {
    "first_seen": "2026-09-27",
-   "last_online": "2026-09-27",
+   "last_online": "2026-09-28",
    "username": "PDP8-CLASH"
   },
   "peacemaker-0_0": {
@@ -1569,6 +1569,11 @@
    "first_seen": "2026-09-27",
    "last_online": "2026-09-28",
    "username": "RedBeanTree"
+  },
+  "reptilesbedamned": {
+   "first_seen": "2026-09-28",
+   "last_online": "2026-09-28",
+   "username": "ReptilesBeDamned"
   },
   "resolutebot": {
    "first_seen": "2026-09-27",
@@ -1890,6 +1895,11 @@
    "last_online": "2026-09-28",
    "username": "TikiFish"
   },
+  "tilapiabot": {
+   "first_seen": "2026-09-28",
+   "last_online": "2026-09-28",
+   "username": "TilapiaBot"
+  },
   "timemachine1858": {
    "first_seen": "2026-09-27",
    "last_online": "2026-09-28",
@@ -2102,7 +2112,7 @@
   }
  },
  "online": {
-  "checked_at": "2026-09-28T00:11:32Z",
+  "checked_at": "2026-09-28T00:57:21Z",
   "ids": [
    "aatk_vanguardx",
    "abcd_engine",
@@ -2126,6 +2136,7 @@
    "artidigm_research",
    "ashnostromo",
    "ask-aatk-bot",
+   "atari-video-chess",
    "axiom_bot",
    "azzbot",
    "baby_eubos",
@@ -2172,7 +2183,6 @@
    "chengine_rookery",
    "chess-dragon1",
    "chess3bot",
-   "chess_set_manager",
    "chessatronbot",
    "chessblight",
    "chesschildren",
@@ -2289,8 +2299,8 @@
    "leelaqueenodds",
    "leelarogue",
    "leelarookodds",
-   "leelatroll",
    "legochess98",
+   "lemuffinbot",
    "leol-bot",
    "likeawizard-bot",
    "lilitbot",
@@ -2372,6 +2382,8 @@
    "patzerbot135",
    "pawn_git",
    "pawnrobot",
+   "pdp8-chekmo",
+   "pdp8-clash",
    "peacemaker-0_0",
    "peachfruit",
    "perl-gigachess",
@@ -2398,6 +2410,7 @@
    "ravenengine",
    "rdtchessbot",
    "redbeantree",
+   "reptilesbedamned",
    "resolutebot",
    "ribfish-bot",
    "rodent-v",
@@ -2459,6 +2472,7 @@
    "tidymazebot",
    "tigrament",
    "tikifish",
+   "tilapiabot",
    "timemachine1858",
    "tm-sovietschool",
    "topasbot",
