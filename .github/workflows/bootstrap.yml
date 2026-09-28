@@ -1,0 +1,32 @@
+# One-time: run manually once, after the first discover run.
+# Seeds history so the board isn't empty in its first week, then refreshes.
+# Running it again later does nothing harmful: it never overrides real history.
+name: bootstrap
+on:
+  workflow_dispatch:
+permissions:
+  contents: write
+concurrency:
+  group: data
+  cancel-in-progress: false
+env:
+  LEADERBOARD_CONTACT: "lichess.org/@/RyanMiller1988"
+jobs:
+  bootstrap:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: python scripts/bootstrap.py
+      - run: python scripts/refresh.py
+      - name: Commit changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/history.json docs/data/leaderboard.json
+          git diff --cached --quiet && exit 0
+          git commit -m "bootstrap: $(date -u +%F)"
+          git pull --rebase
+          git push

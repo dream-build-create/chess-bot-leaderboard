@@ -1,0 +1,32 @@
+name: discover
+on:
+  schedule:
+    - cron: "43 * * * *"       # hourly, at :43 UTC
+  workflow_dispatch:
+permissions:
+  contents: write
+concurrency:
+  group: data
+  cancel-in-progress: false
+env:
+  LEADERBOARD_CONTACT: "lichess.org/@/RyanMiller1988"
+jobs:
+  discover:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: python scripts/discover.py
+      - name: Commit changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/roster.json
+          # The board doesn't exist until the first refresh.
+          if [ -f docs/data/leaderboard.json ]; then git add docs/data/leaderboard.json; fi
+          git diff --cached --quiet && exit 0
+          git commit -m "discover: $(date -u '+%F %H:%M')"
+          git pull --rebase
+          git push

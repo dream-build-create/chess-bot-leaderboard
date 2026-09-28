@@ -1,0 +1,480 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="robots" content="noindex, nofollow">
+<title>The Lichess Bot Leaderboard</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Noto+Sans:wght@400;500;700&display=swap" rel="stylesheet">
+<style>
+  :root {
+    --bg-page: #1e1709;
+    --bg-box: #262421;
+    --bg-zebra: #2b2927;
+    --bg-head: #302e2c;
+    --bg-hover: #3a3835;
+    --font: #bababa;
+    --font-dim: #8f8d8a;
+    --font-strong: #dadada;
+    --link: #3692e7;
+    --good: #629924;
+    --border: #404040;
+    --warn-bg: #4b3a1c;
+    --warn-font: #f0c674;
+    --bad-bg: #4a2320;
+    --bad-font: #ef8a80;
+    --radius: 3px;
+  }
+  @media (prefers-color-scheme: light) {
+    :root {
+      --bg-page: #f0da9c;
+      --bg-box: #ffffff;
+      --bg-zebra: #f7f7f7;
+      --bg-head: #f2f2f2;
+      --bg-hover: #ececec;
+      --font: #4d4d4d;
+      --font-dim: #787878;
+      --font-strong: #262626;
+      --link: #1b78d0;
+      --good: #629924;
+      --border: #e3e3e3;
+      --warn-bg: #fbf1d9;
+      --warn-font: #7a5a12;
+      --bad-bg: #fbe3e0;
+      --bad-font: #a1281c;
+    }
+  }
+
+  * { box-sizing: border-box; }
+  html { -webkit-text-size-adjust: 100%; }
+  body {
+    margin: 0;
+    background: var(--bg-page);
+    color: var(--font);
+    font: 14px/1.5 "Noto Sans", "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+  }
+  a { color: var(--link); text-decoration: none; }
+  a:hover { text-decoration: underline; }
+  :focus-visible { outline: 2px solid var(--link); outline-offset: 2px; }
+
+  .page { max-width: 1200px; margin: 0 auto; padding: 24px 16px 48px; }
+
+  header.intro {
+    background: var(--bg-box);
+    border-radius: var(--radius);
+    padding: 22px 28px;
+    margin-bottom: 18px;
+  }
+  header.intro h1 {
+    margin: 0 0 8px;
+    font-size: 40px;
+    font-weight: 700;
+    line-height: 1.2;
+    color: #ff4500;          /* Reddit orange-red */
+    text-transform: lowercase;
+  }
+  header.intro h1 a { color: inherit; }
+  header.intro h1 a:hover { text-decoration: none; }
+  .disclaimer { margin: 0 0 12px; max-width: 75ch; font-size: 17px; }
+  .disclaimer + .disclaimer { margin-top: 1.5em; }   /* blank line before the affiliation note */
+  .meta { margin: 0; font-size: 13px; color: var(--font-dim); max-width: 90ch; }
+  .meta + .meta { margin-top: 2px; }
+
+  .notice {
+    border-radius: var(--radius);
+    padding: 12px 16px;
+    margin-bottom: 18px;
+  }
+  .notice.warn { background: var(--warn-bg); color: var(--warn-font); }
+  .notice.error { background: var(--bad-bg); color: var(--bad-font); }
+
+  /* Overview: four top-10 boxes */
+  .grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(260px, 1fr));
+    gap: 18px;
+  }
+  .box {
+    background: var(--bg-box);
+    border-radius: var(--radius);
+    overflow: hidden;
+  }
+  .box h2 {
+    margin: 0;
+    padding: 12px 16px;
+    font-size: 18px;
+    font-weight: 400;
+    border-bottom: 1px solid var(--border);
+  }
+  .box ol { list-style: none; margin: 0; padding: 0; }
+  .box li {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    padding: 6px 16px;
+  }
+  .box li:nth-child(even) { background: var(--bg-zebra); }
+  .box li .rank { width: 1.6em; text-align: right; color: var(--font-dim); flex: none; }
+  .box li .name { flex: 1; min-width: 0; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+  .box li .rating { font-weight: 700; color: var(--font-strong); flex: none; }
+  .box .more {
+    display: block;
+    padding: 8px 16px;
+    font-size: 13px;
+    border-top: 1px solid var(--border);
+  }
+  .box .empty, .table-wrap .empty { padding: 14px 16px; margin: 0; color: var(--font-dim); }
+
+  /* Online dot, as on Lichess: hollow when offline, filled green when online */
+  .dot {
+    display: inline-block;
+    width: 9px; height: 9px;
+    border-radius: 50%;
+    border: 1.5px solid var(--font-dim);
+    flex: none;
+    vertical-align: 1px;
+    opacity: .6;
+  }
+  .dot.online { background: var(--good); border-color: var(--good); opacity: 1; }
+  .dot.unknown { visibility: hidden; }
+
+  /* Category view */
+  .toolbar {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    gap: 12px;
+    margin-bottom: 12px;
+  }
+  .tabs { display: flex; flex-wrap: wrap; gap: 2px; }
+  .tabs a {
+    padding: 7px 14px;
+    background: var(--bg-box);
+    color: var(--font);
+    border-radius: var(--radius);
+  }
+  .tabs a:hover { background: var(--bg-hover); text-decoration: none; }
+  .tabs a[aria-current="page"] { background: var(--link); color: #fff; }
+  .search {
+    margin-left: auto;
+    padding: 7px 10px;
+    min-width: 200px;
+    font: inherit;
+    color: var(--font-strong);
+    background: var(--bg-box);
+    border: 1px solid var(--border);
+    border-radius: var(--radius);
+  }
+  .search::placeholder { color: var(--font-dim); }
+
+  .table-wrap {
+    background: var(--bg-box);
+    border-radius: var(--radius);
+    overflow-x: auto;
+  }
+  table { width: 100%; border-collapse: collapse; }
+  th, td { padding: 7px 14px; text-align: left; white-space: nowrap; }
+  td.num, th.num { text-align: right; font-variant-numeric: tabular-nums; }
+  thead th { background: var(--bg-head); font-weight: 500; padding: 0; }
+  thead button {
+    all: unset;
+    display: block;
+    width: 100%;
+    box-sizing: border-box;
+    padding: 9px 14px;
+    cursor: pointer;
+    color: var(--font-strong);
+    position: relative;
+  }
+  thead th.num button { text-align: right; }
+  thead button:focus-visible { outline: 2px solid var(--link); outline-offset: -2px; }
+  thead button::after { position: absolute; right: 2px; color: var(--font-dim); font-size: 10px; line-height: 1; top: 50%; transform: translateY(-50%); }
+  th[aria-sort="ascending"] button::after { content: "\25B2"; }
+  th[aria-sort="descending"] button::after { content: "\25BC"; }
+  tbody tr:nth-child(even) { background: var(--bg-zebra); }
+  tbody tr:hover { background: var(--bg-hover); }
+  td.rank { color: var(--font-dim); width: 1%; }
+  td.rating { font-weight: 700; color: var(--font-strong); }
+  td.name .dot { margin-right: 8px; }
+  thead th.plain { padding: 9px 14px; color: var(--font-strong); }
+  /* Description fills the leftover width and is cut off with an ellipsis;
+     the full bio is in the hover tooltip. */
+  td.bio {
+    width: 100%;
+    max-width: 0;
+    min-width: 14em;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    color: var(--font-dim);
+  }
+
+  footer { margin-top: 24px; font-size: 12px; color: var(--font-dim); }
+
+  @media (max-width: 600px) {
+    header.intro { padding: 16px 18px; }
+    header.intro h1 { font-size: 30px; }
+    .disclaimer { font-size: 16px; }
+    .search { margin-left: 0; width: 100%; }
+  }
+</style>
+</head>
+<body>
+<div class="page">
+  <header class="intro">
+    <h1><a href="#">The Lichess Bot Leaderboard</a></h1>
+    <p class="disclaimer">These are the Lichess ratings of active bot accounts, taken directly from Lichess and refreshed daily. This board is generated automatically with no editing. Apart from excluding accounts Lichess has flagged, no attempt is made to detect rating farming or other manipulation. The order should not be read as an accurate ranking of engine strength.</p>
+    <p class="disclaimer">Not affiliated with Lichess.</p>
+    <p class="meta" id="rules"></p>
+    <p class="meta" id="updated"></p>
+  </header>
+
+  <div id="notice" hidden></div>
+  <main id="view"><p class="meta">Loading…</p></main>
+
+  <footer>Ratings and online status come from the public Lichess API.</footer>
+</div>
+
+<script>
+(() => {
+  "use strict";
+
+  const SUPPORTED_SCHEMA = 1;
+  const CATEGORIES = ["bullet", "blitz", "rapid", "classical"];
+  const LABELS = { bullet: "Bullet", blitz: "Blitz", rapid: "Rapid", classical: "Classical" };
+  const TOP_N = 10;
+
+  const COLUMNS = [
+    { key: "rank",        label: "#",           num: true,  firstDir:  1 },
+    { key: "username",    label: "Bot",         num: false, firstDir:  1 },
+    { key: "rating",      label: "Rating",      num: true,  firstDir: -1 },
+    { key: "rd",          label: "RD",          num: true,  firstDir:  1 },
+    { key: "games",       label: "Games",       num: true,  firstDir: -1 },
+    { key: "last_active", label: "Last active", num: false, firstDir: -1 },
+    { key: "bio",         label: "Description from bot profile", num: false, sortable: false },
+  ];
+
+  const view = document.getElementById("view");
+  const notice = document.getElementById("notice");
+
+  let data = null;
+  let sort = { key: "rank", dir: 1 };
+  let query = "";
+
+  // ------------------------------------------------------------ helpers
+
+  function el(tag, attrs, ...children) {
+    const node = document.createElement(tag);
+    for (const [k, v] of Object.entries(attrs || {})) {
+      if (v === null || v === undefined || v === false) continue;
+      if (k === "class") node.className = v;
+      else if (k === "text") node.textContent = v;
+      else if (k.startsWith("on")) node.addEventListener(k.slice(2), v);
+      else node.setAttribute(k, v === true ? "" : v);
+    }
+    for (const c of children) if (c !== null && c !== undefined) node.append(c);
+    return node;
+  }
+
+  function showNotice(kind, text) {
+    notice.className = "notice " + kind;
+    notice.textContent = text;
+    notice.hidden = false;
+  }
+
+  const fmt = n => n.toLocaleString("en-US");
+
+  function profileLink(username) {
+    return el("a", { href: "https://lichess.org/@/" + encodeURIComponent(username), text: username });
+  }
+
+  // Online means the bot was in the most recent discover poll. Rows without
+  // an online flag (data from before the poll existed) get no dot at all.
+  function dot(row) {
+    const known = data.online_checked_at && typeof row.online === "boolean";
+    return el("span", {
+      class: "dot" + (!known ? " unknown" : row.online ? " online" : ""),
+      title: !known ? null : row.online ? "Online" : "Offline",
+      "aria-hidden": "true",
+    });
+  }
+
+  // Drop image links (imgur, or any URL ending in an image extension) and
+  // decorative separator lines (___, ---, ===, ***, ~~~) from the start of a
+  // bio, in any order, until real text begins. The rest is left as written.
+  const LEADING_JUNK = /^\s*(?:[_\-=*~\u2013\u2014]{3,}|(?:https?:\/\/)?(?:i\.)?imgur\.com\/\S+|https?:\/\/\S+\.(?:png|jpe?g|gif|webp)(?:\?\S*)?)(?=\s|$)\s*/i;
+  function displayBio(bio) {
+    let text = bio || "";
+    let m;
+    while ((m = text.match(LEADING_JUNK))) text = text.slice(m[0].length);
+    return text;
+  }
+
+  function describeTime(iso) {
+    const then = new Date(iso);
+    if (!iso || isNaN(then)) return null;
+    const utc = then.toISOString().slice(0, 16).replace("T", " ") + " UTC";
+    const hours = Math.round((Date.now() - then) / 3.6e6);
+    const age = hours < 1 ? "less than an hour ago"
+      : hours < 48 ? `${hours} hour${hours === 1 ? "" : "s"} ago`
+      : `${Math.round(hours / 24)} days ago`;
+    return `${utc} (${age})`;
+  }
+
+  // ------------------------------------------------------------ header
+
+  function renderHeader() {
+    const r = data.rules || {};
+    document.getElementById("rules").textContent =
+      `Included: bots with at least one rated game in the last ${r.activity_days} days, ` +
+      `at least ${r.min_games} rated games in the category, rating deviation under ${r.max_rd_standard}, ` +
+      `and a non-provisional rating. Accounts closed or flagged by Lichess are left out.`;
+    const ratings = describeTime(data.generated_at);
+    const online = describeTime(data.online_checked_at);
+    document.getElementById("updated").textContent =
+      `Ratings updated ${ratings || data.generated_at}.` + (online ? ` Online status checked ${online}.` : "");
+  }
+
+  // ------------------------------------------------------------ overview
+
+  function renderOverview() {
+    const grid = el("div", { class: "grid" });
+    for (const cat of CATEGORIES) {
+      const rows = data.categories[cat] || [];
+      const box = el("section", { class: "box", "aria-labelledby": "h-" + cat },
+        el("h2", { id: "h-" + cat }, el("a", { href: "#" + cat, text: LABELS[cat] })));
+      if (!rows.length) {
+        box.append(el("p", { class: "empty", text: "No bots qualify in this category yet." }));
+      } else {
+        const ol = el("ol");
+        for (const row of rows.slice(0, TOP_N)) {
+          ol.append(el("li", null,
+            el("span", { class: "rank", text: row.rank }),
+            dot(row),
+            el("span", { class: "name" }, profileLink(row.username)),
+            el("span", { class: "rating", text: row.rating })));
+        }
+        box.append(ol, el("a", { class: "more", href: "#" + cat, text: `All ${fmt(rows.length)} ${LABELS[cat].toLowerCase()} bots` }));
+      }
+      grid.append(box);
+    }
+    view.replaceChildren(grid);
+  }
+
+  // ------------------------------------------------------------ category table
+
+  function sortedRows(cat) {
+    const q = query.trim().toLowerCase();
+    const rows = (data.categories[cat] || []).filter(r => !q || r.username.toLowerCase().includes(q));
+    const { key, dir } = sort;
+    return rows.sort((a, b) => {
+      let x = a[key], y = b[key];
+      if (key === "username") { x = x.toLowerCase(); y = y.toLowerCase(); }
+      if (x === y) return a.rank - b.rank;
+      if (x === null || x === undefined) return 1;
+      if (y === null || y === undefined) return -1;
+      return (x < y ? -1 : 1) * dir;
+    });
+  }
+
+  function renderBody(cat, tbody, wrap) {
+    const all = data.categories[cat] || [];
+    const rows = sortedRows(cat);
+    wrap.querySelector(".empty")?.remove();
+    tbody.replaceChildren(...rows.map(r => el("tr", null,
+      el("td", { class: "num rank", text: r.rank }),
+      el("td", { class: "name" }, dot(r), profileLink(r.username)),
+      el("td", { class: "num rating", text: r.rating }),
+      el("td", { class: "num", text: r.rd }),
+      el("td", { class: "num", text: fmt(r.games) }),
+      el("td", { text: r.last_active || "" }),
+      el("td", { class: "bio", text: displayBio(r.bio), title: displayBio(r.bio) || null }))));
+    if (!all.length) wrap.append(el("p", { class: "empty", text: "No bots qualify in this category yet." }));
+    else if (!rows.length) wrap.append(el("p", { class: "empty", text: `No bots match “${query.trim()}”.` }));
+  }
+
+  function renderCategory(cat) {
+    const tabs = el("nav", { class: "tabs", "aria-label": "Categories" },
+      el("a", { href: "#", text: "Overview" }),
+      ...CATEGORIES.map(c => el("a", { href: "#" + c, text: LABELS[c], "aria-current": c === cat ? "page" : null })));
+
+    const search = el("input", {
+      class: "search", type: "search", placeholder: "Search bots", "aria-label": "Search bots by name",
+      value: query,
+    });
+
+    const headRow = el("tr");
+    const tbody = el("tbody");
+    const table = el("table", null, el("thead", null, headRow), tbody);
+    const wrap = el("div", { class: "table-wrap" }, table);
+
+    function paintHead() {
+      headRow.replaceChildren(...COLUMNS.map(col => col.sortable === false
+        ? el("th", { scope: "col", class: "plain", text: col.label })
+        : el("th", {
+          class: col.num ? "num" : null,
+          scope: "col",
+          "aria-sort": sort.key === col.key ? (sort.dir === 1 ? "ascending" : "descending") : null,
+        },
+        el("button", {
+          type: "button",
+          text: col.label,
+          onclick: () => {
+            sort = sort.key === col.key ? { key: col.key, dir: -sort.dir } : { key: col.key, dir: col.firstDir };
+            paintHead();
+            renderBody(cat, tbody, wrap);
+          },
+        }))));
+    }
+
+    search.addEventListener("input", () => { query = search.value; renderBody(cat, tbody, wrap); });
+
+    paintHead();
+    renderBody(cat, tbody, wrap);
+    view.replaceChildren(el("div", { class: "toolbar" }, tabs, search), wrap);
+  }
+
+  // ------------------------------------------------------------ routing
+
+  function route() {
+    const cat = location.hash.slice(1).toLowerCase();
+    if (CATEGORIES.includes(cat)) {
+      document.title = `${LABELS[cat]} · The Lichess Bot Leaderboard`;
+      renderCategory(cat);
+    } else {
+      document.title = "The Lichess Bot Leaderboard";
+      renderOverview();
+    }
+  }
+
+  // ------------------------------------------------------------ start
+
+  async function start() {
+    try {
+      const res = await fetch("data/leaderboard.json", { cache: "no-cache" });
+      if (!res.ok) throw new Error("HTTP " + res.status);
+      data = await res.json();
+    } catch (e) {
+      view.replaceChildren();
+      showNotice("error", `The leaderboard data could not be loaded (${e.message}). Reload the page to try again.`);
+      return;
+    }
+
+    if (data.schema_version !== SUPPORTED_SCHEMA) {
+      view.replaceChildren();
+      showNotice("warn", `This page reads data format version ${SUPPORTED_SCHEMA}, but the data is version ${data.schema_version}. ` +
+        `The leaderboard is not shown to avoid displaying it incorrectly.`);
+      return;
+    }
+
+    renderHeader();
+    route();
+    window.addEventListener("hashchange", () => { query = ""; sort = { key: "rank", dir: 1 }; route(); });
+  }
+
+  start();
+})();
+</script>
+</body>
+</html>
