@@ -2,7 +2,7 @@
  "bots": {
   "aaronsengine": {
    "first_seen": "2026-09-27",
-   "last_online": "2026-09-27",
+   "last_online": "2026-09-28",
    "username": "AaronsEngine"
   },
   "aatk_vanguardx": {
@@ -344,6 +344,11 @@
    "first_seen": "2026-09-27",
    "last_online": "2026-09-28",
    "username": "catriever"
+  },
+  "chaotong_engine": {
+   "first_seen": "2026-09-28",
+   "last_online": "2026-09-28",
+   "username": "Chaotong_engine"
   },
   "charibot": {
    "first_seen": "2026-09-27",
@@ -2122,7 +2127,7 @@
   },
   "wannalearnbot": {
    "first_seen": "2026-09-27",
-   "last_online": "2026-09-27",
+   "last_online": "2026-09-28",
    "username": "wannalearnbot"
   },
   "weiawaga": {
@@ -2167,8 +2172,9 @@
   }
  },
  "online": {
-  "checked_at": "2026-09-28T07:55:40Z",
+  "checked_at": "2026-09-28T08:55:36Z",
   "ids": [
+   "aaronsengine",
    "abcd_engine",
    "abdcebot",
    "aconcaguabot",
@@ -2195,7 +2201,6 @@
    "banerot",
    "batyarapro",
    "bbc_bot",
-   "becela9_kpebetka",
    "berkbot",
    "bernstein-2ply",
    "bernstein-4ply",
@@ -2214,9 +2219,8 @@
    "bot5551",
    "bot64jaques",
    "bot_adario",
+   "bot_stockfish13",
    "botchessbot",
-   "bothev",
-   "bothev2",
    "bottios",
    "bretemabot",
    "bubblebot2",
@@ -2228,6 +2232,7 @@
    "casanchess-nnue",
    "catnail",
    "catriever",
+   "chaotong_engine",
    "charibot",
    "cheng-4",
    "cheng-4-nn",
@@ -2281,6 +2286,7 @@
    "duchessai",
    "dumbotai",
    "eclipsebot",
+   "edwardkillick",
    "eigenmann-chess",
    "elexunix_chess_bot",
    "ellen_replay",
@@ -2352,6 +2358,7 @@
    "leelarookodds",
    "leelatroll",
    "legochess98",
+   "lemuffinbot",
    "leol-bot",
    "likeawizard-bot",
    "lilitbot",
@@ -2388,6 +2395,7 @@
    "mate1-bot",
    "matmoi",
    "mayflyengine",
+   "mcdonalds1955",
    "mchess-engine",
    "mega-noob-bot",
    "melsh_bot",
@@ -2409,7 +2417,6 @@
    "neryba",
    "nesbes",
    "neurosocute",
-   "newchessengine-ai",
    "nexastrat",
    "nexosdefos",
    "nice_bot",
@@ -2466,6 +2473,7 @@
    "rpibot73",
    "rudim-bot",
    "rust-in-pieces",
+   "rustyrival",
    "sargon-1ply",
    "sargon-2ply",
    "sargon-3ply",
@@ -2489,6 +2497,7 @@
    "sseh-c",
    "stepbot_chess",
    "stickshark99",
+   "stockbotfisher",
    "stockdory",
    "stockfail",
    "stockfishlowdepth",
@@ -2510,7 +2519,6 @@
    "talosbot",
    "teensycheesy",
    "terconari",
-   "the_baronet",
    "thechessblazer",
    "thunfisch-bot",
    "tidymazebot",
@@ -2552,6 +2560,7 @@
    "voigtsbach",
    "walleye_bot",
    "walpurti",
+   "wannalearnbot",
    "weiawaga",
    "wolfuhfuhbot",
    "worst-ai",
