@@ -130,6 +130,11 @@
    "last_online": "2026-09-28",
    "username": "ATARI-VIDEO-CHESS"
   },
+  "atomicenginev1": {
+   "first_seen": "2026-09-28",
+   "last_online": "2026-09-28",
+   "username": "AtomicEngineV1"
+  },
   "axiom_bot": {
    "first_seen": "2026-09-27",
    "last_online": "2026-09-28",
@@ -359,6 +364,11 @@
    "first_seen": "2026-09-27",
    "last_online": "2026-09-28",
    "username": "charibot"
+  },
+  "cheesestar": {
+   "first_seen": "2026-09-28",
+   "last_online": "2026-09-28",
+   "username": "CheeseStar"
   },
   "cheng-4": {
    "first_seen": "2026-09-27",
@@ -784,6 +794,11 @@
    "first_seen": "2026-09-27",
    "last_online": "2026-09-28",
    "username": "GNUPassant"
+  },
+  "goblinajedrezai": {
+   "first_seen": "2026-09-28",
+   "last_online": "2026-09-28",
+   "username": "GoblinAjedrezAI"
   },
   "gokubot": {
    "first_seen": "2026-09-28",
@@ -2237,7 +2252,7 @@
   }
  },
  "online": {
-  "checked_at": "2026-09-28T15:56:10Z",
+  "checked_at": "2026-09-28T16:56:06Z",
   "ids": [
    "aaronsengine",
    "aatk_vanguardx",
@@ -2262,6 +2277,7 @@
    "ashnostromo",
    "ask-aatk-bot",
    "atari-video-chess",
+   "atomicenginev1",
    "axiom_bot",
    "azzbot",
    "baby_eubos",
@@ -2276,8 +2292,6 @@
    "bfiedler-bot",
    "bhonduesque",
    "bitbitbot",
-   "black-bishop-kh",
-   "blackeventhorizon",
    "blobfish-bot",
    "bluemoonbot",
    "bobby_pcolla",
@@ -2305,6 +2319,7 @@
    "catnail",
    "catriever",
    "charibot",
+   "cheesestar",
    "cheng-4",
    "cheng-4-nn",
    "chengine_rookery",
@@ -2324,6 +2339,7 @@
    "cizme",
    "classic_bot-v2",
    "classical-leela",
+   "claudyengine",
    "cloudia-chess",
    "cloudnetbot",
    "clrsrc_lc0",
@@ -2344,7 +2360,6 @@
    "dala-700",
    "dala-900",
    "darkelectronbot",
-   "darkonbot",
    "darkonweakbot",
    "davidsguterbot",
    "debzero",
@@ -2380,6 +2395,7 @@
    "geotsibot",
    "ghidorah_x",
    "gnupassant",
+   "goblinajedrezai",
    "gokubot",
    "goldfish-engine",
    "goopis",
@@ -2417,6 +2433,7 @@
    "kestrelstrike",
    "kirinchessbot",
    "kopyto_dev",
+   "kurganuci",
    "lamprook",
    "laura-bot",
    "leelaalien",
@@ -2429,6 +2446,7 @@
    "leelarookodds",
    "leelatroll",
    "legochess98",
+   "lemuffinbot",
    "leol-bot",
    "likeawizard-bot",
    "lilitbot",
@@ -2590,8 +2608,8 @@
    "teensycheesy",
    "terconari",
    "thechessblazer",
+   "throrbjorn",
    "thunfisch-bot",
-   "tidymazebot",
    "tigrament",
    "tikifish",
    "tilapiabot",
