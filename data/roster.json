@@ -515,6 +515,11 @@
    "last_online": "2026-09-28",
    "username": "CosetteBot"
   },
+  "crapbot": {
+   "first_seen": "2026-09-28",
+   "last_online": "2026-09-28",
+   "username": "crapBot"
+  },
   "croco_bot": {
    "first_seen": "2026-09-27",
    "last_online": "2026-09-28",
@@ -1660,6 +1665,11 @@
    "last_online": "2026-09-28",
    "username": "Ribfish-Bot"
   },
+  "rockingsuperstars": {
+   "first_seen": "2026-09-28",
+   "last_online": "2026-09-28",
+   "username": "RockingSuperstars"
+  },
   "rodent-v": {
    "first_seen": "2026-09-28",
    "last_online": "2026-09-28",
@@ -2222,7 +2232,7 @@
   }
  },
  "online": {
-  "checked_at": "2026-09-28T13:56:51Z",
+  "checked_at": "2026-09-28T14:58:33Z",
   "ids": [
    "aaronsengine",
    "aatk_vanguardx",
@@ -2241,7 +2251,6 @@
    "annie_archy",
    "anti-bot",
    "aposeij",
-   "arasanx",
    "ariadne-bot",
    "artidigm_research",
    "ashnostromo",
@@ -2273,7 +2282,6 @@
    "bot5551",
    "bot64jaques",
    "bot_adario",
-   "bot_stockfish13",
    "botchessbot",
    "bothev",
    "bothev2",
@@ -2309,6 +2317,7 @@
    "cizme",
    "classic_bot-v2",
    "classical-leela",
+   "claudyengine",
    "cloudia-chess",
    "cloudnetbot",
    "clrsrc_lc0",
@@ -2317,6 +2326,7 @@
    "colinbot",
    "confidencebuilder",
    "cosettebot",
+   "crapbot",
    "croco_bot",
    "croco_little_bot",
    "crocodile_bot",
@@ -2343,9 +2353,7 @@
    "duchessai",
    "dumbotai",
    "eclipsebot",
-   "edwardkillick",
    "eigenmann-chess",
-   "elexunix_chess_bot",
    "ellen_replay",
    "elmichess",
    "endspiel-pi",
@@ -2368,7 +2376,6 @@
    "goldfish-engine",
    "goopis",
    "grail-bot",
-   "groshboss",
    "hackerchessbot",
    "halcyonbot",
    "hardrok",
@@ -2406,12 +2413,7 @@
    "laura-bot",
    "leelaalien",
    "leelajester",
-   "leelaknightodds",
-   "leelapieceodds",
-   "leelaqueenforknight",
-   "leelaqueenodds",
    "leelarogue",
-   "leelarookodds",
    "leelatroll",
    "legochess98",
    "leol-bot",
@@ -2473,7 +2475,6 @@
    "nesbes",
    "neurosocute",
    "newchessengine-ai",
-   "newtsbot",
    "nexastrat",
    "nexosdefos",
    "nice_bot",
@@ -2521,6 +2522,7 @@
    "reptilesbedamned",
    "resolutebot",
    "ribfish-bot",
+   "rockingsuperstars",
    "romanticbot",
    "romanticbot2",
    "rpibot73",
@@ -2575,6 +2577,7 @@
    "talosbot",
    "teensycheesy",
    "terconari",
+   "the_baronet",
    "thechessblazer",
    "thunfisch-bot",
    "tidymazebot",
