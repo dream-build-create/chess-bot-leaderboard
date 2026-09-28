@@ -670,6 +670,11 @@
    "last_online": "2026-09-28",
    "username": "entebot"
   },
+  "epimetheusbot": {
+   "first_seen": "2026-09-28",
+   "last_online": "2026-09-28",
+   "username": "EpimetheusBot"
+  },
   "eubos": {
    "first_seen": "2026-09-27",
    "last_online": "2026-09-28",
@@ -725,6 +730,11 @@
    "last_online": "2026-09-28",
    "username": "GarboBot"
   },
+  "georgii_ai": {
+   "first_seen": "2026-09-28",
+   "last_online": "2026-09-28",
+   "username": "georgii_ai"
+  },
   "geotsibot": {
    "first_seen": "2026-09-27",
    "last_online": "2026-09-28",
@@ -732,13 +742,18 @@
   },
   "ghidorah_x": {
    "first_seen": "2026-09-27",
-   "last_online": "2026-09-27",
+   "last_online": "2026-09-28",
    "username": "Ghidorah_X"
   },
   "gnupassant": {
    "first_seen": "2026-09-27",
    "last_online": "2026-09-28",
    "username": "GNUPassant"
+  },
+  "gokubot": {
+   "first_seen": "2026-09-28",
+   "last_online": "2026-09-28",
+   "username": "GoKUbot"
   },
   "goldfish-engine": {
    "first_seen": "2026-09-27",
@@ -759,6 +774,11 @@
    "first_seen": "2026-09-27",
    "last_online": "2026-09-28",
    "username": "GroshBoss"
+  },
+  "guitarfish-engine": {
+   "first_seen": "2026-09-28",
+   "last_online": "2026-09-28",
+   "username": "guitarfish-engine"
   },
   "hackerchessbot": {
    "first_seen": "2026-09-27",
@@ -2045,6 +2065,11 @@
    "last_online": "2026-09-28",
    "username": "VietnameseCoffee"
   },
+  "violentstockfish": {
+   "first_seen": "2026-09-28",
+   "last_online": "2026-09-28",
+   "username": "ViolentStockfish"
+  },
   "virutor": {
    "first_seen": "2026-09-27",
    "last_online": "2026-09-28",
@@ -2112,7 +2137,7 @@
   }
  },
  "online": {
-  "checked_at": "2026-09-28T01:52:53Z",
+  "checked_at": "2026-09-28T02:54:29Z",
   "ids": [
    "aatk_vanguardx",
    "abcd_engine",
@@ -2182,7 +2207,7 @@
    "cheng-4",
    "cheng-4-nn",
    "chengine_rookery",
-   "chess-dragon1",
+   "chess3bot",
    "chessatronbot",
    "chessblight",
    "chesschildren",
@@ -2198,7 +2223,6 @@
    "classic_bot-v2",
    "classical-leela",
    "cloudia-chess",
-   "cloudnetbot",
    "clrsrc_lc0",
    "coda_bot",
    "codabot",
@@ -2238,6 +2262,7 @@
    "endspiel-pi",
    "enjoyably3303",
    "entebot",
+   "epimetheusbot",
    "eubos",
    "falconengine",
    "fataliibot",
@@ -2248,12 +2273,16 @@
    "flybrainchess",
    "fpga-chess",
    "garbobot",
+   "georgii_ai",
    "geotsibot",
+   "ghidorah_x",
    "gnupassant",
+   "gokubot",
    "goldfish-engine",
    "goopis",
    "grail-bot",
    "groshboss",
+   "guitarfish-engine",
    "hackerchessbot",
    "halcyonbot",
    "hardrok",
@@ -2417,7 +2446,6 @@
    "rpibot73",
    "rudim-bot",
    "rust-in-pieces",
-   "rustyrival",
    "sargon-1ply",
    "sargon-2ply",
    "sargon-3ply",
@@ -2452,6 +2480,7 @@
    "studyloversz-bot",
    "stupidchessrobot",
    "stupidfishbotbydscs",
+   "styx_reckless",
    "subnorbot",
    "sunfish-engine",
    "sunfish-nnue-engine",
@@ -2500,6 +2529,7 @@
    "vic98lg",
    "vidbot",
    "vietnamesecoffee",
+   "violentstockfish",
    "virutor",
    "voigtsbach",
    "walleye_bot",
