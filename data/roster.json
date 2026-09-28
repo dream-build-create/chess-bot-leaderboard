@@ -297,7 +297,7 @@
   },
   "botvunnix": {
    "first_seen": "2026-09-27",
-   "last_online": "2026-09-27",
+   "last_online": "2026-09-28",
    "username": "Botvunnix"
   },
   "bretemabot": {
@@ -444,6 +444,11 @@
    "first_seen": "2026-09-27",
    "last_online": "2026-09-28",
    "username": "ChronicGambler"
+  },
+  "chrusty": {
+   "first_seen": "2026-09-28",
+   "last_online": "2026-09-28",
+   "username": "chrusty"
   },
   "cinder-bot": {
    "first_seen": "2026-09-27",
@@ -974,6 +979,11 @@
    "first_seen": "2026-09-27",
    "last_online": "2026-09-28",
    "username": "kulubot"
+  },
+  "kurganuci": {
+   "first_seen": "2026-09-28",
+   "last_online": "2026-09-28",
+   "username": "KurganUCI"
   },
   "lamprook": {
    "first_seen": "2026-09-27",
@@ -1900,6 +1910,11 @@
    "last_online": "2026-09-28",
    "username": "sunfish_rs_v2"
   },
+  "supergame5": {
+   "first_seen": "2026-09-28",
+   "last_online": "2026-09-28",
+   "username": "SuperGame5"
+  },
   "sxphia": {
    "first_seen": "2026-09-27",
    "last_online": "2026-09-28",
@@ -2202,7 +2217,7 @@
   }
  },
  "online": {
-  "checked_at": "2026-09-28T11:55:11Z",
+  "checked_at": "2026-09-28T12:58:14Z",
   "ids": [
    "aaronsengine",
    "aatk_vanguardx",
@@ -2232,6 +2247,7 @@
    "baby_eubos",
    "banerot",
    "bbc_bot",
+   "becela9_kpebetka",
    "berkbot",
    "bernstein-2ply",
    "bernstein-4ply",
@@ -2253,7 +2269,10 @@
    "bot_adario",
    "bot_stockfish13",
    "botchessbot",
+   "bothev",
+   "bothev2",
    "bottios",
+   "botvunnix",
    "bretemabot",
    "bubblebot2",
    "bufffishnet",
@@ -2268,6 +2287,7 @@
    "cheng-4",
    "cheng-4-nn",
    "chengine_rookery",
+   "chess-dragon1",
    "chess_set_manager",
    "chessatronbot",
    "chessblight",
@@ -2279,11 +2299,13 @@
    "cheszter",
    "chill4ce",
    "chronicgambler",
+   "chrusty",
    "cinder-bot",
    "cizme",
    "classical-leela",
    "claudyengine",
    "cloudia-chess",
+   "cloudnetbot",
    "clrsrc_lc0",
    "coda_bot",
    "codabot",
@@ -2343,6 +2365,8 @@
    "guitarfish-engine",
    "hackerchessbot",
    "halcyonbot",
+   "hardrok",
+   "hiusbot",
    "hodgeybot",
    "honeycombee",
    "honzovy-sachy",
@@ -2370,6 +2394,7 @@
    "kestrelstrike",
    "kirinchessbot",
    "kopyto_dev",
+   "kurganuci",
    "lamprook",
    "laura-bot",
    "leelaalien",
@@ -2382,7 +2407,6 @@
    "leelarookodds",
    "leelatroll",
    "legochess98",
-   "lemuffinbot",
    "leol-bot",
    "likeawizard-bot",
    "lilitbot",
@@ -2442,6 +2466,7 @@
    "neryba",
    "nesbes",
    "neurosocute",
+   "newchessengine-ai",
    "newtsbot",
    "nexastrat",
    "nice_bot",
@@ -2454,6 +2479,7 @@
    "omegazero-bot",
    "overfitted",
    "oxide-eg",
+   "oxydanbot",
    "panic-fish",
    "partner3615diago",
    "patzerbot135",
@@ -2511,7 +2537,6 @@
    "simpleeval",
    "sj_norbot",
    "sleepmindengine",
-   "slothcomputer",
    "slowmate_bot",
    "solobot",
    "southbot",
@@ -2534,6 +2559,7 @@
    "sunfish-engine",
    "sunfish-nnue-engine",
    "sunfish_rs_v2",
+   "supergame5",
    "sxphia",
    "sybaibot",
    "sybbot",
@@ -2550,7 +2576,6 @@
    "timemachine1858",
    "tm-sovietschool",
    "topasbot",
-   "torombot",
    "trainer-bot",
    "trenerhetman",
    "troutbot",
