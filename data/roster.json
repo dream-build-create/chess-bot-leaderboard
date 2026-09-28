@@ -207,7 +207,7 @@
   },
   "blackeventhorizon": {
    "first_seen": "2026-09-27",
-   "last_online": "2026-09-27",
+   "last_online": "2026-09-28",
    "username": "blackEventhorizon"
   },
   "blobfish-bot": {
@@ -1095,6 +1095,11 @@
    "last_online": "2026-09-28",
    "username": "Mac-Bot"
   },
+  "madameengine": {
+   "first_seen": "2026-09-28",
+   "last_online": "2026-09-28",
+   "username": "MadameEngine"
+  },
   "maia1": {
    "first_seen": "2026-09-27",
    "last_online": "2026-09-28",
@@ -1762,7 +1767,7 @@
   },
   "slothcomputer": {
    "first_seen": "2026-09-27",
-   "last_online": "2026-09-27",
+   "last_online": "2026-09-28",
    "username": "SlothComputer"
   },
   "slowmate_bot": {
@@ -2172,7 +2177,7 @@
   }
  },
  "online": {
-  "checked_at": "2026-09-28T08:55:36Z",
+  "checked_at": "2026-09-28T09:56:09Z",
   "ids": [
    "aaronsengine",
    "abcd_engine",
@@ -2208,6 +2213,7 @@
    "bfiedler-bot",
    "bhonduesque",
    "bitbitbot",
+   "blackeventhorizon",
    "blobfish-bot",
    "bluemoonbot",
    "bobby_pcolla",
@@ -2237,7 +2243,6 @@
    "cheng-4",
    "cheng-4-nn",
    "chengine_rookery",
-   "chess-dragon1",
    "chess_set_manager",
    "chessatronbot",
    "chessblight",
@@ -2253,8 +2258,8 @@
    "cizme",
    "classic_bot-v2",
    "classical-leela",
+   "claudyengine",
    "cloudia-chess",
-   "cloudnetbot",
    "clrsrc_lc0",
    "coda_bot",
    "codabot",
@@ -2271,7 +2276,6 @@
    "dala-700",
    "dala-900",
    "darkelectronbot",
-   "darkonbot",
    "darkonweakbot",
    "davidsguterbot",
    "debzero",
@@ -2327,7 +2331,6 @@
    "ilcorvochess",
    "ilovecatgirl",
    "inanisbot",
-   "io-bot",
    "is_boss",
    "itsukitheeater",
    "jackedfish",
@@ -2335,13 +2338,11 @@
    "jangine",
    "jesterchessrobot",
    "jevchessbot",
-   "jibbby",
    "joan_clone",
    "joey_chessengine",
    "josefschessenginebot",
    "joshsbot",
    "jpg-bot",
-   "jurdbird",
    "justbot-v1",
    "kestrelstrike",
    "kirinchessbot",
@@ -2369,6 +2370,7 @@
    "lukebot",
    "lynx_bot",
    "mac-bot",
+   "madameengine",
    "maia1",
    "maia2200_10n",
    "maia3-79m_1000",
@@ -2403,7 +2405,6 @@
    "minibotapi",
    "minibruteforcebot",
    "mithandros",
-   "mochi_bot",
    "morabandbot",
    "mostlyhuman1900",
    "motor-0",
@@ -2427,7 +2428,6 @@
    "notropis",
    "o-rei-cx",
    "omegazero-bot",
-   "openinggenie2000",
    "overfitted",
    "oxide-eg",
    "oxydanbot",
@@ -2449,7 +2449,6 @@
    "plumboi",
    "princessyuribot",
    "prokopakop",
-   "prosperobot",
    "pseudo-0",
    "pseudo-1",
    "puisne",
@@ -2466,7 +2465,6 @@
    "reptilesbedamned",
    "resolutebot",
    "ribfish-bot",
-   "rodent-v",
    "romanticbot",
    "romanticbot2",
    "rotor-bot",
@@ -2491,6 +2489,7 @@
    "simpleeval",
    "sj_norbot",
    "sleepmindengine",
+   "slothcomputer",
    "slowmate_bot",
    "southbot",
    "squarefish-900",
