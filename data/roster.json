@@ -525,6 +525,11 @@
    "last_online": "2026-09-28",
    "username": "ConfidenceBuilder"
   },
+  "consolechessdev": {
+   "first_seen": "2026-09-28",
+   "last_online": "2026-09-28",
+   "username": "ConsoleChessDev"
+  },
   "consolechessfastbot": {
    "first_seen": "2026-09-28",
    "last_online": "2026-09-28",
@@ -654,6 +659,11 @@
    "first_seen": "2026-09-27",
    "last_online": "2026-09-28",
    "username": "Demolito_L5"
+  },
+  "drewschessmachine": {
+   "first_seen": "2026-09-28",
+   "last_online": "2026-09-28",
+   "username": "DrewsChessMachine"
   },
   "duchessai": {
    "first_seen": "2026-09-27",
@@ -1587,7 +1597,7 @@
   },
   "prawn_bot": {
    "first_seen": "2026-09-27",
-   "last_online": "2026-09-27",
+   "last_online": "2026-09-28",
    "username": "prawn_bot"
   },
   "princessyuribot": {
@@ -2000,6 +2010,11 @@
    "last_online": "2026-09-28",
    "username": "TalosBot"
   },
+  "tchessbot": {
+   "first_seen": "2026-09-28",
+   "last_online": "2026-09-28",
+   "username": "TchessBot"
+  },
   "teensycheesy": {
    "first_seen": "2026-09-27",
    "last_online": "2026-09-28",
@@ -2282,9 +2297,8 @@
   }
  },
  "online": {
-  "checked_at": "2026-09-28T19:54:19Z",
+  "checked_at": "2026-09-28T20:55:43Z",
   "ids": [
-   "aaronsengine",
    "aatk_vanguardx",
    "abcd_engine",
    "abdcebot",
@@ -2366,6 +2380,7 @@
    "codabot",
    "colinbot",
    "confidencebuilder",
+   "consolechessdev",
    "consolechessfastbot",
    "cosettebot",
    "croco_bot",
@@ -2391,6 +2406,7 @@
    "demolito_l3",
    "demolito_l4",
    "demolito_l5",
+   "drewschessmachine",
    "duchessai",
    "dumbotai",
    "eclipsebot",
@@ -2406,7 +2422,6 @@
    "falconengine",
    "fataliibot",
    "fathzer-jchess",
-   "fayefish",
    "felipe_bot_53",
    "fenrirbot",
    "flounderbot",
@@ -2437,6 +2452,7 @@
    "inanisbot",
    "is_boss",
    "itsukitheeater",
+   "jackedfish",
    "jacobsbot",
    "jangine",
    "jesterchessrobot",
@@ -2465,7 +2481,6 @@
    "leelarookodds",
    "leelatroll",
    "legochess98",
-   "lemuffinbot",
    "leol-bot",
    "likeawizard-bot",
    "lilitbot",
@@ -2517,12 +2532,12 @@
    "motor-0",
    "mr_sandbar",
    "mrtonnerre",
+   "mxnet-gamemaster",
    "mychessjava",
    "nanozeroorg",
    "nebubot",
    "nerachess",
    "neryba",
-   "nesbes",
    "neurosocute",
    "newtsbot",
    "nexastrat",
@@ -2551,6 +2566,7 @@
    "piglet_engine",
    "playmarius",
    "plumboi",
+   "prawn_bot",
    "princessyuribot",
    "prokopakop",
    "prosperobot",
@@ -2576,8 +2592,6 @@
    "rpibot73",
    "rudim-bot",
    "rust-in-pieces",
-   "sara32222",
-   "sara_bot",
    "sargon-1ply",
    "sargon-2ply",
    "sargon-3ply",
@@ -2618,10 +2632,9 @@
    "sunfish_rs_v2",
    "supergame5",
    "sxphia",
-   "sybaibot",
-   "sybbot",
    "sykorabot",
    "talosbot",
+   "tchessbot",
    "teensycheesy",
    "terconari",
    "thechessblazer",
@@ -2666,7 +2679,6 @@
    "walpurti",
    "wardnbot",
    "weiawaga",
-   "wildorderbot",
    "wolfuhfuhbot",
    "worst-ai",
    "worstfish",
