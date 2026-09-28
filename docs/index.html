@@ -335,9 +335,8 @@
       `at least ${r.min_games} rated games in the category, rating deviation under ${r.max_rd_standard}, ` +
       `and a non-provisional rating. Accounts closed or flagged by Lichess are left out.`;
     const ratings = describeTime(data.generated_at);
-    const online = describeTime(data.online_checked_at);
     document.getElementById("updated").textContent =
-      `Ratings updated ${ratings || data.generated_at}.` + (online ? ` Online status checked ${online}.` : "");
+      `Ratings updated ${ratings || data.generated_at}.`;
   }
 
   // ------------------------------------------------------------ overview
