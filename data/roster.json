@@ -455,6 +455,11 @@
    "last_online": "2026-09-28",
    "username": "classical-leela"
   },
+  "claudyengine": {
+   "first_seen": "2026-09-28",
+   "last_online": "2026-09-28",
+   "username": "ClaudyEngine"
+  },
   "cloudia-chess": {
    "first_seen": "2026-09-27",
    "last_online": "2026-09-28",
@@ -1940,6 +1945,11 @@
    "last_online": "2026-09-28",
    "username": "TopasBot"
   },
+  "torombot": {
+   "first_seen": "2026-09-28",
+   "last_online": "2026-09-28",
+   "username": "ToromBot"
+  },
   "trainer-bot": {
    "first_seen": "2026-09-27",
    "last_online": "2026-09-28",
@@ -2142,7 +2152,7 @@
   }
  },
  "online": {
-  "checked_at": "2026-09-28T04:55:12Z",
+  "checked_at": "2026-09-28T05:53:48Z",
   "ids": [
    "abcd_engine",
    "abdcebot",
@@ -2168,6 +2178,7 @@
    "azzbot",
    "baby_eubos",
    "banerot",
+   "batyarapro",
    "bbc_bot",
    "becela9_kpebetka",
    "berkbot",
@@ -2208,7 +2219,6 @@
    "cheng-4-nn",
    "chengine_rookery",
    "chess-dragon1",
-   "chess3bot",
    "chess_set_manager",
    "chessatronbot",
    "chessblight",
@@ -2222,7 +2232,9 @@
    "chronicgambler",
    "cinder-bot",
    "cizme",
+   "classic_bot-v2",
    "classical-leela",
+   "claudyengine",
    "cloudia-chess",
    "cloudnetbot",
    "clrsrc_lc0",
@@ -2256,7 +2268,6 @@
    "duchessai",
    "dumbotai",
    "eclipsebot",
-   "edwardkillick",
    "eigenmann-chess",
    "elexunix_chess_bot",
    "ellen_replay",
@@ -2283,9 +2294,9 @@
    "goopis",
    "grail-bot",
    "groshboss",
+   "guitarfish-engine",
    "hackerchessbot",
    "halcyonbot",
-   "hiusbot",
    "hodgeybot",
    "honeycombee",
    "honzovy-sachy",
@@ -2359,7 +2370,6 @@
    "maia9_30n",
    "maiatrap",
    "martuni",
-   "mate-in-forty",
    "mate-in-thirty",
    "mate-in-twenty",
    "mate1-bot",
@@ -2389,6 +2399,7 @@
    "neurosocute",
    "newchessengine-ai",
    "nexastrat",
+   "nexosdefos",
    "nice_bot",
    "nilatacbot",
    "nittedal",
@@ -2500,6 +2511,7 @@
    "timemachine1858",
    "tm-sovietschool",
    "topasbot",
+   "torombot",
    "trainer-bot",
    "trenerhetman",
    "troutbot",
