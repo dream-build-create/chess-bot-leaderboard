@@ -244,6 +244,7 @@
   const CATEGORIES = ["bullet", "blitz", "rapid", "classical"];
   const LABELS = { bullet: "Bullet", blitz: "Blitz", rapid: "Rapid", classical: "Classical" };
   const TOP_N = 10;
+  const POLL_MS = 15 * 60 * 1000;   // background refetch while the tab is visible
 
   const COLUMNS = [
     { key: "rank",        label: "#",           num: true,  firstDir:  1 },
@@ -261,6 +262,9 @@
   let data = null;
   let sort = { key: "rank", dir: 1 };
   let query = "";
+  let refreshView = null;   // re-renders the current view's data, keeping its controls
+  let lastFetch = 0;
+  let pollTimer = null;
 
   // ------------------------------------------------------------ helpers
 
@@ -360,6 +364,7 @@
       grid.append(box);
     }
     view.replaceChildren(grid);
+    refreshView = renderOverview;
   }
 
   // ------------------------------------------------------------ category table
@@ -433,6 +438,8 @@
     paintHead();
     renderBody(cat, tbody, wrap);
     view.replaceChildren(el("div", { class: "toolbar" }, tabs, search), wrap);
+    // On new data, redraw only the rows, so the search box keeps focus and text.
+    refreshView = () => renderBody(cat, tbody, wrap);
   }
 
   // ------------------------------------------------------------ routing
@@ -450,11 +457,41 @@
 
   // ------------------------------------------------------------ start
 
+  async function fetchData() {
+    const res = await fetch("data/leaderboard.json", { cache: "no-cache" });
+    if (!res.ok) throw new Error("HTTP " + res.status);
+    return res.json();
+  }
+
+  // Quiet background refresh: keeps the category, sort, search and scroll
+  // position. Failures are ignored and the current data stays on screen.
+  async function poll() {
+    lastFetch = Date.now();
+    try {
+      const fresh = await fetchData();
+      const changed = fresh.schema_version === SUPPORTED_SCHEMA &&
+        (fresh.generated_at !== data.generated_at || fresh.online_checked_at !== data.online_checked_at);
+      if (changed) {
+        data = fresh;
+        if (refreshView) refreshView();
+      }
+    } catch (e) {
+      console.warn("Background refresh failed:", e);
+    }
+    renderHeader();   // keeps the "hours ago" wording current either way
+  }
+
+  function schedulePolling() {
+    clearInterval(pollTimer);
+    if (document.visibilityState !== "visible") return;
+    if (Date.now() - lastFetch >= POLL_MS) poll();
+    pollTimer = setInterval(poll, POLL_MS);
+  }
+
   async function start() {
     try {
-      const res = await fetch("data/leaderboard.json", { cache: "no-cache" });
-      if (!res.ok) throw new Error("HTTP " + res.status);
-      data = await res.json();
+      data = await fetchData();
+      lastFetch = Date.now();
     } catch (e) {
       view.replaceChildren();
       showNotice("error", `The leaderboard data could not be loaded (${e.message}). Reload the page to try again.`);
@@ -471,6 +508,8 @@
     renderHeader();
     route();
     window.addEventListener("hashchange", () => { query = ""; sort = { key: "rank", dir: 1 }; route(); });
+    schedulePolling();
+    document.addEventListener("visibilitychange", schedulePolling);
   }
 
   start();
