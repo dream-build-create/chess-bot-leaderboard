@@ -155,6 +155,11 @@
    "last_online": "2026-09-28",
    "username": "banerot"
   },
+  "battlebornthe2nd": {
+   "first_seen": "2026-09-28",
+   "last_online": "2026-09-28",
+   "username": "BattleBornThe2nd"
+  },
   "batyarapro": {
    "first_seen": "2026-09-27",
    "last_online": "2026-09-28",
@@ -1700,6 +1705,11 @@
    "last_online": "2026-09-28",
    "username": "RedBeanTree"
   },
+  "registerpythonspeed": {
+   "first_seen": "2026-09-28",
+   "last_online": "2026-09-28",
+   "username": "RegisterPythonSpeed"
+  },
   "reptilesbedamned": {
    "first_seen": "2026-09-28",
    "last_online": "2026-09-28",
@@ -1879,6 +1889,11 @@
    "first_seen": "2026-09-27",
    "last_online": "2026-09-28",
    "username": "SouthBot"
+  },
+  "spyros1bot": {
+   "first_seen": "2026-09-28",
+   "last_online": "2026-09-28",
+   "username": "spyros1bot"
   },
   "squarefish-900": {
    "first_seen": "2026-09-27",
@@ -2297,7 +2312,7 @@
   }
  },
  "online": {
-  "checked_at": "2026-09-28T20:55:43Z",
+  "checked_at": "2026-09-28T21:53:29Z",
   "ids": [
    "aatk_vanguardx",
    "abcd_engine",
@@ -2324,6 +2339,7 @@
    "axiom_bot",
    "baby_eubos",
    "banerot",
+   "battlebornthe2nd",
    "bbc_bot",
    "berkbot",
    "bernstein-2ply",
@@ -2350,6 +2366,7 @@
    "bubblebot2",
    "bufffishnet",
    "byte-knight",
+   "c0kval",
    "cannotcheckmateme",
    "capybara_chessbot",
    "casanchess-nnue",
@@ -2360,6 +2377,7 @@
    "cheng-4-nn",
    "chengine_rookery",
    "chess3bot",
+   "chess_set_manager",
    "chessatronbot",
    "chessblight",
    "chesschildren",
@@ -2380,8 +2398,6 @@
    "codabot",
    "colinbot",
    "confidencebuilder",
-   "consolechessdev",
-   "consolechessfastbot",
    "cosettebot",
    "croco_bot",
    "croco_little_bot",
@@ -2434,6 +2450,7 @@
    "goldfish-engine",
    "goopis",
    "grail-bot",
+   "groshboss",
    "hackerchessbot",
    "halcyonbot",
    "hardrok",
@@ -2532,14 +2549,13 @@
    "motor-0",
    "mr_sandbar",
    "mrtonnerre",
-   "mxnet-gamemaster",
    "mychessjava",
    "nanozeroorg",
    "nebubot",
    "nerachess",
    "neryba",
+   "nesbes",
    "neurosocute",
-   "newtsbot",
    "nexastrat",
    "nice_bot",
    "nilatacbot",
@@ -2570,7 +2586,6 @@
    "princessyuribot",
    "prokopakop",
    "prosperobot",
-   "proteinbender",
    "pseudo-0",
    "pseudo-1",
    "puisne",
@@ -2584,6 +2599,7 @@
    "ravenengine",
    "rdtchessbot",
    "redbeantree",
+   "registerpythonspeed",
    "resolutebot",
    "ribfish-bot",
    "rodent-v",
@@ -2592,6 +2608,7 @@
    "rpibot73",
    "rudim-bot",
    "rust-in-pieces",
+   "rustyrival",
    "sargon-1ply",
    "sargon-2ply",
    "sargon-3ply",
@@ -2611,6 +2628,7 @@
    "sleepmindengine",
    "slowmate_bot",
    "southbot",
+   "spyros1bot",
    "squarefish-900",
    "sseh-c",
    "stepbot_chess",
@@ -2633,6 +2651,7 @@
    "supergame5",
    "sxphia",
    "sykorabot",
+   "takticprochess",
    "talosbot",
    "tchessbot",
    "teensycheesy",
