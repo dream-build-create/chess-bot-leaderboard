@@ -1285,6 +1285,11 @@
    "last_online": "2026-09-28",
    "username": "MrTonnerre"
   },
+  "musashi-thebot": {
+   "first_seen": "2026-09-28",
+   "last_online": "2026-09-28",
+   "username": "Musashi-thebot"
+  },
   "mychessjava": {
    "first_seen": "2026-09-27",
    "last_online": "2026-09-28",
@@ -1622,7 +1627,7 @@
   },
   "rotor-bot": {
    "first_seen": "2026-09-27",
-   "last_online": "2026-09-27",
+   "last_online": "2026-09-28",
    "username": "rotor-bot"
   },
   "rpibot73": {
@@ -2137,7 +2142,7 @@
   }
  },
  "online": {
-  "checked_at": "2026-09-28T03:55:05Z",
+  "checked_at": "2026-09-28T04:55:12Z",
   "ids": [
    "abcd_engine",
    "abdcebot",
@@ -2156,7 +2161,6 @@
    "aposeij",
    "arasanx",
    "ariadne-bot",
-   "arkiplayschess",
    "artidigm_research",
    "ashnostromo",
    "atari-video-chess",
@@ -2166,7 +2170,6 @@
    "banerot",
    "bbc_bot",
    "becela9_kpebetka",
-   "beelzebubzero",
    "berkbot",
    "bernstein-2ply",
    "bernstein-4ply",
@@ -2206,6 +2209,7 @@
    "chengine_rookery",
    "chess-dragon1",
    "chess3bot",
+   "chess_set_manager",
    "chessatronbot",
    "chessblight",
    "chesschildren",
@@ -2273,7 +2277,6 @@
    "garbobot",
    "georgii_ai",
    "geotsibot",
-   "ghidorah_x",
    "gnupassant",
    "gokubot",
    "goldfish-engine",
@@ -2282,7 +2285,6 @@
    "groshboss",
    "hackerchessbot",
    "halcyonbot",
-   "hardrok",
    "hiusbot",
    "hodgeybot",
    "honeycombee",
@@ -2362,7 +2364,6 @@
    "mate-in-twenty",
    "mate1-bot",
    "matmoi",
-   "matrixengine",
    "mayflyengine",
    "mcdonalds1955",
    "mchess-engine",
@@ -2378,6 +2379,7 @@
    "motor-0",
    "mr_sandbar",
    "mrtonnerre",
+   "musashi-thebot",
    "mychessjava",
    "nanozeroorg",
    "nebubot",
@@ -2433,12 +2435,12 @@
    "ravenengine",
    "rdtchessbot",
    "redbeantree",
-   "reptilesbedamned",
    "resolutebot",
    "ribfish-bot",
    "rodent-v",
    "romanticbot",
    "romanticbot2",
+   "rotor-bot",
    "rpibot73",
    "rudim-bot",
    "rust-in-pieces",
@@ -2493,6 +2495,7 @@
    "thunfisch-bot",
    "tidymazebot",
    "tigrament",
+   "tikifish",
    "tilapiabot",
    "timemachine1858",
    "tm-sovietschool",
