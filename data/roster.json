@@ -397,7 +397,7 @@
   },
   "chaotong_engine": {
    "first_seen": "2026-09-28",
-   "last_online": "2026-09-28",
+   "last_online": "2026-09-29",
    "username": "Chaotong_engine"
   },
   "charibot": {
@@ -1084,6 +1084,11 @@
    "first_seen": "2026-09-29",
    "last_online": "2026-09-29",
    "username": "KiyEngine"
+  },
+  "kobal11": {
+   "first_seen": "2026-09-29",
+   "last_online": "2026-09-29",
+   "username": "Kobal11"
   },
   "kopyto_dev": {
    "first_seen": "2026-09-27",
@@ -2127,7 +2132,7 @@
   },
   "the_baronet": {
    "first_seen": "2026-09-28",
-   "last_online": "2026-09-28",
+   "last_online": "2026-09-29",
    "username": "The_Baronet"
   },
   "thechessblazer": {
@@ -2402,7 +2407,7 @@
   }
  },
  "online": {
-  "checked_at": "2026-09-29T05:54:55Z",
+  "checked_at": "2026-09-29T06:58:31Z",
   "ids": [
    "aatk_vanguardx",
    "abcd_engine",
@@ -2420,7 +2425,6 @@
    "annie_archy",
    "anti-bot",
    "aposeij",
-   "arasanx",
    "ariadne-bot",
    "artidigm_research",
    "ashnostromo",
@@ -2467,12 +2471,12 @@
    "casanchess-nnue",
    "catnail",
    "catriever",
+   "chaotong_engine",
    "charibot",
    "cheng-4",
    "cheng-4-nn",
    "chengine_rookery",
    "chess-dragon1",
-   "chess3bot",
    "chess_set_manager",
    "chessatronbot",
    "chessblight",
@@ -2511,11 +2515,9 @@
    "dala-700",
    "dala-900",
    "darkelectronbot",
-   "darkonbot",
    "darkonweakbot",
    "davidsguterbot",
    "debzero",
-   "deepbecky",
    "deepsquare-ai",
    "demen100ns-bot",
    "demolito_l1",
@@ -2585,6 +2587,7 @@
    "kestrelstrike",
    "kirinchessbot",
    "kiyengine",
+   "kobal11",
    "kopyto_dev",
    "lamprook",
    "larryz-alterego",
@@ -2599,7 +2602,6 @@
    "leelarookodds",
    "leelatroll",
    "legochess98",
-   "lemuffinbot",
    "leol-bot",
    "likeawizard-bot",
    "lilitbot",
@@ -2764,6 +2766,7 @@
    "talosbot",
    "teensycheesy",
    "terconari",
+   "the_baronet",
    "thechessblazer",
    "throrbjorn",
    "thunfisch-bot",
