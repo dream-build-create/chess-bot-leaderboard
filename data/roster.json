@@ -175,6 +175,11 @@
    "last_online": "2026-09-29",
    "username": "BattleBornThe4th"
   },
+  "battlebornthe5th": {
+   "first_seen": "2026-09-29",
+   "last_online": "2026-09-29",
+   "username": "BattleBornThe5th"
+  },
   "batyarapro": {
    "first_seen": "2026-09-27",
    "last_online": "2026-09-29",
@@ -512,7 +517,7 @@
   },
   "classical-leela": {
    "first_seen": "2026-09-27",
-   "last_online": "2026-09-28",
+   "last_online": "2026-09-29",
    "username": "classical-leela"
   },
   "claudyengine": {
@@ -847,7 +852,7 @@
   },
   "georgii_ai": {
    "first_seen": "2026-09-28",
-   "last_online": "2026-09-28",
+   "last_online": "2026-09-29",
    "username": "georgii_ai"
   },
   "geotsibot": {
@@ -2382,7 +2387,7 @@
   }
  },
  "online": {
-  "checked_at": "2026-09-29T01:54:08Z",
+  "checked_at": "2026-09-29T02:53:54Z",
   "ids": [
    "aatk_vanguardx",
    "abcd_engine",
@@ -2412,11 +2417,11 @@
    "baby_eubos",
    "banerot",
    "battlebornthe4th",
+   "battlebornthe5th",
    "batyarapro",
    "bbc_bot",
    "beastie1",
    "becela9_kpebetka",
-   "beelzebubzero",
    "berkbot",
    "bernstein-2ply",
    "bernstein-4ply",
@@ -2472,6 +2477,7 @@
    "cinder-bot",
    "cizme",
    "classic_bot-v2",
+   "classical-leela",
    "claudyengine",
    "cloudia-chess",
    "cloudnetbot",
@@ -2526,14 +2532,13 @@
    "flounderbot",
    "flybrainchess",
    "garbobot",
+   "georgii_ai",
    "geotsibot",
    "ghidorah_x",
    "gnupassant",
-   "gokubot",
    "goldfish-engine",
    "goopis",
    "grail-bot",
-   "groshboss",
    "hackerchessbot",
    "halcyonbot",
    "hardrok",
@@ -2553,7 +2558,6 @@
    "io-bot",
    "is_boss",
    "itsukitheeater",
-   "jackedfish",
    "jacobsbot",
    "jangine",
    "jesterchessrobot",
@@ -2732,17 +2736,13 @@
    "studyloversz-bot",
    "stupidchessrobot",
    "stupidfishbotbydscs",
-   "styx_reckless",
    "subnorbot",
    "sunfish-engine",
    "sunfish-nnue-engine",
    "sunfish_rs_v2",
    "supergame5",
    "sxphia",
-   "sybaibot",
-   "sybbot",
    "sykorabot",
-   "takticprochess",
    "talosbot",
    "teensycheesy",
    "terconari",
@@ -2789,7 +2789,6 @@
    "walpurti",
    "wardnbot",
    "weiawaga",
-   "weledar-bot",
    "wolfuhfuhbot",
    "worst-ai",
    "worstfish",
