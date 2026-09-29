@@ -562,12 +562,12 @@
   },
   "consolechessdev": {
    "first_seen": "2026-09-28",
-   "last_online": "2026-09-28",
+   "last_online": "2026-09-29",
    "username": "ConsoleChessDev"
   },
   "consolechessfastbot": {
    "first_seen": "2026-09-28",
-   "last_online": "2026-09-28",
+   "last_online": "2026-09-29",
    "username": "ConsoleChessFastBot"
   },
   "cookiebot711": {
@@ -699,6 +699,11 @@
    "first_seen": "2026-09-27",
    "last_online": "2026-09-29",
    "username": "Demolito_L5"
+  },
+  "dgtrychess": {
+   "first_seen": "2026-09-29",
+   "last_online": "2026-09-29",
+   "username": "dgtrychess"
   },
   "drewschessmachine": {
    "first_seen": "2026-09-28",
@@ -1075,6 +1080,11 @@
    "last_online": "2026-09-29",
    "username": "KirinChessBot"
   },
+  "kiyengine": {
+   "first_seen": "2026-09-29",
+   "last_online": "2026-09-29",
+   "username": "KiyEngine"
+  },
   "kopyto_dev": {
    "first_seen": "2026-09-27",
    "last_online": "2026-09-29",
@@ -1442,7 +1452,7 @@
   },
   "musashi-thebot": {
    "first_seen": "2026-09-28",
-   "last_online": "2026-09-28",
+   "last_online": "2026-09-29",
    "username": "Musashi-thebot"
   },
   "mxnet-gamemaster": {
@@ -1644,6 +1654,11 @@
    "first_seen": "2026-09-27",
    "last_online": "2026-09-29",
    "username": "pi0w"
+  },
+  "piebot": {
+   "first_seen": "2026-09-29",
+   "last_online": "2026-09-29",
+   "username": "PieBot"
   },
   "piglet_engine": {
    "first_seen": "2026-09-27",
@@ -2387,7 +2402,7 @@
   }
  },
  "online": {
-  "checked_at": "2026-09-29T03:55:03Z",
+  "checked_at": "2026-09-29T04:55:34Z",
   "ids": [
    "aatk_vanguardx",
    "abcd_engine",
@@ -2411,16 +2426,12 @@
    "ashnostromo",
    "ask-aatk-bot",
    "atari-video-chess",
-   "atomicenginev1",
    "axiom_bot",
    "azzbot",
    "baby_eubos",
    "banerot",
-   "battlebornthe4th",
-   "battlebornthe5th",
    "batyarapro",
    "bbc_bot",
-   "beastie1",
    "becela9_kpebetka",
    "berkbot",
    "bernstein-2ply",
@@ -2450,7 +2461,6 @@
    "bubblebot2",
    "bufffishnet",
    "byte-knight",
-   "calico1",
    "cannotcheckmateme",
    "capybara_chessbot",
    "casanchess-nnue",
@@ -2484,6 +2494,8 @@
    "codabot",
    "colinbot",
    "confidencebuilder",
+   "consolechessdev",
+   "consolechessfastbot",
    "cookiebot711",
    "cosettebot",
    "croco_bot",
@@ -2509,11 +2521,10 @@
    "demolito_l3",
    "demolito_l4",
    "demolito_l5",
-   "drewschessmachine",
+   "dgtrychess",
    "duchessai",
    "dumbotai",
    "eclipsebot",
-   "edwardkillick",
    "eigenmann-chess",
    "ellen_replay",
    "elmichess",
@@ -2525,7 +2536,6 @@
    "falconengine",
    "fataliibot",
    "fathzer-jchess",
-   "fayefish",
    "felipe_bot_53",
    "fenrirbot",
    "flounderbot",
@@ -2533,13 +2543,14 @@
    "garbobot",
    "georgii_ai",
    "geotsibot",
+   "ghidorah_x",
    "gnupassant",
    "goldfish-engine",
    "goopis",
    "grail-bot",
+   "groshboss",
    "hackerchessbot",
    "halcyonbot",
-   "hardrok",
    "hiusbot",
    "hodgeybot",
    "honeycombee",
@@ -2570,6 +2581,7 @@
    "justbot-v1",
    "kestrelstrike",
    "kirinchessbot",
+   "kiyengine",
    "kopyto_dev",
    "lamprook",
    "larryz-alterego",
@@ -2635,6 +2647,7 @@
    "motor-0",
    "mr_sandbar",
    "mrtonnerre",
+   "musashi-thebot",
    "mychessjava",
    "nanozeroorg",
    "nebubot",
@@ -2653,8 +2666,6 @@
    "notropis",
    "o-rei-cx",
    "omegazero-bot",
-   "openinggenie2000",
-   "osaurus",
    "overfitted",
    "oxide-eg",
    "oxydanbot",
@@ -2670,6 +2681,7 @@
    "phalanx-xxv",
    "philidor-142m",
    "pi0w",
+   "piebot",
    "piglet_engine",
    "playmarius",
    "plumboi",
@@ -2742,7 +2754,10 @@
    "sunfish_rs_v2",
    "supergame5",
    "sxphia",
+   "sybaibot",
+   "sybbot",
    "sykorabot",
+   "takticprochess",
    "talosbot",
    "teensycheesy",
    "terconari",
