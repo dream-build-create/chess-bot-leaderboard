@@ -172,7 +172,7 @@
   },
   "battlebornthe4th": {
    "first_seen": "2026-09-28",
-   "last_online": "2026-09-28",
+   "last_online": "2026-09-29",
    "username": "BattleBornThe4th"
   },
   "batyarapro": {
@@ -184,6 +184,11 @@
    "first_seen": "2026-09-27",
    "last_online": "2026-09-29",
    "username": "bbc_bot"
+  },
+  "beastie1": {
+   "first_seen": "2026-09-29",
+   "last_online": "2026-09-29",
+   "username": "beastie1"
   },
   "becela9_kpebetka": {
    "first_seen": "2026-09-27",
@@ -354,6 +359,11 @@
    "first_seen": "2026-09-27",
    "last_online": "2026-09-29",
    "username": "C0kval"
+  },
+  "calico1": {
+   "first_seen": "2026-09-29",
+   "last_online": "2026-09-29",
+   "username": "calico1"
   },
   "cannotcheckmateme": {
    "first_seen": "2026-09-27",
@@ -1507,7 +1517,7 @@
   },
   "noabot": {
    "first_seen": "2026-09-27",
-   "last_online": "2026-09-28",
+   "last_online": "2026-09-29",
    "username": "NoaBot"
   },
   "noel-bot": {
@@ -1534,6 +1544,11 @@
    "first_seen": "2026-09-27",
    "last_online": "2026-09-29",
    "username": "OpeningGenie2000"
+  },
+  "osaurus": {
+   "first_seen": "2026-09-29",
+   "last_online": "2026-09-29",
+   "username": "OSaurus"
   },
   "overfitted": {
    "first_seen": "2026-09-27",
@@ -1687,7 +1702,7 @@
   },
   "queensgambot": {
    "first_seen": "2026-09-27",
-   "last_online": "2026-09-28",
+   "last_online": "2026-09-29",
    "username": "QueensGamBOT"
   },
   "r0bspierre": {
@@ -2052,12 +2067,12 @@
   },
   "sybaibot": {
    "first_seen": "2026-09-27",
-   "last_online": "2026-09-28",
+   "last_online": "2026-09-29",
    "username": "SybAIBot"
   },
   "sybbot": {
    "first_seen": "2026-09-27",
-   "last_online": "2026-09-28",
+   "last_online": "2026-09-29",
    "username": "SybBot"
   },
   "sykorabot": {
@@ -2367,7 +2382,7 @@
   }
  },
  "online": {
-  "checked_at": "2026-09-29T00:58:28Z",
+  "checked_at": "2026-09-29T01:54:08Z",
   "ids": [
    "aatk_vanguardx",
    "abcd_engine",
@@ -2396,9 +2411,10 @@
    "axiom_bot",
    "baby_eubos",
    "banerot",
-   "battlebornthe3rd",
+   "battlebornthe4th",
    "batyarapro",
    "bbc_bot",
+   "beastie1",
    "becela9_kpebetka",
    "beelzebubzero",
    "berkbot",
@@ -2430,6 +2446,7 @@
    "bufffishnet",
    "byte-knight",
    "c0kval",
+   "calico1",
    "cannotcheckmateme",
    "capybara_chessbot",
    "casanchess-nnue",
@@ -2628,11 +2645,13 @@
    "nice_bot",
    "nilatacbot",
    "nittedal",
+   "noabot",
    "noel-bot",
    "notropis",
    "o-rei-cx",
    "omegazero-bot",
    "openinggenie2000",
+   "osaurus",
    "overfitted",
    "oxide-eg",
    "oxydanbot",
@@ -2658,6 +2677,7 @@
    "pseudo-1",
    "puisne",
    "pzchessbot",
+   "queensgambot",
    "r0bspierre",
    "radianceengine",
    "raspfish",
@@ -2719,6 +2739,8 @@
    "sunfish_rs_v2",
    "supergame5",
    "sxphia",
+   "sybaibot",
+   "sybbot",
    "sykorabot",
    "takticprochess",
    "talosbot",
