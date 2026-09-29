@@ -2,7 +2,7 @@
  "bots": {
   "aaronsengine": {
    "first_seen": "2026-09-27",
-   "last_online": "2026-09-28",
+   "last_online": "2026-09-29",
    "username": "AaronsEngine"
   },
   "aatk_vanguardx": {
@@ -54,6 +54,11 @@
    "first_seen": "2026-09-27",
    "last_online": "2026-09-29",
    "username": "ailedbot"
+  },
+  "ajedrezchamberi": {
+   "first_seen": "2026-09-29",
+   "last_online": "2026-09-29",
+   "username": "AjedrezChamberi"
   },
   "aliceshiro": {
    "first_seen": "2026-09-27",
@@ -365,6 +370,11 @@
    "last_online": "2026-09-29",
    "username": "C0kval"
   },
+  "caissa-x": {
+   "first_seen": "2026-09-29",
+   "last_online": "2026-09-29",
+   "username": "caissa-x"
+  },
   "calico1": {
    "first_seen": "2026-09-29",
    "last_online": "2026-09-29",
@@ -394,6 +404,11 @@
    "first_seen": "2026-09-27",
    "last_online": "2026-09-29",
    "username": "catriever"
+  },
+  "chamberiajedrez": {
+   "first_seen": "2026-09-29",
+   "last_online": "2026-09-29",
+   "username": "ChamberiAjedrez"
   },
   "chaotong_engine": {
    "first_seen": "2026-09-28",
@@ -582,7 +597,7 @@
   },
   "crapbot": {
    "first_seen": "2026-09-28",
-   "last_online": "2026-09-28",
+   "last_online": "2026-09-29",
    "username": "crapBot"
   },
   "croco_bot": {
@@ -757,7 +772,7 @@
   },
   "endspiel-engine": {
    "first_seen": "2026-09-27",
-   "last_online": "2026-09-27",
+   "last_online": "2026-09-29",
    "username": "endspiel-engine"
   },
   "endspiel-pi": {
@@ -837,7 +852,7 @@
   },
   "fpga-chess": {
    "first_seen": "2026-09-28",
-   "last_online": "2026-09-28",
+   "last_online": "2026-09-29",
    "username": "fpga-chess"
   },
   "gambitonlybot": {
@@ -877,7 +892,7 @@
   },
   "goblinajedrezai": {
    "first_seen": "2026-09-28",
-   "last_online": "2026-09-28",
+   "last_online": "2026-09-29",
    "username": "GoblinAjedrezAI"
   },
   "gokubot": {
@@ -909,6 +924,11 @@
    "first_seen": "2026-09-27",
    "last_online": "2026-09-29",
    "username": "GroshBoss"
+  },
+  "grzechu86": {
+   "first_seen": "2026-09-29",
+   "last_online": "2026-09-29",
+   "username": "Grzechu86"
   },
   "guitarfish-engine": {
    "first_seen": "2026-09-28",
@@ -1517,7 +1537,7 @@
   },
   "newtsbot": {
    "first_seen": "2026-09-27",
-   "last_online": "2026-09-28",
+   "last_online": "2026-09-29",
    "username": "NEWTSbot"
   },
   "nexastrat": {
@@ -2422,8 +2442,9 @@
   }
  },
  "online": {
-  "checked_at": "2026-09-29T07:55:42Z",
+  "checked_at": "2026-09-29T08:56:03Z",
   "ids": [
+   "aaronsengine",
    "aatk_vanguardx",
    "abcd_engine",
    "abdcebot",
@@ -2433,6 +2454,7 @@
    "aggressivestockfish",
    "ai-con",
    "ailedbot",
+   "ajedrezchamberi",
    "aliceshiro",
    "andobot",
    "angela_eng",
@@ -2472,7 +2494,6 @@
    "bot_adario",
    "bot_stockfish13",
    "botchessbot",
-   "bothev",
    "bothev2",
    "bottios",
    "botvunnix",
@@ -2481,11 +2502,13 @@
    "bufffishnet",
    "byte-knight",
    "c0kval",
+   "caissa-x",
    "cannotcheckmateme",
    "capybara_chessbot",
    "casanchess-nnue",
    "catnail",
    "catriever",
+   "chamberiajedrez",
    "chaotong_engine",
    "charibot",
    "cheng-4",
@@ -2515,10 +2538,9 @@
    "codabot",
    "colinbot",
    "confidencebuilder",
-   "consolechessdev",
-   "consolechessfastbot",
    "cookiebot711",
    "cosettebot",
+   "crapbot",
    "croco_bot",
    "croco_little_bot",
    "crocodile_bot",
@@ -2549,6 +2571,7 @@
    "eigenmann-chess",
    "ellen_replay",
    "elmichess",
+   "endspiel-engine",
    "endspiel-pi",
    "enjoyably3303",
    "entebot",
@@ -2562,15 +2585,17 @@
    "fenrirbot",
    "flounderbot",
    "flybrainchess",
+   "fpga-chess",
    "garbobot",
    "georgii_ai",
    "geotsibot",
    "gnupassant",
+   "goblinajedrezai",
    "goldfish-engine",
-   "goldinho1bot",
    "goopis",
    "grail-bot",
    "groshboss",
+   "grzechu86",
    "hackerchessbot",
    "halcyonbot",
    "hiusbot",
@@ -2590,7 +2615,6 @@
    "is_boss",
    "iskelt-corax",
    "itsukitheeater",
-   "jackedfish",
    "jacobsbot",
    "jangine",
    "jesterchessrobot",
@@ -2609,7 +2633,6 @@
    "lamprook",
    "larryz-alterego",
    "laura-bot",
-   "leelaalien",
    "leelajester",
    "leelaknightodds",
    "leelapieceodds",
@@ -2678,6 +2701,7 @@
    "nesbes",
    "neurosocute",
    "newchessengine-ai",
+   "newtsbot",
    "nexastrat",
    "nexosdefos",
    "nice_bot",
@@ -2728,7 +2752,6 @@
    "reptilesbedamned",
    "resolutebot",
    "ribfish-bot",
-   "rodent-v",
    "romanticbot",
    "romanticbot2",
    "rpibot73",
@@ -2754,7 +2777,6 @@
    "sleepmindengine",
    "slothcomputer",
    "slowmate_bot",
-   "solidor59",
    "southbot",
    "squarefish-900",
    "sseh-c",
@@ -2826,7 +2848,6 @@
    "voigtsbach",
    "walleye_bot",
    "walpurti",
-   "wardnbot",
    "weiawaga",
    "wolfuhfuhbot",
    "worst-ai",
