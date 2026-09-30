@@ -270,6 +270,11 @@
    "last_online": "2026-09-30",
    "username": "BlueMoonBot"
   },
+  "blujay-bot": {
+   "first_seen": "2026-09-30",
+   "last_online": "2026-09-30",
+   "username": "Blujay-bot"
+  },
   "bobby_pcolla": {
    "first_seen": "2026-09-27",
    "last_online": "2026-09-30",
@@ -1922,7 +1927,7 @@
   },
   "reptilesbedamned": {
    "first_seen": "2026-09-28",
-   "last_online": "2026-09-29",
+   "last_online": "2026-09-30",
    "username": "ReptilesBeDamned"
   },
   "resolutebot": {
@@ -2342,7 +2347,7 @@
   },
   "torombot": {
    "first_seen": "2026-09-28",
-   "last_online": "2026-09-28",
+   "last_online": "2026-09-30",
    "username": "ToromBot"
   },
   "trainer-bot": {
@@ -2567,7 +2572,7 @@
   }
  },
  "online": {
-  "checked_at": "2026-09-30T04:55:49Z",
+  "checked_at": "2026-09-30T05:54:56Z",
   "ids": [
    "aatk_vanguardx",
    "abcd_engine",
@@ -2595,6 +2600,7 @@
    "azzbot",
    "baby_eubos",
    "banerot",
+   "batyarapro",
    "bbc_bot",
    "becela9_kpebetka",
    "berkbot",
@@ -2606,6 +2612,7 @@
    "bitbitbot",
    "blobfish-bot",
    "bluemoonbot",
+   "blujay-bot",
    "bobby_pcolla",
    "bongaclang",
    "boris-trapsky",
@@ -2649,7 +2656,9 @@
    "chronicgambler",
    "cinder-bot",
    "cizme",
+   "classic_bot-v2",
    "classical-leela",
+   "claudyengine",
    "cloudia-chess",
    "cloudnetbot",
    "clrsrc_lc0",
@@ -2660,7 +2669,6 @@
    "consolechessdev",
    "consolechessfastbot",
    "cookiebot711",
-   "cosettebot",
    "croco_bot",
    "croco_little_bot",
    "crocodile_bot",
@@ -2699,13 +2707,13 @@
    "falconengine",
    "fataliibot",
    "fathzer-jchess",
+   "fayefish",
    "felipe_bot_53",
    "fenrirbot",
    "flounderbot",
    "flybrainchess",
    "fpga-chess",
    "garbobot",
-   "gbot113",
    "geotsibot",
    "gnupassant",
    "goldfish-engine",
@@ -2719,6 +2727,7 @@
    "holidaybot1225",
    "honzovy-sachy",
    "honzovy-sachy-2",
+   "hummus-bot",
    "hustler_2mb",
    "hynobiuschess",
    "hyperopic",
@@ -2726,7 +2735,6 @@
    "icarus-bot",
    "ilcorvochess",
    "ilovecatgirl",
-   "inanisbot",
    "io-bot",
    "is_boss",
    "iskelt-corax",
@@ -2752,7 +2760,6 @@
    "latrunculi-bot",
    "laura-bot",
    "leelaalien",
-   "leelachesstest",
    "leelajester",
    "leelaknightodds",
    "leelapieceodds",
@@ -2762,7 +2769,6 @@
    "leelarookodds",
    "leelatroll",
    "legochess98",
-   "lemuffinbot",
    "likeawizard-bot",
    "lilitbot",
    "linenetbot",
@@ -2824,6 +2830,7 @@
    "neurosocute",
    "newchessengine-ai",
    "nexastrat",
+   "nexosdefos",
    "nice_bot",
    "nickdrohan",
    "nilatacbot",
@@ -2870,6 +2877,7 @@
    "rdtchessbot",
    "redbeantree",
    "registerpythonspeed",
+   "reptilesbedamned",
    "resolutebot",
    "ribfish-bot",
    "romanticbot",
@@ -2915,6 +2923,8 @@
    "sunfish_rs_v2",
    "supergame5",
    "sxphia",
+   "sybaibot",
+   "sybbot",
    "sykorabot",
    "takticprochess",
    "talosbot",
@@ -2930,6 +2940,7 @@
    "timemachine1858",
    "tm-sovietschool",
    "topasbot",
+   "torombot",
    "trainer-bot",
    "trenerhetman",
    "troutbot",
