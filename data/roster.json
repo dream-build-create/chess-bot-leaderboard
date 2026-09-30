@@ -287,7 +287,7 @@
   },
   "borkatower": {
    "first_seen": "2026-09-27",
-   "last_online": "2026-09-29",
+   "last_online": "2026-09-30",
    "username": "BorkaTower"
   },
   "bot-o-tron": {
@@ -877,7 +877,7 @@
   },
   "fpga-chess": {
    "first_seen": "2026-09-28",
-   "last_online": "2026-09-29",
+   "last_online": "2026-09-30",
    "username": "fpga-chess"
   },
   "gambitonlybot": {
@@ -1199,6 +1199,11 @@
    "first_seen": "2026-09-27",
    "last_online": "2026-09-30",
    "username": "larryz-alterego"
+  },
+  "latrunculi-bot": {
+   "first_seen": "2026-09-30",
+   "last_online": "2026-09-30",
+   "username": "latrunculi-bot"
   },
   "laura-bot": {
    "first_seen": "2026-09-27",
@@ -1697,7 +1702,7 @@
   },
   "oxybullet": {
    "first_seen": "2026-09-29",
-   "last_online": "2026-09-29",
+   "last_online": "2026-09-30",
    "username": "Oxybullet"
   },
   "oxydanbot": {
@@ -2557,7 +2562,7 @@
   }
  },
  "online": {
-  "checked_at": "2026-09-30T02:55:01Z",
+  "checked_at": "2026-09-30T03:55:22Z",
   "ids": [
    "aatk_vanguardx",
    "abcd_engine",
@@ -2577,12 +2582,10 @@
    "aposeij",
    "arasanx",
    "ariadne-bot",
-   "arthurai",
    "artidigm_research",
    "ashnostromo",
    "ask-aatk-bot",
    "atari-video-chess",
-   "atomicenginev1",
    "axiom_bot",
    "azzbot",
    "baby_eubos",
@@ -2590,7 +2593,6 @@
    "batyarapro",
    "bbc_bot",
    "becela9_kpebetka",
-   "beelzebubzero",
    "berkbot",
    "bernstein-2ply",
    "bernstein-4ply",
@@ -2603,6 +2605,7 @@
    "bobby_pcolla",
    "bongaclang",
    "boris-trapsky",
+   "borkatower",
    "bot1e",
    "bot1nokk",
    "bot5551",
@@ -2645,7 +2648,6 @@
    "cizme",
    "classic_bot-v2",
    "classical-leela",
-   "claudyengine",
    "cloudia-chess",
    "cloudnetbot",
    "clrsrc_lc0",
@@ -2659,7 +2661,6 @@
    "croco_little_bot",
    "crocodile_bot",
    "cutebot",
-   "daisy-bot",
    "dala-1100",
    "dala-1300",
    "dala-1600",
@@ -2694,11 +2695,11 @@
    "falconengine",
    "fataliibot",
    "fathzer-jchess",
-   "fayefish",
    "felipe_bot_53",
    "fenrirbot",
    "flounderbot",
    "flybrainchess",
+   "fpga-chess",
    "garbobot",
    "gbot113",
    "geotsibot",
@@ -2747,6 +2748,7 @@
    "kulubot",
    "lamprook",
    "larryz-alterego",
+   "latrunculi-bot",
    "laura-bot",
    "leelaalien",
    "leelajester",
@@ -2831,6 +2833,7 @@
    "openinggenie2000",
    "overfitted",
    "oxide-eg",
+   "oxybullet",
    "oxydanbot",
    "panic-fish",
    "patzerbot135",
@@ -2911,8 +2914,6 @@
    "sunfish_rs_v2",
    "supergame5",
    "sxphia",
-   "sybaibot",
-   "sybbot",
    "sykorabot",
    "takticprochess",
    "talosbot",
@@ -2923,7 +2924,6 @@
    "thunfisch-bot",
    "tidymazebot",
    "tigrament",
-   "tikifish",
    "tilapiabot",
    "timemachine1858",
    "tm-sovietschool",
