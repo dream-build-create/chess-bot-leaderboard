@@ -592,12 +592,12 @@
   },
   "consolechessdev": {
    "first_seen": "2026-09-28",
-   "last_online": "2026-09-29",
+   "last_online": "2026-09-30",
    "username": "ConsoleChessDev"
   },
   "consolechessfastbot": {
    "first_seen": "2026-09-28",
-   "last_online": "2026-09-29",
+   "last_online": "2026-09-30",
    "username": "ConsoleChessFastBot"
   },
   "cookiebot711": {
@@ -1220,6 +1220,11 @@
    "last_online": "2026-09-30",
    "username": "LeelaAlien"
   },
+  "leelachesstest": {
+   "first_seen": "2026-09-30",
+   "last_online": "2026-09-30",
+   "username": "LeelaChessTest"
+  },
   "leelajester": {
    "first_seen": "2026-09-28",
    "last_online": "2026-09-30",
@@ -1567,7 +1572,7 @@
   },
   "musashi-thebot": {
    "first_seen": "2026-09-28",
-   "last_online": "2026-09-29",
+   "last_online": "2026-09-30",
    "username": "Musashi-thebot"
   },
   "mxnet-gamemaster": {
@@ -2482,7 +2487,7 @@
   },
   "void_bot": {
    "first_seen": "2026-09-29",
-   "last_online": "2026-09-29",
+   "last_online": "2026-09-30",
    "username": "Void_Bot"
   },
   "voigtsbach": {
@@ -2562,7 +2567,7 @@
   }
  },
  "online": {
-  "checked_at": "2026-09-30T03:55:22Z",
+  "checked_at": "2026-09-30T04:55:49Z",
   "ids": [
    "aatk_vanguardx",
    "abcd_engine",
@@ -2590,7 +2595,6 @@
    "azzbot",
    "baby_eubos",
    "banerot",
-   "batyarapro",
    "bbc_bot",
    "becela9_kpebetka",
    "berkbot",
@@ -2605,7 +2609,6 @@
    "bobby_pcolla",
    "bongaclang",
    "boris-trapsky",
-   "borkatower",
    "bot1e",
    "bot1nokk",
    "bot5551",
@@ -2646,7 +2649,6 @@
    "chronicgambler",
    "cinder-bot",
    "cizme",
-   "classic_bot-v2",
    "classical-leela",
    "cloudia-chess",
    "cloudnetbot",
@@ -2655,6 +2657,8 @@
    "codabot",
    "colinbot",
    "confidencebuilder",
+   "consolechessdev",
+   "consolechessfastbot",
    "cookiebot711",
    "cosettebot",
    "croco_bot",
@@ -2710,13 +2714,11 @@
    "groshboss",
    "hackerchessbot",
    "halcyonbot",
-   "hardrok",
    "hiusbot",
    "hodgeybot",
    "holidaybot1225",
    "honzovy-sachy",
    "honzovy-sachy-2",
-   "hummus-bot",
    "hustler_2mb",
    "hynobiuschess",
    "hyperopic",
@@ -2743,7 +2745,6 @@
    "justbot-v1",
    "kestrelstrike",
    "kirinchessbot",
-   "kiyengine",
    "kopyto_dev",
    "kulubot",
    "lamprook",
@@ -2751,6 +2752,7 @@
    "latrunculi-bot",
    "laura-bot",
    "leelaalien",
+   "leelachesstest",
    "leelajester",
    "leelaknightodds",
    "leelapieceodds",
@@ -2812,6 +2814,7 @@
    "motor-0",
    "mr_sandbar",
    "mrtonnerre",
+   "musashi-thebot",
    "mychessjava",
    "nanozeroorg",
    "nebubot",
@@ -2821,7 +2824,6 @@
    "neurosocute",
    "newchessengine-ai",
    "nexastrat",
-   "nexosdefos",
    "nice_bot",
    "nickdrohan",
    "nilatacbot",
@@ -2833,7 +2835,6 @@
    "openinggenie2000",
    "overfitted",
    "oxide-eg",
-   "oxybullet",
    "oxydanbot",
    "panic-fish",
    "patzerbot135",
@@ -2924,6 +2925,7 @@
    "thunfisch-bot",
    "tidymazebot",
    "tigrament",
+   "tikifish",
    "tilapiabot",
    "timemachine1858",
    "tm-sovietschool",
@@ -2955,6 +2957,7 @@
    "vidbot",
    "vietnamesecoffee",
    "virutor",
+   "void_bot",
    "voigtsbach",
    "walleye_bot",
    "walpurti",
