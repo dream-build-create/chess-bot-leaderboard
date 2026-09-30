@@ -1632,7 +1632,7 @@
   },
   "newtsbot": {
    "first_seen": "2026-09-27",
-   "last_online": "2026-09-29",
+   "last_online": "2026-09-30",
    "username": "NEWTSbot"
   },
   "nexastrat": {
@@ -1994,6 +1994,11 @@
    "first_seen": "2026-09-27",
    "last_online": "2026-09-30",
    "username": "RustyRival"
+  },
+  "ryu-ishigori": {
+   "first_seen": "2026-09-30",
+   "last_online": "2026-09-30",
+   "username": "Ryu-Ishigori"
   },
   "sara32222": {
    "first_seen": "2026-09-28",
@@ -2572,7 +2577,7 @@
   }
  },
  "online": {
-  "checked_at": "2026-09-30T06:58:56Z",
+  "checked_at": "2026-09-30T07:56:17Z",
   "ids": [
    "aatk_vanguardx",
    "abcd_engine",
@@ -2659,6 +2664,7 @@
    "cizme",
    "classic_bot-v2",
    "classical-leela",
+   "claudyengine",
    "cloudia-chess",
    "cloudnetbot",
    "clrsrc_lc0",
@@ -2810,6 +2816,7 @@
    "mate1-bot",
    "matmoi",
    "mayflyengine",
+   "mcdonalds1955",
    "mchess-engine",
    "mega-noob-bot",
    "melsh_bot",
@@ -2832,6 +2839,7 @@
    "nesbes",
    "neurosocute",
    "newchessengine-ai",
+   "newtsbot",
    "nexastrat",
    "nexosdefos",
    "nice_bot",
@@ -2889,6 +2897,7 @@
    "rudim-bot",
    "rust-in-pieces",
    "rustyrival",
+   "ryu-ishigori",
    "sargon-1ply",
    "sargon-2ply",
    "sargon-3ply",
@@ -2926,8 +2935,6 @@
    "sunfish_rs_v2",
    "supergame5",
    "sxphia",
-   "sybaibot",
-   "sybbot",
    "sykorabot",
    "takticprochess",
    "talosbot",
