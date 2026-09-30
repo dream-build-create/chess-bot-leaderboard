@@ -755,6 +755,11 @@
    "last_online": "2026-09-29",
    "username": "dgtrychess"
   },
+  "dragoodle": {
+   "first_seen": "2026-09-30",
+   "last_online": "2026-09-30",
+   "username": "dragoodle"
+  },
   "drewschessmachine": {
    "first_seen": "2026-09-28",
    "last_online": "2026-09-29",
@@ -1810,6 +1815,11 @@
    "last_online": "2026-09-30",
    "username": "piglet_engine"
   },
+  "pirates2": {
+   "first_seen": "2026-09-30",
+   "last_online": "2026-09-30",
+   "username": "Pirates2"
+  },
   "playmarius": {
    "first_seen": "2026-09-27",
    "last_online": "2026-09-30",
@@ -2582,7 +2592,7 @@
   }
  },
  "online": {
-  "checked_at": "2026-09-30T08:56:13Z",
+  "checked_at": "2026-09-30T09:56:35Z",
   "ids": [
    "aaronsengine",
    "aatk_vanguardx",
@@ -2614,7 +2624,6 @@
    "banerot",
    "batyarapro",
    "bbc_bot",
-   "becela9_kpebetka",
    "berkbot",
    "bernstein-2ply",
    "bernstein-4ply",
@@ -2650,11 +2659,9 @@
    "catnail",
    "catriever",
    "chamberiajedrez",
-   "chaotong_engine",
    "charibot",
    "cheng-4",
    "cheng-4-nn",
-   "chess-dragon1",
    "chess_set_manager",
    "chessatronbot",
    "chessblight",
@@ -2672,7 +2679,6 @@
    "classical-leela",
    "claudyengine",
    "cloudia-chess",
-   "cloudnetbot",
    "clrsrc_lc0",
    "coda_bot",
    "codabot",
@@ -2704,6 +2710,7 @@
    "demolito_l3",
    "demolito_l4",
    "demolito_l5",
+   "dragoodle",
    "duchessai",
    "dumbotai",
    "eclipsebot",
@@ -2749,7 +2756,6 @@
    "ilcorvochess",
    "ilovecatgirl",
    "inanisbot",
-   "io-bot",
    "is_boss",
    "iskelt-corax",
    "jackedfish",
@@ -2842,7 +2848,6 @@
    "neryba",
    "nesbes",
    "neurosocute",
-   "newchessengine-ai",
    "newtsbot",
    "nexastrat",
    "nexosdefos",
@@ -2872,6 +2877,7 @@
    "pi0w",
    "piebot",
    "piglet_engine",
+   "pirates2",
    "playmarius",
    "plumboi",
    "prokopakop",
@@ -2937,6 +2943,8 @@
    "sunfish_rs_v2",
    "supergame5",
    "sxphia",
+   "sybaibot",
+   "sybbot",
    "sykorabot",
    "takticprochess",
    "talosbot",
@@ -2945,7 +2953,6 @@
    "thechessblazer",
    "throrbjorn",
    "thunfisch-bot",
-   "tidymazebot",
    "tigrament",
    "tikifish",
    "tilapiabot",
