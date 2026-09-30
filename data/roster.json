@@ -40,6 +40,11 @@
    "last_online": "2026-09-30",
    "username": "AetherBot"
   },
+  "agentc313": {
+   "first_seen": "2026-09-30",
+   "last_online": "2026-09-30",
+   "username": "agentc313"
+  },
   "aggressivestockfish": {
    "first_seen": "2026-09-27",
    "last_online": "2026-09-30",
@@ -627,7 +632,7 @@
   },
   "creaticachessbot": {
    "first_seen": "2026-09-29",
-   "last_online": "2026-09-29",
+   "last_online": "2026-09-30",
    "username": "CreaticaChessBot"
   },
   "croco_bot": {
@@ -789,6 +794,11 @@
    "first_seen": "2026-09-27",
    "last_online": "2026-09-30",
    "username": "eigenmann-chess"
+  },
+  "elachessbot": {
+   "first_seen": "2026-09-30",
+   "last_online": "2026-09-30",
+   "username": "ElaChessBot"
   },
   "elexunix_chess_bot": {
    "first_seen": "2026-09-27",
@@ -1550,6 +1560,11 @@
    "last_online": "2026-09-28",
    "username": "minimax_chessy_lol"
   },
+  "minordotarcdotbot": {
+   "first_seen": "2026-09-30",
+   "last_online": "2026-09-30",
+   "username": "minordotarcdotbot"
+  },
   "mithandros": {
    "first_seen": "2026-09-27",
    "last_online": "2026-09-30",
@@ -1819,6 +1834,11 @@
    "first_seen": "2026-09-30",
    "last_online": "2026-09-30",
    "username": "Pirates2"
+  },
+  "platinumbot": {
+   "first_seen": "2026-09-30",
+   "last_online": "2026-09-30",
+   "username": "PlatinumBOT"
   },
   "playmarius": {
    "first_seen": "2026-09-27",
@@ -2592,7 +2612,7 @@
   }
  },
  "online": {
-  "checked_at": "2026-09-30T09:56:35Z",
+  "checked_at": "2026-09-30T10:56:02Z",
   "ids": [
    "aaronsengine",
    "aatk_vanguardx",
@@ -2601,6 +2621,7 @@
    "aconcaguabot",
    "admete_bot",
    "aetherbot",
+   "agentc313",
    "aggressivestockfish",
    "ai-con",
    "ailedbot",
@@ -2644,7 +2665,6 @@
    "bot64jaques",
    "bot913",
    "bot_adario",
-   "bot_stockfish13",
    "botchessbot",
    "bottios",
    "botvunnix",
@@ -2688,6 +2708,7 @@
    "cookiebot711",
    "cosettebot",
    "crapbot",
+   "creaticachessbot",
    "croco_bot",
    "croco_little_bot",
    "crocodile_bot",
@@ -2716,6 +2737,7 @@
    "eclipsebot",
    "edwardkillick",
    "eigenmann-chess",
+   "elachessbot",
    "elexunix_chess_bot",
    "ellen_replay",
    "elmichess",
@@ -2788,7 +2810,7 @@
    "leelarookodds",
    "leelatroll",
    "legochess98",
-   "lemuffinbot",
+   "leol-bot",
    "likeawizard-bot",
    "lilitbot",
    "linenetbot",
@@ -2833,6 +2855,7 @@
    "mimirbot",
    "minibotapi",
    "minibruteforcebot",
+   "minordotarcdotbot",
    "mithandros",
    "mochi_bot",
    "morabandbot",
@@ -2856,12 +2879,14 @@
    "nilatacbot",
    "nittedal",
    "noabot",
+   "noel-bot",
    "notropis",
    "o-rei-cx",
    "omegazero-bot",
    "openinggenie2000",
    "overfitted",
    "oxide-eg",
+   "oxybullet",
    "oxydanbot",
    "panic-fish",
    "patzerbot135",
@@ -2878,6 +2903,7 @@
    "piebot",
    "piglet_engine",
    "pirates2",
+   "platinumbot",
    "playmarius",
    "plumboi",
    "prokopakop",
@@ -2954,7 +2980,6 @@
    "throrbjorn",
    "thunfisch-bot",
    "tigrament",
-   "tikifish",
    "tilapiabot",
    "timemachine1858",
    "tm-sovietschool",
@@ -2987,7 +3012,6 @@
    "vidbot",
    "vietnamesecoffee",
    "virutor",
-   "void_bot",
    "voigtsbach",
    "walleye_bot",
    "walpurti",
