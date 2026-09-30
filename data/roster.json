@@ -542,7 +542,7 @@
   },
   "chrusty": {
    "first_seen": "2026-09-28",
-   "last_online": "2026-09-28",
+   "last_online": "2026-09-30",
    "username": "chrusty"
   },
   "cinder-bot": {
@@ -2587,7 +2587,7 @@
   },
   "wardnbot": {
    "first_seen": "2026-09-28",
-   "last_online": "2026-09-29",
+   "last_online": "2026-09-30",
    "username": "wardnbot"
   },
   "weiawaga": {
@@ -2602,7 +2602,7 @@
   },
   "wildorderbot": {
    "first_seen": "2026-09-28",
-   "last_online": "2026-09-29",
+   "last_online": "2026-09-30",
    "username": "WildorderBot"
   },
   "wolfuhfuhbot": {
@@ -2647,7 +2647,7 @@
   }
  },
  "online": {
-  "checked_at": "2026-09-30T16:55:37Z",
+  "checked_at": "2026-09-30T17:54:45Z",
   "ids": [
    "aaronsengine",
    "aatk_vanguardx",
@@ -2736,6 +2736,7 @@
    "cheszter",
    "chill4ce",
    "chronicgambler",
+   "chrusty",
    "cinder-bot",
    "cizme",
    "classic_bot-v2",
@@ -2750,7 +2751,6 @@
    "colossusbot",
    "confidencebuilder",
    "consolechessdev",
-   "consolechessfastbot",
    "cookiebot711",
    "cosettebot",
    "croco_bot",
@@ -2779,7 +2779,6 @@
    "duchessai",
    "dumbotai",
    "eclipsebot",
-   "edwardkillick",
    "eigenmann-chess",
    "elachessbot",
    "elexunix_chess_bot",
@@ -2857,7 +2856,6 @@
    "leelarookodds",
    "leelatroll",
    "legochess98",
-   "lemuffinbot",
    "leol-bot",
    "likeawizard-bot",
    "lilitbot",
@@ -2898,7 +2896,6 @@
    "mayflyengine",
    "mcdonalds1955",
    "mchess-engine",
-   "mega-noob-bot",
    "melsh_bot",
    "mimirbot",
    "minibotapi",
@@ -3001,6 +2998,7 @@
    "southbot",
    "squarefish-900",
    "sseh-c",
+   "stepbot_chess",
    "stickshark99",
    "stockdory",
    "stockfail",
@@ -3064,13 +3062,16 @@
    "voigtsbach",
    "walleye_bot",
    "walpurti",
+   "wardnbot",
    "weiawaga",
+   "wildorderbot",
    "wolfuhfuhbot",
    "worst-ai",
    "worstfish",
    "xewali",
    "z-o_aspenlabs",
    "zagreus_engine",
+   "zeno-bot",
    "zion-bot"
   ]
  },
