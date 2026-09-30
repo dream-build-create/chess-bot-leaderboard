@@ -257,13 +257,18 @@
   },
   "black-bishop-kh": {
    "first_seen": "2026-09-28",
-   "last_online": "2026-09-29",
+   "last_online": "2026-09-30",
    "username": "Black-Bishop-Kh"
   },
   "blackeventhorizon": {
    "first_seen": "2026-09-27",
    "last_online": "2026-09-28",
    "username": "blackEventhorizon"
+  },
+  "blindpewce": {
+   "first_seen": "2026-09-30",
+   "last_online": "2026-09-30",
+   "username": "BlindPewCE"
   },
   "blobfish-bot": {
    "first_seen": "2026-09-27",
@@ -889,6 +894,11 @@
    "first_seen": "2026-09-27",
    "last_online": "2026-09-30",
    "username": "FenrirBot"
+  },
+  "fighting2543": {
+   "first_seen": "2026-09-30",
+   "last_online": "2026-09-30",
+   "username": "Fighting2543"
   },
   "flounderbot": {
    "first_seen": "2026-09-27",
@@ -1557,7 +1567,7 @@
   },
   "minimax_chessy_lol": {
    "first_seen": "2026-09-27",
-   "last_online": "2026-09-28",
+   "last_online": "2026-09-30",
    "username": "minimax_chessy_lol"
   },
   "minordotarcdotbot": {
@@ -2612,7 +2622,7 @@
   }
  },
  "online": {
-  "checked_at": "2026-09-30T10:56:02Z",
+  "checked_at": "2026-09-30T11:55:37Z",
   "ids": [
    "aaronsengine",
    "aatk_vanguardx",
@@ -2643,8 +2653,8 @@
    "azzbot",
    "baby_eubos",
    "banerot",
-   "batyarapro",
    "bbc_bot",
+   "becela9_kpebetka",
    "berkbot",
    "bernstein-2ply",
    "bernstein-4ply",
@@ -2652,6 +2662,8 @@
    "bfiedler-bot",
    "bhonduesque",
    "bitbitbot",
+   "black-bishop-kh",
+   "blindpewce",
    "blobfish-bot",
    "bluemoonbot",
    "blujay-bot",
@@ -2666,6 +2678,8 @@
    "bot913",
    "bot_adario",
    "botchessbot",
+   "bothev",
+   "bothev2",
    "bottios",
    "botvunnix",
    "bretemabot",
@@ -2682,7 +2696,7 @@
    "charibot",
    "cheng-4",
    "cheng-4-nn",
-   "chess_set_manager",
+   "chess-dragon1",
    "chessatronbot",
    "chessblight",
    "chesschildren",
@@ -2695,10 +2709,10 @@
    "chronicgambler",
    "cinder-bot",
    "cizme",
-   "classic_bot-v2",
    "classical-leela",
    "claudyengine",
    "cloudia-chess",
+   "cloudnetbot",
    "clrsrc_lc0",
    "coda_bot",
    "codabot",
@@ -2731,7 +2745,6 @@
    "demolito_l3",
    "demolito_l4",
    "demolito_l5",
-   "dragoodle",
    "duchessai",
    "dumbotai",
    "eclipsebot",
@@ -2748,9 +2761,9 @@
    "falconengine",
    "fataliibot",
    "fathzer-jchess",
-   "fayefish",
    "felipe_bot_53",
    "fenrirbot",
+   "fighting2543",
    "flounderbot",
    "flybrainchess",
    "fpga-chess",
@@ -2773,7 +2786,6 @@
    "hustler_2mb",
    "hynobiuschess",
    "hyperopic",
-   "iamtryingtvt",
    "icarus-bot",
    "ilcorvochess",
    "ilovecatgirl",
@@ -2855,7 +2867,7 @@
    "mimirbot",
    "minibotapi",
    "minibruteforcebot",
-   "minordotarcdotbot",
+   "minimax_chessy_lol",
    "mithandros",
    "mochi_bot",
    "morabandbot",
@@ -2871,9 +2883,9 @@
    "neryba",
    "nesbes",
    "neurosocute",
+   "newchessengine-ai",
    "newtsbot",
    "nexastrat",
-   "nexosdefos",
    "nice_bot",
    "nickdrohan",
    "nilatacbot",
@@ -2903,7 +2915,6 @@
    "piebot",
    "piglet_engine",
    "pirates2",
-   "platinumbot",
    "playmarius",
    "plumboi",
    "prokopakop",
@@ -2924,7 +2935,6 @@
    "redbeantree",
    "registerpythonspeed",
    "reptilesbedamned",
-   "resolutebot",
    "ribfish-bot",
    "romanticbot",
    "romanticbot2",
@@ -2979,6 +2989,7 @@
    "thechessblazer",
    "throrbjorn",
    "thunfisch-bot",
+   "tidymazebot",
    "tigrament",
    "tilapiabot",
    "timemachine1858",
@@ -2986,7 +2997,6 @@
    "topasbot",
    "torombot",
    "trainer-bot",
-   "trenerhetman",
    "troutbot",
    "trusia12345678",
    "tucuengine",
