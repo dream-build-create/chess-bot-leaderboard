@@ -450,6 +450,11 @@
    "last_online": "2026-09-30",
    "username": "charibot"
   },
+  "checkmare666bot": {
+   "first_seen": "2026-09-30",
+   "last_online": "2026-09-30",
+   "username": "CHECKMARE666Bot"
+  },
   "cheesestar": {
    "first_seen": "2026-09-28",
    "last_online": "2026-09-28",
@@ -2657,7 +2662,7 @@
   }
  },
  "online": {
-  "checked_at": "2026-09-30T20:53:44Z",
+  "checked_at": "2026-09-30T21:55:43Z",
   "ids": [
    "abcd_engine",
    "abdcebot",
@@ -2685,9 +2690,9 @@
    "azzbot",
    "baby_eubos",
    "banerot",
-   "bbc_bot",
    "becela9_kpebetka",
    "beelzebubzero",
+   "berkbot",
    "bernstein-2ply",
    "bernstein-4ply",
    "bertbot",
@@ -2722,6 +2727,7 @@
    "catriever",
    "chamberiajedrez",
    "charibot",
+   "checkmare666bot",
    "cheng-4",
    "cheng-4-nn",
    "chess-dragon1",
@@ -2747,7 +2753,6 @@
    "coda_bot",
    "codabot",
    "colinbot",
-   "colossusbot",
    "confidencebuilder",
    "cookiebot711",
    "cosettebot",
@@ -2776,7 +2781,6 @@
    "demolito_l5",
    "duchessai",
    "dumbotai",
-   "eclipsebot",
    "edwardkillick",
    "eigenmann-chess",
    "elachessbot",
@@ -2814,7 +2818,6 @@
    "honzovy-sachy-2",
    "hummus-bot",
    "hustler_2mb",
-   "hymybot",
    "hynobiuschess",
    "hyperopic",
    "icarus-bot",
@@ -2838,6 +2841,7 @@
    "kestrelstrike",
    "kirinchessbot",
    "kopyto_dev",
+   "kulubot",
    "lamprook",
    "larryz-alterego",
    "latrunculi-bot",
@@ -2889,7 +2893,6 @@
    "mate-in-thirty",
    "mate-in-twenty",
    "mate1-bot",
-   "matemakingmachine",
    "matmoi",
    "mayflyengine",
    "mchess-engine",
@@ -3016,7 +3019,6 @@
    "thechessblazer",
    "throrbjorn",
    "thunfisch-bot",
-   "tidymazebot",
    "tilapiabot",
    "timemachine1858",
    "tm-sovietschool",
@@ -3030,7 +3032,6 @@
    "turkjs",
    "turochamp-1ply",
    "turochamp-2ply",
-   "turox-bot",
    "ultrabrick",
    "unimark",
    "ursus_bot",
@@ -3059,7 +3060,6 @@
    "xewali",
    "z-o_aspenlabs",
    "zagreus_engine",
-   "zeno-bot",
    "zion-bot"
   ]
  },
