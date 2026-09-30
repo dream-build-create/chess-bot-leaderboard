@@ -2,7 +2,7 @@
  "bots": {
   "aaronsengine": {
    "first_seen": "2026-09-27",
-   "last_online": "2026-09-29",
+   "last_online": "2026-09-30",
    "username": "AaronsEngine"
   },
   "aatk_vanguardx": {
@@ -57,7 +57,7 @@
   },
   "ajedrezchamberi": {
    "first_seen": "2026-09-29",
-   "last_online": "2026-09-29",
+   "last_online": "2026-09-30",
    "username": "AjedrezChamberi"
   },
   "aliceshiro": {
@@ -422,12 +422,12 @@
   },
   "chamberiajedrez": {
    "first_seen": "2026-09-29",
-   "last_online": "2026-09-29",
+   "last_online": "2026-09-30",
    "username": "ChamberiAjedrez"
   },
   "chaotong_engine": {
    "first_seen": "2026-09-28",
-   "last_online": "2026-09-29",
+   "last_online": "2026-09-30",
    "username": "Chaotong_engine"
   },
   "charibot": {
@@ -589,6 +589,11 @@
    "first_seen": "2026-09-28",
    "last_online": "2026-09-30",
    "username": "colinbot"
+  },
+  "colossusbot": {
+   "first_seen": "2026-09-30",
+   "last_online": "2026-09-30",
+   "username": "ColossusBOT"
   },
   "confidencebuilder": {
    "first_seen": "2026-09-27",
@@ -2572,13 +2577,14 @@
   },
   "zeno-bot": {
    "first_seen": "2026-09-27",
-   "last_online": "2026-09-29",
+   "last_online": "2026-09-30",
    "username": "zeno-bot"
   }
  },
  "online": {
-  "checked_at": "2026-09-30T07:56:17Z",
+  "checked_at": "2026-09-30T08:56:13Z",
   "ids": [
+   "aaronsengine",
    "aatk_vanguardx",
    "abcd_engine",
    "abdcebot",
@@ -2588,6 +2594,7 @@
    "aggressivestockfish",
    "ai-con",
    "ailedbot",
+   "ajedrezchamberi",
    "aliceshiro",
    "andobot",
    "angela_eng",
@@ -2630,8 +2637,6 @@
    "bot_adario",
    "bot_stockfish13",
    "botchessbot",
-   "bothev",
-   "bothev2",
    "bottios",
    "botvunnix",
    "bretemabot",
@@ -2639,12 +2644,13 @@
    "bufffishnet",
    "byte-knight",
    "c0kval",
-   "caissa-x",
    "cannotcheckmateme",
    "capybara_chessbot",
    "casanchess-nnue",
    "catnail",
    "catriever",
+   "chamberiajedrez",
+   "chaotong_engine",
    "charibot",
    "cheng-4",
    "cheng-4-nn",
@@ -2671,9 +2677,8 @@
    "coda_bot",
    "codabot",
    "colinbot",
+   "colossusbot",
    "confidencebuilder",
-   "consolechessdev",
-   "consolechessfastbot",
    "cookiebot711",
    "cosettebot",
    "crapbot",
@@ -2747,7 +2752,6 @@
    "io-bot",
    "is_boss",
    "iskelt-corax",
-   "itsukitheeater",
    "jackedfish",
    "jacobsbot",
    "jangine",
@@ -2870,7 +2874,6 @@
    "piglet_engine",
    "playmarius",
    "plumboi",
-   "princessyuribot",
    "prokopakop",
    "prosperobot",
    "pseudo-0",
@@ -2924,7 +2927,6 @@
    "stockfail",
    "stockfishlowdepth",
    "stockpapagei",
-   "straightbot",
    "studyloversz-bot",
    "stupidchessrobot",
    "stupidfishbotbydscs",
@@ -2939,7 +2941,6 @@
    "takticprochess",
    "talosbot",
    "teensycheesy",
-   "tempocore",
    "terconari",
    "thechessblazer",
    "throrbjorn",
@@ -2989,7 +2990,8 @@
    "worstfish",
    "xewali",
    "z-o_aspenlabs",
-   "zagreus_engine"
+   "zagreus_engine",
+   "zeno-bot"
   ]
  },
  "schema_version": 1
