@@ -182,12 +182,12 @@
   },
   "battlebornthe4th": {
    "first_seen": "2026-09-28",
-   "last_online": "2026-09-29",
+   "last_online": "2026-09-30",
    "username": "BattleBornThe4th"
   },
   "battlebornthe5th": {
    "first_seen": "2026-09-29",
-   "last_online": "2026-09-29",
+   "last_online": "2026-09-30",
    "username": "BattleBornThe5th"
   },
   "batyarapro": {
@@ -202,7 +202,7 @@
   },
   "beastie1": {
    "first_seen": "2026-09-29",
-   "last_online": "2026-09-29",
+   "last_online": "2026-09-30",
    "username": "beastie1"
   },
   "becela9_kpebetka": {
@@ -407,7 +407,7 @@
   },
   "calico1": {
    "first_seen": "2026-09-29",
-   "last_online": "2026-09-29",
+   "last_online": "2026-09-30",
    "username": "calico1"
   },
   "cannotcheckmateme": {
@@ -1665,6 +1665,11 @@
    "last_online": "2026-09-29",
    "username": "NeutrinoBOT"
   },
+  "newbiebott": {
+   "first_seen": "2026-09-30",
+   "last_online": "2026-09-30",
+   "username": "NewbieBott"
+  },
   "newchessengine-ai": {
    "first_seen": "2026-09-27",
    "last_online": "2026-09-30",
@@ -1742,7 +1747,7 @@
   },
   "osaurus": {
    "first_seen": "2026-09-29",
-   "last_online": "2026-09-29",
+   "last_online": "2026-09-30",
    "username": "OSaurus"
   },
   "overfitted": {
@@ -2634,10 +2639,15 @@
    "first_seen": "2026-09-27",
    "last_online": "2026-09-30",
    "username": "zeno-bot"
+  },
+  "zion-bot": {
+   "first_seen": "2026-09-30",
+   "last_online": "2026-09-30",
+   "username": "zion-bot"
   }
  },
  "online": {
-  "checked_at": "2026-09-30T15:57:16Z",
+  "checked_at": "2026-09-30T16:55:37Z",
   "ids": [
    "aaronsengine",
    "aatk_vanguardx",
@@ -2668,8 +2678,11 @@
    "azzbot",
    "baby_eubos",
    "banerot",
+   "battlebornthe4th",
+   "battlebornthe5th",
    "batyarapro",
    "bbc_bot",
+   "beastie1",
    "becela9_kpebetka",
    "berkbot",
    "bernstein-2ply",
@@ -2678,7 +2691,6 @@
    "bfiedler-bot",
    "bhonduesque",
    "bitbitbot",
-   "black-bishop-kh",
    "blobfish-bot",
    "bluemoonbot",
    "blujay-bot",
@@ -2700,8 +2712,8 @@
    "bubblebot2",
    "bufffishnet",
    "byte-knight",
-   "c0kval",
    "cactus_bot",
+   "calico1",
    "cannotcheckmateme",
    "capybara_chessbot",
    "casanchess-nnue",
@@ -2712,6 +2724,8 @@
    "cheng-4",
    "cheng-4-nn",
    "chess-dragon1",
+   "chess3bot",
+   "chess_set_manager",
    "chessatronbot",
    "chessblight",
    "chesschildren",
@@ -2735,6 +2749,8 @@
    "colinbot",
    "colossusbot",
    "confidencebuilder",
+   "consolechessdev",
+   "consolechessfastbot",
    "cookiebot711",
    "cosettebot",
    "croco_bot",
@@ -2779,10 +2795,10 @@
    "fayefish",
    "felipe_bot_53",
    "fenrirbot",
-   "fighting2543",
    "flounderbot",
    "flybrainchess",
    "fpga-chess",
+   "gambitonlybot",
    "garbobot",
    "gbot113",
    "geotsibot",
@@ -2826,6 +2842,7 @@
    "kirinchessbot",
    "kopyto_dev",
    "kulubot",
+   "kurganuci",
    "lamprook",
    "larryz-alterego",
    "latrunculi-bot",
@@ -2889,11 +2906,11 @@
    "minimax_chessy_lol",
    "mithandros",
    "mochi_bot",
+   "morabandbot",
    "mostlyhuman1900",
    "motor-0",
    "mr_sandbar",
    "mrtonnerre",
-   "musashi-thebot",
    "mychessjava",
    "nanozeroorg",
    "nebubot",
@@ -2901,6 +2918,7 @@
    "neryba",
    "nesbes",
    "neurosocute",
+   "newbiebott",
    "newchessengine-ai",
    "nexastrat",
    "nexosdefos",
@@ -2915,9 +2933,9 @@
    "o-rei-cx",
    "omegazero-bot",
    "openinggenie2000",
+   "osaurus",
    "overfitted",
    "oxide-eg",
-   "oxybullet",
    "oxydanbot",
    "panic-fish",
    "patzerbot135",
@@ -2934,6 +2952,7 @@
    "piebot",
    "piglet_engine",
    "pirates2",
+   "platinumbot",
    "playmarius",
    "plumboi",
    "prokopakop",
@@ -2954,6 +2973,7 @@
    "registerpythonspeed",
    "reptilesbedamned",
    "ribfish-bot",
+   "rockingsuperstars",
    "romanticbot",
    "romanticbot2",
    "rpibot73",
@@ -2981,7 +3001,6 @@
    "southbot",
    "squarefish-900",
    "sseh-c",
-   "stepbot_chess",
    "stickshark99",
    "stockdory",
    "stockfail",
@@ -3052,7 +3071,7 @@
    "xewali",
    "z-o_aspenlabs",
    "zagreus_engine",
-   "zeno-bot"
+   "zion-bot"
   ]
  },
  "schema_version": 1
