@@ -117,7 +117,7 @@
   },
   "arthurai": {
    "first_seen": "2026-09-28",
-   "last_online": "2026-09-29",
+   "last_online": "2026-09-30",
    "username": "ArthurAI"
   },
   "artidigm_research": {
@@ -972,7 +972,7 @@
   },
   "hardrok": {
    "first_seen": "2026-09-27",
-   "last_online": "2026-09-29",
+   "last_online": "2026-09-30",
    "username": "HardRok"
   },
   "hashcake1": {
@@ -1029,6 +1029,11 @@
    "first_seen": "2026-09-27",
    "last_online": "2026-09-30",
    "username": "Hyperopic"
+  },
+  "iamtryingtvt": {
+   "first_seen": "2026-09-30",
+   "last_online": "2026-09-30",
+   "username": "iamtryingTvT"
   },
   "icarus-bot": {
    "first_seen": "2026-09-27",
@@ -1302,7 +1307,7 @@
   },
   "lunaenginechess": {
    "first_seen": "2026-09-28",
-   "last_online": "2026-09-29",
+   "last_online": "2026-09-30",
    "username": "LunaEngineChess"
   },
   "lynx_bot": {
@@ -1629,6 +1634,11 @@
    "first_seen": "2026-09-27",
    "last_online": "2026-09-30",
    "username": "NICE_BOT"
+  },
+  "nickdrohan": {
+   "first_seen": "2026-09-30",
+   "last_online": "2026-09-30",
+   "username": "nickdrohan"
   },
   "nilatacbot": {
    "first_seen": "2026-09-27",
@@ -2217,12 +2227,12 @@
   },
   "sybaibot": {
    "first_seen": "2026-09-27",
-   "last_online": "2026-09-29",
+   "last_online": "2026-09-30",
    "username": "SybAIBot"
   },
   "sybbot": {
    "first_seen": "2026-09-27",
-   "last_online": "2026-09-29",
+   "last_online": "2026-09-30",
    "username": "SybBot"
   },
   "sykorabot": {
@@ -2547,7 +2557,7 @@
   }
  },
  "online": {
-  "checked_at": "2026-09-30T01:54:38Z",
+  "checked_at": "2026-09-30T02:55:01Z",
   "ids": [
    "aatk_vanguardx",
    "abcd_engine",
@@ -2567,6 +2577,7 @@
    "aposeij",
    "arasanx",
    "ariadne-bot",
+   "arthurai",
    "artidigm_research",
    "ashnostromo",
    "ask-aatk-bot",
@@ -2656,7 +2667,6 @@
    "dala-700",
    "dala-900",
    "darkelectronbot",
-   "darkonbot",
    "darkonweakbot",
    "davidsguterbot",
    "debzero",
@@ -2689,11 +2699,9 @@
    "fenrirbot",
    "flounderbot",
    "flybrainchess",
-   "gambitonlybot",
    "garbobot",
    "gbot113",
    "geotsibot",
-   "ghidorah_x",
    "gnupassant",
    "goldfish-engine",
    "goopis",
@@ -2701,6 +2709,7 @@
    "groshboss",
    "hackerchessbot",
    "halcyonbot",
+   "hardrok",
    "hiusbot",
    "hodgeybot",
    "holidaybot1225",
@@ -2710,6 +2719,7 @@
    "hustler_2mb",
    "hynobiuschess",
    "hyperopic",
+   "iamtryingtvt",
    "icarus-bot",
    "ilcorvochess",
    "ilovecatgirl",
@@ -2756,6 +2766,7 @@
    "littlepatricia",
    "louischess48-6k",
    "lukebot",
+   "lunaenginechess",
    "lynx_bot",
    "mac-bot",
    "maia1",
@@ -2810,6 +2821,7 @@
    "nexastrat",
    "nexosdefos",
    "nice_bot",
+   "nickdrohan",
    "nilatacbot",
    "nittedal",
    "noabot",
@@ -2899,6 +2911,8 @@
    "sunfish_rs_v2",
    "supergame5",
    "sxphia",
+   "sybaibot",
+   "sybbot",
    "sykorabot",
    "takticprochess",
    "talosbot",
