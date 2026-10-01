@@ -2432,7 +2432,7 @@
   },
   "the_baronet": {
    "first_seen": "2026-09-28",
-   "last_online": "2026-09-30",
+   "last_online": "2026-10-01",
    "username": "The_Baronet"
   },
   "thechessblazer": {
@@ -2722,7 +2722,7 @@
   },
   "zeno-bot": {
    "first_seen": "2026-09-27",
-   "last_online": "2026-09-30",
+   "last_online": "2026-10-01",
    "username": "zeno-bot"
   },
   "zion-bot": {
@@ -2732,7 +2732,7 @@
   }
  },
  "online": {
-  "checked_at": "2026-10-01T15:56:27Z",
+  "checked_at": "2026-10-01T16:54:55Z",
   "ids": [
    "aaronsengine",
    "aatk_vanguardx",
@@ -2805,7 +2805,6 @@
    "cheng-4-nn",
    "chess-dragon1",
    "chess3bot",
-   "chessblight",
    "chesschildren",
    "chessiverse_ethan",
    "chessiverse_luc",
@@ -2906,6 +2905,7 @@
    "jangine",
    "jenniferx",
    "jesterchessrobot",
+   "jibbby",
    "joan_clone",
    "joey_chessengine",
    "joshsbot",
@@ -2969,6 +2969,7 @@
    "mate1-bot",
    "matmoi",
    "mayflyengine",
+   "mcdonalds1955",
    "mega-noob-bot",
    "melsh_bot",
    "mimirbot",
@@ -3043,7 +3044,6 @@
    "rpibot73",
    "rudim-bot",
    "rust-in-pieces",
-   "rustyrival",
    "ryu-ishigori",
    "sargon-1ply",
    "sargon-2ply",
@@ -3062,12 +3062,12 @@
    "sj_norbot",
    "sleepmindengine",
    "slowmate_bot",
-   "slychessbot",
    "solobot",
    "solsticeengine",
    "southbot",
    "squarefish-900",
    "sseh-c",
+   "stepbot_chess",
    "stickshark99",
    "stockdory",
    "stockfail",
@@ -3089,12 +3089,11 @@
    "sykorabot",
    "takticprochess",
    "talosbot",
-   "teensycheesy",
    "terconari",
+   "the_baronet",
    "thechessblazer",
    "throrbjorn",
    "thunfisch-bot",
-   "tidymazebot",
    "tigrament",
    "tikifish",
    "tilapiabot",
@@ -3139,6 +3138,7 @@
    "xewali",
    "z-o_aspenlabs",
    "zagreus_engine",
+   "zeno-bot",
    "zion-bot"
   ]
  },
