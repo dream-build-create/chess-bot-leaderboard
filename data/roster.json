@@ -257,7 +257,7 @@
   },
   "black-bishop-kh": {
    "first_seen": "2026-09-28",
-   "last_online": "2026-09-30",
+   "last_online": "2026-10-01",
    "username": "Black-Bishop-Kh"
   },
   "blackeventhorizon": {
@@ -302,7 +302,7 @@
   },
   "borkatower": {
    "first_seen": "2026-09-27",
-   "last_online": "2026-09-30",
+   "last_online": "2026-10-01",
    "username": "BorkaTower"
   },
   "bot-o-tron": {
@@ -1697,7 +1697,7 @@
   },
   "newtsbot": {
    "first_seen": "2026-09-27",
-   "last_online": "2026-09-30",
+   "last_online": "2026-10-01",
    "username": "NEWTSbot"
   },
   "nexastrat": {
@@ -1875,10 +1875,20 @@
    "last_online": "2026-10-01",
    "username": "piglet_engine"
   },
+  "pirates1": {
+   "first_seen": "2026-10-01",
+   "last_online": "2026-10-01",
+   "username": "pirates1"
+  },
   "pirates2": {
    "first_seen": "2026-09-30",
    "last_online": "2026-10-01",
    "username": "Pirates2"
+  },
+  "piratesrust": {
+   "first_seen": "2026-10-01",
+   "last_online": "2026-10-01",
+   "username": "PiratesRust"
   },
   "platinumbot": {
    "first_seen": "2026-09-30",
@@ -1907,7 +1917,7 @@
   },
   "project_nebulora": {
    "first_seen": "2026-09-30",
-   "last_online": "2026-09-30",
+   "last_online": "2026-10-01",
    "username": "Project_Nebulora"
   },
   "prokopakop": {
@@ -1957,7 +1967,7 @@
   },
   "radianceengine": {
    "first_seen": "2026-09-27",
-   "last_online": "2026-09-30",
+   "last_online": "2026-10-01",
    "username": "RadianceEngine"
   },
   "randmaster_bot": {
@@ -2452,7 +2462,7 @@
   },
   "torombot": {
    "first_seen": "2026-09-28",
-   "last_online": "2026-09-30",
+   "last_online": "2026-10-01",
    "username": "ToromBot"
   },
   "trainer-bot": {
@@ -2687,7 +2697,7 @@
   }
  },
  "online": {
-  "checked_at": "2026-10-01T06:59:46Z",
+  "checked_at": "2026-10-01T07:55:52Z",
   "ids": [
    "aatk_vanguardx",
    "abcd_engine",
@@ -2725,6 +2735,7 @@
    "bfiedler-bot",
    "bhonduesque",
    "bitbitbot",
+   "black-bishop-kh",
    "blindpewce",
    "blobfish-bot",
    "bluemoonbot",
@@ -2732,6 +2743,7 @@
    "bobby_pcolla",
    "bongaclang",
    "boris-trapsky",
+   "borkatower",
    "bot1e",
    "bot1nokk",
    "bot5551",
@@ -2825,6 +2837,7 @@
    "fenrirbot",
    "flounderbot",
    "flybrainchess",
+   "garbobot",
    "gbot113",
    "georgii_ai",
    "geotsibot",
@@ -2881,11 +2894,9 @@
    "leelarookodds",
    "leelatroll",
    "legochess98",
-   "lemuffinbot",
    "leol-bot",
    "likeawizard-bot",
    "lilitbot",
-   "linenetbot",
    "little-0",
    "littlepatricia",
    "louischess48-6k",
@@ -2939,6 +2950,7 @@
    "neurosocute",
    "newbiebott",
    "newchessengine-ai",
+   "newtsbot",
    "nexastrat",
    "nexosdefos",
    "nexuschess1",
@@ -2968,15 +2980,17 @@
    "pi0w",
    "piebot",
    "piglet_engine",
+   "pirates1",
    "pirates2",
-   "playmarius",
+   "piratesrust",
    "plumboi",
+   "project_nebulora",
    "prokopakop",
-   "prosperobot",
    "pseudo-0",
    "pseudo-1",
    "puisne",
    "pzchessbot",
+   "radianceengine",
    "raspfish",
    "ratkingbot",
    "ratsu-bot",
@@ -2986,7 +3000,6 @@
    "redbeantree",
    "registerpythonspeed",
    "reptilesbedamned",
-   "resolutebot",
    "ribfish-bot",
    "romanticbot",
    "romanticbot2",
@@ -3012,7 +3025,6 @@
    "sj_norbot",
    "sleepmindengine",
    "slowmate_bot",
-   "solidor59",
    "southbot",
    "squarefish-900",
    "sseh-c",
@@ -3032,6 +3044,8 @@
    "sunfish_rs_v2",
    "supergame5",
    "sxphia",
+   "sybaibot",
+   "sybbot",
    "sykorabot",
    "takticprochess",
    "talosbot",
@@ -3047,6 +3061,7 @@
    "timemachine1858",
    "tm-sovietschool",
    "topasbot",
+   "torombot",
    "trainer-bot",
    "trenerhetman",
    "troutbot",
@@ -3081,6 +3096,7 @@
    "wolfuhfuhbot",
    "worst-ai",
    "worstfish",
+   "wyxx210704_bot",
    "xewali",
    "z-o_aspenlabs",
    "zagreus_engine",
