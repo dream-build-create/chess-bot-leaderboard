@@ -797,7 +797,7 @@
   },
   "eclipsebot": {
    "first_seen": "2026-09-27",
-   "last_online": "2026-09-30",
+   "last_online": "2026-10-01",
    "username": "EclipseBOT"
   },
   "edwardkillick": {
@@ -942,7 +942,7 @@
   },
   "georgii_ai": {
    "first_seen": "2026-09-28",
-   "last_online": "2026-09-29",
+   "last_online": "2026-10-01",
    "username": "georgii_ai"
   },
   "geotsibot": {
@@ -1107,7 +1107,7 @@
   },
   "io-bot": {
    "first_seen": "2026-09-28",
-   "last_online": "2026-09-30",
+   "last_online": "2026-10-01",
    "username": "io-bot"
   },
   "is_boss": {
@@ -2327,12 +2327,12 @@
   },
   "sybaibot": {
    "first_seen": "2026-09-27",
-   "last_online": "2026-09-30",
+   "last_online": "2026-10-01",
    "username": "SybAIBot"
   },
   "sybbot": {
    "first_seen": "2026-09-27",
-   "last_online": "2026-09-30",
+   "last_online": "2026-10-01",
    "username": "SybBot"
   },
   "sykorabot": {
@@ -2672,7 +2672,7 @@
   }
  },
  "online": {
-  "checked_at": "2026-10-01T01:54:40Z",
+  "checked_at": "2026-10-01T02:55:27Z",
   "ids": [
    "abcd_engine",
    "abdcebot",
@@ -2722,7 +2722,6 @@
    "bot_adario",
    "bot_stockfish13",
    "bothev",
-   "bothev2",
    "bottios",
    "botvunnix",
    "bretemabot",
@@ -2741,7 +2740,6 @@
    "chess-dragon1",
    "chess3bot",
    "chess_set_manager",
-   "chessatronbot",
    "chessblight",
    "chesschildren",
    "chessiverse_ethan",
@@ -2790,6 +2788,7 @@
    "demolito_l5",
    "duchessai",
    "dumbotai",
+   "eclipsebot",
    "edwardkillick",
    "eigenmann-chess",
    "elachessbot",
@@ -2811,6 +2810,7 @@
    "gambitonlybot",
    "garbobot",
    "gbot113",
+   "georgii_ai",
    "geotsibot",
    "gnupassant",
    "goldfish-engine",
@@ -2833,6 +2833,7 @@
    "ilcorvochess",
    "ilovecatgirl",
    "inanisbot",
+   "io-bot",
    "is_boss",
    "iskelt-corax",
    "jackedfish",
@@ -3021,6 +3022,8 @@
    "sunfish_rs_v2",
    "supergame5",
    "sxphia",
+   "sybaibot",
+   "sybbot",
    "sykorabot",
    "takticprochess",
    "talosbot",
