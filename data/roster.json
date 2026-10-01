@@ -1567,7 +1567,7 @@
   },
   "matemakingmachine": {
    "first_seen": "2026-09-29",
-   "last_online": "2026-09-30",
+   "last_online": "2026-10-01",
    "username": "MateMakingMachine"
   },
   "matmoi": {
@@ -1624,6 +1624,11 @@
    "first_seen": "2026-09-27",
    "last_online": "2026-09-30",
    "username": "minimax_chessy_lol"
+  },
+  "minmaxvalgen": {
+   "first_seen": "2026-10-01",
+   "last_online": "2026-10-01",
+   "username": "MinMaxValgen"
   },
   "minordotarcdotbot": {
    "first_seen": "2026-09-30",
@@ -2077,7 +2082,7 @@
   },
   "rodent-v": {
    "first_seen": "2026-09-28",
-   "last_online": "2026-09-29",
+   "last_online": "2026-10-01",
    "username": "Rodent-V"
   },
   "romanticbot": {
@@ -2487,7 +2492,7 @@
   },
   "tonyengine": {
    "first_seen": "2026-09-29",
-   "last_online": "2026-09-29",
+   "last_online": "2026-10-01",
    "username": "TonyEngine"
   },
   "topasbot": {
@@ -2662,7 +2667,7 @@
   },
   "wannalearnbot": {
    "first_seen": "2026-09-27",
-   "last_online": "2026-09-28",
+   "last_online": "2026-10-01",
    "username": "wannalearnbot"
   },
   "wardnbot": {
@@ -2732,7 +2737,7 @@
   }
  },
  "online": {
-  "checked_at": "2026-10-01T16:54:55Z",
+  "checked_at": "2026-10-01T17:56:22Z",
   "ids": [
    "aaronsengine",
    "aatk_vanguardx",
@@ -2793,6 +2798,7 @@
    "bubblebot2",
    "bufffishnet",
    "byte-knight",
+   "c0kval",
    "caiporabot",
    "cannotcheckmateme",
    "capybara_chessbot",
@@ -2805,6 +2811,7 @@
    "cheng-4-nn",
    "chess-dragon1",
    "chess3bot",
+   "chess_set_manager",
    "chesschildren",
    "chessiverse_ethan",
    "chessiverse_luc",
@@ -2826,6 +2833,7 @@
    "colinbot",
    "colossusbot",
    "confidencebuilder",
+   "consolechessdev",
    "cookiebot711",
    "cosettebot",
    "croco_bot",
@@ -2967,6 +2975,7 @@
    "mate-in-thirty",
    "mate-in-twenty",
    "mate1-bot",
+   "matemakingmachine",
    "matmoi",
    "mayflyengine",
    "mcdonalds1955",
@@ -2975,6 +2984,7 @@
    "mimirbot",
    "minibotapi",
    "minibruteforcebot",
+   "minmaxvalgen",
    "mithandros",
    "mochi_bot",
    "morabandbot",
@@ -2989,6 +2999,7 @@
    "neryba",
    "nesbes",
    "neurosocute",
+   "newbiebott",
    "newchessengine-ai",
    "nexastrat",
    "nexosdefos",
@@ -3039,6 +3050,7 @@
    "registerpythonspeed",
    "reptilesbedamned",
    "ribfish-bot",
+   "rodent-v",
    "romanticbot",
    "romanticbot2",
    "rpibot73",
@@ -3089,6 +3101,7 @@
    "sykorabot",
    "takticprochess",
    "talosbot",
+   "teensycheesy",
    "terconari",
    "the_baronet",
    "thechessblazer",
@@ -3099,8 +3112,8 @@
    "tilapiabot",
    "timemachine1858",
    "tm-sovietschool",
+   "tonyengine",
    "topasbot",
-   "torombot",
    "trainer-bot",
    "trenerhetman",
    "troutbot",
@@ -3131,6 +3144,7 @@
    "voigtsbach",
    "walleye_bot",
    "walpurti",
+   "wannalearnbot",
    "weiawaga",
    "wolfuhfuhbot",
    "worst-ai",
