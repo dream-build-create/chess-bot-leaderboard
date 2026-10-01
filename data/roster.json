@@ -2754,10 +2754,15 @@
    "first_seen": "2026-09-30",
    "last_online": "2026-10-01",
    "username": "zion-bot"
+  },
+  "zobristhaescher": {
+   "first_seen": "2026-10-01",
+   "last_online": "2026-10-01",
+   "username": "ZobristHaescher"
   }
  },
  "online": {
-  "checked_at": "2026-10-01T22:54:13Z",
+  "checked_at": "2026-10-01T23:53:24Z",
   "ids": [
    "aatk_vanguardx",
    "abcd_engine",
@@ -2775,6 +2780,7 @@
    "angela_eng",
    "anna-bot",
    "annie_archy",
+   "anti-bot",
    "aposeij",
    "approximationbot",
    "arasanx",
@@ -2785,6 +2791,7 @@
    "atari-video-chess",
    "atomicenginev1",
    "axiom_bot",
+   "azzbot",
    "baby_eubos",
    "banerot",
    "batyarapro",
@@ -2819,6 +2826,7 @@
    "bubblebot2",
    "bufffishnet",
    "byte-knight",
+   "c0kval",
    "caiporabot",
    "cannotcheckmateme",
    "capybara_chessbot",
@@ -2900,6 +2908,7 @@
    "flounderbot",
    "flybrainchess",
    "garbobot",
+   "gbot113",
    "geotsibot",
    "ghidorah_x",
    "gnupassant",
@@ -2992,7 +3001,7 @@
    "mate1-bot",
    "matmoi",
    "mayflyengine",
-   "mcdonalds1955",
+   "mchess-engine",
    "mega-noob-bot",
    "melsh_bot",
    "mimirbot",
@@ -3156,7 +3165,8 @@
    "xewali",
    "z-o_aspenlabs",
    "zagreus_engine",
-   "zion-bot"
+   "zion-bot",
+   "zobristhaescher"
   ]
  },
  "schema_version": 1
