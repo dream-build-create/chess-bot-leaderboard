@@ -987,7 +987,7 @@
   },
   "ghidorah_x": {
    "first_seen": "2026-09-27",
-   "last_online": "2026-09-30",
+   "last_online": "2026-10-01",
    "username": "Ghidorah_X"
   },
   "gnupassant": {
@@ -1524,6 +1524,11 @@
    "first_seen": "2026-09-28",
    "last_online": "2026-09-28",
    "username": "MakeChessBetter"
+  },
+  "malanchess": {
+   "first_seen": "2026-10-01",
+   "last_online": "2026-10-01",
+   "username": "MalanChess"
   },
   "malpamat": {
    "first_seen": "2026-09-29",
@@ -2727,7 +2732,7 @@
   }
  },
  "online": {
-  "checked_at": "2026-10-01T14:56:49Z",
+  "checked_at": "2026-10-01T15:56:27Z",
   "ids": [
    "aaronsengine",
    "aatk_vanguardx",
@@ -2750,7 +2755,6 @@
    "approximationbot",
    "arasanx",
    "ariadne-bot",
-   "arthurai",
    "artidigm_research",
    "ashnostromo",
    "ask-aatk-bot",
@@ -2814,6 +2818,7 @@
    "cizme",
    "classic_bot-v2",
    "classical-leela",
+   "claudyengine",
    "cloudia-chess",
    "cloudnetbot",
    "clrsrc_lc0",
@@ -2870,9 +2875,12 @@
    "flounderbot",
    "flybrainchess",
    "garbobot",
+   "gbot113",
    "geotsibot",
+   "ghidorah_x",
    "gnupassant",
    "goldfish-engine",
+   "goopis",
    "grail-bot",
    "groshboss",
    "hackerchessbot",
@@ -2898,7 +2906,6 @@
    "jangine",
    "jenniferx",
    "jesterchessrobot",
-   "jibbby",
    "joan_clone",
    "joey_chessengine",
    "joshsbot",
@@ -2923,6 +2930,7 @@
    "leelarookodds",
    "leelatroll",
    "legochess98",
+   "lemuffinbot",
    "leol-bot",
    "likeawizard-bot",
    "lilitbot",
@@ -2952,6 +2960,7 @@
    "maia960-1900",
    "maia9_10n",
    "maia9_30n",
+   "malanchess",
    "markusdaukrobloxkid",
    "martuni",
    "mate-in-forty",
@@ -2972,7 +2981,6 @@
    "motor-0",
    "mr_sandbar",
    "mrtonnerre",
-   "musashi-thebot",
    "mychessjava",
    "nanozeroorg",
    "nebubot",
@@ -2980,7 +2988,6 @@
    "neryba",
    "nesbes",
    "neurosocute",
-   "newbiebott",
    "newchessengine-ai",
    "nexastrat",
    "nexosdefos",
@@ -3061,7 +3068,6 @@
    "southbot",
    "squarefish-900",
    "sseh-c",
-   "stepbot_chess",
    "stickshark99",
    "stockdory",
    "stockfail",
