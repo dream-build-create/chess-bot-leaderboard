@@ -102,7 +102,7 @@
   },
   "approximationbot": {
    "first_seen": "2026-09-27",
-   "last_online": "2026-09-27",
+   "last_online": "2026-10-01",
    "username": "ApproximationBot"
   },
   "arasanx": {
@@ -627,7 +627,7 @@
   },
   "consolechessdev": {
    "first_seen": "2026-09-28",
-   "last_online": "2026-09-30",
+   "last_online": "2026-10-01",
    "username": "ConsoleChessDev"
   },
   "consolechessfastbot": {
@@ -2682,7 +2682,7 @@
   }
  },
  "online": {
-  "checked_at": "2026-10-01T04:56:46Z",
+  "checked_at": "2026-10-01T05:56:42Z",
   "ids": [
    "aatk_vanguardx",
    "abcd_engine",
@@ -2700,6 +2700,7 @@
    "annie_archy",
    "anti-bot",
    "aposeij",
+   "approximationbot",
    "arasanx",
    "ariadne-bot",
    "artidigm_research",
@@ -2709,6 +2710,7 @@
    "axiom_bot",
    "baby_eubos",
    "banerot",
+   "batyarapro",
    "bbc_bot",
    "becela9_kpebetka",
    "berkbot",
@@ -2730,7 +2732,6 @@
    "bot5551",
    "bot64jaques",
    "bot_adario",
-   "bot_stockfish13",
    "bothev",
    "bothev2",
    "bottios",
@@ -2739,7 +2740,6 @@
    "bubblebot2",
    "bufffishnet",
    "byte-knight",
-   "c-t-r-l",
    "c0kval",
    "cannotcheckmateme",
    "capybara_chessbot",
@@ -2763,6 +2763,7 @@
    "chronicgambler",
    "cinder-bot",
    "cizme",
+   "classic_bot-v2",
    "classical-leela",
    "claudyengine",
    "cloudia-chess",
@@ -2773,6 +2774,7 @@
    "colinbot",
    "colossusbot",
    "confidencebuilder",
+   "consolechessdev",
    "cookiebot711",
    "cosettebot",
    "croco_bot",
@@ -2813,6 +2815,7 @@
    "falconengine",
    "fataliibot",
    "fathzer-jchess",
+   "fayefish",
    "felipe_bot_53",
    "fenrirbot",
    "flounderbot",
@@ -2938,6 +2941,7 @@
    "newbiebott",
    "newchessengine-ai",
    "nexastrat",
+   "nexosdefos",
    "nexuschess1",
    "nice_bot",
    "nickdrohan",
@@ -2950,7 +2954,6 @@
    "openinggenie2000",
    "overfitted",
    "oxide-eg",
-   "oxybullet",
    "oxydanbot",
    "panic-fish",
    "patzerbot135",
@@ -2975,6 +2978,7 @@
    "puisne",
    "pzchessbot",
    "queensgambot",
+   "r0bspierre",
    "raspfish",
    "ratkingbot",
    "ratsu-bot",
@@ -3081,7 +3085,6 @@
    "wolfuhfuhbot",
    "worst-ai",
    "worstfish",
-   "wyxx210704_bot",
    "xewali",
    "z-o_aspenlabs",
    "zagreus_engine",
