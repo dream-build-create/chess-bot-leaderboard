@@ -862,7 +862,7 @@
   },
   "endspiel-engine": {
    "first_seen": "2026-09-27",
-   "last_online": "2026-09-30",
+   "last_online": "2026-10-01",
    "username": "endspiel-engine"
   },
   "endspiel-pi": {
@@ -1102,7 +1102,7 @@
   },
   "hymybot": {
    "first_seen": "2026-09-30",
-   "last_online": "2026-09-30",
+   "last_online": "2026-10-01",
    "username": "HymyBot"
   },
   "hynobiuschess": {
@@ -1419,6 +1419,11 @@
    "first_seen": "2026-09-28",
    "last_online": "2026-09-29",
    "username": "MadameEngine"
+  },
+  "magic11bot_coach": {
+   "first_seen": "2026-10-01",
+   "last_online": "2026-10-01",
+   "username": "Magic11bot_Coach"
   },
   "maia1": {
    "first_seen": "2026-09-27",
@@ -2265,6 +2270,11 @@
    "last_online": "2026-10-01",
    "username": "SolsticeEngine"
   },
+  "sonataengine": {
+   "first_seen": "2026-10-01",
+   "last_online": "2026-10-01",
+   "username": "SonataEngine"
+  },
   "soulgar": {
    "first_seen": "2026-09-28",
    "last_online": "2026-09-28",
@@ -2687,7 +2697,7 @@
   },
   "wildorderbot": {
    "first_seen": "2026-09-28",
-   "last_online": "2026-09-30",
+   "last_online": "2026-10-01",
    "username": "WildorderBot"
   },
   "wolfuhfuhbot": {
@@ -2737,7 +2747,7 @@
   }
  },
  "online": {
-  "checked_at": "2026-10-01T17:56:22Z",
+  "checked_at": "2026-10-01T18:57:10Z",
   "ids": [
    "aaronsengine",
    "aatk_vanguardx",
@@ -2767,9 +2777,7 @@
    "axiom_bot",
    "baby_eubos",
    "banerot",
-   "batyarapro",
    "bbc_bot",
-   "becela9_kpebetka",
    "berkbot",
    "bernstein-2ply",
    "bernstein-4ply",
@@ -2789,9 +2797,7 @@
    "bot5551",
    "bot64jaques",
    "bot_adario",
-   "bot_stockfish13",
    "bothev",
-   "bothev2",
    "bottios",
    "botvunnix",
    "bretemabot",
@@ -2809,9 +2815,9 @@
    "charibot",
    "cheng-4",
    "cheng-4-nn",
-   "chess-dragon1",
    "chess3bot",
    "chess_set_manager",
+   "chessblight",
    "chesschildren",
    "chessiverse_ethan",
    "chessiverse_luc",
@@ -2822,11 +2828,9 @@
    "chronicgambler",
    "cinder-bot",
    "cizme",
-   "classic_bot-v2",
    "classical-leela",
    "claudyengine",
    "cloudia-chess",
-   "cloudnetbot",
    "clrsrc_lc0",
    "coda_bot",
    "codabot",
@@ -2868,6 +2872,7 @@
    "elexunix_chess_bot",
    "ellen_replay",
    "elmichess",
+   "endspiel-engine",
    "endspiel-pi",
    "enjoyably3303",
    "entebot",
@@ -2875,7 +2880,6 @@
    "falconengine",
    "fataliibot",
    "fathzer-jchess",
-   "fayefish",
    "felipe_bot_53",
    "fenrir-bot",
    "fenrirbot",
@@ -2889,7 +2893,6 @@
    "goldfish-engine",
    "goopis",
    "grail-bot",
-   "groshboss",
    "hackerchessbot",
    "halcyonbot",
    "hardrok",
@@ -2900,6 +2903,7 @@
    "honzovy-sachy-2",
    "hummus-bot",
    "hustler_2mb",
+   "hymybot",
    "hynobiuschess",
    "hyperopic",
    "icarus-bot",
@@ -2950,6 +2954,7 @@
    "lunaenginechess",
    "lynx_bot",
    "mac-bot",
+   "magic11bot_coach",
    "maia1",
    "maia2200_10n",
    "maia3-79m_1000",
@@ -2984,7 +2989,6 @@
    "mimirbot",
    "minibotapi",
    "minibruteforcebot",
-   "minmaxvalgen",
    "mithandros",
    "mochi_bot",
    "morabandbot",
@@ -3000,9 +3004,7 @@
    "nesbes",
    "neurosocute",
    "newbiebott",
-   "newchessengine-ai",
    "nexastrat",
-   "nexosdefos",
    "nexuschess1",
    "nice_bot",
    "nickdrohan",
@@ -3015,7 +3017,6 @@
    "openinggenie2000",
    "overfitted",
    "oxide-eg",
-   "oxydanbot",
    "panic-fish",
    "patzerbot135",
    "pawn_git",
@@ -3030,7 +3031,6 @@
    "pi0w",
    "piebot",
    "piglet_engine",
-   "platinumbot",
    "playmarius",
    "plumboi",
    "prokopakop",
@@ -3048,7 +3048,6 @@
    "rdtchessbot",
    "redbeantree",
    "registerpythonspeed",
-   "reptilesbedamned",
    "ribfish-bot",
    "rodent-v",
    "romanticbot",
@@ -3076,6 +3075,7 @@
    "slowmate_bot",
    "solobot",
    "solsticeengine",
+   "sonataengine",
    "southbot",
    "squarefish-900",
    "sseh-c",
@@ -3099,7 +3099,6 @@
    "sybaibot",
    "sybbot",
    "sykorabot",
-   "takticprochess",
    "talosbot",
    "teensycheesy",
    "terconari",
@@ -3108,7 +3107,6 @@
    "throrbjorn",
    "thunfisch-bot",
    "tigrament",
-   "tikifish",
    "tilapiabot",
    "timemachine1858",
    "tm-sovietschool",
@@ -3140,12 +3138,12 @@
    "vidbot",
    "vietnamesecoffee",
    "virutor",
-   "void_bot",
    "voigtsbach",
    "walleye_bot",
    "walpurti",
    "wannalearnbot",
    "weiawaga",
+   "wildorderbot",
    "wolfuhfuhbot",
    "worst-ai",
    "worstfish",
