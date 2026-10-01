@@ -7,7 +7,7 @@
   },
   "aatk_vanguardx": {
    "first_seen": "2026-09-27",
-   "last_online": "2026-09-30",
+   "last_online": "2026-10-01",
    "username": "AATK_VanguardX"
   },
   "abcd_engine": {
@@ -137,7 +137,7 @@
   },
   "ask-aatk-bot": {
    "first_seen": "2026-09-27",
-   "last_online": "2026-09-30",
+   "last_online": "2026-10-01",
    "username": "Ask-AATK-bot"
   },
   "atari-video-chess": {
@@ -389,6 +389,11 @@
    "first_seen": "2026-09-27",
    "last_online": "2026-10-01",
    "username": "byte-knight"
+  },
+  "c-t-r-l": {
+   "first_seen": "2026-10-01",
+   "last_online": "2026-10-01",
+   "username": "c-t-r-l"
   },
   "c0kval": {
    "first_seen": "2026-09-27",
@@ -1627,7 +1632,7 @@
   },
   "musashi-thebot": {
    "first_seen": "2026-09-28",
-   "last_online": "2026-09-30",
+   "last_online": "2026-10-01",
    "username": "Musashi-thebot"
   },
   "mxnet-gamemaster": {
@@ -2277,7 +2282,7 @@
   },
   "studyloversz-bot": {
    "first_seen": "2026-09-27",
-   "last_online": "2026-09-30",
+   "last_online": "2026-10-01",
    "username": "Studyloversz-bot"
   },
   "stupidchessrobot": {
@@ -2677,8 +2682,9 @@
   }
  },
  "online": {
-  "checked_at": "2026-10-01T03:56:30Z",
+  "checked_at": "2026-10-01T04:56:46Z",
   "ids": [
+   "aatk_vanguardx",
    "abcd_engine",
    "abdcebot",
    "aconcaguabot",
@@ -2698,11 +2704,11 @@
    "ariadne-bot",
    "artidigm_research",
    "ashnostromo",
+   "ask-aatk-bot",
    "atari-video-chess",
    "axiom_bot",
    "baby_eubos",
    "banerot",
-   "batyarapro",
    "bbc_bot",
    "becela9_kpebetka",
    "berkbot",
@@ -2733,6 +2739,7 @@
    "bubblebot2",
    "bufffishnet",
    "byte-knight",
+   "c-t-r-l",
    "c0kval",
    "cannotcheckmateme",
    "capybara_chessbot",
@@ -2756,10 +2763,10 @@
    "chronicgambler",
    "cinder-bot",
    "cizme",
-   "classic_bot-v2",
    "classical-leela",
    "claudyengine",
    "cloudia-chess",
+   "cloudnetbot",
    "clrsrc_lc0",
    "coda_bot",
    "codabot",
@@ -2821,7 +2828,6 @@
    "groshboss",
    "hackerchessbot",
    "halcyonbot",
-   "hardrok",
    "hiusbot",
    "hodgeybot",
    "holidaybot1225",
@@ -2921,6 +2927,7 @@
    "motor-0",
    "mr_sandbar",
    "mrtonnerre",
+   "musashi-thebot",
    "mychessjava",
    "nanozeroorg",
    "nebubot",
@@ -2931,7 +2938,6 @@
    "newbiebott",
    "newchessengine-ai",
    "nexastrat",
-   "nexosdefos",
    "nexuschess1",
    "nice_bot",
    "nickdrohan",
@@ -2969,7 +2975,6 @@
    "puisne",
    "pzchessbot",
    "queensgambot",
-   "r0bspierre",
    "raspfish",
    "ratkingbot",
    "ratsu-bot",
@@ -3016,6 +3021,7 @@
    "stockfishlowdepth",
    "stockpapagei",
    "streamervschat",
+   "studyloversz-bot",
    "stupidchessrobot",
    "stupidfishbotbydscs",
    "styx_reckless",
@@ -3025,8 +3031,6 @@
    "sunfish_rs_v2",
    "supergame5",
    "sxphia",
-   "sybaibot",
-   "sybbot",
    "sykorabot",
    "takticprochess",
    "talosbot",
@@ -3037,6 +3041,7 @@
    "thunfisch-bot",
    "tidymazebot",
    "tigrament",
+   "tikifish",
    "tilapiabot",
    "timemachine1858",
    "tm-sovietschool",
@@ -3068,6 +3073,7 @@
    "vidbot",
    "vietnamesecoffee",
    "virutor",
+   "void_bot",
    "voigtsbach",
    "walleye_bot",
    "walpurti",
