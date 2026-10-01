@@ -612,7 +612,7 @@
   },
   "colossusbot": {
    "first_seen": "2026-09-30",
-   "last_online": "2026-09-30",
+   "last_online": "2026-10-01",
    "username": "ColossusBOT"
   },
   "confidencebuilder": {
@@ -2640,6 +2640,11 @@
    "last_online": "2026-10-01",
    "username": "WorstFish"
   },
+  "wyxx210704_bot": {
+   "first_seen": "2026-10-01",
+   "last_online": "2026-10-01",
+   "username": "wyxx210704_bot"
+  },
   "xewali": {
    "first_seen": "2026-09-27",
    "last_online": "2026-10-01",
@@ -2667,7 +2672,7 @@
   }
  },
  "online": {
-  "checked_at": "2026-10-01T01:00:08Z",
+  "checked_at": "2026-10-01T01:54:40Z",
   "ids": [
    "abcd_engine",
    "abdcebot",
@@ -2704,7 +2709,6 @@
    "bfiedler-bot",
    "bhonduesque",
    "bitbitbot",
-   "blindpewce",
    "blobfish-bot",
    "bluemoonbot",
    "blujay-bot",
@@ -2758,6 +2762,7 @@
    "coda_bot",
    "codabot",
    "colinbot",
+   "colossusbot",
    "confidencebuilder",
    "cookiebot711",
    "cosettebot",
@@ -2803,7 +2808,6 @@
    "fenrirbot",
    "flounderbot",
    "flybrainchess",
-   "fpga-chess",
    "gambitonlybot",
    "garbobot",
    "gbot113",
@@ -3067,6 +3071,7 @@
    "wolfuhfuhbot",
    "worst-ai",
    "worstfish",
+   "wyxx210704_bot",
    "xewali",
    "z-o_aspenlabs",
    "zagreus_engine",

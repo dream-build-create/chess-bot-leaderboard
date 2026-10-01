@@ -1,7 +1,7 @@
 {
  "schema_version": 1,
  "generated_at": "2026-10-01T01:28:04Z",
- "online_checked_at": "2026-10-01T01:00:08Z",
+ "online_checked_at": "2026-10-01T01:54:40Z",
  "source": "Lichess public API",
  "rules": {
   "activity_days": 7,
@@ -6247,7 +6247,7 @@
     "rd": 45,
     "games": 2003,
     "last_active": "2026-10-01",
-    "online": true,
+    "online": false,
     "stockfish": false,
     "declared_engine": null,
     "bio": "An FPGA-based chess engine by Emet Behrendt",
