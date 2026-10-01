@@ -450,6 +450,11 @@
    "last_online": "2026-10-01",
    "username": "catriever"
   },
+  "ceraf": {
+   "first_seen": "2026-10-01",
+   "last_online": "2026-10-01",
+   "username": "CERAF"
+  },
   "chamberiajedrez": {
    "first_seen": "2026-09-29",
    "last_online": "2026-10-01",
@@ -919,6 +924,11 @@
    "first_seen": "2026-09-27",
    "last_online": "2026-10-01",
    "username": "felipe_bot_53"
+  },
+  "fenrir-bot": {
+   "first_seen": "2026-10-01",
+   "last_online": "2026-10-01",
+   "username": "Fenrir-bot"
   },
   "fenrirbot": {
    "first_seen": "2026-09-27",
@@ -2712,7 +2722,7 @@
   }
  },
  "online": {
-  "checked_at": "2026-10-01T13:00:13Z",
+  "checked_at": "2026-10-01T13:57:44Z",
   "ids": [
    "aaronsengine",
    "aatk_vanguardx",
@@ -2774,13 +2784,13 @@
    "bubblebot2",
    "bufffishnet",
    "byte-knight",
-   "c0kval",
    "caiporabot",
    "cannotcheckmateme",
    "capybara_chessbot",
    "casanchess-nnue",
    "catnail",
    "catriever",
+   "ceraf",
    "chamberiajedrez",
    "charibot",
    "cheng-4",
@@ -2849,7 +2859,9 @@
    "falconengine",
    "fataliibot",
    "fathzer-jchess",
+   "fayefish",
    "felipe_bot_53",
+   "fenrir-bot",
    "fenrirbot",
    "flounderbot",
    "flybrainchess",
@@ -2857,7 +2869,6 @@
    "geotsibot",
    "gnupassant",
    "goldfish-engine",
-   "goopis",
    "grail-bot",
    "groshboss",
    "halcyonbot",
@@ -2880,7 +2891,6 @@
    "jackedfish",
    "jacobsbot",
    "jangine",
-   "jenniferx",
    "jesterchessrobot",
    "jibbby",
    "joan_clone",
@@ -2944,10 +2954,11 @@
    "mate1-bot",
    "matmoi",
    "mayflyengine",
-   "mcdonalds1955",
    "mega-noob-bot",
    "melsh_bot",
    "mimirbot",
+   "minibotapi",
+   "minibruteforcebot",
    "mithandros",
    "mochi_bot",
    "morabandbot",
@@ -2961,10 +2972,10 @@
    "nebubot",
    "nerachess",
    "neryba",
+   "nesbes",
    "neurosocute",
    "newbiebott",
    "newchessengine-ai",
-   "newtsbot",
    "nexastrat",
    "nexosdefos",
    "nexuschess1",
@@ -3052,7 +3063,6 @@
    "studyloversz-bot",
    "stupidchessrobot",
    "stupidfishbotbydscs",
-   "styx_reckless",
    "subnorbot",
    "sunfish-engine",
    "sunfish-nnue-engine",
