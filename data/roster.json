@@ -2,7 +2,7 @@
  "bots": {
   "aaronsengine": {
    "first_seen": "2026-09-27",
-   "last_online": "2026-10-01",
+   "last_online": "2026-10-02",
    "username": "AaronsEngine"
   },
   "aatk_vanguardx": {
@@ -62,7 +62,7 @@
   },
   "ajedrezchamberi": {
    "first_seen": "2026-09-29",
-   "last_online": "2026-10-01",
+   "last_online": "2026-10-02",
    "username": "AjedrezChamberi"
   },
   "alarm2001": {
@@ -462,7 +462,7 @@
   },
   "chamberiajedrez": {
    "first_seen": "2026-09-29",
-   "last_online": "2026-10-01",
+   "last_online": "2026-10-02",
    "username": "ChamberiAjedrez"
   },
   "chaotong_engine": {
@@ -804,6 +804,11 @@
    "first_seen": "2026-09-29",
    "last_online": "2026-09-29",
    "username": "dgtrychess"
+  },
+  "dragonrosedev": {
+   "first_seen": "2026-10-02",
+   "last_online": "2026-10-02",
+   "username": "DragonroseDev"
   },
   "dragoodle": {
    "first_seen": "2026-09-30",
@@ -2162,12 +2167,12 @@
   },
   "sara32222": {
    "first_seen": "2026-09-28",
-   "last_online": "2026-09-28",
+   "last_online": "2026-10-02",
    "username": "Sara32222"
   },
   "sara_bot": {
    "first_seen": "2026-09-28",
-   "last_online": "2026-09-28",
+   "last_online": "2026-10-02",
    "username": "Sara_bot"
   },
   "sargon-1ply": {
@@ -2467,7 +2472,7 @@
   },
   "tempocore": {
    "first_seen": "2026-09-29",
-   "last_online": "2026-09-30",
+   "last_online": "2026-10-02",
    "username": "TempoCore"
   },
   "terconari": {
@@ -2787,8 +2792,9 @@
   }
  },
  "online": {
-  "checked_at": "2026-10-02T07:56:05Z",
+  "checked_at": "2026-10-02T08:55:19Z",
   "ids": [
+   "aaronsengine",
    "aatk_vanguardx",
    "abcd_engine",
    "abdcebot",
@@ -2798,6 +2804,7 @@
    "aggressivestockfish",
    "ai-con",
    "ailedbot",
+   "ajedrezchamberi",
    "alarm2001",
    "aliceshiro",
    "andobot",
@@ -2836,7 +2843,6 @@
    "bot64jaques",
    "bot_adario",
    "bot_stockfish13",
-   "bothev",
    "bottios",
    "botvunnix",
    "bretemabot",
@@ -2845,12 +2851,12 @@
    "byte-knight",
    "c0kval",
    "caiporabot",
-   "caissa-x",
    "cannotcheckmateme",
    "capybara_chessbot",
    "casanchess-nnue",
    "catnail",
    "catriever",
+   "chamberiajedrez",
    "charibot",
    "cheng-4",
    "cheng-4-nn",
@@ -2886,7 +2892,6 @@
    "croco_bot",
    "croco_little_bot",
    "crocodile_bot",
-   "cruelken",
    "cutebot",
    "dala-1100",
    "dala-1300",
@@ -2906,6 +2911,7 @@
    "demolito_l3",
    "demolito_l4",
    "demolito_l5",
+   "dragonrosedev",
    "drawfish-reborn",
    "duchessai",
    "dumbotai",
@@ -3051,7 +3057,6 @@
    "neurosocute",
    "newbiebott",
    "newchessengine-ai",
-   "newtsbot",
    "nexastrat",
    "nexosdefos",
    "nice_bot",
@@ -3108,6 +3113,8 @@
    "rust-in-pieces",
    "rustyrival",
    "ryu-ishigori",
+   "sara32222",
+   "sara_bot",
    "sargon-1ply",
    "sargon-2ply",
    "sargon-3ply",
@@ -3116,7 +3123,6 @@
    "scalaqueen",
    "schnecken_bot",
    "scipio-bot",
-   "sf_bot1nok",
    "sharpsundae",
    "shrevenbot",
    "silverpike",
@@ -3152,6 +3158,7 @@
    "takticprochess",
    "talosbot",
    "teensycheesy",
+   "tempocore",
    "terconari",
    "thechessblazer",
    "throrbjorn",
@@ -3186,11 +3193,11 @@
    "vanibot",
    "variantsbot",
    "vic98lg",
+   "vicentlittle",
    "vidbot",
    "vietnamesecoffee",
    "violentstockfish",
    "virutor",
-   "void_bot",
    "voigtsbach",
    "walpurti",
    "weiawaga",
@@ -3200,8 +3207,7 @@
    "xewali",
    "z-o_aspenlabs",
    "zagreus_engine",
-   "zion-bot",
-   "zobristhaescher"
+   "zion-bot"
   ]
  },
  "schema_version": 1
