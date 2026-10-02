@@ -540,6 +540,11 @@
    "last_online": "2026-10-02",
    "username": "ChessChildren"
   },
+  "chessgeniusbot": {
+   "first_seen": "2026-10-02",
+   "last_online": "2026-10-02",
+   "username": "ChessGeniusBot"
+  },
   "chessiverse_ethan": {
    "first_seen": "2026-09-27",
    "last_online": "2026-10-02",
@@ -1225,6 +1230,11 @@
    "last_online": "2026-10-02",
    "username": "Jibbby"
   },
+  "jimmy_inc3710": {
+   "first_seen": "2026-10-02",
+   "last_online": "2026-10-02",
+   "username": "Jimmy_inc3710"
+  },
   "joan_clone": {
    "first_seen": "2026-09-27",
    "last_online": "2026-10-02",
@@ -1840,6 +1850,11 @@
    "last_online": "2026-09-30",
    "username": "OmegaZero-Bot"
   },
+  "onezenpanda": {
+   "first_seen": "2026-10-02",
+   "last_online": "2026-10-02",
+   "username": "OneZenPanda"
+  },
   "openinggenie2000": {
    "first_seen": "2026-09-27",
    "last_online": "2026-10-02",
@@ -2282,7 +2297,7 @@
   },
   "slightknight_11": {
    "first_seen": "2026-09-28",
-   "last_online": "2026-09-28",
+   "last_online": "2026-10-02",
    "username": "SlightKnight_11"
   },
   "slothcomputer": {
@@ -2807,7 +2822,7 @@
   }
  },
  "online": {
-  "checked_at": "2026-10-02T14:57:48Z",
+  "checked_at": "2026-10-02T15:56:26Z",
   "ids": [
    "aaronsengine",
    "abcd_engine",
@@ -2878,6 +2893,7 @@
    "chessatronbot",
    "chessblight",
    "chesschildren",
+   "chessgeniusbot",
    "chessiverse_ethan",
    "chessiverse_luc",
    "chessiverse_pawnza",
@@ -2945,7 +2961,6 @@
    "flounderbot",
    "flybrainchess",
    "fschess-engine",
-   "gambitonlybot",
    "garbobot",
    "geotsibot",
    "ghidorah_x",
@@ -2979,6 +2994,7 @@
    "jenniferx",
    "jesterchessrobot",
    "jibbby",
+   "jimmy_inc3710",
    "joan_clone",
    "joey_chessengine",
    "joshsbot",
@@ -3033,6 +3049,7 @@
    "maia960-1900",
    "maia9_10n",
    "maia9_30n",
+   "makechessbetter",
    "malanchess",
    "markusdaukrobloxkid",
    "martuni",
@@ -3043,14 +3060,12 @@
    "matmoi",
    "mayflyengine",
    "mcdonalds1955",
-   "mchess-engine",
    "mega-noob-bot",
    "melsh_bot",
    "mimirbot",
    "minibotapi",
    "minibruteforcebot",
    "minmaxvalgen",
-   "miss_snowiee",
    "mithandros",
    "mochi_bot",
    "morabandbot",
@@ -3079,6 +3094,7 @@
    "noel-bot",
    "notropis",
    "o-rei-cx",
+   "onezenpanda",
    "openinggenie2000",
    "openingsbot",
    "overfitted",
@@ -3125,6 +3141,7 @@
    "rust-in-pieces",
    "rustyrival",
    "ryu-ishigori",
+   "sara_bot",
    "sargon-1ply",
    "sargon-2ply",
    "sargon-3ply",
@@ -3141,6 +3158,7 @@
    "simpleeval",
    "sj_norbot",
    "sleepmindengine",
+   "slightknight_11",
    "slowmate_bot",
    "solsticeengine",
    "southbot",
@@ -3159,7 +3177,6 @@
    "sunfish-engine",
    "sunfish-nnue-engine",
    "sunfish_rs_v2",
-   "supergame5",
    "sxphia",
    "sybaibot",
    "sybbot",
