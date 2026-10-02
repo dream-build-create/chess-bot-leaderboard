@@ -517,7 +517,7 @@
   },
   "chessatronbot": {
    "first_seen": "2026-09-27",
-   "last_online": "2026-10-01",
+   "last_online": "2026-10-02",
    "username": "ChessatronBot"
   },
   "chessblight": {
@@ -987,7 +987,7 @@
   },
   "gambitonlybot": {
    "first_seen": "2026-09-28",
-   "last_online": "2026-10-01",
+   "last_online": "2026-10-02",
    "username": "GambitOnlyBot"
   },
   "garbobot": {
@@ -2807,7 +2807,7 @@
   }
  },
  "online": {
-  "checked_at": "2026-10-02T13:56:50Z",
+  "checked_at": "2026-10-02T14:57:48Z",
   "ids": [
    "aaronsengine",
    "abcd_engine",
@@ -2838,6 +2838,7 @@
    "batyarapro",
    "bbc_bot",
    "becela9_kpebetka",
+   "beelzebubzero",
    "berkbot",
    "bernstein-2ply",
    "bernstein-4ply",
@@ -2874,8 +2875,8 @@
    "cheng-4-nn",
    "chess-dragon1",
    "chess3bot",
+   "chessatronbot",
    "chessblight",
-   "chessbzero",
    "chesschildren",
    "chessiverse_ethan",
    "chessiverse_luc",
@@ -2939,10 +2940,12 @@
    "fathzer-jchess",
    "fayefish",
    "felipe_bot_53",
+   "fenrir-bot",
    "fenrirbot",
    "flounderbot",
    "flybrainchess",
    "fschess-engine",
+   "gambitonlybot",
    "garbobot",
    "geotsibot",
    "ghidorah_x",
@@ -3030,7 +3033,6 @@
    "maia960-1900",
    "maia9_10n",
    "maia9_30n",
-   "makechessbetter",
    "malanchess",
    "markusdaukrobloxkid",
    "martuni",
@@ -3066,7 +3068,6 @@
    "neurosocute",
    "newbiebott",
    "newchessengine-ai",
-   "newtsbot",
    "nexastrat",
    "nexosdefos",
    "nice_bot",
@@ -3119,6 +3120,7 @@
    "romanticbot",
    "romanticbot2",
    "rotor-bot",
+   "rpibot73",
    "rudim-bot",
    "rust-in-pieces",
    "rustyrival",
@@ -3159,6 +3161,8 @@
    "sunfish_rs_v2",
    "supergame5",
    "sxphia",
+   "sybaibot",
+   "sybbot",
    "sykorabot",
    "takticprochess",
    "talosbot",
