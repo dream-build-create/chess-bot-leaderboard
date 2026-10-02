@@ -467,7 +467,7 @@
   },
   "chaotong_engine": {
    "first_seen": "2026-09-28",
-   "last_online": "2026-09-30",
+   "last_online": "2026-10-02",
    "username": "Chaotong_engine"
   },
   "charibot": {
@@ -2007,7 +2007,7 @@
   },
   "queensgambot": {
    "first_seen": "2026-09-27",
-   "last_online": "2026-10-01",
+   "last_online": "2026-10-02",
    "username": "QueensGamBOT"
   },
   "r0bspierre": {
@@ -2412,12 +2412,12 @@
   },
   "sybaibot": {
    "first_seen": "2026-09-27",
-   "last_online": "2026-10-01",
+   "last_online": "2026-10-02",
    "username": "SybAIBot"
   },
   "sybbot": {
    "first_seen": "2026-09-27",
-   "last_online": "2026-10-01",
+   "last_online": "2026-10-02",
    "username": "SybBot"
   },
   "sykorabot": {
@@ -2727,7 +2727,7 @@
   },
   "wyxx210704_bot": {
    "first_seen": "2026-10-01",
-   "last_online": "2026-10-01",
+   "last_online": "2026-10-02",
    "username": "wyxx210704_bot"
   },
   "xewali": {
@@ -2762,7 +2762,7 @@
   }
  },
  "online": {
-  "checked_at": "2026-10-02T00:58:27Z",
+  "checked_at": "2026-10-02T01:54:52Z",
   "ids": [
    "aatk_vanguardx",
    "abcd_engine",
@@ -2803,7 +2803,6 @@
    "bfiedler-bot",
    "bhonduesque",
    "bitbitbot",
-   "blindpewce",
    "blobfish-bot",
    "bluemoonbot",
    "blujay-bot",
@@ -2831,6 +2830,7 @@
    "casanchess-nnue",
    "catnail",
    "catriever",
+   "chaotong_engine",
    "charibot",
    "chess-dragon1",
    "chess3bot",
@@ -2898,7 +2898,6 @@
    "falconengine",
    "fataliibot",
    "fathzer-jchess",
-   "fayefish",
    "felipe_bot_53",
    "fenrir-bot",
    "fenrirbot",
@@ -3034,7 +3033,6 @@
    "openinggenie2000",
    "overfitted",
    "oxide-eg",
-   "oxybullet",
    "oxydanbot",
    "panic-fish",
    "patzerbot135",
@@ -3055,6 +3053,7 @@
    "prosperobot",
    "puisne",
    "pzchessbot",
+   "queensgambot",
    "radianceengine",
    "raspfish",
    "ratkingbot",
@@ -3110,6 +3109,8 @@
    "sunfish_rs_v2",
    "supergame5",
    "sxphia",
+   "sybaibot",
+   "sybbot",
    "sykorabot",
    "takticprochess",
    "talosbot",
@@ -3118,7 +3119,6 @@
    "thechessblazer",
    "throrbjorn",
    "thunfisch-bot",
-   "tidymazebot",
    "tigrament",
    "tikifish",
    "tilapiabot",
@@ -3158,6 +3158,7 @@
    "wolfuhfuhbot",
    "worst-ai",
    "worstfish",
+   "wyxx210704_bot",
    "xewali",
    "z-o_aspenlabs",
    "zagreus_engine",
