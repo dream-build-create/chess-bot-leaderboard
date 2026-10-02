@@ -192,12 +192,12 @@
   },
   "battlebornthe4th": {
    "first_seen": "2026-09-28",
-   "last_online": "2026-09-30",
+   "last_online": "2026-10-02",
    "username": "BattleBornThe4th"
   },
   "battlebornthe5th": {
    "first_seen": "2026-09-29",
-   "last_online": "2026-09-30",
+   "last_online": "2026-10-02",
    "username": "BattleBornThe5th"
   },
   "batyarapro": {
@@ -212,7 +212,7 @@
   },
   "beastie1": {
    "first_seen": "2026-09-29",
-   "last_online": "2026-09-30",
+   "last_online": "2026-10-02",
    "username": "beastie1"
   },
   "becela9_kpebetka": {
@@ -427,7 +427,7 @@
   },
   "calico1": {
    "first_seen": "2026-09-29",
-   "last_online": "2026-09-30",
+   "last_online": "2026-10-02",
    "username": "calico1"
   },
   "cannotcheckmateme": {
@@ -1687,7 +1687,7 @@
   },
   "musashi-thebot": {
    "first_seen": "2026-09-28",
-   "last_online": "2026-10-01",
+   "last_online": "2026-10-02",
    "username": "Musashi-thebot"
   },
   "mxnet-gamemaster": {
@@ -1775,6 +1775,11 @@
    "last_online": "2026-10-02",
    "username": "nickdrohan"
   },
+  "nightruin": {
+   "first_seen": "2026-10-02",
+   "last_online": "2026-10-02",
+   "username": "NightRuin"
+  },
   "nilatacbot": {
    "first_seen": "2026-09-27",
    "last_online": "2026-10-02",
@@ -1822,7 +1827,7 @@
   },
   "osaurus": {
    "first_seen": "2026-09-29",
-   "last_online": "2026-09-30",
+   "last_online": "2026-10-02",
    "username": "OSaurus"
   },
   "overfitted": {
@@ -2232,7 +2237,7 @@
   },
   "simple-bot": {
    "first_seen": "2026-09-27",
-   "last_online": "2026-09-29",
+   "last_online": "2026-10-02",
    "username": "simple-bot"
   },
   "simpleeval": {
@@ -2767,7 +2772,7 @@
   }
  },
  "online": {
-  "checked_at": "2026-10-02T04:55:39Z",
+  "checked_at": "2026-10-02T05:54:56Z",
   "ids": [
    "aatk_vanguardx",
    "abcd_engine",
@@ -2796,8 +2801,11 @@
    "azzbot",
    "baby_eubos",
    "banerot",
-   "battlebornthe1st",
+   "battlebornthe4th",
+   "battlebornthe5th",
+   "batyarapro",
    "bbc_bot",
+   "beastie1",
    "becela9_kpebetka",
    "berkbot",
    "bernstein-2ply",
@@ -2827,6 +2835,7 @@
    "byte-knight",
    "c0kval",
    "caiporabot",
+   "calico1",
    "cannotcheckmateme",
    "capybara_chessbot",
    "casanchess-nnue",
@@ -2849,6 +2858,7 @@
    "chronicgambler",
    "cinder-bot",
    "cizme",
+   "classic_bot-v2",
    "classical-leela",
    "claudyengine",
    "cloudia-chess",
@@ -2904,6 +2914,7 @@
    "falconengine",
    "fataliibot",
    "fathzer-jchess",
+   "fayefish",
    "felipe_bot_53",
    "fenrir-bot",
    "fenrirbot",
@@ -2913,7 +2924,6 @@
    "gbot113",
    "georgii_ai",
    "geotsibot",
-   "ghidorah_x",
    "gnupassant",
    "goldfish-engine",
    "goopis",
@@ -3020,6 +3030,7 @@
    "motor-0",
    "mr_sandbar",
    "mrtonnerre",
+   "musashi-thebot",
    "mychessjava",
    "nanozeroorg",
    "nebubot",
@@ -3030,8 +3041,10 @@
    "newbiebott",
    "newchessengine-ai",
    "nexastrat",
+   "nexosdefos",
    "nice_bot",
    "nickdrohan",
+   "nightruin",
    "nilatacbot",
    "nittedal",
    "noabot",
@@ -3040,6 +3053,7 @@
    "o-rei-cx",
    "openinggenie2000",
    "openingsbot",
+   "osaurus",
    "overfitted",
    "oxide-eg",
    "oxydanbot",
@@ -3097,6 +3111,7 @@
    "shrevenbot",
    "silverpike",
    "simbelmyne-bot",
+   "simple-bot",
    "simpleeval",
    "sj_norbot",
    "sleepmindengine",
@@ -3121,8 +3136,6 @@
    "sunfish_rs_v2",
    "supergame5",
    "sxphia",
-   "sybaibot",
-   "sybbot",
    "sykorabot",
    "takticprochess",
    "talosbot",
@@ -3172,7 +3185,6 @@
    "wolfuhfuhbot",
    "worst-ai",
    "worstfish",
-   "wyxx210704_bot",
    "xewali",
    "z-o_aspenlabs",
    "zagreus_engine",
