@@ -2147,7 +2147,7 @@
   },
   "rodent-v": {
    "first_seen": "2026-09-28",
-   "last_online": "2026-10-01",
+   "last_online": "2026-10-02",
    "username": "Rodent-V"
   },
   "romanticbot": {
@@ -2335,10 +2335,20 @@
    "last_online": "2026-10-02",
    "username": "SolsticeEngine"
   },
+  "somekindofbot": {
+   "first_seen": "2026-10-02",
+   "last_online": "2026-10-02",
+   "username": "somekindofbot"
+  },
   "sonataengine": {
    "first_seen": "2026-10-01",
    "last_online": "2026-10-02",
    "username": "SonataEngine"
+  },
+  "sonataintelligence": {
+   "first_seen": "2026-10-02",
+   "last_online": "2026-10-02",
+   "username": "SonataIntelligence"
   },
   "soulgar": {
    "first_seen": "2026-09-28",
@@ -2822,7 +2832,7 @@
   }
  },
  "online": {
-  "checked_at": "2026-10-02T15:56:26Z",
+  "checked_at": "2026-10-02T16:56:06Z",
   "ids": [
    "aaronsengine",
    "abcd_engine",
@@ -2833,7 +2843,6 @@
    "ai-con",
    "ailedbot",
    "ajedrezchamberi",
-   "alarm2001",
    "aliceshiro",
    "andobot",
    "angela_eng",
@@ -2878,6 +2887,7 @@
    "bubblebot2",
    "bufffishnet",
    "byte-knight",
+   "c0kval",
    "caiporabot",
    "cannotcheckmateme",
    "capybara_chessbot",
@@ -2890,10 +2900,10 @@
    "cheng-4-nn",
    "chess-dragon1",
    "chess3bot",
+   "chess_set_manager",
    "chessatronbot",
    "chessblight",
    "chesschildren",
-   "chessgeniusbot",
    "chessiverse_ethan",
    "chessiverse_luc",
    "chessiverse_pawnza",
@@ -2913,6 +2923,8 @@
    "codabot",
    "colinbot",
    "confidencebuilder",
+   "consolechessdev",
+   "consolechessfastbot",
    "cookiebot711",
    "cosettebot",
    "croco_bot",
@@ -2956,11 +2968,11 @@
    "fathzer-jchess",
    "fayefish",
    "felipe_bot_53",
-   "fenrir-bot",
    "fenrirbot",
    "flounderbot",
    "flybrainchess",
    "fschess-engine",
+   "gambitonlybot",
    "garbobot",
    "geotsibot",
    "ghidorah_x",
@@ -2968,7 +2980,6 @@
    "goldfish-engine",
    "goopis",
    "grail-bot",
-   "groshboss",
    "hackerchessbot",
    "halcyonbot",
    "hardrok",
@@ -2994,7 +3005,6 @@
    "jenniferx",
    "jesterchessrobot",
    "jibbby",
-   "jimmy_inc3710",
    "joan_clone",
    "joey_chessengine",
    "joshsbot",
@@ -3059,7 +3069,6 @@
    "mate1-bot",
    "matmoi",
    "mayflyengine",
-   "mcdonalds1955",
    "mega-noob-bot",
    "melsh_bot",
    "mimirbot",
@@ -3133,6 +3142,7 @@
    "registerpythonspeed",
    "resolutebot",
    "ribfish-bot",
+   "rodent-v",
    "romanticbot",
    "romanticbot2",
    "rotor-bot",
@@ -3141,7 +3151,6 @@
    "rust-in-pieces",
    "rustyrival",
    "ryu-ishigori",
-   "sara_bot",
    "sargon-1ply",
    "sargon-2ply",
    "sargon-3ply",
@@ -3158,9 +3167,9 @@
    "simpleeval",
    "sj_norbot",
    "sleepmindengine",
-   "slightknight_11",
    "slowmate_bot",
-   "solsticeengine",
+   "somekindofbot",
+   "sonataintelligence",
    "southbot",
    "squarefish-900",
    "sseh-c",
@@ -3181,7 +3190,6 @@
    "sybaibot",
    "sybbot",
    "sykorabot",
-   "takticprochess",
    "talosbot",
    "teensycheesy",
    "terconari",
