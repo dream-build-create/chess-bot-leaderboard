@@ -637,7 +637,7 @@
   },
   "colossusbot": {
    "first_seen": "2026-09-30",
-   "last_online": "2026-10-01",
+   "last_online": "2026-10-02",
    "username": "ColossusBOT"
   },
   "confidencebuilder": {
@@ -1149,6 +1149,11 @@
    "first_seen": "2026-09-27",
    "last_online": "2026-10-02",
    "username": "InanisBot"
+  },
+  "incipit_bot": {
+   "first_seen": "2026-10-02",
+   "last_online": "2026-10-02",
+   "username": "incipit_bot"
   },
   "io-bot": {
    "first_seen": "2026-09-28",
@@ -1747,7 +1752,7 @@
   },
   "newtsbot": {
    "first_seen": "2026-09-27",
-   "last_online": "2026-10-01",
+   "last_online": "2026-10-02",
    "username": "NEWTSbot"
   },
   "nexastrat": {
@@ -2777,12 +2782,12 @@
   },
   "zobristhaescher": {
    "first_seen": "2026-10-01",
-   "last_online": "2026-10-01",
+   "last_online": "2026-10-02",
    "username": "ZobristHaescher"
   }
  },
  "online": {
-  "checked_at": "2026-10-02T06:58:54Z",
+  "checked_at": "2026-10-02T07:56:05Z",
   "ids": [
    "aatk_vanguardx",
    "abcd_engine",
@@ -2827,7 +2832,6 @@
    "bongaclang",
    "boris-trapsky",
    "borkatower",
-   "bot-o-tron",
    "bot5551",
    "bot64jaques",
    "bot_adario",
@@ -2873,6 +2877,7 @@
    "coda_bot",
    "codabot",
    "colinbot",
+   "colossusbot",
    "confidencebuilder",
    "consolechessdev",
    "consolechessfastbot",
@@ -2911,7 +2916,6 @@
    "elexunix_chess_bot",
    "ellen_replay",
    "elmichess",
-   "endspiel-engine",
    "endspiel-pi",
    "enjoyably3303",
    "entebot",
@@ -2949,9 +2953,11 @@
    "ilcorvochess",
    "ilovecatgirl",
    "inanisbot",
+   "incipit_bot",
    "io-bot",
    "is_boss",
    "iskelt-corax",
+   "jackedfish",
    "jacobsbot",
    "jangine",
    "jenniferx",
@@ -3045,6 +3051,7 @@
    "neurosocute",
    "newbiebott",
    "newchessengine-ai",
+   "newtsbot",
    "nexastrat",
    "nexosdefos",
    "nice_bot",
@@ -3119,8 +3126,6 @@
    "sj_norbot",
    "sleepmindengine",
    "slowmate_bot",
-   "sohilbot",
-   "solidor59",
    "solsticeengine",
    "southbot",
    "squarefish-900",
@@ -3141,6 +3146,8 @@
    "sunfish_rs_v2",
    "supergame5",
    "sxphia",
+   "sybaibot",
+   "sybbot",
    "sykorabot",
    "takticprochess",
    "talosbot",
@@ -3179,7 +3186,6 @@
    "vanibot",
    "variantsbot",
    "vic98lg",
-   "vicentlittle",
    "vidbot",
    "vietnamesecoffee",
    "violentstockfish",
@@ -3194,7 +3200,8 @@
    "xewali",
    "z-o_aspenlabs",
    "zagreus_engine",
-   "zion-bot"
+   "zion-bot",
+   "zobristhaescher"
   ]
  },
  "schema_version": 1
