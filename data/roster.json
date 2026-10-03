@@ -187,7 +187,7 @@
   },
   "battlebornthe2nd": {
    "first_seen": "2026-09-28",
-   "last_online": "2026-09-29",
+   "last_online": "2026-10-03",
    "username": "BattleBornThe2nd"
   },
   "battlebornthe3rd": {
@@ -1280,6 +1280,11 @@
    "last_online": "2026-10-03",
    "username": "justbot-v1"
   },
+  "kepler_bot": {
+   "first_seen": "2026-10-03",
+   "last_online": "2026-10-03",
+   "username": "kepler_bot"
+  },
   "kestrelstrike": {
    "first_seen": "2026-09-27",
    "last_online": "2026-10-03",
@@ -2037,7 +2042,7 @@
   },
   "prawn_bot": {
    "first_seen": "2026-09-27",
-   "last_online": "2026-10-02",
+   "last_online": "2026-10-03",
    "username": "prawn_bot"
   },
   "princessyuribot": {
@@ -2352,7 +2357,7 @@
   },
   "solidor59": {
    "first_seen": "2026-09-29",
-   "last_online": "2026-10-02",
+   "last_online": "2026-10-03",
    "username": "SOLIDOR59"
   },
   "solobot": {
@@ -2680,6 +2685,11 @@
    "last_online": "2026-10-03",
    "username": "UniMark"
   },
+  "unknownstockfish": {
+   "first_seen": "2026-10-03",
+   "last_online": "2026-10-03",
+   "username": "UnknownStockfish"
+  },
   "ursus_bot": {
    "first_seen": "2026-09-27",
    "last_online": "2026-10-03",
@@ -2800,6 +2810,11 @@
    "last_online": "2026-10-03",
    "username": "Weiawaga"
   },
+  "weirdstockfish": {
+   "first_seen": "2026-10-03",
+   "last_online": "2026-10-03",
+   "username": "WeirdStockfish"
+  },
   "weledar-bot": {
    "first_seen": "2026-09-29",
    "last_online": "2026-09-30",
@@ -2867,7 +2882,7 @@
   }
  },
  "online": {
-  "checked_at": "2026-10-03T08:57:35Z",
+  "checked_at": "2026-10-03T09:53:49Z",
   "ids": [
    "aaronsengine",
    "aconcaguabot",
@@ -2892,6 +2907,7 @@
    "azzbot",
    "baby_eubos",
    "banerot",
+   "battlebornthe2nd",
    "batyarapro",
    "bbc_bot",
    "berkbot",
@@ -2905,7 +2921,6 @@
    "blujay-bot",
    "bongaclang",
    "boris-trapsky",
-   "borkatower",
    "bot5551",
    "bot64jaques",
    "bot_adario",
@@ -2928,7 +2943,6 @@
    "charibot",
    "cheng-4",
    "cheng-4-nn",
-   "chess-dragon1",
    "chess3bot",
    "chess_set_manager",
    "chessblight",
@@ -2946,7 +2960,6 @@
    "classic_bot-v2",
    "classical-leela",
    "cloudia-chess",
-   "cloudnetbot",
    "clrsrc_lc0",
    "coda_bot",
    "codabot",
@@ -2992,7 +3005,6 @@
    "enjoyably3303",
    "entebot",
    "epimetheusbot",
-   "escarbo",
    "eubos",
    "fataliibot",
    "fathzer-jchess",
@@ -3027,7 +3039,6 @@
    "ilovecatgirl",
    "inanisbot",
    "incipit_bot",
-   "io-bot",
    "is_boss",
    "iskelt-corax",
    "jackedfish",
@@ -3042,6 +3053,7 @@
    "jpg-bot",
    "jurdbird",
    "justbot-v1",
+   "kepler_bot",
    "kestrelstrike",
    "kirinchessbot",
    "kopyto_dev",
@@ -3090,7 +3102,6 @@
    "maia960-1900",
    "maia9_10n",
    "maia9_30n",
-   "makechessbetter",
    "malanchess",
    "markusdaukrobloxkid",
    "martuni",
@@ -3123,7 +3134,6 @@
    "nesbes",
    "neurosocute",
    "newbiebott",
-   "newchessengine-ai",
    "nexastrat",
    "nexosdefos",
    "nice_bot",
@@ -3138,7 +3148,6 @@
    "openingsbot",
    "overfitted",
    "oxide-eg",
-   "oxybullet",
    "oxydanbot",
    "panic-fish",
    "patzerbot135",
@@ -3155,6 +3164,7 @@
    "piebot",
    "piglet_engine",
    "plumboi",
+   "prawn_bot",
    "prokopakop",
    "pseudo-0",
    "pseudo-1",
@@ -3196,6 +3206,7 @@
    "sj_norbot",
    "sleepmindengine",
    "slowmate_bot",
+   "solidor59",
    "southbot",
    "squarefish-900",
    "sseh-c",
@@ -3243,6 +3254,7 @@
    "turox-bot",
    "ultrabrick",
    "unimark",
+   "unknownstockfish",
    "ursus_bot",
    "usunfish",
    "usunfish-l0",
@@ -3260,10 +3272,10 @@
    "vietnamesecoffee",
    "violentstockfish",
    "virutor",
-   "void_bot",
    "voigtsbach",
    "walpurti",
    "weiawaga",
+   "weirdstockfish",
    "wolfuhfuhbot",
    "worst-ai",
    "worstfish",
