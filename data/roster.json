@@ -912,7 +912,7 @@
   },
   "epimetheusbot": {
    "first_seen": "2026-09-28",
-   "last_online": "2026-10-02",
+   "last_online": "2026-10-03",
    "username": "EpimetheusBot"
   },
   "escarbo": {
@@ -1012,7 +1012,7 @@
   },
   "georgii_ai": {
    "first_seen": "2026-09-28",
-   "last_online": "2026-10-02",
+   "last_online": "2026-10-03",
    "username": "georgii_ai"
   },
   "geotsibot": {
@@ -1707,7 +1707,7 @@
   },
   "morabandbot": {
    "first_seen": "2026-09-27",
-   "last_online": "2026-10-02",
+   "last_online": "2026-10-03",
    "username": "morabandbot"
   },
   "mostlyhuman1900": {
@@ -2362,7 +2362,7 @@
   },
   "sonataintelligence": {
    "first_seen": "2026-10-02",
-   "last_online": "2026-10-02",
+   "last_online": "2026-10-03",
    "username": "SonataIntelligence"
   },
   "soulgar": {
@@ -2492,12 +2492,12 @@
   },
   "sybaibot": {
    "first_seen": "2026-09-27",
-   "last_online": "2026-10-02",
+   "last_online": "2026-10-03",
    "username": "SybAIBot"
   },
   "sybbot": {
    "first_seen": "2026-09-27",
-   "last_online": "2026-10-02",
+   "last_online": "2026-10-03",
    "username": "SybBot"
   },
   "sykorabot": {
@@ -2742,7 +2742,7 @@
   },
   "violentstockfish": {
    "first_seen": "2026-09-28",
-   "last_online": "2026-10-02",
+   "last_online": "2026-10-03",
    "username": "ViolentStockfish"
   },
   "virutor": {
@@ -2847,12 +2847,11 @@
   }
  },
  "online": {
-  "checked_at": "2026-10-03T01:53:14Z",
+  "checked_at": "2026-10-03T03:03:49Z",
   "ids": [
    "abcd_engine",
    "aconcaguabot",
    "aetherbot",
-   "agentc313",
    "aggressivestockfish",
    "ai-con",
    "ailedbot",
@@ -2913,7 +2912,6 @@
    "chess-dragon1",
    "chess3bot",
    "chess_set_manager",
-   "chessatronbot",
    "chessblight",
    "chessbzero",
    "chesschildren",
@@ -2974,6 +2972,7 @@
    "endspiel-pi",
    "enjoyably3303",
    "entebot",
+   "epimetheusbot",
    "eubos",
    "fataliibot",
    "fathzer-jchess",
@@ -2987,8 +2986,8 @@
    "gambitonlybot",
    "garbobot",
    "gbot113",
+   "georgii_ai",
    "geotsibot",
-   "ghidorah_x",
    "gnupassant",
    "goldfish-engine",
    "goopis",
@@ -3033,7 +3032,6 @@
    "lamprook",
    "larryz-alterego",
    "laura-bot",
-   "leelaalien",
    "leelajester",
    "leelaknightodds",
    "leelapieceodds",
@@ -3090,6 +3088,7 @@
    "minibruteforcebot",
    "mithandros",
    "mochi_bot",
+   "morabandbot",
    "mostlyhuman1900",
    "motor-0",
    "mr_sandbar",
@@ -3101,7 +3100,6 @@
    "nesbes",
    "neurosocute",
    "newbiebott",
-   "newchessengine-ai",
    "nexastrat",
    "nexosdefos",
    "nice_bot",
@@ -3113,7 +3111,6 @@
    "noel-bot",
    "notropis",
    "o-rei-cx",
-   "onezenpanda",
    "openinggenie2000",
    "openingsbot",
    "overfitted",
@@ -3177,6 +3174,7 @@
    "sj_norbot",
    "sleepmindengine",
    "slowmate_bot",
+   "sonataintelligence",
    "southbot",
    "squarefish-900",
    "sseh-c",
@@ -3194,6 +3192,8 @@
    "sunfish-nnue-engine",
    "supergame5",
    "sxphia",
+   "sybaibot",
+   "sybbot",
    "sykorabot",
    "takticprochess",
    "talosbot",
@@ -3236,6 +3236,7 @@
    "vic98lg",
    "vidbot",
    "vietnamesecoffee",
+   "violentstockfish",
    "virutor",
    "void_bot",
    "voigtsbach",
