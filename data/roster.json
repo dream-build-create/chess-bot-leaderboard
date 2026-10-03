@@ -2,7 +2,7 @@
  "bots": {
   "aaronsengine": {
    "first_seen": "2026-09-27",
-   "last_online": "2026-10-02",
+   "last_online": "2026-10-03",
    "username": "AaronsEngine"
   },
   "aatk_vanguardx": {
@@ -62,7 +62,7 @@
   },
   "ajedrezchamberi": {
    "first_seen": "2026-09-29",
-   "last_online": "2026-10-02",
+   "last_online": "2026-10-03",
    "username": "AjedrezChamberi"
   },
   "alarm2001": {
@@ -317,7 +317,7 @@
   },
   "borkatower": {
    "first_seen": "2026-09-27",
-   "last_online": "2026-10-02",
+   "last_online": "2026-10-03",
    "username": "BorkaTower"
   },
   "bot-o-tron": {
@@ -467,7 +467,7 @@
   },
   "chamberiajedrez": {
    "first_seen": "2026-09-29",
-   "last_online": "2026-10-02",
+   "last_online": "2026-10-03",
    "username": "ChamberiAjedrez"
   },
   "chaotong_engine": {
@@ -917,7 +917,7 @@
   },
   "escarbo": {
    "first_seen": "2026-09-28",
-   "last_online": "2026-09-28",
+   "last_online": "2026-10-03",
    "username": "escarbo"
   },
   "eubos": {
@@ -1697,7 +1697,7 @@
   },
   "minmaxvalgen": {
    "first_seen": "2026-10-01",
-   "last_online": "2026-10-02",
+   "last_online": "2026-10-03",
    "username": "MinMaxValgen"
   },
   "minordotarcdotbot": {
@@ -2742,7 +2742,7 @@
   },
   "vicentlittle": {
    "first_seen": "2026-10-02",
-   "last_online": "2026-10-02",
+   "last_online": "2026-10-03",
    "username": "VicentLittle"
   },
   "vidbot": {
@@ -2847,7 +2847,7 @@
   },
   "zeno-bot": {
    "first_seen": "2026-09-27",
-   "last_online": "2026-10-01",
+   "last_online": "2026-10-03",
    "username": "zeno-bot"
   },
   "zero3-now": {
@@ -2867,14 +2867,15 @@
   }
  },
  "online": {
-  "checked_at": "2026-10-03T07:55:19Z",
+  "checked_at": "2026-10-03T08:57:35Z",
   "ids": [
+   "aaronsengine",
    "aconcaguabot",
    "aetherbot",
-   "agentc313",
    "aggressivestockfish",
    "ai-con",
    "ailedbot",
+   "ajedrezchamberi",
    "aliceshiro",
    "andobot",
    "anenginebott2",
@@ -2893,7 +2894,6 @@
    "banerot",
    "batyarapro",
    "bbc_bot",
-   "becela9_kpebetka",
    "berkbot",
    "bernstein-2ply",
    "bernstein-4ply",
@@ -2901,16 +2901,15 @@
    "bfiedler-bot",
    "bhonduesque",
    "bitbitbot",
-   "blobfish-bot",
    "bluemoonbot",
    "blujay-bot",
    "bongaclang",
    "boris-trapsky",
+   "borkatower",
    "bot5551",
    "bot64jaques",
    "bot_adario",
    "bot_stockfish13",
-   "bothev",
    "bottios",
    "botvunnix",
    "bretemabot",
@@ -2924,6 +2923,7 @@
    "casanchess-nnue",
    "catnail",
    "catriever",
+   "chamberiajedrez",
    "chaotong_engine",
    "charibot",
    "cheng-4",
@@ -2958,6 +2958,7 @@
    "croco_bot",
    "croco_little_bot",
    "crocodile_bot",
+   "cruelken",
    "cutebot",
    "dala-1100",
    "dala-1300",
@@ -2991,6 +2992,7 @@
    "enjoyably3303",
    "entebot",
    "epimetheusbot",
+   "escarbo",
    "eubos",
    "fataliibot",
    "fathzer-jchess",
@@ -3047,7 +3049,6 @@
    "lamprook",
    "larryz-alterego",
    "laura-bot",
-   "learning32",
    "leelaalien",
    "leelajester",
    "leelaknightodds",
@@ -3064,6 +3065,7 @@
    "linenetbot",
    "little-0",
    "littlepatricia",
+   "llmate",
    "louischess48-6k",
    "lukebot",
    "lunaenginechess",
@@ -3096,7 +3098,6 @@
    "mate-in-thirty",
    "mate-in-twenty",
    "mate1-bot",
-   "matemakingmachine",
    "matmoi",
    "maxthedog-esp32",
    "mayflyengine",
@@ -3106,6 +3107,8 @@
    "mimirbot",
    "minibotapi",
    "minibruteforcebot",
+   "minmaxvalgen",
+   "miss_snowiee",
    "mithandros",
    "mochi_bot",
    "morabandbot",
@@ -3169,7 +3172,6 @@
    "reptilesbedamned",
    "resolutebot",
    "ribfish-bot",
-   "rodent-v",
    "romanticbot",
    "romanticbot2",
    "rpibot73",
@@ -3211,6 +3213,8 @@
    "sunfish-nnue-engine",
    "supergame5",
    "sxphia",
+   "sybaibot",
+   "sybbot",
    "sykorabot",
    "takticprochess",
    "talosbot",
@@ -3251,6 +3255,7 @@
    "vanibot",
    "variantsbot",
    "vic98lg",
+   "vicentlittle",
    "vidbot",
    "vietnamesecoffee",
    "violentstockfish",
@@ -3265,6 +3270,7 @@
    "xewali",
    "z-o_aspenlabs",
    "zagreus_engine",
+   "zeno-bot",
    "zero3-now",
    "zion-bot"
   ]
