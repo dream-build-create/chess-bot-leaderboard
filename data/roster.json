@@ -1635,6 +1635,11 @@
    "last_online": "2026-09-28",
    "username": "MatrixEngine"
   },
+  "maxthedog-esp32": {
+   "first_seen": "2026-10-03",
+   "last_online": "2026-10-03",
+   "username": "MaxtheDog-ESP32"
+  },
   "mayflyengine": {
    "first_seen": "2026-09-27",
    "last_online": "2026-10-03",
@@ -2835,6 +2840,11 @@
    "last_online": "2026-10-01",
    "username": "zeno-bot"
   },
+  "zero3-now": {
+   "first_seen": "2026-10-03",
+   "last_online": "2026-10-03",
+   "username": "zero3-noW"
+  },
   "zion-bot": {
    "first_seen": "2026-09-30",
    "last_online": "2026-10-03",
@@ -2847,7 +2857,7 @@
   }
  },
  "online": {
-  "checked_at": "2026-10-03T04:54:31Z",
+  "checked_at": "2026-10-03T05:56:03Z",
   "ids": [
    "aconcaguabot",
    "aetherbot",
@@ -2863,7 +2873,7 @@
    "annie_archy",
    "anti-bot",
    "aposeij",
-   "arasanx",
+   "approximationbot",
    "ariadne-bot",
    "artidigm_research",
    "ashnostromo",
@@ -2923,6 +2933,7 @@
    "chronicgambler",
    "cinder-bot",
    "cizme",
+   "classic_bot-v2",
    "classical-leela",
    "cloudia-chess",
    "cloudnetbot",
@@ -2974,6 +2985,7 @@
    "eubos",
    "fataliibot",
    "fathzer-jchess",
+   "fayefish",
    "felipe_bot_53",
    "fenrirbot",
    "flounderbot",
@@ -3060,7 +3072,6 @@
    "maia3-79m_2600",
    "maia3-79m_600",
    "maia3-79m_800",
-   "maia5",
    "maia9",
    "maia960-1600",
    "maia960-1900",
@@ -3074,6 +3085,7 @@
    "mate-in-twenty",
    "mate1-bot",
    "matmoi",
+   "maxthedog-esp32",
    "mayflyengine",
    "mcdonalds1955",
    "mega-noob-bot",
@@ -3098,6 +3110,7 @@
    "newbiebott",
    "newchessengine-ai",
    "nexastrat",
+   "nexosdefos",
    "nice_bot",
    "nickdrohan",
    "nightruin",
@@ -3111,7 +3124,6 @@
    "openingsbot",
    "overfitted",
    "oxide-eg",
-   "oxybullet",
    "oxydanbot",
    "panic-fish",
    "patzerbot135",
@@ -3237,10 +3249,10 @@
    "wolfuhfuhbot",
    "worst-ai",
    "worstfish",
-   "wyxx210704_bot",
    "xewali",
    "z-o_aspenlabs",
    "zagreus_engine",
+   "zero3-now",
    "zion-bot"
   ]
  },
