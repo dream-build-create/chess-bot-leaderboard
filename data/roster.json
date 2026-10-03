@@ -472,7 +472,7 @@
   },
   "chaotong_engine": {
    "first_seen": "2026-09-28",
-   "last_online": "2026-10-02",
+   "last_online": "2026-10-03",
    "username": "Chaotong_engine"
   },
   "charibot": {
@@ -1440,6 +1440,11 @@
    "last_online": "2026-10-03",
    "username": "littlePatricia"
   },
+  "llmate": {
+   "first_seen": "2026-10-03",
+   "last_online": "2026-10-03",
+   "username": "LLMate"
+  },
   "louischess48-6k": {
    "first_seen": "2026-09-27",
    "last_online": "2026-10-03",
@@ -1577,7 +1582,7 @@
   },
   "makechessbetter": {
    "first_seen": "2026-09-28",
-   "last_online": "2026-10-02",
+   "last_online": "2026-10-03",
    "username": "MakeChessBetter"
   },
   "malanchess": {
@@ -1622,7 +1627,7 @@
   },
   "matemakingmachine": {
    "first_seen": "2026-09-29",
-   "last_online": "2026-10-02",
+   "last_online": "2026-10-03",
    "username": "MateMakingMachine"
   },
   "matmoi": {
@@ -2857,7 +2862,7 @@
   }
  },
  "online": {
-  "checked_at": "2026-10-03T05:56:03Z",
+  "checked_at": "2026-10-03T07:05:43Z",
   "ids": [
    "aconcaguabot",
    "aetherbot",
@@ -2873,7 +2878,6 @@
    "annie_archy",
    "anti-bot",
    "aposeij",
-   "approximationbot",
    "ariadne-bot",
    "artidigm_research",
    "ashnostromo",
@@ -2915,6 +2919,7 @@
    "casanchess-nnue",
    "catnail",
    "catriever",
+   "chaotong_engine",
    "charibot",
    "cheng-4",
    "cheng-4-nn",
@@ -3047,13 +3052,13 @@
    "leelarogue",
    "leelarookodds",
    "leelatroll",
-   "lemuffinbot",
    "leol-bot",
    "likeawizard-bot",
    "lilitbot",
    "linenetbot",
    "little-0",
    "littlepatricia",
+   "llmate",
    "louischess48-6k",
    "lukebot",
    "lunaenginechess",
@@ -3072,11 +3077,13 @@
    "maia3-79m_2600",
    "maia3-79m_600",
    "maia3-79m_800",
+   "maia5",
    "maia9",
    "maia960-1600",
    "maia960-1900",
    "maia9_10n",
    "maia9_30n",
+   "makechessbetter",
    "malanchess",
    "markusdaukrobloxkid",
    "martuni",
@@ -3084,10 +3091,10 @@
    "mate-in-thirty",
    "mate-in-twenty",
    "mate1-bot",
+   "matemakingmachine",
    "matmoi",
    "maxthedog-esp32",
    "mayflyengine",
-   "mcdonalds1955",
    "mega-noob-bot",
    "melsh_bot",
    "mimirbot",
@@ -3113,17 +3120,18 @@
    "nexosdefos",
    "nice_bot",
    "nickdrohan",
-   "nightruin",
    "nilatacbot",
    "nittedal",
    "noabot",
    "noel-bot",
    "notropis",
    "o-rei-cx",
+   "onezenpanda",
    "openinggenie2000",
    "openingsbot",
    "overfitted",
    "oxide-eg",
+   "oxybullet",
    "oxydanbot",
    "panic-fish",
    "patzerbot135",
