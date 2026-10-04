@@ -12,7 +12,7 @@
   },
   "abcd_engine": {
    "first_seen": "2026-09-27",
-   "last_online": "2026-10-03",
+   "last_online": "2026-10-04",
    "username": "abcd_engine"
   },
   "abdcebot": {
@@ -1017,7 +1017,7 @@
   },
   "gambitonlybot": {
    "first_seen": "2026-09-28",
-   "last_online": "2026-10-03",
+   "last_online": "2026-10-04",
    "username": "GambitOnlyBot"
   },
   "garbobot": {
@@ -1032,7 +1032,7 @@
   },
   "georgii_ai": {
    "first_seen": "2026-09-28",
-   "last_online": "2026-10-03",
+   "last_online": "2026-10-04",
    "username": "georgii_ai"
   },
   "geotsibot": {
@@ -1097,7 +1097,7 @@
   },
   "guitarfish-engine": {
    "first_seen": "2026-09-28",
-   "last_online": "2026-09-28",
+   "last_online": "2026-10-04",
    "username": "guitarfish-engine"
   },
   "hackerchessbot": {
@@ -2155,6 +2155,11 @@
    "last_online": "2026-09-27",
    "username": "Randmaster_EGTB"
   },
+  "randomkerbal": {
+   "first_seen": "2026-10-04",
+   "last_online": "2026-10-04",
+   "username": "RandomKerbal"
+  },
   "raspfish": {
    "first_seen": "2026-09-27",
    "last_online": "2026-10-04",
@@ -2932,9 +2937,10 @@
   }
  },
  "online": {
-  "checked_at": "2026-10-04T02:18:35Z",
+  "checked_at": "2026-10-04T02:44:50Z",
   "ids": [
    "aatk_vanguardx",
+   "abcd_engine",
    "aconcaguabot",
    "aetherbot",
    "aggressivestockfish",
@@ -2990,7 +2996,6 @@
    "charibot",
    "cheng-4",
    "cheng-4-nn",
-   "chess-dragon1",
    "chess3bot",
    "chessblight",
    "chessbzero",
@@ -3006,7 +3011,6 @@
    "cizme",
    "classic_bot-v2",
    "classical-leela",
-   "cloudnetbot",
    "clrsrc_lc0",
    "coda_bot",
    "codabot",
@@ -3051,14 +3055,15 @@
    "eubos",
    "fataliibot",
    "fathzer-jchess",
-   "fayefish",
    "felipe_bot_53",
    "fenrirbot",
    "flounderbot",
    "flybrainchess",
    "fschess-engine",
+   "gambitonlybot",
    "garbobot",
    "gbot113",
+   "georgii_ai",
    "geotsibot",
    "ghidorah_x",
    "gnupassant",
@@ -3066,6 +3071,7 @@
    "goopis",
    "grail-bot",
    "groshboss",
+   "guitarfish-engine",
    "halcyonbot",
    "hardrok",
    "hiusbot",
@@ -3097,7 +3103,6 @@
    "jpg-bot",
    "jurdbird",
    "justbot-v1",
-   "kepler_bot",
    "kestrelstrike",
    "kirinchessbot",
    "kopyto_dev",
@@ -3178,7 +3183,6 @@
    "neryba",
    "nesbes",
    "neurosocute",
-   "newchessengine-ai",
    "nexastrat",
    "nexosdefos",
    "nice_bot",
@@ -3220,6 +3224,7 @@
    "pzchessbot",
    "queensgambot",
    "radianceengine",
+   "randomkerbal",
    "raspfish",
    "ratkingbot",
    "ratsu-bot",
@@ -3272,8 +3277,6 @@
    "sunfish-nnue-engine",
    "supergame5",
    "sxphia",
-   "sybaibot",
-   "sybbot",
    "sykorabot",
    "takticprochess",
    "talosbot",
@@ -3283,7 +3286,6 @@
    "throrbjorn",
    "thunfisch-bot",
    "tigrament",
-   "tikifish",
    "tilapiabot",
    "timemachine1858",
    "tm-sovietschool",
@@ -3317,7 +3319,6 @@
    "vidbot",
    "vietnamesecoffee",
    "virutor",
-   "void_bot",
    "voigtsbach",
    "walpurti",
    "weiawaga",
