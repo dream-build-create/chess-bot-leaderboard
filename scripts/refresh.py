@@ -6,6 +6,7 @@ names and renamed only after everything succeeds.
 """
 
 import json
+import os
 import re
 import sys
 import time
@@ -178,6 +179,9 @@ def run(now):
     roster = common.load_json(ROSTER_PATH, {"bots": {}})
     ids = sorted(roster.get("bots", {}))
     history = common.load_json(HISTORY_PATH, {"schema_version": 1, "snapshots": {}})
+    if os.environ.get("GITHUB_EVENT_NAME") == "schedule" and today in history.get("snapshots", {}):
+        common.log(f"backup run skipped: {today} already refreshed")
+        return 0
 
     try:
         users = fetch_users(ids)
