@@ -2,7 +2,7 @@
  "bots": {
   "aaronsengine": {
    "first_seen": "2026-09-27",
-   "last_online": "2026-10-03",
+   "last_online": "2026-10-05",
    "username": "AaronsEngine"
   },
   "aatk_vanguardx": {
@@ -62,7 +62,7 @@
   },
   "ajedrezchamberi": {
    "first_seen": "2026-09-29",
-   "last_online": "2026-10-03",
+   "last_online": "2026-10-05",
    "username": "AjedrezChamberi"
   },
   "alarm2001": {
@@ -497,7 +497,7 @@
   },
   "chamberiajedrez": {
    "first_seen": "2026-09-29",
-   "last_online": "2026-10-03",
+   "last_online": "2026-10-05",
    "username": "ChamberiAjedrez"
   },
   "chaotong_engine": {
@@ -1877,7 +1877,7 @@
   },
   "newtsbot": {
    "first_seen": "2026-09-27",
-   "last_online": "2026-10-04",
+   "last_online": "2026-10-05",
    "username": "NEWTSbot"
   },
   "nexastrat": {
@@ -3002,8 +3002,9 @@
   }
  },
  "online": {
-  "checked_at": "2026-10-05T08:43:29Z",
+  "checked_at": "2026-10-05T09:43:11Z",
   "ids": [
+   "aaronsengine",
    "aatk_vanguardx",
    "abcd_engine",
    "aconcaguabot",
@@ -3011,6 +3012,7 @@
    "aggressivestockfish",
    "ai-con",
    "ailedbot",
+   "ajedrezchamberi",
    "aliceshiro",
    "alliethechessbot",
    "andobot",
@@ -3033,7 +3035,6 @@
    "banerot",
    "batyarapro",
    "bbc_bot",
-   "becela9_kpebetka",
    "berkbot",
    "bernstein-2ply",
    "bernstein-4ply",
@@ -3062,10 +3063,10 @@
    "casanchess-nnue",
    "catnail",
    "catriever",
+   "chamberiajedrez",
    "charibot",
    "cheng-4",
    "cheng-4-nn",
-   "chess-dragon1",
    "chess3bot",
    "chess_set_manager",
    "chessblight",
@@ -3178,7 +3179,6 @@
    "kepler_bot",
    "kestrelstrike",
    "kirinchessbot",
-   "kobal11",
    "kopyto_dev",
    "kulubot",
    "kurganuci",
@@ -3234,7 +3234,6 @@
    "matmoi",
    "mayflyengine",
    "mcdonalds1955",
-   "mchess-engine",
    "mega-noob-bot",
    "melsh_bot",
    "mimirbot",
@@ -3254,7 +3253,7 @@
    "neryba",
    "nesbes",
    "neurosocute",
-   "newchessengine-ai",
+   "newtsbot",
    "nexastrat",
    "nexosdefos",
    "nice_bot",
