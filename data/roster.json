@@ -1145,6 +1145,11 @@
    "last_online": "2026-10-05",
    "username": "guitarfish-engine"
   },
+  "guofish": {
+   "first_seen": "2026-10-05",
+   "last_online": "2026-10-05",
+   "username": "GuoFish"
+  },
   "hackerchessbot": {
    "first_seen": "2026-09-27",
    "last_online": "2026-10-05",
@@ -1887,7 +1892,7 @@
   },
   "newbiebott": {
    "first_seen": "2026-09-30",
-   "last_online": "2026-10-04",
+   "last_online": "2026-10-05",
    "username": "NewbieBott"
   },
   "newchessengine-ai": {
@@ -2817,7 +2822,7 @@
   },
   "unknownstockfish": {
    "first_seen": "2026-10-03",
-   "last_online": "2026-10-04",
+   "last_online": "2026-10-05",
    "username": "UnknownStockfish"
   },
   "ursus_bot": {
@@ -2952,7 +2957,7 @@
   },
   "weirdstockfish": {
    "first_seen": "2026-10-03",
-   "last_online": "2026-10-04",
+   "last_online": "2026-10-05",
    "username": "WeirdStockfish"
   },
   "weledar-bot": {
@@ -3032,7 +3037,7 @@
   }
  },
  "online": {
-  "checked_at": "2026-10-05T16:43:11Z",
+  "checked_at": "2026-10-05T17:43:09Z",
   "ids": [
    "aaronsengine",
    "aatk_vanguardx",
@@ -3055,6 +3060,7 @@
    "arabicahce",
    "arasanx",
    "ariadne-bot",
+   "ariav8",
    "artidigm_research",
    "ashnostromo",
    "ask-aatk-bot",
@@ -3079,6 +3085,7 @@
    "blujay-bot",
    "bongaclang",
    "boris-trapsky",
+   "borkatower",
    "bot5551",
    "bot64jaques",
    "bot_adario",
@@ -3086,6 +3093,7 @@
    "bottios",
    "bretemabot",
    "bubblebot2",
+   "bufffishnet",
    "caiporabot",
    "cannotcheckmateme",
    "casanchess-nnue",
@@ -3099,6 +3107,7 @@
    "chess3bot",
    "chessblight",
    "chesschildren",
+   "chessgeniusbot",
    "chessiverse_ethan",
    "chessiverse_luc",
    "chessiverse_pawnza",
@@ -3133,7 +3142,6 @@
    "dala-900",
    "darkelectronbot",
    "darkonweakbot",
-   "dassi-ai",
    "davidsguterbot",
    "debzero",
    "deepbecky",
@@ -3165,7 +3173,6 @@
    "fenrirbot",
    "flounderbot",
    "flybrainchess",
-   "fpga-chess",
    "fschess-engine",
    "gambitonlybot",
    "garbobot",
@@ -3176,6 +3183,7 @@
    "grail-bot",
    "groshboss",
    "guitarfish-engine",
+   "guofish",
    "hackerchessbot",
    "halcyonbot",
    "hardrok",
@@ -3190,7 +3198,6 @@
    "hyperopic",
    "icarus-bot",
    "ilcorvochess",
-   "ilovecatgirl",
    "inanisbot",
    "incipit_bot",
    "is_boss",
@@ -3286,8 +3293,8 @@
    "neryba",
    "nesbes",
    "neurosocute",
+   "newbiebott",
    "newchessengine-ai",
-   "newtsbot",
    "nexastrat",
    "nexosdefos",
    "nice_bot",
@@ -3343,6 +3350,7 @@
    "rpibot73",
    "rudim-bot",
    "rust-in-pieces",
+   "rustyrival",
    "ryu-ishigori",
    "sargon-1ply",
    "sargon-2ply",
@@ -3408,6 +3416,7 @@
    "turox-bot",
    "ultrabrick",
    "unimark",
+   "unknownstockfish",
    "ursus_bot",
    "usunfish",
    "usunfish-l0",
@@ -3429,8 +3438,8 @@
    "void_bot",
    "voigtsbach",
    "walpurti",
-   "wannalearnbot",
    "weiawaga",
+   "weirdstockfish",
    "wolfuhfuhbot",
    "worserbot",
    "worst-ai",
