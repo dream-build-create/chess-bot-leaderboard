@@ -302,12 +302,12 @@
   },
   "black-bishop-kh": {
    "first_seen": "2026-09-28",
-   "last_online": "2026-10-04",
+   "last_online": "2026-10-05",
    "username": "Black-Bishop-Kh"
   },
   "blackeventhorizon": {
    "first_seen": "2026-09-27",
-   "last_online": "2026-10-01",
+   "last_online": "2026-10-05",
    "username": "blackEventhorizon"
   },
   "blindpewce": {
@@ -2102,7 +2102,7 @@
   },
   "playmarius": {
    "first_seen": "2026-09-27",
-   "last_online": "2026-10-03",
+   "last_online": "2026-10-05",
    "username": "PlayMarius"
   },
   "plumboi": {
@@ -2484,6 +2484,11 @@
    "first_seen": "2026-09-27",
    "last_online": "2026-10-05",
    "username": "SouthBot"
+  },
+  "space_bot": {
+   "first_seen": "2026-10-05",
+   "last_online": "2026-10-05",
+   "username": "Space_BOT"
   },
   "spyros1bot": {
    "first_seen": "2026-09-28",
@@ -2997,7 +3002,7 @@
   }
  },
  "online": {
-  "checked_at": "2026-10-05T04:43:10Z",
+  "checked_at": "2026-10-05T05:43:13Z",
   "ids": [
    "aatk_vanguardx",
    "abcd_engine",
@@ -3025,6 +3030,7 @@
    "axiom_bot",
    "baby_eubos",
    "banerot",
+   "batyarapro",
    "bbc_bot",
    "becela9_kpebetka",
    "berkbot",
@@ -3034,12 +3040,13 @@
    "bfiedler-bot",
    "bhonduesque",
    "bitbitbot",
+   "black-bishop-kh",
+   "blackeventhorizon",
    "blobfish-bot",
    "bluemoonbot",
    "blujay-bot",
    "bongaclang",
    "boris-trapsky",
-   "borkatower",
    "bot5551",
    "bot64jaques",
    "bot_adario",
@@ -3049,6 +3056,7 @@
    "bretemabot",
    "bubblebot2",
    "bufffishnet",
+   "c0kval",
    "caiporabot",
    "cannotcheckmateme",
    "casanchess-nnue",
@@ -3071,6 +3079,7 @@
    "chronicgambler",
    "cinder-bot",
    "cizme",
+   "classic_bot-v2",
    "classical-leela",
    "cloudnetbot",
    "clrsrc_lc0",
@@ -3119,6 +3128,7 @@
    "eubos",
    "fataliibot",
    "fathzer-jchess",
+   "fayefish",
    "felipe_bot_53",
    "fenrirbot",
    "flounderbot",
@@ -3208,6 +3218,7 @@
    "maia3-79m_600",
    "maia3-79m_800",
    "maia5",
+   "maia9",
    "maia960-1600",
    "maia960-1900",
    "maia9_10n",
@@ -3244,6 +3255,7 @@
    "neurosocute",
    "newchessengine-ai",
    "nexastrat",
+   "nexosdefos",
    "nice_bot",
    "nickdrohan",
    "nilatacbot",
@@ -3252,6 +3264,7 @@
    "noel-bot",
    "notropis",
    "o-rei-cx",
+   "onezenpanda",
    "openinggenie2000",
    "overfitted",
    "oxybullet",
@@ -3271,6 +3284,7 @@
    "pi0w",
    "piebot",
    "piglet_engine",
+   "playmarius",
    "plumboi",
    "prokopakop",
    "prosperobot",
@@ -3317,6 +3331,7 @@
    "slowmate_bot",
    "snapleelaeasy",
    "southbot",
+   "space_bot",
    "squarefish-900",
    "sseh-c",
    "stepbot_chess",
@@ -3386,7 +3401,6 @@
    "walpurti",
    "weiawaga",
    "wolfuhfuhbot",
-   "worserbot",
    "worst-ai",
    "worstfish",
    "xewali",
