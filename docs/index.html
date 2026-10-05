@@ -224,7 +224,7 @@
 <div class="page">
   <header class="intro">
     <h1><a href="#">The Lichess Bot Leaderboard</a></h1>
-    <p class="disclaimer">These are the Lichess ratings of active bot accounts, taken directly from Lichess and refreshed daily. This board is generated automatically with no editing. Apart from excluding accounts Lichess has flagged, no attempt is made to detect rating farming or other manipulation. The order should not be read as an accurate ranking of engine strength.</p>
+    <p class="disclaimer">These are the Lichess ratings of active bot accounts, taken directly from Lichess and refreshed daily. This board is generated automatically with no editing. Ratings depend on which opponents each bot has played, so the order should not be read as an accurate ranking of engine strength.</p>
     <p class="disclaimer">Not affiliated with Lichess.</p>
     <p class="meta" id="rules"></p>
     <p class="meta" id="updated"></p>
@@ -335,8 +335,9 @@
       `at least ${r.min_games} rated games in the category, rating deviation under ${r.max_rd_standard}, ` +
       `and a non-provisional rating. Accounts closed or flagged by Lichess are left out.`;
     const ratings = describeTime(data.generated_at);
+    const online = describeTime(data.online_checked_at);
     document.getElementById("updated").textContent =
-      `Ratings updated ${ratings || data.generated_at}.`;
+      `Ratings updated ${ratings || data.generated_at}.` + (online ? ` Online status checked ${online}.` : "");
   }
 
   // ------------------------------------------------------------ overview
