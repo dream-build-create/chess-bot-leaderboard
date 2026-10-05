@@ -7,7 +7,7 @@
   },
   "aatk_vanguardx": {
    "first_seen": "2026-09-27",
-   "last_online": "2026-10-04",
+   "last_online": "2026-10-05",
    "username": "AATK_VanguardX"
   },
   "abcd_engine": {
@@ -147,7 +147,7 @@
   },
   "ariav8": {
    "first_seen": "2026-10-04",
-   "last_online": "2026-10-04",
+   "last_online": "2026-10-05",
    "username": "AriaV8"
   },
   "arkiplayschess": {
@@ -172,12 +172,12 @@
   },
   "ask-aatk-bot": {
    "first_seen": "2026-09-27",
-   "last_online": "2026-10-04",
+   "last_online": "2026-10-05",
    "username": "Ask-AATK-bot"
   },
   "atari-video-chess": {
    "first_seen": "2026-09-27",
-   "last_online": "2026-10-04",
+   "last_online": "2026-10-05",
    "username": "ATARI-VIDEO-CHESS"
   },
   "atomicenginev1": {
@@ -317,7 +317,7 @@
   },
   "blobfish-bot": {
    "first_seen": "2026-09-27",
-   "last_online": "2026-10-03",
+   "last_online": "2026-10-05",
    "username": "Blobfish-Bot"
   },
   "bluemoonbot": {
@@ -957,7 +957,7 @@
   },
   "epimetheusbot": {
    "first_seen": "2026-09-28",
-   "last_online": "2026-10-03",
+   "last_online": "2026-10-05",
    "username": "EpimetheusBot"
   },
   "escarbo": {
@@ -1057,7 +1057,7 @@
   },
   "georgii_ai": {
    "first_seen": "2026-09-28",
-   "last_online": "2026-10-04",
+   "last_online": "2026-10-05",
    "username": "georgii_ai"
   },
   "geotsibot": {
@@ -1232,7 +1232,7 @@
   },
   "io-bot": {
    "first_seen": "2026-09-28",
-   "last_online": "2026-10-04",
+   "last_online": "2026-10-05",
    "username": "io-bot"
   },
   "is_boss": {
@@ -2032,12 +2032,12 @@
   },
   "pdp8-chekmo": {
    "first_seen": "2026-09-27",
-   "last_online": "2026-10-04",
+   "last_online": "2026-10-05",
    "username": "PDP8-CHEKMO"
   },
   "pdp8-clash": {
    "first_seen": "2026-09-27",
-   "last_online": "2026-10-04",
+   "last_online": "2026-10-05",
    "username": "PDP8-CLASH"
   },
   "peacemaker-0_0": {
@@ -2162,7 +2162,7 @@
   },
   "queensgambot": {
    "first_seen": "2026-09-27",
-   "last_online": "2026-10-04",
+   "last_online": "2026-10-05",
    "username": "QueensGamBOT"
   },
   "r0bspierre": {
@@ -2542,7 +2542,7 @@
   },
   "studyloversz-bot": {
    "first_seen": "2026-09-27",
-   "last_online": "2026-10-04",
+   "last_online": "2026-10-05",
    "username": "Studyloversz-bot"
   },
   "stupidchessrobot": {
@@ -2597,12 +2597,12 @@
   },
   "sybaibot": {
    "first_seen": "2026-09-27",
-   "last_online": "2026-10-04",
+   "last_online": "2026-10-05",
    "username": "SybAIBot"
   },
   "sybbot": {
    "first_seen": "2026-09-27",
-   "last_online": "2026-10-04",
+   "last_online": "2026-10-05",
    "username": "SybBot"
   },
   "sykorabot": {
@@ -2820,6 +2820,11 @@
    "last_online": "2026-10-05",
    "username": "v7p3r_bot"
   },
+  "vadbot": {
+   "first_seen": "2026-10-05",
+   "last_online": "2026-10-05",
+   "username": "vadbot"
+  },
   "valhalla-bot": {
    "first_seen": "2026-09-27",
    "last_online": "2026-10-05",
@@ -2857,7 +2862,7 @@
   },
   "violentstockfish": {
    "first_seen": "2026-09-28",
-   "last_online": "2026-10-03",
+   "last_online": "2026-10-05",
    "username": "ViolentStockfish"
   },
   "virutor": {
@@ -2982,8 +2987,9 @@
   }
  },
  "online": {
-  "checked_at": "2026-10-05T00:58:03Z",
+  "checked_at": "2026-10-05T02:43:44Z",
   "ids": [
+   "aatk_vanguardx",
    "abcd_engine",
    "aconcaguabot",
    "aetherbot",
@@ -3002,15 +3008,16 @@
    "arabicahce",
    "arasanx",
    "ariadne-bot",
+   "ariav8",
    "artidigm_research",
    "ashnostromo",
-   "attackerbotpython",
+   "ask-aatk-bot",
+   "atari-video-chess",
    "axiom_bot",
    "baby_eubos",
    "banerot",
    "batyarapro",
    "bbc_bot",
-   "becela9_kpebetka",
    "berkbot",
    "bernstein-2ply",
    "bernstein-4ply",
@@ -3018,6 +3025,7 @@
    "bfiedler-bot",
    "bhonduesque",
    "bitbitbot",
+   "blobfish-bot",
    "bluemoonbot",
    "blujay-bot",
    "bongaclang",
@@ -3044,7 +3052,6 @@
    "chess3bot",
    "chess_set_manager",
    "chessblight",
-   "chessbzero",
    "chesschildren",
    "chessiverse_ethan",
    "chessiverse_luc",
@@ -3101,6 +3108,7 @@
    "endspiel-pi",
    "enjoyably3303",
    "entebot",
+   "epimetheusbot",
    "eubos",
    "fataliibot",
    "fathzer-jchess",
@@ -3111,8 +3119,8 @@
    "flybrainchess",
    "fschess-engine",
    "garbobot",
+   "georgii_ai",
    "geotsibot",
-   "ghidorah_x",
    "goldfish-engine",
    "goopis",
    "grail-bot",
@@ -3134,6 +3142,7 @@
    "ilovecatgirl",
    "inanisbot",
    "incipit_bot",
+   "io-bot",
    "is_boss",
    "iskelt-corax",
    "jackedfish",
@@ -3149,7 +3158,6 @@
    "jpg-bot",
    "jurdbird",
    "justbot-v1",
-   "kepler_bot",
    "kestrelstrike",
    "kirinchessbot",
    "kopyto_dev",
@@ -3166,7 +3174,6 @@
    "leelarogue",
    "leelarookodds",
    "legochess98",
-   "lemuffinbot",
    "leol-bot",
    "likeawizard-bot",
    "lilitbot",
@@ -3174,7 +3181,6 @@
    "little-0",
    "littlepatricia",
    "llmate",
-   "louischess48-6k",
    "lukebot",
    "lunaenginechess",
    "lynx_bot",
@@ -3227,7 +3233,6 @@
    "neryba",
    "nesbes",
    "neurosocute",
-   "newchessengine-ai",
    "nexastrat",
    "nexosdefos",
    "nice_bot",
@@ -3248,6 +3253,8 @@
    "patzerbot135",
    "pawn_git",
    "pawnrobot",
+   "pdp8-chekmo",
+   "pdp8-clash",
    "peacemaker-0_0",
    "peachfruit",
    "perl-gigachess",
@@ -3263,6 +3270,7 @@
    "pseudo-1",
    "puisne",
    "pzchessbot",
+   "queensgambot",
    "radianceengine",
    "randmaster_bot",
    "randmaster_egtb",
@@ -3295,7 +3303,6 @@
    "silverpike",
    "simbelmyne-bot",
    "simple-bot",
-   "simplechessnnue",
    "simpleeval",
    "sj_norbot",
    "sleepmindengine",
@@ -3311,6 +3318,7 @@
    "stockfishlowdepth",
    "stockpapagei",
    "streamervschat",
+   "studyloversz-bot",
    "stupidchessrobot",
    "stupidfishbotbydscs",
    "subnorbot",
@@ -3318,6 +3326,8 @@
    "sunfish-nnue-engine",
    "supergame5",
    "sxphia",
+   "sybaibot",
+   "sybbot",
    "sykorabot",
    "takticprochess",
    "talosbot",
@@ -3353,6 +3363,7 @@
    "uxugin-bot",
    "uzenatch",
    "v7p3r_bot",
+   "vadbot",
    "valhalla-bot",
    "vanibot",
    "variantsbot",
@@ -3360,6 +3371,7 @@
    "vicentlittle",
    "vidbot",
    "vietnamesecoffee",
+   "violentstockfish",
    "virutor",
    "void_bot",
    "voigtsbach",
