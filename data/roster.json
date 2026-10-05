@@ -502,7 +502,7 @@
   },
   "chaotong_engine": {
    "first_seen": "2026-09-28",
-   "last_online": "2026-10-04",
+   "last_online": "2026-10-05",
    "username": "Chaotong_engine"
   },
   "charibot": {
@@ -1417,7 +1417,7 @@
   },
   "leelachesstest": {
    "first_seen": "2026-09-30",
-   "last_online": "2026-09-30",
+   "last_online": "2026-10-05",
    "username": "LeelaChessTest"
   },
   "leelajester": {
@@ -1957,7 +1957,7 @@
   },
   "openingsbot": {
    "first_seen": "2026-10-02",
-   "last_online": "2026-10-04",
+   "last_online": "2026-10-05",
    "username": "OpeningsBot"
   },
   "osaurus": {
@@ -3002,7 +3002,7 @@
   }
  },
  "online": {
-  "checked_at": "2026-10-05T05:43:13Z",
+  "checked_at": "2026-10-05T06:43:12Z",
   "ids": [
    "aatk_vanguardx",
    "abcd_engine",
@@ -3023,6 +3023,7 @@
    "arabicahce",
    "arasanx",
    "ariadne-bot",
+   "ariav8",
    "artidigm_research",
    "ashnostromo",
    "ask-aatk-bot",
@@ -3041,16 +3042,15 @@
    "bhonduesque",
    "bitbitbot",
    "black-bishop-kh",
-   "blackeventhorizon",
    "blobfish-bot",
    "bluemoonbot",
    "blujay-bot",
    "bongaclang",
    "boris-trapsky",
+   "borkatower",
    "bot5551",
    "bot64jaques",
    "bot_adario",
-   "bot_stockfish13",
    "bothev",
    "bottios",
    "bretemabot",
@@ -3062,6 +3062,7 @@
    "casanchess-nnue",
    "catnail",
    "catriever",
+   "chaotong_engine",
    "charibot",
    "cheng-4",
    "cheng-4-nn",
@@ -3184,6 +3185,7 @@
    "larryz-alterego",
    "latrunculi-bot",
    "laura-bot",
+   "leelachesstest",
    "leelaknightodds",
    "leelapieceodds",
    "leelaqueenforknight",
@@ -3266,6 +3268,7 @@
    "o-rei-cx",
    "onezenpanda",
    "openinggenie2000",
+   "openingsbot",
    "overfitted",
    "oxybullet",
    "oxydanbot",
@@ -3303,7 +3306,6 @@
    "ravenengine",
    "rdtchessbot",
    "registerpythonspeed",
-   "resolutebot",
    "ribfish-bot",
    "romanticbot",
    "romanticbot2",
@@ -3331,7 +3333,6 @@
    "slowmate_bot",
    "snapleelaeasy",
    "southbot",
-   "space_bot",
    "squarefish-900",
    "sseh-c",
    "stepbot_chess",
@@ -3349,8 +3350,6 @@
    "sunfish-nnue-engine",
    "supergame5",
    "sxphia",
-   "sybaibot",
-   "sybbot",
    "sykorabot",
    "takticprochess",
    "talosbot",
