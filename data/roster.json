@@ -425,6 +425,11 @@
    "last_online": "2026-10-04",
    "username": "Botvunnix"
   },
+  "botyuliirma": {
+   "first_seen": "2026-10-06",
+   "last_online": "2026-10-06",
+   "username": "Botyuliirma"
+  },
   "bretemabot": {
    "first_seen": "2026-09-27",
    "last_online": "2026-10-06",
@@ -1417,7 +1422,7 @@
   },
   "kurganuci": {
    "first_seen": "2026-09-28",
-   "last_online": "2026-10-05",
+   "last_online": "2026-10-06",
    "username": "KurganUCI"
   },
   "lamprook": {
@@ -1499,6 +1504,11 @@
    "first_seen": "2026-09-28",
    "last_online": "2026-10-04",
    "username": "LeelaTroll"
+  },
+  "leetomic": {
+   "first_seen": "2026-10-06",
+   "last_online": "2026-10-06",
+   "username": "Leetomic"
   },
   "legochess98": {
    "first_seen": "2026-09-27",
@@ -1727,7 +1737,7 @@
   },
   "matemakingmachine": {
    "first_seen": "2026-09-29",
-   "last_online": "2026-10-05",
+   "last_online": "2026-10-06",
    "username": "MateMakingMachine"
   },
   "matmoi": {
@@ -2547,7 +2557,7 @@
   },
   "sonataintelligence": {
    "first_seen": "2026-10-02",
-   "last_online": "2026-10-03",
+   "last_online": "2026-10-06",
    "username": "SonataIntelligence"
   },
   "soulgar": {
@@ -2732,7 +2742,7 @@
   },
   "the_baronet": {
    "first_seen": "2026-09-28",
-   "last_online": "2026-10-05",
+   "last_online": "2026-10-06",
    "username": "The_Baronet"
   },
   "thealexdestroyer": {
@@ -3027,7 +3037,7 @@
   },
   "wildorderbot": {
    "first_seen": "2026-09-28",
-   "last_online": "2026-10-02",
+   "last_online": "2026-10-06",
    "username": "WildorderBot"
   },
   "wippy-bot": {
@@ -3097,7 +3107,7 @@
   }
  },
  "online": {
-  "checked_at": "2026-10-06T17:43:09Z",
+  "checked_at": "2026-10-06T18:43:11Z",
   "ids": [
    "aaronsengine",
    "abcd_engine",
@@ -3115,19 +3125,17 @@
    "annie_archy",
    "anti-bot",
    "aposeij",
-   "approximationbot",
    "arabicahce",
    "arasanx",
    "ariadne-bot",
    "artidigm_research",
    "ashnostromo",
    "atari-video-chess",
-   "attackerbotpython",
    "axiom_bot",
    "baby_eubos",
    "banerot",
+   "batyarapro",
    "bbc_bot",
-   "becela9_kpebetka",
    "beelzebubzero",
    "berkbot",
    "bernstein-2ply",
@@ -3136,7 +3144,6 @@
    "bfiedler-bot",
    "bhonduesque",
    "bitbitbot",
-   "black-bishop-kh",
    "blackeventhorizon",
    "bluemoonbot",
    "blujay-bot",
@@ -3146,8 +3153,8 @@
    "bot5551",
    "bot64jaques",
    "bot_adario",
-   "bothev",
    "bottios",
+   "botyuliirma",
    "bretemabot",
    "bubblebot2",
    "bufffishnet",
@@ -3162,9 +3169,7 @@
    "charibot",
    "cheng-4",
    "cheng-4-nn",
-   "chess-dragon1",
    "chess3bot",
-   "chess_set_manager",
    "chessblight",
    "chesschildren",
    "chessiverse_ethan",
@@ -3176,8 +3181,8 @@
    "chronicgambler",
    "cinder-bot",
    "cizme",
+   "classic_bot-v2",
    "classical-leela",
-   "cloudnetbot",
    "clrsrc_lc0",
    "coda_bot",
    "codabot",
@@ -3227,13 +3232,13 @@
    "eubos",
    "fataliibot",
    "fathzer-jchess",
+   "fayefish",
    "felipe_bot_53",
    "fenrirbot",
    "flounderbot",
    "flybrainchess",
    "fpga-chess",
    "fschess-engine",
-   "gambitonlybot",
    "garbobot",
    "geotsibot",
    "ghidorah_x",
@@ -3275,12 +3280,12 @@
    "kirinchessbot",
    "kopyto_dev",
    "kulubot",
+   "kurganuci",
    "lamprook",
    "larryz-alterego",
    "latrunculi-bot",
    "laura-bot",
    "leelaalien",
-   "leelachesstest",
    "leelajester",
    "leelaknightodds",
    "leelapieceodds",
@@ -3288,6 +3293,7 @@
    "leelaqueenodds",
    "leelarogue",
    "leelarookodds",
+   "leetomic",
    "legochess98",
    "lemuffinbot",
    "leol-bot",
@@ -3325,9 +3331,9 @@
    "mate-in-thirty",
    "mate-in-twenty",
    "mate1-bot",
+   "matemakingmachine",
    "matmoi",
    "mayflyengine",
-   "mcdonalds1955",
    "mchess-engine",
    "mega-noob-bot",
    "melsh_bot",
@@ -3341,13 +3347,14 @@
    "mrtonnerre",
    "mychessjava",
    "nanozeroorg",
+   "nebubot",
    "nerachess",
    "neryba",
    "nesbes",
    "neurosocute",
    "newbiebott",
-   "newchessengine-ai",
    "nexastrat",
+   "nexosdefos",
    "nice_bot",
    "nickdrohan",
    "nilatacbot",
@@ -3356,10 +3363,10 @@
    "noel-bot",
    "notropis",
    "o-rei-cx",
+   "onezenpanda",
    "openinggenie2000",
    "overfitted",
    "oxide-eg",
-   "oxydanbot",
    "pangubot",
    "panic-fish",
    "patzerbot135",
@@ -3419,6 +3426,7 @@
    "slowmate_bot",
    "snapleelaeasy",
    "solsticeengine",
+   "sonataintelligence",
    "southbot",
    "squarefish-900",
    "sseh-c",
@@ -3445,6 +3453,7 @@
    "talosbot",
    "teensycheesy",
    "terconari",
+   "the_baronet",
    "thechessblazer",
    "throrbjorn",
    "thunfisch-bot",
@@ -3453,6 +3462,7 @@
    "tilapiabot",
    "timemachine1858",
    "tm-sovietschool",
+   "to299d",
    "tonyengine",
    "topasbot",
    "trainer-bot",
@@ -3488,6 +3498,7 @@
    "voigtsbach",
    "walpurti",
    "weiawaga",
+   "wildorderbot",
    "wolfuhfuhbot",
    "worst-ai",
    "worstfish",
