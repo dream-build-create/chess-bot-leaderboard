@@ -192,7 +192,7 @@
   },
   "attackerbotpython": {
    "first_seen": "2026-10-04",
-   "last_online": "2026-10-05",
+   "last_online": "2026-10-06",
    "username": "AttackerBotPYTHON"
   },
   "axiom_bot": {
@@ -262,7 +262,7 @@
   },
   "beelzebubzero": {
    "first_seen": "2026-09-28",
-   "last_online": "2026-10-03",
+   "last_online": "2026-10-06",
    "username": "BeelzebubZero"
   },
   "belzedarian": {
@@ -312,7 +312,7 @@
   },
   "blackeventhorizon": {
    "first_seen": "2026-09-27",
-   "last_online": "2026-10-05",
+   "last_online": "2026-10-06",
    "username": "blackEventhorizon"
   },
   "blindpewce": {
@@ -2657,7 +2657,7 @@
   },
   "succulent-bot": {
    "first_seen": "2026-09-30",
-   "last_online": "2026-10-04",
+   "last_online": "2026-10-06",
    "username": "succulent-bot"
   },
   "sunfish-engine": {
@@ -3097,7 +3097,7 @@
   }
  },
  "online": {
-  "checked_at": "2026-10-06T16:43:10Z",
+  "checked_at": "2026-10-06T17:43:09Z",
   "ids": [
    "aaronsengine",
    "abcd_engine",
@@ -3122,11 +3122,13 @@
    "artidigm_research",
    "ashnostromo",
    "atari-video-chess",
+   "attackerbotpython",
    "axiom_bot",
    "baby_eubos",
    "banerot",
    "bbc_bot",
    "becela9_kpebetka",
+   "beelzebubzero",
    "berkbot",
    "bernstein-2ply",
    "bernstein-4ply",
@@ -3135,6 +3137,7 @@
    "bhonduesque",
    "bitbitbot",
    "black-bishop-kh",
+   "blackeventhorizon",
    "bluemoonbot",
    "blujay-bot",
    "bongaclang",
@@ -3144,10 +3147,10 @@
    "bot64jaques",
    "bot_adario",
    "bothev",
+   "bottios",
    "bretemabot",
    "bubblebot2",
    "bufffishnet",
-   "c0kval",
    "caiporabot",
    "cannotcheckmateme",
    "carmin-bot",
@@ -3174,7 +3177,6 @@
    "cinder-bot",
    "cizme",
    "classical-leela",
-   "claude_bot",
    "cloudnetbot",
    "clrsrc_lc0",
    "coda_bot",
@@ -3255,7 +3257,6 @@
    "incipit_bot",
    "is_boss",
    "iskelt-corax",
-   "jackedfish",
    "jacobsbot",
    "jangine",
    "jenniferx",
@@ -3340,14 +3341,12 @@
    "mrtonnerre",
    "mychessjava",
    "nanozeroorg",
-   "nebubot",
    "nerachess",
    "neryba",
    "nesbes",
    "neurosocute",
    "newbiebott",
    "newchessengine-ai",
-   "newtsbot",
    "nexastrat",
    "nice_bot",
    "nickdrohan",
@@ -3357,7 +3356,6 @@
    "noel-bot",
    "notropis",
    "o-rei-cx",
-   "onezenpanda",
    "openinggenie2000",
    "overfitted",
    "oxide-eg",
@@ -3435,6 +3433,7 @@
    "stupidchessrobot",
    "stupidfishbotbydscs",
    "subnorbot",
+   "succulent-bot",
    "sunfish-engine",
    "sunfish-nnue-engine",
    "supergame5",
@@ -3454,7 +3453,6 @@
    "tilapiabot",
    "timemachine1858",
    "tm-sovietschool",
-   "to299d",
    "tonyengine",
    "topasbot",
    "trainer-bot",
@@ -3466,6 +3464,7 @@
    "turochamp-1ply",
    "turochamp-2ply",
    "turox-bot",
+   "twosillypandas",
    "ultrabrick",
    "unimark",
    "unknownstockfish",
@@ -3487,7 +3486,6 @@
    "vietnamesecoffee",
    "void_bot",
    "voigtsbach",
-   "vortexinbrp",
    "walpurti",
    "weiawaga",
    "wolfuhfuhbot",
