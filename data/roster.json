@@ -2,7 +2,7 @@
  "bots": {
   "aaronsengine": {
    "first_seen": "2026-09-27",
-   "last_online": "2026-10-05",
+   "last_online": "2026-10-06",
    "username": "AaronsEngine"
   },
   "aatk_vanguardx": {
@@ -2557,7 +2557,7 @@
   },
   "space_bot": {
    "first_seen": "2026-10-05",
-   "last_online": "2026-10-05",
+   "last_online": "2026-10-06",
    "username": "Space_BOT"
   },
   "spyros1bot": {
@@ -3087,8 +3087,9 @@
   }
  },
  "online": {
-  "checked_at": "2026-10-06T08:43:10Z",
+  "checked_at": "2026-10-06T09:43:10Z",
   "ids": [
+   "aaronsengine",
    "aatk_vanguardx",
    "abcd_engine",
    "aconcaguabot",
@@ -3105,7 +3106,6 @@
    "annie_archy",
    "anti-bot",
    "aposeij",
-   "approximationbot",
    "arabicahce",
    "arasanx",
    "ariadne-bot",
@@ -3136,7 +3136,6 @@
    "bot5551",
    "bot64jaques",
    "bot_adario",
-   "bothev",
    "bottios",
    "bretemabot",
    "bubblebot2",
@@ -3156,7 +3155,6 @@
    "chessblight",
    "chessbot2880",
    "chesschildren",
-   "chessgeniusbot",
    "chessiverse_ethan",
    "chessiverse_luc",
    "chessiverse_pawnza",
@@ -3231,7 +3229,6 @@
    "goopis",
    "grail-bot",
    "groshboss",
-   "grzechu86",
    "hackerchessbot",
    "halcyonbot",
    "hiusbot",
@@ -3247,7 +3244,6 @@
    "incipit_bot",
    "is_boss",
    "iskelt-corax",
-   "jackedfish",
    "jacobsbot",
    "jangine",
    "jenniferx",
@@ -3278,6 +3274,7 @@
    "leelarogue",
    "leelarookodds",
    "legochess98",
+   "lemuffinbot",
    "leol-bot",
    "likeawizard-bot",
    "lilitbot",
@@ -3323,7 +3320,6 @@
    "mimirbot",
    "minibotapi",
    "minibruteforcebot",
-   "minmaxvalgen",
    "miss_snowiee",
    "mithandros",
    "mochi_bot",
@@ -3340,6 +3336,7 @@
    "neurosocute",
    "newbiebott",
    "newchessengine-ai",
+   "newengine2022",
    "newtsbot",
    "nexastrat",
    "nexosdefos",
@@ -3355,7 +3352,6 @@
    "openinggenie2000",
    "overfitted",
    "oxide-eg",
-   "oxybullet",
    "oxydanbot",
    "pangubot",
    "panic-fish",
@@ -3417,6 +3413,7 @@
    "slowmate_bot",
    "snapleelaeasy",
    "southbot",
+   "space_bot",
    "squarefish-900",
    "sseh-c",
    "stepbot_chess",
@@ -3482,7 +3479,6 @@
    "walpurti",
    "weiawaga",
    "wolfuhfuhbot",
-   "worserbot",
    "worst-ai",
    "worstfish",
    "xewali",
