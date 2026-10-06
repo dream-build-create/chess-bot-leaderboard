@@ -542,12 +542,12 @@
   },
   "cheng-4": {
    "first_seen": "2026-09-27",
-   "last_online": "2026-10-05",
+   "last_online": "2026-10-06",
    "username": "Cheng-4"
   },
   "cheng-4-nn": {
    "first_seen": "2026-09-27",
-   "last_online": "2026-10-05",
+   "last_online": "2026-10-06",
    "username": "Cheng-4-NN"
   },
   "chengine_rookery": {
@@ -592,7 +592,7 @@
   },
   "chesschildren": {
    "first_seen": "2026-09-27",
-   "last_online": "2026-10-05",
+   "last_online": "2026-10-06",
    "username": "ChessChildren"
   },
   "chessgeniusbot": {
@@ -2667,12 +2667,12 @@
   },
   "sybaibot": {
    "first_seen": "2026-09-27",
-   "last_online": "2026-10-05",
+   "last_online": "2026-10-06",
    "username": "SybAIBot"
   },
   "sybbot": {
    "first_seen": "2026-09-27",
-   "last_online": "2026-10-05",
+   "last_online": "2026-10-06",
    "username": "SybBot"
   },
   "sykorabot": {
@@ -3067,7 +3067,7 @@
   }
  },
  "online": {
-  "checked_at": "2026-10-06T02:43:08Z",
+  "checked_at": "2026-10-06T03:43:08Z",
   "ids": [
    "aatk_vanguardx",
    "abcd_engine",
@@ -3123,10 +3123,12 @@
    "catnail",
    "catriever",
    "charibot",
+   "cheng-4",
+   "cheng-4-nn",
    "chess-dragon1",
-   "chess3bot",
    "chess_set_manager",
    "chessblight",
+   "chesschildren",
    "chessiverse_ethan",
    "chessiverse_luc",
    "chessiverse_pawnza",
@@ -3195,7 +3197,6 @@
    "garbobot",
    "georgii_ai",
    "geotsibot",
-   "ghidorah_x",
    "goldfish-engine",
    "goopis",
    "grail-bot",
@@ -3311,7 +3312,6 @@
    "nexosdefos",
    "nice_bot",
    "nickdrohan",
-   "nightfall_dev",
    "nilatacbot",
    "nittedal",
    "noabot",
@@ -3402,8 +3402,9 @@
    "sunfish-nnue-engine",
    "supergame5",
    "sxphia",
+   "sybaibot",
+   "sybbot",
    "sykorabot",
-   "takticprochess",
    "talosbot",
    "teensycheesy",
    "terconari",
