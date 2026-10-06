@@ -947,7 +947,7 @@
   },
   "elexunix_chess_bot": {
    "first_seen": "2026-09-27",
-   "last_online": "2026-10-05",
+   "last_online": "2026-10-06",
    "username": "elexunix_chess_bot"
   },
   "ellen_replay": {
@@ -3092,7 +3092,7 @@
   }
  },
  "online": {
-  "checked_at": "2026-10-06T14:43:11Z",
+  "checked_at": "2026-10-06T15:43:10Z",
   "ids": [
    "aaronsengine",
    "abcd_engine",
@@ -3209,6 +3209,7 @@
    "edwardkillick",
    "eigenmann-chess",
    "elachessbot",
+   "elexunix_chess_bot",
    "ellen_replay",
    "elmichess",
    "endspiel-pi",
@@ -3223,12 +3224,14 @@
    "flybrainchess",
    "fpga-chess",
    "fschess-engine",
+   "gambitonlybot",
    "garbobot",
    "geotsibot",
    "ghidorah_x",
    "goldfish-engine",
    "goopis",
    "grail-bot",
+   "hackerchessbot",
    "halcyonbot",
    "hardrok",
    "hiusbot",
@@ -3331,6 +3334,7 @@
    "nanozeroorg",
    "nebubot",
    "nerachess",
+   "neryba",
    "nesbes",
    "neurosocute",
    "newbiebott",
@@ -3411,6 +3415,7 @@
    "southbot",
    "squarefish-900",
    "sseh-c",
+   "steezybot",
    "stepbot_chess",
    "stickshark99",
    "stockdory",
@@ -3476,7 +3481,6 @@
    "wolfuhfuhbot",
    "worst-ai",
    "worstfish",
-   "wyxx210704_bot",
    "xewali",
    "z-o_aspenlabs",
    "zagreus_engine",
