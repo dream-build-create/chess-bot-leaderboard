@@ -152,7 +152,7 @@
   },
   "ariav8": {
    "first_seen": "2026-10-04",
-   "last_online": "2026-10-05",
+   "last_online": "2026-10-06",
    "username": "AriaV8"
   },
   "arkiplayschess": {
@@ -307,7 +307,7 @@
   },
   "black-bishop-kh": {
    "first_seen": "2026-09-28",
-   "last_online": "2026-10-05",
+   "last_online": "2026-10-06",
    "username": "Black-Bishop-Kh"
   },
   "blackeventhorizon": {
@@ -1802,7 +1802,7 @@
   },
   "miss_snowiee": {
    "first_seen": "2026-10-02",
-   "last_online": "2026-10-03",
+   "last_online": "2026-10-06",
    "username": "Miss_snowiee"
   },
   "mithandros": {
@@ -2570,6 +2570,11 @@
    "last_online": "2026-10-06",
    "username": "sseh-c"
   },
+  "steezybot": {
+   "first_seen": "2026-10-06",
+   "last_online": "2026-10-06",
+   "username": "SteezyBot"
+  },
   "stepbot_chess": {
    "first_seen": "2026-09-27",
    "last_online": "2026-10-06",
@@ -3077,7 +3082,7 @@
   }
  },
  "online": {
-  "checked_at": "2026-10-06T05:43:09Z",
+  "checked_at": "2026-10-06T06:43:09Z",
   "ids": [
    "aatk_vanguardx",
    "abcd_engine",
@@ -3098,6 +3103,7 @@
    "arabicahce",
    "arasanx",
    "ariadne-bot",
+   "ariav8",
    "artidigm_research",
    "ashnostromo",
    "ask-aatk-bot",
@@ -3115,6 +3121,7 @@
    "bfiedler-bot",
    "bhonduesque",
    "bitbitbot",
+   "black-bishop-kh",
    "bluemoonbot",
    "blujay-bot",
    "bongaclang",
@@ -3202,13 +3209,13 @@
    "eubos",
    "fataliibot",
    "fathzer-jchess",
+   "fayefish",
    "felipe_bot_53",
    "fenrirbot",
    "flounderbot",
    "flybrainchess",
    "fpga-chess",
    "fschess-engine",
-   "garbobot",
    "georgii_ai",
    "geotsibot",
    "goldfish-engine",
@@ -3248,7 +3255,6 @@
    "kestrelstrike",
    "kirinchessbot",
    "kopyto_dev",
-   "kulubot",
    "lamprook",
    "larryz-alterego",
    "latrunculi-bot",
@@ -3300,7 +3306,6 @@
    "mate-in-twenty",
    "mate1-bot",
    "matmoi",
-   "mayflyengine",
    "mcdonalds1955",
    "mchess-engine",
    "mega-noob-bot",
@@ -3308,6 +3313,7 @@
    "mimirbot",
    "minibotapi",
    "minibruteforcebot",
+   "miss_snowiee",
    "mithandros",
    "mochi_bot",
    "morabandbot",
@@ -3323,7 +3329,6 @@
    "neurosocute",
    "newbiebott",
    "newchessengine-ai",
-   "newengine2022",
    "nexastrat",
    "nexosdefos",
    "nice_bot",
@@ -3336,7 +3341,6 @@
    "o-rei-cx",
    "onezenpanda",
    "openinggenie2000",
-   "overfitted",
    "oxide-eg",
    "oxybullet",
    "oxydanbot",
@@ -3360,7 +3364,6 @@
    "prosperobot",
    "puisne",
    "pzchessbot",
-   "queensgambot",
    "radianceengine",
    "randmaster_bot",
    "randmaster_egtb",
@@ -3403,6 +3406,7 @@
    "southbot",
    "squarefish-900",
    "sseh-c",
+   "steezybot",
    "stepbot_chess",
    "stickshark99",
    "stockdory",
@@ -3417,8 +3421,6 @@
    "sunfish-nnue-engine",
    "supergame5",
    "sxphia",
-   "sybaibot",
-   "sybbot",
    "sykorabot",
    "takticprochess",
    "talosbot",
