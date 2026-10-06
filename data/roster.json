@@ -582,7 +582,7 @@
   },
   "chessbot2880": {
    "first_seen": "2026-09-27",
-   "last_online": "2026-09-27",
+   "last_online": "2026-10-06",
    "username": "chessbot2880"
   },
   "chessbzero": {
@@ -1910,6 +1910,11 @@
    "last_online": "2026-10-06",
    "username": "NewChessEngine-ai"
   },
+  "newengine2022": {
+   "first_seen": "2026-10-06",
+   "last_online": "2026-10-06",
+   "username": "newengine2022"
+  },
   "newtsbot": {
    "first_seen": "2026-09-27",
    "last_online": "2026-10-05",
@@ -2787,7 +2792,7 @@
   },
   "torombot": {
    "first_seen": "2026-09-28",
-   "last_online": "2026-10-05",
+   "last_online": "2026-10-06",
    "username": "ToromBot"
   },
   "trainer-bot": {
@@ -2839,6 +2844,11 @@
    "first_seen": "2026-09-27",
    "last_online": "2026-10-06",
    "username": "turox-bot"
+  },
+  "twosillypandas": {
+   "first_seen": "2026-10-06",
+   "last_online": "2026-10-06",
+   "username": "TwoSillyPandas"
   },
   "ultrabrick": {
    "first_seen": "2026-09-27",
@@ -3067,7 +3077,7 @@
   }
  },
  "online": {
-  "checked_at": "2026-10-06T04:43:08Z",
+  "checked_at": "2026-10-06T05:43:09Z",
   "ids": [
    "aatk_vanguardx",
    "abcd_engine",
@@ -3084,6 +3094,7 @@
    "annie_archy",
    "anti-bot",
    "aposeij",
+   "approximationbot",
    "arabicahce",
    "arasanx",
    "ariadne-bot",
@@ -3131,6 +3142,7 @@
    "chess3bot",
    "chess_set_manager",
    "chessblight",
+   "chessbot2880",
    "chesschildren",
    "chessiverse_ethan",
    "chessiverse_luc",
@@ -3190,7 +3202,6 @@
    "eubos",
    "fataliibot",
    "fathzer-jchess",
-   "fayefish",
    "felipe_bot_53",
    "fenrirbot",
    "flounderbot",
@@ -3203,6 +3214,7 @@
    "goldfish-engine",
    "goopis",
    "grail-bot",
+   "groshboss",
    "hackerchessbot",
    "halcyonbot",
    "hiusbot",
@@ -3311,6 +3323,7 @@
    "neurosocute",
    "newbiebott",
    "newchessengine-ai",
+   "newengine2022",
    "nexastrat",
    "nexosdefos",
    "nice_bot",
@@ -3407,6 +3420,7 @@
    "sybaibot",
    "sybbot",
    "sykorabot",
+   "takticprochess",
    "talosbot",
    "teensycheesy",
    "terconari",
@@ -3420,6 +3434,7 @@
    "tm-sovietschool",
    "tonyengine",
    "topasbot",
+   "torombot",
    "trainer-bot",
    "troutbot",
    "trusia12345678",
@@ -3429,6 +3444,7 @@
    "turochamp-1ply",
    "turochamp-2ply",
    "turox-bot",
+   "twosillypandas",
    "ultrabrick",
    "unimark",
    "unknownstockfish",
