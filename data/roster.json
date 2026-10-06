@@ -1847,7 +1847,7 @@
   },
   "mxnet-gamemaster": {
    "first_seen": "2026-09-28",
-   "last_online": "2026-10-02",
+   "last_online": "2026-10-06",
    "username": "mxnet-gamemaster"
   },
   "my-bot": {
@@ -2225,6 +2225,11 @@
    "last_online": "2026-10-01",
    "username": "R0bspierre"
   },
+  "rachl1": {
+   "first_seen": "2026-10-06",
+   "last_online": "2026-10-06",
+   "username": "rachl1"
+  },
   "radianceengine": {
    "first_seen": "2026-09-27",
    "last_online": "2026-10-06",
@@ -2337,7 +2342,7 @@
   },
   "rotor-bot": {
    "first_seen": "2026-09-27",
-   "last_online": "2026-10-02",
+   "last_online": "2026-10-06",
    "username": "rotor-bot"
   },
   "rpibot73": {
@@ -3082,7 +3087,7 @@
   }
  },
  "online": {
-  "checked_at": "2026-10-06T06:43:09Z",
+  "checked_at": "2026-10-06T06:56:43Z",
   "ids": [
    "aatk_vanguardx",
    "abcd_engine",
@@ -3099,7 +3104,6 @@
    "annie_archy",
    "anti-bot",
    "aposeij",
-   "approximationbot",
    "arabicahce",
    "arasanx",
    "ariadne-bot",
@@ -3320,6 +3324,7 @@
    "mostlyhuman1900",
    "mrtonnerre",
    "musashi-thebot",
+   "mxnet-gamemaster",
    "mychessjava",
    "nanozeroorg",
    "nebubot",
@@ -3341,6 +3346,7 @@
    "o-rei-cx",
    "onezenpanda",
    "openinggenie2000",
+   "overfitted",
    "oxide-eg",
    "oxybullet",
    "oxydanbot",
@@ -3364,6 +3370,7 @@
    "prosperobot",
    "puisne",
    "pzchessbot",
+   "rachl1",
    "radianceengine",
    "randmaster_bot",
    "randmaster_egtb",
@@ -3380,6 +3387,7 @@
    "rodent-iv",
    "romanticbot",
    "romanticbot2",
+   "rotor-bot",
    "rpibot73",
    "rudim-bot",
    "rust-in-pieces",
