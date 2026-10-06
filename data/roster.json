@@ -232,12 +232,12 @@
   },
   "battlebornthe4th": {
    "first_seen": "2026-09-28",
-   "last_online": "2026-10-02",
+   "last_online": "2026-10-06",
    "username": "BattleBornThe4th"
   },
   "battlebornthe5th": {
    "first_seen": "2026-09-29",
-   "last_online": "2026-10-02",
+   "last_online": "2026-10-06",
    "username": "BattleBornThe5th"
   },
   "batyarapro": {
@@ -252,7 +252,7 @@
   },
   "beastie1": {
    "first_seen": "2026-09-29",
-   "last_online": "2026-10-02",
+   "last_online": "2026-10-06",
    "username": "beastie1"
   },
   "becela9_kpebetka": {
@@ -472,7 +472,7 @@
   },
   "calico1": {
    "first_seen": "2026-09-29",
-   "last_online": "2026-10-02",
+   "last_online": "2026-10-06",
    "username": "calico1"
   },
   "cannotcheckmateme": {
@@ -712,7 +712,7 @@
   },
   "colossusbot": {
    "first_seen": "2026-09-30",
-   "last_online": "2026-10-05",
+   "last_online": "2026-10-06",
    "username": "ColossusBOT"
   },
   "confidencebuilder": {
@@ -832,7 +832,7 @@
   },
   "dassi-ai": {
    "first_seen": "2026-10-05",
-   "last_online": "2026-10-05",
+   "last_online": "2026-10-06",
    "username": "dassi-ai"
   },
   "davidsguterbot": {
@@ -1917,7 +1917,7 @@
   },
   "newtsbot": {
    "first_seen": "2026-09-27",
-   "last_online": "2026-10-05",
+   "last_online": "2026-10-06",
    "username": "NEWTSbot"
   },
   "nexastrat": {
@@ -2007,7 +2007,7 @@
   },
   "osaurus": {
    "first_seen": "2026-09-29",
-   "last_online": "2026-10-02",
+   "last_online": "2026-10-06",
    "username": "OSaurus"
   },
   "overfitted": {
@@ -2717,7 +2717,7 @@
   },
   "tempocore": {
    "first_seen": "2026-09-29",
-   "last_online": "2026-10-02",
+   "last_online": "2026-10-06",
    "username": "TempoCore"
   },
   "terconari": {
@@ -3087,7 +3087,7 @@
   }
  },
  "online": {
-  "checked_at": "2026-10-06T06:56:43Z",
+  "checked_at": "2026-10-06T07:43:11Z",
   "ids": [
    "aatk_vanguardx",
    "abcd_engine",
@@ -3104,6 +3104,7 @@
    "annie_archy",
    "anti-bot",
    "aposeij",
+   "approximationbot",
    "arabicahce",
    "arasanx",
    "ariadne-bot",
@@ -3115,8 +3116,11 @@
    "axiom_bot",
    "baby_eubos",
    "banerot",
+   "battlebornthe4th",
+   "battlebornthe5th",
    "batyarapro",
    "bbc_bot",
+   "beastie1",
    "becela9_kpebetka",
    "berkbot",
    "bernstein-2ply",
@@ -3139,8 +3143,8 @@
    "bretemabot",
    "bubblebot2",
    "bufffishnet",
-   "c0kval",
    "caiporabot",
+   "calico1",
    "cannotcheckmateme",
    "casanchess-nnue",
    "catnail",
@@ -3151,7 +3155,6 @@
    "cheng-4-nn",
    "chess-dragon1",
    "chess3bot",
-   "chess_set_manager",
    "chessblight",
    "chessbot2880",
    "chesschildren",
@@ -3172,6 +3175,7 @@
    "coda_bot",
    "codabot",
    "colinbot",
+   "colossusbot",
    "confidencebuilder",
    "cookiebot711",
    "coolperson_bot1",
@@ -3188,6 +3192,7 @@
    "dala-900",
    "darkelectronbot",
    "darkonweakbot",
+   "dassi-ai",
    "davidsguterbot",
    "debzero",
    "deepbecky",
@@ -3211,7 +3216,6 @@
    "enjoyably3303",
    "entebot",
    "eubos",
-   "fataliibot",
    "fathzer-jchess",
    "fayefish",
    "felipe_bot_53",
@@ -3272,7 +3276,6 @@
    "leelarogue",
    "leelarookodds",
    "legochess98",
-   "lemuffinbot",
    "leol-bot",
    "likeawizard-bot",
    "lilitbot",
@@ -3324,7 +3327,6 @@
    "mostlyhuman1900",
    "mrtonnerre",
    "musashi-thebot",
-   "mxnet-gamemaster",
    "mychessjava",
    "nanozeroorg",
    "nebubot",
@@ -3334,6 +3336,7 @@
    "neurosocute",
    "newbiebott",
    "newchessengine-ai",
+   "newtsbot",
    "nexastrat",
    "nexosdefos",
    "nice_bot",
@@ -3346,6 +3349,7 @@
    "o-rei-cx",
    "onezenpanda",
    "openinggenie2000",
+   "osaurus",
    "overfitted",
    "oxide-eg",
    "oxybullet",
@@ -3370,7 +3374,6 @@
    "prosperobot",
    "puisne",
    "pzchessbot",
-   "rachl1",
    "radianceengine",
    "randmaster_bot",
    "randmaster_egtb",
@@ -3384,10 +3387,8 @@
    "renegadeengine",
    "resolutebot",
    "ribfish-bot",
-   "rodent-iv",
    "romanticbot",
    "romanticbot2",
-   "rotor-bot",
    "rpibot73",
    "rudim-bot",
    "rust-in-pieces",
@@ -3414,7 +3415,6 @@
    "southbot",
    "squarefish-900",
    "sseh-c",
-   "steezybot",
    "stepbot_chess",
    "stickshark99",
    "stockdory",
@@ -3433,9 +3433,9 @@
    "takticprochess",
    "talosbot",
    "teensycheesy",
+   "tempocore",
    "terconari",
    "thechessblazer",
-   "throrbjorn",
    "thunfisch-bot",
    "tigrament",
    "tikifish",
@@ -3468,7 +3468,6 @@
    "v7p3r_bot",
    "vadbot",
    "valhalla-bot",
-   "vanibot",
    "variantsbot",
    "vic98lg",
    "vicentlittle",
