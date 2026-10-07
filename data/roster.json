@@ -447,7 +447,7 @@
   },
   "byte-knight": {
    "first_seen": "2026-09-27",
-   "last_online": "2026-10-03",
+   "last_online": "2026-10-07",
    "username": "byte-knight"
   },
   "c-t-r-l": {
@@ -3147,7 +3147,7 @@
   }
  },
  "online": {
-  "checked_at": "2026-10-07T20:43:12Z",
+  "checked_at": "2026-10-07T21:43:10Z",
   "ids": [
    "aatk_vanguardx",
    "abcd_engine",
@@ -3164,6 +3164,7 @@
    "annie_archy",
    "anti-bot",
    "aposeij",
+   "approximationbot",
    "arabicahce",
    "arasanx",
    "ariadne-bot",
@@ -3194,6 +3195,7 @@
    "bottios",
    "bretemabot",
    "bubblebot2",
+   "byte-knight",
    "c0kval",
    "caiporabot",
    "cannotcheckmateme",
@@ -3237,7 +3239,6 @@
    "dala-700",
    "dala-900",
    "darkelectronbot",
-   "darkonweakbot",
    "davidsguterbot",
    "debzero",
    "deepbecky",
@@ -3296,6 +3297,7 @@
    "jibbby",
    "joan_clone",
    "joey_chessengine",
+   "jongsungkim",
    "joshsbot",
    "jpg-bot",
    "jurdbird",
@@ -3303,6 +3305,7 @@
    "kestrelstrike",
    "kirinchessbot",
    "kopyto_dev",
+   "kulubot",
    "lamprook",
    "larryz-alterego",
    "latrunculi-bot",
@@ -3368,8 +3371,10 @@
    "nanozeroorg",
    "nebubot",
    "nerachess",
+   "neryba",
    "nesbes",
    "neurosocute",
+   "newtsbot",
    "nexastrat",
    "nice_bot",
    "nickdrohan",
@@ -3386,7 +3391,6 @@
    "oxybullet",
    "pangubot",
    "panic-fish",
-   "papemaru_c_chess",
    "patzerbot135",
    "pawn_git",
    "pawnrobot",
@@ -3463,8 +3467,6 @@
    "sunfish-engine",
    "sunfish-nnue-engine",
    "sxphia",
-   "sybaibot",
-   "sybbot",
    "sykorabot",
    "takticprochess",
    "talosbot",
@@ -3520,7 +3522,6 @@
    "z-o_aspenlabs",
    "zagreus_engine",
    "zanebot",
-   "zeno-bot",
    "zero3-now",
    "zion-bot"
   ]
