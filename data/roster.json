@@ -2,7 +2,7 @@
  "bots": {
   "aaronsengine": {
    "first_seen": "2026-09-27",
-   "last_online": "2026-10-06",
+   "last_online": "2026-10-07",
    "username": "AaronsEngine"
   },
   "aatk_vanguardx": {
@@ -312,7 +312,7 @@
   },
   "blackeventhorizon": {
    "first_seen": "2026-09-27",
-   "last_online": "2026-10-06",
+   "last_online": "2026-10-07",
    "username": "blackEventhorizon"
   },
   "blindpewce": {
@@ -3112,8 +3112,9 @@
   }
  },
  "online": {
-  "checked_at": "2026-10-07T08:43:10Z",
+  "checked_at": "2026-10-07T09:43:11Z",
   "ids": [
+   "aaronsengine",
    "abcd_engine",
    "aconcaguabot",
    "aetherbot",
@@ -3140,7 +3141,6 @@
    "banerot",
    "batyarapro",
    "bbc_bot",
-   "becela9_kpebetka",
    "berkbot",
    "bernstein-2ply",
    "bernstein-4ply",
@@ -3148,16 +3148,16 @@
    "bfiedler-bot",
    "bhonduesque",
    "bitbitbot",
-   "black-bishop-kh",
+   "blackeventhorizon",
    "bluemoonbot",
    "blujay-bot",
    "bongaclang",
    "boris-trapsky",
-   "bot-o-tron",
    "bot5551",
    "bot64jaques",
    "bot_adario",
    "bot_stockfish13",
+   "bottios",
    "botyuliirma",
    "bretemabot",
    "bubblebot2",
@@ -3241,7 +3241,6 @@
    "flybrainchess",
    "fschess-engine",
    "garbobot",
-   "georgii_ai",
    "geotsibot",
    "goldfish-engine",
    "goopis",
@@ -3328,9 +3327,9 @@
    "mate1-bot",
    "matmoi",
    "mayflyengine",
-   "mcdonalds1955",
    "mchess-engine",
    "mega-noob-bot",
+   "melsh_bot",
    "mimirbot",
    "minibotapi",
    "minibruteforcebot",
@@ -3344,10 +3343,10 @@
    "nanozeroorg",
    "nebubot",
    "nerachess",
+   "neryba",
    "nesbes",
    "neurosocute",
    "newbiebott",
-   "newchessengine-ai",
    "newtsbot",
    "nexastrat",
    "nexosdefos",
@@ -3357,6 +3356,7 @@
    "nittedal",
    "noabot",
    "noel-bot",
+   "notropis",
    "o-rei-cx",
    "onezenpanda",
    "overfitted",
@@ -3422,7 +3422,6 @@
    "sleepmindengine",
    "slowmate_bot",
    "snapleelaeasy",
-   "solidor59",
    "solsticeengine",
    "southbot",
    "squarefish-900",
