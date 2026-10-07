@@ -192,7 +192,7 @@
   },
   "attackerbotpython": {
    "first_seen": "2026-10-04",
-   "last_online": "2026-10-06",
+   "last_online": "2026-10-07",
    "username": "AttackerBotPYTHON"
   },
   "axiom_bot": {
@@ -1857,7 +1857,7 @@
   },
   "musashi-thebot": {
    "first_seen": "2026-09-28",
-   "last_online": "2026-10-06",
+   "last_online": "2026-10-07",
    "username": "Musashi-thebot"
   },
   "mxnet-gamemaster": {
@@ -2382,7 +2382,7 @@
   },
   "rustyrival": {
    "first_seen": "2026-09-27",
-   "last_online": "2026-10-06",
+   "last_online": "2026-10-07",
    "username": "RustyRival"
   },
   "ryu-ishigori": {
@@ -3112,7 +3112,7 @@
   }
  },
  "online": {
-  "checked_at": "2026-10-07T03:43:09Z",
+  "checked_at": "2026-10-07T04:43:11Z",
   "ids": [
    "abcd_engine",
    "aconcaguabot",
@@ -3135,6 +3135,7 @@
    "artidigm_research",
    "ashnostromo",
    "atari-video-chess",
+   "attackerbotpython",
    "axiom_bot",
    "baby_eubos",
    "banerot",
@@ -3155,7 +3156,6 @@
    "bot5551",
    "bot64jaques",
    "bot_adario",
-   "bot_stockfish13",
    "bothev",
    "bottios",
    "botyuliirma",
@@ -3243,7 +3243,6 @@
    "grail-bot",
    "groshboss",
    "halcyonbot",
-   "hardrok",
    "hiusbot",
    "hodgeybot",
    "holidaybot1225",
@@ -3279,7 +3278,6 @@
    "latrunculi-bot",
    "laura-bot",
    "leelaalien",
-   "leelachesstest",
    "leelajester",
    "leelaknightodds",
    "leelapieceodds",
@@ -3312,6 +3310,7 @@
    "maia3-79m_2600",
    "maia3-79m_600",
    "maia3-79m_800",
+   "maia5",
    "maia9",
    "maia960-1600",
    "maia960-1900",
@@ -3336,6 +3335,7 @@
    "morabandbot",
    "mostlyhuman1900",
    "mrtonnerre",
+   "musashi-thebot",
    "mychessjava",
    "nanozeroorg",
    "nebubot",
@@ -3400,6 +3400,7 @@
    "rpibot73",
    "rudim-bot",
    "rust-in-pieces",
+   "rustyrival",
    "ryu-ishigori",
    "sargon-1ply",
    "sargon-2ply",
@@ -3438,6 +3439,8 @@
    "sunfish-nnue-engine",
    "supergame5",
    "sxphia",
+   "sybaibot",
+   "sybbot",
    "sykorabot",
    "takticprochess",
    "talosbot",
@@ -3447,7 +3450,6 @@
    "throrbjorn",
    "thunfisch-bot",
    "tigrament",
-   "tikifish",
    "tilapiabot",
    "timemachine1858",
    "tm-sovietschool",
@@ -3487,7 +3489,6 @@
    "walpurti",
    "weiawaga",
    "wolfuhfuhbot",
-   "worserbot",
    "worst-ai",
    "worstfish",
    "xewali",
