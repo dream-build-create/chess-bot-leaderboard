@@ -307,7 +307,7 @@
   },
   "black-bishop-kh": {
    "first_seen": "2026-09-28",
-   "last_online": "2026-10-06",
+   "last_online": "2026-10-07",
    "username": "Black-Bishop-Kh"
   },
   "blackeventhorizon": {
@@ -1167,7 +1167,7 @@
   },
   "hackerchessbot": {
    "first_seen": "2026-09-27",
-   "last_online": "2026-10-06",
+   "last_online": "2026-10-07",
    "username": "HackerChessBot"
   },
   "halcyonbot": {
@@ -2832,7 +2832,7 @@
   },
   "trenerhetman": {
    "first_seen": "2026-09-27",
-   "last_online": "2026-10-05",
+   "last_online": "2026-10-07",
    "username": "TrenerHetman"
   },
   "troutbot": {
@@ -3112,7 +3112,7 @@
   }
  },
  "online": {
-  "checked_at": "2026-10-07T05:43:11Z",
+  "checked_at": "2026-10-07T06:43:13Z",
   "ids": [
    "abcd_engine",
    "aconcaguabot",
@@ -3148,6 +3148,7 @@
    "bfiedler-bot",
    "bhonduesque",
    "bitbitbot",
+   "black-bishop-kh",
    "bluemoonbot",
    "blujay-bot",
    "bongaclang",
@@ -3174,7 +3175,6 @@
    "cheng-4",
    "cheng-4-nn",
    "chess-dragon1",
-   "chess3bot",
    "chess_set_manager",
    "chessblight",
    "chesschildren",
@@ -3242,12 +3242,12 @@
    "flybrainchess",
    "fschess-engine",
    "garbobot",
-   "georgii_ai",
    "geotsibot",
    "goldfish-engine",
    "goopis",
    "grail-bot",
    "groshboss",
+   "hackerchessbot",
    "halcyonbot",
    "hiusbot",
    "hodgeybot",
@@ -3270,15 +3270,14 @@
    "jimmy_inc3710",
    "joan_clone",
    "joey_chessengine",
+   "jongsungkim",
    "joshsbot",
    "jpg-bot",
    "jurdbird",
    "justbot-v1",
    "kestrelstrike",
    "kirinchessbot",
-   "kobal11",
    "kopyto_dev",
-   "kulubot",
    "lamprook",
    "larryz-alterego",
    "latrunculi-bot",
@@ -3291,6 +3290,7 @@
    "leelaqueenodds",
    "leelarogue",
    "leelarookodds",
+   "leetomic",
    "legochess98",
    "leol-bot",
    "likeawizard-bot",
@@ -3345,7 +3345,6 @@
    "nanozeroorg",
    "nebubot",
    "nerachess",
-   "neryba",
    "nesbes",
    "neurosocute",
    "newbiebott",
@@ -3386,7 +3385,6 @@
    "prosperobot",
    "puisne",
    "pzchessbot",
-   "queensgambot",
    "radianceengine",
    "randmaster_bot",
    "randmaster_egtb",
@@ -3405,6 +3403,7 @@
    "rpibot73",
    "rudim-bot",
    "rust-in-pieces",
+   "rustbot2003",
    "rustyrival",
    "ryu-ishigori",
    "sargon-1ply",
@@ -3429,7 +3428,6 @@
    "southbot",
    "squarefish-900",
    "sseh-c",
-   "steezybot",
    "stepbot_chess",
    "stickshark99",
    "stockdory",
@@ -3452,7 +3450,6 @@
    "teensycheesy",
    "terconari",
    "thechessblazer",
-   "throrbjorn",
    "thunfisch-bot",
    "tigrament",
    "tikifish",
@@ -3462,6 +3459,7 @@
    "tonyengine",
    "topasbot",
    "trainer-bot",
+   "trenerhetman",
    "troutbot",
    "trusia12345678",
    "tucuengine",
