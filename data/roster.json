@@ -1692,7 +1692,7 @@
   },
   "makechessbetter": {
    "first_seen": "2026-09-28",
-   "last_online": "2026-10-04",
+   "last_online": "2026-10-07",
    "username": "MakeChessBetter"
   },
   "malanchess": {
@@ -2742,7 +2742,7 @@
   },
   "tempocore": {
    "first_seen": "2026-09-29",
-   "last_online": "2026-10-06",
+   "last_online": "2026-10-07",
    "username": "TempoCore"
   },
   "terconari": {
@@ -3100,6 +3100,11 @@
    "last_online": "2026-10-07",
    "username": "Zagreus_Engine"
   },
+  "zanebot": {
+   "first_seen": "2026-10-07",
+   "last_online": "2026-10-07",
+   "username": "zanebot"
+  },
   "zeno-bot": {
    "first_seen": "2026-09-27",
    "last_online": "2026-10-07",
@@ -3122,7 +3127,7 @@
   }
  },
  "online": {
-  "checked_at": "2026-10-07T13:43:12Z",
+  "checked_at": "2026-10-07T14:43:11Z",
   "ids": [
    "aaronsengine",
    "aatk_vanguardx",
@@ -3140,7 +3145,6 @@
    "annie_archy",
    "anti-bot",
    "aposeij",
-   "approximationbot",
    "arabicahce",
    "arasanx",
    "ariadne-bot",
@@ -3171,7 +3175,6 @@
    "bot_adario",
    "bothev",
    "bottios",
-   "botyuliirma",
    "bretemabot",
    "bubblebot2",
    "caiporabot",
@@ -3230,6 +3233,7 @@
    "demolito_l4",
    "demolito_l5",
    "drawfish-reborn",
+   "drewschessmachine",
    "duchessai",
    "dumbotai",
    "edwardkillick",
@@ -3332,6 +3336,7 @@
    "maia960-1900",
    "maia9_10n",
    "maia9_30n",
+   "makechessbetter",
    "martuni",
    "mate-in-forty",
    "mate-in-thirty",
@@ -3345,6 +3350,7 @@
    "mimirbot",
    "minibotapi",
    "minibruteforcebot",
+   "minmaxvalgen",
    "mithandros",
    "mochi_bot",
    "morabandbot",
@@ -3360,7 +3366,6 @@
    "neurosocute",
    "newbiebott",
    "newchessengine-ai",
-   "newtsbot",
    "nexastrat",
    "nexosdefos",
    "nice_bot",
@@ -3391,7 +3396,6 @@
    "piglet_engine",
    "playmarius",
    "plumboi",
-   "project_nebulora",
    "prokopakop",
    "prosperobot",
    "puisne",
@@ -3435,6 +3439,7 @@
    "sj_norbot",
    "sleepmindengine",
    "slowmate_bot",
+   "slychessbot",
    "snapleelaeasy",
    "solsticeengine",
    "southbot",
@@ -3460,6 +3465,7 @@
    "takticprochess",
    "talosbot",
    "teensycheesy",
+   "tempocore",
    "terconari",
    "thechessblazer",
    "thunfisch-bot",
@@ -3480,6 +3486,7 @@
    "turochamp-1ply",
    "turochamp-2ply",
    "turox-bot",
+   "twosillypandas",
    "ultrabrick",
    "unimark",
    "unknownstockfish",
@@ -3509,6 +3516,7 @@
    "xewali",
    "z-o_aspenlabs",
    "zagreus_engine",
+   "zanebot",
    "zeno-bot",
    "zero3-now",
    "zion-bot"
