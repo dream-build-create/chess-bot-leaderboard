@@ -7,7 +7,7 @@
   },
   "aatk_vanguardx": {
    "first_seen": "2026-09-27",
-   "last_online": "2026-10-06",
+   "last_online": "2026-10-07",
    "username": "AATK_VanguardX"
   },
   "abcd_engine": {
@@ -177,7 +177,7 @@
   },
   "ask-aatk-bot": {
    "first_seen": "2026-09-27",
-   "last_online": "2026-10-06",
+   "last_online": "2026-10-07",
    "username": "Ask-AATK-bot"
   },
   "atari-video-chess": {
@@ -522,7 +522,7 @@
   },
   "chaotong_engine": {
    "first_seen": "2026-09-28",
-   "last_online": "2026-10-06",
+   "last_online": "2026-10-07",
    "username": "Chaotong_engine"
   },
   "charibot": {
@@ -2057,7 +2057,7 @@
   },
   "papemaru_c_chess": {
    "first_seen": "2026-10-03",
-   "last_online": "2026-10-03",
+   "last_online": "2026-10-07",
    "username": "Papemaru_C_Chess"
   },
   "partner3615diago": {
@@ -3112,9 +3112,10 @@
   }
  },
  "online": {
-  "checked_at": "2026-10-07T09:43:11Z",
+  "checked_at": "2026-10-07T10:43:11Z",
   "ids": [
    "aaronsengine",
+   "aatk_vanguardx",
    "abcd_engine",
    "aconcaguabot",
    "aetherbot",
@@ -3135,6 +3136,7 @@
    "ariadne-bot",
    "artidigm_research",
    "ashnostromo",
+   "ask-aatk-bot",
    "atari-video-chess",
    "axiom_bot",
    "baby_eubos",
@@ -3165,14 +3167,13 @@
    "c0kval",
    "caiporabot",
    "cannotcheckmateme",
-   "carmin-bot",
    "casanchess-nnue",
    "catnail",
    "catriever",
+   "chaotong_engine",
    "charibot",
    "cheng-4",
    "cheng-4-nn",
-   "chess-dragon1",
    "chess_set_manager",
    "chessblight",
    "chesschildren",
@@ -3187,7 +3188,6 @@
    "cizme",
    "classic_bot-v2",
    "classical-leela",
-   "cloudnetbot",
    "clrsrc_lc0",
    "coda_bot",
    "codabot",
@@ -3222,7 +3222,6 @@
    "drewschessmachine",
    "duchessai",
    "dumbotai",
-   "edwardkillick",
    "eigenmann-chess",
    "elachessbot",
    "elexunix_chess_bot",
@@ -3241,6 +3240,7 @@
    "flybrainchess",
    "fschess-engine",
    "garbobot",
+   "georgii_ai",
    "geotsibot",
    "goldfish-engine",
    "goopis",
@@ -3256,6 +3256,7 @@
    "hynobiuschess",
    "hyperopic",
    "icarus-bot",
+   "ilcorvochess",
    "ilovecatgirl",
    "inanisbot",
    "incipit_bot",
@@ -3361,9 +3362,9 @@
    "onezenpanda",
    "overfitted",
    "oxide-eg",
-   "oxydanbot",
    "pangubot",
    "panic-fish",
+   "papemaru_c_chess",
    "patzerbot135",
    "pawn_git",
    "pawnrobot",
@@ -3376,7 +3377,6 @@
    "pi0w",
    "piebot",
    "piglet_engine",
-   "playmarius",
    "plumboi",
    "project_nebulora",
    "prokopakop",
@@ -3438,7 +3438,6 @@
    "subnorbot",
    "sunfish-engine",
    "sunfish-nnue-engine",
-   "supergame5",
    "sxphia",
    "sybaibot",
    "sybbot",
@@ -3485,7 +3484,6 @@
    "vicentlittle",
    "vidbot",
    "vietnamesecoffee",
-   "void_bot",
    "voigtsbach",
    "walpurti",
    "weiawaga",
