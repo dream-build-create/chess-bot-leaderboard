@@ -132,7 +132,7 @@
   },
   "approximationbot": {
    "first_seen": "2026-09-27",
-   "last_online": "2026-10-06",
+   "last_online": "2026-10-07",
    "username": "ApproximationBot"
   },
   "arabicahce": {
@@ -1077,7 +1077,7 @@
   },
   "gambitonlybot": {
    "first_seen": "2026-09-28",
-   "last_online": "2026-10-06",
+   "last_online": "2026-10-07",
    "username": "GambitOnlyBot"
   },
   "garbobot": {
@@ -1377,7 +1377,7 @@
   },
   "kepler_bot": {
    "first_seen": "2026-10-03",
-   "last_online": "2026-10-06",
+   "last_online": "2026-10-07",
    "username": "kepler_bot"
   },
   "kestrelstrike": {
@@ -1457,7 +1457,7 @@
   },
   "leelaalien": {
    "first_seen": "2026-09-28",
-   "last_online": "2026-10-06",
+   "last_online": "2026-10-07",
    "username": "LeelaAlien"
   },
   "leelachesstest": {
@@ -1467,7 +1467,7 @@
   },
   "leelajester": {
    "first_seen": "2026-09-28",
-   "last_online": "2026-10-06",
+   "last_online": "2026-10-07",
    "username": "LeelaJester"
   },
   "leelaknightodds": {
@@ -2687,7 +2687,7 @@
   },
   "supergame5": {
    "first_seen": "2026-09-28",
-   "last_online": "2026-10-06",
+   "last_online": "2026-10-07",
    "username": "SuperGame5"
   },
   "sxphia": {
@@ -3112,7 +3112,7 @@
   }
  },
  "online": {
-  "checked_at": "2026-10-07T00:43:10Z",
+  "checked_at": "2026-10-07T00:59:34Z",
   "ids": [
    "abcd_engine",
    "aconcaguabot",
@@ -3128,6 +3128,7 @@
    "annie_archy",
    "anti-bot",
    "aposeij",
+   "approximationbot",
    "arabicahce",
    "arasanx",
    "ariadne-bot",
@@ -3240,6 +3241,7 @@
    "flybrainchess",
    "fpga-chess",
    "fschess-engine",
+   "gambitonlybot",
    "garbobot",
    "geotsibot",
    "goldfish-engine",
@@ -3275,6 +3277,7 @@
    "jpg-bot",
    "jurdbird",
    "justbot-v1",
+   "kepler_bot",
    "kestrelstrike",
    "kirinchessbot",
    "kopyto_dev",
@@ -3283,7 +3286,9 @@
    "larryz-alterego",
    "latrunculi-bot",
    "laura-bot",
+   "leelaalien",
    "leelachesstest",
+   "leelajester",
    "leelaknightodds",
    "leelapieceodds",
    "leelaqueenforknight",
@@ -3440,6 +3445,7 @@
    "subnorbot",
    "sunfish-engine",
    "sunfish-nnue-engine",
+   "supergame5",
    "sxphia",
    "sykorabot",
    "takticprochess",
