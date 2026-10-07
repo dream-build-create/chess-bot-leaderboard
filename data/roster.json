@@ -267,7 +267,7 @@
   },
   "belzedarian": {
    "first_seen": "2026-09-29",
-   "last_online": "2026-09-29",
+   "last_online": "2026-10-07",
    "username": "Belzedarian"
   },
   "berkbot": {
@@ -3137,7 +3137,7 @@
   }
  },
  "online": {
-  "checked_at": "2026-10-07T15:43:10Z",
+  "checked_at": "2026-10-07T16:43:11Z",
   "ids": [
    "aaronsengine",
    "aatk_vanguardx",
@@ -3168,6 +3168,7 @@
    "batyarapro",
    "bbc_bot",
    "becela9_kpebetka",
+   "belzedarian",
    "berkbot",
    "bernstein-2ply",
    "bernstein-4ply",
@@ -3243,6 +3244,7 @@
    "drawfish-reborn",
    "duchessai",
    "dumbotai",
+   "edwardkillick",
    "eigenmann-chess",
    "elachessbot",
    "elexunix_chess_bot",
@@ -3262,7 +3264,6 @@
    "fschess-engine",
    "garbobot",
    "geotsibot",
-   "ghidorah_x",
    "goldfish-engine",
    "goopis",
    "grail-bot",
@@ -3296,7 +3297,6 @@
    "jpg-bot",
    "jurdbird",
    "justbot-v1",
-   "karimbot",
    "kestrelstrike",
    "kirinchessbot",
    "kopyto_dev",
@@ -3359,6 +3359,7 @@
    "mimirbot",
    "minibotapi",
    "minibruteforcebot",
+   "minmaxvalgen",
    "mithandros",
    "mochi_bot",
    "morabandbot",
@@ -3369,7 +3370,6 @@
    "nanozeroorg",
    "nebubot",
    "nerachess",
-   "neryba",
    "nesbes",
    "neurosocute",
    "newbiebott",
@@ -3454,6 +3454,7 @@
    "steezybot",
    "stepbot_chess",
    "stickshark99",
+   "stockcotsfish",
    "stockdory",
    "stockfail",
    "stockfishlowdepth",
@@ -3471,8 +3472,10 @@
    "takticprochess",
    "talosbot",
    "teensycheesy",
+   "tempocore",
    "terconari",
    "thechessblazer",
+   "throrbjorn",
    "thunfisch-bot",
    "tigrament",
    "tikifish",
@@ -3522,7 +3525,6 @@
    "z-o_aspenlabs",
    "zagreus_engine",
    "zanebot",
-   "zeno-bot",
    "zero3-now",
    "zion-bot"
   ]
