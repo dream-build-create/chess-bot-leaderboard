@@ -742,7 +742,7 @@
   },
   "consolechessdev": {
    "first_seen": "2026-09-28",
-   "last_online": "2026-10-04",
+   "last_online": "2026-10-08",
    "username": "ConsoleChessDev"
   },
   "consolechessfastbot": {
@@ -2447,7 +2447,7 @@
   },
   "sara_bot": {
    "first_seen": "2026-09-28",
-   "last_online": "2026-10-04",
+   "last_online": "2026-10-08",
    "username": "Sara_bot"
   },
   "sargon-1ply": {
@@ -3187,7 +3187,7 @@
   }
  },
  "online": {
-  "checked_at": "2026-10-08T20:43:10Z",
+  "checked_at": "2026-10-08T21:43:47Z",
   "ids": [
    "aatk_vanguardx",
    "abcd_engine",
@@ -3214,7 +3214,6 @@
    "ashnostromo",
    "ask-aatk-bot",
    "atari-video-chess",
-   "attackerbotpython",
    "baby_eubos",
    "banerot",
    "bbc_bot",
@@ -3253,7 +3252,6 @@
    "chessiverse_luc",
    "chessiverse_pawnza",
    "chessiverse_raak",
-   "chesstransformerbot",
    "cheszter",
    "chill4ce",
    "chronicgambler",
@@ -3264,8 +3262,8 @@
    "coda_bot",
    "codabot",
    "colinbot",
-   "colossusbot",
    "confidencebuilder",
+   "consolechessdev",
    "cookiebot711",
    "cosettebot",
    "croco_bot",
@@ -3419,6 +3417,7 @@
    "morabandbot",
    "mostlyhuman1900",
    "mrtonnerre",
+   "mxnet-gamemaster",
    "mychessjava",
    "nanozeroorg",
    "nebubot",
@@ -3437,7 +3436,6 @@
    "onezenpanda",
    "openinggenie2000",
    "overfitted",
-   "oxybullet",
    "pangubot",
    "panic-fish",
    "patzerbot135",
@@ -3478,6 +3476,7 @@
    "rust-in-pieces",
    "rustyrival",
    "ryu-ishigori",
+   "sara_bot",
    "sargon-1ply",
    "sargon-2ply",
    "sargon-3ply",
@@ -3533,7 +3532,6 @@
    "trenerhetman",
    "troutbot",
    "trusia12345678",
-   "tucuengine",
    "turk_gambit",
    "turkjs",
    "turochamp-1ply",
