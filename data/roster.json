@@ -312,7 +312,7 @@
   },
   "blackeventhorizon": {
    "first_seen": "2026-09-27",
-   "last_online": "2026-10-07",
+   "last_online": "2026-10-08",
    "username": "blackEventhorizon"
   },
   "blindpewce": {
@@ -907,7 +907,7 @@
   },
   "dragonrosedev": {
    "first_seen": "2026-10-02",
-   "last_online": "2026-10-06",
+   "last_online": "2026-10-08",
    "username": "DragonroseDev"
   },
   "dragoodle": {
@@ -1494,6 +1494,11 @@
    "first_seen": "2026-09-27",
    "last_online": "2026-10-08",
    "username": "LeelaKnightOdds"
+  },
+  "leelamultiposs": {
+   "first_seen": "2026-10-08",
+   "last_online": "2026-10-08",
+   "username": "LeelaMultiPoss"
   },
   "leelapieceodds": {
    "first_seen": "2026-09-27",
@@ -2807,7 +2812,7 @@
   },
   "thomengine": {
    "first_seen": "2026-09-30",
-   "last_online": "2026-09-30",
+   "last_online": "2026-10-08",
    "username": "ThomEngine"
   },
   "throrbjorn": {
@@ -3172,7 +3177,7 @@
   }
  },
  "online": {
-  "checked_at": "2026-10-08T11:43:30Z",
+  "checked_at": "2026-10-08T12:43:11Z",
   "ids": [
    "aaronsengine",
    "aatk_vanguardx",
@@ -3201,6 +3206,7 @@
    "baby_eubos",
    "banerot",
    "bbc_bot",
+   "becela9_kpebetka",
    "berkbot",
    "bernstein-2ply",
    "bernstein-4ply",
@@ -3208,6 +3214,7 @@
    "bfiedler-bot",
    "bhonduesque",
    "bitbitbot",
+   "blackeventhorizon",
    "bluemoonbot",
    "blujay-bot",
    "bongaclang",
@@ -3217,12 +3224,13 @@
    "bot64jaques",
    "bot_adario",
    "bot_stockfish13",
+   "bothev",
    "bottios",
    "bretemabot",
    "bubblebot2",
    "byte-knight",
+   "c0kval",
    "caiporabot",
-   "caissa-x",
    "cannotcheckmateme",
    "casanchess-nnue",
    "catnail",
@@ -3231,6 +3239,8 @@
    "charibot",
    "cheng-4",
    "cheng-4-nn",
+   "chess-dragon1",
+   "chess_set_manager",
    "chessblight",
    "chesschildren",
    "chessiverse_ethan",
@@ -3275,6 +3285,7 @@
    "demolito_l4",
    "demolito_l5",
    "dgtrychess",
+   "dragonrosedev",
    "drawfish-reborn",
    "drewschessmachine",
    "duchessai",
@@ -3342,6 +3353,7 @@
    "leelaalien",
    "leelajester",
    "leelaknightodds",
+   "leelamultiposs",
    "leelapieceodds",
    "leelaqueenforknight",
    "leelaqueenodds",
@@ -3387,6 +3399,7 @@
    "mate1-bot",
    "matmoi",
    "mayflyengine",
+   "mcdonalds1955",
    "mega-noob-bot",
    "melsh_bot",
    "mimirbot",
@@ -3400,15 +3413,14 @@
    "mostlyhuman1900",
    "mrtonnerre",
    "musashi-thebot",
-   "mxnet-gamemaster",
    "mychessjava",
    "nanozeroorg",
    "nebubot",
    "nesbes",
    "neurosocute",
+   "newchessengine-ai",
    "newtsbot",
    "nexastrat",
-   "nexosdefos",
    "nickdrohan",
    "nilatacbot",
    "nittedal",
@@ -3418,6 +3430,8 @@
    "o-rei-cx",
    "openinggenie2000",
    "overfitted",
+   "oxybullet",
+   "oxydanbot",
    "pangubot",
    "panic-fish",
    "patzerbot135",
@@ -3432,6 +3446,7 @@
    "pi0w",
    "piebot",
    "piglet_engine",
+   "playmarius",
    "project_nebulora",
    "prokopakop",
    "prosperobot",
@@ -3477,7 +3492,6 @@
    "snapleelaeasy",
    "solsticeengine",
    "southbot",
-   "space_bot",
    "squarefish-900",
    "sseh-c",
    "steezybot",
@@ -3498,11 +3512,12 @@
    "sybaibot",
    "sybbot",
    "sykorabot",
+   "takticprochess",
    "talosbot",
    "teensycheesy",
-   "tempocore",
    "terconari",
    "thechessblazer",
+   "thomengine",
    "thunfisch-bot",
    "tigrament",
    "tilapiabot",
