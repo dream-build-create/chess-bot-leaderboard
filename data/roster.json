@@ -472,7 +472,7 @@
   },
   "caissa-x": {
    "first_seen": "2026-09-29",
-   "last_online": "2026-10-07",
+   "last_online": "2026-10-08",
    "username": "caissa-x"
   },
   "calico1": {
@@ -1570,6 +1570,11 @@
    "last_online": "2026-10-08",
    "username": "littlePatricia"
   },
+  "llianc_bot": {
+   "first_seen": "2026-10-08",
+   "last_online": "2026-10-08",
+   "username": "LLIANC_BOT"
+  },
   "llmate": {
    "first_seen": "2026-10-03",
    "last_online": "2026-10-08",
@@ -1957,7 +1962,7 @@
   },
   "newtsbot": {
    "first_seen": "2026-09-27",
-   "last_online": "2026-10-07",
+   "last_online": "2026-10-08",
    "username": "NEWTSbot"
   },
   "nexastrat": {
@@ -3167,7 +3172,7 @@
   }
  },
  "online": {
-  "checked_at": "2026-10-08T09:43:10Z",
+  "checked_at": "2026-10-08T10:43:10Z",
   "ids": [
    "aaronsengine",
    "aatk_vanguardx",
@@ -3218,6 +3223,7 @@
    "bubblebot2",
    "byte-knight",
    "caiporabot",
+   "caissa-x",
    "cannotcheckmateme",
    "casanchess-nnue",
    "catnail",
@@ -3225,7 +3231,6 @@
    "charibot",
    "cheng-4",
    "cheng-4-nn",
-   "chess-dragon1",
    "chessblight",
    "chesschildren",
    "chessiverse_ethan",
@@ -3240,7 +3245,6 @@
    "cizme",
    "classic_bot-v2",
    "classical-leela",
-   "cloudnetbot",
    "clrsrc_lc0",
    "coda_bot",
    "codabot",
@@ -3354,6 +3358,7 @@
    "lilitbot",
    "little-0",
    "littlepatricia",
+   "llianc_bot",
    "llmate",
    "louischess48-6k",
    "lowhangingfruits",
@@ -3386,7 +3391,6 @@
    "mate1-bot",
    "matmoi",
    "mayflyengine",
-   "mcdonalds1955",
    "mega-noob-bot",
    "melsh_bot",
    "mimirbot",
@@ -3402,8 +3406,10 @@
    "mychessjava",
    "nanozeroorg",
    "nebubot",
+   "neryba",
    "nesbes",
    "neurosocute",
+   "newtsbot",
    "nexastrat",
    "nexosdefos",
    "nickdrohan",
@@ -3414,8 +3420,6 @@
    "o-rei-cx",
    "openinggenie2000",
    "overfitted",
-   "oxybullet",
-   "oxydanbot",
    "pangubot",
    "panic-fish",
    "patzerbot135",
@@ -3537,7 +3541,6 @@
    "vicentlittle",
    "vidbot",
    "vietnamesecoffee",
-   "void_bot",
    "voigtsbach",
    "vortexaurafarm",
    "walpurti",
