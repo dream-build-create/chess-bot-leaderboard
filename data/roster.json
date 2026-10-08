@@ -27,7 +27,7 @@
   },
   "adamantbot_v1": {
    "first_seen": "2026-09-27",
-   "last_online": "2026-09-27",
+   "last_online": "2026-10-08",
    "username": "AdamantBot_V1"
   },
   "admete_bot": {
@@ -192,7 +192,7 @@
   },
   "attackerbotpython": {
    "first_seen": "2026-10-04",
-   "last_online": "2026-10-07",
+   "last_online": "2026-10-08",
    "username": "AttackerBotPYTHON"
   },
   "axiom_bot": {
@@ -607,7 +607,7 @@
   },
   "chessgeniusbot": {
    "first_seen": "2026-10-02",
-   "last_online": "2026-10-06",
+   "last_online": "2026-10-08",
    "username": "ChessGeniusBot"
   },
   "chessiverse_ethan": {
@@ -1087,7 +1087,7 @@
   },
   "gambitonlybot": {
    "first_seen": "2026-09-28",
-   "last_online": "2026-10-07",
+   "last_online": "2026-10-08",
    "username": "GambitOnlyBot"
   },
   "garbobot": {
@@ -3182,12 +3182,13 @@
   }
  },
  "online": {
-  "checked_at": "2026-10-08T15:43:11Z",
+  "checked_at": "2026-10-08T16:43:10Z",
   "ids": [
    "aaronsengine",
    "aatk_vanguardx",
    "abcd_engine",
    "aconcaguabot",
+   "adamantbot_v1",
    "aetherbot",
    "aggressivestockfish",
    "ai-con",
@@ -3208,6 +3209,7 @@
    "ashnostromo",
    "ask-aatk-bot",
    "atari-video-chess",
+   "attackerbotpython",
    "baby_eubos",
    "banerot",
    "batyarapro",
@@ -3245,9 +3247,11 @@
    "cheng-4",
    "cheng-4-nn",
    "chess-dragon1",
+   "chess3bot",
    "chess_set_manager",
    "chessblight",
    "chesschildren",
+   "chessgeniusbot",
    "chessiverse_ethan",
    "chessiverse_luc",
    "chessiverse_pawnza",
@@ -3316,6 +3320,7 @@
    "flounderbot",
    "flybrainchess",
    "fschess-engine",
+   "gambitonlybot",
    "garbobot",
    "geotsibot",
    "goldfish-engine",
@@ -3360,6 +3365,7 @@
    "leelaalien",
    "leelajester",
    "leelaknightodds",
+   "leelamultiposs",
    "leelapieceodds",
    "leelaqueenforknight",
    "leelaqueenodds",
@@ -3374,7 +3380,6 @@
    "little-0",
    "littlepatricia",
    "llianc_bot",
-   "llmate",
    "louischess48-6k",
    "lowhangingfruits",
    "lukebot",
@@ -3412,7 +3417,6 @@
    "mimirbot",
    "minibotapi",
    "minibruteforcebot",
-   "miss_snowiee",
    "mithandros",
    "mochi_bot",
    "morabandbot",
@@ -3469,7 +3473,6 @@
    "renegadeengine",
    "resolutebot",
    "ribfish-bot",
-   "rockingsuperstars",
    "romanticbot",
    "romanticbot2",
    "rpibot73",
@@ -3481,7 +3484,6 @@
    "sargon-2ply",
    "sargon-3ply",
    "sargon-4ply",
-   "saxtonengine",
    "scalaqueen",
    "schnecken_bot",
    "scipio-bot",
@@ -3489,7 +3491,6 @@
    "shrevenbot",
    "silverpike",
    "sim3million",
-   "simbelmyne-bot",
    "simpleeval",
    "sj_norbot",
    "sleepmindengine",
@@ -3545,7 +3546,6 @@
    "turox-bot",
    "ultrabrick",
    "unimark",
-   "ursus_bot",
    "usunfish",
    "usunfish-l0",
    "usunfish-l1",
