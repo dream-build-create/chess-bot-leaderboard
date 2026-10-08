@@ -170,6 +170,11 @@
    "last_online": "2026-10-08",
    "username": "artidigm_research"
   },
+  "ashasevidence": {
+   "first_seen": "2026-10-08",
+   "last_online": "2026-10-08",
+   "username": "ashasevidence"
+  },
   "ashnostromo": {
    "first_seen": "2026-09-27",
    "last_online": "2026-10-08",
@@ -1162,7 +1167,7 @@
   },
   "grzechu86": {
    "first_seen": "2026-09-29",
-   "last_online": "2026-10-07",
+   "last_online": "2026-10-08",
    "username": "Grzechu86"
   },
   "guitarfish-engine": {
@@ -1227,7 +1232,7 @@
   },
   "hummus-bot": {
    "first_seen": "2026-09-27",
-   "last_online": "2026-10-07",
+   "last_online": "2026-10-08",
    "username": "hummus-bot"
   },
   "hustler_2mb": {
@@ -2377,7 +2382,7 @@
   },
   "rodent-iv": {
    "first_seen": "2026-10-05",
-   "last_online": "2026-10-06",
+   "last_online": "2026-10-08",
    "username": "Rodent-IV"
   },
   "rodent-v": {
@@ -3182,7 +3187,7 @@
   }
  },
  "online": {
-  "checked_at": "2026-10-08T16:43:10Z",
+  "checked_at": "2026-10-08T17:43:10Z",
   "ids": [
    "aaronsengine",
    "aatk_vanguardx",
@@ -3206,10 +3211,10 @@
    "arasanx",
    "ariadne-bot",
    "artidigm_research",
+   "ashasevidence",
    "ashnostromo",
    "ask-aatk-bot",
    "atari-video-chess",
-   "attackerbotpython",
    "baby_eubos",
    "banerot",
    "batyarapro",
@@ -3231,6 +3236,7 @@
    "bot5551",
    "bot64jaques",
    "bot_adario",
+   "bot_stockfish13",
    "bothev",
    "bottios",
    "bretemabot",
@@ -3251,7 +3257,6 @@
    "chess_set_manager",
    "chessblight",
    "chesschildren",
-   "chessgeniusbot",
    "chessiverse_ethan",
    "chessiverse_luc",
    "chessiverse_pawnza",
@@ -3320,18 +3325,20 @@
    "flounderbot",
    "flybrainchess",
    "fschess-engine",
-   "gambitonlybot",
    "garbobot",
    "geotsibot",
    "goldfish-engine",
    "goopis",
    "grail-bot",
+   "groshboss",
+   "grzechu86",
    "hackerchessbot",
    "halcyonbot",
    "hardrok",
    "hiusbot",
    "hodgeybot",
    "holidaybot1225",
+   "hummus-bot",
    "hustler_2mb",
    "hynobiuschess",
    "hyperopic",
@@ -3380,6 +3387,7 @@
    "little-0",
    "littlepatricia",
    "llianc_bot",
+   "llmate",
    "louischess48-6k",
    "lowhangingfruits",
    "lukebot",
@@ -3473,6 +3481,7 @@
    "renegadeengine",
    "resolutebot",
    "ribfish-bot",
+   "rodent-iv",
    "romanticbot",
    "romanticbot2",
    "rpibot73",
@@ -3519,7 +3528,6 @@
    "sybaibot",
    "sybbot",
    "sykorabot",
-   "takticprochess",
    "talosbot",
    "teensycheesy",
    "tempocore",
@@ -3546,6 +3554,7 @@
    "turox-bot",
    "ultrabrick",
    "unimark",
+   "ursus_bot",
    "usunfish",
    "usunfish-l0",
    "usunfish-l1",
