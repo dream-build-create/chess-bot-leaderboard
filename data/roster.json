@@ -522,7 +522,7 @@
   },
   "chaotong_engine": {
    "first_seen": "2026-09-28",
-   "last_online": "2026-10-07",
+   "last_online": "2026-10-08",
    "username": "Chaotong_engine"
   },
   "charibot": {
@@ -1837,7 +1837,7 @@
   },
   "minmaxvalgen": {
    "first_seen": "2026-10-01",
-   "last_online": "2026-10-07",
+   "last_online": "2026-10-08",
    "username": "MinMaxValgen"
   },
   "minordotarcdotbot": {
@@ -1847,7 +1847,7 @@
   },
   "miss_snowiee": {
    "first_seen": "2026-10-02",
-   "last_online": "2026-10-06",
+   "last_online": "2026-10-08",
    "username": "Miss_snowiee"
   },
   "mithandros": {
@@ -2617,7 +2617,7 @@
   },
   "space_bot": {
    "first_seen": "2026-10-05",
-   "last_online": "2026-10-06",
+   "last_online": "2026-10-08",
    "username": "Space_BOT"
   },
   "spyros1bot": {
@@ -2782,7 +2782,7 @@
   },
   "tempocore": {
    "first_seen": "2026-09-29",
-   "last_online": "2026-10-07",
+   "last_online": "2026-10-08",
    "username": "TempoCore"
   },
   "terconari": {
@@ -3172,7 +3172,7 @@
   }
  },
  "online": {
-  "checked_at": "2026-10-08T10:43:10Z",
+  "checked_at": "2026-10-08T11:43:30Z",
   "ids": [
    "aaronsengine",
    "aatk_vanguardx",
@@ -3200,7 +3200,6 @@
    "atari-video-chess",
    "baby_eubos",
    "banerot",
-   "batyarapro",
    "bbc_bot",
    "berkbot",
    "bernstein-2ply",
@@ -3228,6 +3227,7 @@
    "casanchess-nnue",
    "catnail",
    "catriever",
+   "chaotong_engine",
    "charibot",
    "cheng-4",
    "cheng-4-nn",
@@ -3243,7 +3243,6 @@
    "chronicgambler",
    "cinder-bot",
    "cizme",
-   "classic_bot-v2",
    "classical-leela",
    "clrsrc_lc0",
    "coda_bot",
@@ -3294,21 +3293,19 @@
    "falconengine",
    "fataliibot",
    "fathzer-jchess",
-   "fayefish",
    "felipe_bot_53",
    "fenrirbot",
    "flounderbot",
    "flybrainchess",
    "fschess-engine",
    "garbobot",
-   "georgii_ai",
    "geotsibot",
    "goldfish-engine",
    "goopis",
    "grail-bot",
-   "groshboss",
    "hackerchessbot",
    "halcyonbot",
+   "hardrok",
    "hiusbot",
    "hodgeybot",
    "holidaybot1225",
@@ -3352,7 +3349,6 @@
    "leelarookodds",
    "leelatroll",
    "legochess98",
-   "lemuffinbot",
    "leol-bot",
    "likeawizard-bot",
    "lilitbot",
@@ -3396,6 +3392,8 @@
    "mimirbot",
    "minibotapi",
    "minibruteforcebot",
+   "minmaxvalgen",
+   "miss_snowiee",
    "mithandros",
    "mochi_bot",
    "morabandbot",
@@ -3406,7 +3404,6 @@
    "mychessjava",
    "nanozeroorg",
    "nebubot",
-   "neryba",
    "nesbes",
    "neurosocute",
    "newtsbot",
@@ -3417,6 +3414,7 @@
    "nittedal",
    "noabot",
    "noel-bot",
+   "notropis",
    "o-rei-cx",
    "openinggenie2000",
    "overfitted",
@@ -3434,7 +3432,6 @@
    "pi0w",
    "piebot",
    "piglet_engine",
-   "playmarius",
    "project_nebulora",
    "prokopakop",
    "prosperobot",
@@ -3480,6 +3477,7 @@
    "snapleelaeasy",
    "solsticeengine",
    "southbot",
+   "space_bot",
    "squarefish-900",
    "sseh-c",
    "steezybot",
@@ -3500,14 +3498,13 @@
    "sybaibot",
    "sybbot",
    "sykorabot",
-   "takticprochess",
    "talosbot",
    "teensycheesy",
+   "tempocore",
    "terconari",
    "thechessblazer",
    "thunfisch-bot",
    "tigrament",
-   "tikifish",
    "tilapiabot",
    "timemachine1858",
    "tm-sovietschool",
