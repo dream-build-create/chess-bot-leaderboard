@@ -7,7 +7,7 @@
   },
   "aatk_vanguardx": {
    "first_seen": "2026-09-27",
-   "last_online": "2026-10-07",
+   "last_online": "2026-10-08",
    "username": "AATK_VanguardX"
   },
   "abcd_engine": {
@@ -2622,7 +2622,7 @@
   },
   "steezybot": {
    "first_seen": "2026-10-06",
-   "last_online": "2026-10-07",
+   "last_online": "2026-10-08",
    "username": "SteezyBot"
   },
   "stepbot_chess": {
@@ -3152,8 +3152,9 @@
   }
  },
  "online": {
-  "checked_at": "2026-10-08T00:43:11Z",
+  "checked_at": "2026-10-08T00:59:51Z",
   "ids": [
+   "aatk_vanguardx",
    "abcd_engine",
    "aconcaguabot",
    "aetherbot",
@@ -3403,7 +3404,6 @@
    "onezenpanda",
    "openinggenie2000",
    "overfitted",
-   "oxybullet",
    "oxydanbot",
    "pangubot",
    "panic-fish",
@@ -3466,6 +3466,7 @@
    "southbot",
    "squarefish-900",
    "sseh-c",
+   "steezybot",
    "stepbot_chess",
    "stickshark99",
    "stockcotsfish",
@@ -3493,7 +3494,6 @@
    "tilapiabot",
    "timemachine1858",
    "tm-sovietschool",
-   "to299d",
    "tonyengine",
    "topasbot",
    "trainer-bot",
