@@ -2,7 +2,7 @@
  "bots": {
   "aaronsengine": {
    "first_seen": "2026-09-27",
-   "last_online": "2026-10-07",
+   "last_online": "2026-10-08",
    "username": "AaronsEngine"
   },
   "aatk_vanguardx": {
@@ -357,7 +357,7 @@
   },
   "borkatower": {
    "first_seen": "2026-09-27",
-   "last_online": "2026-10-07",
+   "last_online": "2026-10-08",
    "username": "BorkaTower"
   },
   "bot-o-tron": {
@@ -1022,7 +1022,7 @@
   },
   "falconengine": {
    "first_seen": "2026-09-27",
-   "last_online": "2026-10-02",
+   "last_online": "2026-10-08",
    "username": "falconengine"
   },
   "fataliibot": {
@@ -1887,7 +1887,7 @@
   },
   "mxnet-gamemaster": {
    "first_seen": "2026-09-28",
-   "last_online": "2026-10-07",
+   "last_online": "2026-10-08",
    "username": "mxnet-gamemaster"
   },
   "my-bot": {
@@ -3167,8 +3167,9 @@
   }
  },
  "online": {
-  "checked_at": "2026-10-08T08:43:10Z",
+  "checked_at": "2026-10-08T09:43:10Z",
   "ids": [
+   "aaronsengine",
    "aatk_vanguardx",
    "abcd_engine",
    "aconcaguabot",
@@ -3196,7 +3197,6 @@
    "banerot",
    "batyarapro",
    "bbc_bot",
-   "becela9_kpebetka",
    "berkbot",
    "bernstein-2ply",
    "bernstein-4ply",
@@ -3208,11 +3208,11 @@
    "blujay-bot",
    "bongaclang",
    "boris-trapsky",
+   "borkatower",
    "bot5551",
    "bot64jaques",
    "bot_adario",
    "bot_stockfish13",
-   "bothev",
    "bottios",
    "bretemabot",
    "bubblebot2",
@@ -3287,6 +3287,8 @@
    "enjoyably3303",
    "entebot",
    "eubos",
+   "falconengine",
+   "fataliibot",
    "fathzer-jchess",
    "fayefish",
    "felipe_bot_53",
@@ -3396,13 +3398,12 @@
    "mostlyhuman1900",
    "mrtonnerre",
    "musashi-thebot",
+   "mxnet-gamemaster",
    "mychessjava",
    "nanozeroorg",
    "nebubot",
-   "neryba",
    "nesbes",
    "neurosocute",
-   "newchessengine-ai",
    "nexastrat",
    "nexosdefos",
    "nickdrohan",
@@ -3417,7 +3418,6 @@
    "oxydanbot",
    "pangubot",
    "panic-fish",
-   "papemaru_c_chess",
    "patzerbot135",
    "pawn_git",
    "pawnrobot",
@@ -3498,6 +3498,7 @@
    "sykorabot",
    "takticprochess",
    "talosbot",
+   "teensycheesy",
    "terconari",
    "thechessblazer",
    "thunfisch-bot",
