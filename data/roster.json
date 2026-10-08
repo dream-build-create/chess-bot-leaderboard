@@ -1522,7 +1522,7 @@
   },
   "leetomic": {
    "first_seen": "2026-10-06",
-   "last_online": "2026-10-07",
+   "last_online": "2026-10-08",
    "username": "Leetomic"
   },
   "legochess98": {
@@ -1574,6 +1574,11 @@
    "first_seen": "2026-09-27",
    "last_online": "2026-10-08",
    "username": "LouisChess48-6K"
+  },
+  "lowhangingfruits": {
+   "first_seen": "2026-10-08",
+   "last_online": "2026-10-08",
+   "username": "LowHangingFruits"
   },
   "lukebot": {
    "first_seen": "2026-09-27",
@@ -1872,7 +1877,7 @@
   },
   "musashi-thebot": {
    "first_seen": "2026-09-28",
-   "last_online": "2026-10-07",
+   "last_online": "2026-10-08",
    "username": "Musashi-thebot"
   },
   "mxnet-gamemaster": {
@@ -3152,7 +3157,7 @@
   }
  },
  "online": {
-  "checked_at": "2026-10-08T03:43:10Z",
+  "checked_at": "2026-10-08T04:43:08Z",
   "ids": [
    "aatk_vanguardx",
    "abcd_engine",
@@ -3265,6 +3270,7 @@
    "eigenmann-chess",
    "elachessbot",
    "elephantgambitengine",
+   "elexunix_chess_bot",
    "ellen_replay",
    "elmichess",
    "endspiel-pi",
@@ -3272,7 +3278,6 @@
    "entebot",
    "eubos",
    "fathzer-jchess",
-   "fayefish",
    "felipe_bot_53",
    "fenrirbot",
    "flounderbot",
@@ -3284,9 +3289,7 @@
    "goldfish-engine",
    "goopis",
    "grail-bot",
-   "hackerchessbot",
    "halcyonbot",
-   "hardrok",
    "hiusbot",
    "hodgeybot",
    "holidaybot1225",
@@ -3329,8 +3332,8 @@
    "leelarogue",
    "leelarookodds",
    "leelatroll",
+   "leetomic",
    "legochess98",
-   "lemuffinbot",
    "leol-bot",
    "likeawizard-bot",
    "lilitbot",
@@ -3338,6 +3341,7 @@
    "littlepatricia",
    "llmate",
    "louischess48-6k",
+   "lowhangingfruits",
    "lukebot",
    "lynx_bot",
    "mac-bot",
@@ -3378,11 +3382,10 @@
    "morabandbot",
    "mostlyhuman1900",
    "mrtonnerre",
+   "musashi-thebot",
    "mychessjava",
    "nanozeroorg",
    "nebubot",
-   "nerachess",
-   "neryba",
    "nesbes",
    "neurosocute",
    "newchessengine-ai",
@@ -3397,6 +3400,7 @@
    "o-rei-cx",
    "openinggenie2000",
    "overfitted",
+   "oxybullet",
    "oxydanbot",
    "pangubot",
    "panic-fish",
@@ -3458,7 +3462,6 @@
    "slowmate_bot",
    "snapleelaeasy",
    "solsticeengine",
-   "sonalml",
    "southbot",
    "squarefish-900",
    "sseh-c",
