@@ -635,6 +635,11 @@
    "last_online": "2026-10-04",
    "username": "ChessPion96"
   },
+  "chesstransformerbot": {
+   "first_seen": "2026-10-08",
+   "last_online": "2026-10-08",
+   "username": "ChessTransformerBot"
+  },
   "cheszter": {
    "first_seen": "2026-09-27",
    "last_online": "2026-10-08",
@@ -2212,7 +2217,7 @@
   },
   "project_nebulora": {
    "first_seen": "2026-09-30",
-   "last_online": "2026-10-07",
+   "last_online": "2026-10-08",
    "username": "Project_Nebulora"
   },
   "prokopakop": {
@@ -3035,6 +3040,11 @@
    "last_online": "2026-10-08",
    "username": "Voigtsbach"
   },
+  "vortexaurafarm": {
+   "first_seen": "2026-10-08",
+   "last_online": "2026-10-08",
+   "username": "VortexAuraFarm"
+  },
   "vortexinbrp": {
    "first_seen": "2026-10-04",
    "last_online": "2026-10-06",
@@ -3157,7 +3167,7 @@
   }
  },
  "online": {
-  "checked_at": "2026-10-08T06:59:12Z",
+  "checked_at": "2026-10-08T07:43:10Z",
   "ids": [
    "aatk_vanguardx",
    "abcd_engine",
@@ -3221,6 +3231,7 @@
    "chessiverse_luc",
    "chessiverse_pawnza",
    "chessiverse_raak",
+   "chesstransformerbot",
    "cheszter",
    "chill4ce",
    "chronicgambler",
@@ -3263,6 +3274,7 @@
    "drewschessmachine",
    "duchessai",
    "dumbotai",
+   "edwardkillick",
    "eigenmann-chess",
    "elachessbot",
    "elephantgambitengine",
@@ -3386,12 +3398,12 @@
    "mychessjava",
    "nanozeroorg",
    "nebubot",
+   "neryba",
    "nesbes",
    "neurosocute",
    "newchessengine-ai",
    "nexastrat",
    "nexosdefos",
-   "nice_bot",
    "nickdrohan",
    "nilatacbot",
    "nittedal",
@@ -3418,6 +3430,7 @@
    "piebot",
    "piglet_engine",
    "playmarius",
+   "project_nebulora",
    "prokopakop",
    "prosperobot",
    "puisne",
@@ -3467,6 +3480,7 @@
    "steezybot",
    "stepbot_chess",
    "stickshark99",
+   "stockcotsfish",
    "stockdory",
    "stockfail",
    "stockfishlowdepth",
@@ -3522,6 +3536,7 @@
    "vietnamesecoffee",
    "void_bot",
    "voigtsbach",
+   "vortexaurafarm",
    "walpurti",
    "weiawaga",
    "wolfuhfuhbot",
