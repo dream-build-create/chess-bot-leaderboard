@@ -215,6 +215,11 @@
    "last_online": "2026-10-09",
    "username": "baby_eubos"
   },
+  "bamsensbadchessbot": {
+   "first_seen": "2026-10-09",
+   "last_online": "2026-10-09",
+   "username": "BamsensBadChessBot"
+  },
   "banerot": {
    "first_seen": "2026-09-27",
    "last_online": "2026-10-09",
@@ -747,7 +752,7 @@
   },
   "consolechessfastbot": {
    "first_seen": "2026-09-28",
-   "last_online": "2026-10-07",
+   "last_online": "2026-10-09",
    "username": "ConsoleChessFastBot"
   },
   "cookiebot711": {
@@ -792,7 +797,7 @@
   },
   "cruelken": {
    "first_seen": "2026-10-01",
-   "last_online": "2026-10-03",
+   "last_online": "2026-10-09",
    "username": "CruelKen"
   },
   "cutebot": {
@@ -1399,6 +1404,11 @@
    "first_seen": "2026-10-07",
    "last_online": "2026-10-07",
    "username": "KarimBOT"
+  },
+  "kavinengine": {
+   "first_seen": "2026-10-09",
+   "last_online": "2026-10-09",
+   "username": "KavinEngine"
   },
   "kepler_bot": {
    "first_seen": "2026-10-03",
@@ -2447,12 +2457,12 @@
   },
   "sara32222": {
    "first_seen": "2026-09-28",
-   "last_online": "2026-10-02",
+   "last_online": "2026-10-09",
    "username": "Sara32222"
   },
   "sara_bot": {
    "first_seen": "2026-09-28",
-   "last_online": "2026-10-08",
+   "last_online": "2026-10-09",
    "username": "Sara_bot"
   },
   "sargon-1ply": {
@@ -3197,7 +3207,7 @@
   }
  },
  "online": {
-  "checked_at": "2026-10-09T07:43:09Z",
+  "checked_at": "2026-10-09T08:43:11Z",
   "ids": [
    "aatk_vanguardx",
    "abcd_engine",
@@ -3225,6 +3235,7 @@
    "atari-video-chess",
    "azzbot",
    "baby_eubos",
+   "bamsensbadchessbot",
    "banerot",
    "bbc_bot",
    "becela9_kpebetka",
@@ -3257,7 +3268,6 @@
    "chess_set_manager",
    "chessatronbot",
    "chessblight",
-   "chessgeniusbot",
    "chessiverse_ethan",
    "chessiverse_luc",
    "chessiverse_pawnza",
@@ -3276,12 +3286,13 @@
    "codabot",
    "colinbot",
    "confidencebuilder",
-   "consolechessdev",
+   "consolechessfastbot",
    "cookiebot711",
    "cosettebot",
    "croco_bot",
    "croco_little_bot",
    "crocodile_bot",
+   "cruelken",
    "cutebot",
    "dala-1100",
    "dala-1300",
@@ -3326,7 +3337,6 @@
    "flybrainchess",
    "fschess-engine",
    "garbobot",
-   "georgii_ai",
    "geotsibot",
    "goldfish-engine",
    "goopis",
@@ -3358,6 +3368,7 @@
    "jpg-bot",
    "jurdbird",
    "justbot-v1",
+   "kavinengine",
    "kestrelstrike",
    "kirinchessbot",
    "kopyto_dev",
@@ -3413,6 +3424,7 @@
    "mate1-bot",
    "matmoi",
    "mayflyengine",
+   "mcdonalds1955",
    "mega-noob-bot",
    "melsh_bot",
    "mimirbot",
@@ -3483,6 +3495,8 @@
    "rust-in-pieces",
    "rustyrival",
    "ryu-ishigori",
+   "sara32222",
+   "sara_bot",
    "sargon-1ply",
    "sargon-2ply",
    "sargon-3ply",
@@ -3532,7 +3546,6 @@
    "tilapiabot",
    "to299d",
    "topasbot",
-   "torombot",
    "trainer-bot",
    "trenerhetman",
    "troutbot",
@@ -3561,6 +3574,7 @@
    "vietnamesecoffee",
    "void_bot",
    "voigtsbach",
+   "vortexaurafarm",
    "walpurti",
    "weiawaga",
    "wolfuhfuhbot",
