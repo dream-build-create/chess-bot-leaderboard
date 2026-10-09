@@ -72,7 +72,7 @@
   },
   "alexandrya": {
    "first_seen": "2026-10-03",
-   "last_online": "2026-10-03",
+   "last_online": "2026-10-09",
    "username": "Alexandrya"
   },
   "aliceshiro": {
@@ -1137,7 +1137,7 @@
   },
   "gnu4u": {
    "first_seen": "2026-10-03",
-   "last_online": "2026-10-03",
+   "last_online": "2026-10-09",
    "username": "GNU4u"
   },
   "gnupassant": {
@@ -1182,7 +1182,7 @@
   },
   "grzechu86": {
    "first_seen": "2026-09-29",
-   "last_online": "2026-10-08",
+   "last_online": "2026-10-09",
    "username": "Grzechu86"
   },
   "guitarfish-engine": {
@@ -2212,17 +2212,17 @@
   },
   "pirates1": {
    "first_seen": "2026-10-01",
-   "last_online": "2026-10-01",
+   "last_online": "2026-10-09",
    "username": "pirates1"
   },
   "pirates2": {
    "first_seen": "2026-09-30",
-   "last_online": "2026-10-01",
+   "last_online": "2026-10-09",
    "username": "Pirates2"
   },
   "piratesrust": {
    "first_seen": "2026-10-01",
-   "last_online": "2026-10-01",
+   "last_online": "2026-10-09",
    "username": "PiratesRust"
   },
   "platinumbot": {
@@ -2827,7 +2827,7 @@
   },
   "tempocore": {
    "first_seen": "2026-09-29",
-   "last_online": "2026-10-08",
+   "last_online": "2026-10-09",
    "username": "TempoCore"
   },
   "terconari": {
@@ -2902,7 +2902,7 @@
   },
   "togaii": {
    "first_seen": "2026-10-03",
-   "last_online": "2026-10-03",
+   "last_online": "2026-10-09",
    "username": "togaII"
   },
   "tonyengine": {
@@ -3222,11 +3222,10 @@
   }
  },
  "online": {
-  "checked_at": "2026-10-09T11:43:14Z",
+  "checked_at": "2026-10-09T12:43:10Z",
   "ids": [
    "aaronsengine",
    "aatk_vanguardx",
-   "abcd_engine",
    "aconcaguabot",
    "adamantbot_v1",
    "aetherbot",
@@ -3234,6 +3233,7 @@
    "ai-con",
    "ailedbot",
    "ajedrezchamberi",
+   "alexandrya",
    "aliceshiro",
    "alliethechessbot",
    "andobot",
@@ -3255,10 +3255,12 @@
    "banerot",
    "battlebornthe5th",
    "bbc_bot",
+   "becela9_kpebetka",
    "berkbot",
    "bernstein-2ply",
    "bernstein-4ply",
    "bfiedler-bot",
+   "bhonduesque",
    "bitbitbot",
    "bluemoonbot",
    "blujay-bot",
@@ -3352,10 +3354,12 @@
    "fschess-engine",
    "garbobot",
    "geotsibot",
+   "gnu4u",
    "goldfish-engine",
    "goopis",
    "grail-bot",
    "groshboss",
+   "grzechu86",
    "hackerchessbot",
    "halcyonbot",
    "hardrok",
@@ -3458,9 +3462,8 @@
    "nebubot",
    "nesbes",
    "neurosocute",
-   "newtsbot",
+   "newchessengine-ai",
    "nexastrat",
-   "nexosdefos",
    "nice_bot",
    "nickdrohan",
    "nightruin",
@@ -3471,8 +3474,8 @@
    "notropis",
    "o-rei-cx",
    "onezenpanda",
-   "overfitted",
    "oxybullet",
+   "oxydanbot",
    "pangubot",
    "panic-fish",
    "patzerbot135",
@@ -3487,6 +3490,9 @@
    "pi0w",
    "piebot",
    "piglet_engine",
+   "pirates1",
+   "pirates2",
+   "piratesrust",
    "playmarius",
    "prokopakop",
    "prosperobot",
@@ -3522,6 +3528,7 @@
    "scalaqueen",
    "schnecken_bot",
    "scipio-bot",
+   "sharpsundae",
    "shrevenbot",
    "sim3million",
    "simbelmyne-bot",
@@ -3554,6 +3561,7 @@
    "sykorabot",
    "talosbot",
    "teensycheesy",
+   "tempocore",
    "terconari",
    "thechessblazer",
    "throrbjorn",
@@ -3561,6 +3569,7 @@
    "tigrament",
    "tilapiabot",
    "to299d",
+   "togaii",
    "topasbot",
    "trainer-bot",
    "trenerhetman",
@@ -3588,6 +3597,7 @@
    "vicentlittle",
    "vidbot",
    "vietnamesecoffee",
+   "void_bot",
    "voigtsbach",
    "vortexaurafarm",
    "walpurti",
