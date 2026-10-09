@@ -2,7 +2,7 @@
  "bots": {
   "aaronsengine": {
    "first_seen": "2026-09-27",
-   "last_online": "2026-10-08",
+   "last_online": "2026-10-09",
    "username": "AaronsEngine"
   },
   "aatk_vanguardx": {
@@ -62,7 +62,7 @@
   },
   "ajedrezchamberi": {
    "first_seen": "2026-09-29",
-   "last_online": "2026-10-06",
+   "last_online": "2026-10-09",
    "username": "AjedrezChamberi"
   },
   "alarm2001": {
@@ -247,7 +247,7 @@
   },
   "battlebornthe5th": {
    "first_seen": "2026-09-29",
-   "last_online": "2026-10-06",
+   "last_online": "2026-10-09",
    "username": "BattleBornThe5th"
   },
   "batyarapro": {
@@ -527,7 +527,7 @@
   },
   "chamberiajedrez": {
    "first_seen": "2026-09-29",
-   "last_online": "2026-10-06",
+   "last_online": "2026-10-09",
    "username": "ChamberiAjedrez"
   },
   "chaotong_engine": {
@@ -737,7 +737,7 @@
   },
   "colossusbot": {
    "first_seen": "2026-09-30",
-   "last_online": "2026-10-08",
+   "last_online": "2026-10-09",
    "username": "ColossusBOT"
   },
   "confidencebuilder": {
@@ -919,6 +919,11 @@
    "first_seen": "2026-09-29",
    "last_online": "2026-10-08",
    "username": "dgtrychess"
+  },
+  "dontshameelon": {
+   "first_seen": "2026-10-09",
+   "last_online": "2026-10-09",
+   "username": "DontShameElon"
   },
   "dragonrosedev": {
    "first_seen": "2026-10-02",
@@ -1987,7 +1992,7 @@
   },
   "newtsbot": {
    "first_seen": "2026-09-27",
-   "last_online": "2026-10-08",
+   "last_online": "2026-10-09",
    "username": "NEWTSbot"
   },
   "nexastrat": {
@@ -2324,6 +2329,11 @@
    "first_seen": "2026-10-04",
    "last_online": "2026-10-07",
    "username": "RandomKerbal"
+  },
+  "rascal1": {
+   "first_seen": "2026-10-09",
+   "last_online": "2026-10-09",
+   "username": "rascal1"
   },
   "raspfish": {
    "first_seen": "2026-09-27",
@@ -3207,9 +3217,9 @@
   }
  },
  "online": {
-  "checked_at": "2026-10-09T08:43:11Z",
+  "checked_at": "2026-10-09T09:43:09Z",
   "ids": [
-   "aatk_vanguardx",
+   "aaronsengine",
    "abcd_engine",
    "aconcaguabot",
    "adamantbot_v1",
@@ -3217,6 +3227,7 @@
    "aggressivestockfish",
    "ai-con",
    "ailedbot",
+   "ajedrezchamberi",
    "aliceshiro",
    "alliethechessbot",
    "andobot",
@@ -3231,19 +3242,17 @@
    "artidigm_research",
    "ashasevidence",
    "ashnostromo",
-   "ask-aatk-bot",
    "atari-video-chess",
    "azzbot",
    "baby_eubos",
    "bamsensbadchessbot",
    "banerot",
+   "battlebornthe5th",
    "bbc_bot",
-   "becela9_kpebetka",
    "berkbot",
    "bernstein-2ply",
    "bernstein-4ply",
    "bfiedler-bot",
-   "bhonduesque",
    "bitbitbot",
    "black-bishop-kh",
    "bluemoonbot",
@@ -3263,11 +3272,15 @@
    "casanchess-nnue",
    "catnail",
    "catriever",
+   "chamberiajedrez",
    "charibot",
+   "cheng-4",
+   "cheng-4-nn",
    "chess3bot",
    "chess_set_manager",
    "chessatronbot",
    "chessblight",
+   "chesschildren",
    "chessiverse_ethan",
    "chessiverse_luc",
    "chessiverse_pawnza",
@@ -3285,8 +3298,8 @@
    "coda_bot",
    "codabot",
    "colinbot",
+   "colossusbot",
    "confidencebuilder",
-   "consolechessfastbot",
    "cookiebot711",
    "cosettebot",
    "croco_bot",
@@ -3312,6 +3325,7 @@
    "demolito_l3",
    "demolito_l4",
    "demolito_l5",
+   "dontshameelon",
    "drawfish-reborn",
    "drewschessmachine",
    "duchessai",
@@ -3373,6 +3387,7 @@
    "kirinchessbot",
    "kopyto_dev",
    "kulubot",
+   "kurganuci",
    "lamprook",
    "larryz-alterego",
    "latrunculi-bot",
@@ -3392,7 +3407,6 @@
    "lilitbot",
    "little-0",
    "littlepatricia",
-   "llianc_bot",
    "llmate",
    "louischess48-6k",
    "lukebot",
@@ -3435,12 +3449,14 @@
    "morabandbot",
    "mostlyhuman1900",
    "musashi-thebot",
+   "mxnet-gamemaster",
    "mychessjava",
    "nanozeroorg",
    "nebubot",
    "nesbes",
    "neurosocute",
    "newchessengine-ai",
+   "newtsbot",
    "nexastrat",
    "nexosdefos",
    "nice_bot",
@@ -3478,6 +3494,7 @@
    "radianceengine",
    "randmaster_bot",
    "randmaster_egtb",
+   "rascal1",
    "raspfish",
    "ratkingbot",
    "ratsu-bot",
@@ -3495,8 +3512,6 @@
    "rust-in-pieces",
    "rustyrival",
    "ryu-ishigori",
-   "sara32222",
-   "sara_bot",
    "sargon-1ply",
    "sargon-2ply",
    "sargon-3ply",
@@ -3582,7 +3597,6 @@
    "worstfish",
    "xewali",
    "z-o_aspenlabs",
-   "zanebot",
    "zero3-now",
    "zion-bot"
   ]
