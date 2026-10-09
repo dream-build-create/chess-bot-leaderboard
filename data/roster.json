@@ -1272,7 +1272,7 @@
   },
   "hymybot": {
    "first_seen": "2026-09-30",
-   "last_online": "2026-10-01",
+   "last_online": "2026-10-09",
    "username": "HymyBot"
   },
   "hynobiuschess": {
@@ -3247,7 +3247,7 @@
   }
  },
  "online": {
-  "checked_at": "2026-10-09T18:43:10Z",
+  "checked_at": "2026-10-09T18:55:33Z",
   "ids": [
    "aaronsengine",
    "abcd_engine",
@@ -3321,7 +3321,6 @@
    "chronicgambler",
    "cinder-bot",
    "cizme",
-   "classic_bot-v2",
    "classical-leela",
    "claude_bot",
    "clrsrc_lc0",
@@ -3374,7 +3373,6 @@
    "falconengine",
    "fataliibot",
    "fathzer-jchess",
-   "fayefish",
    "felipe_bot_53",
    "fenrirbot",
    "flounderbot",
@@ -3386,7 +3384,6 @@
    "goldfish-engine",
    "goopis",
    "grail-bot",
-   "graphene-64",
    "hackerchessbot",
    "halcyonbot",
    "hardrok",
@@ -3395,6 +3392,7 @@
    "holidaybot1225",
    "hummus-bot",
    "hustler_2mb",
+   "hymybot",
    "hynobiuschess",
    "hyperopic",
    "icarus-bot",
@@ -3629,7 +3627,6 @@
    "vortexaurafarm",
    "walpurti",
    "weiawaga",
-   "wildorderbot",
    "wolfuhfuhbot",
    "worst-ai",
    "worstfish",
