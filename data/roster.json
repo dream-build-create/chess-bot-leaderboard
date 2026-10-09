@@ -67,7 +67,7 @@
   },
   "alarm2001": {
    "first_seen": "2026-10-01",
-   "last_online": "2026-10-02",
+   "last_online": "2026-10-09",
    "username": "Alarm2001"
   },
   "alexandrya": {
@@ -1772,7 +1772,7 @@
   },
   "makechessbetter": {
    "first_seen": "2026-09-28",
-   "last_online": "2026-10-07",
+   "last_online": "2026-10-09",
    "username": "MakeChessBetter"
   },
   "malanchess": {
@@ -2262,7 +2262,7 @@
   },
   "prawn_bot": {
    "first_seen": "2026-09-27",
-   "last_online": "2026-10-03",
+   "last_online": "2026-10-09",
    "username": "prawn_bot"
   },
   "princessyuribot": {
@@ -3237,10 +3237,9 @@
   }
  },
  "online": {
-  "checked_at": "2026-10-09T14:43:10Z",
+  "checked_at": "2026-10-09T15:43:11Z",
   "ids": [
    "aaronsengine",
-   "aatk_vanguardx",
    "abcd_engine",
    "aconcaguabot",
    "adamantbot_v1",
@@ -3249,6 +3248,7 @@
    "ai-con",
    "ailedbot",
    "ajedrezchamberi",
+   "alarm2001",
    "alexandrya",
    "aliceshiro",
    "alliethechessbot",
@@ -3263,9 +3263,7 @@
    "arasanx",
    "ariadne-bot",
    "artidigm_research",
-   "ashasevidence",
    "ashnostromo",
-   "ask-aatk-bot",
    "atari-video-chess",
    "azzbot",
    "baby_eubos",
@@ -3290,7 +3288,6 @@
    "bubblebot2",
    "byte-knight",
    "caiporabot",
-   "cannotcheckmateme",
    "casanchess-nnue",
    "catnail",
    "catriever",
@@ -3346,7 +3343,6 @@
    "demolito_l3",
    "demolito_l4",
    "demolito_l5",
-   "dontshameelon",
    "drawfish-reborn",
    "drewschessmachine",
    "duchessai",
@@ -3458,6 +3454,7 @@
    "maia960-1900",
    "maia9_10n",
    "maia9_30n",
+   "makechessbetter",
    "martuni",
    "mate-in-forty",
    "mate-in-thirty",
@@ -3483,6 +3480,7 @@
    "nesbes",
    "neurosocute",
    "newchessengine-ai",
+   "newtsbot",
    "nexastrat",
    "nexosdefos",
    "nice_bot",
@@ -3515,6 +3513,7 @@
    "pirates2",
    "piratesrust",
    "playmarius",
+   "prawn_bot",
    "prokopakop",
    "prosperobot",
    "puisne",
@@ -3555,7 +3554,6 @@
    "simpleeval",
    "sj_norbot",
    "sleepmindengine",
-   "sleepypawnofficial",
    "slowmate_bot",
    "snapleelaeasy",
    "southbot",
