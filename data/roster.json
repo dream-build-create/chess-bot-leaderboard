@@ -1100,6 +1100,11 @@
    "last_online": "2026-10-09",
    "username": "FlyBrainChess"
   },
+  "fourcuriouspandas": {
+   "first_seen": "2026-10-09",
+   "last_online": "2026-10-09",
+   "username": "FourCuriousPandas"
+  },
   "fpga-chess": {
    "first_seen": "2026-09-28",
    "last_online": "2026-10-07",
@@ -1377,7 +1382,7 @@
   },
   "jimmy_inc3710": {
    "first_seen": "2026-10-02",
-   "last_online": "2026-10-07",
+   "last_online": "2026-10-09",
    "username": "Jimmy_inc3710"
   },
   "jinko-chan": {
@@ -1477,7 +1482,7 @@
   },
   "kowalabi": {
    "first_seen": "2026-09-28",
-   "last_online": "2026-09-28",
+   "last_online": "2026-10-09",
    "username": "kowalabi"
   },
   "kulubot": {
@@ -1652,7 +1657,7 @@
   },
   "lunaenginechess": {
    "first_seen": "2026-09-28",
-   "last_online": "2026-10-05",
+   "last_online": "2026-10-09",
    "username": "LunaEngineChess"
   },
   "lynx_bot": {
@@ -2114,6 +2119,11 @@
    "first_seen": "2026-09-27",
    "last_online": "2026-10-09",
    "username": "overfitted"
+  },
+  "owenbot": {
+   "first_seen": "2026-10-09",
+   "last_online": "2026-10-09",
+   "username": "OwenBot"
   },
   "oxide-eg": {
    "first_seen": "2026-09-27",
@@ -3247,9 +3257,8 @@
   }
  },
  "online": {
-  "checked_at": "2026-10-09T19:43:10Z",
+  "checked_at": "2026-10-09T20:43:09Z",
   "ids": [
-   "aaronsengine",
    "abcd_engine",
    "aconcaguabot",
    "aetherbot",
@@ -3261,6 +3270,7 @@
    "alexandrya",
    "aliceshiro",
    "alliethechessbot",
+   "alphanolla",
    "andobot",
    "angela_eng",
    "anna-bot",
@@ -3282,12 +3292,12 @@
    "bernstein-2ply",
    "bernstein-4ply",
    "bfiedler-bot",
+   "bhonduesque",
    "bitbitbot",
    "bluemoonbot",
    "blujay-bot",
    "bongaclang",
    "boris-trapsky",
-   "borkatower",
    "bot5551",
    "bot64jaques",
    "bot_adario",
@@ -3374,13 +3384,16 @@
    "fenrirbot",
    "flounderbot",
    "flybrainchess",
+   "fourcuriouspandas",
    "fschess-engine",
+   "gambitonlybot",
    "garbobot",
    "geotsibot",
    "gnu4u",
    "goldfish-engine",
    "goopis",
    "grail-bot",
+   "groshboss",
    "hackerchessbot",
    "halcyonbot",
    "hardrok",
@@ -3403,6 +3416,7 @@
    "jenniferx",
    "jesterchessrobot",
    "jibbby",
+   "jimmy_inc3710",
    "jinko-chan",
    "joan_clone",
    "joey_chessengine",
@@ -3416,6 +3430,7 @@
    "kestrelstrike",
    "kirinchessbot",
    "kopyto_dev",
+   "kowalabi",
    "kulubot",
    "lamprook",
    "larryz-alterego",
@@ -3430,7 +3445,6 @@
    "leelarogue",
    "leelarookodds",
    "leelatroll",
-   "legochess98",
    "leol-bot",
    "likeawizard-bot",
    "lilitbot",
@@ -3440,6 +3454,7 @@
    "llmate",
    "louischess48-6k",
    "lukebot",
+   "lunaenginechess",
    "lynx_bot",
    "mac-bot",
    "maia1",
@@ -3485,6 +3500,7 @@
    "neryba",
    "nesbes",
    "neurosocute",
+   "newtsbot",
    "nexastrat",
    "nice_bot",
    "nickdrohan",
@@ -3495,6 +3511,8 @@
    "notropis",
    "o-rei-cx",
    "overfitted",
+   "owenbot",
+   "oxybullet",
    "pangubot",
    "panic-fish",
    "patriciabot",
