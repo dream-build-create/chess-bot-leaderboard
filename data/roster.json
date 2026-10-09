@@ -527,7 +527,7 @@
   },
   "ceraf": {
    "first_seen": "2026-10-01",
-   "last_online": "2026-10-01",
+   "last_online": "2026-10-09",
    "username": "CERAF"
   },
   "chamberiajedrez": {
@@ -767,7 +767,7 @@
   },
   "coolperson_bot1": {
    "first_seen": "2026-10-05",
-   "last_online": "2026-10-07",
+   "last_online": "2026-10-09",
    "username": "coolperson_bot1"
   },
   "cosettebot": {
@@ -2427,7 +2427,7 @@
   },
   "rodent-iv": {
    "first_seen": "2026-10-05",
-   "last_online": "2026-10-08",
+   "last_online": "2026-10-09",
    "username": "Rodent-IV"
   },
   "rodent-v": {
@@ -2519,6 +2519,11 @@
    "first_seen": "2026-09-27",
    "last_online": "2026-10-08",
    "username": "SaxtonEngine"
+  },
+  "sbnovella": {
+   "first_seen": "2026-10-09",
+   "last_online": "2026-10-09",
+   "username": "SBNovella"
   },
   "scalaqueen": {
    "first_seen": "2026-09-27",
@@ -2647,7 +2652,7 @@
   },
   "somekindofbot": {
    "first_seen": "2026-10-02",
-   "last_online": "2026-10-02",
+   "last_online": "2026-10-09",
    "username": "somekindofbot"
   },
   "sonalml": {
@@ -3237,7 +3242,7 @@
   }
  },
  "online": {
-  "checked_at": "2026-10-09T15:43:11Z",
+  "checked_at": "2026-10-09T16:43:10Z",
   "ids": [
    "aaronsengine",
    "abcd_engine",
@@ -3263,6 +3268,7 @@
    "arasanx",
    "ariadne-bot",
    "artidigm_research",
+   "ashasevidence",
    "ashnostromo",
    "atari-video-chess",
    "azzbot",
@@ -3274,6 +3280,7 @@
    "bernstein-2ply",
    "bernstein-4ply",
    "bfiedler-bot",
+   "bhonduesque",
    "bitbitbot",
    "bluemoonbot",
    "blujay-bot",
@@ -3291,6 +3298,7 @@
    "casanchess-nnue",
    "catnail",
    "catriever",
+   "ceraf",
    "chamberiajedrez",
    "chaotong_engine",
    "charibot",
@@ -3320,6 +3328,7 @@
    "colossusbot",
    "confidencebuilder",
    "cookiebot711",
+   "coolperson_bot1",
    "cosettebot",
    "croco_bot",
    "croco_little_bot",
@@ -3350,7 +3359,7 @@
    "edwardkillick",
    "eigenmann-chess",
    "elachessbot",
-   "elephantgambitengine",
+   "elexunix_chess_bot",
    "ellen_replay",
    "elmichess",
    "endspiel-pi",
@@ -3377,7 +3386,6 @@
    "hackerchessbot",
    "halcyonbot",
    "hardrok",
-   "havenear",
    "hiusbot",
    "hodgeybot",
    "holidaybot1225",
@@ -3430,6 +3438,7 @@
    "lilitbot",
    "little-0",
    "littlepatricia",
+   "llianc_bot",
    "llmate",
    "louischess48-6k",
    "lukebot",
@@ -3454,7 +3463,6 @@
    "maia960-1900",
    "maia9_10n",
    "maia9_30n",
-   "makechessbetter",
    "martuni",
    "mate-in-forty",
    "mate-in-thirty",
@@ -3472,11 +3480,10 @@
    "morabandbot",
    "mostlyhuman1900",
    "mrtonnerre",
-   "musashi-thebot",
-   "mxnet-gamemaster",
    "mychessjava",
    "nanozeroorg",
    "nebubot",
+   "neryba",
    "nesbes",
    "neurosocute",
    "newchessengine-ai",
@@ -3513,7 +3520,6 @@
    "pirates2",
    "piratesrust",
    "playmarius",
-   "prawn_bot",
    "prokopakop",
    "prosperobot",
    "puisne",
@@ -3532,6 +3538,7 @@
    "renegadeengine",
    "resolutebot",
    "ribfish-bot",
+   "rodent-iv",
    "romanticbot",
    "romanticbot2",
    "rpibot73",
@@ -3543,6 +3550,7 @@
    "sargon-2ply",
    "sargon-3ply",
    "sargon-4ply",
+   "sbnovella",
    "scalaqueen",
    "schnecken_bot",
    "scipio-bot",
@@ -3556,6 +3564,7 @@
    "sleepmindengine",
    "slowmate_bot",
    "snapleelaeasy",
+   "somekindofbot",
    "southbot",
    "squarefish-900",
    "sseh-c",
@@ -3601,7 +3610,6 @@
    "twosillypandas",
    "ultrabrick",
    "unimark",
-   "ursus_bot",
    "usunfish",
    "usunfish-l0",
    "usunfish-l1",
