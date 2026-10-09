@@ -2347,7 +2347,7 @@
   },
   "rachl1": {
    "first_seen": "2026-10-06",
-   "last_online": "2026-10-06",
+   "last_online": "2026-10-09",
    "username": "rachl1"
   },
   "radianceengine": {
@@ -3185,6 +3185,11 @@
    "last_online": "2026-10-09",
    "username": "WildorderBot"
   },
+  "windmolen_bot": {
+   "first_seen": "2026-10-09",
+   "last_online": "2026-10-09",
+   "username": "Windmolen_bot"
+  },
   "wippy-bot": {
    "first_seen": "2026-10-03",
    "last_online": "2026-10-04",
@@ -3262,7 +3267,7 @@
   }
  },
  "online": {
-  "checked_at": "2026-10-09T22:43:09Z",
+  "checked_at": "2026-10-09T23:43:08Z",
   "ids": [
    "abcd_engine",
    "aconcaguabot",
@@ -3274,7 +3279,6 @@
    "alarm2001",
    "aliceshiro",
    "alliethechessbot",
-   "alphanolla",
    "andobot",
    "angela_eng",
    "anna-bot",
@@ -3292,7 +3296,6 @@
    "baby_eubos",
    "banerot",
    "bbc_bot",
-   "beastie1",
    "becela9_kpebetka",
    "berkbot",
    "bernstein-2ply",
@@ -3311,9 +3314,7 @@
    "bretemabot",
    "bubblebot2",
    "byte-knight",
-   "c0kval",
    "caiporabot",
-   "calico1",
    "casanchess-nnue",
    "catnail",
    "catriever",
@@ -3323,7 +3324,6 @@
    "cheng-4",
    "cheng-4-nn",
    "chess3bot",
-   "chess_set_manager",
    "chessatronbot",
    "chessblight",
    "chesschildren",
@@ -3457,7 +3457,6 @@
    "llmate",
    "louischess48-6k",
    "lukebot",
-   "lunaenginechess",
    "lynx_bot",
    "mac-bot",
    "maia1",
@@ -3514,6 +3513,7 @@
    "noel-bot",
    "notropis",
    "o-rei-cx",
+   "openinggenie2000",
    "overfitted",
    "owenbot",
    "oxydanbot",
@@ -3536,6 +3536,7 @@
    "puisne",
    "pzchessbot",
    "queensgambot",
+   "rachl1",
    "radianceengine",
    "randmaster_bot",
    "randmaster_egtb",
@@ -3549,7 +3550,6 @@
    "renegadeengine",
    "resolutebot",
    "ribfish-bot",
-   "rodent-iv",
    "romanticbot",
    "romanticbot2",
    "rpibot73",
@@ -3592,6 +3592,8 @@
    "sunfish-engine",
    "sunfish-nnue-engine",
    "sxphia",
+   "sybaibot",
+   "sybbot",
    "sykorabot",
    "talosbot",
    "teensycheesy",
@@ -3634,6 +3636,7 @@
    "vortexaurafarm",
    "walpurti",
    "weiawaga",
+   "windmolen_bot",
    "wolfuhfuhbot",
    "worst-ai",
    "worstfish",
