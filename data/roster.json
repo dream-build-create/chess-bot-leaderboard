@@ -1492,7 +1492,7 @@
   },
   "leelachesstest": {
    "first_seen": "2026-09-30",
-   "last_online": "2026-10-07",
+   "last_online": "2026-10-09",
    "username": "LeelaChessTest"
   },
   "leelajester": {
@@ -1587,7 +1587,7 @@
   },
   "llianc_bot": {
    "first_seen": "2026-10-08",
-   "last_online": "2026-10-08",
+   "last_online": "2026-10-09",
    "username": "LLIANC_BOT"
   },
   "llmate": {
@@ -3197,7 +3197,7 @@
   }
  },
  "online": {
-  "checked_at": "2026-10-09T02:43:08Z",
+  "checked_at": "2026-10-09T03:43:08Z",
   "ids": [
    "aatk_vanguardx",
    "abcd_engine",
@@ -3219,6 +3219,7 @@
    "arasanx",
    "ariadne-bot",
    "artidigm_research",
+   "ashasevidence",
    "ashnostromo",
    "ask-aatk-bot",
    "atari-video-chess",
@@ -3241,7 +3242,6 @@
    "bot5551",
    "bot64jaques",
    "bot_adario",
-   "bothev",
    "bottios",
    "bretemabot",
    "bubblebot2",
@@ -3252,12 +3252,9 @@
    "catnail",
    "catriever",
    "charibot",
-   "cheng-4",
-   "cheng-4-nn",
    "chess3bot",
    "chessatronbot",
    "chessblight",
-   "chesschildren",
    "chessiverse_ethan",
    "chessiverse_luc",
    "chessiverse_pawnza",
@@ -3367,6 +3364,7 @@
    "latrunculi-bot",
    "laura-bot",
    "leelaalien",
+   "leelachesstest",
    "leelajester",
    "leelaknightodds",
    "leelapieceodds",
@@ -3381,6 +3379,7 @@
    "lilitbot",
    "little-0",
    "littlepatricia",
+   "llianc_bot",
    "llmate",
    "louischess48-6k",
    "lukebot",
@@ -3425,6 +3424,7 @@
    "mrtonnerre",
    "mychessjava",
    "nanozeroorg",
+   "nebubot",
    "neryba",
    "nesbes",
    "neurosocute",
@@ -3521,6 +3521,8 @@
    "sunfish-engine",
    "sunfish-nnue-engine",
    "sxphia",
+   "sybaibot",
+   "sybbot",
    "sykorabot",
    "talosbot",
    "teensycheesy",
