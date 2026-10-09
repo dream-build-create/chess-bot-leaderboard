@@ -367,7 +367,7 @@
   },
   "bot-o-tron": {
    "first_seen": "2026-09-28",
-   "last_online": "2026-10-07",
+   "last_online": "2026-10-09",
    "username": "bot-o-tron"
   },
   "bot1e": {
@@ -1427,7 +1427,7 @@
   },
   "kobal11": {
    "first_seen": "2026-09-29",
-   "last_online": "2026-10-07",
+   "last_online": "2026-10-09",
    "username": "Kobal11"
   },
   "kopyto_dev": {
@@ -3197,10 +3197,9 @@
   }
  },
  "online": {
-  "checked_at": "2026-10-09T06:43:13Z",
+  "checked_at": "2026-10-09T06:59:43Z",
   "ids": [
    "aatk_vanguardx",
-   "abcd_engine",
    "aconcaguabot",
    "adamantbot_v1",
    "aetherbot",
@@ -3239,6 +3238,7 @@
    "blujay-bot",
    "bongaclang",
    "boris-trapsky",
+   "bot-o-tron",
    "bot5551",
    "bot64jaques",
    "bot_adario",
@@ -3309,6 +3309,7 @@
    "eigenmann-chess",
    "elachessbot",
    "elephantgambitengine",
+   "elexunix_chess_bot",
    "ellen_replay",
    "elmichess",
    "endspiel-pi",
@@ -3325,6 +3326,7 @@
    "flybrainchess",
    "fschess-engine",
    "garbobot",
+   "georgii_ai",
    "geotsibot",
    "goldfish-engine",
    "goopis",
@@ -3358,6 +3360,7 @@
    "justbot-v1",
    "kestrelstrike",
    "kirinchessbot",
+   "kobal11",
    "kopyto_dev",
    "kulubot",
    "lamprook",
@@ -3421,11 +3424,9 @@
    "morabandbot",
    "mostlyhuman1900",
    "musashi-thebot",
-   "mxnet-gamemaster",
    "mychessjava",
    "nanozeroorg",
    "nebubot",
-   "neryba",
    "nesbes",
    "neurosocute",
    "newchessengine-ai",
@@ -3491,7 +3492,6 @@
    "scalaqueen",
    "schnecken_bot",
    "scipio-bot",
-   "sharpsundae",
    "shrevenbot",
    "silverpike",
    "sim3million",
