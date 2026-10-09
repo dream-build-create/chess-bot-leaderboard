@@ -12,7 +12,7 @@
   },
   "abcd_engine": {
    "first_seen": "2026-09-27",
-   "last_online": "2026-10-08",
+   "last_online": "2026-10-09",
    "username": "abcd_engine"
   },
   "abdcebot": {
@@ -207,7 +207,7 @@
   },
   "azzbot": {
    "first_seen": "2026-09-27",
-   "last_online": "2026-10-06",
+   "last_online": "2026-10-09",
    "username": "AzzBot"
   },
   "baby_eubos": {
@@ -1112,7 +1112,7 @@
   },
   "georgii_ai": {
    "first_seen": "2026-09-28",
-   "last_online": "2026-10-08",
+   "last_online": "2026-10-09",
    "username": "georgii_ai"
   },
   "geotsibot": {
@@ -3095,6 +3095,11 @@
    "last_online": "2026-09-30",
    "username": "wardnbot"
   },
+  "weeebot": {
+   "first_seen": "2026-10-09",
+   "last_online": "2026-10-09",
+   "username": "weeebot"
+  },
   "weiawaga": {
    "first_seen": "2026-09-27",
    "last_online": "2026-10-09",
@@ -3192,9 +3197,10 @@
   }
  },
  "online": {
-  "checked_at": "2026-10-09T01:43:09Z",
+  "checked_at": "2026-10-09T02:43:08Z",
   "ids": [
    "aatk_vanguardx",
+   "abcd_engine",
    "aconcaguabot",
    "adamantbot_v1",
    "aetherbot",
@@ -3208,6 +3214,7 @@
    "anna-bot",
    "annie_archy",
    "aposeij",
+   "approximationbot",
    "arabicahce",
    "arasanx",
    "ariadne-bot",
@@ -3215,9 +3222,9 @@
    "ashnostromo",
    "ask-aatk-bot",
    "atari-video-chess",
+   "azzbot",
    "baby_eubos",
    "banerot",
-   "batyarapro",
    "bbc_bot",
    "becela9_kpebetka",
    "berkbot",
@@ -3234,13 +3241,11 @@
    "bot5551",
    "bot64jaques",
    "bot_adario",
-   "bot_stockfish13",
    "bothev",
    "bottios",
    "bretemabot",
    "bubblebot2",
    "byte-knight",
-   "c0kval",
    "caiporabot",
    "cannotcheckmateme",
    "casanchess-nnue",
@@ -3249,9 +3254,7 @@
    "charibot",
    "cheng-4",
    "cheng-4-nn",
-   "chess-dragon1",
    "chess3bot",
-   "chess_set_manager",
    "chessatronbot",
    "chessblight",
    "chesschildren",
@@ -3266,7 +3269,6 @@
    "cizme",
    "classic_bot-v2",
    "classical-leela",
-   "cloudnetbot",
    "clrsrc_lc0",
    "coda_bot",
    "codabot",
@@ -3278,7 +3280,6 @@
    "croco_little_bot",
    "crocodile_bot",
    "cutebot",
-   "daisy-bot",
    "dala-1100",
    "dala-1300",
    "dala-1600",
@@ -3321,8 +3322,8 @@
    "flounderbot",
    "flybrainchess",
    "fschess-engine",
-   "gambitonlybot",
    "garbobot",
+   "georgii_ai",
    "geotsibot",
    "goldfish-engine",
    "goopis",
@@ -3361,7 +3362,6 @@
    "kirinchessbot",
    "kopyto_dev",
    "kulubot",
-   "kurganuci",
    "lamprook",
    "larryz-alterego",
    "latrunculi-bot",
@@ -3376,7 +3376,6 @@
    "leelarookodds",
    "leelatroll",
    "legochess98",
-   "lemuffinbot",
    "leol-bot",
    "likeawizard-bot",
    "lilitbot",
@@ -3426,7 +3425,6 @@
    "mrtonnerre",
    "mychessjava",
    "nanozeroorg",
-   "nebubot",
    "neryba",
    "nesbes",
    "neurosocute",
@@ -3524,7 +3522,6 @@
    "sunfish-nnue-engine",
    "sxphia",
    "sykorabot",
-   "takticprochess",
    "talosbot",
    "teensycheesy",
    "terconari",
@@ -3569,6 +3566,7 @@
    "voigtsbach",
    "vortexaurafarm",
    "walpurti",
+   "weeebot",
    "weiawaga",
    "wolfuhfuhbot",
    "worst-ai",
