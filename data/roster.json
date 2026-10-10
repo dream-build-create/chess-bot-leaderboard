@@ -17,7 +17,7 @@
   },
   "abdcebot": {
    "first_seen": "2026-09-27",
-   "last_online": "2026-10-02",
+   "last_online": "2026-10-10",
    "username": "abdcebot"
   },
   "aconcaguabot": {
@@ -387,12 +387,12 @@
   },
   "bot1e": {
    "first_seen": "2026-09-27",
-   "last_online": "2026-10-02",
+   "last_online": "2026-10-10",
    "username": "bot1e"
   },
   "bot1nokk": {
    "first_seen": "2026-09-27",
-   "last_online": "2026-10-02",
+   "last_online": "2026-10-10",
    "username": "Bot1nokk"
   },
   "bot5551": {
@@ -407,7 +407,7 @@
   },
   "bot913": {
    "first_seen": "2026-09-29",
-   "last_online": "2026-09-30",
+   "last_online": "2026-10-10",
    "username": "bot913"
   },
   "bot_adario": {
@@ -1792,7 +1792,7 @@
   },
   "makechessbetter": {
    "first_seen": "2026-09-28",
-   "last_online": "2026-10-09",
+   "last_online": "2026-10-10",
    "username": "MakeChessBetter"
   },
   "malanchess": {
@@ -2572,7 +2572,7 @@
   },
   "sf_bot1nok": {
    "first_seen": "2026-09-27",
-   "last_online": "2026-10-02",
+   "last_online": "2026-10-10",
    "username": "SF_Bot1nok"
   },
   "sharpsundae": {
@@ -2837,12 +2837,12 @@
   },
   "sybaibot": {
    "first_seen": "2026-09-27",
-   "last_online": "2026-10-09",
+   "last_online": "2026-10-10",
    "username": "SybAIBot"
   },
   "sybbot": {
    "first_seen": "2026-09-27",
-   "last_online": "2026-10-09",
+   "last_online": "2026-10-10",
    "username": "SybBot"
   },
   "sykorabot": {
@@ -3272,10 +3272,11 @@
   }
  },
  "online": {
-  "checked_at": "2026-10-10T02:43:09Z",
+  "checked_at": "2026-10-10T03:43:10Z",
   "ids": [
    "aatk_vanguardx",
    "abcd_engine",
+   "abdcebot",
    "aconcaguabot",
    "aetherbot",
    "aggressivestockfish",
@@ -3311,8 +3312,11 @@
    "blujay-bot",
    "bongaclang",
    "boris-trapsky",
+   "bot1e",
+   "bot1nokk",
    "bot5551",
    "bot64jaques",
+   "bot913",
    "bot_adario",
    "bottios",
    "bretemabot",
@@ -3484,6 +3488,7 @@
    "maia960-1900",
    "maia9_10n",
    "maia9_30n",
+   "makechessbetter",
    "martuni",
    "mate-in-forty",
    "mate-in-thirty",
@@ -3497,7 +3502,6 @@
    "mimirbot",
    "minibotapi",
    "minibruteforcebot",
-   "mithandros",
    "mochi_bot",
    "morabandbot",
    "mostlyhuman1900",
@@ -3569,6 +3573,7 @@
    "scalaqueen",
    "schnecken_bot",
    "scipio-bot",
+   "sf_bot1nok",
    "sharpsundae",
    "shrevenbot",
    "sim3million",
@@ -3598,6 +3603,8 @@
    "sunfish-engine",
    "sunfish-nnue-engine",
    "sxphia",
+   "sybaibot",
+   "sybbot",
    "sykorabot",
    "takticprochess",
    "talosbot",
@@ -3619,7 +3626,6 @@
    "turkjs",
    "turochamp-1ply",
    "turochamp-2ply",
-   "turox-bot",
    "ultrabrick",
    "unimark",
    "ursus_bot",
