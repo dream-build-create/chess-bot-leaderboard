@@ -27,7 +27,7 @@
   },
   "adamantbot_v1": {
    "first_seen": "2026-09-27",
-   "last_online": "2026-10-09",
+   "last_online": "2026-10-10",
    "username": "AdamantBot_V1"
   },
   "admete_bot": {
@@ -532,7 +532,7 @@
   },
   "ceraf": {
    "first_seen": "2026-10-01",
-   "last_online": "2026-10-09",
+   "last_online": "2026-10-10",
    "username": "CERAF"
   },
   "chamberiajedrez": {
@@ -1459,6 +1459,11 @@
    "first_seen": "2026-09-27",
    "last_online": "2026-10-10",
    "username": "KestrelStrike"
+  },
+  "kingzbot": {
+   "first_seen": "2026-10-10",
+   "last_online": "2026-10-10",
+   "username": "Kingzbot"
   },
   "kirinchessbot": {
    "first_seen": "2026-09-27",
@@ -3277,12 +3282,12 @@
   }
  },
  "online": {
-  "checked_at": "2026-10-10T06:56:04Z",
+  "checked_at": "2026-10-10T07:43:08Z",
   "ids": [
-   "aatk_vanguardx",
    "abcd_engine",
    "abdcebot",
    "aconcaguabot",
+   "adamantbot_v1",
    "aetherbot",
    "agentc313",
    "aggressivestockfish",
@@ -3301,8 +3306,8 @@
    "arasanx",
    "ariadne-bot",
    "artidigm_research",
+   "ashasevidence",
    "ashnostromo",
-   "ask-aatk-bot",
    "atari-video-chess",
    "baby_eubos",
    "banerot",
@@ -3333,6 +3338,7 @@
    "casanchess-nnue",
    "catnail",
    "catriever",
+   "ceraf",
    "chaotong_engine",
    "charibot",
    "chess3bot",
@@ -3444,6 +3450,7 @@
    "justbot-v1",
    "kavinengine",
    "kestrelstrike",
+   "kingzbot",
    "kirinchessbot",
    "kopyto_dev",
    "kulubot",
@@ -3503,6 +3510,7 @@
    "mimirbot",
    "minibotapi",
    "minibruteforcebot",
+   "mithandros",
    "mochi_bot",
    "morabandbot",
    "mostlyhuman1900",
@@ -3597,15 +3605,12 @@
    "stockfishlowdepth",
    "stockpapagei",
    "streamervschat",
-   "studyloversz-bot",
    "stupidchessrobot",
    "stupidfishbotbydscs",
    "subnorbot",
    "sunfish-engine",
    "sunfish-nnue-engine",
    "sxphia",
-   "sybaibot",
-   "sybbot",
    "sykorabot",
    "takticprochess",
    "talosbot",
