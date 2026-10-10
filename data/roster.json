@@ -1192,7 +1192,7 @@
   },
   "goldinho1bot": {
    "first_seen": "2026-09-29",
-   "last_online": "2026-09-29",
+   "last_online": "2026-10-10",
    "username": "goldinho1bot"
   },
   "goopis": {
@@ -2672,7 +2672,7 @@
   },
   "sleepypawnofficial": {
    "first_seen": "2026-10-08",
-   "last_online": "2026-10-09",
+   "last_online": "2026-10-10",
    "username": "SleepyPawnOfficial"
   },
   "slightknight_11": {
@@ -2999,6 +2999,11 @@
    "first_seen": "2026-10-03",
    "last_online": "2026-10-10",
    "username": "togaII"
+  },
+  "tomabbot": {
+   "first_seen": "2026-10-10",
+   "last_online": "2026-10-10",
+   "username": "TomabBot"
   },
   "tonyengine": {
    "first_seen": "2026-09-29",
@@ -3327,7 +3332,7 @@
   }
  },
  "online": {
-  "checked_at": "2026-10-10T20:43:09Z",
+  "checked_at": "2026-10-10T21:43:09Z",
   "ids": [
    "abcd_engine",
    "abdcebot",
@@ -3380,7 +3385,6 @@
    "bubblebot2",
    "byte-knight",
    "c-t-r-l",
-   "c0kval",
    "caiporabot",
    "calciumengine",
    "casanchess-nnue",
@@ -3395,7 +3399,6 @@
    "chess_set_manager",
    "chessatronbot",
    "chessblight",
-   "chessbot2880",
    "chesschildren",
    "chessiverse_ethan",
    "chessiverse_luc",
@@ -3407,14 +3410,13 @@
    "chronicgambler",
    "cinder-bot",
    "cizme",
+   "classic_bot-v2",
    "classical-leela",
    "clrsrc_lc0",
    "coda_bot",
    "codabot",
    "colinbot",
-   "colossusbot",
    "confidencebuilder",
-   "consolechessdev",
    "cookiebot711",
    "coolperson_bot1",
    "cosettebot",
@@ -3440,7 +3442,6 @@
    "demolito_l3",
    "demolito_l4",
    "demolito_l5",
-   "dragoodle",
    "drawfish-reborn",
    "drewschessmachine",
    "duchessai",
@@ -3456,6 +3457,7 @@
    "eubos",
    "falconengine",
    "fathzer-jchess",
+   "fayefish",
    "felipe_bot_53",
    "fenrirbot",
    "flounderbot",
@@ -3465,9 +3467,8 @@
    "fschess-engine",
    "garbobot",
    "geotsibot",
-   "gnu4u",
-   "goblinajedrezai",
    "goldfish-engine",
+   "goldinho1bot",
    "goopis",
    "gpt579419",
    "grail-bot",
@@ -3531,7 +3532,6 @@
    "likeawizard-bot",
    "lilitbot",
    "little-0",
-   "littlepatricia",
    "louischess48-6k",
    "lukebot",
    "lynx_bot",
@@ -3586,6 +3586,7 @@
    "neurosocute",
    "newchessengine-ai",
    "nexastrat",
+   "nexosdefos",
    "nice_bot",
    "nickdrohan",
    "nilatacbot",
@@ -3656,6 +3657,7 @@
    "simpleeval",
    "sj_norbot",
    "sleepmindengine",
+   "sleepypawnofficial",
    "slowmate_bot",
    "snapleelaeasy",
    "solsticeengine",
@@ -3689,8 +3691,10 @@
    "throrbjorn",
    "thunfisch-bot",
    "tigrament",
+   "tikifish",
    "tilapiabot",
    "to299d",
+   "tomabbot",
    "topasbot",
    "trainer-bot",
    "trenerhetman",
