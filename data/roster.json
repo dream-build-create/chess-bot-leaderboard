@@ -287,7 +287,7 @@
   },
   "belzedarian": {
    "first_seen": "2026-09-29",
-   "last_online": "2026-10-07",
+   "last_online": "2026-10-10",
    "username": "Belzedarian"
   },
   "berkbot": {
@@ -1552,7 +1552,7 @@
   },
   "leelachesstest": {
    "first_seen": "2026-09-30",
-   "last_online": "2026-10-09",
+   "last_online": "2026-10-10",
    "username": "LeelaChessTest"
   },
   "leelajester": {
@@ -1917,7 +1917,7 @@
   },
   "minmaxvalgen": {
    "first_seen": "2026-10-01",
-   "last_online": "2026-10-09",
+   "last_online": "2026-10-10",
    "username": "MinMaxValgen"
   },
   "minordotarcdotbot": {
@@ -3045,6 +3045,11 @@
    "last_online": "2026-10-09",
    "username": "TwoSillyPandas"
   },
+  "uiagbot": {
+   "first_seen": "2026-10-10",
+   "last_online": "2026-10-10",
+   "username": "uiagBot"
+  },
   "ultrabrick": {
    "first_seen": "2026-09-27",
    "last_online": "2026-10-10",
@@ -3297,7 +3302,7 @@
   }
  },
  "online": {
-  "checked_at": "2026-10-10T14:43:11Z",
+  "checked_at": "2026-10-10T15:43:08Z",
   "ids": [
    "aaronsengine",
    "aatk_vanguardx",
@@ -3330,12 +3335,12 @@
    "atari-video-chess",
    "baby_eubos",
    "banerot",
-   "battlebornthe1st",
    "battlebornthe2nd",
    "battlebornthe3rd",
    "battlebornthe4th",
    "bbc_bot",
    "becela9_kpebetka",
+   "belzedarian",
    "berkbot",
    "bernstein-2ply",
    "bernstein-4ply",
@@ -3364,10 +3369,13 @@
    "chamberiajedrez",
    "chaotong_engine",
    "charibot",
+   "cheng-4",
+   "cheng-4-nn",
    "chess3bot",
    "chessatronbot",
    "chessblight",
    "chessbot2880",
+   "chesschildren",
    "chessiverse_ethan",
    "chessiverse_luc",
    "chessiverse_pawnza",
@@ -3413,7 +3421,6 @@
    "demolito_l3",
    "demolito_l4",
    "demolito_l5",
-   "dragonrosedev",
    "drawfish-reborn",
    "drewschessmachine",
    "duchessai",
@@ -3426,7 +3433,6 @@
    "elmichess",
    "endspiel-pi",
    "entebot",
-   "epimetheusbot",
    "escarbo",
    "eubos",
    "falconengine",
@@ -3440,7 +3446,6 @@
    "fourcuriouspandas",
    "fpga-chess",
    "fschess-engine",
-   "gambitonlybot",
    "garbobot",
    "geotsibot",
    "gnu4u",
@@ -3469,7 +3474,6 @@
    "jenniferx",
    "jesterchessrobot",
    "jibbby",
-   "jinko-chan",
    "joan_clone",
    "joey_chessengine",
    "jongsungkim",
@@ -3488,6 +3492,7 @@
    "latrunculi-bot",
    "laura-bot",
    "leelaalien",
+   "leelachesstest",
    "leelajester",
    "leelaknightodds",
    "leelapieceodds",
@@ -3542,6 +3547,7 @@
    "mimirbot",
    "minibotapi",
    "minibruteforcebot",
+   "minmaxvalgen",
    "mithandros",
    "mochi_bot",
    "morabandbot",
@@ -3579,7 +3585,6 @@
    "peacemaker-0_0",
    "peachfruit",
    "perl-gigachess",
-   "philidor-142m",
    "pi0w",
    "piebot",
    "piglet_engine",
@@ -3610,7 +3615,6 @@
    "rust-in-pieces",
    "rustyrival",
    "ryu-ishigori",
-   "saisrankarthik_7",
    "sargon-1ply",
    "sargon-2ply",
    "sargon-3ply",
@@ -3674,6 +3678,7 @@
    "turkjs",
    "turochamp-1ply",
    "turochamp-2ply",
+   "uiagbot",
    "ultrabrick",
    "unimark",
    "ursus_bot",
@@ -3691,9 +3696,9 @@
    "vicentlittle",
    "vidbot",
    "vietnamesecoffee",
-   "violentstockfish",
    "void_bot",
    "voigtsbach",
+   "vortexaurafarm",
    "walpurti",
    "weiawaga",
    "windmolen_bot",
