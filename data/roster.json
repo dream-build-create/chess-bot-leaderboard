@@ -237,12 +237,12 @@
   },
   "battlebornthe1st": {
    "first_seen": "2026-10-01",
-   "last_online": "2026-10-02",
+   "last_online": "2026-10-10",
    "username": "BattleBornThe1st"
   },
   "battlebornthe2nd": {
    "first_seen": "2026-09-28",
-   "last_online": "2026-10-03",
+   "last_online": "2026-10-10",
    "username": "BattleBornThe2nd"
   },
   "battlebornthe3rd": {
@@ -937,7 +937,7 @@
   },
   "dragonrosedev": {
    "first_seen": "2026-10-02",
-   "last_online": "2026-10-08",
+   "last_online": "2026-10-10",
    "username": "DragonroseDev"
   },
   "dragoodle": {
@@ -1134,6 +1134,11 @@
    "first_seen": "2026-09-28",
    "last_online": "2026-10-04",
    "username": "gbot113"
+  },
+  "genesis1bot": {
+   "first_seen": "2026-10-10",
+   "last_online": "2026-10-10",
+   "username": "genesis1bot"
   },
   "georgii_ai": {
    "first_seen": "2026-09-28",
@@ -2420,6 +2425,11 @@
    "last_online": "2026-10-10",
    "username": "RDTChessBot"
   },
+  "reality_bot": {
+   "first_seen": "2026-10-10",
+   "last_online": "2026-10-10",
+   "username": "Reality_BOT"
+  },
   "redbeantree": {
    "first_seen": "2026-09-27",
    "last_online": "2026-10-01",
@@ -2517,7 +2527,7 @@
   },
   "saisrankarthik_7": {
    "first_seen": "2026-10-07",
-   "last_online": "2026-10-08",
+   "last_online": "2026-10-10",
    "username": "SAISRANKARTHIK_7"
   },
   "sara32222": {
@@ -3287,7 +3297,7 @@
   }
  },
  "online": {
-  "checked_at": "2026-10-10T11:43:09Z",
+  "checked_at": "2026-10-10T12:43:09Z",
   "ids": [
    "aaronsengine",
    "aatk_vanguardx",
@@ -3320,7 +3330,8 @@
    "atari-video-chess",
    "baby_eubos",
    "banerot",
-   "battlebornthe4th",
+   "battlebornthe1st",
+   "battlebornthe2nd",
    "bbc_bot",
    "becela9_kpebetka",
    "berkbot",
@@ -3346,7 +3357,6 @@
    "bubblebot2",
    "byte-knight",
    "caiporabot",
-   "caissa-x",
    "casanchess-nnue",
    "catnail",
    "catriever",
@@ -3368,6 +3378,7 @@
    "chronicgambler",
    "cinder-bot",
    "cizme",
+   "classic_bot-v2",
    "classical-leela",
    "claude_bot",
    "clrsrc_lc0",
@@ -3401,10 +3412,12 @@
    "demolito_l3",
    "demolito_l4",
    "demolito_l5",
+   "dragonrosedev",
    "drawfish-reborn",
    "drewschessmachine",
    "duchessai",
    "dumbotai",
+   "edwardkillick",
    "eigenmann-chess",
    "elachessbot",
    "elexunix_chess_bot",
@@ -3417,21 +3430,23 @@
    "falconengine",
    "fataliibot",
    "fathzer-jchess",
+   "fayefish",
    "felipe_bot_53",
    "fenrirbot",
-   "flompiebot",
    "flounderbot",
    "flybrainchess",
    "fourcuriouspandas",
    "fpga-chess",
    "fschess-engine",
    "garbobot",
+   "genesis1bot",
    "geotsibot",
    "goldfish-engine",
    "goopis",
    "grail-bot",
    "groshboss",
    "halcyonbot",
+   "hardrok",
    "hiusbot",
    "hodgeybot",
    "holidaybot1225",
@@ -3531,10 +3546,12 @@
    "mychessjava",
    "nanozeroorg",
    "nebubot",
+   "neryba",
    "nesbes",
    "neurosocute",
    "newchessengine-ai",
    "nexastrat",
+   "nexosdefos",
    "nice_bot",
    "nickdrohan",
    "nilatacbot",
@@ -3543,10 +3560,8 @@
    "noel-bot",
    "notropis",
    "o-rei-cx",
-   "osaurus",
    "overfitted",
    "owenbot",
-   "oxybullet",
    "oxydanbot",
    "panic-fish",
    "patzerbot135",
@@ -3576,6 +3591,7 @@
    "raven030",
    "ravenengine",
    "rdtchessbot",
+   "reality_bot",
    "registerpythonspeed",
    "renegadeengine",
    "resolutebot",
@@ -3587,6 +3603,7 @@
    "rust-in-pieces",
    "rustyrival",
    "ryu-ishigori",
+   "saisrankarthik_7",
    "sargon-1ply",
    "sargon-2ply",
    "sargon-3ply",
@@ -3596,7 +3613,6 @@
    "schnecken_bot",
    "scipio-bot",
    "sf_bot1nok",
-   "sharpsundae",
    "shrevenbot",
    "sim3million",
    "simbelmyne-bot",
@@ -3637,10 +3653,10 @@
    "throrbjorn",
    "thunfisch-bot",
    "tigrament",
+   "tikifish",
    "tilapiabot",
    "to299d",
    "topasbot",
-   "torombot",
    "trainer-bot",
    "trenerhetman",
    "troutbot",
@@ -3668,9 +3684,11 @@
    "vidbot",
    "vietnamesecoffee",
    "violentstockfish",
+   "void_bot",
    "voigtsbach",
    "walpurti",
    "weiawaga",
+   "windmolen_bot",
    "wolfuhfuhbot",
    "worst-ai",
    "worstfish",
