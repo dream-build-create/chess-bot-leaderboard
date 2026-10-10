@@ -2597,7 +2597,7 @@
   },
   "simple-bot": {
    "first_seen": "2026-09-27",
-   "last_online": "2026-10-09",
+   "last_online": "2026-10-10",
    "username": "simple-bot"
   },
   "simplechessnnue": {
@@ -3162,7 +3162,7 @@
   },
   "weeebot": {
    "first_seen": "2026-10-09",
-   "last_online": "2026-10-09",
+   "last_online": "2026-10-10",
    "username": "weeebot"
   },
   "weiawaga": {
@@ -3267,7 +3267,7 @@
   }
  },
  "online": {
-  "checked_at": "2026-10-10T01:00:01Z",
+  "checked_at": "2026-10-10T01:43:10Z",
   "ids": [
    "abcd_engine",
    "aconcaguabot",
@@ -3300,7 +3300,6 @@
    "bernstein-2ply",
    "bernstein-4ply",
    "bfiedler-bot",
-   "bhonduesque",
    "bitbitbot",
    "bluemoonbot",
    "blujay-bot",
@@ -3566,6 +3565,7 @@
    "shrevenbot",
    "sim3million",
    "simbelmyne-bot",
+   "simple-bot",
    "simpleeval",
    "sj_norbot",
    "sleepmindengine",
@@ -3631,6 +3631,7 @@
    "voigtsbach",
    "vortexaurafarm",
    "walpurti",
+   "weeebot",
    "weiawaga",
    "wolfuhfuhbot",
    "worst-ai",
