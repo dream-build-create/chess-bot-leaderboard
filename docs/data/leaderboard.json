@@ -1,7 +1,7 @@
 {
  "schema_version": 1,
  "generated_at": "2026-10-10T01:05:08Z",
- "online_checked_at": "2026-10-10T06:43:08Z",
+ "online_checked_at": "2026-10-10T06:56:04Z",
  "source": "Lichess public API",
  "rules": {
   "activity_days": 7,
@@ -70,7 +70,7 @@
     "rd": 45,
     "games": 5271,
     "last_active": "2026-10-10",
-    "online": true,
+    "online": false,
     "stockfish": false,
     "declared_engine": null,
     "bio": "My Operator is @Testting12",
@@ -4726,7 +4726,7 @@
     "rd": 45,
     "games": 2604,
     "last_active": "2026-10-10",
-    "online": true,
+    "online": false,
     "stockfish": false,
     "declared_engine": null,
     "bio": "My Operator is @Testting12",
