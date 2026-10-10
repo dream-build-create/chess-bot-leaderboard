@@ -492,7 +492,7 @@
   },
   "caissa-x": {
    "first_seen": "2026-09-29",
-   "last_online": "2026-10-08",
+   "last_online": "2026-10-10",
    "username": "caissa-x"
   },
   "calico1": {
@@ -747,7 +747,7 @@
   },
   "colossusbot": {
    "first_seen": "2026-09-30",
-   "last_online": "2026-10-09",
+   "last_online": "2026-10-10",
    "username": "ColossusBOT"
   },
   "confidencebuilder": {
@@ -757,7 +757,7 @@
   },
   "consolechessdev": {
    "first_seen": "2026-09-28",
-   "last_online": "2026-10-09",
+   "last_online": "2026-10-10",
    "username": "ConsoleChessDev"
   },
   "consolechessfastbot": {
@@ -1112,7 +1112,7 @@
   },
   "fpga-chess": {
    "first_seen": "2026-09-28",
-   "last_online": "2026-10-07",
+   "last_online": "2026-10-10",
    "username": "fpga-chess"
   },
   "fschess-engine": {
@@ -2037,7 +2037,7 @@
   },
   "newtsbot": {
    "first_seen": "2026-09-27",
-   "last_online": "2026-10-09",
+   "last_online": "2026-10-10",
    "username": "NEWTSbot"
   },
   "nexastrat": {
@@ -3282,8 +3282,9 @@
   }
  },
  "online": {
-  "checked_at": "2026-10-10T07:43:08Z",
+  "checked_at": "2026-10-10T08:43:09Z",
   "ids": [
+   "aatk_vanguardx",
    "abcd_engine",
    "abdcebot",
    "aconcaguabot",
@@ -3306,8 +3307,8 @@
    "arasanx",
    "ariadne-bot",
    "artidigm_research",
-   "ashasevidence",
    "ashnostromo",
+   "ask-aatk-bot",
    "atari-video-chess",
    "baby_eubos",
    "banerot",
@@ -3335,10 +3336,10 @@
    "byte-knight",
    "c0kval",
    "caiporabot",
+   "caissa-x",
    "casanchess-nnue",
    "catnail",
    "catriever",
-   "ceraf",
    "chaotong_engine",
    "charibot",
    "chess3bot",
@@ -3362,7 +3363,9 @@
    "coda_bot",
    "codabot",
    "colinbot",
+   "colossusbot",
    "confidencebuilder",
+   "consolechessdev",
    "cookiebot711",
    "coolperson_bot1",
    "cosettebot",
@@ -3399,7 +3402,6 @@
    "ellen_replay",
    "elmichess",
    "endspiel-pi",
-   "enjoyably3303",
    "entebot",
    "epimetheusbot",
    "eubos",
@@ -3411,6 +3413,7 @@
    "flounderbot",
    "flybrainchess",
    "fourcuriouspandas",
+   "fpga-chess",
    "fschess-engine",
    "garbobot",
    "georgii_ai",
@@ -3523,6 +3526,7 @@
    "nesbes",
    "neurosocute",
    "newchessengine-ai",
+   "newtsbot",
    "nexastrat",
    "nexosdefos",
    "nice_bot",
@@ -3561,6 +3565,7 @@
    "raspfish",
    "ratkingbot",
    "ratsu-bot",
+   "ravager_bot",
    "raven030",
    "ravenengine",
    "rdtchessbot",
@@ -3605,6 +3610,7 @@
    "stockfishlowdepth",
    "stockpapagei",
    "streamervschat",
+   "studyloversz-bot",
    "stupidchessrobot",
    "stupidfishbotbydscs",
    "subnorbot",
