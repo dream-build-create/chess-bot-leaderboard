@@ -1525,6 +1525,11 @@
    "last_online": "2026-10-10",
    "username": "lamprook"
   },
+  "lancelbot": {
+   "first_seen": "2026-10-10",
+   "last_online": "2026-10-10",
+   "username": "Lancelbot"
+  },
   "larryz-alterego": {
    "first_seen": "2026-09-27",
    "last_online": "2026-10-10",
@@ -2267,17 +2272,17 @@
   },
   "pirates1": {
    "first_seen": "2026-10-01",
-   "last_online": "2026-10-09",
+   "last_online": "2026-10-10",
    "username": "pirates1"
   },
   "pirates2": {
    "first_seen": "2026-09-30",
-   "last_online": "2026-10-09",
+   "last_online": "2026-10-10",
    "username": "Pirates2"
   },
   "piratesrust": {
    "first_seen": "2026-10-01",
-   "last_online": "2026-10-09",
+   "last_online": "2026-10-10",
    "username": "PiratesRust"
   },
   "platinumbot": {
@@ -2702,7 +2707,7 @@
   },
   "solsticeengine": {
    "first_seen": "2026-10-01",
-   "last_online": "2026-10-09",
+   "last_online": "2026-10-10",
    "username": "SolsticeEngine"
   },
   "somekindofbot": {
@@ -2917,7 +2922,7 @@
   },
   "the_baronet": {
    "first_seen": "2026-09-28",
-   "last_online": "2026-10-06",
+   "last_online": "2026-10-10",
    "username": "The_Baronet"
   },
   "thealexdestroyer": {
@@ -3312,7 +3317,7 @@
   }
  },
  "online": {
-  "checked_at": "2026-10-10T16:43:11Z",
+  "checked_at": "2026-10-10T17:43:09Z",
   "ids": [
    "aaronsengine",
    "aatk_vanguardx",
@@ -3325,9 +3330,11 @@
    "ai-con",
    "ailedbot",
    "ajedrezchamberi",
+   "alarm2001",
    "alexandrya",
    "aliceshiro",
    "alliethechessbot",
+   "alphanolla",
    "andobot",
    "angela_eng",
    "anna-bot",
@@ -3391,7 +3398,6 @@
    "chessiverse_luc",
    "chessiverse_pawnza",
    "chessiverse_raak",
-   "chesstransformerbot",
    "cheszter",
    "chill4ce",
    "chronicgambler",
@@ -3464,7 +3470,6 @@
    "goopis",
    "gpt579419",
    "grail-bot",
-   "groshboss",
    "hackerchessbot",
    "halcyonbot",
    "hardrok",
@@ -3487,6 +3492,7 @@
    "jenniferx",
    "jesterchessrobot",
    "jibbby",
+   "jinko-chan",
    "joan_clone",
    "joey_chessengine",
    "jongsungkim",
@@ -3501,6 +3507,7 @@
    "kopyto_dev",
    "kulubot",
    "lamprook",
+   "lancelbot",
    "larryz-alterego",
    "latrunculi-bot",
    "laura-bot",
@@ -3555,16 +3562,16 @@
    "matmoi",
    "mayflyengine",
    "mcdonalds1955",
+   "mega-noob-bot",
    "melsh_bot",
    "mimirbot",
+   "mind_bot",
    "minibotapi",
-   "minibruteforcebot",
    "mithandros",
    "mochi_bot",
    "morabandbot",
    "mostlyhuman1900",
    "mrtonnerre",
-   "musashi-thebot",
    "mychessjava",
    "nanozeroorg",
    "nebubot",
@@ -3600,6 +3607,9 @@
    "pi0w",
    "piebot",
    "piglet_engine",
+   "pirates1",
+   "pirates2",
+   "piratesrust",
    "prokopakop",
    "prosperobot",
    "puisne",
@@ -3615,6 +3625,7 @@
    "raven030",
    "ravenengine",
    "rdtchessbot",
+   "reality_bot",
    "reaper1bot",
    "registerpythonspeed",
    "renegadeengine",
@@ -3647,7 +3658,9 @@
    "sleepmindengine",
    "slowmate_bot",
    "snapleelaeasy",
+   "solsticeengine",
    "southbot",
+   "space_bot",
    "squarefish-900",
    "sseh-c",
    "steezybot",
@@ -3669,10 +3682,10 @@
    "sybaibot",
    "sybbot",
    "sykorabot",
-   "takticprochess",
    "talosbot",
    "teensycheesy",
    "terconari",
+   "the_baronet",
    "thechessblazer",
    "throrbjorn",
    "thunfisch-bot",
@@ -3714,6 +3727,7 @@
    "voigtsbach",
    "vortexaurafarm",
    "walpurti",
+   "weeebot",
    "weiawaga",
    "wolfuhfuhbot",
    "worst-ai",
