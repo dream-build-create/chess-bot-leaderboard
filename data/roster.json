@@ -247,7 +247,7 @@
   },
   "battlebornthe3rd": {
    "first_seen": "2026-09-29",
-   "last_online": "2026-09-29",
+   "last_online": "2026-10-10",
    "username": "BattleBornThe3rd"
   },
   "battlebornthe4th": {
@@ -1122,7 +1122,7 @@
   },
   "gambitonlybot": {
    "first_seen": "2026-09-28",
-   "last_online": "2026-10-09",
+   "last_online": "2026-10-10",
    "username": "GambitOnlyBot"
   },
   "garbobot": {
@@ -1847,7 +1847,7 @@
   },
   "matemakingmachine": {
    "first_seen": "2026-09-29",
-   "last_online": "2026-10-06",
+   "last_online": "2026-10-10",
    "username": "MateMakingMachine"
   },
   "matmoi": {
@@ -3297,7 +3297,7 @@
   }
  },
  "online": {
-  "checked_at": "2026-10-10T12:55:45Z",
+  "checked_at": "2026-10-10T13:43:08Z",
   "ids": [
    "aaronsengine",
    "aatk_vanguardx",
@@ -3332,6 +3332,8 @@
    "banerot",
    "battlebornthe1st",
    "battlebornthe2nd",
+   "battlebornthe3rd",
+   "battlebornthe4th",
    "bbc_bot",
    "becela9_kpebetka",
    "berkbot",
@@ -3438,6 +3440,7 @@
    "fourcuriouspandas",
    "fpga-chess",
    "fschess-engine",
+   "gambitonlybot",
    "garbobot",
    "genesis1bot",
    "geotsibot",
@@ -3497,6 +3500,7 @@
    "likeawizard-bot",
    "lilitbot",
    "little-0",
+   "llianc_bot",
    "louischess48-6k",
    "lukebot",
    "lynx_bot",
@@ -3527,13 +3531,13 @@
    "mate-in-thirty",
    "mate-in-twenty",
    "mate1-bot",
+   "matemakingmachine",
    "matmoi",
    "mayflyengine",
    "mcdonalds1955",
    "mega-noob-bot",
    "melsh_bot",
    "mimirbot",
-   "mind_bot",
    "minibotapi",
    "minibruteforcebot",
    "mithandros",
@@ -3549,7 +3553,6 @@
    "nesbes",
    "neurosocute",
    "newchessengine-ai",
-   "newtsbot",
    "nexastrat",
    "nexosdefos",
    "nice_bot",
@@ -3621,7 +3624,6 @@
    "slowmate_bot",
    "snapleelaeasy",
    "southbot",
-   "space_bot",
    "squarefish-900",
    "sseh-c",
    "steezybot",
