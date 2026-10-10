@@ -660,6 +660,11 @@
    "last_online": "2026-10-04",
    "username": "ChessPion96"
   },
+  "chesstango_bot": {
+   "first_seen": "2026-10-10",
+   "last_online": "2026-10-10",
+   "username": "chesstango_bot"
+  },
   "chesstransformerbot": {
    "first_seen": "2026-10-08",
    "last_online": "2026-10-10",
@@ -1172,7 +1177,7 @@
   },
   "goblinajedrezai": {
    "first_seen": "2026-09-28",
-   "last_online": "2026-09-29",
+   "last_online": "2026-10-10",
    "username": "GoblinAjedrezAI"
   },
   "gokubot": {
@@ -1277,12 +1282,12 @@
   },
   "honzovy-sachy": {
    "first_seen": "2026-09-27",
-   "last_online": "2026-10-05",
+   "last_online": "2026-10-10",
    "username": "honzovy-sachy"
   },
   "honzovy-sachy-2": {
    "first_seen": "2026-09-27",
-   "last_online": "2026-10-05",
+   "last_online": "2026-10-10",
    "username": "honzovy-sachy-2"
   },
   "hummus-bot": {
@@ -1967,7 +1972,7 @@
   },
   "motor-0": {
    "first_seen": "2026-09-27",
-   "last_online": "2026-10-05",
+   "last_online": "2026-10-10",
    "username": "Motor-0"
   },
   "mr_sandbar": {
@@ -2252,7 +2257,7 @@
   },
   "phalanx-xxv": {
    "first_seen": "2026-09-27",
-   "last_online": "2026-10-05",
+   "last_online": "2026-10-10",
    "username": "Phalanx-XXV"
   },
   "philidor-142m": {
@@ -2347,12 +2352,12 @@
   },
   "pseudo-0": {
    "first_seen": "2026-09-27",
-   "last_online": "2026-10-05",
+   "last_online": "2026-10-10",
    "username": "Pseudo-0"
   },
   "pseudo-1": {
    "first_seen": "2026-09-27",
-   "last_online": "2026-10-05",
+   "last_online": "2026-10-10",
    "username": "Pseudo-1"
   },
   "puisne": {
@@ -3172,7 +3177,7 @@
   },
   "virutor": {
    "first_seen": "2026-09-27",
-   "last_online": "2026-10-05",
+   "last_online": "2026-10-10",
    "username": "Virutor"
   },
   "void_bot": {
@@ -3322,10 +3327,8 @@
   }
  },
  "online": {
-  "checked_at": "2026-10-10T19:43:10Z",
+  "checked_at": "2026-10-10T20:43:09Z",
   "ids": [
-   "aaronsengine",
-   "aatk_vanguardx",
    "abcd_engine",
    "abdcebot",
    "aconcaguabot",
@@ -3336,10 +3339,8 @@
    "ailedbot",
    "ajedrezchamberi",
    "alarm2001",
-   "alexandrya",
    "aliceshiro",
    "alliethechessbot",
-   "alphanolla",
    "andobot",
    "angela_eng",
    "anna-bot",
@@ -3353,7 +3354,6 @@
    "artidigm_research",
    "ashasevidence",
    "ashnostromo",
-   "ask-aatk-bot",
    "atari-video-chess",
    "baby_eubos",
    "banerot",
@@ -3369,7 +3369,6 @@
    "blujay-bot",
    "bongaclang",
    "boris-trapsky",
-   "borkatower",
    "bot1e",
    "bot1nokk",
    "bot5551",
@@ -3402,6 +3401,7 @@
    "chessiverse_luc",
    "chessiverse_pawnza",
    "chessiverse_raak",
+   "chesstango_bot",
    "cheszter",
    "chill4ce",
    "chronicgambler",
@@ -3455,7 +3455,6 @@
    "entebot",
    "eubos",
    "falconengine",
-   "fataliibot",
    "fathzer-jchess",
    "felipe_bot_53",
    "fenrirbot",
@@ -3467,6 +3466,7 @@
    "garbobot",
    "geotsibot",
    "gnu4u",
+   "goblinajedrezai",
    "goldfish-engine",
    "goopis",
    "gpt579419",
@@ -3480,6 +3480,8 @@
    "hiusbot",
    "hodgeybot",
    "holidaybot1225",
+   "honzovy-sachy",
+   "honzovy-sachy-2",
    "hummus-bot",
    "hustler_2mb",
    "hynobiuschess",
@@ -3574,6 +3576,7 @@
    "mochi_bot",
    "morabandbot",
    "mostlyhuman1900",
+   "motor-0",
    "mrtonnerre",
    "mychessjava",
    "nanozeroorg",
@@ -3592,13 +3595,9 @@
    "notropis",
    "o-rei-cx",
    "overfitted",
-   "owenbot",
    "oxide-eg",
-   "oxybullet",
    "oxydanbot",
-   "pangubot",
    "panic-fish",
-   "patriciabot",
    "patzerbot135",
    "pawn_git",
    "pawnrobot",
@@ -3607,11 +3606,14 @@
    "peacemaker-0_0",
    "peachfruit",
    "perl-gigachess",
+   "phalanx-xxv",
    "pi0w",
    "piebot",
    "piglet_engine",
    "prokopakop",
    "prosperobot",
+   "pseudo-0",
+   "pseudo-1",
    "puisne",
    "pzchessbot",
    "queensgambot",
@@ -3646,7 +3648,6 @@
    "scalaqueen",
    "schnecken_bot",
    "scipio-bot",
-   "seitogakatsu",
    "sf_bot1nok",
    "sharpsundae",
    "shrevenbot",
@@ -3655,7 +3656,6 @@
    "simpleeval",
    "sj_norbot",
    "sleepmindengine",
-   "slothcomputer",
    "slowmate_bot",
    "snapleelaeasy",
    "solsticeengine",
@@ -3671,7 +3671,6 @@
    "stockfishlowdepth",
    "stockpapagei",
    "streamervschat",
-   "studyloversz-bot",
    "stupidchessrobot",
    "stupidfishbotbydscs",
    "subnorbot",
@@ -3685,13 +3684,13 @@
    "talosbot",
    "teensycheesy",
    "terconari",
+   "the_baronet",
    "thechessblazer",
    "throrbjorn",
    "thunfisch-bot",
    "tigrament",
    "tilapiabot",
    "to299d",
-   "togaii",
    "topasbot",
    "trainer-bot",
    "trenerhetman",
@@ -3719,11 +3718,11 @@
    "vicentlittle",
    "vidbot",
    "vietnamesecoffee",
+   "virutor",
    "void_bot",
    "voigtsbach",
    "vortexaurafarm",
    "walpurti",
-   "weeebot",
    "weiawaga",
    "wolfuhfuhbot",
    "worst-ai",
