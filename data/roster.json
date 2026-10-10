@@ -7,7 +7,7 @@
   },
   "aatk_vanguardx": {
    "first_seen": "2026-09-27",
-   "last_online": "2026-10-09",
+   "last_online": "2026-10-10",
    "username": "AATK_VanguardX"
   },
   "abcd_engine": {
@@ -192,7 +192,7 @@
   },
   "ask-aatk-bot": {
    "first_seen": "2026-09-27",
-   "last_online": "2026-10-09",
+   "last_online": "2026-10-10",
    "username": "Ask-AATK-bot"
   },
   "atari-video-chess": {
@@ -1032,7 +1032,7 @@
   },
   "epimetheusbot": {
    "first_seen": "2026-09-28",
-   "last_online": "2026-10-06",
+   "last_online": "2026-10-10",
    "username": "EpimetheusBot"
   },
   "escarbo": {
@@ -1137,7 +1137,7 @@
   },
   "georgii_ai": {
    "first_seen": "2026-09-28",
-   "last_online": "2026-10-09",
+   "last_online": "2026-10-10",
    "username": "georgii_ai"
   },
   "geotsibot": {
@@ -1147,7 +1147,7 @@
   },
   "ghidorah_x": {
    "first_seen": "2026-09-27",
-   "last_online": "2026-10-09",
+   "last_online": "2026-10-10",
    "username": "Ghidorah_X"
   },
   "gnu4u": {
@@ -1674,6 +1674,11 @@
    "first_seen": "2026-09-27",
    "last_online": "2026-10-10",
    "username": "Mac-Bot"
+  },
+  "mackbot": {
+   "first_seen": "2026-10-10",
+   "last_online": "2026-10-10",
+   "username": "MackBot"
   },
   "madameengine": {
    "first_seen": "2026-09-28",
@@ -2777,7 +2782,7 @@
   },
   "studyloversz-bot": {
    "first_seen": "2026-09-27",
-   "last_online": "2026-10-09",
+   "last_online": "2026-10-10",
    "username": "Studyloversz-bot"
   },
   "stupidchessrobot": {
@@ -3007,7 +3012,7 @@
   },
   "turox-bot": {
    "first_seen": "2026-09-27",
-   "last_online": "2026-10-09",
+   "last_online": "2026-10-10",
    "username": "turox-bot"
   },
   "twosillypandas": {
@@ -3112,7 +3117,7 @@
   },
   "violentstockfish": {
    "first_seen": "2026-09-28",
-   "last_online": "2026-10-06",
+   "last_online": "2026-10-10",
    "username": "ViolentStockfish"
   },
   "virutor": {
@@ -3267,8 +3272,9 @@
   }
  },
  "online": {
-  "checked_at": "2026-10-10T01:43:10Z",
+  "checked_at": "2026-10-10T02:43:09Z",
   "ids": [
+   "aatk_vanguardx",
    "abcd_engine",
    "aconcaguabot",
    "aetherbot",
@@ -3290,8 +3296,8 @@
    "artidigm_research",
    "ashasevidence",
    "ashnostromo",
+   "ask-aatk-bot",
    "atari-video-chess",
-   "azzbot",
    "baby_eubos",
    "banerot",
    "bbc_bot",
@@ -3382,6 +3388,7 @@
    "endspiel-pi",
    "enjoyably3303",
    "entebot",
+   "epimetheusbot",
    "eubos",
    "falconengine",
    "fataliibot",
@@ -3394,11 +3401,12 @@
    "fourcuriouspandas",
    "fschess-engine",
    "garbobot",
+   "georgii_ai",
    "geotsibot",
+   "ghidorah_x",
    "goldfish-engine",
    "goopis",
    "grail-bot",
-   "groshboss",
    "hackerchessbot",
    "halcyonbot",
    "hardrok",
@@ -3456,6 +3464,7 @@
    "lukebot",
    "lynx_bot",
    "mac-bot",
+   "mackbot",
    "maia1",
    "maia2200_10n",
    "maia3-79m_1000",
@@ -3557,7 +3566,6 @@
    "sargon-2ply",
    "sargon-3ply",
    "sargon-4ply",
-   "sbnovella",
    "scalaqueen",
    "schnecken_bot",
    "scipio-bot",
@@ -3583,6 +3591,7 @@
    "stockfishlowdepth",
    "stockpapagei",
    "streamervschat",
+   "studyloversz-bot",
    "stupidchessrobot",
    "stupidfishbotbydscs",
    "subnorbot",
@@ -3610,6 +3619,7 @@
    "turkjs",
    "turochamp-1ply",
    "turochamp-2ply",
+   "turox-bot",
    "ultrabrick",
    "unimark",
    "ursus_bot",
@@ -3627,6 +3637,7 @@
    "vicentlittle",
    "vidbot",
    "vietnamesecoffee",
+   "violentstockfish",
    "void_bot",
    "voigtsbach",
    "vortexaurafarm",
