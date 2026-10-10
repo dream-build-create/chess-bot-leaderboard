@@ -377,7 +377,7 @@
   },
   "borkatower": {
    "first_seen": "2026-09-27",
-   "last_online": "2026-10-09",
+   "last_online": "2026-10-10",
    "username": "BorkaTower"
   },
   "bot-o-tron": {
@@ -497,7 +497,7 @@
   },
   "calico1": {
    "first_seen": "2026-09-29",
-   "last_online": "2026-10-09",
+   "last_online": "2026-10-10",
    "username": "calico1"
   },
   "cannotcheckmateme": {
@@ -2127,7 +2127,7 @@
   },
   "osaurus": {
    "first_seen": "2026-09-29",
-   "last_online": "2026-10-06",
+   "last_online": "2026-10-10",
    "username": "OSaurus"
   },
   "overfitted": {
@@ -2840,6 +2840,11 @@
    "last_online": "2026-10-07",
    "username": "SuperGame5"
   },
+  "supermarkishere": {
+   "first_seen": "2026-10-10",
+   "last_online": "2026-10-10",
+   "username": "SuperMarkIsHere"
+  },
   "sxphia": {
    "first_seen": "2026-09-27",
    "last_online": "2026-10-10",
@@ -3282,7 +3287,7 @@
   }
  },
  "online": {
-  "checked_at": "2026-10-10T09:43:09Z",
+  "checked_at": "2026-10-10T10:43:09Z",
   "ids": [
    "aaronsengine",
    "aatk_vanguardx",
@@ -3326,6 +3331,7 @@
    "blujay-bot",
    "bongaclang",
    "boris-trapsky",
+   "borkatower",
    "bot1e",
    "bot1nokk",
    "bot5551",
@@ -3339,11 +3345,11 @@
    "c0kval",
    "caiporabot",
    "caissa-x",
+   "calico1",
    "casanchess-nnue",
    "catnail",
    "catriever",
    "chamberiajedrez",
-   "chaotong_engine",
    "charibot",
    "chess3bot",
    "chess_set_manager",
@@ -3370,7 +3376,6 @@
    "colinbot",
    "colossusbot",
    "confidencebuilder",
-   "consolechessdev",
    "cookiebot711",
    "coolperson_bot1",
    "cosettebot",
@@ -3426,8 +3431,6 @@
    "goldfish-engine",
    "goopis",
    "grail-bot",
-   "groshboss",
-   "hackerchessbot",
    "halcyonbot",
    "hiusbot",
    "hodgeybot",
@@ -3480,7 +3483,6 @@
    "lilitbot",
    "little-0",
    "llianc_bot",
-   "llmate",
    "louischess48-6k",
    "lukebot",
    "lynx_bot",
@@ -3512,6 +3514,8 @@
    "mate-in-twenty",
    "mate1-bot",
    "matmoi",
+   "mayflyengine",
+   "mcdonalds1955",
    "mega-noob-bot",
    "melsh_bot",
    "mimirbot",
@@ -3538,11 +3542,10 @@
    "noel-bot",
    "notropis",
    "o-rei-cx",
+   "osaurus",
    "overfitted",
    "owenbot",
-   "oxydanbot",
    "panic-fish",
-   "papemaru_c_chess",
    "patzerbot135",
    "pawn_git",
    "pawnrobot",
@@ -3585,6 +3588,7 @@
    "sargon-2ply",
    "sargon-3ply",
    "sargon-4ply",
+   "sbnovella",
    "scalaqueen",
    "schnecken_bot",
    "scipio-bot",
@@ -3599,7 +3603,6 @@
    "sleepmindengine",
    "slowmate_bot",
    "snapleelaeasy",
-   "solidor59",
    "southbot",
    "squarefish-900",
    "sseh-c",
@@ -3618,7 +3621,10 @@
    "subnorbot",
    "sunfish-engine",
    "sunfish-nnue-engine",
+   "supermarkishere",
    "sxphia",
+   "sybaibot",
+   "sybbot",
    "sykorabot",
    "takticprochess",
    "talosbot",
@@ -3660,7 +3666,6 @@
    "vidbot",
    "vietnamesecoffee",
    "violentstockfish",
-   "void_bot",
    "voigtsbach",
    "walpurti",
    "weiawaga",
