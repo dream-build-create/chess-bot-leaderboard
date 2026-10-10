@@ -47,7 +47,7 @@
   },
   "agentc313": {
    "first_seen": "2026-09-30",
-   "last_online": "2026-10-04",
+   "last_online": "2026-10-10",
    "username": "agentc313"
   },
   "aggressivestockfish": {
@@ -657,7 +657,7 @@
   },
   "chesstransformerbot": {
    "first_seen": "2026-10-08",
-   "last_online": "2026-10-09",
+   "last_online": "2026-10-10",
    "username": "ChessTransformerBot"
   },
   "cheszter": {
@@ -2967,7 +2967,7 @@
   },
   "torombot": {
    "first_seen": "2026-09-28",
-   "last_online": "2026-10-09",
+   "last_online": "2026-10-10",
    "username": "ToromBot"
   },
   "trainer-bot": {
@@ -3277,13 +3277,14 @@
   }
  },
  "online": {
-  "checked_at": "2026-10-10T05:43:09Z",
+  "checked_at": "2026-10-10T06:43:08Z",
   "ids": [
    "aatk_vanguardx",
    "abcd_engine",
    "abdcebot",
    "aconcaguabot",
    "aetherbot",
+   "agentc313",
    "aggressivestockfish",
    "ai-con",
    "ailedbot",
@@ -3343,6 +3344,7 @@
    "chessiverse_luc",
    "chessiverse_pawnza",
    "chessiverse_raak",
+   "chesstransformerbot",
    "cheszter",
    "chill4ce",
    "chronicgambler",
@@ -3437,6 +3439,7 @@
    "jinko-chan",
    "joan_clone",
    "joey_chessengine",
+   "jongsungkim",
    "joshsbot",
    "jpg-bot",
    "jurdbird",
@@ -3495,7 +3498,6 @@
    "mate-in-twenty",
    "mate1-bot",
    "matmoi",
-   "mayflyengine",
    "mcdonalds1955",
    "mega-noob-bot",
    "melsh_bot",
@@ -3618,6 +3620,7 @@
    "tilapiabot",
    "to299d",
    "topasbot",
+   "torombot",
    "trainer-bot",
    "trenerhetman",
    "troutbot",
