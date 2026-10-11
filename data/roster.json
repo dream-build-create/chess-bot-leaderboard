@@ -7,7 +7,7 @@
   },
   "aatk_vanguardx": {
    "first_seen": "2026-09-27",
-   "last_online": "2026-10-10",
+   "last_online": "2026-10-11",
    "username": "AATK_VanguardX"
   },
   "abcd_engine": {
@@ -192,7 +192,7 @@
   },
   "ask-aatk-bot": {
    "first_seen": "2026-09-27",
-   "last_online": "2026-10-10",
+   "last_online": "2026-10-11",
    "username": "Ask-AATK-bot"
   },
   "atari-video-chess": {
@@ -282,7 +282,7 @@
   },
   "beelzebubzero": {
    "first_seen": "2026-09-28",
-   "last_online": "2026-10-08",
+   "last_online": "2026-10-11",
    "username": "BeelzebubZero"
   },
   "belzedarian": {
@@ -997,7 +997,7 @@
   },
   "elephantgambitengine": {
    "first_seen": "2026-10-07",
-   "last_online": "2026-10-10",
+   "last_online": "2026-10-11",
    "username": "elephantgambitengine"
   },
   "elexunix_chess_bot": {
@@ -1582,7 +1582,7 @@
   },
   "leelaknightodds": {
    "first_seen": "2026-09-27",
-   "last_online": "2026-10-10",
+   "last_online": "2026-10-11",
    "username": "LeelaKnightOdds"
   },
   "leelamultiposs": {
@@ -1592,17 +1592,17 @@
   },
   "leelapieceodds": {
    "first_seen": "2026-09-27",
-   "last_online": "2026-10-10",
+   "last_online": "2026-10-11",
    "username": "LeelaPieceOdds"
   },
   "leelaqueenforknight": {
    "first_seen": "2026-09-27",
-   "last_online": "2026-10-10",
+   "last_online": "2026-10-11",
    "username": "LeelaQueenForKnight"
   },
   "leelaqueenodds": {
    "first_seen": "2026-09-27",
-   "last_online": "2026-10-10",
+   "last_online": "2026-10-11",
    "username": "LeelaQueenOdds"
   },
   "leelarogue": {
@@ -1612,7 +1612,7 @@
   },
   "leelarookodds": {
    "first_seen": "2026-09-27",
-   "last_online": "2026-10-10",
+   "last_online": "2026-10-11",
    "username": "LeelaRookOdds"
   },
   "leelatroll": {
@@ -1639,6 +1639,11 @@
    "first_seen": "2026-09-27",
    "last_online": "2026-10-11",
    "username": "Leol-bot"
+  },
+  "levymaia": {
+   "first_seen": "2026-10-11",
+   "last_online": "2026-10-11",
+   "username": "LevyMaia"
   },
   "likeawizard-bot": {
    "first_seen": "2026-09-27",
@@ -2827,7 +2832,7 @@
   },
   "studyloversz-bot": {
    "first_seen": "2026-09-27",
-   "last_online": "2026-10-10",
+   "last_online": "2026-10-11",
    "username": "Studyloversz-bot"
   },
   "stupidchessrobot": {
@@ -3007,7 +3012,7 @@
   },
   "tonyengine": {
    "first_seen": "2026-09-29",
-   "last_online": "2026-10-09",
+   "last_online": "2026-10-11",
    "username": "TonyEngine"
   },
   "topasbot": {
@@ -3282,7 +3287,7 @@
   },
   "wyxx210704_bot": {
    "first_seen": "2026-10-01",
-   "last_online": "2026-10-06",
+   "last_online": "2026-10-11",
    "username": "wyxx210704_bot"
   },
   "xewali": {
@@ -3332,8 +3337,9 @@
   }
  },
  "online": {
-  "checked_at": "2026-10-11T00:59:19Z",
+  "checked_at": "2026-10-11T01:43:10Z",
   "ids": [
+   "aatk_vanguardx",
    "abcd_engine",
    "abdcebot",
    "aconcaguabot",
@@ -3345,7 +3351,6 @@
    "alarm2001",
    "aliceshiro",
    "alliethechessbot",
-   "alphanolla",
    "andobot",
    "angela_eng",
    "anna-bot",
@@ -3359,12 +3364,14 @@
    "artidigm_research",
    "ashasevidence",
    "ashnostromo",
+   "ask-aatk-bot",
    "atari-video-chess",
    "baby_eubos",
    "banerot",
    "battlebornthe4th",
    "bbc_bot",
    "becela9_kpebetka",
+   "beelzebubzero",
    "berkbot",
    "bernstein-2ply",
    "bernstein-4ply",
@@ -3450,6 +3457,7 @@
    "edwardkillick",
    "eigenmann-chess",
    "elachessbot",
+   "elephantgambitengine",
    "elexunix_chess_bot",
    "ellen_replay",
    "elmichess",
@@ -3520,10 +3528,16 @@
    "laura-bot",
    "leelaalien",
    "leelajester",
+   "leelaknightodds",
+   "leelapieceodds",
+   "leelaqueenforknight",
+   "leelaqueenodds",
    "leelarogue",
+   "leelarookodds",
    "leelatroll",
    "legochess98",
    "leol-bot",
+   "levymaia",
    "likeawizard-bot",
    "lilitbot",
    "little-0",
@@ -3667,14 +3681,13 @@
    "stockfishlowdepth",
    "stockpapagei",
    "streamervschat",
+   "studyloversz-bot",
    "stupidchessrobot",
    "stupidfishbotbydscs",
    "subnorbot",
    "sunfish-engine",
    "sunfish-nnue-engine",
    "sxphia",
-   "sybaibot",
-   "sybbot",
    "sykorabot",
    "takticprochess",
    "talosbot",
@@ -3688,6 +3701,7 @@
    "tilapiabot",
    "to299d",
    "tomabbot",
+   "tonyengine",
    "topasbot",
    "trainer-bot",
    "trenerhetman",
@@ -3726,6 +3740,7 @@
    "wolfuhfuhbot",
    "worst-ai",
    "worstfish",
+   "wyxx210704_bot",
    "xewali",
    "z-o_aspenlabs",
    "zagreus_engine",
