@@ -447,7 +447,7 @@
   },
   "botyuliirma": {
    "first_seen": "2026-10-06",
-   "last_online": "2026-10-07",
+   "last_online": "2026-10-11",
    "username": "Botyuliirma"
   },
   "bretemabot": {
@@ -965,6 +965,11 @@
    "last_online": "2026-10-11",
    "username": "DrewsChessMachine"
   },
+  "dtsudo": {
+   "first_seen": "2026-10-11",
+   "last_online": "2026-10-11",
+   "username": "dtsudo"
+  },
   "duchessai": {
    "first_seen": "2026-09-27",
    "last_online": "2026-10-11",
@@ -1379,6 +1384,11 @@
    "first_seen": "2026-09-27",
    "last_online": "2026-10-11",
    "username": "jangine"
+  },
+  "jembok": {
+   "first_seen": "2026-10-11",
+   "last_online": "2026-10-11",
+   "username": "JemBok"
   },
   "jenniferx": {
    "first_seen": "2026-09-29",
@@ -3352,7 +3362,7 @@
   }
  },
  "online": {
-  "checked_at": "2026-10-11T10:43:09Z",
+  "checked_at": "2026-10-11T11:43:08Z",
   "ids": [
    "aaronsengine",
    "aatk_vanguardx",
@@ -3404,11 +3414,11 @@
    "bot913",
    "bot_adario",
    "bottios",
+   "botyuliirma",
    "bretemabot",
    "bubblebot2",
    "byte-knight",
    "c-t-r-l",
-   "c0kval",
    "caiporabot",
    "caissa-x",
    "casanchess-nnue",
@@ -3434,7 +3444,6 @@
    "chronicgambler",
    "cinder-bot",
    "cizme",
-   "classic_bot-v2",
    "classical-leela",
    "clementyne1",
    "clrsrc_lc0",
@@ -3471,6 +3480,7 @@
    "demolito_l5",
    "drawfish-reborn",
    "drewschessmachine",
+   "dtsudo",
    "duchessai",
    "dumbotai",
    "edwardkillick",
@@ -3485,7 +3495,6 @@
    "falconengine",
    "fataliibot",
    "fathzer-jchess",
-   "fayefish",
    "felipe_bot_53",
    "fenrirbot",
    "flounderbot",
@@ -3493,12 +3502,9 @@
    "fpga-chess",
    "fschess-engine",
    "garbobot",
-   "georgii_ai",
    "geotsibot",
    "goldfish-engine",
-   "goldinho1bot",
    "goopis",
-   "gpt579419",
    "grail-bot",
    "groshboss",
    "hackerchessbot",
@@ -3521,6 +3527,7 @@
    "iskelt-corax",
    "jacobsbot",
    "jangine",
+   "jembok",
    "jesterchessrobot",
    "jibbby",
    "jinko-chan",
@@ -3537,13 +3544,11 @@
    "kirinchessbot",
    "kopyto_dev",
    "lamprook",
-   "lancelbot",
    "larryz-alterego",
    "latrunculi-bot",
    "laura-bot",
    "lc0-latest",
    "leelaalien",
-   "leelachesstest",
    "leelajester",
    "leelarogue",
    "leelatroll",
@@ -3604,7 +3609,6 @@
    "neryba",
    "neurosocute",
    "nexastrat",
-   "nexosdefos",
    "nice_bot",
    "nickdrohan",
    "nilatacbot",
@@ -3617,7 +3621,7 @@
    "openinggenie2000",
    "overfitted",
    "oxide-eg",
-   "oxydanbot",
+   "oxybullet",
    "pangubot",
    "panic-fish",
    "patzerbot135",
@@ -3670,7 +3674,6 @@
    "scipio-bot",
    "sebvaderbot",
    "sf_bot1nok",
-   "sharpsundae",
    "shrevenbot",
    "sim3million",
    "simbelmyne-bot",
