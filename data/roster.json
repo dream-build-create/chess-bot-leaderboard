@@ -637,7 +637,7 @@
   },
   "chessgeniusbot": {
    "first_seen": "2026-10-02",
-   "last_online": "2026-10-10",
+   "last_online": "2026-10-11",
    "username": "ChessGeniusBot"
   },
   "chessiverse_ethan": {
@@ -1375,6 +1375,11 @@
    "last_online": "2026-10-05",
    "username": "io-bot"
   },
+  "iran_f72": {
+   "first_seen": "2026-10-11",
+   "last_online": "2026-10-11",
+   "username": "IRAN_F72"
+  },
   "is_boss": {
    "first_seen": "2026-09-27",
    "last_online": "2026-10-11",
@@ -1912,7 +1917,7 @@
   },
   "matemakingmachine": {
    "first_seen": "2026-09-29",
-   "last_online": "2026-10-10",
+   "last_online": "2026-10-11",
    "username": "MateMakingMachine"
   },
   "matmoi": {
@@ -3132,7 +3137,7 @@
   },
   "turox-bot": {
    "first_seen": "2026-09-27",
-   "last_online": "2026-10-10",
+   "last_online": "2026-10-11",
    "username": "turox-bot"
   },
   "twosillypandas": {
@@ -3312,7 +3317,7 @@
   },
   "wildorderbot": {
    "first_seen": "2026-09-28",
-   "last_online": "2026-10-09",
+   "last_online": "2026-10-11",
    "username": "WildorderBot"
   },
   "windmolen_bot": {
@@ -3397,10 +3402,11 @@
   }
  },
  "online": {
-  "checked_at": "2026-10-11T16:43:11Z",
+  "checked_at": "2026-10-11T17:43:09Z",
   "ids": [
    "aaronsengine",
    "aatk_vanguardx",
+   "abcd_engine",
    "abdcebot",
    "aconcaguabot",
    "aetherbot",
@@ -3468,12 +3474,12 @@
    "chessatronbot",
    "chessblight",
    "chesschildren",
+   "chessgeniusbot",
    "chessiverse_ethan",
    "chessiverse_luc",
    "chessiverse_pawnza",
    "chessiverse_raak",
    "chesstango_bot",
-   "chesstransformerbot",
    "cheszter",
    "chill4ce",
    "chronicgambler",
@@ -3538,10 +3544,8 @@
    "fpga-chess",
    "fschess-engine",
    "funcomp",
-   "gambitonlybot",
    "garbobot",
    "geotsibot",
-   "ghidorah_x",
    "goldfish-engine",
    "goopis",
    "grail-bot",
@@ -3565,10 +3569,12 @@
    "ilovecatgirl",
    "inanisbot",
    "incipit_bot",
+   "iran_f72",
    "is_boss",
    "iskelt-corax",
    "jacobsbot",
    "jangine",
+   "jenniferx",
    "jesterchessrobot",
    "jibbby",
    "jinko-chan",
@@ -3579,7 +3585,6 @@
    "jpg-bot",
    "jurdbird",
    "justbot-v1",
-   "karimbot",
    "kavinengine",
    "kestrelstrike",
    "kingzbot",
@@ -3592,14 +3597,8 @@
    "laura-bot",
    "lc0-latest",
    "leelaalien",
-   "leelachesstest",
    "leelajester",
-   "leelaknightodds",
-   "leelapieceodds",
-   "leelaqueenforknight",
-   "leelaqueenodds",
    "leelarogue",
-   "leelarookodds",
    "leelatroll",
    "legochess98",
    "leol-bot",
@@ -3637,6 +3636,7 @@
    "mate-in-thirty",
    "mate-in-twenty",
    "mate1-bot",
+   "matemakingmachine",
    "mayflyengine",
    "mcdonalds1955",
    "mega-noob-bot",
@@ -3714,7 +3714,6 @@
    "rust-in-pieces",
    "rustyrival",
    "ryu-ishigori",
-   "saisrankarthik_7",
    "sargon-1ply",
    "sargon-2ply",
    "sargon-3ply",
@@ -3784,6 +3783,7 @@
    "turkjs",
    "turochamp-1ply",
    "turochamp-2ply",
+   "turox-bot",
    "uiagbot",
    "ultrabrick",
    "unimark",
@@ -3807,13 +3807,14 @@
    "voigtsbach",
    "walpurti",
    "weiawaga",
-   "windmolen_bot",
+   "wildorderbot",
    "wolfuhfuhbot",
    "worst-ai",
    "worstfish",
    "xewali",
    "z-o_aspenlabs",
    "zagreus_engine",
+   "zeno-bot",
    "zero3-now",
    "zion-bot"
   ]
