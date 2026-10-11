@@ -1085,6 +1085,11 @@
    "last_online": "2026-10-11",
    "username": "FayEFish"
   },
+  "fbot_st": {
+   "first_seen": "2026-10-11",
+   "last_online": "2026-10-11",
+   "username": "Fbot_st"
+  },
   "felipe_bot_53": {
    "first_seen": "2026-09-27",
    "last_online": "2026-10-11",
@@ -1107,7 +1112,7 @@
   },
   "flompiebot": {
    "first_seen": "2026-10-01",
-   "last_online": "2026-10-10",
+   "last_online": "2026-10-11",
    "username": "Flompiebot"
   },
   "flounderbot": {
@@ -1229,6 +1234,11 @@
    "first_seen": "2026-09-27",
    "last_online": "2026-10-11",
    "username": "GroshBoss"
+  },
+  "gryndor": {
+   "first_seen": "2026-10-11",
+   "last_online": "2026-10-11",
+   "username": "Gryndor"
   },
   "grzechu86": {
    "first_seen": "2026-09-29",
@@ -2232,7 +2242,7 @@
   },
   "partner3615diago": {
    "first_seen": "2026-09-27",
-   "last_online": "2026-09-28",
+   "last_online": "2026-10-11",
    "username": "PARTNER3615DIAGO"
   },
   "patriciabot": {
@@ -2405,6 +2415,11 @@
    "last_online": "2026-10-11",
    "username": "PZChessBot"
   },
+  "qioui": {
+   "first_seen": "2026-10-11",
+   "last_online": "2026-10-11",
+   "username": "QiOui"
+  },
   "queensgambot": {
    "first_seen": "2026-09-27",
    "last_online": "2026-10-11",
@@ -2532,7 +2547,7 @@
   },
   "rodent-iv": {
    "first_seen": "2026-10-05",
-   "last_online": "2026-10-09",
+   "last_online": "2026-10-11",
    "username": "Rodent-IV"
   },
   "rodent-v": {
@@ -3292,7 +3307,7 @@
   },
   "windmolen_bot": {
    "first_seen": "2026-10-09",
-   "last_online": "2026-10-10",
+   "last_online": "2026-10-11",
    "username": "Windmolen_bot"
   },
   "wippy-bot": {
@@ -3372,7 +3387,7 @@
   }
  },
  "online": {
-  "checked_at": "2026-10-11T14:43:10Z",
+  "checked_at": "2026-10-11T15:43:09Z",
   "ids": [
    "aaronsengine",
    "aatk_vanguardx",
@@ -3394,6 +3409,7 @@
    "annie_archy",
    "anti-bot",
    "aposeij",
+   "approximationbot",
    "arabicahce",
    "ariadne-bot",
    "artidigm_research",
@@ -3403,9 +3419,6 @@
    "atari-video-chess",
    "baby_eubos",
    "banerot",
-   "battlebornthe2nd",
-   "battlebornthe3rd",
-   "battlebornthe4th",
    "bbc_bot",
    "becela9_kpebetka",
    "berkbot",
@@ -3430,7 +3443,6 @@
    "byte-knight",
    "c-t-r-l",
    "caiporabot",
-   "caissa-x",
    "calciumengine",
    "casanchess-nnue",
    "catnail",
@@ -3507,8 +3519,10 @@
    "fataliibot",
    "fathzer-jchess",
    "fayefish",
+   "fbot_st",
    "felipe_bot_53",
    "fenrirbot",
+   "flompiebot",
    "flounderbot",
    "flybrainchess",
    "fpga-chess",
@@ -3516,11 +3530,11 @@
    "funcomp",
    "garbobot",
    "geotsibot",
-   "ghidorah_x",
    "goldfish-engine",
    "goopis",
    "grail-bot",
    "groshboss",
+   "gryndor",
    "hackerchessbot",
    "halcyonbot",
    "hardrok",
@@ -3567,7 +3581,12 @@
    "leelaalien",
    "leelachesstest",
    "leelajester",
+   "leelaknightodds",
+   "leelapieceodds",
+   "leelaqueenforknight",
+   "leelaqueenodds",
    "leelarogue",
+   "leelarookodds",
    "leelatroll",
    "legochess98",
    "leol-bot",
@@ -3618,7 +3637,6 @@
    "motor-0",
    "mrtonnerre",
    "musashi-thebot",
-   "mxnet-gamemaster",
    "mychessjava",
    "nanozeroorg",
    "nebubot",
@@ -3642,6 +3660,7 @@
    "oxydanbot",
    "pangubot",
    "panic-fish",
+   "partner3615diago",
    "patzerbot135",
    "pawn_git",
    "pawnrobot",
@@ -3659,6 +3678,7 @@
    "pseudo-1",
    "puisne",
    "pzchessbot",
+   "qioui",
    "radianceengine",
    "randmaster_bot",
    "randmaster_egtb",
@@ -3674,7 +3694,7 @@
    "reptilesbedamned",
    "resolutebot",
    "ribfish-bot",
-   "rockingsuperstars",
+   "rodent-iv",
    "romanticbot",
    "romanticbot2",
    "rudim-bot",
@@ -3729,7 +3749,6 @@
    "teensycheesy",
    "tempocore",
    "terconari",
-   "the_baronet",
    "thechessblazer",
    "throrbjorn",
    "thunfisch-bot",
@@ -3770,13 +3789,13 @@
    "voigtsbach",
    "walpurti",
    "weiawaga",
+   "windmolen_bot",
    "wolfuhfuhbot",
    "worst-ai",
    "worstfish",
    "xewali",
    "z-o_aspenlabs",
    "zagreus_engine",
-   "zeno-bot",
    "zero3-now",
    "zion-bot"
   ]
