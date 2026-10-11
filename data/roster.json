@@ -667,7 +667,7 @@
   },
   "chesstransformerbot": {
    "first_seen": "2026-10-08",
-   "last_online": "2026-10-10",
+   "last_online": "2026-10-11",
    "username": "ChessTransformerBot"
   },
   "cheszter": {
@@ -1705,6 +1705,11 @@
    "last_online": "2026-10-11",
    "username": "Lynx_BOT"
   },
+  "m8000_bot": {
+   "first_seen": "2026-10-11",
+   "last_online": "2026-10-11",
+   "username": "M8000_bot"
+  },
   "mac-bot": {
    "first_seen": "2026-09-27",
    "last_online": "2026-10-11",
@@ -1992,7 +1997,7 @@
   },
   "musashi-thebot": {
    "first_seen": "2026-09-28",
-   "last_online": "2026-10-10",
+   "last_online": "2026-10-11",
    "username": "Musashi-thebot"
   },
   "mxnet-gamemaster": {
@@ -3337,7 +3342,7 @@
   }
  },
  "online": {
-  "checked_at": "2026-10-11T05:43:08Z",
+  "checked_at": "2026-10-11T06:43:09Z",
   "ids": [
    "aatk_vanguardx",
    "abcd_engine",
@@ -3379,7 +3384,6 @@
    "bluemoonbot",
    "blujay-bot",
    "bongaclang",
-   "boris-trapsky",
    "bot1e",
    "bot1nokk",
    "bot5551",
@@ -3393,7 +3397,6 @@
    "c-t-r-l",
    "c0kval",
    "caiporabot",
-   "calciumengine",
    "casanchess-nnue",
    "catnail",
    "catriever",
@@ -3410,6 +3413,7 @@
    "chessiverse_pawnza",
    "chessiverse_raak",
    "chesstango_bot",
+   "chesstransformerbot",
    "cheszter",
    "chill4ce",
    "chronicgambler",
@@ -3444,11 +3448,6 @@
    "deepbecky",
    "deepsquare-ai",
    "demen100ns-bot",
-   "demolito_l1",
-   "demolito_l2",
-   "demolito_l3",
-   "demolito_l4",
-   "demolito_l5",
    "drawfish-reborn",
    "drewschessmachine",
    "duchessai",
@@ -3500,7 +3499,6 @@
    "iskelt-corax",
    "jacobsbot",
    "jangine",
-   "jenniferx",
    "jesterchessrobot",
    "jibbby",
    "jinko-chan",
@@ -3516,7 +3514,6 @@
    "kingzbot",
    "kirinchessbot",
    "kopyto_dev",
-   "kulubot",
    "lamprook",
    "lancelbot",
    "larryz-alterego",
@@ -3540,6 +3537,7 @@
    "louischess48-6k",
    "lukebot",
    "lynx_bot",
+   "m8000_bot",
    "mac-bot",
    "mackbot",
    "maia1",
@@ -3568,7 +3566,6 @@
    "mate-in-twenty",
    "mate1-bot",
    "mayflyengine",
-   "mcdonalds1955",
    "mega-noob-bot",
    "melsh_bot",
    "mimirbot",
@@ -3580,10 +3577,10 @@
    "mostlyhuman1900",
    "motor-0",
    "mrtonnerre",
+   "musashi-thebot",
    "mychessjava",
    "nanozeroorg",
    "nebubot",
-   "neryba",
    "neurosocute",
    "newchessengine-ai",
    "nexastrat",
@@ -3622,7 +3619,6 @@
    "pseudo-1",
    "puisne",
    "pzchessbot",
-   "queensgambot",
    "rachl1",
    "radianceengine",
    "randmaster_bot",
@@ -3685,6 +3681,8 @@
    "sunfish-engine",
    "sunfish-nnue-engine",
    "sxphia",
+   "sybaibot",
+   "sybbot",
    "sykorabot",
    "takticprochess",
    "talosbot",
