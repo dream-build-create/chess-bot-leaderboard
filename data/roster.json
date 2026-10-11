@@ -242,7 +242,7 @@
   },
   "battlebornthe2nd": {
    "first_seen": "2026-09-28",
-   "last_online": "2026-10-10",
+   "last_online": "2026-10-11",
    "username": "BattleBornThe2nd"
   },
   "battlebornthe3rd": {
@@ -687,7 +687,7 @@
   },
   "chrusty": {
    "first_seen": "2026-09-28",
-   "last_online": "2026-10-02",
+   "last_online": "2026-10-11",
    "username": "chrusty"
   },
   "cinder-bot": {
@@ -1172,7 +1172,7 @@
   },
   "ghidorah_x": {
    "first_seen": "2026-09-27",
-   "last_online": "2026-10-10",
+   "last_online": "2026-10-11",
    "username": "Ghidorah_X"
   },
   "gnu4u": {
@@ -1477,7 +1477,7 @@
   },
   "karimbot": {
    "first_seen": "2026-10-07",
-   "last_online": "2026-10-07",
+   "last_online": "2026-10-11",
    "username": "KarimBOT"
   },
   "kavinengine": {
@@ -2022,7 +2022,7 @@
   },
   "mxnet-gamemaster": {
    "first_seen": "2026-09-28",
-   "last_online": "2026-10-09",
+   "last_online": "2026-10-11",
    "username": "mxnet-gamemaster"
   },
   "my-bot": {
@@ -2587,7 +2587,7 @@
   },
   "saisrankarthik_7": {
    "first_seen": "2026-10-07",
-   "last_online": "2026-10-10",
+   "last_online": "2026-10-11",
    "username": "SAISRANKARTHIK_7"
   },
   "sara32222": {
@@ -3372,10 +3372,11 @@
   }
  },
  "online": {
-  "checked_at": "2026-10-11T13:43:10Z",
+  "checked_at": "2026-10-11T14:43:10Z",
   "ids": [
    "aaronsengine",
    "aatk_vanguardx",
+   "abcd_engine",
    "abdcebot",
    "aconcaguabot",
    "aetherbot",
@@ -3402,6 +3403,7 @@
    "atari-video-chess",
    "baby_eubos",
    "banerot",
+   "battlebornthe2nd",
    "battlebornthe3rd",
    "battlebornthe4th",
    "bbc_bot",
@@ -3411,7 +3413,6 @@
    "bernstein-4ply",
    "bfiedler-bot",
    "bitbitbot",
-   "black-bishop-kh",
    "bluemoonbot",
    "blujay-bot",
    "bongaclang",
@@ -3424,7 +3425,6 @@
    "bot913",
    "bot_adario",
    "bottios",
-   "botyuliirma",
    "bretemabot",
    "bubblebot2",
    "byte-knight",
@@ -3438,7 +3438,6 @@
    "chamberiajedrez",
    "chaotong_engine",
    "charibot",
-   "checkmatebutlouder",
    "cheng-4",
    "cheng-4-nn",
    "chess3bot",
@@ -3454,6 +3453,7 @@
    "cheszter",
    "chill4ce",
    "chronicgambler",
+   "chrusty",
    "cinder-bot",
    "cizme",
    "classic_bot-v2",
@@ -3471,7 +3471,6 @@
    "croco_bot",
    "croco_little_bot",
    "crocodile_bot",
-   "cutebot",
    "dala-1100",
    "dala-1300",
    "dala-1600",
@@ -3517,6 +3516,7 @@
    "funcomp",
    "garbobot",
    "geotsibot",
+   "ghidorah_x",
    "goldfish-engine",
    "goopis",
    "grail-bot",
@@ -3552,6 +3552,7 @@
    "jpg-bot",
    "jurdbird",
    "justbot-v1",
+   "karimbot",
    "kavinengine",
    "kestrelstrike",
    "kingzbot",
@@ -3605,7 +3606,6 @@
    "mate-in-twenty",
    "mate1-bot",
    "mayflyengine",
-   "mcdonalds1955",
    "mega-noob-bot",
    "melsh_bot",
    "mimirbot",
@@ -3618,13 +3618,13 @@
    "motor-0",
    "mrtonnerre",
    "musashi-thebot",
+   "mxnet-gamemaster",
    "mychessjava",
    "nanozeroorg",
    "nebubot",
    "neryba",
    "neurosocute",
    "newchessengine-ai",
-   "newtsbot",
    "nexastrat",
    "nexosdefos",
    "nice_bot",
@@ -3651,7 +3651,6 @@
    "peachfruit",
    "perl-gigachess",
    "phalanx-xxv",
-   "pi0w",
    "piebot",
    "piglet_engine",
    "playmarius",
@@ -3678,11 +3677,11 @@
    "rockingsuperstars",
    "romanticbot",
    "romanticbot2",
-   "rotor-bot",
    "rudim-bot",
    "rust-in-pieces",
    "rustyrival",
    "ryu-ishigori",
+   "saisrankarthik_7",
    "sargon-1ply",
    "sargon-2ply",
    "sargon-3ply",
@@ -3691,9 +3690,7 @@
    "scalaqueen",
    "schnecken_bot",
    "scipio-bot",
-   "sebvaderbot",
    "sf_bot1nok",
-   "sharpsundae",
    "shrevenbot",
    "sim3million",
    "simbelmyne-bot",
@@ -3772,7 +3769,6 @@
    "void_bot",
    "voigtsbach",
    "walpurti",
-   "wannalearnbot",
    "weiawaga",
    "wolfuhfuhbot",
    "worst-ai",
