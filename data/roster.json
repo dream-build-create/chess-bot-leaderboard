@@ -1737,7 +1737,7 @@
   },
   "lunaenginechess": {
    "first_seen": "2026-09-28",
-   "last_online": "2026-10-09",
+   "last_online": "2026-10-11",
    "username": "LunaEngineChess"
   },
   "lynx_bot": {
@@ -2235,6 +2235,11 @@
    "last_online": "2026-10-11",
    "username": "OxydanBot"
   },
+  "pachetron": {
+   "first_seen": "2026-10-11",
+   "last_online": "2026-10-11",
+   "username": "pachetron"
+  },
   "pangubot": {
    "first_seen": "2026-09-27",
    "last_online": "2026-10-11",
@@ -2550,6 +2555,11 @@
    "last_online": "2026-10-07",
    "username": "RobotJFischer"
   },
+  "rocketengine": {
+   "first_seen": "2026-10-11",
+   "last_online": "2026-10-11",
+   "username": "RocketEngine"
+  },
   "rockingsuperstars": {
    "first_seen": "2026-09-28",
    "last_online": "2026-10-11",
@@ -2695,6 +2705,11 @@
    "last_online": "2026-10-11",
    "username": "shrevenBOT"
   },
+  "silasly": {
+   "first_seen": "2026-10-11",
+   "last_online": "2026-10-11",
+   "username": "silasly"
+  },
   "silverpike": {
    "first_seen": "2026-09-27",
    "last_online": "2026-10-09",
@@ -2747,7 +2762,7 @@
   },
   "slothcomputer": {
    "first_seen": "2026-09-27",
-   "last_online": "2026-10-10",
+   "last_online": "2026-10-11",
    "username": "SlothComputer"
   },
   "slowmate_bot": {
@@ -3407,7 +3422,7 @@
   }
  },
  "online": {
-  "checked_at": "2026-10-11T18:54:32Z",
+  "checked_at": "2026-10-11T19:43:09Z",
   "ids": [
    "aaronsengine",
    "aatk_vanguardx",
@@ -3479,7 +3494,6 @@
    "chessatronbot",
    "chessblight",
    "chesschildren",
-   "chessgeniusbot",
    "chessiverse_ethan",
    "chessiverse_luc",
    "chessiverse_pawnza",
@@ -3499,6 +3513,7 @@
    "confidencebuilder",
    "consolechessdev",
    "cookiebot711",
+   "coolperson_bot1",
    "cosettebot",
    "croco_bot",
    "croco_little_bot",
@@ -3528,6 +3543,7 @@
    "edwardkillick",
    "eigenmann-chess",
    "elachessbot",
+   "elexunix_chess_bot",
    "ellen_replay",
    "elmichess",
    "endspiel-pi",
@@ -3536,7 +3552,6 @@
    "falconengine",
    "fataliibot",
    "fathzer-jchess",
-   "fbot_st",
    "felipe_bot_53",
    "fenrirbot",
    "flounderbot",
@@ -3546,10 +3561,12 @@
    "funcomp",
    "garbobot",
    "geotsibot",
+   "ghidorah_x",
    "goblinajedrezai",
    "goldfish-engine",
    "goopis",
    "grail-bot",
+   "groshboss",
    "gryndor",
    "guofish",
    "hackerchessbot",
@@ -3584,7 +3601,6 @@
    "jpg-bot",
    "jurdbird",
    "justbot-v1",
-   "karimbot",
    "kavinengine",
    "kestrelstrike",
    "kingzbot",
@@ -3613,6 +3629,7 @@
    "little-0",
    "louischess48-6k",
    "lukebot",
+   "lunaenginechess",
    "lynx_bot",
    "mac-bot",
    "mackbot",
@@ -3675,7 +3692,9 @@
    "openinggenie2000",
    "overfitted",
    "oxide-eg",
+   "oxybullet",
    "oxydanbot",
+   "pachetron",
    "pangubot",
    "panic-fish",
    "partner3615diago",
@@ -3711,6 +3730,7 @@
    "renegadeengine",
    "resolutebot",
    "ribfish-bot",
+   "rocketengine",
    "rodent-iv",
    "romanticbot",
    "romanticbot2",
@@ -3726,8 +3746,8 @@
    "schnecken_bot",
    "scipio-bot",
    "sf_bot1nok",
-   "sharpsundae",
    "shrevenbot",
+   "silasly",
    "sim3million",
    "simbelmyne-bot",
    "simple-bot",
@@ -3735,10 +3755,10 @@
    "sj_norbot",
    "sleepmindengine",
    "sleepypawnofficial",
+   "slothcomputer",
    "slowmate_bot",
    "slychessbot",
    "snapleelaeasy",
-   "solidor59",
    "solobot",
    "solsticeengine",
    "southbot",
@@ -3760,9 +3780,8 @@
    "sunfish-engine",
    "sunfish-nnue-engine",
    "sxphia",
-   "sybaibot",
-   "sybbot",
    "sykorabot",
+   "takticprochess",
    "talosbot",
    "teensycheesy",
    "terconari",
@@ -3786,10 +3805,8 @@
    "turochamp-1ply",
    "turochamp-2ply",
    "turox-bot",
-   "uiagbot",
    "ultrabrick",
    "unimark",
-   "ursus_bot",
    "usunfish",
    "usunfish-l0",
    "usunfish-l1",
