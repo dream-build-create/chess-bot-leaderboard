@@ -347,7 +347,7 @@
   },
   "blueberry-engine": {
    "first_seen": "2026-10-05",
-   "last_online": "2026-10-05",
+   "last_online": "2026-10-11",
    "username": "Blueberry-Engine"
   },
   "bluemoonbot": {
@@ -2307,7 +2307,7 @@
   },
   "playmarius": {
    "first_seen": "2026-09-27",
-   "last_online": "2026-10-10",
+   "last_online": "2026-10-11",
    "username": "PlayMarius"
   },
   "plumboi": {
@@ -2652,7 +2652,7 @@
   },
   "simple-bot": {
    "first_seen": "2026-09-27",
-   "last_online": "2026-10-10",
+   "last_online": "2026-10-11",
    "username": "simple-bot"
   },
   "simplechessnnue": {
@@ -3337,10 +3337,9 @@
   }
  },
  "online": {
-  "checked_at": "2026-10-11T03:43:09Z",
+  "checked_at": "2026-10-11T04:43:09Z",
   "ids": [
    "aatk_vanguardx",
-   "abcd_engine",
    "abdcebot",
    "aconcaguabot",
    "aetherbot",
@@ -3357,7 +3356,6 @@
    "annie_archy",
    "anti-bot",
    "aposeij",
-   "approximationbot",
    "arabicahce",
    "arasanx",
    "ariadne-bot",
@@ -3376,6 +3374,7 @@
    "bernstein-4ply",
    "bfiedler-bot",
    "bitbitbot",
+   "blueberry-engine",
    "bluemoonbot",
    "blujay-bot",
    "bongaclang",
@@ -3452,6 +3451,7 @@
    "drewschessmachine",
    "duchessai",
    "dumbotai",
+   "edwardkillick",
    "eigenmann-chess",
    "elachessbot",
    "elexunix_chess_bot",
@@ -3479,7 +3479,6 @@
    "groshboss",
    "hackerchessbot",
    "halcyonbot",
-   "hardrok",
    "hiusbot",
    "hodgeybot",
    "holidaybot1225",
@@ -3612,6 +3611,7 @@
    "pi0w",
    "piebot",
    "piglet_engine",
+   "playmarius",
    "prokopakop",
    "prosperobot",
    "pseudo-0",
@@ -3655,6 +3655,7 @@
    "shrevenbot",
    "sim3million",
    "simbelmyne-bot",
+   "simple-bot",
    "simpleeval",
    "sj_norbot",
    "sleepmindengine",
@@ -3689,6 +3690,7 @@
    "throrbjorn",
    "thunfisch-bot",
    "tigrament",
+   "tikifish",
    "tilapiabot",
    "to299d",
    "tomabbot",
@@ -3703,7 +3705,6 @@
    "turkjs",
    "turochamp-1ply",
    "turochamp-2ply",
-   "uiagbot",
    "ultrabrick",
    "unimark",
    "ursus_bot",
@@ -3722,15 +3723,14 @@
    "vidbot",
    "vietnamesecoffee",
    "virutor",
+   "void_bot",
    "voigtsbach",
    "vortexaurafarm",
    "walpurti",
-   "weeebot",
    "weiawaga",
    "wolfuhfuhbot",
    "worst-ai",
    "worstfish",
-   "wyxx210704_bot",
    "xewali",
    "z-o_aspenlabs",
    "zagreus_engine",
