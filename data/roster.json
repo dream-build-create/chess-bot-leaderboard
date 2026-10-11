@@ -435,6 +435,11 @@
    "last_online": "2026-10-02",
    "username": "Bothev2"
   },
+  "botkingteam33": {
+   "first_seen": "2026-10-11",
+   "last_online": "2026-10-11",
+   "username": "Botkingteam33"
+  },
   "bottios": {
    "first_seen": "2026-09-27",
    "last_online": "2026-10-11",
@@ -1147,7 +1152,7 @@
   },
   "gambitonlybot": {
    "first_seen": "2026-09-28",
-   "last_online": "2026-10-10",
+   "last_online": "2026-10-11",
    "username": "GambitOnlyBot"
   },
   "garbobot": {
@@ -2747,7 +2752,7 @@
   },
   "slychessbot": {
    "first_seen": "2026-10-01",
-   "last_online": "2026-10-07",
+   "last_online": "2026-10-11",
    "username": "SlyChessBot"
   },
   "snapleelaeasy": {
@@ -2762,7 +2767,7 @@
   },
   "solidor59": {
    "first_seen": "2026-09-29",
-   "last_online": "2026-10-10",
+   "last_online": "2026-10-11",
    "username": "SOLIDOR59"
   },
   "solobot": {
@@ -2859,6 +2864,11 @@
    "first_seen": "2026-09-27",
    "last_online": "2026-10-11",
    "username": "StockFail"
+  },
+  "stockfish_bot2": {
+   "first_seen": "2026-10-11",
+   "last_online": "2026-10-11",
+   "username": "Stockfish_bot2"
   },
   "stockfishlowdepth": {
    "first_seen": "2026-09-27",
@@ -3387,11 +3397,10 @@
   }
  },
  "online": {
-  "checked_at": "2026-10-11T15:43:09Z",
+  "checked_at": "2026-10-11T16:43:11Z",
   "ids": [
    "aaronsengine",
    "aatk_vanguardx",
-   "abcd_engine",
    "abdcebot",
    "aconcaguabot",
    "aetherbot",
@@ -3437,11 +3446,13 @@
    "bot64jaques",
    "bot913",
    "bot_adario",
+   "botkingteam33",
    "bottios",
    "bretemabot",
    "bubblebot2",
    "byte-knight",
    "c-t-r-l",
+   "c0kval",
    "caiporabot",
    "calciumengine",
    "casanchess-nnue",
@@ -3453,6 +3464,7 @@
    "cheng-4",
    "cheng-4-nn",
    "chess3bot",
+   "chess_set_manager",
    "chessatronbot",
    "chessblight",
    "chesschildren",
@@ -3465,7 +3477,6 @@
    "cheszter",
    "chill4ce",
    "chronicgambler",
-   "chrusty",
    "cinder-bot",
    "cizme",
    "classic_bot-v2",
@@ -3476,7 +3487,7 @@
    "colinbot",
    "colossusbot",
    "confidencebuilder",
-   "consolechessfastbot",
+   "consolechessdev",
    "cookiebot711",
    "coolperson_bot1",
    "cosettebot",
@@ -3519,7 +3530,6 @@
    "fataliibot",
    "fathzer-jchess",
    "fayefish",
-   "fbot_st",
    "felipe_bot_53",
    "fenrirbot",
    "flompiebot",
@@ -3528,13 +3538,16 @@
    "fpga-chess",
    "fschess-engine",
    "funcomp",
+   "gambitonlybot",
    "garbobot",
    "geotsibot",
+   "ghidorah_x",
    "goldfish-engine",
    "goopis",
    "grail-bot",
    "groshboss",
    "gryndor",
+   "guofish",
    "hackerchessbot",
    "halcyonbot",
    "hardrok",
@@ -3625,6 +3638,7 @@
    "mate-in-twenty",
    "mate1-bot",
    "mayflyengine",
+   "mcdonalds1955",
    "mega-noob-bot",
    "melsh_bot",
    "mimirbot",
@@ -3678,7 +3692,6 @@
    "pseudo-1",
    "puisne",
    "pzchessbot",
-   "qioui",
    "radianceengine",
    "randmaster_bot",
    "randmaster_egtb",
@@ -3720,7 +3733,9 @@
    "sleepmindengine",
    "sleepypawnofficial",
    "slowmate_bot",
+   "slychessbot",
    "snapleelaeasy",
+   "solidor59",
    "solsticeengine",
    "southbot",
    "squarefish-900",
@@ -3731,6 +3746,7 @@
    "stockcotsfish",
    "stockdory",
    "stockfail",
+   "stockfish_bot2",
    "stockfishlowdepth",
    "stockpapagei",
    "streamervschat",
@@ -3756,6 +3772,7 @@
    "tikifish",
    "tilapiabot",
    "to299d",
+   "tomabbot",
    "tonyengine",
    "topasbot",
    "trainer-bot",
@@ -3767,6 +3784,7 @@
    "turkjs",
    "turochamp-1ply",
    "turochamp-2ply",
+   "uiagbot",
    "ultrabrick",
    "unimark",
    "ursus_bot",
