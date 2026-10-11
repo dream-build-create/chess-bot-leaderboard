@@ -247,7 +247,7 @@
   },
   "battlebornthe3rd": {
    "first_seen": "2026-09-29",
-   "last_online": "2026-10-10",
+   "last_online": "2026-10-11",
    "username": "BattleBornThe3rd"
   },
   "battlebornthe4th": {
@@ -567,7 +567,7 @@
   },
   "checkmatebutlouder": {
    "first_seen": "2026-10-03",
-   "last_online": "2026-10-03",
+   "last_online": "2026-10-11",
    "username": "CheckmateButLouder"
   },
   "cheesestar": {
@@ -772,7 +772,7 @@
   },
   "consolechessfastbot": {
    "first_seen": "2026-09-28",
-   "last_online": "2026-10-09",
+   "last_online": "2026-10-11",
    "username": "ConsoleChessFastBot"
   },
   "cookiebot711": {
@@ -1134,6 +1134,11 @@
    "first_seen": "2026-10-02",
    "last_online": "2026-10-11",
    "username": "FSChess-Engine"
+  },
+  "funcomp": {
+   "first_seen": "2026-10-11",
+   "last_online": "2026-10-11",
+   "username": "FunComp"
   },
   "gambitonlybot": {
    "first_seen": "2026-09-28",
@@ -3367,7 +3372,7 @@
   }
  },
  "online": {
-  "checked_at": "2026-10-11T12:56:43Z",
+  "checked_at": "2026-10-11T13:43:10Z",
   "ids": [
    "aaronsengine",
    "aatk_vanguardx",
@@ -3382,16 +3387,13 @@
    "alexandrya",
    "aliceshiro",
    "alliethechessbot",
-   "alphanolla",
    "andobot",
    "angela_eng",
    "anna-bot",
    "annie_archy",
    "anti-bot",
    "aposeij",
-   "approximationbot",
    "arabicahce",
-   "arasanx",
    "ariadne-bot",
    "artidigm_research",
    "ashasevidence",
@@ -3400,6 +3402,7 @@
    "atari-video-chess",
    "baby_eubos",
    "banerot",
+   "battlebornthe3rd",
    "battlebornthe4th",
    "bbc_bot",
    "becela9_kpebetka",
@@ -3428,12 +3431,14 @@
    "c-t-r-l",
    "caiporabot",
    "caissa-x",
+   "calciumengine",
    "casanchess-nnue",
    "catnail",
    "catriever",
    "chamberiajedrez",
    "chaotong_engine",
    "charibot",
+   "checkmatebutlouder",
    "cheng-4",
    "cheng-4-nn",
    "chess3bot",
@@ -3459,7 +3464,7 @@
    "colinbot",
    "colossusbot",
    "confidencebuilder",
-   "consolechessdev",
+   "consolechessfastbot",
    "cookiebot711",
    "coolperson_bot1",
    "cosettebot",
@@ -3509,6 +3514,7 @@
    "flybrainchess",
    "fpga-chess",
    "fschess-engine",
+   "funcomp",
    "garbobot",
    "geotsibot",
    "goldfish-engine",
@@ -3536,7 +3542,6 @@
    "iskelt-corax",
    "jacobsbot",
    "jangine",
-   "jembok",
    "jesterchessrobot",
    "jibbby",
    "jinko-chan",
@@ -3559,6 +3564,7 @@
    "laura-bot",
    "lc0-latest",
    "leelaalien",
+   "leelachesstest",
    "leelajester",
    "leelarogue",
    "leelatroll",
@@ -3598,7 +3604,6 @@
    "mate-in-thirty",
    "mate-in-twenty",
    "mate1-bot",
-   "matmoi",
    "mayflyengine",
    "mcdonalds1955",
    "mega-noob-bot",
@@ -3624,7 +3629,6 @@
    "nexosdefos",
    "nice_bot",
    "nickdrohan",
-   "nickl1bot",
    "nilatacbot",
    "nittedal",
    "noabot",
@@ -3701,9 +3705,7 @@
    "slowmate_bot",
    "snapleelaeasy",
    "solsticeengine",
-   "soulgar",
    "southbot",
-   "spyros1bot",
    "squarefish-900",
    "sseh-c",
    "steezybot",
@@ -3738,10 +3740,8 @@
    "tikifish",
    "tilapiabot",
    "to299d",
-   "tomabbot",
    "tonyengine",
    "topasbot",
-   "torombot",
    "trainer-bot",
    "trenerhetman",
    "troutbot",
@@ -3753,6 +3753,7 @@
    "turochamp-2ply",
    "ultrabrick",
    "unimark",
+   "ursus_bot",
    "usunfish",
    "usunfish-l0",
    "usunfish-l1",
