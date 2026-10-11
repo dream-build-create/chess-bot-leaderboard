@@ -77,7 +77,7 @@
   },
   "alexandrya": {
    "first_seen": "2026-10-03",
-   "last_online": "2026-10-10",
+   "last_online": "2026-10-11",
    "username": "Alexandrya"
   },
   "aliceshiro": {
@@ -377,7 +377,7 @@
   },
   "borkatower": {
    "first_seen": "2026-09-27",
-   "last_online": "2026-10-10",
+   "last_online": "2026-10-11",
    "username": "BorkaTower"
   },
   "bot-o-tron": {
@@ -2620,6 +2620,11 @@
    "last_online": "2026-10-11",
    "username": "scipio-bot"
   },
+  "sebvaderbot": {
+   "first_seen": "2026-10-11",
+   "last_online": "2026-10-11",
+   "username": "SebVaderBot"
+  },
   "seitogakatsu": {
    "first_seen": "2026-09-27",
    "last_online": "2026-10-10",
@@ -2767,7 +2772,7 @@
   },
   "spyros1bot": {
    "first_seen": "2026-09-28",
-   "last_online": "2026-09-28",
+   "last_online": "2026-10-11",
    "username": "spyros1bot"
   },
   "squarefish-900": {
@@ -3227,7 +3232,7 @@
   },
   "wannalearnbot": {
    "first_seen": "2026-09-27",
-   "last_online": "2026-10-10",
+   "last_online": "2026-10-11",
    "username": "wannalearnbot"
   },
   "wardnbot": {
@@ -3342,7 +3347,7 @@
   }
  },
  "online": {
-  "checked_at": "2026-10-11T07:43:08Z",
+  "checked_at": "2026-10-11T08:43:09Z",
   "ids": [
    "aatk_vanguardx",
    "abcd_engine",
@@ -3354,6 +3359,7 @@
    "ai-con",
    "ailedbot",
    "alarm2001",
+   "alexandrya",
    "aliceshiro",
    "alliethechessbot",
    "andobot",
@@ -3384,6 +3390,7 @@
    "blujay-bot",
    "bongaclang",
    "boris-trapsky",
+   "borkatower",
    "bot1e",
    "bot1nokk",
    "bot5551",
@@ -3529,12 +3536,7 @@
    "laura-bot",
    "leelaalien",
    "leelajester",
-   "leelaknightodds",
-   "leelapieceodds",
-   "leelaqueenforknight",
-   "leelaqueenodds",
    "leelarogue",
-   "leelarookodds",
    "leelatroll",
    "legochess98",
    "leol-bot",
@@ -3573,6 +3575,7 @@
    "mate-in-twenty",
    "mate1-bot",
    "mayflyengine",
+   "mcdonalds1955",
    "mega-noob-bot",
    "melsh_bot",
    "mimirbot",
@@ -3588,7 +3591,6 @@
    "mychessjava",
    "nanozeroorg",
    "nebubot",
-   "neryba",
    "neurosocute",
    "newchessengine-ai",
    "nexastrat",
@@ -3646,7 +3648,6 @@
    "ribfish-bot",
    "romanticbot",
    "romanticbot2",
-   "rpibot73",
    "rudim-bot",
    "rust-in-pieces",
    "rustyrival",
@@ -3659,6 +3660,7 @@
    "scalaqueen",
    "schnecken_bot",
    "scipio-bot",
+   "sebvaderbot",
    "sf_bot1nok",
    "sharpsundae",
    "shrevenbot",
@@ -3672,6 +3674,7 @@
    "snapleelaeasy",
    "solsticeengine",
    "southbot",
+   "spyros1bot",
    "squarefish-900",
    "sseh-c",
    "steezybot",
@@ -3738,6 +3741,7 @@
    "void_bot",
    "voigtsbach",
    "walpurti",
+   "wannalearnbot",
    "weiawaga",
    "wolfuhfuhbot",
    "worst-ai",
