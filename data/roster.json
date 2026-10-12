@@ -167,7 +167,7 @@
   },
   "arkiplayschess": {
    "first_seen": "2026-09-27",
-   "last_online": "2026-09-28",
+   "last_online": "2026-10-12",
    "username": "ArkiPlaysChess"
   },
   "arthurai": {
@@ -1137,7 +1137,7 @@
   },
   "fpga-chess": {
    "first_seen": "2026-09-28",
-   "last_online": "2026-10-11",
+   "last_online": "2026-10-12",
    "username": "fpga-chess"
   },
   "fschess-engine": {
@@ -2037,7 +2037,7 @@
   },
   "musashi-thebot": {
    "first_seen": "2026-09-28",
-   "last_online": "2026-10-11",
+   "last_online": "2026-10-12",
    "username": "Musashi-thebot"
   },
   "mxnet-gamemaster": {
@@ -3162,7 +3162,7 @@
   },
   "twosillypandas": {
    "first_seen": "2026-10-06",
-   "last_online": "2026-10-10",
+   "last_online": "2026-10-12",
    "username": "TwoSillyPandas"
   },
   "uiagbot": {
@@ -3422,7 +3422,7 @@
   }
  },
  "online": {
-  "checked_at": "2026-10-12T03:43:09Z",
+  "checked_at": "2026-10-12T04:43:09Z",
   "ids": [
    "aatk_vanguardx",
    "abcd_engine",
@@ -3447,6 +3447,7 @@
    "arabicahce",
    "arasanx",
    "ariadne-bot",
+   "arkiplayschess",
    "artidigm_research",
    "ashasevidence",
    "ashnostromo",
@@ -3466,7 +3467,6 @@
    "blujay-bot",
    "bongaclang",
    "boris-trapsky",
-   "borkatower",
    "bot1e",
    "bot1nokk",
    "bot5551",
@@ -3516,7 +3516,6 @@
    "croco_bot",
    "croco_little_bot",
    "crocodile_bot",
-   "cruelken",
    "dala-1100",
    "dala-1300",
    "dala-1600",
@@ -3556,6 +3555,7 @@
    "fenrirbot",
    "flounderbot",
    "flybrainchess",
+   "fpga-chess",
    "fschess-engine",
    "funcomp",
    "garbobot",
@@ -3591,6 +3591,7 @@
    "jenniferx",
    "jesterchessrobot",
    "jibbby",
+   "jinko-chan",
    "joan_clone",
    "joey_chessengine",
    "jongsungkim",
@@ -3667,6 +3668,7 @@
    "mostlyhuman1900",
    "motor-0",
    "mrtonnerre",
+   "musashi-thebot",
    "mychessjava",
    "nanozeroorg",
    "nebubot",
@@ -3682,7 +3684,6 @@
    "noel-bot",
    "notropis",
    "o-rei-cx",
-   "onezenpanda",
    "openinggenie2000",
    "overfitted",
    "oxide-eg",
@@ -3748,7 +3749,6 @@
    "slothcomputer",
    "slowmate_bot",
    "snapleelaeasy",
-   "solobot",
    "solsticeengine",
    "southbot",
    "squarefish-900",
@@ -3782,7 +3782,6 @@
    "tigrament",
    "tilapiabot",
    "to299d",
-   "tomabbot",
    "topasbot",
    "trainer-bot",
    "trenerhetman",
@@ -3794,7 +3793,7 @@
    "turkjs",
    "turochamp-1ply",
    "turochamp-2ply",
-   "turox-bot",
+   "twosillypandas",
    "uiagbot",
    "ultrabrick",
    "unimark",
@@ -3814,6 +3813,7 @@
    "vidbot",
    "vietnamesecoffee",
    "virutor",
+   "void_bot",
    "voigtsbach",
    "walpurti",
    "weiawaga",
