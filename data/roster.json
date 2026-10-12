@@ -2002,7 +2002,7 @@
   },
   "miss_snowiee": {
    "first_seen": "2026-10-02",
-   "last_online": "2026-10-08",
+   "last_online": "2026-10-12",
    "username": "Miss_snowiee"
   },
   "mithandros": {
@@ -2452,7 +2452,7 @@
   },
   "rachl1": {
    "first_seen": "2026-10-06",
-   "last_online": "2026-10-11",
+   "last_online": "2026-10-12",
    "username": "rachl1"
   },
   "radianceengine": {
@@ -2832,7 +2832,7 @@
   },
   "soulgar": {
    "first_seen": "2026-09-28",
-   "last_online": "2026-10-11",
+   "last_online": "2026-10-12",
    "username": "soulgar"
   },
   "southbot": {
@@ -3112,7 +3112,7 @@
   },
   "torombot": {
    "first_seen": "2026-09-28",
-   "last_online": "2026-10-11",
+   "last_online": "2026-10-12",
    "username": "ToromBot"
   },
   "trainer-bot": {
@@ -3432,7 +3432,7 @@
   }
  },
  "online": {
-  "checked_at": "2026-10-12T11:43:10Z",
+  "checked_at": "2026-10-12T12:43:12Z",
   "ids": [
    "aaronsengine",
    "aatk_vanguardx",
@@ -3472,13 +3472,11 @@
    "bfiedler-bot",
    "bitbitbot",
    "black-bishop-kh",
-   "blindpewce",
    "blobfish-bot",
    "bluemoonbot",
    "blujay-bot",
    "bongaclang",
    "boris-trapsky",
-   "borkatower",
    "bot1e",
    "bot1nokk",
    "bot5551",
@@ -3503,7 +3501,6 @@
    "cheng-4-nn",
    "chessblight",
    "chesschildren",
-   "chessgeniusbot",
    "chessiverse_ethan",
    "chessiverse_luc",
    "chessiverse_pawnza",
@@ -3577,10 +3574,10 @@
    "goldfish-engine",
    "goopis",
    "grail-bot",
-   "groshboss",
    "gryndor",
    "hackerchessbot",
    "halcyonbot",
+   "hardrok",
    "hiusbot",
    "hodgeybot",
    "holidaybot1225",
@@ -3666,6 +3663,7 @@
    "mimirbot",
    "minibotapi",
    "minibruteforcebot",
+   "miss_snowiee",
    "mithandros",
    "mochi_bot",
    "morabandbot",
@@ -3690,7 +3688,7 @@
    "openinggenie2000",
    "overfitted",
    "oxide-eg",
-   "oxydanbot",
+   "oxybullet",
    "pangubot",
    "panic-fish",
    "partner3615diago",
@@ -3713,6 +3711,7 @@
    "pseudo-1",
    "puisne",
    "pzchessbot",
+   "rachl1",
    "radianceengine",
    "raspfish",
    "ratkingbot",
@@ -3731,6 +3730,7 @@
    "rust-in-pieces",
    "rustyrival",
    "ryu-ishigori",
+   "saisrankarthik_7",
    "sargon-1ply",
    "sargon-2ply",
    "sargon-3ply",
@@ -3740,7 +3740,6 @@
    "schnecken_bot",
    "scipio-bot",
    "sf_bot1nok",
-   "sharpsundae",
    "shrevenbot",
    "silasly",
    "sim3million",
@@ -3748,11 +3747,11 @@
    "simpleeval",
    "sj_norbot",
    "sleepmindengine",
-   "slothcomputer",
    "slowmate_bot",
    "snapleelaeasy",
    "solobot",
    "solsticeengine",
+   "soulgar",
    "southbot",
    "squarefish-900",
    "sseh-c",
@@ -3786,6 +3785,7 @@
    "to299d",
    "tomabbot",
    "topasbot",
+   "torombot",
    "trainer-bot",
    "trenerhetman",
    "trinculobot",
