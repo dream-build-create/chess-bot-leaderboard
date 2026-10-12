@@ -152,7 +152,7 @@
   },
   "arasanx": {
    "first_seen": "2026-09-27",
-   "last_online": "2026-10-11",
+   "last_online": "2026-10-12",
    "username": "ArasanX"
   },
   "ariadne-bot": {
@@ -582,12 +582,12 @@
   },
   "cheng-4": {
    "first_seen": "2026-09-27",
-   "last_online": "2026-10-11",
+   "last_online": "2026-10-12",
    "username": "Cheng-4"
   },
   "cheng-4-nn": {
    "first_seen": "2026-09-27",
-   "last_online": "2026-10-11",
+   "last_online": "2026-10-12",
    "username": "Cheng-4-NN"
   },
   "chengine_rookery": {
@@ -632,7 +632,7 @@
   },
   "chesschildren": {
    "first_seen": "2026-09-27",
-   "last_online": "2026-10-11",
+   "last_online": "2026-10-12",
    "username": "ChessChildren"
   },
   "chessgeniusbot": {
@@ -1007,7 +1007,7 @@
   },
   "elephantgambitengine": {
    "first_seen": "2026-10-07",
-   "last_online": "2026-10-11",
+   "last_online": "2026-10-12",
    "username": "elephantgambitengine"
   },
   "elexunix_chess_bot": {
@@ -1307,12 +1307,12 @@
   },
   "honzovy-sachy": {
    "first_seen": "2026-09-27",
-   "last_online": "2026-10-11",
+   "last_online": "2026-10-12",
    "username": "honzovy-sachy"
   },
   "honzovy-sachy-2": {
    "first_seen": "2026-09-27",
-   "last_online": "2026-10-11",
+   "last_online": "2026-10-12",
    "username": "honzovy-sachy-2"
   },
   "hummus-bot": {
@@ -2022,7 +2022,7 @@
   },
   "motor-0": {
    "first_seen": "2026-09-27",
-   "last_online": "2026-10-11",
+   "last_online": "2026-10-12",
    "username": "Motor-0"
   },
   "mr_sandbar": {
@@ -2227,7 +2227,7 @@
   },
   "oxybullet": {
    "first_seen": "2026-09-29",
-   "last_online": "2026-10-11",
+   "last_online": "2026-10-12",
    "username": "Oxybullet"
   },
   "oxydanbot": {
@@ -2317,7 +2317,7 @@
   },
   "phalanx-xxv": {
    "first_seen": "2026-09-27",
-   "last_online": "2026-10-11",
+   "last_online": "2026-10-12",
    "username": "Phalanx-XXV"
   },
   "philidor-142m": {
@@ -2412,12 +2412,12 @@
   },
   "pseudo-0": {
    "first_seen": "2026-09-27",
-   "last_online": "2026-10-11",
+   "last_online": "2026-10-12",
    "username": "Pseudo-0"
   },
   "pseudo-1": {
    "first_seen": "2026-09-27",
-   "last_online": "2026-10-11",
+   "last_online": "2026-10-12",
    "username": "Pseudo-1"
   },
   "puisne": {
@@ -3087,7 +3087,7 @@
   },
   "tomabbot": {
    "first_seen": "2026-10-10",
-   "last_online": "2026-10-11",
+   "last_online": "2026-10-12",
    "username": "TomabBot"
   },
   "tonyengine": {
@@ -3272,7 +3272,7 @@
   },
   "virutor": {
    "first_seen": "2026-09-27",
-   "last_online": "2026-10-11",
+   "last_online": "2026-10-12",
    "username": "Virutor"
   },
   "void_bot": {
@@ -3422,7 +3422,7 @@
   }
  },
  "online": {
-  "checked_at": "2026-10-12T02:43:10Z",
+  "checked_at": "2026-10-12T03:43:09Z",
   "ids": [
    "aatk_vanguardx",
    "abcd_engine",
@@ -3445,6 +3445,7 @@
    "aposeij",
    "approximationbot",
    "arabicahce",
+   "arasanx",
    "ariadne-bot",
    "artidigm_research",
    "ashasevidence",
@@ -3485,10 +3486,13 @@
    "catriever",
    "chaotong_engine",
    "charibot",
+   "cheng-4",
+   "cheng-4-nn",
    "chess3bot",
    "chess_set_manager",
    "chessatronbot",
    "chessblight",
+   "chesschildren",
    "chessiverse_ethan",
    "chessiverse_luc",
    "chessiverse_pawnza",
@@ -3499,7 +3503,6 @@
    "chronicgambler",
    "cinder-bot",
    "cizme",
-   "classic_bot-v2",
    "classical-leela",
    "cloudia-chess",
    "clrsrc_lc0",
@@ -3536,19 +3539,19 @@
    "drewschessmachine",
    "duchessai",
    "dumbotai",
+   "edwardkillick",
    "eigenmann-chess",
    "elachessbot",
+   "elephantgambitengine",
    "elexunix_chess_bot",
    "ellen_replay",
    "elmichess",
    "endspiel-pi",
    "entebot",
-   "epimetheusbot",
    "eubos",
    "falconengine",
    "fataliibot",
    "fathzer-jchess",
-   "fayefish",
    "felipe_bot_53",
    "fenrirbot",
    "flounderbot",
@@ -3569,6 +3572,8 @@
    "hiusbot",
    "hodgeybot",
    "holidaybot1225",
+   "honzovy-sachy",
+   "honzovy-sachy-2",
    "hummus-bot",
    "hustler_2mb",
    "hynobiuschess",
@@ -3638,6 +3643,7 @@
    "maia3-79m_600",
    "maia3-79m_800",
    "maia5",
+   "maia9",
    "maia960-1600",
    "maia960-1900",
    "maia9_10n",
@@ -3648,7 +3654,6 @@
    "mate-in-thirty",
    "mate-in-twenty",
    "mate1-bot",
-   "mayflyengine",
    "mcdonalds1955",
    "mega-noob-bot",
    "melsh_bot",
@@ -3660,6 +3665,7 @@
    "mochi_bot",
    "morabandbot",
    "mostlyhuman1900",
+   "motor-0",
    "mrtonnerre",
    "mychessjava",
    "nanozeroorg",
@@ -3668,7 +3674,6 @@
    "neurosocute",
    "newchessengine-ai",
    "nexastrat",
-   "nexosdefos",
    "nice_bot",
    "nickdrohan",
    "nilatacbot",
@@ -3681,6 +3686,7 @@
    "openinggenie2000",
    "overfitted",
    "oxide-eg",
+   "oxybullet",
    "oxydanbot",
    "pangubot",
    "panic-fish",
@@ -3693,12 +3699,15 @@
    "peacemaker-0_0",
    "peachfruit",
    "perl-gigachess",
+   "phalanx-xxv",
    "pi0w",
    "piebot",
    "piglet_engine",
    "playmarius",
    "prokopakop",
    "prosperobot",
+   "pseudo-0",
+   "pseudo-1",
    "puisne",
    "pzchessbot",
    "queensgambot",
@@ -3771,9 +3780,9 @@
    "throrbjorn",
    "thunfisch-bot",
    "tigrament",
-   "tikifish",
    "tilapiabot",
    "to299d",
+   "tomabbot",
    "topasbot",
    "trainer-bot",
    "trenerhetman",
@@ -3804,8 +3813,7 @@
    "vicentlittle",
    "vidbot",
    "vietnamesecoffee",
-   "violentstockfish",
-   "void_bot",
+   "virutor",
    "voigtsbach",
    "walpurti",
    "weiawaga",
