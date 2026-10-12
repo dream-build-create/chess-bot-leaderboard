@@ -1632,7 +1632,7 @@
   },
   "leelachesstest": {
    "first_seen": "2026-09-30",
-   "last_online": "2026-10-11",
+   "last_online": "2026-10-12",
    "username": "LeelaChessTest"
   },
   "leelajester": {
@@ -3372,7 +3372,7 @@
   },
   "wildorderbot": {
    "first_seen": "2026-09-28",
-   "last_online": "2026-10-11",
+   "last_online": "2026-10-12",
    "username": "WildorderBot"
   },
   "windmolen_bot": {
@@ -3457,9 +3457,8 @@
   }
  },
  "online": {
-  "checked_at": "2026-10-12T20:43:12Z",
+  "checked_at": "2026-10-12T21:43:09Z",
   "ids": [
-   "aaronsengine",
    "aatk_vanguardx",
    "abdcebot",
    "aconcaguabot",
@@ -3520,7 +3519,6 @@
    "chamberiajedrez",
    "chaotong_engine",
    "charibot",
-   "cheesestar",
    "cheng-4",
    "cheng-4-nn",
    "chess3bot",
@@ -3536,7 +3534,6 @@
    "chill4ce",
    "chronicgambler",
    "cinder-bot",
-   "classic_bot-v2",
    "classical-leela",
    "claude_bot",
    "cloudia-chess",
@@ -3572,7 +3569,6 @@
    "demolito_l5",
    "demolito_l6",
    "drawfish-reborn",
-   "drewschessmachine",
    "duchessai",
    "dumbotai",
    "edwardkillick",
@@ -3587,7 +3583,6 @@
    "falconengine",
    "fataliibot",
    "fathzer-jchess",
-   "fayefish",
    "felipe_bot_53",
    "fenrirbot",
    "flounderbot",
@@ -3596,7 +3591,6 @@
    "funcomp",
    "garbobot",
    "geotsibot",
-   "ghidorah_x",
    "goldfish-engine",
    "goopis",
    "grail-bot",
@@ -3644,6 +3638,7 @@
    "latrunculi-bot",
    "laura-bot",
    "lc0-latest",
+   "leelachesstest",
    "leelaknightodds",
    "leelapieceodds",
    "leelaqueenforknight",
@@ -3693,8 +3688,8 @@
    "nebubot",
    "neryba",
    "neurosocute",
+   "newtsbot",
    "nexastrat",
-   "nexosdefos",
    "nice_bot",
    "nickdrohan",
    "nilatacbot",
@@ -3770,7 +3765,6 @@
    "snapleelaeasy",
    "solobot",
    "solsticeengine",
-   "soulgar",
    "southbot",
    "squarefish-900",
    "sseh-c",
@@ -3836,6 +3830,7 @@
    "voigtsbach",
    "walpurti",
    "weiawaga",
+   "wildorderbot",
    "windmolen_bot",
    "wolfuhfuhbot",
    "worst-ai",
