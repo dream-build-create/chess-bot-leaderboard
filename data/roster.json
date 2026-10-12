@@ -92,7 +92,7 @@
   },
   "alphanolla": {
    "first_seen": "2026-10-09",
-   "last_online": "2026-10-11",
+   "last_online": "2026-10-12",
    "username": "AlphaNolla"
   },
   "amazingcutter": {
@@ -247,7 +247,7 @@
   },
   "battlebornthe3rd": {
    "first_seen": "2026-09-29",
-   "last_online": "2026-10-11",
+   "last_online": "2026-10-12",
    "username": "BattleBornThe3rd"
   },
   "battlebornthe4th": {
@@ -1525,6 +1525,11 @@
    "last_online": "2026-10-12",
    "username": "KestrelStrike"
   },
+  "killerstapler420bot": {
+   "first_seen": "2026-10-12",
+   "last_online": "2026-10-12",
+   "username": "killerstapler420BOT"
+  },
   "kingzbot": {
    "first_seen": "2026-10-10",
    "last_online": "2026-10-12",
@@ -2710,6 +2715,11 @@
    "last_online": "2026-10-12",
    "username": "SF_Bot1nok"
   },
+  "shark-engine": {
+   "first_seen": "2026-10-12",
+   "last_online": "2026-10-12",
+   "username": "shark-engine"
+  },
   "sharpsundae": {
    "first_seen": "2026-09-27",
    "last_online": "2026-10-12",
@@ -3437,7 +3447,7 @@
   }
  },
  "online": {
-  "checked_at": "2026-10-12T16:43:10Z",
+  "checked_at": "2026-10-12T17:43:10Z",
   "ids": [
    "aaronsengine",
    "aatk_vanguardx",
@@ -3449,9 +3459,9 @@
    "ai-con",
    "ailedbot",
    "ajedrezchamberi",
-   "alexandrya",
    "aliceshiro",
    "alliethechessbot",
+   "alphanolla",
    "angela_eng",
    "anna-bot",
    "annie_archy",
@@ -3467,6 +3477,7 @@
    "atari-video-chess",
    "baby_eubos",
    "banerot",
+   "battlebornthe3rd",
    "bbc_bot",
    "becela9_kpebetka",
    "berkbot",
@@ -3503,14 +3514,15 @@
    "cheesestar",
    "cheng-4",
    "cheng-4-nn",
+   "chess3bot",
    "chessblight",
    "chesschildren",
+   "chessgeniusbot",
    "chessiverse_ethan",
    "chessiverse_luc",
    "chessiverse_pawnza",
    "chessiverse_raak",
    "chesstango_bot",
-   "chesstransformerbot",
    "cheszter",
    "chill4ce",
    "chronicgambler",
@@ -3553,7 +3565,6 @@
    "drewschessmachine",
    "duchessai",
    "dumbotai",
-   "edwardkillick",
    "eigenmann-chess",
    "elachessbot",
    "elephantgambitengine",
@@ -3574,6 +3585,7 @@
    "flybrainchess",
    "fschess-engine",
    "funcomp",
+   "gambitonlybot",
    "garbobot",
    "geotsibot",
    "goldfish-engine",
@@ -3614,6 +3626,7 @@
    "karimbot",
    "kavinengine",
    "kestrelstrike",
+   "killerstapler420bot",
    "kingzbot",
    "kirinchessbot",
    "kopyto_dev",
@@ -3667,19 +3680,16 @@
    "mostlyhuman1900",
    "motor-0",
    "mrtonnerre",
-   "musashi-thebot",
    "mychessjava",
    "nanozeroorg",
    "nebubot",
    "neryba",
    "neurosocute",
    "newchessengine-ai",
-   "newtsbot",
    "nexastrat",
    "nexosdefos",
    "nice_bot",
    "nickdrohan",
-   "nickl1bot",
    "nilatacbot",
    "nittedal",
    "noabot",
@@ -3689,7 +3699,6 @@
    "openinggenie2000",
    "overfitted",
    "oxide-eg",
-   "oxybullet",
    "oxydanbot",
    "pangubot",
    "panic-fish",
@@ -3713,6 +3722,7 @@
    "pseudo-1",
    "puisne",
    "pzchessbot",
+   "rachl1",
    "radianceengine",
    "raspfish",
    "ratkingbot",
@@ -3740,6 +3750,7 @@
    "schnecken_bot",
    "scipio-bot",
    "sf_bot1nok",
+   "shark-engine",
    "sharpsundae",
    "shrevenbot",
    "silasly",
@@ -3826,7 +3837,6 @@
    "xewali",
    "z-o_aspenlabs",
    "zagreus_engine",
-   "zero3-now",
    "zion-bot"
   ]
  },
