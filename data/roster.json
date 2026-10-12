@@ -717,7 +717,7 @@
   },
   "claude_bot": {
    "first_seen": "2026-10-05",
-   "last_online": "2026-10-10",
+   "last_online": "2026-10-12",
    "username": "CLaude_Bot"
   },
   "claudyengine": {
@@ -1497,7 +1497,7 @@
   },
   "karimbot": {
    "first_seen": "2026-10-07",
-   "last_online": "2026-10-11",
+   "last_online": "2026-10-12",
    "username": "KarimBOT"
   },
   "kavinengine": {
@@ -2585,6 +2585,11 @@
    "last_online": "2026-10-12",
    "username": "RomanticBot2"
   },
+  "rosaliaxadrez": {
+   "first_seen": "2026-10-12",
+   "last_online": "2026-10-12",
+   "username": "RosaliaXadrez"
+  },
   "rotor-bot": {
    "first_seen": "2026-09-27",
    "last_online": "2026-10-11",
@@ -2622,7 +2627,7 @@
   },
   "saisrankarthik_7": {
    "first_seen": "2026-10-07",
-   "last_online": "2026-10-11",
+   "last_online": "2026-10-12",
    "username": "SAISRANKARTHIK_7"
   },
   "sara32222": {
@@ -3422,7 +3427,7 @@
   }
  },
  "online": {
-  "checked_at": "2026-10-12T04:43:09Z",
+  "checked_at": "2026-10-12T05:43:09Z",
   "ids": [
    "aatk_vanguardx",
    "abcd_engine",
@@ -3503,7 +3508,9 @@
    "chronicgambler",
    "cinder-bot",
    "cizme",
+   "classic_bot-v2",
    "classical-leela",
+   "claude_bot",
    "cloudia-chess",
    "clrsrc_lc0",
    "coda_bot",
@@ -3542,7 +3549,6 @@
    "eigenmann-chess",
    "elachessbot",
    "elephantgambitengine",
-   "elexunix_chess_bot",
    "ellen_replay",
    "elmichess",
    "endspiel-pi",
@@ -3551,6 +3557,7 @@
    "falconengine",
    "fataliibot",
    "fathzer-jchess",
+   "fayefish",
    "felipe_bot_53",
    "fenrirbot",
    "flounderbot",
@@ -3599,6 +3606,7 @@
    "jpg-bot",
    "jurdbird",
    "justbot-v1",
+   "karimbot",
    "kavinengine",
    "kestrelstrike",
    "kingzbot",
@@ -3676,6 +3684,7 @@
    "neurosocute",
    "newchessengine-ai",
    "nexastrat",
+   "nexosdefos",
    "nice_bot",
    "nickdrohan",
    "nilatacbot",
@@ -3726,9 +3735,12 @@
    "ribfish-bot",
    "romanticbot",
    "romanticbot2",
+   "rosaliaxadrez",
    "rudim-bot",
    "rust-in-pieces",
+   "rustyrival",
    "ryu-ishigori",
+   "saisrankarthik_7",
    "sargon-1ply",
    "sargon-2ply",
    "sargon-3ply",
@@ -3780,6 +3792,7 @@
    "throrbjorn",
    "thunfisch-bot",
    "tigrament",
+   "tikifish",
    "tilapiabot",
    "to299d",
    "topasbot",
@@ -3793,7 +3806,6 @@
    "turkjs",
    "turochamp-1ply",
    "turochamp-2ply",
-   "twosillypandas",
    "uiagbot",
    "ultrabrick",
    "unimark",
