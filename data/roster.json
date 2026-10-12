@@ -2,7 +2,7 @@
  "bots": {
   "aaronsengine": {
    "first_seen": "2026-09-27",
-   "last_online": "2026-10-11",
+   "last_online": "2026-10-12",
    "username": "AaronsEngine"
   },
   "aatk_vanguardx": {
@@ -67,7 +67,7 @@
   },
   "ajedrezchamberi": {
    "first_seen": "2026-09-29",
-   "last_online": "2026-10-11",
+   "last_online": "2026-10-12",
    "username": "AjedrezChamberi"
   },
   "alarm2001": {
@@ -337,7 +337,7 @@
   },
   "blindpewce": {
    "first_seen": "2026-09-30",
-   "last_online": "2026-10-10",
+   "last_online": "2026-10-12",
    "username": "BlindPewCE"
   },
   "blobfish-bot": {
@@ -547,7 +547,7 @@
   },
   "chamberiajedrez": {
    "first_seen": "2026-09-29",
-   "last_online": "2026-10-11",
+   "last_online": "2026-10-12",
    "username": "ChamberiAjedrez"
   },
   "chaotong_engine": {
@@ -2042,7 +2042,7 @@
   },
   "mxnet-gamemaster": {
    "first_seen": "2026-09-28",
-   "last_online": "2026-10-11",
+   "last_online": "2026-10-12",
    "username": "mxnet-gamemaster"
   },
   "my-bot": {
@@ -3427,8 +3427,9 @@
   }
  },
  "online": {
-  "checked_at": "2026-10-12T08:43:09Z",
+  "checked_at": "2026-10-12T09:43:15Z",
   "ids": [
+   "aaronsengine",
    "aatk_vanguardx",
    "abcd_engine",
    "abdcebot",
@@ -3438,6 +3439,7 @@
    "aggressivestockfish",
    "ai-con",
    "ailedbot",
+   "ajedrezchamberi",
    "alarm2001",
    "alexandrya",
    "aliceshiro",
@@ -3459,12 +3461,12 @@
    "baby_eubos",
    "banerot",
    "bbc_bot",
-   "becela9_kpebetka",
    "berkbot",
    "bernstein-2ply",
    "bernstein-4ply",
    "bfiedler-bot",
    "bitbitbot",
+   "blindpewce",
    "blobfish-bot",
    "bluemoonbot",
    "blujay-bot",
@@ -3489,6 +3491,7 @@
    "casanchess-nnue",
    "catnail",
    "catriever",
+   "chamberiajedrez",
    "chaotong_engine",
    "charibot",
    "cheng-4",
@@ -3561,7 +3564,6 @@
    "fenrirbot",
    "flounderbot",
    "flybrainchess",
-   "fpga-chess",
    "fschess-engine",
    "funcomp",
    "garbobot",
@@ -3599,7 +3601,6 @@
    "joshsbot",
    "jpg-bot",
    "justbot-v1",
-   "karimbot",
    "kavinengine",
    "kestrelstrike",
    "kingzbot",
@@ -3611,12 +3612,15 @@
    "latrunculi-bot",
    "laura-bot",
    "lc0-latest",
+   "leelaalien",
+   "leelajester",
    "leelaknightodds",
    "leelapieceodds",
    "leelaqueenforknight",
    "leelaqueenodds",
    "leelarogue",
    "leelarookodds",
+   "leelatroll",
    "leol-bot",
    "levymaia",
    "likeawizard-bot",
@@ -3630,8 +3634,17 @@
    "mackbot",
    "maia1",
    "maia2200_10n",
+   "maia3-79m_1000",
    "maia3-79m_1200",
+   "maia3-79m_1400",
+   "maia3-79m_1600",
+   "maia3-79m_1800",
    "maia3-79m_2000",
+   "maia3-79m_2200",
+   "maia3-79m_2400",
+   "maia3-79m_2600",
+   "maia3-79m_600",
+   "maia3-79m_800",
    "maia5",
    "maia9",
    "maia960-1600",
@@ -3644,13 +3657,13 @@
    "mate-in-thirty",
    "mate-in-twenty",
    "mate1-bot",
+   "mayflyengine",
    "mcdonalds1955",
    "mega-noob-bot",
    "melsh_bot",
    "mimirbot",
    "minibotapi",
    "minibruteforcebot",
-   "minmaxvalgen",
    "mithandros",
    "mochi_bot",
    "morabandbot",
@@ -3658,12 +3671,12 @@
    "motor-0",
    "mrtonnerre",
    "musashi-thebot",
+   "mxnet-gamemaster",
    "mychessjava",
    "nanozeroorg",
    "nebubot",
    "neryba",
    "neurosocute",
-   "newchessengine-ai",
    "nexastrat",
    "nexosdefos",
    "nice_bot",
