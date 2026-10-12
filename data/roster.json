@@ -1192,7 +1192,7 @@
   },
   "ghidorah_x": {
    "first_seen": "2026-09-27",
-   "last_online": "2026-10-11",
+   "last_online": "2026-10-12",
    "username": "Ghidorah_X"
   },
   "gnu4u": {
@@ -1932,7 +1932,7 @@
   },
   "matemakingmachine": {
    "first_seen": "2026-09-29",
-   "last_online": "2026-10-11",
+   "last_online": "2026-10-12",
    "username": "MateMakingMachine"
   },
   "matmoi": {
@@ -2582,7 +2582,7 @@
   },
   "rodent-iv": {
    "first_seen": "2026-10-05",
-   "last_online": "2026-10-11",
+   "last_online": "2026-10-12",
    "username": "Rodent-IV"
   },
   "rodent-v": {
@@ -3447,10 +3447,11 @@
   }
  },
  "online": {
-  "checked_at": "2026-10-12T17:43:10Z",
+  "checked_at": "2026-10-12T18:43:10Z",
   "ids": [
    "aaronsengine",
    "aatk_vanguardx",
+   "abcd_engine",
    "abdcebot",
    "aconcaguabot",
    "aetherbot",
@@ -3459,6 +3460,7 @@
    "ai-con",
    "ailedbot",
    "ajedrezchamberi",
+   "alarm2001",
    "aliceshiro",
    "alliethechessbot",
    "alphanolla",
@@ -3477,7 +3479,6 @@
    "atari-video-chess",
    "baby_eubos",
    "banerot",
-   "battlebornthe3rd",
    "bbc_bot",
    "becela9_kpebetka",
    "berkbot",
@@ -3565,6 +3566,7 @@
    "drewschessmachine",
    "duchessai",
    "dumbotai",
+   "edwardkillick",
    "eigenmann-chess",
    "elachessbot",
    "elephantgambitengine",
@@ -3585,13 +3587,12 @@
    "flybrainchess",
    "fschess-engine",
    "funcomp",
-   "gambitonlybot",
    "garbobot",
    "geotsibot",
+   "ghidorah_x",
    "goldfish-engine",
    "goopis",
    "grail-bot",
-   "groshboss",
    "gryndor",
    "hackerchessbot",
    "halcyonbot",
@@ -3648,7 +3649,6 @@
    "lilitbot",
    "little-0",
    "louischess48-6k",
-   "lukebot",
    "lunaenginechess",
    "lynx_bot",
    "mac-bot",
@@ -3667,6 +3667,7 @@
    "mate-in-thirty",
    "mate-in-twenty",
    "mate1-bot",
+   "matemakingmachine",
    "mayflyengine",
    "mcdonalds1955",
    "mega-noob-bot",
@@ -3696,9 +3697,9 @@
    "noel-bot",
    "notropis",
    "o-rei-cx",
-   "openinggenie2000",
    "overfitted",
    "oxide-eg",
+   "oxybullet",
    "oxydanbot",
    "pangubot",
    "panic-fish",
@@ -3722,7 +3723,6 @@
    "pseudo-1",
    "puisne",
    "pzchessbot",
-   "rachl1",
    "radianceengine",
    "raspfish",
    "ratkingbot",
@@ -3735,6 +3735,7 @@
    "renegadeengine",
    "resolutebot",
    "ribfish-bot",
+   "rodent-iv",
    "romanticbot",
    "romanticbot2",
    "rudim-bot",
@@ -3795,7 +3796,6 @@
    "tikifish",
    "tilapiabot",
    "to299d",
-   "tomabbot",
    "topasbot",
    "trainer-bot",
    "trenerhetman",
