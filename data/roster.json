@@ -1060,6 +1060,11 @@
    "last_online": "2026-10-12",
    "username": "EpimetheusBot"
   },
+  "epoch512": {
+   "first_seen": "2026-10-12",
+   "last_online": "2026-10-12",
+   "username": "Epoch512"
+  },
   "escarbo": {
    "first_seen": "2026-09-28",
    "last_online": "2026-10-10",
@@ -2117,7 +2122,7 @@
   },
   "newtsbot": {
    "first_seen": "2026-09-27",
-   "last_online": "2026-10-11",
+   "last_online": "2026-10-12",
    "username": "NEWTSbot"
   },
   "nexastrat": {
@@ -3432,7 +3437,7 @@
   }
  },
  "online": {
-  "checked_at": "2026-10-12T13:15:46Z",
+  "checked_at": "2026-10-12T13:43:09Z",
   "ids": [
    "aaronsengine",
    "aatk_vanguardx",
@@ -3490,7 +3495,6 @@
    "byte-knight",
    "c-t-r-l",
    "caiporabot",
-   "caissa-x",
    "calciumengine",
    "casanchess-nnue",
    "catnail",
@@ -3558,6 +3562,7 @@
    "elmichess",
    "endspiel-pi",
    "entebot",
+   "epoch512",
    "eubos",
    "falconengine",
    "fataliibot",
@@ -3606,6 +3611,7 @@
    "jpg-bot",
    "jurdbird",
    "justbot-v1",
+   "karimbot",
    "kavinengine",
    "kestrelstrike",
    "kingzbot",
@@ -3677,6 +3683,7 @@
    "nebubot",
    "neryba",
    "neurosocute",
+   "newtsbot",
    "nexastrat",
    "nice_bot",
    "nickdrohan",
@@ -3687,7 +3694,6 @@
    "notropis",
    "o-rei-cx",
    "openinggenie2000",
-   "osaurus",
    "overfitted",
    "oxide-eg",
    "oxybullet",
@@ -3784,6 +3790,7 @@
    "thunfisch-bot",
    "tilapiabot",
    "to299d",
+   "tomabbot",
    "topasbot",
    "torombot",
    "trainer-bot",
@@ -3817,7 +3824,6 @@
    "voigtsbach",
    "walpurti",
    "weiawaga",
-   "windmolen_bot",
    "wolfuhfuhbot",
    "worst-ai",
    "worstfish",
