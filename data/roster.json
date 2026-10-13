@@ -2,7 +2,7 @@
  "bots": {
   "aaronsengine": {
    "first_seen": "2026-09-27",
-   "last_online": "2026-10-12",
+   "last_online": "2026-10-13",
    "username": "AaronsEngine"
   },
   "aatk_vanguardx": {
@@ -67,7 +67,7 @@
   },
   "ajedrezchamberi": {
    "first_seen": "2026-09-29",
-   "last_online": "2026-10-12",
+   "last_online": "2026-10-13",
    "username": "AjedrezChamberi"
   },
   "alarm2001": {
@@ -382,7 +382,7 @@
   },
   "bot-o-tron": {
    "first_seen": "2026-09-28",
-   "last_online": "2026-10-11",
+   "last_online": "2026-10-13",
    "username": "bot-o-tron"
   },
   "bot1e": {
@@ -547,7 +547,7 @@
   },
   "chamberiajedrez": {
    "first_seen": "2026-09-29",
-   "last_online": "2026-10-12",
+   "last_online": "2026-10-13",
    "username": "ChamberiAjedrez"
   },
   "chaotong_engine": {
@@ -2452,7 +2452,7 @@
   },
   "qioui": {
    "first_seen": "2026-10-11",
-   "last_online": "2026-10-12",
+   "last_online": "2026-10-13",
    "username": "QiOui"
   },
   "queensgambot": {
@@ -2819,6 +2819,11 @@
    "first_seen": "2026-10-04",
    "last_online": "2026-10-13",
    "username": "SnapLeelaEasy"
+  },
+  "softacornbot": {
+   "first_seen": "2026-10-13",
+   "last_online": "2026-10-13",
+   "username": "SoftAcornBot"
   },
   "sohilbot": {
    "first_seen": "2026-10-02",
@@ -3467,8 +3472,9 @@
   }
  },
  "online": {
-  "checked_at": "2026-10-13T08:43:10Z",
+  "checked_at": "2026-10-13T09:43:11Z",
   "ids": [
+   "aaronsengine",
    "aatk_vanguardx",
    "abcd_engine",
    "abdcebot",
@@ -3478,6 +3484,7 @@
    "aggressivestockfish",
    "ai-con",
    "ailedbot",
+   "ajedrezchamberi",
    "alarm2001",
    "aliceshiro",
    "alliethechessbot",
@@ -3512,6 +3519,7 @@
    "bongaclang",
    "boris-trapsky",
    "borkatower",
+   "bot-o-tron",
    "bot1e",
    "bot1nokk",
    "bot5551",
@@ -3529,6 +3537,7 @@
    "casanchess-nnue",
    "catnail",
    "catriever",
+   "chamberiajedrez",
    "chaotong_engine",
    "charibot",
    "cheng-4",
@@ -3696,6 +3705,7 @@
    "mate1-bot",
    "matmoi",
    "mayflyengine",
+   "mcdonalds1955",
    "mega-noob-bot",
    "melsh_bot",
    "mimirbot",
@@ -3727,7 +3737,6 @@
    "openinggenie2000",
    "overfitted",
    "oxide-eg",
-   "oxybullet",
    "oxydanbot",
    "pangubot",
    "panic-fish",
@@ -3750,6 +3759,7 @@
    "pseudo-1",
    "puisne",
    "pzchessbot",
+   "qioui",
    "queensgambot",
    "radianceengine",
    "raspfish",
@@ -3770,7 +3780,6 @@
    "rust-in-pieces",
    "rustyrival",
    "ryu-ishigori",
-   "saisrankarthik_7",
    "sargon-1ply",
    "sargon-2ply",
    "sargon-3ply",
@@ -3779,7 +3788,6 @@
    "scalaqueen",
    "schnecken_bot",
    "scipio-bot",
-   "sebvaderbot",
    "sf_bot1nok",
    "shallowredbot",
    "shark-engine",
@@ -3793,6 +3801,7 @@
    "sleepmindengine",
    "slowmate_bot",
    "snapleelaeasy",
+   "softacornbot",
    "solobot",
    "southbot",
    "squarefish-900",
@@ -3819,7 +3828,6 @@
    "takticprochess",
    "talosbot",
    "teensycheesy",
-   "tempocore",
    "terconari",
    "thechessblazer",
    "thegrobbot",
