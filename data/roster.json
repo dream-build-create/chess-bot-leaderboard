@@ -1162,7 +1162,7 @@
   },
   "gambitonlybot": {
    "first_seen": "2026-09-28",
-   "last_online": "2026-10-12",
+   "last_online": "2026-10-13",
    "username": "GambitOnlyBot"
   },
   "garbobot": {
@@ -2457,7 +2457,7 @@
   },
   "queensgambot": {
    "first_seen": "2026-09-27",
-   "last_online": "2026-10-12",
+   "last_online": "2026-10-13",
    "username": "QueensGamBOT"
   },
   "r0bspierre": {
@@ -3127,7 +3127,7 @@
   },
   "tomabbot": {
    "first_seen": "2026-10-10",
-   "last_online": "2026-10-12",
+   "last_online": "2026-10-13",
    "username": "TomabBot"
   },
   "tonyengine": {
@@ -3462,7 +3462,7 @@
   }
  },
  "online": {
-  "checked_at": "2026-10-13T00:43:09Z",
+  "checked_at": "2026-10-13T01:03:38Z",
   "ids": [
    "aatk_vanguardx",
    "abcd_engine",
@@ -3595,6 +3595,7 @@
    "flybrainchess",
    "fschess-engine",
    "funcomp",
+   "gambitonlybot",
    "garbobot",
    "geotsibot",
    "ghidorah_x",
@@ -3704,7 +3705,6 @@
    "o-rei-cx",
    "overfitted",
    "oxide-eg",
-   "oxybullet",
    "oxydanbot",
    "pachetron",
    "pangubot",
@@ -3726,6 +3726,7 @@
    "prosperobot",
    "puisne",
    "pzchessbot",
+   "queensgambot",
    "radianceengine",
    "raspfish",
    "ratkingbot",
@@ -3799,6 +3800,7 @@
    "thunfisch-bot",
    "tilapiabot",
    "to299d",
+   "tomabbot",
    "topasbot",
    "torombot",
    "trainer-bot",
