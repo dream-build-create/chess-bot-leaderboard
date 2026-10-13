@@ -465,6 +465,11 @@
    "last_online": "2026-10-13",
    "username": "BretemaBot"
   },
+  "brybrybot": {
+   "first_seen": "2026-10-13",
+   "last_online": "2026-10-13",
+   "username": "BryBryBot"
+  },
   "bubblebot2": {
    "first_seen": "2026-09-27",
    "last_online": "2026-10-13",
@@ -1637,7 +1642,7 @@
   },
   "leelachesstest": {
    "first_seen": "2026-09-30",
-   "last_online": "2026-10-12",
+   "last_online": "2026-10-13",
    "username": "LeelaChessTest"
   },
   "leelajester": {
@@ -3487,7 +3492,7 @@
   }
  },
  "online": {
-  "checked_at": "2026-10-13T20:43:17Z",
+  "checked_at": "2026-10-13T21:43:09Z",
   "ids": [
    "abdcebot",
    "aconcaguabot",
@@ -3502,7 +3507,6 @@
    "aliceshiro",
    "alieknek",
    "alliethechessbot",
-   "alphanolla",
    "angela_eng",
    "anna-bot",
    "annie_archy",
@@ -3537,6 +3541,7 @@
    "bot_adario",
    "bottios",
    "bretemabot",
+   "brybrybot",
    "bubblebot2",
    "byte-knight",
    "c-t-r-l",
@@ -3606,7 +3611,6 @@
    "falconengine",
    "fataliibot",
    "fathzer-jchess",
-   "fbot_st",
    "felipe_bot_53",
    "fenrirbot",
    "flounderbot",
@@ -3635,7 +3639,6 @@
    "ilovecatgirl",
    "inanisbot",
    "incipit_bot",
-   "io-bot",
    "is_boss",
    "iskelt-corax",
    "jacobsbot",
@@ -3644,7 +3647,6 @@
    "jenniferx",
    "jesterchessrobot",
    "jibbby",
-   "jinko-chan",
    "joan_clone",
    "joey_chessengine",
    "jomfishh",
@@ -3665,6 +3667,7 @@
    "laura-bot",
    "lc0-latest",
    "leelaalien",
+   "leelachesstest",
    "leelajester",
    "leelaknightodds",
    "leelapieceodds",
@@ -3724,9 +3727,9 @@
    "mrtonnerre",
    "mychessjava",
    "nanozeroorg",
-   "nebubot",
    "neryba",
    "neurosocute",
+   "newtsbot",
    "nexastrat",
    "nice_bot",
    "nickdrohan",
@@ -3760,6 +3763,7 @@
    "puisne",
    "pzchessbot",
    "queensgambot",
+   "racingkingsbot_1",
    "radianceengine",
    "raspfish",
    "ratkingbot",
@@ -3777,7 +3781,6 @@
    "romanticbot2",
    "rudim-bot",
    "rust-in-pieces",
-   "rustyrival",
    "ryu-ishigori",
    "sargon-1ply",
    "sargon-2ply",
@@ -3794,6 +3797,7 @@
    "silasly",
    "sim3million",
    "simbelmyne-bot",
+   "simpleeval",
    "sj_norbot",
    "sleepmindengine",
    "slowmate_bot",
