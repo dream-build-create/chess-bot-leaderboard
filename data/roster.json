@@ -85,6 +85,11 @@
    "last_online": "2026-10-13",
    "username": "AliceShiro"
   },
+  "alieknek": {
+   "first_seen": "2026-10-13",
+   "last_online": "2026-10-13",
+   "username": "Alieknek"
+  },
   "alliethechessbot": {
    "first_seen": "2026-10-04",
    "last_online": "2026-10-13",
@@ -1787,7 +1792,7 @@
   },
   "magic11bot_coach": {
    "first_seen": "2026-10-01",
-   "last_online": "2026-10-01",
+   "last_online": "2026-10-13",
    "username": "Magic11bot_Coach"
   },
   "maia1": {
@@ -2282,7 +2287,7 @@
   },
   "patriciabot": {
    "first_seen": "2026-10-03",
-   "last_online": "2026-10-10",
+   "last_online": "2026-10-13",
    "username": "PatriciaBot"
   },
   "patzerbot135": {
@@ -2372,7 +2377,7 @@
   },
   "piratesrust": {
    "first_seen": "2026-10-01",
-   "last_online": "2026-10-10",
+   "last_online": "2026-10-13",
    "username": "PiratesRust"
   },
   "platinumbot": {
@@ -3067,7 +3072,7 @@
   },
   "the_baronet": {
    "first_seen": "2026-09-28",
-   "last_online": "2026-10-11",
+   "last_online": "2026-10-13",
    "username": "The_Baronet"
   },
   "thealexdestroyer": {
@@ -3107,7 +3112,7 @@
   },
   "tigrament": {
    "first_seen": "2026-09-27",
-   "last_online": "2026-10-12",
+   "last_online": "2026-10-13",
    "username": "Tigrament"
   },
   "tikifish": {
@@ -3482,11 +3487,10 @@
   }
  },
  "online": {
-  "checked_at": "2026-10-13T17:43:09Z",
+  "checked_at": "2026-10-13T18:43:11Z",
   "ids": [
    "aaronsengine",
    "aatk_vanguardx",
-   "abcd_engine",
    "abdcebot",
    "aconcaguabot",
    "aetherbot",
@@ -3497,6 +3501,7 @@
    "ajedrezchamberi",
    "alarm2001",
    "aliceshiro",
+   "alieknek",
    "alliethechessbot",
    "alphanolla",
    "angela_eng",
@@ -3539,7 +3544,6 @@
    "bubblebot2",
    "byte-knight",
    "c-t-r-l",
-   "c0kval",
    "caiporabot",
    "calciumengine",
    "casanchess-nnue",
@@ -3550,7 +3554,6 @@
    "cheng-4",
    "cheng-4-nn",
    "chess3bot",
-   "chess_set_manager",
    "chessblight",
    "chesschildren",
    "chessiverse_ethan",
@@ -3594,7 +3597,6 @@
    "demolito_l4",
    "demolito_l5",
    "demolito_l6",
-   "drawfish-reborn",
    "drewschessmachine",
    "duchessai",
    "dumbotai",
@@ -3683,10 +3685,10 @@
    "little-0",
    "louischess48-6k",
    "lukebot",
-   "lunaenginechess",
    "lynx_bot",
    "mac-bot",
    "mackbot",
+   "magic11bot_coach",
    "maia1",
    "maia2200_10n",
    "maia3-79m_1000",
@@ -3724,6 +3726,7 @@
    "mithandros",
    "mochi_bot",
    "morabandbot",
+   "mostlyhuman1900",
    "motor-0",
    "mrtonnerre",
    "mychessjava",
@@ -3750,6 +3753,7 @@
    "pangubot",
    "panic-fish",
    "partner3615diago",
+   "patriciabot",
    "patzerbot135",
    "pawn_git",
    "pawnrobot",
@@ -3762,6 +3766,7 @@
    "pi0w",
    "piebot",
    "piglet_engine",
+   "piratesrust",
    "prokopakop",
    "prosperobot",
    "pseudo-0",
@@ -3782,6 +3787,7 @@
    "renegadeengine",
    "resolutebot",
    "ribfish-bot",
+   "rodent-iv",
    "romanticbot",
    "romanticbot2",
    "rudim-bot",
@@ -3796,7 +3802,6 @@
    "scalaqueen",
    "schnecken_bot",
    "scipio-bot",
-   "sebvaderbot",
    "sf_bot1nok",
    "shallowredbot",
    "shrevenbot",
@@ -3835,10 +3840,12 @@
    "talosbot",
    "teensycheesy",
    "terconari",
+   "the_baronet",
    "thealexdestroyer",
    "thechessblazer",
    "thegrobbot",
    "thunfisch-bot",
+   "tigrament",
    "tikifish",
    "tilapiabot",
    "to299d",
@@ -3878,6 +3885,7 @@
    "void_bot",
    "waldemar-the-elf",
    "walpurti",
+   "wannalearnbot",
    "weiawaga",
    "wolfuhfuhbot",
    "worst-ai",
