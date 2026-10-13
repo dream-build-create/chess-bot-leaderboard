@@ -327,7 +327,7 @@
   },
   "black-bishop-kh": {
    "first_seen": "2026-09-28",
-   "last_online": "2026-10-12",
+   "last_online": "2026-10-13",
    "username": "Black-Bishop-Kh"
   },
   "blackeventhorizon": {
@@ -1647,7 +1647,7 @@
   },
   "leelamultiposs": {
    "first_seen": "2026-10-08",
-   "last_online": "2026-10-08",
+   "last_online": "2026-10-13",
    "username": "LeelaMultiPoss"
   },
   "leelapieceodds": {
@@ -2017,7 +2017,7 @@
   },
   "miss_snowiee": {
    "first_seen": "2026-10-02",
-   "last_online": "2026-10-12",
+   "last_online": "2026-10-13",
    "username": "Miss_snowiee"
   },
   "mithandros": {
@@ -2407,7 +2407,7 @@
   },
   "project_nebulora": {
    "first_seen": "2026-09-30",
-   "last_online": "2026-10-08",
+   "last_online": "2026-10-13",
    "username": "Project_Nebulora"
   },
   "prokopakop": {
@@ -3345,6 +3345,11 @@
    "last_online": "2026-10-06",
    "username": "VortexInBRP"
   },
+  "waldemar-the-elf": {
+   "first_seen": "2026-10-13",
+   "last_online": "2026-10-13",
+   "username": "Waldemar-the-elf"
+  },
   "walleye_bot": {
    "first_seen": "2026-09-27",
    "last_online": "2026-10-05",
@@ -3357,7 +3362,7 @@
   },
   "wannalearnbot": {
    "first_seen": "2026-09-27",
-   "last_online": "2026-10-11",
+   "last_online": "2026-10-13",
    "username": "wannalearnbot"
   },
   "wardnbot": {
@@ -3472,7 +3477,7 @@
   }
  },
  "online": {
-  "checked_at": "2026-10-13T09:43:11Z",
+  "checked_at": "2026-10-13T10:43:10Z",
   "ids": [
    "aaronsengine",
    "aatk_vanguardx",
@@ -3513,13 +3518,13 @@
    "bernstein-4ply",
    "bfiedler-bot",
    "bitbitbot",
+   "black-bishop-kh",
    "blobfish-bot",
    "bluemoonbot",
    "blujay-bot",
    "bongaclang",
    "boris-trapsky",
    "borkatower",
-   "bot-o-tron",
    "bot1e",
    "bot1nokk",
    "bot5551",
@@ -3532,8 +3537,8 @@
    "byte-knight",
    "c-t-r-l",
    "caiporabot",
-   "caissa-x",
    "calciumengine",
+   "carmin-bot",
    "casanchess-nnue",
    "catnail",
    "catriever",
@@ -3559,7 +3564,6 @@
    "cloudia-chess",
    "clrsrc_lc0",
    "coda_bot",
-   "codabot",
    "colinbot",
    "confidencebuilder",
    "cookiebot711",
@@ -3624,15 +3628,12 @@
    "honzovy-sachy",
    "honzovy-sachy-2",
    "hummus-bot",
-   "hustler_2mb",
    "hynobiuschess",
    "hyperopic",
    "icarus-bot",
-   "ilcorvochess",
    "ilovecatgirl",
    "inanisbot",
    "incipit_bot",
-   "io-bot",
    "is_boss",
    "iskelt-corax",
    "jacobsbot",
@@ -3661,6 +3662,7 @@
    "leelaalien",
    "leelajester",
    "leelaknightodds",
+   "leelamultiposs",
    "leelapieceodds",
    "leelaqueenforknight",
    "leelaqueenodds",
@@ -3711,6 +3713,7 @@
    "mimirbot",
    "minibotapi",
    "minibruteforcebot",
+   "miss_snowiee",
    "mithandros",
    "mochi_bot",
    "morabandbot",
@@ -3753,13 +3756,13 @@
    "pi0w",
    "piebot",
    "piglet_engine",
+   "project_nebulora",
    "prokopakop",
    "prosperobot",
    "pseudo-0",
    "pseudo-1",
    "puisne",
    "pzchessbot",
-   "qioui",
    "queensgambot",
    "radianceengine",
    "raspfish",
@@ -3780,6 +3783,7 @@
    "rust-in-pieces",
    "rustyrival",
    "ryu-ishigori",
+   "saisrankarthik_7",
    "sargon-1ply",
    "sargon-2ply",
    "sargon-3ply",
@@ -3790,7 +3794,6 @@
    "scipio-bot",
    "sf_bot1nok",
    "shallowredbot",
-   "shark-engine",
    "shrevenbot",
    "silasly",
    "sim3million",
@@ -3801,7 +3804,6 @@
    "sleepmindengine",
    "slowmate_bot",
    "snapleelaeasy",
-   "softacornbot",
    "solobot",
    "southbot",
    "squarefish-900",
@@ -3830,11 +3832,9 @@
    "teensycheesy",
    "terconari",
    "thechessblazer",
-   "thegrobbot",
    "thunfisch-bot",
    "tilapiabot",
    "to299d",
-   "tomabbot",
    "topasbot",
    "trainer-bot",
    "trenerhetman",
@@ -3866,7 +3866,9 @@
    "vietnamesecoffee",
    "virutor",
    "voigtsbach",
+   "waldemar-the-elf",
    "walpurti",
+   "wannalearnbot",
    "weiawaga",
    "wolfuhfuhbot",
    "worst-ai",
