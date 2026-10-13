@@ -1627,7 +1627,7 @@
   },
   "leelaalien": {
    "first_seen": "2026-09-28",
-   "last_online": "2026-10-12",
+   "last_online": "2026-10-13",
    "username": "LeelaAlien"
   },
   "leelachesstest": {
@@ -1637,7 +1637,7 @@
   },
   "leelajester": {
    "first_seen": "2026-09-28",
-   "last_online": "2026-10-12",
+   "last_online": "2026-10-13",
    "username": "LeelaJester"
   },
   "leelaknightodds": {
@@ -1677,7 +1677,7 @@
   },
   "leelatroll": {
    "first_seen": "2026-09-28",
-   "last_online": "2026-10-12",
+   "last_online": "2026-10-13",
    "username": "LeelaTroll"
   },
   "leetomic": {
@@ -2132,7 +2132,7 @@
   },
   "newtsbot": {
    "first_seen": "2026-09-27",
-   "last_online": "2026-10-12",
+   "last_online": "2026-10-13",
    "username": "NEWTSbot"
   },
   "nexastrat": {
@@ -2612,7 +2612,7 @@
   },
   "rotor-bot": {
    "first_seen": "2026-09-27",
-   "last_online": "2026-10-11",
+   "last_online": "2026-10-13",
    "username": "rotor-bot"
   },
   "rpibot73": {
@@ -3047,7 +3047,7 @@
   },
   "tempocore": {
    "first_seen": "2026-09-29",
-   "last_online": "2026-10-12",
+   "last_online": "2026-10-13",
    "username": "TempoCore"
   },
   "terconari": {
@@ -3467,7 +3467,7 @@
   }
  },
  "online": {
-  "checked_at": "2026-10-13T07:43:09Z",
+  "checked_at": "2026-10-13T08:43:10Z",
   "ids": [
    "aatk_vanguardx",
    "abcd_engine",
@@ -3523,7 +3523,6 @@
    "bubblebot2",
    "byte-knight",
    "c-t-r-l",
-   "c0kval",
    "caiporabot",
    "caissa-x",
    "calciumengine",
@@ -3534,7 +3533,6 @@
    "charibot",
    "cheng-4",
    "cheng-4-nn",
-   "chess_set_manager",
    "chessblight",
    "chesschildren",
    "chessiverse_ethan",
@@ -3617,6 +3615,7 @@
    "honzovy-sachy",
    "honzovy-sachy-2",
    "hummus-bot",
+   "hustler_2mb",
    "hynobiuschess",
    "hyperopic",
    "icarus-bot",
@@ -3650,12 +3649,15 @@
    "latrunculi-bot",
    "laura-bot",
    "lc0-latest",
+   "leelaalien",
+   "leelajester",
    "leelaknightodds",
    "leelapieceodds",
    "leelaqueenforknight",
    "leelaqueenodds",
    "leelarogue",
    "leelarookodds",
+   "leelatroll",
    "leol-bot",
    "levymaia",
    "likeawizard-bot",
@@ -3669,6 +3671,17 @@
    "mackbot",
    "maia1",
    "maia2200_10n",
+   "maia3-79m_1000",
+   "maia3-79m_1200",
+   "maia3-79m_1400",
+   "maia3-79m_1600",
+   "maia3-79m_1800",
+   "maia3-79m_2000",
+   "maia3-79m_2200",
+   "maia3-79m_2400",
+   "maia3-79m_2600",
+   "maia3-79m_600",
+   "maia3-79m_800",
    "maia5",
    "maia9",
    "maia960-1600",
@@ -3701,6 +3714,7 @@
    "neryba",
    "neurosocute",
    "newchessengine-ai",
+   "newtsbot",
    "nexastrat",
    "nice_bot",
    "nickdrohan",
@@ -3713,6 +3727,7 @@
    "openinggenie2000",
    "overfitted",
    "oxide-eg",
+   "oxybullet",
    "oxydanbot",
    "pangubot",
    "panic-fish",
@@ -3750,10 +3765,12 @@
    "ribfish-bot",
    "romanticbot",
    "romanticbot2",
+   "rotor-bot",
    "rudim-bot",
    "rust-in-pieces",
    "rustyrival",
    "ryu-ishigori",
+   "saisrankarthik_7",
    "sargon-1ply",
    "sargon-2ply",
    "sargon-3ply",
@@ -3766,7 +3783,6 @@
    "sf_bot1nok",
    "shallowredbot",
    "shark-engine",
-   "sharpsundae",
    "shrevenbot",
    "silasly",
    "sim3million",
@@ -3777,9 +3793,7 @@
    "sleepmindengine",
    "slowmate_bot",
    "snapleelaeasy",
-   "solidor59",
    "solobot",
-   "solsticeengine",
    "southbot",
    "squarefish-900",
    "sseh-c",
@@ -3805,11 +3819,14 @@
    "takticprochess",
    "talosbot",
    "teensycheesy",
+   "tempocore",
    "terconari",
    "thechessblazer",
+   "thegrobbot",
    "thunfisch-bot",
    "tilapiabot",
    "to299d",
+   "tomabbot",
    "topasbot",
    "trainer-bot",
    "trenerhetman",
