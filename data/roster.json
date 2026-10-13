@@ -1107,7 +1107,7 @@
   },
   "fbot_st": {
    "first_seen": "2026-10-11",
-   "last_online": "2026-10-11",
+   "last_online": "2026-10-13",
    "username": "Fbot_st"
   },
   "felipe_bot_53": {
@@ -3402,7 +3402,7 @@
   },
   "wildorderbot": {
    "first_seen": "2026-09-28",
-   "last_online": "2026-10-12",
+   "last_online": "2026-10-13",
    "username": "WildorderBot"
   },
   "windmolen_bot": {
@@ -3487,7 +3487,7 @@
   }
  },
  "online": {
-  "checked_at": "2026-10-13T18:43:11Z",
+  "checked_at": "2026-10-13T19:07:15Z",
   "ids": [
    "aaronsengine",
    "aatk_vanguardx",
@@ -3597,6 +3597,7 @@
    "demolito_l4",
    "demolito_l5",
    "demolito_l6",
+   "drawfish-reborn",
    "drewschessmachine",
    "duchessai",
    "dumbotai",
@@ -3610,14 +3611,17 @@
    "entebot",
    "eubos",
    "falconengine",
+   "fataliibot",
    "fathzer-jchess",
    "fayefish",
+   "fbot_st",
    "felipe_bot_53",
    "fenrirbot",
    "flounderbot",
    "flybrainchess",
    "fschess-engine",
    "funcomp",
+   "gambitonlybot",
    "garbobot",
    "geotsibot",
    "ghidorah_x",
@@ -3735,7 +3739,6 @@
    "neryba",
    "neurosocute",
    "newchessengine-ai",
-   "newtsbot",
    "nexastrat",
    "nexosdefos",
    "nice_bot",
@@ -3753,7 +3756,6 @@
    "pangubot",
    "panic-fish",
    "partner3615diago",
-   "patriciabot",
    "patzerbot135",
    "pawn_git",
    "pawnrobot",
@@ -3766,7 +3768,6 @@
    "pi0w",
    "piebot",
    "piglet_engine",
-   "piratesrust",
    "prokopakop",
    "prosperobot",
    "pseudo-0",
@@ -3774,7 +3775,6 @@
    "puisne",
    "pzchessbot",
    "queensgambot",
-   "racingkingsbot_1",
    "radianceengine",
    "raspfish",
    "ratkingbot",
@@ -3835,6 +3835,8 @@
    "sunfish-engine",
    "sunfish-nnue-engine",
    "sxphia",
+   "sybaibot",
+   "sybbot",
    "sykorabot",
    "takticprochess",
    "talosbot",
@@ -3887,6 +3889,7 @@
    "walpurti",
    "wannalearnbot",
    "weiawaga",
+   "wildorderbot",
    "wolfuhfuhbot",
    "worst-ai",
    "worstfish",
