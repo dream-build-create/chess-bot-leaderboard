@@ -1182,7 +1182,7 @@
   },
   "georgii_ai": {
    "first_seen": "2026-09-28",
-   "last_online": "2026-10-12",
+   "last_online": "2026-10-13",
    "username": "georgii_ai"
   },
   "geotsibot": {
@@ -1942,7 +1942,7 @@
   },
   "matmoi": {
    "first_seen": "2026-09-27",
-   "last_online": "2026-10-11",
+   "last_online": "2026-10-13",
    "username": "matmoi"
   },
   "matrixengine": {
@@ -3277,7 +3277,7 @@
   },
   "vanibot": {
    "first_seen": "2026-09-27",
-   "last_online": "2026-10-12",
+   "last_online": "2026-10-13",
    "username": "vanibot"
   },
   "variantsbot": {
@@ -3372,7 +3372,7 @@
   },
   "weledar-bot": {
    "first_seen": "2026-09-29",
-   "last_online": "2026-09-30",
+   "last_online": "2026-10-13",
    "username": "Weledar-bot"
   },
   "wildorderbot": {
@@ -3462,7 +3462,7 @@
   }
  },
  "online": {
-  "checked_at": "2026-10-13T01:43:11Z",
+  "checked_at": "2026-10-13T02:43:09Z",
   "ids": [
    "aatk_vanguardx",
    "abcd_engine",
@@ -3518,6 +3518,7 @@
    "bubblebot2",
    "byte-knight",
    "c-t-r-l",
+   "c0kval",
    "caiporabot",
    "calciumengine",
    "carmin-bot",
@@ -3542,7 +3543,6 @@
    "classical-leela",
    "claude_bot",
    "cloudia-chess",
-   "cloudnetbot",
    "clrsrc_lc0",
    "coda_bot",
    "codabot",
@@ -3596,8 +3596,8 @@
    "fschess-engine",
    "funcomp",
    "garbobot",
+   "georgii_ai",
    "geotsibot",
-   "ghidorah_x",
    "goldfish-engine",
    "goopis",
    "grail-bot",
@@ -3610,7 +3610,6 @@
    "hodgeybot",
    "holidaybot1225",
    "hummus-bot",
-   "hustler_2mb",
    "hynobiuschess",
    "hyperopic",
    "icarus-bot",
@@ -3665,17 +3664,6 @@
    "mackbot",
    "maia1",
    "maia2200_10n",
-   "maia3-79m_1000",
-   "maia3-79m_1200",
-   "maia3-79m_1400",
-   "maia3-79m_1600",
-   "maia3-79m_1800",
-   "maia3-79m_2000",
-   "maia3-79m_2200",
-   "maia3-79m_2400",
-   "maia3-79m_2600",
-   "maia3-79m_600",
-   "maia3-79m_800",
    "maia5",
    "maia9",
    "maia960-1600",
@@ -3688,7 +3676,9 @@
    "mate-in-thirty",
    "mate-in-twenty",
    "mate1-bot",
+   "matmoi",
    "mayflyengine",
+   "mcdonalds1955",
    "mega-noob-bot",
    "melsh_bot",
    "mimirbot",
@@ -3717,6 +3707,7 @@
    "o-rei-cx",
    "overfitted",
    "oxide-eg",
+   "oxybullet",
    "oxydanbot",
    "pachetron",
    "pangubot",
@@ -3814,7 +3805,6 @@
    "thunfisch-bot",
    "tilapiabot",
    "to299d",
-   "tomabbot",
    "topasbot",
    "torombot",
    "trainer-bot",
@@ -3837,8 +3827,8 @@
    "usunfish-l7",
    "uxugin-bot",
    "uzenatch",
-   "vadbot",
    "valhalla-bot",
+   "vanibot",
    "variantsbot",
    "vic98lg",
    "vicentlittle",
@@ -3848,6 +3838,7 @@
    "voigtsbach",
    "walpurti",
    "weiawaga",
+   "weledar-bot",
    "windmolen_bot",
    "wolfuhfuhbot",
    "worst-ai",
