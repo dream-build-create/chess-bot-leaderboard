@@ -377,7 +377,7 @@
   },
   "borkatower": {
    "first_seen": "2026-09-27",
-   "last_online": "2026-10-12",
+   "last_online": "2026-10-13",
    "username": "BorkaTower"
   },
   "bot-o-tron": {
@@ -2720,6 +2720,11 @@
    "last_online": "2026-10-13",
    "username": "SF_Bot1nok"
   },
+  "shallowredbot": {
+   "first_seen": "2026-10-13",
+   "last_online": "2026-10-13",
+   "username": "ShallowRedBot"
+  },
   "shark-engine": {
    "first_seen": "2026-10-12",
    "last_online": "2026-10-13",
@@ -3462,7 +3467,7 @@
   }
  },
  "online": {
-  "checked_at": "2026-10-13T02:43:09Z",
+  "checked_at": "2026-10-13T03:43:08Z",
   "ids": [
    "aatk_vanguardx",
    "abcd_engine",
@@ -3496,7 +3501,6 @@
    "banerot",
    "bbc_bot",
    "becela9_kpebetka",
-   "beelzebubzero",
    "berkbot",
    "bernstein-2ply",
    "bernstein-4ply",
@@ -3507,6 +3511,7 @@
    "blujay-bot",
    "bongaclang",
    "boris-trapsky",
+   "borkatower",
    "bot1e",
    "bot1nokk",
    "bot5551",
@@ -3521,7 +3526,6 @@
    "c0kval",
    "caiporabot",
    "calciumengine",
-   "carmin-bot",
    "casanchess-nnue",
    "catnail",
    "catriever",
@@ -3707,7 +3711,6 @@
    "o-rei-cx",
    "overfitted",
    "oxide-eg",
-   "oxybullet",
    "oxydanbot",
    "pachetron",
    "pangubot",
@@ -3759,6 +3762,7 @@
    "schnecken_bot",
    "scipio-bot",
    "sf_bot1nok",
+   "shallowredbot",
    "shark-engine",
    "sharpsundae",
    "shrevenbot",
@@ -3779,7 +3783,6 @@
    "steezybot",
    "stepbot_chess",
    "stickshark99",
-   "stockcotsfish",
    "stockdory",
    "stockfail",
    "stockfishlowdepth",
@@ -3805,6 +3808,7 @@
    "thunfisch-bot",
    "tilapiabot",
    "to299d",
+   "tomabbot",
    "topasbot",
    "torombot",
    "trainer-bot",
@@ -3838,8 +3842,6 @@
    "voigtsbach",
    "walpurti",
    "weiawaga",
-   "weledar-bot",
-   "windmolen_bot",
    "wolfuhfuhbot",
    "worst-ai",
    "worstfish",
