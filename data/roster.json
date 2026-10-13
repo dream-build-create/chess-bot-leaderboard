@@ -582,12 +582,12 @@
   },
   "cheng-4": {
    "first_seen": "2026-09-27",
-   "last_online": "2026-10-12",
+   "last_online": "2026-10-13",
    "username": "Cheng-4"
   },
   "cheng-4-nn": {
    "first_seen": "2026-09-27",
-   "last_online": "2026-10-12",
+   "last_online": "2026-10-13",
    "username": "Cheng-4-NN"
   },
   "chengine_rookery": {
@@ -632,7 +632,7 @@
   },
   "chesschildren": {
    "first_seen": "2026-09-27",
-   "last_online": "2026-10-12",
+   "last_online": "2026-10-13",
    "username": "ChessChildren"
   },
   "chessgeniusbot": {
@@ -1322,7 +1322,7 @@
   },
   "honzovy-sachy-2": {
    "first_seen": "2026-09-27",
-   "last_online": "2026-10-12",
+   "last_online": "2026-10-13",
    "username": "honzovy-sachy-2"
   },
   "hummus-bot": {
@@ -2057,7 +2057,7 @@
   },
   "musashi-thebot": {
    "first_seen": "2026-09-28",
-   "last_online": "2026-10-12",
+   "last_online": "2026-10-13",
    "username": "Musashi-thebot"
   },
   "mxnet-gamemaster": {
@@ -3467,7 +3467,7 @@
   }
  },
  "online": {
-  "checked_at": "2026-10-13T03:43:08Z",
+  "checked_at": "2026-10-13T04:43:10Z",
   "ids": [
    "aatk_vanguardx",
    "abcd_engine",
@@ -3511,7 +3511,6 @@
    "blujay-bot",
    "bongaclang",
    "boris-trapsky",
-   "borkatower",
    "bot1e",
    "bot1nokk",
    "bot5551",
@@ -3531,9 +3530,12 @@
    "catriever",
    "chaotong_engine",
    "charibot",
+   "cheng-4",
+   "cheng-4-nn",
    "chess3bot",
    "chess_set_manager",
    "chessblight",
+   "chesschildren",
    "chessiverse_ethan",
    "chessiverse_luc",
    "chessiverse_pawnza",
@@ -3605,14 +3607,13 @@
    "goldfish-engine",
    "goopis",
    "grail-bot",
-   "groshboss",
    "gryndor",
    "hackerchessbot",
    "halcyonbot",
-   "hardrok",
    "hiusbot",
    "hodgeybot",
    "holidaybot1225",
+   "honzovy-sachy-2",
    "hummus-bot",
    "hynobiuschess",
    "hyperopic",
@@ -3693,6 +3694,7 @@
    "morabandbot",
    "mostlyhuman1900",
    "mrtonnerre",
+   "musashi-thebot",
    "mychessjava",
    "nanozeroorg",
    "nebubot",
@@ -3798,7 +3800,6 @@
    "sybaibot",
    "sybbot",
    "sykorabot",
-   "takticprochess",
    "talosbot",
    "teensycheesy",
    "terconari",
@@ -3808,7 +3809,6 @@
    "thunfisch-bot",
    "tilapiabot",
    "to299d",
-   "tomabbot",
    "topasbot",
    "torombot",
    "trainer-bot",
