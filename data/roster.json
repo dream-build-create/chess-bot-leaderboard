@@ -192,7 +192,7 @@
   },
   "ask-aatk-bot": {
    "first_seen": "2026-09-27",
-   "last_online": "2026-10-12",
+   "last_online": "2026-10-13",
    "username": "Ask-AATK-bot"
   },
   "atari-video-chess": {
@@ -1332,7 +1332,7 @@
   },
   "hustler_2mb": {
    "first_seen": "2026-09-27",
-   "last_online": "2026-10-12",
+   "last_online": "2026-10-13",
    "username": "Hustler_2MB"
   },
   "hymybot": {
@@ -1382,7 +1382,7 @@
   },
   "io-bot": {
    "first_seen": "2026-09-28",
-   "last_online": "2026-10-12",
+   "last_online": "2026-10-13",
    "username": "io-bot"
   },
   "iran_f72": {
@@ -1802,57 +1802,57 @@
   },
   "maia3-79m_1000": {
    "first_seen": "2026-09-27",
-   "last_online": "2026-10-12",
+   "last_online": "2026-10-13",
    "username": "maia3-79m_1000"
   },
   "maia3-79m_1200": {
    "first_seen": "2026-09-27",
-   "last_online": "2026-10-12",
+   "last_online": "2026-10-13",
    "username": "maia3-79m_1200"
   },
   "maia3-79m_1400": {
    "first_seen": "2026-09-27",
-   "last_online": "2026-10-12",
+   "last_online": "2026-10-13",
    "username": "maia3-79m_1400"
   },
   "maia3-79m_1600": {
    "first_seen": "2026-09-27",
-   "last_online": "2026-10-12",
+   "last_online": "2026-10-13",
    "username": "maia3-79m_1600"
   },
   "maia3-79m_1800": {
    "first_seen": "2026-09-27",
-   "last_online": "2026-10-12",
+   "last_online": "2026-10-13",
    "username": "maia3-79m_1800"
   },
   "maia3-79m_2000": {
    "first_seen": "2026-09-27",
-   "last_online": "2026-10-12",
+   "last_online": "2026-10-13",
    "username": "maia3-79m_2000"
   },
   "maia3-79m_2200": {
    "first_seen": "2026-09-27",
-   "last_online": "2026-10-12",
+   "last_online": "2026-10-13",
    "username": "maia3-79m_2200"
   },
   "maia3-79m_2400": {
    "first_seen": "2026-09-27",
-   "last_online": "2026-10-12",
+   "last_online": "2026-10-13",
    "username": "maia3-79m_2400"
   },
   "maia3-79m_2600": {
    "first_seen": "2026-09-27",
-   "last_online": "2026-10-12",
+   "last_online": "2026-10-13",
    "username": "maia3-79m_2600"
   },
   "maia3-79m_600": {
    "first_seen": "2026-09-27",
-   "last_online": "2026-10-12",
+   "last_online": "2026-10-13",
    "username": "maia3-79m_600"
   },
   "maia3-79m_800": {
    "first_seen": "2026-09-27",
-   "last_online": "2026-10-12",
+   "last_online": "2026-10-13",
    "username": "maia3-79m_800"
   },
   "maia5": {
@@ -2052,7 +2052,7 @@
   },
   "mrtonnerre": {
    "first_seen": "2026-09-27",
-   "last_online": "2026-10-12",
+   "last_online": "2026-10-13",
    "username": "MrTonnerre"
   },
   "musashi-thebot": {
@@ -2272,7 +2272,7 @@
   },
   "papemaru_c_chess": {
    "first_seen": "2026-10-03",
-   "last_online": "2026-10-12",
+   "last_online": "2026-10-13",
    "username": "Papemaru_C_Chess"
   },
   "partner3615diago": {
@@ -2947,7 +2947,7 @@
   },
   "studyloversz-bot": {
    "first_seen": "2026-09-27",
-   "last_online": "2026-10-12",
+   "last_online": "2026-10-13",
    "username": "Studyloversz-bot"
   },
   "stupidchessrobot": {
@@ -3462,7 +3462,7 @@
   }
  },
  "online": {
-  "checked_at": "2026-10-13T01:03:38Z",
+  "checked_at": "2026-10-13T01:43:11Z",
   "ids": [
    "aatk_vanguardx",
    "abcd_engine",
@@ -3489,6 +3489,7 @@
    "arkiplayschess",
    "artidigm_research",
    "ashnostromo",
+   "ask-aatk-bot",
    "atari-video-chess",
    "axiom_bot",
    "baby_eubos",
@@ -3517,7 +3518,6 @@
    "bubblebot2",
    "byte-knight",
    "c-t-r-l",
-   "c0kval",
    "caiporabot",
    "calciumengine",
    "carmin-bot",
@@ -3595,7 +3595,6 @@
    "flybrainchess",
    "fschess-engine",
    "funcomp",
-   "gambitonlybot",
    "garbobot",
    "geotsibot",
    "ghidorah_x",
@@ -3611,6 +3610,7 @@
    "hodgeybot",
    "holidaybot1225",
    "hummus-bot",
+   "hustler_2mb",
    "hynobiuschess",
    "hyperopic",
    "icarus-bot",
@@ -3618,6 +3618,7 @@
    "ilovecatgirl",
    "inanisbot",
    "incipit_bot",
+   "io-bot",
    "is_boss",
    "iskelt-corax",
    "jacobsbot",
@@ -3664,6 +3665,17 @@
    "mackbot",
    "maia1",
    "maia2200_10n",
+   "maia3-79m_1000",
+   "maia3-79m_1200",
+   "maia3-79m_1400",
+   "maia3-79m_1600",
+   "maia3-79m_1800",
+   "maia3-79m_2000",
+   "maia3-79m_2200",
+   "maia3-79m_2400",
+   "maia3-79m_2600",
+   "maia3-79m_600",
+   "maia3-79m_800",
    "maia5",
    "maia9",
    "maia960-1600",
@@ -3677,7 +3689,6 @@
    "mate-in-twenty",
    "mate1-bot",
    "mayflyengine",
-   "mcdonalds1955",
    "mega-noob-bot",
    "melsh_bot",
    "mimirbot",
@@ -3687,6 +3698,7 @@
    "mochi_bot",
    "morabandbot",
    "mostlyhuman1900",
+   "mrtonnerre",
    "mychessjava",
    "nanozeroorg",
    "nebubot",
@@ -3709,6 +3721,7 @@
    "pachetron",
    "pangubot",
    "panic-fish",
+   "papemaru_c_chess",
    "partner3615diago",
    "patzerbot135",
    "pawn_git",
@@ -3781,6 +3794,7 @@
    "stockfishlowdepth",
    "stockpapagei",
    "streamervschat",
+   "studyloversz-bot",
    "stupidchessrobot",
    "stupidfishbotbydscs",
    "subnorbot",
