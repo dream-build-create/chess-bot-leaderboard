@@ -1122,7 +1122,7 @@
   },
   "fighting2543": {
    "first_seen": "2026-09-30",
-   "last_online": "2026-10-12",
+   "last_online": "2026-10-13",
    "username": "Fighting2543"
   },
   "flompiebot": {
@@ -1567,7 +1567,7 @@
   },
   "kowalabi": {
    "first_seen": "2026-09-28",
-   "last_online": "2026-10-12",
+   "last_online": "2026-10-13",
    "username": "kowalabi"
   },
   "kulubot": {
@@ -2470,6 +2470,11 @@
    "last_online": "2026-10-12",
    "username": "rachl1"
   },
+  "racingkingsbot_1": {
+   "first_seen": "2026-10-13",
+   "last_online": "2026-10-13",
+   "username": "RacingKingsBot_1"
+  },
   "radianceengine": {
    "first_seen": "2026-09-27",
    "last_online": "2026-10-13",
@@ -3217,7 +3222,7 @@
   },
   "uiagbot": {
    "first_seen": "2026-10-10",
-   "last_online": "2026-10-12",
+   "last_online": "2026-10-13",
    "username": "uiagBot"
   },
   "ultrabrick": {
@@ -3477,7 +3482,7 @@
   }
  },
  "online": {
-  "checked_at": "2026-10-13T10:43:10Z",
+  "checked_at": "2026-10-13T11:43:09Z",
   "ids": [
    "aaronsengine",
    "aatk_vanguardx",
@@ -3493,7 +3498,6 @@
    "alarm2001",
    "aliceshiro",
    "alliethechessbot",
-   "alphanolla",
    "angela_eng",
    "anna-bot",
    "annie_archy",
@@ -3512,7 +3516,6 @@
    "baby_eubos",
    "banerot",
    "bbc_bot",
-   "becela9_kpebetka",
    "berkbot",
    "bernstein-2ply",
    "bernstein-4ply",
@@ -3608,17 +3611,16 @@
    "fathzer-jchess",
    "felipe_bot_53",
    "fenrirbot",
+   "fighting2543",
    "flounderbot",
    "flybrainchess",
    "fschess-engine",
    "funcomp",
    "garbobot",
-   "georgii_ai",
    "geotsibot",
    "goldfish-engine",
    "goopis",
    "grail-bot",
-   "groshboss",
    "gryndor",
    "hackerchessbot",
    "halcyonbot",
@@ -3634,6 +3636,7 @@
    "ilovecatgirl",
    "inanisbot",
    "incipit_bot",
+   "io-bot",
    "is_boss",
    "iskelt-corax",
    "jacobsbot",
@@ -3645,6 +3648,7 @@
    "jinko-chan",
    "joan_clone",
    "joey_chessengine",
+   "jongsungkim",
    "joshsbot",
    "jpg-bot",
    "jurdbird",
@@ -3654,6 +3658,8 @@
    "kingzbot",
    "kirinchessbot",
    "kopyto_dev",
+   "kowalabi",
+   "kulubot",
    "lamprook",
    "larryz-alterego",
    "latrunculi-bot",
@@ -3764,6 +3770,7 @@
    "puisne",
    "pzchessbot",
    "queensgambot",
+   "racingkingsbot_1",
    "radianceengine",
    "raspfish",
    "ratkingbot",
@@ -3827,7 +3834,6 @@
    "sybaibot",
    "sybbot",
    "sykorabot",
-   "takticprochess",
    "talosbot",
    "teensycheesy",
    "terconari",
@@ -3847,6 +3853,7 @@
    "turochamp-1ply",
    "turochamp-2ply",
    "turox-bot",
+   "uiagbot",
    "ultrabrick",
    "unimark",
    "ursus_bot",
