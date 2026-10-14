@@ -2,7 +2,7 @@
  "bots": {
   "aaronsengine": {
    "first_seen": "2026-09-27",
-   "last_online": "2026-10-13",
+   "last_online": "2026-10-14",
    "username": "AaronsEngine"
   },
   "aatk_vanguardx": {
@@ -567,7 +567,7 @@
   },
   "chaotong_engine": {
    "first_seen": "2026-09-28",
-   "last_online": "2026-10-13",
+   "last_online": "2026-10-14",
    "username": "Chaotong_engine"
   },
   "charibot": {
@@ -1117,7 +1117,7 @@
   },
   "fbot_st": {
    "first_seen": "2026-10-11",
-   "last_online": "2026-10-13",
+   "last_online": "2026-10-14",
    "username": "Fbot_st"
   },
   "felipe_bot_53": {
@@ -1597,7 +1597,7 @@
   },
   "la5v2": {
    "first_seen": "2026-10-08",
-   "last_online": "2026-10-08",
+   "last_online": "2026-10-14",
    "username": "LA5V2"
   },
   "lamprook": {
@@ -2480,6 +2480,11 @@
    "last_online": "2026-10-13",
    "username": "QiOui"
   },
+  "quanticade": {
+   "first_seen": "2026-10-14",
+   "last_online": "2026-10-14",
+   "username": "Quanticade"
+  },
   "queensgambot": {
    "first_seen": "2026-09-27",
    "last_online": "2026-10-14",
@@ -3075,6 +3080,11 @@
    "last_online": "2026-10-14",
    "username": "TalosBot"
   },
+  "taubertdietaubejs": {
+   "first_seen": "2026-10-14",
+   "last_online": "2026-10-14",
+   "username": "TaubertdieTaubeJS"
+  },
   "tchessbot": {
    "first_seen": "2026-09-28",
    "last_online": "2026-09-29",
@@ -3497,7 +3507,7 @@
   },
   "zeno-bot": {
    "first_seen": "2026-09-27",
-   "last_online": "2026-10-11",
+   "last_online": "2026-10-14",
    "username": "zeno-bot"
   },
   "zero3-now": {
@@ -3517,8 +3527,9 @@
   }
  },
  "online": {
-  "checked_at": "2026-10-14T08:43:09Z",
+  "checked_at": "2026-10-14T09:43:10Z",
   "ids": [
+   "aaronsengine",
    "abcd_engine",
    "abdcebot",
    "aconcaguabot",
@@ -3550,7 +3561,6 @@
    "banerot",
    "batyarapro",
    "bbc_bot",
-   "becela9_kpebetka",
    "bernstein-2ply",
    "bernstein-4ply",
    "bfiedler-bot",
@@ -3577,6 +3587,7 @@
    "casanchess-nnue",
    "catnail",
    "catriever",
+   "chaotong_engine",
    "charibot",
    "chess3bot",
    "chess_set_manager",
@@ -3640,6 +3651,7 @@
    "fataliibot",
    "fathzer-jchess",
    "fayefish",
+   "fbot_st",
    "felipe_bot_53",
    "fenrirbot",
    "flounderbot",
@@ -3652,11 +3664,9 @@
    "gnu4u",
    "goldfish-engine",
    "goopis",
-   "gpt579419",
    "grail-bot",
    "groshboss",
    "gryndor",
-   "grzechu86",
    "hackerchessbot",
    "halcyonbot",
    "hiusbot",
@@ -3690,6 +3700,7 @@
    "kirinchessbot",
    "kopyto_dev",
    "kulubot",
+   "la5v2",
    "lamprook",
    "larryz-alterego",
    "latrunculi-bot",
@@ -3742,6 +3753,7 @@
    "mate1-bot",
    "matmoi",
    "mayflyengine",
+   "mboobot",
    "mcdonalds1955",
    "mega-noob-bot",
    "melsh_bot",
@@ -3758,10 +3770,7 @@
    "mychessjava",
    "nanozeroorg",
    "nebubot",
-   "neryba",
    "neurosocute",
-   "newchessengine-ai",
-   "newtsbot",
    "nexastrat",
    "nexosdefos",
    "nice_bot",
@@ -3794,8 +3803,8 @@
    "prokopakop",
    "puisne",
    "pzchessbot",
+   "quanticade",
    "queensgambot",
-   "racingkingsbot_1",
    "radianceengine",
    "raspfish",
    "ratkingbot",
@@ -3855,6 +3864,7 @@
    "sykorabot",
    "takticprochess",
    "talosbot",
+   "taubertdietaubejs",
    "teensycheesy",
    "terconari",
    "thechessblazer",
@@ -3865,6 +3875,7 @@
    "tilapiabot",
    "to299d",
    "togaii",
+   "tomabbot",
    "topasbot",
    "trainer-bot",
    "trenerhetman",
@@ -3894,7 +3905,6 @@
    "vicentlittle",
    "vidbot",
    "vietnamesecoffee",
-   "void_bot",
    "waldemar-the-elf",
    "walpurti",
    "weiawaga",
@@ -3904,6 +3914,7 @@
    "xewali",
    "z-o_aspenlabs",
    "zagreus_engine",
+   "zeno-bot",
    "zion-bot"
   ]
  },
