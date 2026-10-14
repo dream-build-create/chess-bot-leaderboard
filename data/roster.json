@@ -1022,7 +1022,7 @@
   },
   "elephantgambitengine": {
    "first_seen": "2026-10-07",
-   "last_online": "2026-10-12",
+   "last_online": "2026-10-14",
    "username": "elephantgambitengine"
   },
   "elexunix_chess_bot": {
@@ -1192,7 +1192,7 @@
   },
   "georgii_ai": {
    "first_seen": "2026-09-28",
-   "last_online": "2026-10-13",
+   "last_online": "2026-10-14",
    "username": "georgii_ai"
   },
   "geotsibot": {
@@ -2657,7 +2657,7 @@
   },
   "rustyrival": {
    "first_seen": "2026-09-27",
-   "last_online": "2026-10-13",
+   "last_online": "2026-10-14",
    "username": "RustyRival"
   },
   "ryu-ishigori": {
@@ -3497,9 +3497,8 @@
   }
  },
  "online": {
-  "checked_at": "2026-10-14T01:43:08Z",
+  "checked_at": "2026-10-14T02:43:10Z",
   "ids": [
-   "aatk_vanguardx",
    "abcd_engine",
    "abdcebot",
    "aconcaguabot",
@@ -3525,7 +3524,6 @@
    "arkiplayschess",
    "artidigm_research",
    "ashnostromo",
-   "ask-aatk-bot",
    "atari-video-chess",
    "axiom_bot",
    "baby_eubos",
@@ -3552,14 +3550,11 @@
    "bubblebot2",
    "byte-knight",
    "c-t-r-l",
-   "c0kval",
    "caiporabot",
-   "calciumengine",
    "casanchess-nnue",
    "catnail",
    "catriever",
    "charibot",
-   "chess_set_manager",
    "chessblight",
    "chessiverse_ethan",
    "chessiverse_luc",
@@ -3606,9 +3601,9 @@
    "drewschessmachine",
    "duchessai",
    "dumbotai",
-   "edwardkillick",
    "eigenmann-chess",
    "elachessbot",
+   "elephantgambitengine",
    "elexunix_chess_bot",
    "ellen_replay",
    "elmichess",
@@ -3626,6 +3621,7 @@
    "fschess-engine",
    "funcomp",
    "garbobot",
+   "georgii_ai",
    "geotsibot",
    "ghidorah_x",
    "gnu4u",
@@ -3708,6 +3704,7 @@
    "maia3-79m_600",
    "maia3-79m_800",
    "maia5",
+   "maia9",
    "maia960-1600",
    "maia960-1900",
    "maia9_10n",
@@ -3787,6 +3784,7 @@
    "romanticbot2",
    "rudim-bot",
    "rust-in-pieces",
+   "rustyrival",
    "ryu-ishigori",
    "sargon-1ply",
    "sargon-2ply",
@@ -3822,7 +3820,6 @@
    "stockfishlowdepth",
    "stockpapagei",
    "streamervschat",
-   "studyloversz-bot",
    "stupidchessrobot",
    "stupidfishbotbydscs",
    "sunfish-engine",
@@ -3856,7 +3853,6 @@
    "turochamp-1ply",
    "turochamp-2ply",
    "turox-bot",
-   "uiagbot",
    "ultrabrick",
    "unimark",
    "ursus_bot",
