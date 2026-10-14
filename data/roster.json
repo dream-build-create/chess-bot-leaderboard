@@ -2032,7 +2032,7 @@
   },
   "miss_snowiee": {
    "first_seen": "2026-10-02",
-   "last_online": "2026-10-13",
+   "last_online": "2026-10-14",
    "username": "Miss_snowiee"
   },
   "mithandros": {
@@ -2072,7 +2072,7 @@
   },
   "musashi-thebot": {
    "first_seen": "2026-09-28",
-   "last_online": "2026-10-13",
+   "last_online": "2026-10-14",
    "username": "Musashi-thebot"
   },
   "mxnet-gamemaster": {
@@ -2734,6 +2734,11 @@
    "first_seen": "2026-10-11",
    "last_online": "2026-10-13",
    "username": "SebVaderBot"
+  },
+  "seedchess": {
+   "first_seen": "2026-10-14",
+   "last_online": "2026-10-14",
+   "username": "SeedChess"
   },
   "seitogakatsu": {
    "first_seen": "2026-09-27",
@@ -3502,7 +3507,7 @@
   }
  },
  "online": {
-  "checked_at": "2026-10-14T03:43:10Z",
+  "checked_at": "2026-10-14T04:43:08Z",
   "ids": [
    "abcd_engine",
    "abdcebot",
@@ -3557,11 +3562,13 @@
    "bubblebot2",
    "byte-knight",
    "c-t-r-l",
+   "c0kval",
    "caiporabot",
    "casanchess-nnue",
    "catnail",
    "catriever",
    "charibot",
+   "chess_set_manager",
    "chessblight",
    "chessiverse_ethan",
    "chessiverse_luc",
@@ -3638,11 +3645,9 @@
    "gryndor",
    "hackerchessbot",
    "halcyonbot",
-   "hardrok",
    "hiusbot",
    "hodgeybot",
    "holidaybot1225",
-   "hummus-bot",
    "hynobiuschess",
    "hyperopic",
    "icarus-bot",
@@ -3653,7 +3658,6 @@
    "is_boss",
    "iskelt-corax",
    "jacobsbot",
-   "jaingalt-bot",
    "jangine",
    "jenniferx",
    "jesterchessrobot",
@@ -3729,11 +3733,13 @@
    "mimirbot",
    "minibotapi",
    "minibruteforcebot",
+   "miss_snowiee",
    "mithandros",
    "mochi_bot",
    "morabandbot",
    "mostlyhuman1900",
    "mrtonnerre",
+   "musashi-thebot",
    "mychessjava",
    "nanozeroorg",
    "nebubot",
@@ -3800,6 +3806,7 @@
    "scalaqueen",
    "schnecken_bot",
    "scipio-bot",
+   "seedchess",
    "seitogakatsu",
    "sf_bot1nok",
    "shallowredbot",
