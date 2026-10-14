@@ -537,7 +537,7 @@
   },
   "carmin-bot": {
    "first_seen": "2026-10-06",
-   "last_online": "2026-10-13",
+   "last_online": "2026-10-14",
    "username": "Carmin-BOT"
   },
   "casanchess-nnue": {
@@ -707,7 +707,7 @@
   },
   "chrusty": {
    "first_seen": "2026-09-28",
-   "last_online": "2026-10-13",
+   "last_online": "2026-10-14",
    "username": "chrusty"
   },
   "cinder-bot": {
@@ -792,7 +792,7 @@
   },
   "consolechessfastbot": {
    "first_seen": "2026-09-28",
-   "last_online": "2026-10-11",
+   "last_online": "2026-10-14",
    "username": "ConsoleChessFastBot"
   },
   "cookiebot711": {
@@ -2402,7 +2402,7 @@
   },
   "piratesrust": {
    "first_seen": "2026-10-01",
-   "last_online": "2026-10-13",
+   "last_online": "2026-10-14",
    "username": "PiratesRust"
   },
   "platinumbot": {
@@ -2627,7 +2627,7 @@
   },
   "rodent-iv": {
    "first_seen": "2026-10-05",
-   "last_online": "2026-10-13",
+   "last_online": "2026-10-14",
    "username": "Rodent-IV"
   },
   "rodent-v": {
@@ -3447,7 +3447,7 @@
   },
   "wildorderbot": {
    "first_seen": "2026-09-28",
-   "last_online": "2026-10-13",
+   "last_online": "2026-10-14",
    "username": "WildorderBot"
   },
   "windmolen_bot": {
@@ -3532,7 +3532,7 @@
   }
  },
  "online": {
-  "checked_at": "2026-10-14T16:43:11Z",
+  "checked_at": "2026-10-14T17:43:10Z",
   "ids": [
    "aaronsengine",
    "aatk_vanguardx",
@@ -3557,6 +3557,7 @@
    "arabicahce",
    "arasanx",
    "ariadne-bot",
+   "ariav8",
    "arkiplayschess",
    "artidigm_research",
    "ashnostromo",
@@ -3565,6 +3566,7 @@
    "axiom_bot",
    "baby_eubos",
    "banerot",
+   "batyarapro",
    "bbc_bot",
    "becela9_kpebetka",
    "bernstein-2ply",
@@ -3583,7 +3585,6 @@
    "bot5551",
    "bot64jaques",
    "bot_adario",
-   "botkingteam33",
    "bottios",
    "bretemabot",
    "brybrybot",
@@ -3592,9 +3593,12 @@
    "c-t-r-l",
    "c0kval",
    "caiporabot",
+   "caissa-x",
+   "carmin-bot",
    "casanchess-nnue",
    "catnail",
    "catriever",
+   "ceraf",
    "chaotong_engine",
    "charibot",
    "chess3bot",
@@ -3603,10 +3607,10 @@
    "chessiverse_luc",
    "chessiverse_pawnza",
    "chessiverse_raak",
-   "chesstransformerbot",
    "cheszter",
    "chill4ce",
    "chronicgambler",
+   "chrusty",
    "cinder-bot",
    "classic_bot-v2",
    "claude_bot",
@@ -3616,6 +3620,7 @@
    "coda_bot",
    "colinbot",
    "confidencebuilder",
+   "consolechessfastbot",
    "cookiebot711",
    "coolperson_bot1",
    "cosettebot",
@@ -3706,7 +3711,6 @@
    "kingzbot",
    "kirinchessbot",
    "kopyto_dev",
-   "kowalabi",
    "kulubot",
    "lamprook",
    "larryz-alterego",
@@ -3773,7 +3777,6 @@
    "nebubot",
    "neurosocute",
    "newchessengine-ai",
-   "newtsbot",
    "nexastrat",
    "nexosdefos",
    "nice_bot",
@@ -3803,6 +3806,7 @@
    "pi0w",
    "piebot",
    "piglet_engine",
+   "piratesrust",
    "prokopakop",
    "puisne",
    "pzchessbot",
@@ -3820,6 +3824,7 @@
    "resolutebot",
    "ribfish-bot",
    "robotjfischer",
+   "rodent-iv",
    "romanticbot",
    "romanticbot2",
    "rudim-bot",
@@ -3834,7 +3839,6 @@
    "scalaqueen",
    "schnecken_bot",
    "scipio-bot",
-   "sebvaderbot",
    "seedchess",
    "seitogakatsu",
    "sf_bot1nok",
@@ -3842,7 +3846,6 @@
    "shrevenbot",
    "silasly",
    "sim3million",
-   "simple-bot",
    "simpleeval",
    "sj_norbot",
    "sleepmindengine",
@@ -3871,6 +3874,7 @@
    "takticprochess",
    "talosbot",
    "teensycheesy",
+   "tempocore",
    "terconari",
    "thechessblazer",
    "thegrobbot",
@@ -3916,6 +3920,7 @@
    "waldemar-the-elf",
    "walpurti",
    "weiawaga",
+   "wildorderbot",
    "wolfuhfuhbot",
    "worst-ai",
    "worstfish",
