@@ -7,7 +7,7 @@
   },
   "aatk_vanguardx": {
    "first_seen": "2026-09-27",
-   "last_online": "2026-10-13",
+   "last_online": "2026-10-14",
    "username": "AATK_VanguardX"
   },
   "abcd_engine": {
@@ -197,7 +197,7 @@
   },
   "ask-aatk-bot": {
    "first_seen": "2026-09-27",
-   "last_online": "2026-10-13",
+   "last_online": "2026-10-14",
    "username": "Ask-AATK-bot"
   },
   "atari-video-chess": {
@@ -2262,7 +2262,7 @@
   },
   "oxybullet": {
    "first_seen": "2026-09-29",
-   "last_online": "2026-10-13",
+   "last_online": "2026-10-14",
    "username": "Oxybullet"
   },
   "oxydanbot": {
@@ -2487,7 +2487,7 @@
   },
   "racingkingsbot_1": {
    "first_seen": "2026-10-13",
-   "last_online": "2026-10-13",
+   "last_online": "2026-10-14",
    "username": "RacingKingsBot_1"
   },
   "radianceengine": {
@@ -2782,7 +2782,7 @@
   },
   "simple-bot": {
    "first_seen": "2026-09-27",
-   "last_online": "2026-10-13",
+   "last_online": "2026-10-14",
    "username": "simple-bot"
   },
   "simplechessnnue": {
@@ -2977,7 +2977,7 @@
   },
   "studyloversz-bot": {
    "first_seen": "2026-09-27",
-   "last_online": "2026-10-13",
+   "last_online": "2026-10-14",
    "username": "Studyloversz-bot"
   },
   "stupidchessrobot": {
@@ -3497,8 +3497,9 @@
   }
  },
  "online": {
-  "checked_at": "2026-10-14T00:43:09Z",
+  "checked_at": "2026-10-14T01:14:34Z",
   "ids": [
+   "aatk_vanguardx",
    "abcd_engine",
    "abdcebot",
    "aconcaguabot",
@@ -3524,6 +3525,7 @@
    "arkiplayschess",
    "artidigm_research",
    "ashnostromo",
+   "ask-aatk-bot",
    "atari-video-chess",
    "axiom_bot",
    "baby_eubos",
@@ -3624,7 +3626,6 @@
    "flybrainchess",
    "fschess-engine",
    "funcomp",
-   "gambitonlybot",
    "garbobot",
    "geotsibot",
    "gnu4u",
@@ -3750,6 +3751,7 @@
    "o-rei-cx",
    "overfitted",
    "oxide-eg",
+   "oxybullet",
    "oxydanbot",
    "pangubot",
    "panic-fish",
@@ -3771,6 +3773,7 @@
    "puisne",
    "pzchessbot",
    "queensgambot",
+   "racingkingsbot_1",
    "radianceengine",
    "raspfish",
    "ratkingbot",
@@ -3803,6 +3806,7 @@
    "silasly",
    "sim3million",
    "simbelmyne-bot",
+   "simple-bot",
    "simpleeval",
    "sj_norbot",
    "sleepmindengine",
@@ -3821,6 +3825,7 @@
    "stockfishlowdepth",
    "stockpapagei",
    "streamervschat",
+   "studyloversz-bot",
    "stupidchessrobot",
    "stupidfishbotbydscs",
    "sunfish-engine",
