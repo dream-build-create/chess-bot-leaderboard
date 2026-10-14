@@ -557,7 +557,7 @@
   },
   "ceraf": {
    "first_seen": "2026-10-01",
-   "last_online": "2026-10-10",
+   "last_online": "2026-10-14",
    "username": "CERAF"
   },
   "chamberiajedrez": {
@@ -837,7 +837,7 @@
   },
   "cruelken": {
    "first_seen": "2026-10-01",
-   "last_online": "2026-10-12",
+   "last_online": "2026-10-14",
    "username": "CruelKen"
   },
   "cutebot": {
@@ -3507,7 +3507,7 @@
   }
  },
  "online": {
-  "checked_at": "2026-10-14T04:43:08Z",
+  "checked_at": "2026-10-14T05:43:08Z",
   "ids": [
    "abcd_engine",
    "abdcebot",
@@ -3567,6 +3567,7 @@
    "casanchess-nnue",
    "catnail",
    "catriever",
+   "ceraf",
    "charibot",
    "chess_set_manager",
    "chessblight",
@@ -3592,6 +3593,7 @@
    "croco_bot",
    "croco_little_bot",
    "crocodile_bot",
+   "cruelken",
    "dala-1100",
    "dala-1300",
    "dala-1600",
@@ -3648,13 +3650,13 @@
    "hiusbot",
    "hodgeybot",
    "holidaybot1225",
+   "hummus-bot",
    "hynobiuschess",
    "hyperopic",
    "icarus-bot",
    "ilovecatgirl",
    "inanisbot",
    "incipit_bot",
-   "io-bot",
    "is_boss",
    "iskelt-corax",
    "jacobsbot",
@@ -3665,7 +3667,6 @@
    "joan_clone",
    "joey_chessengine",
    "jomfishh",
-   "jongsungkim",
    "joshsbot",
    "jpg-bot",
    "jurdbird",
@@ -3781,6 +3782,7 @@
    "puisne",
    "pzchessbot",
    "queensgambot",
+   "racingkingsbot_1",
    "radianceengine",
    "raspfish",
    "ratkingbot",
@@ -3820,7 +3822,6 @@
    "sleepmindengine",
    "slowmate_bot",
    "solobot",
-   "solsticeengine",
    "southbot",
    "squarefish-900",
    "sseh-c",
@@ -3838,6 +3839,8 @@
    "sunfish-engine",
    "sunfish-nnue-engine",
    "sxphia",
+   "sybaibot",
+   "sybbot",
    "sykorabot",
    "takticprochess",
    "talosbot",
