@@ -272,7 +272,7 @@
   },
   "batyarapro": {
    "first_seen": "2026-09-27",
-   "last_online": "2026-10-09",
+   "last_online": "2026-10-14",
    "username": "BatyaraPro"
   },
   "bbc_bot": {
@@ -617,7 +617,7 @@
   },
   "chess3bot": {
    "first_seen": "2026-09-27",
-   "last_online": "2026-10-13",
+   "last_online": "2026-10-14",
    "username": "Chess3Bot"
   },
   "chess_set_manager": {
@@ -1247,7 +1247,7 @@
   },
   "gpt579419": {
    "first_seen": "2026-10-10",
-   "last_online": "2026-10-11",
+   "last_online": "2026-10-14",
    "username": "gpt579419"
   },
   "grail-bot": {
@@ -1272,7 +1272,7 @@
   },
   "grzechu86": {
    "first_seen": "2026-09-29",
-   "last_online": "2026-10-13",
+   "last_online": "2026-10-14",
    "username": "Grzechu86"
   },
   "guitarfish-engine": {
@@ -3517,7 +3517,7 @@
   }
  },
  "online": {
-  "checked_at": "2026-10-14T07:43:10Z",
+  "checked_at": "2026-10-14T08:43:09Z",
   "ids": [
    "abcd_engine",
    "abdcebot",
@@ -3536,7 +3536,6 @@
    "anna-bot",
    "annie_archy",
    "anti-bot",
-   "antibotv3-7",
    "aposeij",
    "approximationbot",
    "arabicahce",
@@ -3549,6 +3548,7 @@
    "axiom_bot",
    "baby_eubos",
    "banerot",
+   "batyarapro",
    "bbc_bot",
    "becela9_kpebetka",
    "bernstein-2ply",
@@ -3577,8 +3577,8 @@
    "casanchess-nnue",
    "catnail",
    "catriever",
-   "ceraf",
    "charibot",
+   "chess3bot",
    "chess_set_manager",
    "chessblight",
    "chessiverse_ethan",
@@ -3598,14 +3598,12 @@
    "coda_bot",
    "colinbot",
    "confidencebuilder",
-   "consolechessdev",
    "cookiebot711",
    "coolperson_bot1",
    "cosettebot",
    "croco_bot",
    "croco_little_bot",
    "crocodile_bot",
-   "cruelken",
    "dala-1100",
    "dala-1300",
    "dala-1600",
@@ -3654,9 +3652,11 @@
    "gnu4u",
    "goldfish-engine",
    "goopis",
+   "gpt579419",
    "grail-bot",
    "groshboss",
    "gryndor",
+   "grzechu86",
    "hackerchessbot",
    "halcyonbot",
    "hiusbot",
@@ -3742,7 +3742,6 @@
    "mate1-bot",
    "matmoi",
    "mayflyengine",
-   "mboobot",
    "mcdonalds1955",
    "mega-noob-bot",
    "melsh_bot",
@@ -3751,7 +3750,6 @@
    "minibruteforcebot",
    "miss_snowiee",
    "mithandros",
-   "mochi_bot",
    "morabandbot",
    "mostlyhuman1900",
    "mrtonnerre",
@@ -3759,6 +3757,7 @@
    "mxnet-gamemaster",
    "mychessjava",
    "nanozeroorg",
+   "nebubot",
    "neryba",
    "neurosocute",
    "newchessengine-ai",
@@ -3776,7 +3775,6 @@
    "o-rei-cx",
    "overfitted",
    "oxide-eg",
-   "oxybullet",
    "oxydanbot",
    "pangubot",
    "panic-fish",
@@ -3897,7 +3895,6 @@
    "vidbot",
    "vietnamesecoffee",
    "void_bot",
-   "vortex_bot",
    "waldemar-the-elf",
    "walpurti",
    "weiawaga",
