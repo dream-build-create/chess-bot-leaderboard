@@ -687,7 +687,7 @@
   },
   "chesstransformerbot": {
    "first_seen": "2026-10-08",
-   "last_online": "2026-10-13",
+   "last_online": "2026-10-14",
    "username": "ChessTransformerBot"
   },
   "cheszter": {
@@ -3365,6 +3365,11 @@
    "last_online": "2026-10-13",
    "username": "Voigtsbach"
   },
+  "vortex_bot": {
+   "first_seen": "2026-10-14",
+   "last_online": "2026-10-14",
+   "username": "Vortex_Bot"
+  },
   "vortexaurafarm": {
    "first_seen": "2026-10-08",
    "last_online": "2026-10-11",
@@ -3507,7 +3512,7 @@
   }
  },
  "online": {
-  "checked_at": "2026-10-14T05:43:08Z",
+  "checked_at": "2026-10-14T06:43:09Z",
   "ids": [
    "abcd_engine",
    "abdcebot",
@@ -3567,7 +3572,6 @@
    "casanchess-nnue",
    "catnail",
    "catriever",
-   "ceraf",
    "charibot",
    "chess_set_manager",
    "chessblight",
@@ -3576,6 +3580,7 @@
    "chessiverse_pawnza",
    "chessiverse_raak",
    "chesstango_bot",
+   "chesstransformerbot",
    "cheszter",
    "chill4ce",
    "chronicgambler",
@@ -3667,6 +3672,7 @@
    "joan_clone",
    "joey_chessengine",
    "jomfishh",
+   "jongsungkim",
    "joshsbot",
    "jpg-bot",
    "jurdbird",
@@ -3784,7 +3790,6 @@
    "queensgambot",
    "racingkingsbot_1",
    "radianceengine",
-   "raspfish",
    "ratkingbot",
    "ratsu-bot",
    "ravager_bot",
@@ -3831,7 +3836,6 @@
    "stockcotsfish",
    "stockdory",
    "stockfail",
-   "stockfishlowdepth",
    "stockpapagei",
    "streamervschat",
    "stupidchessrobot",
@@ -3854,9 +3858,7 @@
    "tilapiabot",
    "to299d",
    "togaii",
-   "tomabbot",
    "topasbot",
-   "torombot",
    "trainer-bot",
    "trenerhetman",
    "trinculobot",
@@ -3885,6 +3887,7 @@
    "vidbot",
    "vietnamesecoffee",
    "void_bot",
+   "vortex_bot",
    "waldemar-the-elf",
    "walpurti",
    "weiawaga",
