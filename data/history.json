@@ -1,3674 +1,6 @@
 {
  "schema_version": 1,
  "snapshots": {
-  "2026-10-06": {
-   "aaronsengine": {
-    "blitz": 3485,
-    "bullet": 1972,
-    "classical": 1177,
-    "rapid": 1447
-   },
-   "aatk_vanguardx": {
-    "blitz": 855,
-    "bullet": 526,
-    "classical": 39,
-    "rapid": 171
-   },
-   "abcd_engine": {
-    "blitz": 5235,
-    "bullet": 5008,
-    "classical": 473,
-    "rapid": 2142
-   },
-   "abdcebot": {
-    "blitz": 5496,
-    "bullet": 6370,
-    "classical": 0,
-    "rapid": 2214
-   },
-   "aconcaguabot": {
-    "blitz": 8519,
-    "bullet": 6103,
-    "classical": 0,
-    "rapid": 3600
-   },
-   "adamantbot_v1": {
-    "blitz": 398,
-    "bullet": 221,
-    "classical": 144,
-    "rapid": 247
-   },
-   "admete_bot": {
-    "blitz": 14267,
-    "bullet": 40676,
-    "classical": 4,
-    "rapid": 8770
-   },
-   "aetherbot": {
-    "blitz": 10421,
-    "bullet": 6990,
-    "classical": 661,
-    "rapid": 4346
-   },
-   "agentc313": {
-    "blitz": 1857,
-    "bullet": 0,
-    "classical": 0,
-    "rapid": 712
-   },
-   "aggressivestockfish": {
-    "blitz": 5951,
-    "bullet": 3371,
-    "classical": 557,
-    "rapid": 2331
-   },
-   "ai-con": {
-    "blitz": 25076,
-    "bullet": 19684,
-    "classical": 1208,
-    "rapid": 15444
-   },
-   "ailedbot": {
-    "blitz": 307,
-    "bullet": 255,
-    "classical": 0,
-    "rapid": 235
-   },
-   "ajedrezchamberi": {
-    "blitz": 323,
-    "bullet": 700,
-    "classical": 115,
-    "rapid": 176
-   },
-   "alarm2001": {
-    "blitz": 786,
-    "bullet": 613,
-    "classical": 0,
-    "rapid": 492
-   },
-   "alexandrya": {
-    "blitz": 2259,
-    "bullet": 1017,
-    "classical": 519,
-    "rapid": 872
-   },
-   "aliceshiro": {
-    "blitz": 0,
-    "bullet": 0,
-    "classical": 0,
-    "rapid": 0
-   },
-   "alliethechessbot": {
-    "blitz": 3645,
-    "bullet": 1343,
-    "classical": 960,
-    "rapid": 9019
-   },
-   "amazingcutter": {
-    "blitz": 5,
-    "bullet": 2,
-    "classical": 1,
-    "rapid": 0
-   },
-   "andobot": {
-    "blitz": 4539,
-    "bullet": 4371,
-    "classical": 0,
-    "rapid": 730
-   },
-   "anenginebott": {
-    "blitz": 53,
-    "bullet": 2,
-    "classical": 0,
-    "rapid": 17
-   },
-   "anenginebott2": {
-    "blitz": 302,
-    "bullet": 16,
-    "classical": 1,
-    "rapid": 80
-   },
-   "angela_eng": {
-    "blitz": 583,
-    "bullet": 0,
-    "classical": 0,
-    "rapid": 493
-   },
-   "anna-bot": {
-    "blitz": 835,
-    "bullet": 152,
-    "classical": 10,
-    "rapid": 632
-   },
-   "annie_archy": {
-    "blitz": 0,
-    "bullet": 0,
-    "classical": 0,
-    "rapid": 0
-   },
-   "anti-bot": {
-    "blitz": 0,
-    "bullet": 0,
-    "classical": 0,
-    "rapid": 0
-   },
-   "aposeij": {
-    "blitz": 1808,
-    "bullet": 1220,
-    "classical": 0,
-    "rapid": 581
-   },
-   "approximationbot": {
-    "blitz": 85,
-    "bullet": 45,
-    "classical": 0,
-    "rapid": 0
-   },
-   "arabicahce": {
-    "blitz": 47,
-    "bullet": 14,
-    "classical": 1,
-    "rapid": 8
-   },
-   "arasanx": {
-    "blitz": 29045,
-    "bullet": 15,
-    "classical": 3496,
-    "rapid": 33526
-   },
-   "ariadne-bot": {
-    "blitz": 2259,
-    "bullet": 759,
-    "classical": 0,
-    "rapid": 716
-   },
-   "ariav8": {
-    "blitz": 32,
-    "bullet": 40,
-    "classical": 1,
-    "rapid": 5
-   },
-   "arkiplayschess": {
-    "blitz": 21,
-    "bullet": 236,
-    "classical": 0,
-    "rapid": 7746
-   },
-   "arthurai": {
-    "blitz": 37,
-    "bullet": 9,
-    "classical": 0,
-    "rapid": 28
-   },
-   "artidigm_research": {
-    "blitz": 1428,
-    "bullet": 588,
-    "classical": 24,
-    "rapid": 85
-   },
-   "ashnostromo": {
-    "blitz": 17162,
-    "bullet": 0,
-    "classical": 152,
-    "rapid": 8479
-   },
-   "ask-aatk-bot": {
-    "blitz": 563,
-    "bullet": 358,
-    "classical": 1,
-    "rapid": 42
-   },
-   "atari-video-chess": {
-    "blitz": 0,
-    "bullet": 0,
-    "classical": 4,
-    "rapid": 104
-   },
-   "atomicenginev1": {
-    "blitz": 0,
-    "bullet": 0,
-    "classical": 0,
-    "rapid": 0
-   },
-   "attackerbotpython": {
-    "blitz": 4,
-    "bullet": 5,
-    "classical": 0,
-    "rapid": 6
-   },
-   "axiom_bot": {
-    "blitz": 5177,
-    "bullet": 3262,
-    "classical": 1346,
-    "rapid": 3228
-   },
-   "azzbot": {
-    "blitz": 312,
-    "bullet": 803,
-    "classical": 0,
-    "rapid": 429
-   },
-   "baby_eubos": {
-    "blitz": 30905,
-    "bullet": 20194,
-    "classical": 1601,
-    "rapid": 7545
-   },
-   "banerot": {
-    "blitz": 4146,
-    "bullet": 2800,
-    "classical": 0,
-    "rapid": 518
-   },
-   "battlebornthe1st": {
-    "blitz": 401,
-    "bullet": 241,
-    "classical": 135,
-    "rapid": 279
-   },
-   "battlebornthe2nd": {
-    "blitz": 229,
-    "bullet": 180,
-    "classical": 105,
-    "rapid": 164
-   },
-   "battlebornthe3rd": {
-    "blitz": 188,
-    "bullet": 163,
-    "classical": 62,
-    "rapid": 138
-   },
-   "battlebornthe4th": {
-    "blitz": 182,
-    "bullet": 206,
-    "classical": 83,
-    "rapid": 113
-   },
-   "battlebornthe5th": {
-    "blitz": 288,
-    "bullet": 296,
-    "classical": 108,
-    "rapid": 168
-   },
-   "batyarapro": {
-    "blitz": 3675,
-    "bullet": 1119,
-    "classical": 80,
-    "rapid": 460
-   },
-   "bbc_bot": {
-    "blitz": 1111,
-    "bullet": 956,
-    "classical": 25,
-    "rapid": 175
-   },
-   "beastie1": {
-    "blitz": 1184,
-    "bullet": 1334,
-    "classical": 320,
-    "rapid": 1240
-   },
-   "becela9_kpebetka": {
-    "blitz": 4356,
-    "bullet": 907,
-    "classical": 0,
-    "rapid": 0
-   },
-   "beelzebubzero": {
-    "blitz": 0,
-    "bullet": 0,
-    "classical": 0,
-    "rapid": 228
-   },
-   "belzedarian": {
-    "blitz": 0,
-    "bullet": 0,
-    "classical": 0,
-    "rapid": 0
-   },
-   "berkbot": {
-    "blitz": 3284,
-    "bullet": 3414,
-    "classical": 0,
-    "rapid": 435
-   },
-   "bernstein-2ply": {
-    "blitz": 16581,
-    "bullet": 9969,
-    "classical": 2785,
-    "rapid": 17730
-   },
-   "bernstein-4ply": {
-    "blitz": 14538,
-    "bullet": 9574,
-    "classical": 1752,
-    "rapid": 11505
-   },
-   "bertbot": {
-    "blitz": 784,
-    "bullet": 638,
-    "classical": 153,
-    "rapid": 491
-   },
-   "bfiedler-bot": {
-    "blitz": 57089,
-    "bullet": 6499,
-    "classical": 0,
-    "rapid": 2738
-   },
-   "bhonduesque": {
-    "blitz": 3918,
-    "bullet": 1502,
-    "classical": 1,
-    "rapid": 3799
-   },
-   "bitbitbot": {
-    "blitz": 3537,
-    "bullet": 3908,
-    "classical": 586,
-    "rapid": 618
-   },
-   "black-bishop-kh": {
-    "blitz": 253,
-    "bullet": 254,
-    "classical": 0,
-    "rapid": 0
-   },
-   "blackeventhorizon": {
-    "blitz": 1082,
-    "bullet": 1255,
-    "classical": 12,
-    "rapid": 0
-   },
-   "blindpewce": {
-    "blitz": 50,
-    "bullet": 24,
-    "classical": 15,
-    "rapid": 23
-   },
-   "blobfish-bot": {
-    "blitz": 5176,
-    "bullet": 3515,
-    "classical": 0,
-    "rapid": 926
-   },
-   "blueberry-engine": {
-    "blitz": 170,
-    "bullet": 172,
-    "classical": 0,
-    "rapid": 147
-   },
-   "bluemoonbot": {
-    "blitz": 2779,
-    "bullet": 2208,
-    "classical": 651,
-    "rapid": 1057
-   },
-   "blujay-bot": {
-    "blitz": 87,
-    "bullet": 77,
-    "classical": 14,
-    "rapid": 25
-   },
-   "bobby_pcolla": {
-    "blitz": 18,
-    "bullet": 16,
-    "classical": 2,
-    "rapid": 3
-   },
-   "bongaclang": {
-    "blitz": 2437,
-    "bullet": 1735,
-    "classical": 52,
-    "rapid": 569
-   },
-   "boris-trapsky": {
-    "blitz": 45033,
-    "bullet": 96,
-    "classical": 14218,
-    "rapid": 41339
-   },
-   "borkatower": {
-    "blitz": 6223,
-    "bullet": 5458,
-    "classical": 19,
-    "rapid": 1196
-   },
-   "bot-o-tron": {
-    "blitz": 0,
-    "bullet": 0,
-    "classical": 0,
-    "rapid": 0
-   },
-   "bot1e": {
-    "blitz": 6336,
-    "bullet": 6817,
-    "classical": 23,
-    "rapid": 1867
-   },
-   "bot1nokk": {
-    "blitz": 6689,
-    "bullet": 8377,
-    "classical": 42,
-    "rapid": 1959
-   },
-   "bot5551": {
-    "blitz": 18530,
-    "bullet": 12396,
-    "classical": 1347,
-    "rapid": 7108
-   },
-   "bot64jaques": {
-    "blitz": 17384,
-    "bullet": 16939,
-    "classical": 6,
-    "rapid": 7272
-   },
-   "bot913": {
-    "blitz": 3396,
-    "bullet": 3231,
-    "classical": 1980,
-    "rapid": 2326
-   },
-   "bot_adario": {
-    "blitz": 18705,
-    "bullet": 16483,
-    "classical": 0,
-    "rapid": 8966
-   },
-   "bot_stockfish13": {
-    "blitz": 5351,
-    "bullet": 4162,
-    "classical": 77,
-    "rapid": 76
-   },
-   "botchessbot": {
-    "blitz": 1306,
-    "bullet": 2376,
-    "classical": 0,
-    "rapid": 0
-   },
-   "bothev": {
-    "blitz": 4233,
-    "bullet": 1269,
-    "classical": 76,
-    "rapid": 453
-   },
-   "bothev2": {
-    "blitz": 3696,
-    "bullet": 945,
-    "classical": 81,
-    "rapid": 355
-   },
-   "bottios": {
-    "blitz": 4238,
-    "bullet": 3600,
-    "classical": 812,
-    "rapid": 1560
-   },
-   "botvunnix": {
-    "blitz": 300,
-    "bullet": 44,
-    "classical": 0,
-    "rapid": 137
-   },
-   "bretemabot": {
-    "blitz": 4720,
-    "bullet": 3313,
-    "classical": 589,
-    "rapid": 2058
-   },
-   "bubblebot2": {
-    "blitz": 10968,
-    "bullet": 441,
-    "classical": 6397,
-    "rapid": 5454
-   },
-   "bufffishnet": {
-    "blitz": 2061,
-    "bullet": 2189,
-    "classical": 121,
-    "rapid": 987
-   },
-   "byte-knight": {
-    "blitz": 7969,
-    "bullet": 6199,
-    "classical": 565,
-    "rapid": 3280
-   },
-   "c-t-r-l": {
-    "blitz": 0,
-    "bullet": 0,
-    "classical": 0,
-    "rapid": 0
-   },
-   "c0kval": {
-    "blitz": 20085,
-    "bullet": 2690,
-    "classical": 289,
-    "rapid": 1567
-   },
-   "cactus_bot": {
-    "blitz": 66,
-    "bullet": 7,
-    "classical": 0,
-    "rapid": 48
-   },
-   "caiporabot": {
-    "blitz": 692,
-    "bullet": 52,
-    "classical": 12,
-    "rapid": 10
-   },
-   "caissa-x": {
-    "blitz": 17844,
-    "bullet": 25116,
-    "classical": 1738,
-    "rapid": 10918
-   },
-   "calico1": {
-    "blitz": 2312,
-    "bullet": 2049,
-    "classical": 396,
-    "rapid": 2047
-   },
-   "cannotcheckmateme": {
-    "blitz": 119,
-    "bullet": 84,
-    "classical": 15,
-    "rapid": 58
-   },
-   "capybara_chessbot": {
-    "blitz": 1693,
-    "bullet": 470,
-    "classical": 147,
-    "rapid": 723
-   },
-   "casanchess-nnue": {
-    "blitz": 6233,
-    "bullet": 649,
-    "classical": 1759,
-    "rapid": 4000
-   },
-   "catnail": {
-    "blitz": 0,
-    "bullet": 0,
-    "classical": 0,
-    "rapid": 0
-   },
-   "catriever": {
-    "blitz": 5408,
-    "bullet": 6941,
-    "classical": 2312,
-    "rapid": 3318
-   },
-   "ceraf": {
-    "blitz": 616,
-    "bullet": 2,
-    "classical": 0,
-    "rapid": 20
-   },
-   "chamberiajedrez": {
-    "blitz": 543,
-    "bullet": 493,
-    "classical": 86,
-    "rapid": 395
-   },
-   "chaotong_engine": {
-    "blitz": 64,
-    "bullet": 48,
-    "classical": 5,
-    "rapid": 29
-   },
-   "charibot": {
-    "blitz": 0,
-    "bullet": 0,
-    "classical": 0,
-    "rapid": 0
-   },
-   "chatgpt5_5": {
-    "blitz": 1084,
-    "bullet": 499,
-    "classical": 37,
-    "rapid": 270
-   },
-   "checkmare666bot": {
-    "blitz": 56,
-    "bullet": 140,
-    "classical": 4,
-    "rapid": 18
-   },
-   "checkmatebutlouder": {
-    "blitz": 0,
-    "bullet": 0,
-    "classical": 0,
-    "rapid": 0
-   },
-   "cheesestar": {
-    "blitz": 192,
-    "bullet": 164,
-    "classical": 0,
-    "rapid": 172
-   },
-   "cheng-4": {
-    "blitz": 11377,
-    "bullet": 22946,
-    "classical": 2899,
-    "rapid": 6084
-   },
-   "cheng-4-nn": {
-    "blitz": 1469,
-    "bullet": 3208,
-    "classical": 234,
-    "rapid": 607
-   },
-   "chengine_rookery": {
-    "blitz": 20,
-    "bullet": 7,
-    "classical": 26,
-    "rapid": 428
-   },
-   "chess-dragon1": {
-    "blitz": 2071,
-    "bullet": 627,
-    "classical": 29,
-    "rapid": 121
-   },
-   "chess3bot": {
-    "blitz": 5552,
-    "bullet": 3163,
-    "classical": 256,
-    "rapid": 935
-   },
-   "chess_set_manager": {
-    "blitz": 717,
-    "bullet": 665,
-    "classical": 0,
-    "rapid": 0
-   },
-   "chessatronbot": {
-    "blitz": 15002,
-    "bullet": 10698,
-    "classical": 907,
-    "rapid": 9086
-   },
-   "chessblight": {
-    "blitz": 545,
-    "bullet": 280,
-    "classical": 22,
-    "rapid": 695
-   },
-   "chessbot2880": {
-    "blitz": 3281,
-    "bullet": 13567,
-    "classical": 14,
-    "rapid": 338
-   },
-   "chessbzero": {
-    "blitz": 0,
-    "bullet": 0,
-    "classical": 0,
-    "rapid": 0
-   },
-   "chesschildren": {
-    "blitz": 28832,
-    "bullet": 22601,
-    "classical": 2245,
-    "rapid": 8520
-   },
-   "chessgeniusbot": {
-    "blitz": 0,
-    "bullet": 0,
-    "classical": 7,
-    "rapid": 50
-   },
-   "chessiverse_ethan": {
-    "blitz": 3664,
-    "bullet": 0,
-    "classical": 0,
-    "rapid": 0
-   },
-   "chessiverse_luc": {
-    "blitz": 3453,
-    "bullet": 0,
-    "classical": 0,
-    "rapid": 0
-   },
-   "chessiverse_pawnza": {
-    "blitz": 4441,
-    "bullet": 0,
-    "classical": 0,
-    "rapid": 0
-   },
-   "chessiverse_raak": {
-    "blitz": 3961,
-    "bullet": 0,
-    "classical": 0,
-    "rapid": 0
-   },
-   "chesspion96": {
-    "blitz": 11,
-    "bullet": 162,
-    "classical": 0,
-    "rapid": 6
-   },
-   "cheszter": {
-    "blitz": 9756,
-    "bullet": 18340,
-    "classical": 1040,
-    "rapid": 3613
-   },
-   "chill4ce": {
-    "blitz": 1392,
-    "bullet": 257,
-    "classical": 73,
-    "rapid": 364
-   },
-   "chronicgambler": {
-    "blitz": 1896,
-    "bullet": 1670,
-    "classical": 100,
-    "rapid": 603
-   },
-   "chrusty": {
-    "blitz": 174,
-    "bullet": 75,
-    "classical": 0,
-    "rapid": 0
-   },
-   "cinder-bot": {
-    "blitz": 13502,
-    "bullet": 10172,
-    "classical": 3024,
-    "rapid": 8795
-   },
-   "cizme": {
-    "blitz": 5611,
-    "bullet": 3460,
-    "classical": 760,
-    "rapid": 3141
-   },
-   "classic_bot-v2": {
-    "blitz": 5983,
-    "bullet": 3089,
-    "classical": 49,
-    "rapid": 139
-   },
-   "classical-leela": {
-    "blitz": 1006,
-    "bullet": 883,
-    "classical": 109,
-    "rapid": 544
-   },
-   "claude_bot": {
-    "blitz": 63,
-    "bullet": 0,
-    "classical": 3,
-    "rapid": 53
-   },
-   "claudyengine": {
-    "blitz": 207,
-    "bullet": 117,
-    "classical": 2,
-    "rapid": 7
-   },
-   "clementyne1": {
-    "blitz": 2258,
-    "bullet": 1414,
-    "classical": 731,
-    "rapid": 1604
-   },
-   "cloudia-chess": {
-    "blitz": 559,
-    "bullet": 518,
-    "classical": 72,
-    "rapid": 447
-   },
-   "cloudnetbot": {
-    "blitz": 16801,
-    "bullet": 11024,
-    "classical": 426,
-    "rapid": 2153
-   },
-   "clrsrc_lc0": {
-    "blitz": 5986,
-    "bullet": 1382,
-    "classical": 68,
-    "rapid": 522
-   },
-   "coda_bot": {
-    "blitz": 5510,
-    "bullet": 4542,
-    "classical": 0,
-    "rapid": 3044
-   },
-   "codabot": {
-    "blitz": 4644,
-    "bullet": 3150,
-    "classical": 0,
-    "rapid": 2871
-   },
-   "colinbot": {
-    "blitz": 5137,
-    "bullet": 19700,
-    "classical": 52,
-    "rapid": 169
-   },
-   "colossusbot": {
-    "blitz": 3748,
-    "bullet": 2532,
-    "classical": 589,
-    "rapid": 1391
-   },
-   "confidencebuilder": {
-    "blitz": 852,
-    "bullet": 501,
-    "classical": 6,
-    "rapid": 566
-   },
-   "consolechessdev": {
-    "blitz": 218,
-    "bullet": 101,
-    "classical": 0,
-    "rapid": 157
-   },
-   "consolechessfastbot": {
-    "blitz": 864,
-    "bullet": 618,
-    "classical": 0,
-    "rapid": 577
-   },
-   "cookiebot711": {
-    "blitz": 206,
-    "bullet": 51,
-    "classical": 4,
-    "rapid": 97
-   },
-   "coolperson_bot1": {
-    "blitz": 25,
-    "bullet": 4,
-    "classical": 0,
-    "rapid": 127
-   },
-   "cosettebot": {
-    "blitz": 26305,
-    "bullet": 30625,
-    "classical": 7227,
-    "rapid": 16799
-   },
-   "crapbot": {
-    "blitz": 141,
-    "bullet": 67,
-    "classical": 0,
-    "rapid": 59
-   },
-   "creaticachessbot": {
-    "blitz": 857,
-    "bullet": 0,
-    "classical": 0,
-    "rapid": 2
-   },
-   "croco_bot": {
-    "blitz": 2625,
-    "bullet": 2041,
-    "classical": 381,
-    "rapid": 1562
-   },
-   "croco_little_bot": {
-    "blitz": 8394,
-    "bullet": 4346,
-    "classical": 1503,
-    "rapid": 4400
-   },
-   "crocodile_bot": {
-    "blitz": 1895,
-    "bullet": 1562,
-    "classical": 369,
-    "rapid": 1328
-   },
-   "cruelken": {
-    "blitz": 5958,
-    "bullet": 2796,
-    "classical": 152,
-    "rapid": 2630
-   },
-   "cutebot": {
-    "blitz": 967,
-    "bullet": 1059,
-    "classical": 47,
-    "rapid": 905
-   },
-   "daisy-bot": {
-    "blitz": 153,
-    "bullet": 55,
-    "classical": 0,
-    "rapid": 49
-   },
-   "dala-1100": {
-    "blitz": 3484,
-    "bullet": 0,
-    "classical": 601,
-    "rapid": 2961
-   },
-   "dala-1300": {
-    "blitz": 4894,
-    "bullet": 0,
-    "classical": 711,
-    "rapid": 3339
-   },
-   "dala-1600": {
-    "blitz": 583,
-    "bullet": 0,
-    "classical": 147,
-    "rapid": 693
-   },
-   "dala-2000": {
-    "blitz": 1191,
-    "bullet": 112,
-    "classical": 110,
-    "rapid": 1000
-   },
-   "dala-700": {
-    "blitz": 4167,
-    "bullet": 6,
-    "classical": 1406,
-    "rapid": 3572
-   },
-   "dala-900": {
-    "blitz": 3869,
-    "bullet": 0,
-    "classical": 887,
-    "rapid": 3955
-   },
-   "darkelectronbot": {
-    "blitz": 3094,
-    "bullet": 2009,
-    "classical": 0,
-    "rapid": 0
-   },
-   "darkonbot": {
-    "blitz": 11871,
-    "bullet": 20925,
-    "classical": 2933,
-    "rapid": 4827
-   },
-   "darkonweakbot": {
-    "blitz": 2046,
-    "bullet": 4323,
-    "classical": 246,
-    "rapid": 1420
-   },
-   "dassi-ai": {
-    "blitz": 21,
-    "bullet": 0,
-    "classical": 0,
-    "rapid": 2
-   },
-   "davidsguterbot": {
-    "blitz": 18641,
-    "bullet": 19942,
-    "classical": 1,
-    "rapid": 5049
-   },
-   "debzero": {
-    "blitz": 9128,
-    "bullet": 4452,
-    "classical": 1809,
-    "rapid": 4079
-   },
-   "deepbecky": {
-    "blitz": 4365,
-    "bullet": 2611,
-    "classical": 100,
-    "rapid": 1048
-   },
-   "deepsquare-ai": {
-    "blitz": 1131,
-    "bullet": 1290,
-    "classical": 0,
-    "rapid": 163
-   },
-   "demen100ns-bot": {
-    "blitz": 2865,
-    "bullet": 1505,
-    "classical": 0,
-    "rapid": 1073
-   },
-   "demolito_l1": {
-    "blitz": 3330,
-    "bullet": 991,
-    "classical": 319,
-    "rapid": 2115
-   },
-   "demolito_l2": {
-    "blitz": 5089,
-    "bullet": 1418,
-    "classical": 405,
-    "rapid": 2812
-   },
-   "demolito_l3": {
-    "blitz": 10968,
-    "bullet": 2576,
-    "classical": 856,
-    "rapid": 6958
-   },
-   "demolito_l4": {
-    "blitz": 18406,
-    "bullet": 6827,
-    "classical": 1492,
-    "rapid": 13987
-   },
-   "demolito_l5": {
-    "blitz": 21253,
-    "bullet": 8610,
-    "classical": 1719,
-    "rapid": 15611
-   },
-   "dgtrychess": {
-    "blitz": 809,
-    "bullet": 333,
-    "classical": 534,
-    "rapid": 1052
-   },
-   "dragonrosedev": {
-    "blitz": 1195,
-    "bullet": 906,
-    "classical": 16,
-    "rapid": 383
-   },
-   "dragoodle": {
-    "blitz": 289,
-    "bullet": 121,
-    "classical": 63,
-    "rapid": 154
-   },
-   "drawfish-reborn": {
-    "blitz": 0,
-    "bullet": 0,
-    "classical": 0,
-    "rapid": 0
-   },
-   "drewschessmachine": {
-    "blitz": 56,
-    "bullet": 17,
-    "classical": 7,
-    "rapid": 19
-   },
-   "duchessai": {
-    "blitz": 28073,
-    "bullet": 26160,
-    "classical": 8982,
-    "rapid": 19366
-   },
-   "dumbotai": {
-    "blitz": 1255,
-    "bullet": 225,
-    "classical": 109,
-    "rapid": 545
-   },
-   "eclipsebot": {
-    "blitz": 313,
-    "bullet": 240,
-    "classical": 440,
-    "rapid": 338
-   },
-   "edwardkillick": {
-    "blitz": 8590,
-    "bullet": 6050,
-    "classical": 361,
-    "rapid": 4602
-   },
-   "eigenmann-chess": {
-    "blitz": 3314,
-    "bullet": 1194,
-    "classical": 0,
-    "rapid": 148
-   },
-   "elachessbot": {
-    "blitz": 1801,
-    "bullet": 1007,
-    "classical": 691,
-    "rapid": 1139
-   },
-   "elexunix_chess_bot": {
-    "blitz": 74,
-    "bullet": 35,
-    "classical": 0,
-    "rapid": 24
-   },
-   "ellen_replay": {
-    "blitz": 1640,
-    "bullet": 127,
-    "classical": 174,
-    "rapid": 896
-   },
-   "elmichess": {
-    "blitz": 5411,
-    "bullet": 5010,
-    "classical": 672,
-    "rapid": 2078
-   },
-   "eloibot": {
-    "blitz": 56,
-    "bullet": 0,
-    "classical": 0,
-    "rapid": 8
-   },
-   "endspiel-engine": {
-    "blitz": 551,
-    "bullet": 0,
-    "classical": 88,
-    "rapid": 407
-   },
-   "endspiel-pi": {
-    "blitz": 2422,
-    "bullet": 0,
-    "classical": 0,
-    "rapid": 1646
-   },
-   "enjoyably3303": {
-    "blitz": 5183,
-    "bullet": 1014,
-    "classical": 110,
-    "rapid": 531
-   },
-   "entebot": {
-    "blitz": 9469,
-    "bullet": 3441,
-    "classical": 78,
-    "rapid": 427
-   },
-   "epimetheusbot": {
-    "blitz": 3188,
-    "bullet": 2638,
-    "classical": 51,
-    "rapid": 2087
-   },
-   "escarbo": {
-    "blitz": 543,
-    "bullet": 438,
-    "classical": 295,
-    "rapid": 470
-   },
-   "eubos": {
-    "blitz": 39486,
-    "bullet": 34068,
-    "classical": 3520,
-    "rapid": 11374
-   },
-   "european_chess_bot": {
-    "blitz": 350,
-    "bullet": 555,
-    "classical": 53,
-    "rapid": 176
-   },
-   "falconengine": {
-    "blitz": 3364,
-    "bullet": 1495,
-    "classical": 542,
-    "rapid": 1381
-   },
-   "fataliibot": {
-    "blitz": 34736,
-    "bullet": 26531,
-    "classical": 3564,
-    "rapid": 15044
-   },
-   "fathzer-jchess": {
-    "blitz": 553,
-    "bullet": 425,
-    "classical": 164,
-    "rapid": 627
-   },
-   "fayefish": {
-    "blitz": 2534,
-    "bullet": 5059,
-    "classical": 5,
-    "rapid": 7
-   },
-   "felipe_bot_53": {
-    "blitz": 3177,
-    "bullet": 2425,
-    "classical": 182,
-    "rapid": 1012
-   },
-   "fenrir-bot": {
-    "blitz": 377,
-    "bullet": 182,
-    "classical": 0,
-    "rapid": 0
-   },
-   "fenrirbot": {
-    "blitz": 256,
-    "bullet": 134,
-    "classical": 0,
-    "rapid": 102
-   },
-   "fighting2543": {
-    "blitz": 78,
-    "bullet": 93,
-    "classical": 0,
-    "rapid": 0
-   },
-   "flompiebot": {
-    "blitz": 282,
-    "bullet": 0,
-    "classical": 0,
-    "rapid": 95
-   },
-   "flounderbot": {
-    "blitz": 9209,
-    "bullet": 16029,
-    "classical": 0,
-    "rapid": 413
-   },
-   "flybrainchess": {
-    "blitz": 410,
-    "bullet": 225,
-    "classical": 86,
-    "rapid": 294
-   },
-   "fpga-chess": {
-    "blitz": 2087,
-    "bullet": 45,
-    "classical": 0,
-    "rapid": 0
-   },
-   "fschess-engine": {
-    "blitz": 366,
-    "bullet": 124,
-    "classical": 0,
-    "rapid": 20
-   },
-   "gambitonlybot": {
-    "blitz": 5210,
-    "bullet": 3422,
-    "classical": 0,
-    "rapid": 13
-   },
-   "garbobot": {
-    "blitz": 70980,
-    "bullet": 25904,
-    "classical": 4399,
-    "rapid": 24438
-   },
-   "gbot113": {
-    "blitz": 974,
-    "bullet": 146,
-    "classical": 37,
-    "rapid": 219
-   },
-   "georgii_ai": {
-    "blitz": 1284,
-    "bullet": 454,
-    "classical": 0,
-    "rapid": 487
-   },
-   "geotsibot": {
-    "blitz": 4354,
-    "bullet": 366,
-    "classical": 0,
-    "rapid": 989
-   },
-   "ghidorah_x": {
-    "blitz": 2018,
-    "bullet": 827,
-    "classical": 0,
-    "rapid": 396
-   },
-   "gnu4u": {
-    "blitz": 2326,
-    "bullet": 1539,
-    "classical": 0,
-    "rapid": 840
-   },
-   "gnupassant": {
-    "blitz": 14636,
-    "bullet": 8957,
-    "classical": 122,
-    "rapid": 4188
-   },
-   "goblinajedrezai": {
-    "blitz": 2641,
-    "bullet": 6483,
-    "classical": 4,
-    "rapid": 685
-   },
-   "gokubot": {
-    "blitz": 1,
-    "bullet": 0,
-    "classical": 1,
-    "rapid": 9
-   },
-   "goldfish-engine": {
-    "blitz": 30672,
-    "bullet": 26086,
-    "classical": 3737,
-    "rapid": 13482
-   },
-   "goldinho1bot": {
-    "blitz": 299,
-    "bullet": 245,
-    "classical": 122,
-    "rapid": 237
-   },
-   "goopis": {
-    "blitz": 11375,
-    "bullet": 10431,
-    "classical": 245,
-    "rapid": 1141
-   },
-   "grail-bot": {
-    "blitz": 13635,
-    "bullet": 8907,
-    "classical": 0,
-    "rapid": 5528
-   },
-   "groshboss": {
-    "blitz": 3769,
-    "bullet": 5295,
-    "classical": 494,
-    "rapid": 1442
-   },
-   "grzechu86": {
-    "blitz": 963,
-    "bullet": 54,
-    "classical": 0,
-    "rapid": 581
-   },
-   "guitarfish-engine": {
-    "blitz": 222,
-    "bullet": 20,
-    "classical": 3,
-    "rapid": 408
-   },
-   "guofish": {
-    "blitz": 29,
-    "bullet": 0,
-    "classical": 0,
-    "rapid": 234
-   },
-   "hackerchessbot": {
-    "blitz": 2426,
-    "bullet": 1858,
-    "classical": 53,
-    "rapid": 586
-   },
-   "halcyonbot": {
-    "blitz": 52506,
-    "bullet": 39518,
-    "classical": 0,
-    "rapid": 29393
-   },
-   "hardrok": {
-    "blitz": 12575,
-    "bullet": 12011,
-    "classical": 1,
-    "rapid": 11888
-   },
-   "hashcake1": {
-    "blitz": 2893,
-    "bullet": 1750,
-    "classical": 890,
-    "rapid": 1827
-   },
-   "hiusbot": {
-    "blitz": 3072,
-    "bullet": 1784,
-    "classical": 92,
-    "rapid": 2141
-   },
-   "hodgeybot": {
-    "blitz": 922,
-    "bullet": 131,
-    "classical": 57,
-    "rapid": 904
-   },
-   "holidaybot1225": {
-    "blitz": 137,
-    "bullet": 0,
-    "classical": 16,
-    "rapid": 0
-   },
-   "honeycombee": {
-    "blitz": 600,
-    "bullet": 446,
-    "classical": 0,
-    "rapid": 532
-   },
-   "honzovy-sachy": {
-    "blitz": 11225,
-    "bullet": 10254,
-    "classical": 1013,
-    "rapid": 3486
-   },
-   "honzovy-sachy-2": {
-    "blitz": 16610,
-    "bullet": 15173,
-    "classical": 1725,
-    "rapid": 7417
-   },
-   "hummus-bot": {
-    "blitz": 205,
-    "bullet": 0,
-    "classical": 3,
-    "rapid": 851
-   },
-   "hustler_2mb": {
-    "blitz": 23,
-    "bullet": 24,
-    "classical": 12,
-    "rapid": 66
-   },
-   "hymybot": {
-    "blitz": 2,
-    "bullet": 0,
-    "classical": 0,
-    "rapid": 2
-   },
-   "hynobiuschess": {
-    "blitz": 2205,
-    "bullet": 1846,
-    "classical": 137,
-    "rapid": 779
-   },
-   "hyperopic": {
-    "blitz": 12475,
-    "bullet": 10893,
-    "classical": 0,
-    "rapid": 710
-   },
-   "iamtryingtvt": {
-    "blitz": 172,
-    "bullet": 126,
-    "classical": 0,
-    "rapid": 86
-   },
-   "icarus-bot": {
-    "blitz": 1917,
-    "bullet": 1371,
-    "classical": 40,
-    "rapid": 668
-   },
-   "ilcorvochess": {
-    "blitz": 6470,
-    "bullet": 291,
-    "classical": 0,
-    "rapid": 0
-   },
-   "ilovecatgirl": {
-    "blitz": 4702,
-    "bullet": 5168,
-    "classical": 0,
-    "rapid": 0
-   },
-   "inanisbot": {
-    "blitz": 29204,
-    "bullet": 32411,
-    "classical": 12311,
-    "rapid": 20231
-   },
-   "incipit_bot": {
-    "blitz": 172,
-    "bullet": 74,
-    "classical": 0,
-    "rapid": 90
-   },
-   "io-bot": {
-    "blitz": 1699,
-    "bullet": 1298,
-    "classical": 10,
-    "rapid": 738
-   },
-   "is_boss": {
-    "blitz": 1784,
-    "bullet": 5379,
-    "classical": 114,
-    "rapid": 583
-   },
-   "iskelt-corax": {
-    "blitz": 2039,
-    "bullet": 1566,
-    "classical": 0,
-    "rapid": 504
-   },
-   "itsukitheeater": {
-    "blitz": 716,
-    "bullet": 690,
-    "classical": 0,
-    "rapid": 384
-   },
-   "jackedfish": {
-    "blitz": 1164,
-    "bullet": 7682,
-    "classical": 12,
-    "rapid": 47
-   },
-   "jacobsbot": {
-    "blitz": 1827,
-    "bullet": 1232,
-    "classical": 100,
-    "rapid": 526
-   },
-   "jangine": {
-    "blitz": 20894,
-    "bullet": 15847,
-    "classical": 1947,
-    "rapid": 8318
-   },
-   "jenniferx": {
-    "blitz": 78,
-    "bullet": 63,
-    "classical": 56,
-    "rapid": 62
-   },
-   "jesterchessrobot": {
-    "blitz": 1172,
-    "bullet": 675,
-    "classical": 23,
-    "rapid": 306
-   },
-   "jev_chess": {
-    "blitz": 17,
-    "bullet": 0,
-    "classical": 0,
-    "rapid": 81
-   },
-   "jevchessbot": {
-    "blitz": 61,
-    "bullet": 52,
-    "classical": 74,
-    "rapid": 81
-   },
-   "jibbby": {
-    "blitz": 38666,
-    "bullet": 20954,
-    "classical": 1957,
-    "rapid": 16542
-   },
-   "jimmy_inc3710": {
-    "blitz": 124,
-    "bullet": 10,
-    "classical": 28,
-    "rapid": 409
-   },
-   "joan_clone": {
-    "blitz": 1,
-    "bullet": 0,
-    "classical": 0,
-    "rapid": 143
-   },
-   "joey_chessengine": {
-    "blitz": 58,
-    "bullet": 3855,
-    "classical": 0,
-    "rapid": 0
-   },
-   "jongsungkim": {
-    "blitz": 10,
-    "bullet": 0,
-    "classical": 0,
-    "rapid": 0
-   },
-   "josefschessenginebot": {
-    "blitz": 220,
-    "bullet": 270,
-    "classical": 37,
-    "rapid": 199
-   },
-   "joshsbot": {
-    "blitz": 11096,
-    "bullet": 5940,
-    "classical": 2996,
-    "rapid": 5984
-   },
-   "jpg-bot": {
-    "blitz": 19179,
-    "bullet": 18271,
-    "classical": 0,
-    "rapid": 16638
-   },
-   "jurdbird": {
-    "blitz": 2476,
-    "bullet": 1339,
-    "classical": 92,
-    "rapid": 1399
-   },
-   "justbot-v1": {
-    "blitz": 2207,
-    "bullet": 2018,
-    "classical": 81,
-    "rapid": 501
-   },
-   "kepler_bot": {
-    "blitz": 0,
-    "bullet": 0,
-    "classical": 0,
-    "rapid": 0
-   },
-   "kestrelstrike": {
-    "blitz": 1294,
-    "bullet": 1032,
-    "classical": 3,
-    "rapid": 880
-   },
-   "kirinchessbot": {
-    "blitz": 4557,
-    "bullet": 2332,
-    "classical": 111,
-    "rapid": 1375
-   },
-   "kiwi_cube": {
-    "blitz": 2,
-    "bullet": 0,
-    "classical": 0,
-    "rapid": 0
-   },
-   "kiyengine": {
-    "blitz": 461,
-    "bullet": 324,
-    "classical": 2,
-    "rapid": 199
-   },
-   "kobal11": {
-    "blitz": 40,
-    "bullet": 37,
-    "classical": 1,
-    "rapid": 6
-   },
-   "kopyto_dev": {
-    "blitz": 22455,
-    "bullet": 14764,
-    "classical": 3307,
-    "rapid": 9414
-   },
-   "kowalabi": {
-    "blitz": 2248,
-    "bullet": 1863,
-    "classical": 362,
-    "rapid": 1834
-   },
-   "kulubot": {
-    "blitz": 3486,
-    "bullet": 2201,
-    "classical": 0,
-    "rapid": 1326
-   },
-   "kurganuci": {
-    "blitz": 128,
-    "bullet": 42,
-    "classical": 0,
-    "rapid": 10
-   },
-   "lamprook": {
-    "blitz": 644,
-    "bullet": 443,
-    "classical": 40,
-    "rapid": 220
-   },
-   "larryz-alterego": {
-    "blitz": 8788,
-    "bullet": 5088,
-    "classical": 4650,
-    "rapid": 11664
-   },
-   "latrunculi-bot": {
-    "blitz": 81,
-    "bullet": 0,
-    "classical": 3,
-    "rapid": 32
-   },
-   "laura-bot": {
-    "blitz": 7918,
-    "bullet": 1503,
-    "classical": 0,
-    "rapid": 888
-   },
-   "ldruka": {
-    "blitz": 0,
-    "bullet": 0,
-    "classical": 0,
-    "rapid": 0
-   },
-   "learning32": {
-    "blitz": 27,
-    "bullet": 13,
-    "classical": 0,
-    "rapid": 0
-   },
-   "leelaalien": {
-    "blitz": 4993,
-    "bullet": 1061,
-    "classical": 1841,
-    "rapid": 8479
-   },
-   "leelachesstest": {
-    "blitz": 2883,
-    "bullet": 4775,
-    "classical": 259,
-    "rapid": 966
-   },
-   "leelajester": {
-    "blitz": 2380,
-    "bullet": 2255,
-    "classical": 481,
-    "rapid": 1192
-   },
-   "leelaknightodds": {
-    "blitz": 0,
-    "bullet": 0,
-    "classical": 0,
-    "rapid": 0
-   },
-   "leelapieceodds": {
-    "blitz": 0,
-    "bullet": 0,
-    "classical": 1,
-    "rapid": 0
-   },
-   "leelaqueenforknight": {
-    "blitz": 0,
-    "bullet": 0,
-    "classical": 0,
-    "rapid": 0
-   },
-   "leelaqueenodds": {
-    "blitz": 0,
-    "bullet": 0,
-    "classical": 0,
-    "rapid": 0
-   },
-   "leelarogue": {
-    "blitz": 5233,
-    "bullet": 0,
-    "classical": 1738,
-    "rapid": 4715
-   },
-   "leelarookodds": {
-    "blitz": 0,
-    "bullet": 0,
-    "classical": 0,
-    "rapid": 0
-   },
-   "leelatroll": {
-    "blitz": 1,
-    "bullet": 0,
-    "classical": 0,
-    "rapid": 1
-   },
-   "legochess98": {
-    "blitz": 256,
-    "bullet": 138,
-    "classical": 113,
-    "rapid": 309
-   },
-   "lemuffinbot": {
-    "blitz": 4847,
-    "bullet": 2422,
-    "classical": 7,
-    "rapid": 394
-   },
-   "leol-bot": {
-    "blitz": 356,
-    "bullet": 192,
-    "classical": 0,
-    "rapid": 78
-   },
-   "likeawizard-bot": {
-    "blitz": 49395,
-    "bullet": 29448,
-    "classical": 2429,
-    "rapid": 17587
-   },
-   "lilitbot": {
-    "blitz": 1,
-    "bullet": 0,
-    "classical": 0,
-    "rapid": 2
-   },
-   "linenetbot": {
-    "blitz": 287,
-    "bullet": 297,
-    "classical": 47,
-    "rapid": 202
-   },
-   "little-0": {
-    "blitz": 679,
-    "bullet": 450,
-    "classical": 0,
-    "rapid": 527
-   },
-   "littlepatricia": {
-    "blitz": 4504,
-    "bullet": 2227,
-    "classical": 0,
-    "rapid": 1399
-   },
-   "llmate": {
-    "blitz": 142,
-    "bullet": 114,
-    "classical": 4,
-    "rapid": 22
-   },
-   "louischess48-6k": {
-    "blitz": 9576,
-    "bullet": 5461,
-    "classical": 9986,
-    "rapid": 10718
-   },
-   "lukebot": {
-    "blitz": 2005,
-    "bullet": 1879,
-    "classical": 0,
-    "rapid": 155
-   },
-   "lunaenginechess": {
-    "blitz": 877,
-    "bullet": 510,
-    "classical": 105,
-    "rapid": 549
-   },
-   "lynx_bot": {
-    "blitz": 92724,
-    "bullet": 53953,
-    "classical": 17899,
-    "rapid": 68364
-   },
-   "mac-bot": {
-    "blitz": 1638,
-    "bullet": 1327,
-    "classical": 115,
-    "rapid": 325
-   },
-   "madameengine": {
-    "blitz": 49,
-    "bullet": 22,
-    "classical": 0,
-    "rapid": 5
-   },
-   "magic11bot_coach": {
-    "blitz": 9,
-    "bullet": 4,
-    "classical": 2,
-    "rapid": 9
-   },
-   "maia1": {
-    "blitz": 441642,
-    "bullet": 231073,
-    "classical": 162027,
-    "rapid": 633369
-   },
-   "maia2200_10n": {
-    "blitz": 5125,
-    "bullet": 3734,
-    "classical": 0,
-    "rapid": 2269
-   },
-   "maia3-79m_1000": {
-    "blitz": 328,
-    "bullet": 63,
-    "classical": 65,
-    "rapid": 1179
-   },
-   "maia3-79m_1200": {
-    "blitz": 117,
-    "bullet": 138,
-    "classical": 222,
-    "rapid": 623
-   },
-   "maia3-79m_1400": {
-    "blitz": 130,
-    "bullet": 68,
-    "classical": 173,
-    "rapid": 186
-   },
-   "maia3-79m_1600": {
-    "blitz": 429,
-    "bullet": 50,
-    "classical": 103,
-    "rapid": 66
-   },
-   "maia3-79m_1800": {
-    "blitz": 137,
-    "bullet": 41,
-    "classical": 26,
-    "rapid": 39
-   },
-   "maia3-79m_2000": {
-    "blitz": 23,
-    "bullet": 44,
-    "classical": 114,
-    "rapid": 48
-   },
-   "maia3-79m_2200": {
-    "blitz": 31,
-    "bullet": 47,
-    "classical": 7,
-    "rapid": 25
-   },
-   "maia3-79m_2400": {
-    "blitz": 17,
-    "bullet": 23,
-    "classical": 7,
-    "rapid": 11
-   },
-   "maia3-79m_2600": {
-    "blitz": 26,
-    "bullet": 70,
-    "classical": 18,
-    "rapid": 13
-   },
-   "maia3-79m_600": {
-    "blitz": 887,
-    "bullet": 120,
-    "classical": 260,
-    "rapid": 1595
-   },
-   "maia3-79m_800": {
-    "blitz": 435,
-    "bullet": 138,
-    "classical": 131,
-    "rapid": 1519
-   },
-   "maia5": {
-    "blitz": 202100,
-    "bullet": 69414,
-    "classical": 56852,
-    "rapid": 231911
-   },
-   "maia9": {
-    "blitz": 211011,
-    "bullet": 94964,
-    "classical": 55260,
-    "rapid": 216918
-   },
-   "maia960-1600": {
-    "blitz": 0,
-    "bullet": 0,
-    "classical": 0,
-    "rapid": 0
-   },
-   "maia960-1900": {
-    "blitz": 0,
-    "bullet": 0,
-    "classical": 0,
-    "rapid": 0
-   },
-   "maia9_10n": {
-    "blitz": 7249,
-    "bullet": 5165,
-    "classical": 0,
-    "rapid": 5197
-   },
-   "maia9_30n": {
-    "blitz": 8164,
-    "bullet": 5808,
-    "classical": 0,
-    "rapid": 4060
-   },
-   "makechessbetter": {
-    "blitz": 14,
-    "bullet": 3,
-    "classical": 6,
-    "rapid": 35
-   },
-   "malanchess": {
-    "blitz": 953,
-    "bullet": 765,
-    "classical": 53,
-    "rapid": 270
-   },
-   "malpamat": {
-    "blitz": 162,
-    "bullet": 143,
-    "classical": 93,
-    "rapid": 110
-   },
-   "markusdaukrobloxkid": {
-    "blitz": 192,
-    "bullet": 124,
-    "classical": 0,
-    "rapid": 26
-   },
-   "martuni": {
-    "blitz": 5021,
-    "bullet": 2464,
-    "classical": 190,
-    "rapid": 2402
-   },
-   "mate-in-forty": {
-    "blitz": 23,
-    "bullet": 18,
-    "classical": 22,
-    "rapid": 30
-   },
-   "mate-in-thirty": {
-    "blitz": 22,
-    "bullet": 35,
-    "classical": 37,
-    "rapid": 37
-   },
-   "mate-in-twenty": {
-    "blitz": 25,
-    "bullet": 160,
-    "classical": 52,
-    "rapid": 27
-   },
-   "mate1-bot": {
-    "blitz": 3783,
-    "bullet": 0,
-    "classical": 88,
-    "rapid": 440
-   },
-   "matemakingmachine": {
-    "blitz": 1134,
-    "bullet": 129,
-    "classical": 14,
-    "rapid": 101
-   },
-   "matmoi": {
-    "blitz": 33892,
-    "bullet": 30240,
-    "classical": 2062,
-    "rapid": 21847
-   },
-   "matrixengine": {
-    "blitz": 391,
-    "bullet": 333,
-    "classical": 0,
-    "rapid": 0
-   },
-   "maxthedog-esp32": {
-    "blitz": 1221,
-    "bullet": 830,
-    "classical": 126,
-    "rapid": 475
-   },
-   "mayflyengine": {
-    "blitz": 459,
-    "bullet": 433,
-    "classical": 54,
-    "rapid": 185
-   },
-   "mcdonalds1955": {
-    "blitz": 232,
-    "bullet": 473,
-    "classical": 0,
-    "rapid": 87
-   },
-   "mchess-engine": {
-    "blitz": 1918,
-    "bullet": 442,
-    "classical": 252,
-    "rapid": 1122
-   },
-   "mega-noob-bot": {
-    "blitz": 1720,
-    "bullet": 13558,
-    "classical": 446,
-    "rapid": 820
-   },
-   "melsh_bot": {
-    "blitz": 19033,
-    "bullet": 15510,
-    "classical": 1218,
-    "rapid": 6995
-   },
-   "mimirbot": {
-    "blitz": 1537,
-    "bullet": 993,
-    "classical": 139,
-    "rapid": 768
-   },
-   "mind_bot": {
-    "blitz": 441,
-    "bullet": 304,
-    "classical": 0,
-    "rapid": 0
-   },
-   "minibotapi": {
-    "blitz": 93,
-    "bullet": 297,
-    "classical": 3,
-    "rapid": 91
-   },
-   "minibruteforcebot": {
-    "blitz": 189,
-    "bullet": 284,
-    "classical": 19,
-    "rapid": 91
-   },
-   "minimax_chessy_lol": {
-    "blitz": 126,
-    "bullet": 50,
-    "classical": 10,
-    "rapid": 56
-   },
-   "minmaxvalgen": {
-    "blitz": 22,
-    "bullet": 8,
-    "classical": 2,
-    "rapid": 47
-   },
-   "minordotarcdotbot": {
-    "blitz": 1,
-    "bullet": 0,
-    "classical": 0,
-    "rapid": 0
-   },
-   "miss_snowiee": {
-    "blitz": 107,
-    "bullet": 11,
-    "classical": 0,
-    "rapid": 3
-   },
-   "mithandros": {
-    "blitz": 1350,
-    "bullet": 185,
-    "classical": 30,
-    "rapid": 147
-   },
-   "mochi_bot": {
-    "blitz": 18829,
-    "bullet": 9975,
-    "classical": 0,
-    "rapid": 9227
-   },
-   "morabandbot": {
-    "blitz": 4140,
-    "bullet": 4207,
-    "classical": 0,
-    "rapid": 12
-   },
-   "mostlyhuman1900": {
-    "blitz": 3106,
-    "bullet": 0,
-    "classical": 0,
-    "rapid": 2605
-   },
-   "motor-0": {
-    "blitz": 1305,
-    "bullet": 3263,
-    "classical": 222,
-    "rapid": 366
-   },
-   "mr_sandbar": {
-    "blitz": 3730,
-    "bullet": 3023,
-    "classical": 363,
-    "rapid": 2366
-   },
-   "mrtonnerre": {
-    "blitz": 3438,
-    "bullet": 1619,
-    "classical": 612,
-    "rapid": 1963
-   },
-   "musashi-thebot": {
-    "blitz": 439,
-    "bullet": 265,
-    "classical": 47,
-    "rapid": 509
-   },
-   "mxnet-gamemaster": {
-    "blitz": 22,
-    "bullet": 7,
-    "classical": 2,
-    "rapid": 0
-   },
-   "my-bot": {
-    "blitz": 84,
-    "bullet": 1,
-    "classical": 0,
-    "rapid": 1
-   },
-   "mychessjava": {
-    "blitz": 874,
-    "bullet": 0,
-    "classical": 313,
-    "rapid": 775
-   },
-   "nanozeroorg": {
-    "blitz": 2020,
-    "bullet": 690,
-    "classical": 0,
-    "rapid": 627
-   },
-   "nebubot": {
-    "blitz": 7634,
-    "bullet": 1548,
-    "classical": 239,
-    "rapid": 882
-   },
-   "nerachess": {
-    "blitz": 2540,
-    "bullet": 317,
-    "classical": 1,
-    "rapid": 1964
-   },
-   "neryba": {
-    "blitz": 8092,
-    "bullet": 298,
-    "classical": 0,
-    "rapid": 184
-   },
-   "nesbes": {
-    "blitz": 1976,
-    "bullet": 585,
-    "classical": 0,
-    "rapid": 48
-   },
-   "nethervikings": {
-    "blitz": 0,
-    "bullet": 0,
-    "classical": 0,
-    "rapid": 40
-   },
-   "neurosocute": {
-    "blitz": 378,
-    "bullet": 5059,
-    "classical": 0,
-    "rapid": 19
-   },
-   "neutrinobot": {
-    "blitz": 0,
-    "bullet": 4,
-    "classical": 0,
-    "rapid": 5
-   },
-   "newbiebott": {
-    "blitz": 402,
-    "bullet": 45,
-    "classical": 0,
-    "rapid": 100
-   },
-   "newchessengine-ai": {
-    "blitz": 13823,
-    "bullet": 5927,
-    "classical": 161,
-    "rapid": 1112
-   },
-   "newtsbot": {
-    "blitz": 305,
-    "bullet": 1800,
-    "classical": 0,
-    "rapid": 243
-   },
-   "nexastrat": {
-    "blitz": 13816,
-    "bullet": 12853,
-    "classical": 0,
-    "rapid": 276
-   },
-   "nexosdefos": {
-    "blitz": 441,
-    "bullet": 732,
-    "classical": 0,
-    "rapid": 0
-   },
-   "nexuschess1": {
-    "blitz": 1443,
-    "bullet": 931,
-    "classical": 0,
-    "rapid": 171
-   },
-   "nice_bot": {
-    "blitz": 5193,
-    "bullet": 4608,
-    "classical": 0,
-    "rapid": 1232
-   },
-   "nickdrohan": {
-    "blitz": 491,
-    "bullet": 150,
-    "classical": 4,
-    "rapid": 6
-   },
-   "nightfall_dev": {
-    "blitz": 84,
-    "bullet": 190,
-    "classical": 5,
-    "rapid": 27
-   },
-   "nightruin": {
-    "blitz": 305,
-    "bullet": 74,
-    "classical": 0,
-    "rapid": 0
-   },
-   "nilatacbot": {
-    "blitz": 0,
-    "bullet": 0,
-    "classical": 0,
-    "rapid": 0
-   },
-   "nittedal": {
-    "blitz": 365,
-    "bullet": 367,
-    "classical": 134,
-    "rapid": 783
-   },
-   "noabot": {
-    "blitz": 3302,
-    "bullet": 2690,
-    "classical": 41,
-    "rapid": 620
-   },
-   "noel-bot": {
-    "blitz": 325,
-    "bullet": 152,
-    "classical": 0,
-    "rapid": 86
-   },
-   "notropis": {
-    "blitz": 24571,
-    "bullet": 13868,
-    "classical": 921,
-    "rapid": 9858
-   },
-   "o-rei-cx": {
-    "blitz": 2552,
-    "bullet": 2704,
-    "classical": 1,
-    "rapid": 1798
-   },
-   "omegazero-bot": {
-    "blitz": 717,
-    "bullet": 361,
-    "classical": 60,
-    "rapid": 398
-   },
-   "onezenpanda": {
-    "blitz": 247,
-    "bullet": 4,
-    "classical": 0,
-    "rapid": 0
-   },
-   "openinggenie2000": {
-    "blitz": 0,
-    "bullet": 0,
-    "classical": 57,
-    "rapid": 1003
-   },
-   "openingsbot": {
-    "blitz": 15657,
-    "bullet": 16685,
-    "classical": 1550,
-    "rapid": 4957
-   },
-   "osaurus": {
-    "blitz": 2440,
-    "bullet": 1956,
-    "classical": 466,
-    "rapid": 2004
-   },
-   "overfitted": {
-    "blitz": 1981,
-    "bullet": 993,
-    "classical": 39,
-    "rapid": 909
-   },
-   "oxide-eg": {
-    "blitz": 317,
-    "bullet": 243,
-    "classical": 16,
-    "rapid": 3170
-   },
-   "oxybullet": {
-    "blitz": 2909,
-    "bullet": 2639,
-    "classical": 235,
-    "rapid": 1269
-   },
-   "oxydanbot": {
-    "blitz": 3872,
-    "bullet": 3313,
-    "classical": 382,
-    "rapid": 2005
-   },
-   "pangubot": {
-    "blitz": 3325,
-    "bullet": 6523,
-    "classical": 286,
-    "rapid": 1750
-   },
-   "panic-fish": {
-    "blitz": 1086,
-    "bullet": 489,
-    "classical": 212,
-    "rapid": 658
-   },
-   "papemaru_c_chess": {
-    "blitz": 213,
-    "bullet": 201,
-    "classical": 0,
-    "rapid": 1
-   },
-   "partner3615diago": {
-    "blitz": 8396,
-    "bullet": 5843,
-    "classical": 2138,
-    "rapid": 5134
-   },
-   "patriciabot": {
-    "blitz": 7699,
-    "bullet": 6156,
-    "classical": 420,
-    "rapid": 3206
-   },
-   "patzerbot135": {
-    "blitz": 182,
-    "bullet": 172,
-    "classical": 21,
-    "rapid": 47
-   },
-   "pawn_git": {
-    "blitz": 20194,
-    "bullet": 27475,
-    "classical": 4122,
-    "rapid": 8943
-   },
-   "pawnrobot": {
-    "blitz": 15247,
-    "bullet": 12755,
-    "classical": 0,
-    "rapid": 7261
-   },
-   "pawny_bot": {
-    "blitz": 2488,
-    "bullet": 3028,
-    "classical": 1332,
-    "rapid": 1973
-   },
-   "pdp8-chekmo": {
-    "blitz": 82,
-    "bullet": 0,
-    "classical": 0,
-    "rapid": 120
-   },
-   "pdp8-clash": {
-    "blitz": 82,
-    "bullet": 0,
-    "classical": 0,
-    "rapid": 136
-   },
-   "peacemaker-0_0": {
-    "blitz": 1082,
-    "bullet": 1019,
-    "classical": 12,
-    "rapid": 498
-   },
-   "peachfruit": {
-    "blitz": 14309,
-    "bullet": 11838,
-    "classical": 2898,
-    "rapid": 8705
-   },
-   "peanet0": {
-    "blitz": 923,
-    "bullet": 1740,
-    "classical": 0,
-    "rapid": 784
-   },
-   "perl-gigachess": {
-    "blitz": 2018,
-    "bullet": 1396,
-    "classical": 284,
-    "rapid": 1069
-   },
-   "phalanx-xxv": {
-    "blitz": 9709,
-    "bullet": 17017,
-    "classical": 2513,
-    "rapid": 4326
-   },
-   "philidor-142m": {
-    "blitz": 1872,
-    "bullet": 1632,
-    "classical": 444,
-    "rapid": 991
-   },
-   "pi0w": {
-    "blitz": 2841,
-    "bullet": 2333,
-    "classical": 4,
-    "rapid": 932
-   },
-   "piebot": {
-    "blitz": 812,
-    "bullet": 1032,
-    "classical": 22,
-    "rapid": 396
-   },
-   "piglet_engine": {
-    "blitz": 1936,
-    "bullet": 6441,
-    "classical": 0,
-    "rapid": 47
-   },
-   "pirates1": {
-    "blitz": 384,
-    "bullet": 264,
-    "classical": 14,
-    "rapid": 93
-   },
-   "pirates2": {
-    "blitz": 161,
-    "bullet": 97,
-    "classical": 0,
-    "rapid": 50
-   },
-   "piratesrust": {
-    "blitz": 34,
-    "bullet": 30,
-    "classical": 2,
-    "rapid": 3
-   },
-   "platinumbot": {
-    "blitz": 9,
-    "bullet": 6,
-    "classical": 1,
-    "rapid": 0
-   },
-   "playmarius": {
-    "blitz": 3014,
-    "bullet": 1333,
-    "classical": 503,
-    "rapid": 1391
-   },
-   "plumboi": {
-    "blitz": 2032,
-    "bullet": 2099,
-    "classical": 289,
-    "rapid": 469
-   },
-   "prawn_bot": {
-    "blitz": 201,
-    "bullet": 109,
-    "classical": 0,
-    "rapid": 128
-   },
-   "princessyuribot": {
-    "blitz": 0,
-    "bullet": 0,
-    "classical": 1,
-    "rapid": 0
-   },
-   "project_nebulora": {
-    "blitz": 1831,
-    "bullet": 1815,
-    "classical": 416,
-    "rapid": 996
-   },
-   "prokopakop": {
-    "blitz": 17117,
-    "bullet": 16268,
-    "classical": 0,
-    "rapid": 0
-   },
-   "prometheus_truce": {
-    "blitz": 14,
-    "bullet": 0,
-    "classical": 0,
-    "rapid": 0
-   },
-   "prosperobot": {
-    "blitz": 3906,
-    "bullet": 1399,
-    "classical": 52,
-    "rapid": 387
-   },
-   "proteinbender": {
-    "blitz": 0,
-    "bullet": 0,
-    "classical": 0,
-    "rapid": 0
-   },
-   "pseudo-0": {
-    "blitz": 9795,
-    "bullet": 13988,
-    "classical": 2639,
-    "rapid": 4365
-   },
-   "pseudo-1": {
-    "blitz": 999,
-    "bullet": 1692,
-    "classical": 2,
-    "rapid": 313
-   },
-   "puisne": {
-    "blitz": 998,
-    "bullet": 445,
-    "classical": 125,
-    "rapid": 1458
-   },
-   "pzchessbot": {
-    "blitz": 15944,
-    "bullet": 6868,
-    "classical": 838,
-    "rapid": 8046
-   },
-   "queensgambot": {
-    "blitz": 15235,
-    "bullet": 15361,
-    "classical": 0,
-    "rapid": 3
-   },
-   "r0bspierre": {
-    "blitz": 48230,
-    "bullet": 2217,
-    "classical": 0,
-    "rapid": 1528
-   },
-   "radianceengine": {
-    "blitz": 24485,
-    "bullet": 11951,
-    "classical": 7155,
-    "rapid": 12404
-   },
-   "randmaster_bot": {
-    "blitz": 345,
-    "bullet": 318,
-    "classical": 276,
-    "rapid": 172
-   },
-   "randmaster_egtb": {
-    "blitz": 265,
-    "bullet": 410,
-    "classical": 193,
-    "rapid": 138
-   },
-   "randomkerbal": {
-    "blitz": 82,
-    "bullet": 0,
-    "classical": 0,
-    "rapid": 92
-   },
-   "raspfish": {
-    "blitz": 73008,
-    "bullet": 161143,
-    "classical": 5365,
-    "rapid": 22735
-   },
-   "ratkingbot": {
-    "blitz": 3755,
-    "bullet": 1863,
-    "classical": 1387,
-    "rapid": 2302
-   },
-   "ratsu-bot": {
-    "blitz": 5125,
-    "bullet": 4946,
-    "classical": 0,
-    "rapid": 261
-   },
-   "raven030": {
-    "blitz": 4983,
-    "bullet": 3495,
-    "classical": 263,
-    "rapid": 3767
-   },
-   "ravenengine": {
-    "blitz": 19592,
-    "bullet": 24383,
-    "classical": 1573,
-    "rapid": 8917
-   },
-   "rdtchessbot": {
-    "blitz": 516,
-    "bullet": 587,
-    "classical": 56,
-    "rapid": 323
-   },
-   "redbeantree": {
-    "blitz": 2092,
-    "bullet": 681,
-    "classical": 0,
-    "rapid": 983
-   },
-   "registerpythonspeed": {
-    "blitz": 131,
-    "bullet": 173,
-    "classical": 12,
-    "rapid": 82
-   },
-   "renegadeengine": {
-    "blitz": 7552,
-    "bullet": 2954,
-    "classical": 0,
-    "rapid": 1033
-   },
-   "reptilesbedamned": {
-    "blitz": 185,
-    "bullet": 31,
-    "classical": 24,
-    "rapid": 143
-   },
-   "resolutebot": {
-    "blitz": 19612,
-    "bullet": 38668,
-    "classical": 1655,
-    "rapid": 8760
-   },
-   "ribfish-bot": {
-    "blitz": 1828,
-    "bullet": 995,
-    "classical": 0,
-    "rapid": 347
-   },
-   "robotjfischer": {
-    "blitz": 23,
-    "bullet": 0,
-    "classical": 55,
-    "rapid": 2102
-   },
-   "rockingsuperstars": {
-    "blitz": 238,
-    "bullet": 314,
-    "classical": 6,
-    "rapid": 42
-   },
-   "rodent-iv": {
-    "blitz": 3117,
-    "bullet": 1750,
-    "classical": 1021,
-    "rapid": 1987
-   },
-   "rodent-v": {
-    "blitz": 579,
-    "bullet": 230,
-    "classical": 105,
-    "rapid": 402
-   },
-   "romanticbot": {
-    "blitz": 1344,
-    "bullet": 1218,
-    "classical": 19,
-    "rapid": 196
-   },
-   "romanticbot2": {
-    "blitz": 2022,
-    "bullet": 1975,
-    "classical": 0,
-    "rapid": 64
-   },
-   "rotor-bot": {
-    "blitz": 64,
-    "bullet": 0,
-    "classical": 0,
-    "rapid": 0
-   },
-   "rpibot73": {
-    "blitz": 3162,
-    "bullet": 2016,
-    "classical": 398,
-    "rapid": 1920
-   },
-   "rudim-bot": {
-    "blitz": 34876,
-    "bullet": 11980,
-    "classical": 833,
-    "rapid": 3525
-   },
-   "rust-in-pieces": {
-    "blitz": 816,
-    "bullet": 2316,
-    "classical": 0,
-    "rapid": 2331
-   },
-   "rustbot2003": {
-    "blitz": 194,
-    "bullet": 134,
-    "classical": 0,
-    "rapid": 34
-   },
-   "rustyrival": {
-    "blitz": 1462,
-    "bullet": 924,
-    "classical": 121,
-    "rapid": 553
-   },
-   "ryu-ishigori": {
-    "blitz": 27,
-    "bullet": 6,
-    "classical": 3,
-    "rapid": 9
-   },
-   "sara32222": {
-    "blitz": 26,
-    "bullet": 17,
-    "classical": 1,
-    "rapid": 3
-   },
-   "sara_bot": {
-    "blitz": 112,
-    "bullet": 81,
-    "classical": 6,
-    "rapid": 16
-   },
-   "sargon-1ply": {
-    "blitz": 37672,
-    "bullet": 19795,
-    "classical": 16464,
-    "rapid": 53260
-   },
-   "sargon-2ply": {
-    "blitz": 25599,
-    "bullet": 15144,
-    "classical": 9078,
-    "rapid": 33071
-   },
-   "sargon-3ply": {
-    "blitz": 19368,
-    "bullet": 12667,
-    "classical": 4490,
-    "rapid": 13127
-   },
-   "sargon-4ply": {
-    "blitz": 23451,
-    "bullet": 15647,
-    "classical": 2718,
-    "rapid": 10471
-   },
-   "saxtonengine": {
-    "blitz": 9547,
-    "bullet": 14855,
-    "classical": 1841,
-    "rapid": 4563
-   },
-   "scalaqueen": {
-    "blitz": 4526,
-    "bullet": 4534,
-    "classical": 331,
-    "rapid": 3596
-   },
-   "schnecken_bot": {
-    "blitz": 18582,
-    "bullet": 12612,
-    "classical": 1566,
-    "rapid": 6966
-   },
-   "scipio-bot": {
-    "blitz": 1543,
-    "bullet": 455,
-    "classical": 1,
-    "rapid": 958
-   },
-   "seitogakatsu": {
-    "blitz": 1542,
-    "bullet": 2408,
-    "classical": 66,
-    "rapid": 550
-   },
-   "sf_bot1nok": {
-    "blitz": 6292,
-    "bullet": 7354,
-    "classical": 17,
-    "rapid": 1844
-   },
-   "sharpsundae": {
-    "blitz": 1261,
-    "bullet": 1007,
-    "classical": 100,
-    "rapid": 776
-   },
-   "shrevenbot": {
-    "blitz": 2026,
-    "bullet": 1894,
-    "classical": 96,
-    "rapid": 654
-   },
-   "silverpike": {
-    "blitz": 243,
-    "bullet": 154,
-    "classical": 0,
-    "rapid": 126
-   },
-   "sim3million": {
-    "blitz": 7,
-    "bullet": 30,
-    "classical": 0,
-    "rapid": 2
-   },
-   "simbelmyne-bot": {
-    "blitz": 30985,
-    "bullet": 23740,
-    "classical": 9013,
-    "rapid": 15516
-   },
-   "simple-bot": {
-    "blitz": 5469,
-    "bullet": 3670,
-    "classical": 1382,
-    "rapid": 2276
-   },
-   "simplechessnnue": {
-    "blitz": 488,
-    "bullet": 515,
-    "classical": 0,
-    "rapid": 215
-   },
-   "simpleeval": {
-    "blitz": 45989,
-    "bullet": 54143,
-    "classical": 6199,
-    "rapid": 21613
-   },
-   "sj_norbot": {
-    "blitz": 1089,
-    "bullet": 0,
-    "classical": 152,
-    "rapid": 636
-   },
-   "sleepmindengine": {
-    "blitz": 6588,
-    "bullet": 5848,
-    "classical": 1110,
-    "rapid": 3212
-   },
-   "slightknight_11": {
-    "blitz": 0,
-    "bullet": 0,
-    "classical": 0,
-    "rapid": 0
-   },
-   "slothcomputer": {
-    "blitz": 254,
-    "bullet": 27,
-    "classical": 0,
-    "rapid": 52
-   },
-   "slowmate_bot": {
-    "blitz": 5809,
-    "bullet": 2297,
-    "classical": 55,
-    "rapid": 2883
-   },
-   "slychessbot": {
-    "blitz": 82,
-    "bullet": 57,
-    "classical": 0,
-    "rapid": 28
-   },
-   "snapleelaeasy": {
-    "blitz": 31,
-    "bullet": 39,
-    "classical": 3,
-    "rapid": 25
-   },
-   "sohilbot": {
-    "blitz": 128,
-    "bullet": 67,
-    "classical": 0,
-    "rapid": 0
-   },
-   "solidor59": {
-    "blitz": 1895,
-    "bullet": 224,
-    "classical": 0,
-    "rapid": 62
-   },
-   "solobot": {
-    "blitz": 4463,
-    "bullet": 3159,
-    "classical": 1,
-    "rapid": 1695
-   },
-   "solsticeengine": {
-    "blitz": 72,
-    "bullet": 46,
-    "classical": 0,
-    "rapid": 10
-   },
-   "somekindofbot": {
-    "blitz": 79,
-    "bullet": 0,
-    "classical": 0,
-    "rapid": 0
-   },
-   "sonataengine": {
-    "blitz": 22,
-    "bullet": 24,
-    "classical": 1,
-    "rapid": 18
-   },
-   "sonataintelligence": {
-    "blitz": 70,
-    "bullet": 0,
-    "classical": 0,
-    "rapid": 2
-   },
-   "soulgar": {
-    "blitz": 359,
-    "bullet": 337,
-    "classical": 128,
-    "rapid": 431
-   },
-   "southbot": {
-    "blitz": 1688,
-    "bullet": 792,
-    "classical": 0,
-    "rapid": 671
-   },
-   "space_bot": {
-    "blitz": 505,
-    "bullet": 123,
-    "classical": 0,
-    "rapid": 0
-   },
-   "spyros1bot": {
-    "blitz": 1668,
-    "bullet": 1172,
-    "classical": 585,
-    "rapid": 1436
-   },
-   "squarefish-900": {
-    "blitz": 1574,
-    "bullet": 119,
-    "classical": 183,
-    "rapid": 964
-   },
-   "sseh-c": {
-    "blitz": 23289,
-    "bullet": 14322,
-    "classical": 8894,
-    "rapid": 18178
-   },
-   "stepbot_chess": {
-    "blitz": 401,
-    "bullet": 254,
-    "classical": 119,
-    "rapid": 364
-   },
-   "stickshark99": {
-    "blitz": 11226,
-    "bullet": 8686,
-    "classical": 451,
-    "rapid": 2027
-   },
-   "stockbotfisher": {
-    "blitz": 69,
-    "bullet": 20,
-    "classical": 0,
-    "rapid": 9
-   },
-   "stockdory": {
-    "blitz": 43,
-    "bullet": 144,
-    "classical": 17,
-    "rapid": 65
-   },
-   "stockfail": {
-    "blitz": 1048,
-    "bullet": 667,
-    "classical": 0,
-    "rapid": 831
-   },
-   "stockfishlowdepth": {
-    "blitz": 253,
-    "bullet": 286,
-    "classical": 262,
-    "rapid": 217
-   },
-   "stockpapagei": {
-    "blitz": 14,
-    "bullet": 1,
-    "classical": 0,
-    "rapid": 3
-   },
-   "straightbot": {
-    "blitz": 0,
-    "bullet": 0,
-    "classical": 0,
-    "rapid": 0
-   },
-   "streamervschat": {
-    "blitz": 0,
-    "bullet": 0,
-    "classical": 0,
-    "rapid": 0
-   },
-   "studyloversz-bot": {
-    "blitz": 1068,
-    "bullet": 643,
-    "classical": 105,
-    "rapid": 436
-   },
-   "stupidchessrobot": {
-    "blitz": 9912,
-    "bullet": 4831,
-    "classical": 187,
-    "rapid": 790
-   },
-   "stupidfishbotbydscs": {
-    "blitz": 438,
-    "bullet": 316,
-    "classical": 121,
-    "rapid": 141
-   },
-   "styx_reckless": {
-    "blitz": 3879,
-    "bullet": 6235,
-    "classical": 0,
-    "rapid": 130
-   },
-   "subnorbot": {
-    "blitz": 0,
-    "bullet": 211,
-    "classical": 0,
-    "rapid": 0
-   },
-   "succulent-bot": {
-    "blitz": 0,
-    "bullet": 0,
-    "classical": 0,
-    "rapid": 7
-   },
-   "sunfish-engine": {
-    "blitz": 3385,
-    "bullet": 1824,
-    "classical": 7,
-    "rapid": 609
-   },
-   "sunfish-nnue-engine": {
-    "blitz": 3042,
-    "bullet": 1510,
-    "classical": 6,
-    "rapid": 238
-   },
-   "sunfish_rs_v2": {
-    "blitz": 2516,
-    "bullet": 2163,
-    "classical": 0,
-    "rapid": 194
-   },
-   "supergame5": {
-    "blitz": 412,
-    "bullet": 4526,
-    "classical": 0,
-    "rapid": 3
-   },
-   "sxphia": {
-    "blitz": 14594,
-    "bullet": 2458,
-    "classical": 262,
-    "rapid": 1747
-   },
-   "sybaibot": {
-    "blitz": 0,
-    "bullet": 19855,
-    "classical": 0,
-    "rapid": 0
-   },
-   "sybbot": {
-    "blitz": 19801,
-    "bullet": 8986,
-    "classical": 592,
-    "rapid": 4917
-   },
-   "sykorabot": {
-    "blitz": 5582,
-    "bullet": 4849,
-    "classical": 371,
-    "rapid": 1055
-   },
-   "takticprochess": {
-    "blitz": 1713,
-    "bullet": 8799,
-    "classical": 0,
-    "rapid": 407
-   },
-   "talosbot": {
-    "blitz": 17,
-    "bullet": 1877,
-    "classical": 0,
-    "rapid": 0
-   },
-   "teensycheesy": {
-    "blitz": 453,
-    "bullet": 169,
-    "classical": 0,
-    "rapid": 171
-   },
-   "tempocore": {
-    "blitz": 38,
-    "bullet": 35,
-    "classical": 1,
-    "rapid": 2
-   },
-   "terconari": {
-    "blitz": 11205,
-    "bullet": 4343,
-    "classical": 0,
-    "rapid": 13717
-   },
-   "the_baronet": {
-    "blitz": 282,
-    "bullet": 74,
-    "classical": 0,
-    "rapid": 55
-   },
-   "thealexdestroyer": {
-    "blitz": 296,
-    "bullet": 292,
-    "classical": 0,
-    "rapid": 180
-   },
-   "thechessblazer": {
-    "blitz": 730,
-    "bullet": 402,
-    "classical": 0,
-    "rapid": 0
-   },
-   "thomengine": {
-    "blitz": 175,
-    "bullet": 167,
-    "classical": 0,
-    "rapid": 0
-   },
-   "throrbjorn": {
-    "blitz": 5326,
-    "bullet": 4724,
-    "classical": 270,
-    "rapid": 1402
-   },
-   "thunfisch-bot": {
-    "blitz": 6321,
-    "bullet": 7832,
-    "classical": 126,
-    "rapid": 771
-   },
-   "tidymazebot": {
-    "blitz": 447,
-    "bullet": 447,
-    "classical": 35,
-    "rapid": 165
-   },
-   "tigrament": {
-    "blitz": 5345,
-    "bullet": 3100,
-    "classical": 0,
-    "rapid": 427
-   },
-   "tikifish": {
-    "blitz": 3500,
-    "bullet": 924,
-    "classical": 0,
-    "rapid": 311
-   },
-   "tilapiabot": {
-    "blitz": 202,
-    "bullet": 133,
-    "classical": 11,
-    "rapid": 155
-   },
-   "timemachine1858": {
-    "blitz": 341,
-    "bullet": 0,
-    "classical": 0,
-    "rapid": 306
-   },
-   "tm-sovietschool": {
-    "blitz": 256,
-    "bullet": 0,
-    "classical": 0,
-    "rapid": 136
-   },
-   "togaii": {
-    "blitz": 553,
-    "bullet": 791,
-    "classical": 0,
-    "rapid": 220
-   },
-   "tonyengine": {
-    "blitz": 181,
-    "bullet": 75,
-    "classical": 0,
-    "rapid": 90
-   },
-   "topasbot": {
-    "blitz": 12916,
-    "bullet": 2720,
-    "classical": 3286,
-    "rapid": 6884
-   },
-   "torombot": {
-    "blitz": 68391,
-    "bullet": 170845,
-    "classical": 47,
-    "rapid": 13681
-   },
-   "trainer-bot": {
-    "blitz": 12100,
-    "bullet": 721,
-    "classical": 6540,
-    "rapid": 6615
-   },
-   "trenerhetman": {
-    "blitz": 0,
-    "bullet": 0,
-    "classical": 0,
-    "rapid": 0
-   },
-   "troutbot": {
-    "blitz": 15299,
-    "bullet": 8029,
-    "classical": 911,
-    "rapid": 4041
-   },
-   "trusia12345678": {
-    "blitz": 934,
-    "bullet": 1021,
-    "classical": 26,
-    "rapid": 361
-   },
-   "tucuengine": {
-    "blitz": 482,
-    "bullet": 181,
-    "classical": 189,
-    "rapid": 761
-   },
-   "turk_gambit": {
-    "blitz": 4,
-    "bullet": 0,
-    "classical": 0,
-    "rapid": 0
-   },
-   "turkjs": {
-    "blitz": 32347,
-    "bullet": 31924,
-    "classical": 3233,
-    "rapid": 15628
-   },
-   "turochamp-1ply": {
-    "blitz": 18841,
-    "bullet": 12636,
-    "classical": 5396,
-    "rapid": 17594
-   },
-   "turochamp-2ply": {
-    "blitz": 18664,
-    "bullet": 12508,
-    "classical": 5278,
-    "rapid": 13105
-   },
-   "turox-bot": {
-    "blitz": 684,
-    "bullet": 585,
-    "classical": 0,
-    "rapid": 24
-   },
-   "ultrabrick": {
-    "blitz": 28041,
-    "bullet": 8308,
-    "classical": 2173,
-    "rapid": 13667
-   },
-   "unimark": {
-    "blitz": 263,
-    "bullet": 134,
-    "classical": 7,
-    "rapid": 89
-   },
-   "unknownstockfish": {
-    "blitz": 186,
-    "bullet": 6,
-    "classical": 0,
-    "rapid": 55
-   },
-   "ursus_bot": {
-    "blitz": 4232,
-    "bullet": 3036,
-    "classical": 0,
-    "rapid": 1835
-   },
-   "usunfish": {
-    "blitz": 1450,
-    "bullet": 89,
-    "classical": 178,
-    "rapid": 3432
-   },
-   "usunfish-l0": {
-    "blitz": 7604,
-    "bullet": 5527,
-    "classical": 2342,
-    "rapid": 8677
-   },
-   "usunfish-l1": {
-    "blitz": 8707,
-    "bullet": 4313,
-    "classical": 1222,
-    "rapid": 6136
-   },
-   "usunfish-l7": {
-    "blitz": 4230,
-    "bullet": 428,
-    "classical": 412,
-    "rapid": 6835
-   },
-   "uxugin-bot": {
-    "blitz": 3060,
-    "bullet": 970,
-    "classical": 1414,
-    "rapid": 4036
-   },
-   "uzenatch": {
-    "blitz": 4004,
-    "bullet": 3456,
-    "classical": 0,
-    "rapid": 1334
-   },
-   "v7p3r_bot": {
-    "blitz": 4138,
-    "bullet": 1025,
-    "classical": 427,
-    "rapid": 2112
-   },
-   "vadbot": {
-    "blitz": 565,
-    "bullet": 324,
-    "classical": 0,
-    "rapid": 274
-   },
-   "valhalla-bot": {
-    "blitz": 3428,
-    "bullet": 3237,
-    "classical": 218,
-    "rapid": 1958
-   },
-   "vanibot": {
-    "blitz": 2915,
-    "bullet": 1126,
-    "classical": 109,
-    "rapid": 2471
-   },
-   "variantsbot": {
-    "blitz": 0,
-    "bullet": 2,
-    "classical": 0,
-    "rapid": 0
-   },
-   "vic98lg": {
-    "blitz": 3852,
-    "bullet": 3235,
-    "classical": 0,
-    "rapid": 6
-   },
-   "vicentlittle": {
-    "blitz": 0,
-    "bullet": 0,
-    "classical": 0,
-    "rapid": 153
-   },
-   "vidbot": {
-    "blitz": 4742,
-    "bullet": 2362,
-    "classical": 168,
-    "rapid": 2105
-   },
-   "vietnamesecoffee": {
-    "blitz": 4185,
-    "bullet": 2990,
-    "classical": 46,
-    "rapid": 1738
-   },
-   "violentstockfish": {
-    "blitz": 9034,
-    "bullet": 8574,
-    "classical": 376,
-    "rapid": 1265
-   },
-   "virutor": {
-    "blitz": 13738,
-    "bullet": 11553,
-    "classical": 1323,
-    "rapid": 5993
-   },
-   "void_bot": {
-    "blitz": 3704,
-    "bullet": 3505,
-    "classical": 295,
-    "rapid": 1858
-   },
-   "voigtsbach": {
-    "blitz": 471,
-    "bullet": 122,
-    "classical": 0,
-    "rapid": 219
-   },
-   "vortexinbrp": {
-    "blitz": 40,
-    "bullet": 13,
-    "classical": 0,
-    "rapid": 29
-   },
-   "walleye_bot": {
-    "blitz": 3503,
-    "bullet": 2900,
-    "classical": 0,
-    "rapid": 1803
-   },
-   "walpurti": {
-    "blitz": 2130,
-    "bullet": 2086,
-    "classical": 1536,
-    "rapid": 1838
-   },
-   "wannalearnbot": {
-    "blitz": 171,
-    "bullet": 70,
-    "classical": 0,
-    "rapid": 36
-   },
-   "wardnbot": {
-    "blitz": 73,
-    "bullet": 26,
-    "classical": 266,
-    "rapid": 90
-   },
-   "weiawaga": {
-    "blitz": 36188,
-    "bullet": 43913,
-    "classical": 13926,
-    "rapid": 24364
-   },
-   "weirdstockfish": {
-    "blitz": 45,
-    "bullet": 33,
-    "classical": 0,
-    "rapid": 7
-   },
-   "weledar-bot": {
-    "blitz": 193,
-    "bullet": 26,
-    "classical": 0,
-    "rapid": 35
-   },
-   "wildorderbot": {
-    "blitz": 2082,
-    "bullet": 487,
-    "classical": 40,
-    "rapid": 200
-   },
-   "wippy-bot": {
-    "blitz": 38,
-    "bullet": 25,
-    "classical": 4,
-    "rapid": 15
-   },
-   "wolfuhfuhbot": {
-    "blitz": 25279,
-    "bullet": 24455,
-    "classical": 0,
-    "rapid": 8475
-   },
-   "worserbot": {
-    "blitz": 0,
-    "bullet": 0,
-    "classical": 0,
-    "rapid": 0
-   },
-   "worst-ai": {
-    "blitz": 6510,
-    "bullet": 861,
-    "classical": 3,
-    "rapid": 310
-   },
-   "worstfish": {
-    "blitz": 0,
-    "bullet": 0,
-    "classical": 0,
-    "rapid": 0
-   },
-   "wyxx210704_bot": {
-    "blitz": 71,
-    "bullet": 45,
-    "classical": 17,
-    "rapid": 42
-   },
-   "xewali": {
-    "blitz": 33,
-    "bullet": 14,
-    "classical": 5,
-    "rapid": 20
-   },
-   "z-o_aspenlabs": {
-    "blitz": 66,
-    "bullet": 0,
-    "classical": 0,
-    "rapid": 2707
-   },
-   "zagreus_engine": {
-    "blitz": 10584,
-    "bullet": 9521,
-    "classical": 20,
-    "rapid": 5388
-   },
-   "zeno-bot": {
-    "blitz": 3032,
-    "bullet": 1586,
-    "classical": 63,
-    "rapid": 555
-   },
-   "zero3-now": {
-    "blitz": 1043,
-    "bullet": 281,
-    "classical": 0,
-    "rapid": 94
-   },
-   "zion-bot": {
-    "blitz": 439,
-    "bullet": 181,
-    "classical": 10,
-    "rapid": 123
-   },
-   "zobristhaescher": {
-    "blitz": 1580,
-    "bullet": 1427,
-    "classical": 7,
-    "rapid": 65
-   }
-  },
   "2026-10-07": {
    "aaronsengine": {
     "blitz": 3506,
@@ -35075,6 +31407,4196 @@
     "bullet": 246,
     "classical": 18,
     "rapid": 184
+   },
+   "zobristhaescher": {
+    "blitz": 1580,
+    "bullet": 1427,
+    "classical": 7,
+    "rapid": 65
+   }
+  },
+  "2026-10-15": {
+   "aaronsengine": {
+    "blitz": 3608,
+    "bullet": 2036,
+    "classical": 1219,
+    "rapid": 1510
+   },
+   "aatk_vanguardx": {
+    "blitz": 1032,
+    "bullet": 641,
+    "classical": 41,
+    "rapid": 207
+   },
+   "abcd_engine": {
+    "blitz": 5444,
+    "bullet": 5109,
+    "classical": 484,
+    "rapid": 2274
+   },
+   "abdcebot": {
+    "blitz": 5595,
+    "bullet": 6477,
+    "classical": 0,
+    "rapid": 2273
+   },
+   "aconcaguabot": {
+    "blitz": 8661,
+    "bullet": 6189,
+    "classical": 0,
+    "rapid": 3671
+   },
+   "adamantbot_v1": {
+    "blitz": 399,
+    "bullet": 283,
+    "classical": 146,
+    "rapid": 248
+   },
+   "admete_bot": {
+    "blitz": 14267,
+    "bullet": 40676,
+    "classical": 4,
+    "rapid": 8770
+   },
+   "aerialsbot": {
+    "blitz": 37,
+    "bullet": 39,
+    "classical": 0,
+    "rapid": 37
+   },
+   "aetherbot": {
+    "blitz": 10801,
+    "bullet": 7141,
+    "classical": 688,
+    "rapid": 4466
+   },
+   "agentc313": {
+    "blitz": 1932,
+    "bullet": 0,
+    "classical": 0,
+    "rapid": 735
+   },
+   "aggressivestockfish": {
+    "blitz": 6204,
+    "bullet": 3442,
+    "classical": 568,
+    "rapid": 2386
+   },
+   "ai-con": {
+    "blitz": 25275,
+    "bullet": 19791,
+    "classical": 1225,
+    "rapid": 15554
+   },
+   "ailedbot": {
+    "blitz": 323,
+    "bullet": 283,
+    "classical": 0,
+    "rapid": 250
+   },
+   "ajedrezchamberi": {
+    "blitz": 323,
+    "bullet": 702,
+    "classical": 115,
+    "rapid": 176
+   },
+   "alarm2001": {
+    "blitz": 911,
+    "bullet": 727,
+    "classical": 0,
+    "rapid": 597
+   },
+   "alexandrya": {
+    "blitz": 2284,
+    "bullet": 1042,
+    "classical": 519,
+    "rapid": 903
+   },
+   "aliceshiro": {
+    "blitz": 0,
+    "bullet": 0,
+    "classical": 0,
+    "rapid": 0
+   },
+   "alieknek": {
+    "blitz": 1365,
+    "bullet": 118,
+    "classical": 0,
+    "rapid": 50
+   },
+   "alliethechessbot": {
+    "blitz": 3819,
+    "bullet": 1417,
+    "classical": 1048,
+    "rapid": 9633
+   },
+   "alphanolla": {
+    "blitz": 274,
+    "bullet": 0,
+    "classical": 2,
+    "rapid": 17
+   },
+   "amazingcutter": {
+    "blitz": 13,
+    "bullet": 2,
+    "classical": 1,
+    "rapid": 1
+   },
+   "andobot": {
+    "blitz": 4568,
+    "bullet": 4371,
+    "classical": 0,
+    "rapid": 772
+   },
+   "anenginebott": {
+    "blitz": 53,
+    "bullet": 2,
+    "classical": 0,
+    "rapid": 17
+   },
+   "anenginebott2": {
+    "blitz": 302,
+    "bullet": 16,
+    "classical": 1,
+    "rapid": 80
+   },
+   "angela_eng": {
+    "blitz": 907,
+    "bullet": 0,
+    "classical": 0,
+    "rapid": 696
+   },
+   "anna-bot": {
+    "blitz": 1281,
+    "bullet": 213,
+    "classical": 23,
+    "rapid": 916
+   },
+   "annie_archy": {
+    "blitz": 0,
+    "bullet": 0,
+    "classical": 0,
+    "rapid": 0
+   },
+   "anti-bot": {
+    "blitz": 0,
+    "bullet": 0,
+    "classical": 0,
+    "rapid": 0
+   },
+   "antibotv3-7": {
+    "blitz": 8,
+    "bullet": 4,
+    "classical": 1,
+    "rapid": 8
+   },
+   "aposeij": {
+    "blitz": 2032,
+    "bullet": 1335,
+    "classical": 0,
+    "rapid": 648
+   },
+   "approximationbot": {
+    "blitz": 150,
+    "bullet": 76,
+    "classical": 0,
+    "rapid": 11
+   },
+   "arabicahce": {
+    "blitz": 288,
+    "bullet": 163,
+    "classical": 3,
+    "rapid": 57
+   },
+   "arasanx": {
+    "blitz": 29375,
+    "bullet": 15,
+    "classical": 3518,
+    "rapid": 33801
+   },
+   "ariadne-bot": {
+    "blitz": 2609,
+    "bullet": 899,
+    "classical": 0,
+    "rapid": 840
+   },
+   "ariav8": {
+    "blitz": 42,
+    "bullet": 51,
+    "classical": 2,
+    "rapid": 11
+   },
+   "arkiplayschess": {
+    "blitz": 21,
+    "bullet": 236,
+    "classical": 0,
+    "rapid": 7905
+   },
+   "arthurai": {
+    "blitz": 37,
+    "bullet": 9,
+    "classical": 0,
+    "rapid": 28
+   },
+   "artidigm_research": {
+    "blitz": 1750,
+    "bullet": 713,
+    "classical": 30,
+    "rapid": 125
+   },
+   "ashasevidence": {
+    "blitz": 22,
+    "bullet": 8,
+    "classical": 1,
+    "rapid": 16
+   },
+   "ashnostromo": {
+    "blitz": 17328,
+    "bullet": 0,
+    "classical": 152,
+    "rapid": 8557
+   },
+   "ask-aatk-bot": {
+    "blitz": 714,
+    "bullet": 452,
+    "classical": 1,
+    "rapid": 105
+   },
+   "atari-video-chess": {
+    "blitz": 0,
+    "bullet": 0,
+    "classical": 31,
+    "rapid": 112
+   },
+   "atomicenginev1": {
+    "blitz": 0,
+    "bullet": 0,
+    "classical": 0,
+    "rapid": 0
+   },
+   "attackerbotpython": {
+    "blitz": 6,
+    "bullet": 9,
+    "classical": 0,
+    "rapid": 7
+   },
+   "axiom_bot": {
+    "blitz": 5298,
+    "bullet": 3359,
+    "classical": 1384,
+    "rapid": 3313
+   },
+   "azzbot": {
+    "blitz": 316,
+    "bullet": 902,
+    "classical": 0,
+    "rapid": 432
+   },
+   "baby_eubos": {
+    "blitz": 31294,
+    "bullet": 20348,
+    "classical": 1619,
+    "rapid": 7717
+   },
+   "bamsensbadchessbot": {
+    "blitz": 65,
+    "bullet": 51,
+    "classical": 0,
+    "rapid": 23
+   },
+   "banerot": {
+    "blitz": 4578,
+    "bullet": 3056,
+    "classical": 0,
+    "rapid": 579
+   },
+   "battlebornthe1st": {
+    "blitz": 418,
+    "bullet": 258,
+    "classical": 143,
+    "rapid": 301
+   },
+   "battlebornthe2nd": {
+    "blitz": 252,
+    "bullet": 201,
+    "classical": 108,
+    "rapid": 177
+   },
+   "battlebornthe3rd": {
+    "blitz": 213,
+    "bullet": 183,
+    "classical": 64,
+    "rapid": 153
+   },
+   "battlebornthe4th": {
+    "blitz": 242,
+    "bullet": 260,
+    "classical": 96,
+    "rapid": 147
+   },
+   "battlebornthe5th": {
+    "blitz": 296,
+    "bullet": 300,
+    "classical": 108,
+    "rapid": 168
+   },
+   "batyarapro": {
+    "blitz": 3937,
+    "bullet": 1179,
+    "classical": 84,
+    "rapid": 485
+   },
+   "bbc_bot": {
+    "blitz": 1111,
+    "bullet": 956,
+    "classical": 25,
+    "rapid": 175
+   },
+   "beastie1": {
+    "blitz": 1184,
+    "bullet": 1334,
+    "classical": 322,
+    "rapid": 1240
+   },
+   "becela9_kpebetka": {
+    "blitz": 4751,
+    "bullet": 907,
+    "classical": 0,
+    "rapid": 0
+   },
+   "beelzebubzero": {
+    "blitz": 0,
+    "bullet": 0,
+    "classical": 0,
+    "rapid": 275
+   },
+   "belzedarian": {
+    "blitz": 0,
+    "bullet": 0,
+    "classical": 0,
+    "rapid": 0
+   },
+   "berkbot": {
+    "blitz": 3694,
+    "bullet": 3756,
+    "classical": 0,
+    "rapid": 486
+   },
+   "bernstein-2ply": {
+    "blitz": 16979,
+    "bullet": 10136,
+    "classical": 2820,
+    "rapid": 17985
+   },
+   "bernstein-4ply": {
+    "blitz": 14892,
+    "bullet": 9741,
+    "classical": 1769,
+    "rapid": 11676
+   },
+   "bertbot": {
+    "blitz": 820,
+    "bullet": 655,
+    "classical": 159,
+    "rapid": 515
+   },
+   "bfiedler-bot": {
+    "blitz": 57810,
+    "bullet": 6594,
+    "classical": 0,
+    "rapid": 2773
+   },
+   "bhonduesque": {
+    "blitz": 4070,
+    "bullet": 1547,
+    "classical": 1,
+    "rapid": 3959
+   },
+   "bitbitbot": {
+    "blitz": 3537,
+    "bullet": 3908,
+    "classical": 586,
+    "rapid": 618
+   },
+   "black-bishop-kh": {
+    "blitz": 358,
+    "bullet": 347,
+    "classical": 0,
+    "rapid": 6
+   },
+   "blackeventhorizon": {
+    "blitz": 1114,
+    "bullet": 1279,
+    "classical": 28,
+    "rapid": 0
+   },
+   "blindpewce": {
+    "blitz": 58,
+    "bullet": 24,
+    "classical": 16,
+    "rapid": 27
+   },
+   "blobfish-bot": {
+    "blitz": 5287,
+    "bullet": 3565,
+    "classical": 0,
+    "rapid": 962
+   },
+   "blueberry-engine": {
+    "blitz": 172,
+    "bullet": 176,
+    "classical": 0,
+    "rapid": 149
+   },
+   "bluemoonbot": {
+    "blitz": 3023,
+    "bullet": 2291,
+    "classical": 656,
+    "rapid": 1216
+   },
+   "blujay-bot": {
+    "blitz": 258,
+    "bullet": 207,
+    "classical": 35,
+    "rapid": 98
+   },
+   "bobby_pcolla": {
+    "blitz": 18,
+    "bullet": 16,
+    "classical": 2,
+    "rapid": 3
+   },
+   "bongaclang": {
+    "blitz": 2715,
+    "bullet": 1936,
+    "classical": 62,
+    "rapid": 640
+   },
+   "boris-trapsky": {
+    "blitz": 45059,
+    "bullet": 96,
+    "classical": 14239,
+    "rapid": 41419
+   },
+   "borkatower": {
+    "blitz": 6345,
+    "bullet": 5504,
+    "classical": 19,
+    "rapid": 1240
+   },
+   "bot-o-tron": {
+    "blitz": 0,
+    "bullet": 0,
+    "classical": 0,
+    "rapid": 0
+   },
+   "bot1e": {
+    "blitz": 6418,
+    "bullet": 6951,
+    "classical": 23,
+    "rapid": 1896
+   },
+   "bot1nokk": {
+    "blitz": 6772,
+    "bullet": 8496,
+    "classical": 42,
+    "rapid": 2017
+   },
+   "bot5551": {
+    "blitz": 18980,
+    "bullet": 12605,
+    "classical": 1363,
+    "rapid": 7264
+   },
+   "bot64jaques": {
+    "blitz": 17707,
+    "bullet": 17107,
+    "classical": 6,
+    "rapid": 7375
+   },
+   "bot913": {
+    "blitz": 3471,
+    "bullet": 3270,
+    "classical": 2000,
+    "rapid": 2377
+   },
+   "bot_adario": {
+    "blitz": 18960,
+    "bullet": 16556,
+    "classical": 0,
+    "rapid": 9048
+   },
+   "bot_stockfish13": {
+    "blitz": 5351,
+    "bullet": 4162,
+    "classical": 77,
+    "rapid": 76
+   },
+   "botchessbot": {
+    "blitz": 1306,
+    "bullet": 2376,
+    "classical": 0,
+    "rapid": 0
+   },
+   "bothev": {
+    "blitz": 4383,
+    "bullet": 1307,
+    "classical": 81,
+    "rapid": 488
+   },
+   "bothev2": {
+    "blitz": 3696,
+    "bullet": 945,
+    "classical": 81,
+    "rapid": 355
+   },
+   "botkingteam33": {
+    "blitz": 264,
+    "bullet": 291,
+    "classical": 9,
+    "rapid": 73
+   },
+   "bottios": {
+    "blitz": 4636,
+    "bullet": 3781,
+    "classical": 834,
+    "rapid": 1688
+   },
+   "botvunnix": {
+    "blitz": 300,
+    "bullet": 44,
+    "classical": 0,
+    "rapid": 137
+   },
+   "botyuliirma": {
+    "blitz": 2723,
+    "bullet": 4881,
+    "classical": 180,
+    "rapid": 1011
+   },
+   "bretemabot": {
+    "blitz": 4992,
+    "bullet": 3446,
+    "classical": 600,
+    "rapid": 2124
+   },
+   "brybrybot": {
+    "blitz": 6,
+    "bullet": 1,
+    "classical": 0,
+    "rapid": 8
+   },
+   "bubblebot2": {
+    "blitz": 11390,
+    "bullet": 461,
+    "classical": 6448,
+    "rapid": 6462
+   },
+   "bufffishnet": {
+    "blitz": 2094,
+    "bullet": 2193,
+    "classical": 130,
+    "rapid": 1021
+   },
+   "byte-knight": {
+    "blitz": 8168,
+    "bullet": 6268,
+    "classical": 571,
+    "rapid": 3332
+   },
+   "c-t-r-l": {
+    "blitz": 78,
+    "bullet": 111,
+    "classical": 0,
+    "rapid": 21
+   },
+   "c0kval": {
+    "blitz": 20687,
+    "bullet": 2793,
+    "classical": 304,
+    "rapid": 1659
+   },
+   "cactus_bot": {
+    "blitz": 66,
+    "bullet": 7,
+    "classical": 0,
+    "rapid": 48
+   },
+   "caiporabot": {
+    "blitz": 1481,
+    "bullet": 82,
+    "classical": 33,
+    "rapid": 59
+   },
+   "caissa-x": {
+    "blitz": 17905,
+    "bullet": 25126,
+    "classical": 1742,
+    "rapid": 10967
+   },
+   "calciumengine": {
+    "blitz": 434,
+    "bullet": 231,
+    "classical": 27,
+    "rapid": 142
+   },
+   "calico1": {
+    "blitz": 2312,
+    "bullet": 2049,
+    "classical": 398,
+    "rapid": 2047
+   },
+   "cannotcheckmateme": {
+    "blitz": 169,
+    "bullet": 122,
+    "classical": 23,
+    "rapid": 91
+   },
+   "capybara_chessbot": {
+    "blitz": 1693,
+    "bullet": 470,
+    "classical": 147,
+    "rapid": 723
+   },
+   "carmin-bot": {
+    "blitz": 49,
+    "bullet": 294,
+    "classical": 0,
+    "rapid": 0
+   },
+   "casanchess-nnue": {
+    "blitz": 6426,
+    "bullet": 649,
+    "classical": 1789,
+    "rapid": 4121
+   },
+   "catnail": {
+    "blitz": 0,
+    "bullet": 0,
+    "classical": 0,
+    "rapid": 0
+   },
+   "catriever": {
+    "blitz": 5457,
+    "bullet": 6985,
+    "classical": 2363,
+    "rapid": 3364
+   },
+   "ceraf": {
+    "blitz": 651,
+    "bullet": 2,
+    "classical": 0,
+    "rapid": 21
+   },
+   "chamberiajedrez": {
+    "blitz": 543,
+    "bullet": 495,
+    "classical": 86,
+    "rapid": 399
+   },
+   "chaotong_engine": {
+    "blitz": 257,
+    "bullet": 175,
+    "classical": 15,
+    "rapid": 89
+   },
+   "charibot": {
+    "blitz": 0,
+    "bullet": 0,
+    "classical": 0,
+    "rapid": 0
+   },
+   "chatgpt5_5": {
+    "blitz": 1103,
+    "bullet": 508,
+    "classical": 37,
+    "rapid": 278
+   },
+   "checkmare666bot": {
+    "blitz": 57,
+    "bullet": 140,
+    "classical": 4,
+    "rapid": 19
+   },
+   "checkmatebutlouder": {
+    "blitz": 0,
+    "bullet": 0,
+    "classical": 0,
+    "rapid": 0
+   },
+   "cheesestar": {
+    "blitz": 197,
+    "bullet": 165,
+    "classical": 0,
+    "rapid": 174
+   },
+   "cheng-4": {
+    "blitz": 11395,
+    "bullet": 22950,
+    "classical": 2903,
+    "rapid": 6093
+   },
+   "cheng-4-nn": {
+    "blitz": 1469,
+    "bullet": 3208,
+    "classical": 234,
+    "rapid": 610
+   },
+   "chengine_rookery": {
+    "blitz": 20,
+    "bullet": 7,
+    "classical": 26,
+    "rapid": 428
+   },
+   "chess-dragon1": {
+    "blitz": 2255,
+    "bullet": 679,
+    "classical": 31,
+    "rapid": 148
+   },
+   "chess3bot": {
+    "blitz": 5713,
+    "bullet": 3226,
+    "classical": 269,
+    "rapid": 974
+   },
+   "chess_set_manager": {
+    "blitz": 863,
+    "bullet": 721,
+    "classical": 0,
+    "rapid": 0
+   },
+   "chessatronbot": {
+    "blitz": 15098,
+    "bullet": 10724,
+    "classical": 910,
+    "rapid": 9113
+   },
+   "chessblight": {
+    "blitz": 816,
+    "bullet": 405,
+    "classical": 43,
+    "rapid": 1000
+   },
+   "chessbot2880": {
+    "blitz": 3281,
+    "bullet": 13637,
+    "classical": 14,
+    "rapid": 338
+   },
+   "chessbzero": {
+    "blitz": 0,
+    "bullet": 0,
+    "classical": 0,
+    "rapid": 0
+   },
+   "chesschildren": {
+    "blitz": 28842,
+    "bullet": 22613,
+    "classical": 2248,
+    "rapid": 8529
+   },
+   "chessgeniusbot": {
+    "blitz": 2,
+    "bullet": 0,
+    "classical": 16,
+    "rapid": 64
+   },
+   "chessiverse_ethan": {
+    "blitz": 3835,
+    "bullet": 0,
+    "classical": 0,
+    "rapid": 0
+   },
+   "chessiverse_luc": {
+    "blitz": 3574,
+    "bullet": 0,
+    "classical": 0,
+    "rapid": 0
+   },
+   "chessiverse_pawnza": {
+    "blitz": 4581,
+    "bullet": 0,
+    "classical": 0,
+    "rapid": 0
+   },
+   "chessiverse_raak": {
+    "blitz": 4136,
+    "bullet": 0,
+    "classical": 0,
+    "rapid": 0
+   },
+   "chesspion96": {
+    "blitz": 11,
+    "bullet": 162,
+    "classical": 0,
+    "rapid": 6
+   },
+   "chesstango_bot": {
+    "blitz": 3276,
+    "bullet": 3053,
+    "classical": 0,
+    "rapid": 3030
+   },
+   "chesstransformerbot": {
+    "blitz": 909,
+    "bullet": 463,
+    "classical": 0,
+    "rapid": 196
+   },
+   "cheszter": {
+    "blitz": 9951,
+    "bullet": 18643,
+    "classical": 1055,
+    "rapid": 3726
+   },
+   "chill4ce": {
+    "blitz": 1439,
+    "bullet": 297,
+    "classical": 73,
+    "rapid": 390
+   },
+   "chronicgambler": {
+    "blitz": 1964,
+    "bullet": 1742,
+    "classical": 104,
+    "rapid": 648
+   },
+   "chrusty": {
+    "blitz": 211,
+    "bullet": 99,
+    "classical": 0,
+    "rapid": 0
+   },
+   "cinder-bot": {
+    "blitz": 13599,
+    "bullet": 10184,
+    "classical": 3134,
+    "rapid": 8939
+   },
+   "cizme": {
+    "blitz": 5875,
+    "bullet": 3596,
+    "classical": 776,
+    "rapid": 3251
+   },
+   "classic_bot-v2": {
+    "blitz": 5983,
+    "bullet": 3089,
+    "classical": 49,
+    "rapid": 139
+   },
+   "classical-leela": {
+    "blitz": 1148,
+    "bullet": 1041,
+    "classical": 117,
+    "rapid": 607
+   },
+   "claude_bot": {
+    "blitz": 248,
+    "bullet": 0,
+    "classical": 3,
+    "rapid": 236
+   },
+   "claudyengine": {
+    "blitz": 240,
+    "bullet": 133,
+    "classical": 2,
+    "rapid": 13
+   },
+   "clementyne1": {
+    "blitz": 2293,
+    "bullet": 1437,
+    "classical": 736,
+    "rapid": 1639
+   },
+   "cloudia-chess": {
+    "blitz": 590,
+    "bullet": 536,
+    "classical": 75,
+    "rapid": 476
+   },
+   "cloudnetbot": {
+    "blitz": 17005,
+    "bullet": 11089,
+    "classical": 429,
+    "rapid": 2186
+   },
+   "clrsrc_lc0": {
+    "blitz": 6419,
+    "bullet": 1455,
+    "classical": 75,
+    "rapid": 559
+   },
+   "coda_bot": {
+    "blitz": 5807,
+    "bullet": 4771,
+    "classical": 0,
+    "rapid": 3262
+   },
+   "codabot": {
+    "blitz": 4873,
+    "bullet": 3301,
+    "classical": 0,
+    "rapid": 3033
+   },
+   "colinbot": {
+    "blitz": 5574,
+    "bullet": 19883,
+    "classical": 52,
+    "rapid": 169
+   },
+   "colossusbot": {
+    "blitz": 3928,
+    "bullet": 2604,
+    "classical": 612,
+    "rapid": 1459
+   },
+   "confidencebuilder": {
+    "blitz": 945,
+    "bullet": 528,
+    "classical": 7,
+    "rapid": 689
+   },
+   "consolechessdev": {
+    "blitz": 308,
+    "bullet": 120,
+    "classical": 0,
+    "rapid": 257
+   },
+   "consolechessfastbot": {
+    "blitz": 901,
+    "bullet": 656,
+    "classical": 0,
+    "rapid": 609
+   },
+   "cookiebot711": {
+    "blitz": 478,
+    "bullet": 133,
+    "classical": 8,
+    "rapid": 200
+   },
+   "coolperson_bot1": {
+    "blitz": 364,
+    "bullet": 47,
+    "classical": 0,
+    "rapid": 258
+   },
+   "cosettebot": {
+    "blitz": 26729,
+    "bullet": 30855,
+    "classical": 7254,
+    "rapid": 16920
+   },
+   "crapbot": {
+    "blitz": 141,
+    "bullet": 67,
+    "classical": 0,
+    "rapid": 59
+   },
+   "creaticachessbot": {
+    "blitz": 857,
+    "bullet": 0,
+    "classical": 0,
+    "rapid": 2
+   },
+   "croco_bot": {
+    "blitz": 2768,
+    "bullet": 2145,
+    "classical": 396,
+    "rapid": 1630
+   },
+   "croco_little_bot": {
+    "blitz": 8833,
+    "bullet": 4524,
+    "classical": 1535,
+    "rapid": 4599
+   },
+   "crocodile_bot": {
+    "blitz": 2132,
+    "bullet": 1709,
+    "classical": 403,
+    "rapid": 1465
+   },
+   "cruelken": {
+    "blitz": 5977,
+    "bullet": 2805,
+    "classical": 152,
+    "rapid": 2649
+   },
+   "cutebot": {
+    "blitz": 1147,
+    "bullet": 1275,
+    "classical": 52,
+    "rapid": 1029
+   },
+   "daisy-bot": {
+    "blitz": 208,
+    "bullet": 82,
+    "classical": 0,
+    "rapid": 71
+   },
+   "dala-1100": {
+    "blitz": 3925,
+    "bullet": 0,
+    "classical": 660,
+    "rapid": 3288
+   },
+   "dala-1300": {
+    "blitz": 5585,
+    "bullet": 0,
+    "classical": 727,
+    "rapid": 3595
+   },
+   "dala-1600": {
+    "blitz": 588,
+    "bullet": 0,
+    "classical": 147,
+    "rapid": 695
+   },
+   "dala-2000": {
+    "blitz": 1439,
+    "bullet": 167,
+    "classical": 130,
+    "rapid": 1260
+   },
+   "dala-700": {
+    "blitz": 4640,
+    "bullet": 6,
+    "classical": 1444,
+    "rapid": 4115
+   },
+   "dala-900": {
+    "blitz": 4342,
+    "bullet": 0,
+    "classical": 960,
+    "rapid": 4421
+   },
+   "darkelectronbot": {
+    "blitz": 3335,
+    "bullet": 2173,
+    "classical": 0,
+    "rapid": 0
+   },
+   "darkforestbot": {
+    "blitz": 0,
+    "bullet": 0,
+    "classical": 0,
+    "rapid": 0
+   },
+   "darkonbot": {
+    "blitz": 11871,
+    "bullet": 20925,
+    "classical": 2933,
+    "rapid": 4827
+   },
+   "darkonweakbot": {
+    "blitz": 2073,
+    "bullet": 4390,
+    "classical": 248,
+    "rapid": 1433
+   },
+   "dassi-ai": {
+    "blitz": 30,
+    "bullet": 4,
+    "classical": 0,
+    "rapid": 7
+   },
+   "davidsguterbot": {
+    "blitz": 19044,
+    "bullet": 20182,
+    "classical": 1,
+    "rapid": 5049
+   },
+   "debzero": {
+    "blitz": 9443,
+    "bullet": 4585,
+    "classical": 1890,
+    "rapid": 4225
+   },
+   "deepbecky": {
+    "blitz": 4656,
+    "bullet": 2750,
+    "classical": 147,
+    "rapid": 1194
+   },
+   "deepsquare-ai": {
+    "blitz": 1526,
+    "bullet": 1582,
+    "classical": 0,
+    "rapid": 287
+   },
+   "demen100ns-bot": {
+    "blitz": 3181,
+    "bullet": 1661,
+    "classical": 0,
+    "rapid": 1105
+   },
+   "demolito_l1": {
+    "blitz": 3336,
+    "bullet": 994,
+    "classical": 319,
+    "rapid": 2127
+   },
+   "demolito_l2": {
+    "blitz": 5094,
+    "bullet": 1419,
+    "classical": 410,
+    "rapid": 2814
+   },
+   "demolito_l3": {
+    "blitz": 11028,
+    "bullet": 2596,
+    "classical": 861,
+    "rapid": 6961
+   },
+   "demolito_l4": {
+    "blitz": 18408,
+    "bullet": 6831,
+    "classical": 1493,
+    "rapid": 13991
+   },
+   "demolito_l5": {
+    "blitz": 21256,
+    "bullet": 8612,
+    "classical": 1720,
+    "rapid": 15614
+   },
+   "demolito_l6": {
+    "blitz": 20644,
+    "bullet": 9561,
+    "classical": 1799,
+    "rapid": 14209
+   },
+   "dgtrychess": {
+    "blitz": 820,
+    "bullet": 337,
+    "classical": 543,
+    "rapid": 1064
+   },
+   "dontshameelon": {
+    "blitz": 1,
+    "bullet": 0,
+    "classical": 0,
+    "rapid": 0
+   },
+   "dragonrosedev": {
+    "blitz": 1212,
+    "bullet": 918,
+    "classical": 17,
+    "rapid": 389
+   },
+   "dragoodle": {
+    "blitz": 303,
+    "bullet": 138,
+    "classical": 68,
+    "rapid": 169
+   },
+   "drawfish-reborn": {
+    "blitz": 0,
+    "bullet": 0,
+    "classical": 0,
+    "rapid": 0
+   },
+   "drewschessmachine": {
+    "blitz": 216,
+    "bullet": 155,
+    "classical": 86,
+    "rapid": 184
+   },
+   "dtsudo": {
+    "blitz": 953,
+    "bullet": 1076,
+    "classical": 32,
+    "rapid": 214
+   },
+   "duchessai": {
+    "blitz": 28523,
+    "bullet": 26473,
+    "classical": 9002,
+    "rapid": 19491
+   },
+   "dumbotai": {
+    "blitz": 1255,
+    "bullet": 225,
+    "classical": 109,
+    "rapid": 545
+   },
+   "eclipsebot": {
+    "blitz": 318,
+    "bullet": 241,
+    "classical": 456,
+    "rapid": 340
+   },
+   "edwardkillick": {
+    "blitz": 8884,
+    "bullet": 6232,
+    "classical": 365,
+    "rapid": 4744
+   },
+   "eigenmann-chess": {
+    "blitz": 3872,
+    "bullet": 1382,
+    "classical": 0,
+    "rapid": 176
+   },
+   "elachessbot": {
+    "blitz": 2106,
+    "bullet": 1139,
+    "classical": 776,
+    "rapid": 1319
+   },
+   "elephantgambitengine": {
+    "blitz": 300,
+    "bullet": 307,
+    "classical": 0,
+    "rapid": 46
+   },
+   "elexunix_chess_bot": {
+    "blitz": 86,
+    "bullet": 38,
+    "classical": 3,
+    "rapid": 24
+   },
+   "ellen_replay": {
+    "blitz": 1640,
+    "bullet": 127,
+    "classical": 174,
+    "rapid": 896
+   },
+   "elmichess": {
+    "blitz": 5423,
+    "bullet": 5015,
+    "classical": 675,
+    "rapid": 2080
+   },
+   "eloibot": {
+    "blitz": 56,
+    "bullet": 0,
+    "classical": 0,
+    "rapid": 8
+   },
+   "endspiel-engine": {
+    "blitz": 551,
+    "bullet": 0,
+    "classical": 88,
+    "rapid": 407
+   },
+   "endspiel-pi": {
+    "blitz": 2859,
+    "bullet": 0,
+    "classical": 0,
+    "rapid": 1926
+   },
+   "enjoyably3303": {
+    "blitz": 5459,
+    "bullet": 1062,
+    "classical": 117,
+    "rapid": 553
+   },
+   "entebot": {
+    "blitz": 9810,
+    "bullet": 3742,
+    "classical": 92,
+    "rapid": 485
+   },
+   "epimetheusbot": {
+    "blitz": 3219,
+    "bullet": 2648,
+    "classical": 51,
+    "rapid": 2106
+   },
+   "epoch512": {
+    "blitz": 162,
+    "bullet": 2,
+    "classical": 2,
+    "rapid": 13
+   },
+   "escarbo": {
+    "blitz": 558,
+    "bullet": 461,
+    "classical": 301,
+    "rapid": 495
+   },
+   "eubos": {
+    "blitz": 39896,
+    "bullet": 34273,
+    "classical": 3541,
+    "rapid": 11476
+   },
+   "european_chess_bot": {
+    "blitz": 350,
+    "bullet": 555,
+    "classical": 53,
+    "rapid": 176
+   },
+   "falconengine": {
+    "blitz": 3525,
+    "bullet": 1548,
+    "classical": 575,
+    "rapid": 1478
+   },
+   "fataliibot": {
+    "blitz": 35082,
+    "bullet": 26738,
+    "classical": 3582,
+    "rapid": 15170
+   },
+   "fathzer-jchess": {
+    "blitz": 553,
+    "bullet": 425,
+    "classical": 164,
+    "rapid": 630
+   },
+   "fayefish": {
+    "blitz": 2670,
+    "bullet": 5499,
+    "classical": 5,
+    "rapid": 7
+   },
+   "felipe_bot_53": {
+    "blitz": 3416,
+    "bullet": 2659,
+    "classical": 195,
+    "rapid": 1051
+   },
+   "fenrir-bot": {
+    "blitz": 377,
+    "bullet": 182,
+    "classical": 0,
+    "rapid": 0
+   },
+   "fenrirbot": {
+    "blitz": 546,
+    "bullet": 296,
+    "classical": 0,
+    "rapid": 179
+   },
+   "fighting2543": {
+    "blitz": 122,
+    "bullet": 176,
+    "classical": 0,
+    "rapid": 2
+   },
+   "flompiebot": {
+    "blitz": 297,
+    "bullet": 0,
+    "classical": 0,
+    "rapid": 100
+   },
+   "flounderbot": {
+    "blitz": 9506,
+    "bullet": 16277,
+    "classical": 0,
+    "rapid": 413
+   },
+   "flybrainchess": {
+    "blitz": 412,
+    "bullet": 225,
+    "classical": 86,
+    "rapid": 302
+   },
+   "fourcuriouspandas": {
+    "blitz": 0,
+    "bullet": 0,
+    "classical": 17,
+    "rapid": 0
+   },
+   "fpga-chess": {
+    "blitz": 2390,
+    "bullet": 65,
+    "classical": 0,
+    "rapid": 0
+   },
+   "fschess-engine": {
+    "blitz": 1023,
+    "bullet": 328,
+    "classical": 0,
+    "rapid": 49
+   },
+   "funcomp": {
+    "blitz": 0,
+    "bullet": 0,
+    "classical": 0,
+    "rapid": 0
+   },
+   "gambitonlybot": {
+    "blitz": 5453,
+    "bullet": 3530,
+    "classical": 0,
+    "rapid": 13
+   },
+   "garbobot": {
+    "blitz": 71431,
+    "bullet": 26026,
+    "classical": 4424,
+    "rapid": 24551
+   },
+   "gbot113": {
+    "blitz": 974,
+    "bullet": 146,
+    "classical": 37,
+    "rapid": 219
+   },
+   "genesis1bot": {
+    "blitz": 2578,
+    "bullet": 1723,
+    "classical": 740,
+    "rapid": 2024
+   },
+   "georgii_ai": {
+    "blitz": 1496,
+    "bullet": 553,
+    "classical": 0,
+    "rapid": 563
+   },
+   "geotsibot": {
+    "blitz": 4739,
+    "bullet": 366,
+    "classical": 0,
+    "rapid": 1034
+   },
+   "ghidorah_x": {
+    "blitz": 2130,
+    "bullet": 827,
+    "classical": 0,
+    "rapid": 416
+   },
+   "gnu4u": {
+    "blitz": 2330,
+    "bullet": 1541,
+    "classical": 0,
+    "rapid": 840
+   },
+   "gnupassant": {
+    "blitz": 14636,
+    "bullet": 8957,
+    "classical": 122,
+    "rapid": 4188
+   },
+   "goblinajedrezai": {
+    "blitz": 2649,
+    "bullet": 6509,
+    "classical": 4,
+    "rapid": 685
+   },
+   "gokubot": {
+    "blitz": 1,
+    "bullet": 0,
+    "classical": 1,
+    "rapid": 9
+   },
+   "goldfish-engine": {
+    "blitz": 31100,
+    "bullet": 26342,
+    "classical": 3756,
+    "rapid": 13593
+   },
+   "goldinho1bot": {
+    "blitz": 332,
+    "bullet": 277,
+    "classical": 126,
+    "rapid": 256
+   },
+   "goopis": {
+    "blitz": 11721,
+    "bullet": 10724,
+    "classical": 256,
+    "rapid": 1210
+   },
+   "gpt579419": {
+    "blitz": 32,
+    "bullet": 0,
+    "classical": 0,
+    "rapid": 17
+   },
+   "grail-bot": {
+    "blitz": 13988,
+    "bullet": 9049,
+    "classical": 0,
+    "rapid": 5647
+   },
+   "graphene-64": {
+    "blitz": 36,
+    "bullet": 0,
+    "classical": 0,
+    "rapid": 1
+   },
+   "grindfish": {
+    "blitz": 598,
+    "bullet": 490,
+    "classical": 0,
+    "rapid": 2
+   },
+   "groshboss": {
+    "blitz": 4051,
+    "bullet": 5518,
+    "classical": 535,
+    "rapid": 1573
+   },
+   "gryndor": {
+    "blitz": 0,
+    "bullet": 0,
+    "classical": 0,
+    "rapid": 0
+   },
+   "grzechu86": {
+    "blitz": 964,
+    "bullet": 54,
+    "classical": 0,
+    "rapid": 596
+   },
+   "guitarfish-engine": {
+    "blitz": 222,
+    "bullet": 20,
+    "classical": 3,
+    "rapid": 408
+   },
+   "guofish": {
+    "blitz": 30,
+    "bullet": 0,
+    "classical": 0,
+    "rapid": 282
+   },
+   "hackerchessbot": {
+    "blitz": 2638,
+    "bullet": 1908,
+    "classical": 75,
+    "rapid": 698
+   },
+   "halcyonbot": {
+    "blitz": 52980,
+    "bullet": 39801,
+    "classical": 0,
+    "rapid": 29516
+   },
+   "hardrok": {
+    "blitz": 12686,
+    "bullet": 12120,
+    "classical": 1,
+    "rapid": 11995
+   },
+   "hashcake1": {
+    "blitz": 2910,
+    "bullet": 1769,
+    "classical": 894,
+    "rapid": 1841
+   },
+   "havenear": {
+    "blitz": 0,
+    "bullet": 15,
+    "classical": 0,
+    "rapid": 0
+   },
+   "hiusbot": {
+    "blitz": 3260,
+    "bullet": 1870,
+    "classical": 103,
+    "rapid": 2270
+   },
+   "hodgeybot": {
+    "blitz": 980,
+    "bullet": 134,
+    "classical": 79,
+    "rapid": 985
+   },
+   "holidaybot1225": {
+    "blitz": 137,
+    "bullet": 0,
+    "classical": 16,
+    "rapid": 0
+   },
+   "honeycombee": {
+    "blitz": 600,
+    "bullet": 446,
+    "classical": 0,
+    "rapid": 532
+   },
+   "honzovy-sachy": {
+    "blitz": 11225,
+    "bullet": 10254,
+    "classical": 1014,
+    "rapid": 3486
+   },
+   "honzovy-sachy-2": {
+    "blitz": 16611,
+    "bullet": 15177,
+    "classical": 1725,
+    "rapid": 7417
+   },
+   "hummus-bot": {
+    "blitz": 206,
+    "bullet": 0,
+    "classical": 3,
+    "rapid": 857
+   },
+   "hustler_2mb": {
+    "blitz": 23,
+    "bullet": 25,
+    "classical": 12,
+    "rapid": 71
+   },
+   "hymybot": {
+    "blitz": 2,
+    "bullet": 0,
+    "classical": 0,
+    "rapid": 2
+   },
+   "hynobiuschess": {
+    "blitz": 2302,
+    "bullet": 1923,
+    "classical": 156,
+    "rapid": 864
+   },
+   "hyperopic": {
+    "blitz": 12752,
+    "bullet": 11015,
+    "classical": 0,
+    "rapid": 712
+   },
+   "iamtryingtvt": {
+    "blitz": 172,
+    "bullet": 126,
+    "classical": 0,
+    "rapid": 86
+   },
+   "icarus-bot": {
+    "blitz": 2062,
+    "bullet": 1487,
+    "classical": 48,
+    "rapid": 722
+   },
+   "ilcorvochess": {
+    "blitz": 7020,
+    "bullet": 291,
+    "classical": 0,
+    "rapid": 0
+   },
+   "ilovecatgirl": {
+    "blitz": 4972,
+    "bullet": 5315,
+    "classical": 0,
+    "rapid": 0
+   },
+   "inanisbot": {
+    "blitz": 29657,
+    "bullet": 32642,
+    "classical": 12329,
+    "rapid": 20361
+   },
+   "incipit_bot": {
+    "blitz": 523,
+    "bullet": 227,
+    "classical": 0,
+    "rapid": 298
+   },
+   "io-bot": {
+    "blitz": 1732,
+    "bullet": 1329,
+    "classical": 10,
+    "rapid": 763
+   },
+   "iran_f72": {
+    "blitz": 32,
+    "bullet": 48,
+    "classical": 0,
+    "rapid": 3
+   },
+   "is_boss": {
+    "blitz": 1912,
+    "bullet": 5592,
+    "classical": 124,
+    "rapid": 659
+   },
+   "iskelt-corax": {
+    "blitz": 2316,
+    "bullet": 1809,
+    "classical": 0,
+    "rapid": 652
+   },
+   "itsukitheeater": {
+    "blitz": 716,
+    "bullet": 690,
+    "classical": 0,
+    "rapid": 384
+   },
+   "jackedfish": {
+    "blitz": 1171,
+    "bullet": 7736,
+    "classical": 12,
+    "rapid": 47
+   },
+   "jacobsbot": {
+    "blitz": 2011,
+    "bullet": 1438,
+    "classical": 114,
+    "rapid": 630
+   },
+   "jaingalt-bot": {
+    "blitz": 0,
+    "bullet": 0,
+    "classical": 0,
+    "rapid": 0
+   },
+   "jangine": {
+    "blitz": 21287,
+    "bullet": 16049,
+    "classical": 1988,
+    "rapid": 8456
+   },
+   "jembok": {
+    "blitz": 1508,
+    "bullet": 1156,
+    "classical": 594,
+    "rapid": 1370
+   },
+   "jenniferx": {
+    "blitz": 197,
+    "bullet": 115,
+    "classical": 75,
+    "rapid": 114
+   },
+   "jesterchessrobot": {
+    "blitz": 1307,
+    "bullet": 732,
+    "classical": 26,
+    "rapid": 350
+   },
+   "jev_chess": {
+    "blitz": 17,
+    "bullet": 0,
+    "classical": 0,
+    "rapid": 81
+   },
+   "jevchessbot": {
+    "blitz": 61,
+    "bullet": 52,
+    "classical": 74,
+    "rapid": 81
+   },
+   "jibbby": {
+    "blitz": 39062,
+    "bullet": 21119,
+    "classical": 1976,
+    "rapid": 16692
+   },
+   "jimmy_inc3710": {
+    "blitz": 136,
+    "bullet": 10,
+    "classical": 33,
+    "rapid": 497
+   },
+   "jinko-chan": {
+    "blitz": 134,
+    "bullet": 0,
+    "classical": 0,
+    "rapid": 93
+   },
+   "joan_clone": {
+    "blitz": 1,
+    "bullet": 0,
+    "classical": 0,
+    "rapid": 143
+   },
+   "joey_chessengine": {
+    "blitz": 58,
+    "bullet": 4351,
+    "classical": 0,
+    "rapid": 0
+   },
+   "jomfishh": {
+    "blitz": 831,
+    "bullet": 230,
+    "classical": 110,
+    "rapid": 247
+   },
+   "jongsungkim": {
+    "blitz": 663,
+    "bullet": 0,
+    "classical": 0,
+    "rapid": 6
+   },
+   "josefschessenginebot": {
+    "blitz": 220,
+    "bullet": 270,
+    "classical": 37,
+    "rapid": 199
+   },
+   "joshsbot": {
+    "blitz": 11405,
+    "bullet": 6101,
+    "classical": 3045,
+    "rapid": 6143
+   },
+   "jpg-bot": {
+    "blitz": 19431,
+    "bullet": 18460,
+    "classical": 0,
+    "rapid": 16840
+   },
+   "jurdbird": {
+    "blitz": 2732,
+    "bullet": 1462,
+    "classical": 116,
+    "rapid": 1543
+   },
+   "justbot-v1": {
+    "blitz": 2502,
+    "bullet": 2165,
+    "classical": 90,
+    "rapid": 586
+   },
+   "karimbot": {
+    "blitz": 1343,
+    "bullet": 1750,
+    "classical": 191,
+    "rapid": 461
+   },
+   "kavinengine": {
+    "blitz": 428,
+    "bullet": 12,
+    "classical": 0,
+    "rapid": 191
+   },
+   "kepler_bot": {
+    "blitz": 0,
+    "bullet": 0,
+    "classical": 0,
+    "rapid": 0
+   },
+   "kestrelstrike": {
+    "blitz": 1302,
+    "bullet": 1068,
+    "classical": 3,
+    "rapid": 1571
+   },
+   "killerstapler420bot": {
+    "blitz": 0,
+    "bullet": 0,
+    "classical": 0,
+    "rapid": 0
+   },
+   "kingzbot": {
+    "blitz": 685,
+    "bullet": 1221,
+    "classical": 0,
+    "rapid": 280
+   },
+   "kirinchessbot": {
+    "blitz": 4938,
+    "bullet": 2491,
+    "classical": 124,
+    "rapid": 1503
+   },
+   "kiwi_cube": {
+    "blitz": 2,
+    "bullet": 0,
+    "classical": 0,
+    "rapid": 0
+   },
+   "kiyengine": {
+    "blitz": 461,
+    "bullet": 324,
+    "classical": 2,
+    "rapid": 199
+   },
+   "kobal11": {
+    "blitz": 43,
+    "bullet": 40,
+    "classical": 1,
+    "rapid": 6
+   },
+   "kopyto_dev": {
+    "blitz": 22773,
+    "bullet": 14944,
+    "classical": 3335,
+    "rapid": 9500
+   },
+   "kowalabi": {
+    "blitz": 2253,
+    "bullet": 1867,
+    "classical": 366,
+    "rapid": 1835
+   },
+   "kulubot": {
+    "blitz": 3690,
+    "bullet": 2309,
+    "classical": 0,
+    "rapid": 1419
+   },
+   "kurganuci": {
+    "blitz": 140,
+    "bullet": 42,
+    "classical": 0,
+    "rapid": 10
+   },
+   "la5v2": {
+    "blitz": 94,
+    "bullet": 0,
+    "classical": 0,
+    "rapid": 17
+   },
+   "lamprook": {
+    "blitz": 868,
+    "bullet": 585,
+    "classical": 49,
+    "rapid": 293
+   },
+   "lancelbot": {
+    "blitz": 2407,
+    "bullet": 1593,
+    "classical": 754,
+    "rapid": 1817
+   },
+   "larryz-alterego": {
+    "blitz": 9347,
+    "bullet": 5290,
+    "classical": 4881,
+    "rapid": 12440
+   },
+   "latrunculi-bot": {
+    "blitz": 322,
+    "bullet": 0,
+    "classical": 10,
+    "rapid": 101
+   },
+   "laura-bot": {
+    "blitz": 8407,
+    "bullet": 1611,
+    "classical": 0,
+    "rapid": 956
+   },
+   "ldruka": {
+    "blitz": 0,
+    "bullet": 0,
+    "classical": 0,
+    "rapid": 0
+   },
+   "learning32": {
+    "blitz": 28,
+    "bullet": 13,
+    "classical": 0,
+    "rapid": 0
+   },
+   "leelaalien": {
+    "blitz": 5198,
+    "bullet": 1149,
+    "classical": 2099,
+    "rapid": 9313
+   },
+   "leelachesstest": {
+    "blitz": 2970,
+    "bullet": 4874,
+    "classical": 269,
+    "rapid": 987
+   },
+   "leelajester": {
+    "blitz": 2452,
+    "bullet": 2391,
+    "classical": 481,
+    "rapid": 1206
+   },
+   "leelaknightodds": {
+    "blitz": 0,
+    "bullet": 0,
+    "classical": 0,
+    "rapid": 0
+   },
+   "leelamultiposs": {
+    "blitz": 6513,
+    "bullet": 8712,
+    "classical": 1189,
+    "rapid": 1012
+   },
+   "leelapieceodds": {
+    "blitz": 0,
+    "bullet": 0,
+    "classical": 1,
+    "rapid": 0
+   },
+   "leelaqueenforknight": {
+    "blitz": 0,
+    "bullet": 0,
+    "classical": 0,
+    "rapid": 0
+   },
+   "leelaqueenodds": {
+    "blitz": 0,
+    "bullet": 0,
+    "classical": 0,
+    "rapid": 0
+   },
+   "leelarogue": {
+    "blitz": 5350,
+    "bullet": 0,
+    "classical": 1751,
+    "rapid": 4757
+   },
+   "leelarookodds": {
+    "blitz": 0,
+    "bullet": 0,
+    "classical": 0,
+    "rapid": 0
+   },
+   "leelatroll": {
+    "blitz": 1,
+    "bullet": 0,
+    "classical": 0,
+    "rapid": 1
+   },
+   "leetomic": {
+    "blitz": 0,
+    "bullet": 0,
+    "classical": 0,
+    "rapid": 0
+   },
+   "legochess98": {
+    "blitz": 299,
+    "bullet": 158,
+    "classical": 120,
+    "rapid": 353
+   },
+   "lemuffinbot": {
+    "blitz": 4978,
+    "bullet": 2474,
+    "classical": 10,
+    "rapid": 407
+   },
+   "leol-bot": {
+    "blitz": 356,
+    "bullet": 192,
+    "classical": 0,
+    "rapid": 78
+   },
+   "levymaia": {
+    "blitz": 310,
+    "bullet": 27,
+    "classical": 0,
+    "rapid": 38
+   },
+   "likeawizard-bot": {
+    "blitz": 49836,
+    "bullet": 29652,
+    "classical": 2448,
+    "rapid": 17755
+   },
+   "lilitbot": {
+    "blitz": 2,
+    "bullet": 0,
+    "classical": 2,
+    "rapid": 8
+   },
+   "linenetbot": {
+    "blitz": 287,
+    "bullet": 297,
+    "classical": 47,
+    "rapid": 202
+   },
+   "little-0": {
+    "blitz": 953,
+    "bullet": 547,
+    "classical": 0,
+    "rapid": 701
+   },
+   "littlepatricia": {
+    "blitz": 4692,
+    "bullet": 2345,
+    "classical": 0,
+    "rapid": 1449
+   },
+   "llmate": {
+    "blitz": 338,
+    "bullet": 293,
+    "classical": 8,
+    "rapid": 37
+   },
+   "louischess48-6k": {
+    "blitz": 9868,
+    "bullet": 5555,
+    "classical": 10054,
+    "rapid": 10865
+   },
+   "lowhangingfruits": {
+    "blitz": 81,
+    "bullet": 22,
+    "classical": 3,
+    "rapid": 8
+   },
+   "lukebot": {
+    "blitz": 2444,
+    "bullet": 2258,
+    "classical": 0,
+    "rapid": 199
+   },
+   "lunaenginechess": {
+    "blitz": 905,
+    "bullet": 518,
+    "classical": 111,
+    "rapid": 576
+   },
+   "lynx_bot": {
+    "blitz": 93057,
+    "bullet": 54052,
+    "classical": 17949,
+    "rapid": 68521
+   },
+   "m8000_bot": {
+    "blitz": 99,
+    "bullet": 38,
+    "classical": 5,
+    "rapid": 55
+   },
+   "mac-bot": {
+    "blitz": 1638,
+    "bullet": 1327,
+    "classical": 115,
+    "rapid": 325
+   },
+   "mackbot": {
+    "blitz": 308,
+    "bullet": 29,
+    "classical": 0,
+    "rapid": 20
+   },
+   "madameengine": {
+    "blitz": 49,
+    "bullet": 22,
+    "classical": 0,
+    "rapid": 5
+   },
+   "magic11bot_coach": {
+    "blitz": 9,
+    "bullet": 4,
+    "classical": 2,
+    "rapid": 9
+   },
+   "maia1": {
+    "blitz": 444231,
+    "bullet": 231891,
+    "classical": 163102,
+    "rapid": 639360
+   },
+   "maia2200_10n": {
+    "blitz": 5127,
+    "bullet": 3734,
+    "classical": 0,
+    "rapid": 2270
+   },
+   "maia3-79m_1000": {
+    "blitz": 392,
+    "bullet": 149,
+    "classical": 73,
+    "rapid": 1273
+   },
+   "maia3-79m_1200": {
+    "blitz": 130,
+    "bullet": 176,
+    "classical": 234,
+    "rapid": 709
+   },
+   "maia3-79m_1400": {
+    "blitz": 302,
+    "bullet": 68,
+    "classical": 213,
+    "rapid": 232
+   },
+   "maia3-79m_1600": {
+    "blitz": 443,
+    "bullet": 54,
+    "classical": 103,
+    "rapid": 79
+   },
+   "maia3-79m_1800": {
+    "blitz": 138,
+    "bullet": 41,
+    "classical": 32,
+    "rapid": 41
+   },
+   "maia3-79m_2000": {
+    "blitz": 31,
+    "bullet": 44,
+    "classical": 116,
+    "rapid": 56
+   },
+   "maia3-79m_2200": {
+    "blitz": 31,
+    "bullet": 47,
+    "classical": 7,
+    "rapid": 26
+   },
+   "maia3-79m_2400": {
+    "blitz": 17,
+    "bullet": 23,
+    "classical": 7,
+    "rapid": 11
+   },
+   "maia3-79m_2600": {
+    "blitz": 29,
+    "bullet": 70,
+    "classical": 18,
+    "rapid": 14
+   },
+   "maia3-79m_600": {
+    "blitz": 928,
+    "bullet": 135,
+    "classical": 280,
+    "rapid": 1693
+   },
+   "maia3-79m_800": {
+    "blitz": 523,
+    "bullet": 206,
+    "classical": 137,
+    "rapid": 1618
+   },
+   "maia5": {
+    "blitz": 203973,
+    "bullet": 69637,
+    "classical": 57324,
+    "rapid": 233772
+   },
+   "maia9": {
+    "blitz": 212294,
+    "bullet": 95195,
+    "classical": 55786,
+    "rapid": 218802
+   },
+   "maia960-1600": {
+    "blitz": 0,
+    "bullet": 0,
+    "classical": 0,
+    "rapid": 0
+   },
+   "maia960-1900": {
+    "blitz": 0,
+    "bullet": 0,
+    "classical": 0,
+    "rapid": 0
+   },
+   "maia9_10n": {
+    "blitz": 7256,
+    "bullet": 5179,
+    "classical": 0,
+    "rapid": 5314
+   },
+   "maia9_30n": {
+    "blitz": 8176,
+    "bullet": 5815,
+    "classical": 0,
+    "rapid": 4071
+   },
+   "makechessbetter": {
+    "blitz": 14,
+    "bullet": 3,
+    "classical": 17,
+    "rapid": 107
+   },
+   "malanchess": {
+    "blitz": 967,
+    "bullet": 772,
+    "classical": 53,
+    "rapid": 273
+   },
+   "malpamat": {
+    "blitz": 179,
+    "bullet": 160,
+    "classical": 96,
+    "rapid": 118
+   },
+   "markusdaukrobloxkid": {
+    "blitz": 212,
+    "bullet": 140,
+    "classical": 0,
+    "rapid": 32
+   },
+   "martuni": {
+    "blitz": 5073,
+    "bullet": 2487,
+    "classical": 204,
+    "rapid": 2423
+   },
+   "mate-in-forty": {
+    "blitz": 23,
+    "bullet": 18,
+    "classical": 22,
+    "rapid": 30
+   },
+   "mate-in-thirty": {
+    "blitz": 22,
+    "bullet": 35,
+    "classical": 37,
+    "rapid": 41
+   },
+   "mate-in-twenty": {
+    "blitz": 25,
+    "bullet": 163,
+    "classical": 52,
+    "rapid": 29
+   },
+   "mate1-bot": {
+    "blitz": 4033,
+    "bullet": 0,
+    "classical": 98,
+    "rapid": 475
+   },
+   "matemakingmachine": {
+    "blitz": 1136,
+    "bullet": 129,
+    "classical": 14,
+    "rapid": 102
+   },
+   "matmoi": {
+    "blitz": 34124,
+    "bullet": 30354,
+    "classical": 2074,
+    "rapid": 21928
+   },
+   "matrixengine": {
+    "blitz": 391,
+    "bullet": 333,
+    "classical": 0,
+    "rapid": 0
+   },
+   "matthewcarven": {
+    "blitz": 183,
+    "bullet": 0,
+    "classical": 1,
+    "rapid": 2
+   },
+   "maxthedog-esp32": {
+    "blitz": 1221,
+    "bullet": 830,
+    "classical": 126,
+    "rapid": 475
+   },
+   "mayflyengine": {
+    "blitz": 658,
+    "bullet": 571,
+    "classical": 64,
+    "rapid": 200
+   },
+   "mboobot": {
+    "blitz": 46,
+    "bullet": 7,
+    "classical": 0,
+    "rapid": 148
+   },
+   "mcdonalds1955": {
+    "blitz": 318,
+    "bullet": 732,
+    "classical": 0,
+    "rapid": 128
+   },
+   "mchess-engine": {
+    "blitz": 1987,
+    "bullet": 462,
+    "classical": 255,
+    "rapid": 1174
+   },
+   "mega-noob-bot": {
+    "blitz": 1772,
+    "bullet": 13706,
+    "classical": 482,
+    "rapid": 868
+   },
+   "melsh_bot": {
+    "blitz": 19399,
+    "bullet": 15659,
+    "classical": 1236,
+    "rapid": 7156
+   },
+   "mimirbot": {
+    "blitz": 1665,
+    "bullet": 1061,
+    "classical": 153,
+    "rapid": 845
+   },
+   "mind_bot": {
+    "blitz": 441,
+    "bullet": 370,
+    "classical": 0,
+    "rapid": 0
+   },
+   "minibotapi": {
+    "blitz": 125,
+    "bullet": 334,
+    "classical": 8,
+    "rapid": 108
+   },
+   "minibruteforcebot": {
+    "blitz": 377,
+    "bullet": 371,
+    "classical": 38,
+    "rapid": 164
+   },
+   "minimax_chessy_lol": {
+    "blitz": 126,
+    "bullet": 50,
+    "classical": 10,
+    "rapid": 56
+   },
+   "minmaxvalgen": {
+    "blitz": 45,
+    "bullet": 10,
+    "classical": 2,
+    "rapid": 85
+   },
+   "minordotarcdotbot": {
+    "blitz": 1,
+    "bullet": 0,
+    "classical": 0,
+    "rapid": 0
+   },
+   "miss_snowiee": {
+    "blitz": 365,
+    "bullet": 11,
+    "classical": 0,
+    "rapid": 3
+   },
+   "mithandros": {
+    "blitz": 1732,
+    "bullet": 227,
+    "classical": 43,
+    "rapid": 187
+   },
+   "mochi_bot": {
+    "blitz": 19146,
+    "bullet": 10114,
+    "classical": 0,
+    "rapid": 9392
+   },
+   "morabandbot": {
+    "blitz": 4346,
+    "bullet": 4338,
+    "classical": 0,
+    "rapid": 12
+   },
+   "mostlyhuman1900": {
+    "blitz": 3603,
+    "bullet": 0,
+    "classical": 0,
+    "rapid": 2956
+   },
+   "motor-0": {
+    "blitz": 1305,
+    "bullet": 3263,
+    "classical": 222,
+    "rapid": 366
+   },
+   "mr_sandbar": {
+    "blitz": 3730,
+    "bullet": 3023,
+    "classical": 363,
+    "rapid": 2366
+   },
+   "mrtonnerre": {
+    "blitz": 3803,
+    "bullet": 1759,
+    "classical": 697,
+    "rapid": 2176
+   },
+   "musashi-thebot": {
+    "blitz": 506,
+    "bullet": 313,
+    "classical": 51,
+    "rapid": 608
+   },
+   "mxnet-gamemaster": {
+    "blitz": 36,
+    "bullet": 12,
+    "classical": 2,
+    "rapid": 3
+   },
+   "my-bot": {
+    "blitz": 84,
+    "bullet": 1,
+    "classical": 0,
+    "rapid": 1
+   },
+   "mychessjava": {
+    "blitz": 1072,
+    "bullet": 0,
+    "classical": 382,
+    "rapid": 954
+   },
+   "nanozeroorg": {
+    "blitz": 2020,
+    "bullet": 690,
+    "classical": 0,
+    "rapid": 627
+   },
+   "nebubot": {
+    "blitz": 7874,
+    "bullet": 1637,
+    "classical": 239,
+    "rapid": 940
+   },
+   "nerachess": {
+    "blitz": 2625,
+    "bullet": 326,
+    "classical": 1,
+    "rapid": 2037
+   },
+   "neryba": {
+    "blitz": 8700,
+    "bullet": 323,
+    "classical": 0,
+    "rapid": 207
+   },
+   "nesbes": {
+    "blitz": 2038,
+    "bullet": 585,
+    "classical": 0,
+    "rapid": 48
+   },
+   "nethervikings": {
+    "blitz": 0,
+    "bullet": 0,
+    "classical": 0,
+    "rapid": 40
+   },
+   "neurosocute": {
+    "blitz": 383,
+    "bullet": 5737,
+    "classical": 0,
+    "rapid": 19
+   },
+   "neutrinobot": {
+    "blitz": 0,
+    "bullet": 4,
+    "classical": 0,
+    "rapid": 5
+   },
+   "newchessengine-ai": {
+    "blitz": 13823,
+    "bullet": 5927,
+    "classical": 161,
+    "rapid": 1112
+   },
+   "newengine2022": {
+    "blitz": 213,
+    "bullet": 765,
+    "classical": 5,
+    "rapid": 83
+   },
+   "newtsbot": {
+    "blitz": 401,
+    "bullet": 2024,
+    "classical": 0,
+    "rapid": 274
+   },
+   "nexastrat": {
+    "blitz": 14159,
+    "bullet": 13147,
+    "classical": 0,
+    "rapid": 279
+   },
+   "nexosdefos": {
+    "blitz": 441,
+    "bullet": 732,
+    "classical": 0,
+    "rapid": 0
+   },
+   "nexuschess1": {
+    "blitz": 1443,
+    "bullet": 931,
+    "classical": 0,
+    "rapid": 171
+   },
+   "nice_bot": {
+    "blitz": 5350,
+    "bullet": 4753,
+    "classical": 0,
+    "rapid": 1306
+   },
+   "nickdrohan": {
+    "blitz": 1098,
+    "bullet": 317,
+    "classical": 11,
+    "rapid": 37
+   },
+   "nickl1bot": {
+    "blitz": 1185,
+    "bullet": 945,
+    "classical": 530,
+    "rapid": 1162
+   },
+   "nightfall_dev": {
+    "blitz": 86,
+    "bullet": 191,
+    "classical": 5,
+    "rapid": 27
+   },
+   "nightruin": {
+    "blitz": 335,
+    "bullet": 80,
+    "classical": 0,
+    "rapid": 0
+   },
+   "nilatacbot": {
+    "blitz": 0,
+    "bullet": 0,
+    "classical": 0,
+    "rapid": 0
+   },
+   "nittedal": {
+    "blitz": 369,
+    "bullet": 496,
+    "classical": 143,
+    "rapid": 808
+   },
+   "nnueandthevoices": {
+    "blitz": 29,
+    "bullet": 21,
+    "classical": 0,
+    "rapid": 14
+   },
+   "noabot": {
+    "blitz": 3767,
+    "bullet": 2916,
+    "classical": 46,
+    "rapid": 783
+   },
+   "noel-bot": {
+    "blitz": 325,
+    "bullet": 152,
+    "classical": 0,
+    "rapid": 86
+   },
+   "notropis": {
+    "blitz": 24975,
+    "bullet": 14016,
+    "classical": 923,
+    "rapid": 10069
+   },
+   "o-rei-cx": {
+    "blitz": 2697,
+    "bullet": 2842,
+    "classical": 1,
+    "rapid": 1914
+   },
+   "omegazero-bot": {
+    "blitz": 717,
+    "bullet": 361,
+    "classical": 60,
+    "rapid": 398
+   },
+   "onezenpanda": {
+    "blitz": 465,
+    "bullet": 240,
+    "classical": 0,
+    "rapid": 0
+   },
+   "openinggenie2000": {
+    "blitz": 0,
+    "bullet": 0,
+    "classical": 68,
+    "rapid": 1027
+   },
+   "openingsbot": {
+    "blitz": 15657,
+    "bullet": 16685,
+    "classical": 1550,
+    "rapid": 4957
+   },
+   "osaurus": {
+    "blitz": 2440,
+    "bullet": 1960,
+    "classical": 466,
+    "rapid": 2004
+   },
+   "overfitted": {
+    "blitz": 2138,
+    "bullet": 1052,
+    "classical": 39,
+    "rapid": 976
+   },
+   "owenbot": {
+    "blitz": 558,
+    "bullet": 547,
+    "classical": 103,
+    "rapid": 326
+   },
+   "oxide-eg": {
+    "blitz": 341,
+    "bullet": 267,
+    "classical": 20,
+    "rapid": 3377
+   },
+   "oxybullet": {
+    "blitz": 3013,
+    "bullet": 2714,
+    "classical": 248,
+    "rapid": 1327
+   },
+   "oxydanbot": {
+    "blitz": 3983,
+    "bullet": 3353,
+    "classical": 387,
+    "rapid": 2036
+   },
+   "pachetron": {
+    "blitz": 51,
+    "bullet": 32,
+    "classical": 0,
+    "rapid": 10
+   },
+   "pangubot": {
+    "blitz": 3432,
+    "bullet": 6567,
+    "classical": 286,
+    "rapid": 1828
+   },
+   "panic-fish": {
+    "blitz": 1092,
+    "bullet": 493,
+    "classical": 254,
+    "rapid": 981
+   },
+   "papemaru_c_chess": {
+    "blitz": 267,
+    "bullet": 216,
+    "classical": 0,
+    "rapid": 16
+   },
+   "partner3615diago": {
+    "blitz": 8548,
+    "bullet": 5892,
+    "classical": 2146,
+    "rapid": 5253
+   },
+   "patriciabot": {
+    "blitz": 7713,
+    "bullet": 6157,
+    "classical": 420,
+    "rapid": 3215
+   },
+   "patzerbot135": {
+    "blitz": 182,
+    "bullet": 172,
+    "classical": 21,
+    "rapid": 49
+   },
+   "pawn_git": {
+    "blitz": 20360,
+    "bullet": 27558,
+    "classical": 4131,
+    "rapid": 8982
+   },
+   "pawnrobot": {
+    "blitz": 15727,
+    "bullet": 12857,
+    "classical": 0,
+    "rapid": 7267
+   },
+   "pawny_bot": {
+    "blitz": 2488,
+    "bullet": 3028,
+    "classical": 1332,
+    "rapid": 1973
+   },
+   "pdp8-chekmo": {
+    "blitz": 112,
+    "bullet": 0,
+    "classical": 6,
+    "rapid": 158
+   },
+   "pdp8-clash": {
+    "blitz": 108,
+    "bullet": 0,
+    "classical": 5,
+    "rapid": 199
+   },
+   "peacemaker-0_0": {
+    "blitz": 1381,
+    "bullet": 1253,
+    "classical": 15,
+    "rapid": 639
+   },
+   "peachfruit": {
+    "blitz": 14612,
+    "bullet": 12007,
+    "classical": 2928,
+    "rapid": 8820
+   },
+   "peanet0": {
+    "blitz": 923,
+    "bullet": 1740,
+    "classical": 0,
+    "rapid": 784
+   },
+   "perl-gigachess": {
+    "blitz": 2145,
+    "bullet": 1462,
+    "classical": 299,
+    "rapid": 1208
+   },
+   "phalanx-xxv": {
+    "blitz": 9709,
+    "bullet": 17017,
+    "classical": 2513,
+    "rapid": 4326
+   },
+   "philidor-142m": {
+    "blitz": 2063,
+    "bullet": 1763,
+    "classical": 491,
+    "rapid": 1057
+   },
+   "pi0w": {
+    "blitz": 3034,
+    "bullet": 2460,
+    "classical": 4,
+    "rapid": 986
+   },
+   "piebot": {
+    "blitz": 1070,
+    "bullet": 1248,
+    "classical": 22,
+    "rapid": 497
+   },
+   "piglet_engine": {
+    "blitz": 1951,
+    "bullet": 6480,
+    "classical": 0,
+    "rapid": 48
+   },
+   "pirates1": {
+    "blitz": 384,
+    "bullet": 264,
+    "classical": 14,
+    "rapid": 93
+   },
+   "pirates2": {
+    "blitz": 164,
+    "bullet": 99,
+    "classical": 0,
+    "rapid": 50
+   },
+   "piratesrust": {
+    "blitz": 41,
+    "bullet": 34,
+    "classical": 2,
+    "rapid": 5
+   },
+   "platinumbot": {
+    "blitz": 9,
+    "bullet": 6,
+    "classical": 1,
+    "rapid": 0
+   },
+   "playmarius": {
+    "blitz": 3176,
+    "bullet": 1411,
+    "classical": 529,
+    "rapid": 1453
+   },
+   "plumboi": {
+    "blitz": 2080,
+    "bullet": 2128,
+    "classical": 313,
+    "rapid": 506
+   },
+   "potential_engine": {
+    "blitz": 26,
+    "bullet": 41,
+    "classical": 0,
+    "rapid": 0
+   },
+   "prawn_bot": {
+    "blitz": 209,
+    "bullet": 109,
+    "classical": 0,
+    "rapid": 129
+   },
+   "princessyuribot": {
+    "blitz": 0,
+    "bullet": 0,
+    "classical": 1,
+    "rapid": 0
+   },
+   "project_nebulora": {
+    "blitz": 1849,
+    "bullet": 1834,
+    "classical": 420,
+    "rapid": 1003
+   },
+   "prokopakop": {
+    "blitz": 17599,
+    "bullet": 16640,
+    "classical": 0,
+    "rapid": 0
+   },
+   "prometheus_truce": {
+    "blitz": 14,
+    "bullet": 0,
+    "classical": 0,
+    "rapid": 0
+   },
+   "prosperobot": {
+    "blitz": 4298,
+    "bullet": 1534,
+    "classical": 60,
+    "rapid": 455
+   },
+   "proteinbender": {
+    "blitz": 0,
+    "bullet": 0,
+    "classical": 0,
+    "rapid": 0
+   },
+   "pseudo-0": {
+    "blitz": 9795,
+    "bullet": 13989,
+    "classical": 2639,
+    "rapid": 4365
+   },
+   "pseudo-1": {
+    "blitz": 999,
+    "bullet": 1692,
+    "classical": 2,
+    "rapid": 313
+   },
+   "puisne": {
+    "blitz": 1073,
+    "bullet": 448,
+    "classical": 129,
+    "rapid": 1468
+   },
+   "pzchessbot": {
+    "blitz": 16154,
+    "bullet": 6944,
+    "classical": 863,
+    "rapid": 8128
+   },
+   "qioui": {
+    "blitz": 1583,
+    "bullet": 1259,
+    "classical": 387,
+    "rapid": 1556
+   },
+   "quanticade": {
+    "blitz": 201,
+    "bullet": 293,
+    "classical": 7,
+    "rapid": 91
+   },
+   "queensgambot": {
+    "blitz": 15320,
+    "bullet": 15424,
+    "classical": 0,
+    "rapid": 3
+   },
+   "r0bspierre": {
+    "blitz": 48230,
+    "bullet": 2217,
+    "classical": 0,
+    "rapid": 1528
+   },
+   "rachl1": {
+    "blitz": 1392,
+    "bullet": 1184,
+    "classical": 274,
+    "rapid": 1392
+   },
+   "racingkingsbot_1": {
+    "blitz": 0,
+    "bullet": 0,
+    "classical": 0,
+    "rapid": 0
+   },
+   "radianceengine": {
+    "blitz": 24942,
+    "bullet": 12141,
+    "classical": 7172,
+    "rapid": 12513
+   },
+   "randmaster_bot": {
+    "blitz": 346,
+    "bullet": 318,
+    "classical": 278,
+    "rapid": 185
+   },
+   "randmaster_egtb": {
+    "blitz": 300,
+    "bullet": 465,
+    "classical": 198,
+    "rapid": 259
+   },
+   "randomkerbal": {
+    "blitz": 90,
+    "bullet": 0,
+    "classical": 0,
+    "rapid": 100
+   },
+   "rascal1": {
+    "blitz": 3298,
+    "bullet": 2268,
+    "classical": 460,
+    "rapid": 2260
+   },
+   "raspfish": {
+    "blitz": 73259,
+    "bullet": 161507,
+    "classical": 5381,
+    "rapid": 22846
+   },
+   "ratkingbot": {
+    "blitz": 4111,
+    "bullet": 1961,
+    "classical": 1523,
+    "rapid": 2557
+   },
+   "ratsu-bot": {
+    "blitz": 5125,
+    "bullet": 4946,
+    "classical": 0,
+    "rapid": 261
+   },
+   "ravager_bot": {
+    "blitz": 193,
+    "bullet": 0,
+    "classical": 0,
+    "rapid": 171
+   },
+   "raven030": {
+    "blitz": 5222,
+    "bullet": 3656,
+    "classical": 283,
+    "rapid": 3962
+   },
+   "ravenengine": {
+    "blitz": 20045,
+    "bullet": 24649,
+    "classical": 1593,
+    "rapid": 9014
+   },
+   "rdtchessbot": {
+    "blitz": 624,
+    "bullet": 667,
+    "classical": 69,
+    "rapid": 380
+   },
+   "reality_bot": {
+    "blitz": 410,
+    "bullet": 22,
+    "classical": 0,
+    "rapid": 0
+   },
+   "reaper1bot": {
+    "blitz": 1569,
+    "bullet": 1217,
+    "classical": 761,
+    "rapid": 1252
+   },
+   "redbeantree": {
+    "blitz": 2092,
+    "bullet": 681,
+    "classical": 0,
+    "rapid": 983
+   },
+   "registerpythonspeed": {
+    "blitz": 215,
+    "bullet": 309,
+    "classical": 32,
+    "rapid": 161
+   },
+   "renegadeengine": {
+    "blitz": 7910,
+    "bullet": 3045,
+    "classical": 0,
+    "rapid": 1058
+   },
+   "reptilesbedamned": {
+    "blitz": 249,
+    "bullet": 34,
+    "classical": 27,
+    "rapid": 164
+   },
+   "resolutebot": {
+    "blitz": 19612,
+    "bullet": 38668,
+    "classical": 1655,
+    "rapid": 8760
+   },
+   "ribfish-bot": {
+    "blitz": 2140,
+    "bullet": 1131,
+    "classical": 0,
+    "rapid": 409
+   },
+   "robotjfischer": {
+    "blitz": 23,
+    "bullet": 0,
+    "classical": 55,
+    "rapid": 2144
+   },
+   "rocketengine": {
+    "blitz": 555,
+    "bullet": 568,
+    "classical": 0,
+    "rapid": 301
+   },
+   "rockingsuperstars": {
+    "blitz": 241,
+    "bullet": 337,
+    "classical": 6,
+    "rapid": 47
+   },
+   "rodent-iv": {
+    "blitz": 3189,
+    "bullet": 1773,
+    "classical": 1021,
+    "rapid": 2007
+   },
+   "rodent-v": {
+    "blitz": 579,
+    "bullet": 230,
+    "classical": 105,
+    "rapid": 402
+   },
+   "romanticbot": {
+    "blitz": 1572,
+    "bullet": 1306,
+    "classical": 34,
+    "rapid": 264
+   },
+   "romanticbot2": {
+    "blitz": 2526,
+    "bullet": 2391,
+    "classical": 0,
+    "rapid": 79
+   },
+   "rosaliaxadrez": {
+    "blitz": 130,
+    "bullet": 248,
+    "classical": 0,
+    "rapid": 97
+   },
+   "rotor-bot": {
+    "blitz": 122,
+    "bullet": 0,
+    "classical": 0,
+    "rapid": 0
+   },
+   "rpibot73": {
+    "blitz": 3305,
+    "bullet": 2062,
+    "classical": 416,
+    "rapid": 1991
+   },
+   "rudim-bot": {
+    "blitz": 35467,
+    "bullet": 12118,
+    "classical": 841,
+    "rapid": 3572
+   },
+   "rusnikeeai": {
+    "blitz": 26,
+    "bullet": 9,
+    "classical": 0,
+    "rapid": 63
+   },
+   "rust-in-pieces": {
+    "blitz": 956,
+    "bullet": 2523,
+    "classical": 0,
+    "rapid": 2561
+   },
+   "rustbot2003": {
+    "blitz": 197,
+    "bullet": 139,
+    "classical": 0,
+    "rapid": 36
+   },
+   "rustyrival": {
+    "blitz": 1623,
+    "bullet": 995,
+    "classical": 135,
+    "rapid": 602
+   },
+   "ryu-ishigori": {
+    "blitz": 27,
+    "bullet": 6,
+    "classical": 3,
+    "rapid": 9
+   },
+   "saisrankarthik_7": {
+    "blitz": 26,
+    "bullet": 49,
+    "classical": 11,
+    "rapid": 12
+   },
+   "sargon-1ply": {
+    "blitz": 38152,
+    "bullet": 20111,
+    "classical": 16559,
+    "rapid": 53697
+   },
+   "sargon-2ply": {
+    "blitz": 26063,
+    "bullet": 15339,
+    "classical": 9207,
+    "rapid": 33439
+   },
+   "sargon-3ply": {
+    "blitz": 19682,
+    "bullet": 12838,
+    "classical": 4511,
+    "rapid": 13461
+   },
+   "sargon-4ply": {
+    "blitz": 23841,
+    "bullet": 15814,
+    "classical": 2750,
+    "rapid": 10617
+   },
+   "saxtonengine": {
+    "blitz": 9631,
+    "bullet": 14889,
+    "classical": 1843,
+    "rapid": 4590
+   },
+   "sbnovella": {
+    "blitz": 409,
+    "bullet": 32,
+    "classical": 0,
+    "rapid": 25
+   },
+   "scalaqueen": {
+    "blitz": 4619,
+    "bullet": 4617,
+    "classical": 395,
+    "rapid": 3669
+   },
+   "schnecken_bot": {
+    "blitz": 19044,
+    "bullet": 12817,
+    "classical": 1609,
+    "rapid": 7162
+   },
+   "scipio-bot": {
+    "blitz": 1767,
+    "bullet": 504,
+    "classical": 1,
+    "rapid": 1133
+   },
+   "sebvaderbot": {
+    "blitz": 92,
+    "bullet": 45,
+    "classical": 1,
+    "rapid": 1
+   },
+   "seedchess": {
+    "blitz": 98,
+    "bullet": 0,
+    "classical": 0,
+    "rapid": 0
+   },
+   "seitogakatsu": {
+    "blitz": 1546,
+    "bullet": 2410,
+    "classical": 66,
+    "rapid": 553
+   },
+   "sf_bot1nok": {
+    "blitz": 6380,
+    "bullet": 7491,
+    "classical": 17,
+    "rapid": 1884
+   },
+   "shallowredbot": {
+    "blitz": 1536,
+    "bullet": 1261,
+    "classical": 32,
+    "rapid": 282
+   },
+   "shark-engine": {
+    "blitz": 559,
+    "bullet": 141,
+    "classical": 47,
+    "rapid": 339
+   },
+   "sharpsundae": {
+    "blitz": 1411,
+    "bullet": 1033,
+    "classical": 120,
+    "rapid": 954
+   },
+   "shrevenbot": {
+    "blitz": 2211,
+    "bullet": 2090,
+    "classical": 113,
+    "rapid": 738
+   },
+   "silasly": {
+    "blitz": 116,
+    "bullet": 22,
+    "classical": 4,
+    "rapid": 69
+   },
+   "silverpike": {
+    "blitz": 341,
+    "bullet": 187,
+    "classical": 0,
+    "rapid": 143
+   },
+   "sim3million": {
+    "blitz": 7,
+    "bullet": 30,
+    "classical": 2,
+    "rapid": 3
+   },
+   "simbelmyne-bot": {
+    "blitz": 31370,
+    "bullet": 23977,
+    "classical": 9043,
+    "rapid": 15618
+   },
+   "simple-bot": {
+    "blitz": 5745,
+    "bullet": 3857,
+    "classical": 1383,
+    "rapid": 2429
+   },
+   "simplechessnnue": {
+    "blitz": 488,
+    "bullet": 515,
+    "classical": 0,
+    "rapid": 215
+   },
+   "simpleeval": {
+    "blitz": 46357,
+    "bullet": 54465,
+    "classical": 6220,
+    "rapid": 21721
+   },
+   "sisyphus-engine": {
+    "blitz": 198,
+    "bullet": 139,
+    "classical": 0,
+    "rapid": 21
+   },
+   "sj_norbot": {
+    "blitz": 1173,
+    "bullet": 0,
+    "classical": 173,
+    "rapid": 724
+   },
+   "sleepmindengine": {
+    "blitz": 6944,
+    "bullet": 6014,
+    "classical": 1125,
+    "rapid": 3318
+   },
+   "sleepypawnofficial": {
+    "blitz": 6,
+    "bullet": 5,
+    "classical": 0,
+    "rapid": 27
+   },
+   "slightknight_11": {
+    "blitz": 0,
+    "bullet": 0,
+    "classical": 0,
+    "rapid": 0
+   },
+   "slothcomputer": {
+    "blitz": 351,
+    "bullet": 40,
+    "classical": 0,
+    "rapid": 65
+   },
+   "slowmate_bot": {
+    "blitz": 6183,
+    "bullet": 2458,
+    "classical": 57,
+    "rapid": 3034
+   },
+   "slychessbot": {
+    "blitz": 150,
+    "bullet": 106,
+    "classical": 0,
+    "rapid": 43
+   },
+   "snapleelaeasy": {
+    "blitz": 168,
+    "bullet": 77,
+    "classical": 25,
+    "rapid": 146
+   },
+   "softacornbot": {
+    "blitz": 6,
+    "bullet": 0,
+    "classical": 0,
+    "rapid": 0
+   },
+   "sohilbot": {
+    "blitz": 128,
+    "bullet": 67,
+    "classical": 0,
+    "rapid": 0
+   },
+   "solidor59": {
+    "blitz": 1925,
+    "bullet": 224,
+    "classical": 0,
+    "rapid": 64
+   },
+   "solobot": {
+    "blitz": 4557,
+    "bullet": 3197,
+    "classical": 1,
+    "rapid": 1724
+   },
+   "solsticeengine": {
+    "blitz": 390,
+    "bullet": 201,
+    "classical": 0,
+    "rapid": 45
+   },
+   "somekindofbot": {
+    "blitz": 88,
+    "bullet": 0,
+    "classical": 0,
+    "rapid": 0
+   },
+   "sonalml": {
+    "blitz": 21,
+    "bullet": 164,
+    "classical": 0,
+    "rapid": 28
+   },
+   "sonataengine": {
+    "blitz": 22,
+    "bullet": 24,
+    "classical": 1,
+    "rapid": 18
+   },
+   "sonataintelligence": {
+    "blitz": 74,
+    "bullet": 0,
+    "classical": 0,
+    "rapid": 2
+   },
+   "soulgar": {
+    "blitz": 370,
+    "bullet": 341,
+    "classical": 130,
+    "rapid": 432
+   },
+   "southbot": {
+    "blitz": 2121,
+    "bullet": 951,
+    "classical": 0,
+    "rapid": 882
+   },
+   "space_bot": {
+    "blitz": 505,
+    "bullet": 304,
+    "classical": 0,
+    "rapid": 0
+   },
+   "spyros1bot": {
+    "blitz": 1688,
+    "bullet": 1193,
+    "classical": 589,
+    "rapid": 1453
+   },
+   "squarefish-900": {
+    "blitz": 1645,
+    "bullet": 119,
+    "classical": 194,
+    "rapid": 1047
+   },
+   "sseh-c": {
+    "blitz": 23557,
+    "bullet": 14425,
+    "classical": 8965,
+    "rapid": 18364
+   },
+   "steezybot": {
+    "blitz": 1758,
+    "bullet": 384,
+    "classical": 0,
+    "rapid": 77
+   },
+   "stepbot_chess": {
+    "blitz": 655,
+    "bullet": 446,
+    "classical": 189,
+    "rapid": 606
+   },
+   "stickshark99": {
+    "blitz": 11642,
+    "bullet": 8964,
+    "classical": 467,
+    "rapid": 2107
+   },
+   "stockbotfisher": {
+    "blitz": 69,
+    "bullet": 20,
+    "classical": 0,
+    "rapid": 9
+   },
+   "stockcotsfish": {
+    "blitz": 2,
+    "bullet": 2,
+    "classical": 2,
+    "rapid": 1
+   },
+   "stockdory": {
+    "blitz": 43,
+    "bullet": 144,
+    "classical": 17,
+    "rapid": 65
+   },
+   "stockfail": {
+    "blitz": 1346,
+    "bullet": 888,
+    "classical": 0,
+    "rapid": 1121
+   },
+   "stockfish_bot2": {
+    "blitz": 370,
+    "bullet": 687,
+    "classical": 9,
+    "rapid": 110
+   },
+   "stockfishlowdepth": {
+    "blitz": 257,
+    "bullet": 294,
+    "classical": 262,
+    "rapid": 221
+   },
+   "stockpapagei": {
+    "blitz": 14,
+    "bullet": 1,
+    "classical": 0,
+    "rapid": 4
+   },
+   "straightbot": {
+    "blitz": 0,
+    "bullet": 0,
+    "classical": 0,
+    "rapid": 0
+   },
+   "streamervschat": {
+    "blitz": 0,
+    "bullet": 0,
+    "classical": 0,
+    "rapid": 0
+   },
+   "studyloversz-bot": {
+    "blitz": 1171,
+    "bullet": 720,
+    "classical": 112,
+    "rapid": 452
+   },
+   "stupidchessrobot": {
+    "blitz": 10036,
+    "bullet": 4899,
+    "classical": 192,
+    "rapid": 833
+   },
+   "stupidfishbotbydscs": {
+    "blitz": 438,
+    "bullet": 316,
+    "classical": 121,
+    "rapid": 141
+   },
+   "styx_reckless": {
+    "blitz": 3879,
+    "bullet": 6235,
+    "classical": 0,
+    "rapid": 130
+   },
+   "subnorbot": {
+    "blitz": 0,
+    "bullet": 309,
+    "classical": 0,
+    "rapid": 0
+   },
+   "succulent-bot": {
+    "blitz": 0,
+    "bullet": 0,
+    "classical": 0,
+    "rapid": 7
+   },
+   "sunfish-engine": {
+    "blitz": 3822,
+    "bullet": 2043,
+    "classical": 7,
+    "rapid": 691
+   },
+   "sunfish-nnue-engine": {
+    "blitz": 3436,
+    "bullet": 1670,
+    "classical": 25,
+    "rapid": 298
+   },
+   "sunfish_rs_v2": {
+    "blitz": 2516,
+    "bullet": 2163,
+    "classical": 0,
+    "rapid": 194
+   },
+   "supergame5": {
+    "blitz": 412,
+    "bullet": 4530,
+    "classical": 0,
+    "rapid": 3
+   },
+   "supermarkishere": {
+    "blitz": 90,
+    "bullet": 32,
+    "classical": 0,
+    "rapid": 52
+   },
+   "sxphia": {
+    "blitz": 15096,
+    "bullet": 2527,
+    "classical": 271,
+    "rapid": 1801
+   },
+   "sybaibot": {
+    "blitz": 0,
+    "bullet": 20518,
+    "classical": 0,
+    "rapid": 0
+   },
+   "sybbot": {
+    "blitz": 20203,
+    "bullet": 9142,
+    "classical": 614,
+    "rapid": 5058
+   },
+   "sykorabot": {
+    "blitz": 5921,
+    "bullet": 4984,
+    "classical": 390,
+    "rapid": 1125
+   },
+   "takticprochess": {
+    "blitz": 1868,
+    "bullet": 9073,
+    "classical": 0,
+    "rapid": 516
+   },
+   "talosbot": {
+    "blitz": 17,
+    "bullet": 2539,
+    "classical": 0,
+    "rapid": 0
+   },
+   "taubertdietaubejs": {
+    "blitz": 391,
+    "bullet": 51,
+    "classical": 49,
+    "rapid": 565
+   },
+   "teensycheesy": {
+    "blitz": 934,
+    "bullet": 330,
+    "classical": 0,
+    "rapid": 359
+   },
+   "tempocore": {
+    "blitz": 193,
+    "bullet": 171,
+    "classical": 2,
+    "rapid": 9
+   },
+   "terconari": {
+    "blitz": 11490,
+    "bullet": 4433,
+    "classical": 0,
+    "rapid": 14130
+   },
+   "the_baronet": {
+    "blitz": 306,
+    "bullet": 100,
+    "classical": 0,
+    "rapid": 67
+   },
+   "thealexdestroyer": {
+    "blitz": 364,
+    "bullet": 323,
+    "classical": 0,
+    "rapid": 209
+   },
+   "thechessblazer": {
+    "blitz": 1002,
+    "bullet": 501,
+    "classical": 0,
+    "rapid": 0
+   },
+   "thegrobbot": {
+    "blitz": 78,
+    "bullet": 50,
+    "classical": 0,
+    "rapid": 14
+   },
+   "thomengine": {
+    "blitz": 181,
+    "bullet": 171,
+    "classical": 0,
+    "rapid": 0
+   },
+   "throrbjorn": {
+    "blitz": 5407,
+    "bullet": 4768,
+    "classical": 275,
+    "rapid": 1450
+   },
+   "thunfisch-bot": {
+    "blitz": 6529,
+    "bullet": 7987,
+    "classical": 134,
+    "rapid": 839
+   },
+   "tidymazebot": {
+    "blitz": 447,
+    "bullet": 447,
+    "classical": 35,
+    "rapid": 165
+   },
+   "tigrament": {
+    "blitz": 5485,
+    "bullet": 3171,
+    "classical": 0,
+    "rapid": 439
+   },
+   "tikifish": {
+    "blitz": 4008,
+    "bullet": 1021,
+    "classical": 0,
+    "rapid": 377
+   },
+   "tilapiabot": {
+    "blitz": 441,
+    "bullet": 253,
+    "classical": 22,
+    "rapid": 360
+   },
+   "timemachine1858": {
+    "blitz": 357,
+    "bullet": 0,
+    "classical": 0,
+    "rapid": 326
+   },
+   "tm-sovietschool": {
+    "blitz": 271,
+    "bullet": 0,
+    "classical": 0,
+    "rapid": 157
+   },
+   "to299d": {
+    "blitz": 259,
+    "bullet": 168,
+    "classical": 11,
+    "rapid": 264
+   },
+   "togaii": {
+    "blitz": 556,
+    "bullet": 796,
+    "classical": 0,
+    "rapid": 222
+   },
+   "tomabbot": {
+    "blitz": 0,
+    "bullet": 0,
+    "classical": 0,
+    "rapid": 0
+   },
+   "tonyengine": {
+    "blitz": 306,
+    "bullet": 99,
+    "classical": 0,
+    "rapid": 186
+   },
+   "topasbot": {
+    "blitz": 13090,
+    "bullet": 2741,
+    "classical": 3327,
+    "rapid": 7014
+   },
+   "torombot": {
+    "blitz": 68840,
+    "bullet": 170961,
+    "classical": 47,
+    "rapid": 13705
+   },
+   "trainer-bot": {
+    "blitz": 12588,
+    "bullet": 769,
+    "classical": 6547,
+    "rapid": 7633
+   },
+   "trenerhetman": {
+    "blitz": 0,
+    "bullet": 0,
+    "classical": 0,
+    "rapid": 0
+   },
+   "trinculobot": {
+    "blitz": 2297,
+    "bullet": 834,
+    "classical": 49,
+    "rapid": 231
+   },
+   "troutbot": {
+    "blitz": 15648,
+    "bullet": 8179,
+    "classical": 936,
+    "rapid": 4149
+   },
+   "trusia12345678": {
+    "blitz": 1116,
+    "bullet": 1167,
+    "classical": 31,
+    "rapid": 431
+   },
+   "tucuengine": {
+    "blitz": 532,
+    "bullet": 181,
+    "classical": 235,
+    "rapid": 975
+   },
+   "turk_gambit": {
+    "blitz": 4,
+    "bullet": 0,
+    "classical": 0,
+    "rapid": 0
+   },
+   "turkjs": {
+    "blitz": 32732,
+    "bullet": 32161,
+    "classical": 3256,
+    "rapid": 15764
+   },
+   "turochamp-1ply": {
+    "blitz": 19309,
+    "bullet": 12764,
+    "classical": 5432,
+    "rapid": 17816
+   },
+   "turochamp-2ply": {
+    "blitz": 19028,
+    "bullet": 12659,
+    "classical": 5316,
+    "rapid": 13292
+   },
+   "turox-bot": {
+    "blitz": 882,
+    "bullet": 744,
+    "classical": 0,
+    "rapid": 59
+   },
+   "twosillypandas": {
+    "blitz": 0,
+    "bullet": 0,
+    "classical": 0,
+    "rapid": 11
+   },
+   "uiagbot": {
+    "blitz": 817,
+    "bullet": 187,
+    "classical": 479,
+    "rapid": 923
+   },
+   "ultrabrick": {
+    "blitz": 28480,
+    "bullet": 8489,
+    "classical": 2199,
+    "rapid": 13824
+   },
+   "unimark": {
+    "blitz": 263,
+    "bullet": 134,
+    "classical": 7,
+    "rapid": 89
+   },
+   "ursus_bot": {
+    "blitz": 4528,
+    "bullet": 3149,
+    "classical": 0,
+    "rapid": 1940
+   },
+   "usunfish": {
+    "blitz": 1576,
+    "bullet": 97,
+    "classical": 200,
+    "rapid": 3671
+   },
+   "usunfish-l0": {
+    "blitz": 8007,
+    "bullet": 5665,
+    "classical": 2371,
+    "rapid": 8954
+   },
+   "usunfish-l1": {
+    "blitz": 9094,
+    "bullet": 4510,
+    "classical": 1260,
+    "rapid": 6341
+   },
+   "usunfish-l7": {
+    "blitz": 4349,
+    "bullet": 434,
+    "classical": 433,
+    "rapid": 7117
+   },
+   "uxugin-bot": {
+    "blitz": 3222,
+    "bullet": 1012,
+    "classical": 1480,
+    "rapid": 4295
+   },
+   "uzenatch": {
+    "blitz": 4195,
+    "bullet": 3592,
+    "classical": 0,
+    "rapid": 1396
+   },
+   "v7p3r_bot": {
+    "blitz": 4165,
+    "bullet": 1028,
+    "classical": 429,
+    "rapid": 2124
+   },
+   "vadbot": {
+    "blitz": 662,
+    "bullet": 407,
+    "classical": 0,
+    "rapid": 359
+   },
+   "valhalla-bot": {
+    "blitz": 3748,
+    "bullet": 3389,
+    "classical": 224,
+    "rapid": 2110
+   },
+   "vanibot": {
+    "blitz": 2953,
+    "bullet": 1144,
+    "classical": 110,
+    "rapid": 2507
+   },
+   "variantsbot": {
+    "blitz": 0,
+    "bullet": 2,
+    "classical": 0,
+    "rapid": 0
+   },
+   "vic98lg": {
+    "blitz": 4329,
+    "bullet": 3623,
+    "classical": 0,
+    "rapid": 6
+   },
+   "vicentlittle": {
+    "blitz": 0,
+    "bullet": 0,
+    "classical": 0,
+    "rapid": 223
+   },
+   "vidbot": {
+    "blitz": 5123,
+    "bullet": 2628,
+    "classical": 203,
+    "rapid": 2293
+   },
+   "vietnamesecoffee": {
+    "blitz": 4455,
+    "bullet": 3127,
+    "classical": 49,
+    "rapid": 1821
+   },
+   "violentstockfish": {
+    "blitz": 9115,
+    "bullet": 8613,
+    "classical": 377,
+    "rapid": 1279
+   },
+   "virutor": {
+    "blitz": 13738,
+    "bullet": 11553,
+    "classical": 1323,
+    "rapid": 5993
+   },
+   "void_bot": {
+    "blitz": 3917,
+    "bullet": 3669,
+    "classical": 297,
+    "rapid": 1917
+   },
+   "voigtsbach": {
+    "blitz": 633,
+    "bullet": 200,
+    "classical": 0,
+    "rapid": 274
+   },
+   "vortex_bot": {
+    "blitz": 10,
+    "bullet": 5,
+    "classical": 0,
+    "rapid": 25
+   },
+   "vortexaurafarm": {
+    "blitz": 159,
+    "bullet": 67,
+    "classical": 0,
+    "rapid": 62
+   },
+   "vortexinbrp": {
+    "blitz": 40,
+    "bullet": 13,
+    "classical": 0,
+    "rapid": 30
+   },
+   "waldemar-the-elf": {
+    "blitz": 29,
+    "bullet": 22,
+    "classical": 5,
+    "rapid": 23
+   },
+   "walleye_bot": {
+    "blitz": 3503,
+    "bullet": 2900,
+    "classical": 0,
+    "rapid": 1803
+   },
+   "walpurti": {
+    "blitz": 2316,
+    "bullet": 2238,
+    "classical": 1672,
+    "rapid": 2000
+   },
+   "wannalearnbot": {
+    "blitz": 188,
+    "bullet": 76,
+    "classical": 0,
+    "rapid": 49
+   },
+   "wardnbot": {
+    "blitz": 73,
+    "bullet": 26,
+    "classical": 266,
+    "rapid": 90
+   },
+   "weeebot": {
+    "blitz": 52,
+    "bullet": 29,
+    "classical": 0,
+    "rapid": 6
+   },
+   "weiawaga": {
+    "blitz": 36557,
+    "bullet": 44128,
+    "classical": 13952,
+    "rapid": 24511
+   },
+   "weledar-bot": {
+    "blitz": 197,
+    "bullet": 27,
+    "classical": 0,
+    "rapid": 35
+   },
+   "wildorderbot": {
+    "blitz": 2108,
+    "bullet": 491,
+    "classical": 41,
+    "rapid": 203
+   },
+   "windmolen_bot": {
+    "blitz": 1173,
+    "bullet": 664,
+    "classical": 0,
+    "rapid": 148
+   },
+   "wippy-bot": {
+    "blitz": 38,
+    "bullet": 25,
+    "classical": 4,
+    "rapid": 15
+   },
+   "wolfuhfuhbot": {
+    "blitz": 25516,
+    "bullet": 24553,
+    "classical": 0,
+    "rapid": 8550
+   },
+   "worserbot": {
+    "blitz": 0,
+    "bullet": 0,
+    "classical": 0,
+    "rapid": 0
+   },
+   "worst-ai": {
+    "blitz": 6537,
+    "bullet": 864,
+    "classical": 3,
+    "rapid": 312
+   },
+   "worstfish": {
+    "blitz": 0,
+    "bullet": 0,
+    "classical": 0,
+    "rapid": 0
+   },
+   "wyxx210704_bot": {
+    "blitz": 77,
+    "bullet": 48,
+    "classical": 17,
+    "rapid": 45
+   },
+   "xewali": {
+    "blitz": 33,
+    "bullet": 17,
+    "classical": 5,
+    "rapid": 20
+   },
+   "yesbot": {
+    "blitz": 8,
+    "bullet": 18,
+    "classical": 0,
+    "rapid": 4
+   },
+   "z-o_aspenlabs": {
+    "blitz": 66,
+    "bullet": 0,
+    "classical": 0,
+    "rapid": 3146
+   },
+   "zagreus_engine": {
+    "blitz": 10798,
+    "bullet": 9651,
+    "classical": 20,
+    "rapid": 5480
+   },
+   "zanebot": {
+    "blitz": 163,
+    "bullet": 108,
+    "classical": 19,
+    "rapid": 47
+   },
+   "zeno-bot": {
+    "blitz": 3053,
+    "bullet": 1593,
+    "classical": 63,
+    "rapid": 566
+   },
+   "zero3-now": {
+    "blitz": 1274,
+    "bullet": 380,
+    "classical": 12,
+    "rapid": 145
+   },
+   "zion-bot": {
+    "blitz": 541,
+    "bullet": 254,
+    "classical": 18,
+    "rapid": 192
    },
    "zobristhaescher": {
     "blitz": 1580,
