@@ -65,6 +65,11 @@
    "last_online": "2026-10-15",
    "username": "ailedbot"
   },
+  "aivean": {
+   "first_seen": "2026-10-15",
+   "last_online": "2026-10-15",
+   "username": "aivean"
+  },
   "ajedrezchamberi": {
    "first_seen": "2026-09-29",
    "last_online": "2026-10-13",
@@ -247,7 +252,7 @@
   },
   "battlebornthe1st": {
    "first_seen": "2026-10-01",
-   "last_online": "2026-10-10",
+   "last_online": "2026-10-15",
    "username": "BattleBornThe1st"
   },
   "battlebornthe2nd": {
@@ -1192,7 +1197,7 @@
   },
   "genesis1bot": {
    "first_seen": "2026-10-10",
-   "last_online": "2026-10-10",
+   "last_online": "2026-10-15",
    "username": "genesis1bot"
   },
   "georgii_ai": {
@@ -1389,6 +1394,11 @@
    "first_seen": "2026-09-27",
    "last_online": "2026-10-15",
    "username": "ilovecatgirl"
+  },
+  "implosio": {
+   "first_seen": "2026-10-15",
+   "last_online": "2026-10-15",
+   "username": "Implosio"
   },
   "inanisbot": {
    "first_seen": "2026-09-27",
@@ -3145,6 +3155,11 @@
    "last_online": "2026-10-15",
    "username": "TheGrobBot"
   },
+  "thelokbott": {
+   "first_seen": "2026-10-15",
+   "last_online": "2026-10-15",
+   "username": "thelokbott"
+  },
   "thomengine": {
    "first_seen": "2026-09-30",
    "last_online": "2026-10-11",
@@ -3552,7 +3567,7 @@
   }
  },
  "online": {
-  "checked_at": "2026-10-15T13:43:09Z",
+  "checked_at": "2026-10-15T14:43:11Z",
   "ids": [
    "aaronsengine",
    "aatk_vanguardx",
@@ -3564,6 +3579,7 @@
    "aggressivestockfish",
    "ai-con",
    "ailedbot",
+   "aivean",
    "alexandrya",
    "aliceshiro",
    "alieknek",
@@ -3585,7 +3601,7 @@
    "axiom_bot",
    "baby_eubos",
    "banerot",
-   "battlebornthe3rd",
+   "battlebornthe1st",
    "batyarapro",
    "bbc_bot",
    "becela9_kpebetka",
@@ -3627,6 +3643,7 @@
    "cheszter",
    "chill4ce",
    "chronicgambler",
+   "chrusty",
    "cinder-bot",
    "classic_bot-v2",
    "classical-leela",
@@ -3685,6 +3702,7 @@
    "fschess-engine",
    "funcomp",
    "garbobot",
+   "genesis1bot",
    "geotsibot",
    "gnu4u",
    "goldfish-engine",
@@ -3705,6 +3723,7 @@
    "icarus-bot",
    "ilcorvochess",
    "ilovecatgirl",
+   "implosio",
    "inanisbot",
    "incipit_bot",
    "is_boss",
@@ -3794,7 +3813,6 @@
    "neryba",
    "neurosocute",
    "newchessengine-ai",
-   "newtsbot",
    "nexastrat",
    "nexosdefos",
    "nice_bot",
@@ -3895,15 +3913,13 @@
    "talosbot",
    "teensycheesy",
    "terconari",
-   "the_baronet",
    "thechessblazer",
-   "thegrobbot",
+   "thelokbott",
    "throrbjorn",
    "thunfisch-bot",
    "tigrament",
    "tikifish",
    "tilapiabot",
-   "to299d",
    "togaii",
    "tomabbot",
    "topasbot",
@@ -3918,9 +3934,9 @@
    "turochamp-1ply",
    "turochamp-2ply",
    "turox-bot",
-   "uiagbot",
    "ultrabrick",
    "unimark",
+   "ursus_bot",
    "usunfish",
    "usunfish-l0",
    "usunfish-l1",
@@ -3936,14 +3952,12 @@
    "vidbot",
    "vietnamesecoffee",
    "void_bot",
-   "vortex_bot",
    "waldemar-the-elf",
    "wasternew",
    "weiawaga",
    "wolfuhfuhbot",
    "worst-ai",
    "worstfish",
-   "wyxx210704_bot",
    "xewali",
    "z-o_aspenlabs",
    "zion-bot"
