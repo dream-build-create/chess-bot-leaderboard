@@ -1360,10 +1360,20 @@
    "last_online": "2026-10-15",
    "username": "hummus-bot"
   },
+  "hustler_1mb": {
+   "first_seen": "2026-10-15",
+   "last_online": "2026-10-15",
+   "username": "Hustler_1MB"
+  },
   "hustler_2mb": {
    "first_seen": "2026-09-27",
    "last_online": "2026-10-15",
    "username": "Hustler_2MB"
+  },
+  "hustler_5mb": {
+   "first_seen": "2026-10-15",
+   "last_online": "2026-10-15",
+   "username": "Hustler_5MB"
   },
   "hymybot": {
    "first_seen": "2026-09-30",
@@ -3592,7 +3602,7 @@
   }
  },
  "online": {
-  "checked_at": "2026-10-15T22:43:11Z",
+  "checked_at": "2026-10-15T23:43:11Z",
   "ids": [
    "aatk_vanguardx",
    "abcd_engine",
@@ -3705,9 +3715,7 @@
    "demolito_l4",
    "demolito_l5",
    "demolito_l6",
-   "dianabot",
    "drawfish-reborn",
-   "drewschessmachine",
    "duchessai",
    "dumbotai",
    "edwardkillick",
@@ -3730,11 +3738,9 @@
    "fourcuriouspandas",
    "fschess-engine",
    "funcomp",
-   "gambitonlybot",
    "garbobot",
    "geotsibot",
    "gnu4u",
-   "goblinajedrezai",
    "goldfish-engine",
    "goopis",
    "grail-bot",
@@ -3747,7 +3753,9 @@
    "hodgeybot",
    "holidaybot1225",
    "hummus-bot",
+   "hustler_1mb",
    "hustler_2mb",
+   "hustler_5mb",
    "hynobiuschess",
    "hyperopic",
    "icarus-bot",
@@ -3911,10 +3919,8 @@
    "shallowredbot",
    "sharpsundae",
    "shrevenbot",
-   "silasly",
    "sim3million",
    "simbelmyne-bot",
-   "simple-bot",
    "simpleeval",
    "sj_norbot",
    "sleepmindengine",
@@ -3951,7 +3957,6 @@
    "tigrament",
    "tikifish",
    "tilapiabot",
-   "to299d",
    "togaii",
    "tomabbot",
    "topasbot",
