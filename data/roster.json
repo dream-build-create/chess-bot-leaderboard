@@ -2,7 +2,7 @@
  "bots": {
   "aaronsengine": {
    "first_seen": "2026-09-27",
-   "last_online": "2026-10-14",
+   "last_online": "2026-10-15",
    "username": "AaronsEngine"
   },
   "aatk_vanguardx": {
@@ -1277,7 +1277,7 @@
   },
   "grzechu86": {
    "first_seen": "2026-09-29",
-   "last_online": "2026-10-14",
+   "last_online": "2026-10-15",
    "username": "Grzechu86"
   },
   "guitarfish-engine": {
@@ -1352,7 +1352,7 @@
   },
   "hustler_2mb": {
    "first_seen": "2026-09-27",
-   "last_online": "2026-10-13",
+   "last_online": "2026-10-15",
    "username": "Hustler_2MB"
   },
   "hymybot": {
@@ -1667,7 +1667,7 @@
   },
   "leelamultiposs": {
    "first_seen": "2026-10-08",
-   "last_online": "2026-10-13",
+   "last_online": "2026-10-15",
    "username": "LeelaMultiPoss"
   },
   "leelapieceodds": {
@@ -2047,7 +2047,7 @@
   },
   "miss_snowiee": {
    "first_seen": "2026-10-02",
-   "last_online": "2026-10-14",
+   "last_online": "2026-10-15",
    "username": "Miss_snowiee"
   },
   "mithandros": {
@@ -2092,7 +2092,7 @@
   },
   "mxnet-gamemaster": {
    "first_seen": "2026-09-28",
-   "last_online": "2026-10-14",
+   "last_online": "2026-10-15",
    "username": "mxnet-gamemaster"
   },
   "my-bot": {
@@ -3542,8 +3542,9 @@
   }
  },
  "online": {
-  "checked_at": "2026-10-15T08:43:45Z",
+  "checked_at": "2026-10-15T09:43:09Z",
   "ids": [
+   "aaronsengine",
    "aatk_vanguardx",
    "abcd_engine",
    "abdcebot",
@@ -3581,7 +3582,6 @@
    "bernstein-4ply",
    "bfiedler-bot",
    "bitbitbot",
-   "black-bishop-kh",
    "blobfish-bot",
    "bluemoonbot",
    "blujay-bot",
@@ -3599,13 +3599,11 @@
    "c-t-r-l",
    "c0kval",
    "caiporabot",
-   "caissa-x",
    "calciumengine",
    "casanchess-nnue",
    "catnail",
    "catriever",
    "charibot",
-   "chatgpt5_5",
    "chess_set_manager",
    "chessblight",
    "chessiverse_ethan",
@@ -3668,7 +3666,6 @@
    "fayefish",
    "felipe_bot_53",
    "fenrirbot",
-   "fighting2543",
    "flounderbot",
    "flybrainchess",
    "fschess-engine",
@@ -3683,11 +3680,14 @@
    "grindfish",
    "groshboss",
    "gryndor",
+   "grzechu86",
    "hackerchessbot",
    "halcyonbot",
+   "hiusbot",
    "hodgeybot",
    "holidaybot1225",
    "hummus-bot",
+   "hustler_2mb",
    "hynobiuschess",
    "hyperopic",
    "icarus-bot",
@@ -3721,6 +3721,7 @@
    "leelaalien",
    "leelajester",
    "leelaknightodds",
+   "leelamultiposs",
    "leelapieceodds",
    "leelaqueenforknight",
    "leelaqueenodds",
@@ -3763,17 +3764,20 @@
    "matmoi",
    "matthewcarven",
    "mayflyengine",
+   "mcdonalds1955",
    "mega-noob-bot",
    "melsh_bot",
    "mimirbot",
    "minibotapi",
    "minibruteforcebot",
+   "miss_snowiee",
    "mithandros",
    "mochi_bot",
    "morabandbot",
    "mostlyhuman1900",
    "mrtonnerre",
    "musashi-thebot",
+   "mxnet-gamemaster",
    "mychessjava",
    "nanozeroorg",
    "nebubot",
@@ -3792,6 +3796,7 @@
    "o-rei-cx",
    "overfitted",
    "oxide-eg",
+   "oxybullet",
    "oxydanbot",
    "pangubot",
    "panic-fish",
@@ -3879,7 +3884,6 @@
    "teensycheesy",
    "terconari",
    "thechessblazer",
-   "thegrobbot",
    "throrbjorn",
    "thunfisch-bot",
    "tigrament",
@@ -3918,7 +3922,6 @@
    "vicentlittle",
    "vidbot",
    "vietnamesecoffee",
-   "void_bot",
    "waldemar-the-elf",
    "weiawaga",
    "wolfuhfuhbot",
