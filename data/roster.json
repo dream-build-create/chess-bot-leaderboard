@@ -1242,7 +1242,7 @@
   },
   "goldinho1bot": {
    "first_seen": "2026-09-29",
-   "last_online": "2026-10-11",
+   "last_online": "2026-10-15",
    "username": "goldinho1bot"
   },
   "goopis": {
@@ -2597,7 +2597,7 @@
   },
   "reaper1bot": {
    "first_seen": "2026-10-10",
-   "last_online": "2026-10-10",
+   "last_online": "2026-10-15",
    "username": "reaper1bot"
   },
   "redbeantree": {
@@ -2952,7 +2952,7 @@
   },
   "spyros1bot": {
    "first_seen": "2026-09-28",
-   "last_online": "2026-10-12",
+   "last_online": "2026-10-15",
    "username": "spyros1bot"
   },
   "squarefish-900": {
@@ -3567,7 +3567,7 @@
   }
  },
  "online": {
-  "checked_at": "2026-10-15T14:43:11Z",
+  "checked_at": "2026-10-15T15:43:09Z",
   "ids": [
    "aaronsengine",
    "aatk_vanguardx",
@@ -3610,11 +3610,12 @@
    "bernstein-4ply",
    "bfiedler-bot",
    "bitbitbot",
-   "blobfish-bot",
+   "black-bishop-kh",
    "bluemoonbot",
    "blujay-bot",
    "bongaclang",
    "boris-trapsky",
+   "borkatower",
    "bot1e",
    "bot1nokk",
    "bot5551",
@@ -3634,6 +3635,7 @@
    "catriever",
    "ceraf",
    "charibot",
+   "chess_set_manager",
    "chessblight",
    "chessiverse_ethan",
    "chessiverse_luc",
@@ -3647,7 +3649,6 @@
    "cinder-bot",
    "classic_bot-v2",
    "classical-leela",
-   "claude_bot",
    "claudyengine",
    "cloudia-chess",
    "clrsrc_lc0",
@@ -3706,6 +3707,7 @@
    "geotsibot",
    "gnu4u",
    "goldfish-engine",
+   "goldinho1bot",
    "goopis",
    "grail-bot",
    "grindfish",
@@ -3748,6 +3750,7 @@
    "kopyto_dev",
    "kulubot",
    "lamprook",
+   "lantern_bot",
    "larryz-alterego",
    "laura-bot",
    "leelaalien",
@@ -3793,6 +3796,7 @@
    "mate-in-twenty",
    "mate1-bot",
    "matmoi",
+   "matthewcarven",
    "mayflyengine",
    "mcdonalds1955",
    "mega-noob-bot",
@@ -3810,12 +3814,12 @@
    "mychessjava",
    "nanozeroorg",
    "nebubot",
-   "neryba",
    "neurosocute",
    "newchessengine-ai",
    "nexastrat",
    "nexosdefos",
    "nice_bot",
+   "nickdrohan",
    "nilatacbot",
    "nittedal",
    "nnueandthevoices",
@@ -3855,6 +3859,7 @@
    "raven030",
    "ravenengine",
    "rdtchessbot",
+   "reaper1bot",
    "redbeantree",
    "registerpythonspeed",
    "renegadeengine",
@@ -3890,6 +3895,7 @@
    "slowmate_bot",
    "solobot",
    "southbot",
+   "spyros1bot",
    "squarefish-900",
    "sseh-c",
    "stepbot_chess",
@@ -3912,8 +3918,10 @@
    "takticprochess",
    "talosbot",
    "teensycheesy",
+   "tempocore",
    "terconari",
    "thechessblazer",
+   "thegrobbot",
    "thelokbott",
    "throrbjorn",
    "thunfisch-bot",
