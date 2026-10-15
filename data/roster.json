@@ -517,7 +517,7 @@
   },
   "calciumengine": {
    "first_seen": "2026-10-10",
-   "last_online": "2026-10-14",
+   "last_online": "2026-10-15",
    "username": "CalciumEngine"
   },
   "calico1": {
@@ -727,7 +727,7 @@
   },
   "classical-leela": {
    "first_seen": "2026-09-27",
-   "last_online": "2026-10-13",
+   "last_online": "2026-10-15",
    "username": "classical-leela"
   },
   "claude_bot": {
@@ -1602,7 +1602,7 @@
   },
   "la5v2": {
    "first_seen": "2026-10-08",
-   "last_online": "2026-10-14",
+   "last_online": "2026-10-15",
    "username": "LA5V2"
   },
   "lamprook": {
@@ -3542,7 +3542,7 @@
   }
  },
  "online": {
-  "checked_at": "2026-10-15T00:43:12Z",
+  "checked_at": "2026-10-15T01:12:28Z",
   "ids": [
    "aatk_vanguardx",
    "abcd_engine",
@@ -3600,6 +3600,7 @@
    "c-t-r-l",
    "c0kval",
    "caiporabot",
+   "calciumengine",
    "calico1",
    "carmin-bot",
    "casanchess-nnue",
@@ -3617,9 +3618,9 @@
    "cheszter",
    "chill4ce",
    "chronicgambler",
-   "chrusty",
    "cinder-bot",
    "classic_bot-v2",
+   "classical-leela",
    "claude_bot",
    "cloudia-chess",
    "clrsrc_lc0",
@@ -3651,7 +3652,6 @@
    "demolito_l5",
    "demolito_l6",
    "drawfish-reborn",
-   "drewschessmachine",
    "duchessai",
    "dumbotai",
    "edwardkillick",
@@ -3717,6 +3717,7 @@
    "kirinchessbot",
    "kopyto_dev",
    "kulubot",
+   "la5v2",
    "lamprook",
    "larryz-alterego",
    "laura-bot",
@@ -3795,7 +3796,6 @@
    "o-rei-cx",
    "overfitted",
    "oxide-eg",
-   "oxybullet",
    "oxydanbot",
    "pangubot",
    "panic-fish",
@@ -3840,7 +3840,6 @@
    "sargon-3ply",
    "sargon-4ply",
    "saxtonengine",
-   "sbnovella",
    "scalaqueen",
    "schnecken_bot",
    "scipio-bot",
