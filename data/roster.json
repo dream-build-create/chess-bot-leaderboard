@@ -477,7 +477,7 @@
   },
   "brybrybot": {
    "first_seen": "2026-10-13",
-   "last_online": "2026-10-14",
+   "last_online": "2026-10-15",
    "username": "BryBryBot"
   },
   "bubblebot2": {
@@ -597,7 +597,7 @@
   },
   "cheesestar": {
    "first_seen": "2026-09-28",
-   "last_online": "2026-10-13",
+   "last_online": "2026-10-15",
    "username": "CheeseStar"
   },
   "cheng-4": {
@@ -807,7 +807,7 @@
   },
   "coolperson_bot1": {
    "first_seen": "2026-10-05",
-   "last_online": "2026-10-14",
+   "last_online": "2026-10-15",
    "username": "coolperson_bot1"
   },
   "cosettebot": {
@@ -842,7 +842,7 @@
   },
   "cruelken": {
    "first_seen": "2026-10-01",
-   "last_online": "2026-10-14",
+   "last_online": "2026-10-15",
    "username": "CruelKen"
   },
   "cutebot": {
@@ -969,6 +969,11 @@
    "first_seen": "2026-09-29",
    "last_online": "2026-10-08",
    "username": "dgtrychess"
+  },
+  "dianabot": {
+   "first_seen": "2026-10-15",
+   "last_online": "2026-10-15",
+   "username": "DianaBot"
   },
   "dontshameelon": {
    "first_seen": "2026-10-09",
@@ -3587,7 +3592,7 @@
   }
  },
  "online": {
-  "checked_at": "2026-10-15T21:43:10Z",
+  "checked_at": "2026-10-15T22:43:11Z",
   "ids": [
    "aatk_vanguardx",
    "abcd_engine",
@@ -3611,7 +3616,6 @@
    "aposeij",
    "approximationbot",
    "arabicahce",
-   "arasanx",
    "ariadne-bot",
    "arkiplayschess",
    "artidigm_research",
@@ -3620,6 +3624,7 @@
    "atari-video-chess",
    "axiom_bot",
    "baby_eubos",
+   "banerot",
    "battlebornthe2nd",
    "battlebornthe3rd",
    "batyarapro",
@@ -3634,6 +3639,7 @@
    "blujay-bot",
    "bongaclang",
    "boris-trapsky",
+   "borkatower",
    "bot1e",
    "bot1nokk",
    "bot5551",
@@ -3641,6 +3647,7 @@
    "bot_adario",
    "bottios",
    "bretemabot",
+   "brybrybot",
    "bubblebot2",
    "byte-knight",
    "c-t-r-l",
@@ -3652,6 +3659,7 @@
    "catriever",
    "charibot",
    "chatgpt5_5",
+   "cheesestar",
    "chess_set_manager",
    "chessblight",
    "chessiverse_ethan",
@@ -3666,17 +3674,18 @@
    "cinder-bot",
    "classic_bot-v2",
    "classical-leela",
-   "claudyengine",
    "cloudia-chess",
    "clrsrc_lc0",
    "coda_bot",
    "colinbot",
    "confidencebuilder",
    "cookiebot711",
+   "coolperson_bot1",
    "cosettebot",
    "croco_bot",
    "croco_little_bot",
    "crocodile_bot",
+   "cruelken",
    "dala-1100",
    "dala-1300",
    "dala-1600",
@@ -3696,6 +3705,7 @@
    "demolito_l4",
    "demolito_l5",
    "demolito_l6",
+   "dianabot",
    "drawfish-reborn",
    "drewschessmachine",
    "duchessai",
@@ -3832,7 +3842,6 @@
    "neryba",
    "neurosocute",
    "newchessengine-ai",
-   "newtsbot",
    "nexastrat",
    "nexosdefos",
    "nice_bot",
@@ -3875,6 +3884,7 @@
    "raven030",
    "ravenengine",
    "rdtchessbot",
+   "redbeantree",
    "registerpythonspeed",
    "renegadeengine",
    "resolutebot",
@@ -3891,9 +3901,11 @@
    "sargon-3ply",
    "sargon-4ply",
    "saxtonengine",
+   "sbnovella",
    "scalaqueen",
    "schnecken_bot",
    "scipio-bot",
+   "seedchess",
    "seitogakatsu",
    "sf_bot1nok",
    "shallowredbot",
