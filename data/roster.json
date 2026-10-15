@@ -657,7 +657,7 @@
   },
   "chessgeniusbot": {
    "first_seen": "2026-10-02",
-   "last_online": "2026-10-12",
+   "last_online": "2026-10-15",
    "username": "ChessGeniusBot"
   },
   "chessiverse_ethan": {
@@ -1972,7 +1972,7 @@
   },
   "matemakingmachine": {
    "first_seen": "2026-09-29",
-   "last_online": "2026-10-14",
+   "last_online": "2026-10-15",
    "username": "MateMakingMachine"
   },
   "matmoi": {
@@ -2312,7 +2312,7 @@
   },
   "pachetron": {
    "first_seen": "2026-10-11",
-   "last_online": "2026-10-13",
+   "last_online": "2026-10-15",
    "username": "pachetron"
   },
   "pangubot": {
@@ -3577,11 +3577,12 @@
   }
  },
  "online": {
-  "checked_at": "2026-10-15T17:43:09Z",
+  "checked_at": "2026-10-15T18:43:10Z",
   "ids": [
    "aaronsengine",
    "aatk_vanguardx",
    "abcd_engine",
+   "abdcebot",
    "aconcaguabot",
    "aetherbot",
    "agentc313",
@@ -3636,13 +3637,13 @@
    "c0kval",
    "caiporabot",
    "calciumengine",
-   "carmin-bot",
    "casanchess-nnue",
    "catnail",
    "catriever",
    "charibot",
    "chess_set_manager",
    "chessblight",
+   "chessgeniusbot",
    "chessiverse_ethan",
    "chessiverse_luc",
    "chessiverse_pawnza",
@@ -3708,6 +3709,7 @@
    "fourcuriouspandas",
    "fschess-engine",
    "funcomp",
+   "gambitonlybot",
    "garbobot",
    "geotsibot",
    "gnu4u",
@@ -3728,7 +3730,6 @@
    "icarus-bot",
    "ilcorvochess",
    "ilovecatgirl",
-   "implosio",
    "inanisbot",
    "incipit_bot",
    "is_boss",
@@ -3795,6 +3796,7 @@
    "mate-in-thirty",
    "mate-in-twenty",
    "mate1-bot",
+   "matemakingmachine",
    "matmoi",
    "mayflyengine",
    "mboobot",
@@ -3833,6 +3835,7 @@
    "oxide-eg",
    "oxybullet",
    "oxydanbot",
+   "pachetron",
    "pangubot",
    "panic-fish",
    "partner3615diago",
@@ -3865,6 +3868,7 @@
    "renegadeengine",
    "resolutebot",
    "ribfish-bot",
+   "rodent-iv",
    "romanticbot",
    "romanticbot2",
    "rudim-bot",
