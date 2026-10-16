@@ -347,7 +347,7 @@
   },
   "black-bishop-kh": {
    "first_seen": "2026-09-28",
-   "last_online": "2026-10-15",
+   "last_online": "2026-10-16",
    "username": "Black-Bishop-Kh"
   },
   "black-icebot": {
@@ -1817,7 +1817,7 @@
   },
   "lunaenginechess": {
    "first_seen": "2026-09-28",
-   "last_online": "2026-10-14",
+   "last_online": "2026-10-16",
    "username": "LunaEngineChess"
   },
   "lynx_bot": {
@@ -2132,7 +2132,7 @@
   },
   "musashi-thebot": {
    "first_seen": "2026-09-28",
-   "last_online": "2026-10-15",
+   "last_online": "2026-10-16",
    "username": "Musashi-thebot"
   },
   "mxnet-gamemaster": {
@@ -3462,7 +3462,7 @@
   },
   "vortexaurafarm": {
    "first_seen": "2026-10-08",
-   "last_online": "2026-10-11",
+   "last_online": "2026-10-16",
    "username": "VortexAuraFarm"
   },
   "vortexinbrp": {
@@ -3612,7 +3612,7 @@
   }
  },
  "online": {
-  "checked_at": "2026-10-16T04:43:11Z",
+  "checked_at": "2026-10-16T05:43:09Z",
   "ids": [
    "aatk_vanguardx",
    "abcd_engine",
@@ -3654,6 +3654,7 @@
    "bernstein-4ply",
    "bfiedler-bot",
    "bitbitbot",
+   "black-bishop-kh",
    "bluemoonbot",
    "blujay-bot",
    "bongaclang",
@@ -3811,6 +3812,7 @@
    "littlepatricia",
    "louischess48-6k",
    "lukebot",
+   "lunaenginechess",
    "lynx_bot",
    "mac-bot",
    "maia1",
@@ -3850,6 +3852,7 @@
    "morabandbot",
    "mostlyhuman1900",
    "mrtonnerre",
+   "musashi-thebot",
    "mychessjava",
    "nanozeroorg",
    "nebubot",
@@ -3885,7 +3888,6 @@
    "pi0w",
    "piglet_engine",
    "prokopakop",
-   "prometheus_truce",
    "puisne",
    "pzchessbot",
    "queensgambot",
@@ -3957,6 +3959,7 @@
    "tempocore",
    "terconari",
    "thechessblazer",
+   "thelokbott",
    "throrbjorn",
    "thunfisch-bot",
    "tigrament",
@@ -3996,6 +3999,7 @@
    "vidbot",
    "vietnamesecoffee",
    "void_bot",
+   "vortexaurafarm",
    "waldemar-the-elf",
    "weiawaga",
    "wolfuhfuhbot",
