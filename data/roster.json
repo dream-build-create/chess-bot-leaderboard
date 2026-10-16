@@ -647,7 +647,7 @@
   },
   "chess3bot": {
    "first_seen": "2026-09-27",
-   "last_online": "2026-10-14",
+   "last_online": "2026-10-16",
    "username": "Chess3Bot"
   },
   "chess_set_manager": {
@@ -1237,7 +1237,7 @@
   },
   "genesis1bot": {
    "first_seen": "2026-10-10",
-   "last_online": "2026-10-15",
+   "last_online": "2026-10-16",
    "username": "genesis1bot"
   },
   "georgii_ai": {
@@ -1252,7 +1252,7 @@
   },
   "ghidorah_x": {
    "first_seen": "2026-09-27",
-   "last_online": "2026-10-14",
+   "last_online": "2026-10-16",
    "username": "Ghidorah_X"
   },
   "gnu4u": {
@@ -1547,7 +1547,7 @@
   },
   "jinko-chan": {
    "first_seen": "2026-10-09",
-   "last_online": "2026-10-13",
+   "last_online": "2026-10-16",
    "username": "Jinko-Chan"
   },
   "joan_clone": {
@@ -2422,7 +2422,7 @@
   },
   "pawny_bot": {
    "first_seen": "2026-09-27",
-   "last_online": "2026-10-04",
+   "last_online": "2026-10-16",
    "username": "pawny_bot"
   },
   "pdp8-chekmo": {
@@ -3667,9 +3667,8 @@
   }
  },
  "online": {
-  "checked_at": "2026-10-16T19:43:10Z",
+  "checked_at": "2026-10-16T20:43:09Z",
   "ids": [
-   "aaronsengine",
    "abcd_engine",
    "abdcebot",
    "aconcaguabot",
@@ -3731,6 +3730,7 @@
    "chaotong_engine",
    "charibot",
    "chatgpt5_5",
+   "chess3bot",
    "chess_set_manager",
    "chessblight",
    "chessiverse_ethan",
@@ -3769,6 +3769,7 @@
    "darkpinechessbot",
    "davidsguterbot",
    "debzero",
+   "deepbecky",
    "deepsquare-ai",
    "demen100ns-bot",
    "demolito_l1",
@@ -3802,8 +3803,11 @@
    "fourcuriouspandas",
    "fschess-engine",
    "funcomp",
+   "gambitonlybot",
    "garbobot",
+   "genesis1bot",
    "geotsibot",
+   "ghidorah_x",
    "gnu4u",
    "goldfish-engine",
    "goldinho1bot",
@@ -3831,6 +3835,7 @@
    "ilovecatgirl",
    "inanisbot",
    "incipit_bot",
+   "io-bot",
    "is_boss",
    "iskelt-corax",
    "jacobsbot",
@@ -3839,12 +3844,14 @@
    "jenniferx",
    "jesterchessrobot",
    "jibbby",
+   "jinko-chan",
    "joan_clone",
    "joey_chessengine",
    "jomfishh",
    "jongsungkim",
    "joshsbot",
    "jpg-bot",
+   "jurdbird",
    "justbot-v1",
    "kavinengine",
    "kestrelstrike",
@@ -3899,7 +3906,6 @@
    "mate1-bot",
    "matemakingmachine",
    "matmoi",
-   "matthewcarven",
    "mayflyengine",
    "mcdonalds1955",
    "mega-noob-bot",
@@ -3939,6 +3945,7 @@
    "patzerbot135",
    "pawn_git",
    "pawnrobot",
+   "pawny_bot",
    "pdp8-chekmo",
    "pdp8-clash",
    "peacemaker-0_0",
@@ -3995,7 +4002,6 @@
    "snaky-bot",
    "solobot",
    "southbot",
-   "spyros1bot",
    "squarefish-900",
    "sseh-c",
    "stickshark99",
@@ -4022,7 +4028,6 @@
    "thegrobbot",
    "throrbjorn",
    "thunfisch-bot",
-   "tigrament",
    "tikifish",
    "tilapiabot",
    "to299d",
