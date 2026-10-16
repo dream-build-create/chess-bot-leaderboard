@@ -1437,7 +1437,7 @@
   },
   "is_boss": {
    "first_seen": "2026-09-27",
-   "last_online": "2026-10-15",
+   "last_online": "2026-10-16",
    "username": "is_BOSS"
   },
   "iskelt-corax": {
@@ -2627,7 +2627,7 @@
   },
   "redbeantree": {
    "first_seen": "2026-09-27",
-   "last_online": "2026-10-15",
+   "last_online": "2026-10-16",
    "username": "RedBeanTree"
   },
   "registerpythonspeed": {
@@ -2722,7 +2722,7 @@
   },
   "rustbot2003": {
    "first_seen": "2026-09-29",
-   "last_online": "2026-10-07",
+   "last_online": "2026-10-16",
    "username": "RustBot2003"
   },
   "rustyrival": {
@@ -2862,7 +2862,7 @@
   },
   "simple-bot": {
    "first_seen": "2026-09-27",
-   "last_online": "2026-10-15",
+   "last_online": "2026-10-16",
    "username": "simple-bot"
   },
   "simplechessnnue": {
@@ -3602,7 +3602,7 @@
   }
  },
  "online": {
-  "checked_at": "2026-10-16T00:43:10Z",
+  "checked_at": "2026-10-16T01:11:21Z",
   "ids": [
    "aatk_vanguardx",
    "abcd_engine",
@@ -3668,7 +3668,6 @@
    "catnail",
    "catriever",
    "charibot",
-   "chess_set_manager",
    "chessblight",
    "chessiverse_ethan",
    "chessiverse_luc",
@@ -3677,7 +3676,6 @@
    "cheszter",
    "chill4ce",
    "chronicgambler",
-   "chrusty",
    "cinder-bot",
    "classic_bot-v2",
    "classical-leela",
@@ -3761,6 +3759,7 @@
    "inanisbot",
    "incipit_bot",
    "io-bot",
+   "is_boss",
    "iskelt-corax",
    "jacobsbot",
    "jangine",
@@ -3888,6 +3887,7 @@
    "raven030",
    "ravenengine",
    "rdtchessbot",
+   "redbeantree",
    "registerpythonspeed",
    "renegadeengine",
    "resolutebot",
@@ -3897,6 +3897,7 @@
    "romanticbot2",
    "rudim-bot",
    "rust-in-pieces",
+   "rustbot2003",
    "rustyrival",
    "ryu-ishigori",
    "sargon-1ply",
@@ -3916,6 +3917,7 @@
    "shrevenbot",
    "sim3million",
    "simbelmyne-bot",
+   "simple-bot",
    "simpleeval",
    "sj_norbot",
    "sleepmindengine",
