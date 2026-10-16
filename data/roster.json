@@ -257,7 +257,7 @@
   },
   "battlebornthe1st": {
    "first_seen": "2026-10-01",
-   "last_online": "2026-10-15",
+   "last_online": "2026-10-16",
    "username": "BattleBornThe1st"
   },
   "battlebornthe2nd": {
@@ -550,6 +550,11 @@
    "last_online": "2026-10-04",
    "username": "Capybara_ChessBOT"
   },
+  "carechess-bot": {
+   "first_seen": "2026-10-16",
+   "last_online": "2026-10-16",
+   "username": "CareChess-Bot"
+  },
   "carmin-bot": {
    "first_seen": "2026-10-06",
    "last_online": "2026-10-15",
@@ -609,6 +614,11 @@
    "first_seen": "2026-09-28",
    "last_online": "2026-10-15",
    "username": "CheeseStar"
+  },
+  "chekovbot": {
+   "first_seen": "2026-10-16",
+   "last_online": "2026-10-16",
+   "username": "ChekovBOT"
   },
   "cheng-4": {
    "first_seen": "2026-09-27",
@@ -1982,7 +1992,7 @@
   },
   "malpamat": {
    "first_seen": "2026-09-29",
-   "last_online": "2026-10-15",
+   "last_online": "2026-10-16",
    "username": "malpamat"
   },
   "markusdaukrobloxkid": {
@@ -2112,7 +2122,7 @@
   },
   "miss_snowiee": {
    "first_seen": "2026-10-02",
-   "last_online": "2026-10-15",
+   "last_online": "2026-10-16",
    "username": "Miss_snowiee"
   },
   "mithandros": {
@@ -2767,7 +2777,7 @@
   },
   "saisrankarthik_7": {
    "first_seen": "2026-10-07",
-   "last_online": "2026-10-15",
+   "last_online": "2026-10-16",
    "username": "SAISRANKARTHIK_7"
   },
   "sara32222": {
@@ -2944,6 +2954,11 @@
    "first_seen": "2026-10-01",
    "last_online": "2026-10-15",
    "username": "SlyChessBot"
+  },
+  "snaky-bot": {
+   "first_seen": "2026-10-16",
+   "last_online": "2026-10-16",
+   "username": "Snaky-Bot"
   },
   "snapleelaeasy": {
    "first_seen": "2026-10-04",
@@ -3632,9 +3647,10 @@
   }
  },
  "online": {
-  "checked_at": "2026-10-16T11:43:09Z",
+  "checked_at": "2026-10-16T12:43:09Z",
   "ids": [
    "aaronsengine",
+   "aatk_vanguardx",
    "abcd_engine",
    "abdcebot",
    "aconcaguabot",
@@ -3660,9 +3676,11 @@
    "arkiplayschess",
    "artidigm_research",
    "ashnostromo",
+   "ask-aatk-bot",
    "atari-video-chess",
    "axiom_bot",
    "banerot",
+   "battlebornthe1st",
    "battlebornthe2nd",
    "battlebornthe3rd",
    "batyarapro",
@@ -3692,12 +3710,14 @@
    "c0kval",
    "caiporabot",
    "calciumengine",
+   "carechess-bot",
    "casanchess-nnue",
    "catnail",
    "catriever",
    "chamberiajedrez",
    "charibot",
    "chatgpt5_5",
+   "chekovbot",
    "chess26_bot",
    "chess_set_manager",
    "chessblight",
@@ -3733,12 +3753,14 @@
    "dala-900",
    "darkelectronbot",
    "darkonweakbot",
-   "darkpinechessbot",
    "davidsguterbot",
    "debzero",
    "deepbecky",
    "deepsquare-ai",
    "demen100ns-bot",
+   "demolito_l1",
+   "demolito_l2",
+   "demolito_l3",
    "demolito_l4",
    "demolito_l5",
    "demolito_l6",
@@ -3756,7 +3778,6 @@
    "entebot",
    "eubos",
    "falconengine",
-   "fataliibot",
    "fathzer-jchess",
    "fayefish",
    "felipe_bot_53",
@@ -3777,6 +3798,7 @@
    "gryndor",
    "hackerchessbot",
    "halcyonbot",
+   "hardrok",
    "heavennear",
    "hiusbot",
    "hodgeybot",
@@ -3818,6 +3840,7 @@
    "laura-bot",
    "leechgodestroy",
    "leelaalien",
+   "leelajester",
    "leelamultiposs",
    "leelarogue",
    "leelatroll",
@@ -3849,6 +3872,7 @@
    "maia960-1600",
    "maia960-1900",
    "makechessbetter",
+   "malpamat",
    "martuni",
    "mate-in-forty",
    "mate-in-thirty",
@@ -3864,13 +3888,13 @@
    "minibotapi",
    "minibruteforcebot",
    "minopponentmoves",
+   "miss_snowiee",
    "mithandros",
    "mochi_bot",
    "morabandbot",
    "mostlyhuman1900",
    "mrtonnerre",
    "musashi-thebot",
-   "mxnet-gamemaster",
    "mychessjava",
    "nanozeroorg",
    "neurosocute",
@@ -3928,6 +3952,7 @@
    "rust-in-pieces",
    "rustbot2003",
    "ryu-ishigori",
+   "saisrankarthik_7",
    "sargon-1ply",
    "sargon-2ply",
    "sargon-3ply",
@@ -3951,9 +3976,9 @@
    "sj_norbot",
    "sleepmindengine",
    "slowmate_bot",
+   "snaky-bot",
    "solobot",
    "southbot",
-   "spyros1bot",
    "squarefish-900",
    "sseh-c",
    "stickshark99",
@@ -3978,6 +4003,7 @@
    "tempocore",
    "terconari",
    "thechessblazer",
+   "thelokbott",
    "thunfisch-bot",
    "tigrament",
    "tikifish",
@@ -4024,8 +4050,7 @@
    "worstfish",
    "xewali",
    "z-o_aspenlabs",
-   "zion-bot",
-   "zxasdsaasda"
+   "zion-bot"
   ]
  },
  "schema_version": 1
