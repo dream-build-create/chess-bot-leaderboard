@@ -587,7 +587,7 @@
   },
   "chaotong_engine": {
    "first_seen": "2026-09-28",
-   "last_online": "2026-10-15",
+   "last_online": "2026-10-16",
    "username": "Chaotong_engine"
   },
   "charibot": {
@@ -772,7 +772,7 @@
   },
   "clementyne1": {
    "first_seen": "2026-09-29",
-   "last_online": "2026-10-11",
+   "last_online": "2026-10-16",
    "username": "clementyne1"
   },
   "cloudia-chess": {
@@ -1277,7 +1277,7 @@
   },
   "goldinho1bot": {
    "first_seen": "2026-09-29",
-   "last_online": "2026-10-15",
+   "last_online": "2026-10-16",
    "username": "goldinho1bot"
   },
   "goopis": {
@@ -2237,7 +2237,7 @@
   },
   "newtsbot": {
    "first_seen": "2026-09-27",
-   "last_online": "2026-10-15",
+   "last_online": "2026-10-16",
    "username": "NEWTSbot"
   },
   "nexastrat": {
@@ -2925,6 +2925,11 @@
    "last_online": "2026-10-16",
    "username": "SJ_NorBot"
   },
+  "slate-engine": {
+   "first_seen": "2026-10-16",
+   "last_online": "2026-10-16",
+   "username": "slate-engine"
+  },
   "sleepmindengine": {
    "first_seen": "2026-09-27",
    "last_online": "2026-10-16",
@@ -3227,7 +3232,7 @@
   },
   "thegrobbot": {
    "first_seen": "2026-10-12",
-   "last_online": "2026-10-15",
+   "last_online": "2026-10-16",
    "username": "TheGrobBot"
   },
   "thelokbott": {
@@ -3647,7 +3652,7 @@
   }
  },
  "online": {
-  "checked_at": "2026-10-16T12:43:09Z",
+  "checked_at": "2026-10-16T13:17:46Z",
   "ids": [
    "aaronsengine",
    "aatk_vanguardx",
@@ -3659,7 +3664,6 @@
    "aggressivestockfish",
    "ai-con",
    "ailedbot",
-   "aivean",
    "ajedrezchamberi",
    "alexandrya",
    "aliceshiro",
@@ -3715,8 +3719,8 @@
    "catnail",
    "catriever",
    "chamberiajedrez",
+   "chaotong_engine",
    "charibot",
-   "chatgpt5_5",
    "chekovbot",
    "chess26_bot",
    "chess_set_manager",
@@ -3725,7 +3729,6 @@
    "chessiverse_luc",
    "chessiverse_pawnza",
    "chessiverse_raak",
-   "chesstango_bot",
    "chesstransformerbot",
    "cheszter",
    "chill4ce",
@@ -3734,6 +3737,7 @@
    "cinder-bot",
    "classic_bot-v2",
    "classical-leela",
+   "clementyne1",
    "cloudia-chess",
    "clrsrc_lc0",
    "coda_bot",
@@ -3753,6 +3757,7 @@
    "dala-900",
    "darkelectronbot",
    "darkonweakbot",
+   "darkpinechessbot",
    "davidsguterbot",
    "debzero",
    "deepbecky",
@@ -3791,6 +3796,7 @@
    "geotsibot",
    "gnu4u",
    "goldfish-engine",
+   "goldinho1bot",
    "goopis",
    "grail-bot",
    "grindfish",
@@ -3821,7 +3827,6 @@
    "jangine",
    "jenniferx",
    "jesterchessrobot",
-   "jimmy_inc3710",
    "joan_clone",
    "joey_chessengine",
    "jomfishh",
@@ -3841,7 +3846,6 @@
    "leechgodestroy",
    "leelaalien",
    "leelajester",
-   "leelamultiposs",
    "leelarogue",
    "leelatroll",
    "leol-bot",
@@ -3852,7 +3856,6 @@
    "littlepatricia",
    "louischess48-6k",
    "lukebot",
-   "lunaenginechess",
    "lynx_bot",
    "mac-bot",
    "maia1",
@@ -3872,7 +3875,6 @@
    "maia960-1600",
    "maia960-1900",
    "makechessbetter",
-   "malpamat",
    "martuni",
    "mate-in-forty",
    "mate-in-thirty",
@@ -3894,11 +3896,12 @@
    "morabandbot",
    "mostlyhuman1900",
    "mrtonnerre",
-   "musashi-thebot",
    "mychessjava",
    "nanozeroorg",
+   "neryba",
    "neurosocute",
    "newchessengine-ai",
+   "newtsbot",
    "nexastrat",
    "nexosdefos",
    "nice_bot",
@@ -3951,6 +3954,7 @@
    "rudim-bot",
    "rust-in-pieces",
    "rustbot2003",
+   "rustyrival",
    "ryu-ishigori",
    "saisrankarthik_7",
    "sargon-1ply",
@@ -3974,10 +3978,10 @@
    "simple-bot",
    "simpleeval",
    "sj_norbot",
+   "slate-engine",
    "sleepmindengine",
    "slowmate_bot",
    "snaky-bot",
-   "solobot",
    "southbot",
    "squarefish-900",
    "sseh-c",
@@ -4003,6 +4007,7 @@
    "tempocore",
    "terconari",
    "thechessblazer",
+   "thegrobbot",
    "thelokbott",
    "thunfisch-bot",
    "tigrament",
