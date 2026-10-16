@@ -5,6 +5,11 @@
    "last_online": "2026-10-15",
    "username": "AaronsEngine"
   },
+  "aathena101": {
+   "first_seen": "2026-10-16",
+   "last_online": "2026-10-16",
+   "username": "AAthena101"
+  },
   "aatk_vanguardx": {
    "first_seen": "2026-09-27",
    "last_online": "2026-10-16",
@@ -1212,7 +1217,7 @@
   },
   "georgii_ai": {
    "first_seen": "2026-09-28",
-   "last_online": "2026-10-15",
+   "last_online": "2026-10-16",
    "username": "georgii_ai"
   },
   "geotsibot": {
@@ -3607,8 +3612,9 @@
   }
  },
  "online": {
-  "checked_at": "2026-10-16T02:43:09Z",
+  "checked_at": "2026-10-16T03:43:10Z",
   "ids": [
+   "aathena101",
    "aatk_vanguardx",
    "abcd_engine",
    "abdcebot",
@@ -3618,7 +3624,6 @@
    "aggressivestockfish",
    "ai-con",
    "ailedbot",
-   "aivean",
    "alexandrya",
    "aliceshiro",
    "alieknek",
@@ -3642,7 +3647,6 @@
    "banerot",
    "battlebornthe2nd",
    "battlebornthe3rd",
-   "batyarapro",
    "bbc_bot",
    "becela9_kpebetka",
    "berkbot",
@@ -3650,7 +3654,6 @@
    "bernstein-4ply",
    "bfiedler-bot",
    "bitbitbot",
-   "black-icebot",
    "bluemoonbot",
    "blujay-bot",
    "bongaclang",
@@ -3683,7 +3686,6 @@
    "chill4ce",
    "chronicgambler",
    "cinder-bot",
-   "classic_bot-v2",
    "classical-leela",
    "cloudia-chess",
    "clrsrc_lc0",
@@ -3719,6 +3721,7 @@
    "drawfish-reborn",
    "duchessai",
    "dumbotai",
+   "edwardkillick",
    "eigenmann-chess",
    "elachessbot",
    "elexunix_chess_bot",
@@ -3730,7 +3733,6 @@
    "falconengine",
    "fataliibot",
    "fathzer-jchess",
-   "fayefish",
    "felipe_bot_53",
    "fenrirbot",
    "flounderbot",
@@ -3739,6 +3741,7 @@
    "fschess-engine",
    "funcomp",
    "garbobot",
+   "georgii_ai",
    "geotsibot",
    "gnu4u",
    "goldfish-engine",
@@ -3782,6 +3785,7 @@
    "justbot-v1",
    "kavinengine",
    "kestrelstrike",
+   "kingzbot",
    "kirinchessbot",
    "kopyto_dev",
    "kulubot",
@@ -3852,7 +3856,6 @@
    "neurosocute",
    "newchessengine-ai",
    "nexastrat",
-   "nexosdefos",
    "nice_bot",
    "nickdrohan",
    "nilatacbot",
@@ -3860,7 +3863,6 @@
    "nnueandthevoices",
    "noabot",
    "noel-bot",
-   "notropis",
    "o-rei-cx",
    "onezenpanda",
    "overfitted",
@@ -3947,7 +3949,6 @@
    "sybaibot",
    "sybbot",
    "sykorabot",
-   "takticprochess",
    "talosbot",
    "teensycheesy",
    "tempocore",
@@ -3957,7 +3958,6 @@
    "throrbjorn",
    "thunfisch-bot",
    "tigrament",
-   "tikifish",
    "tilapiabot",
    "to299d",
    "togaii",
