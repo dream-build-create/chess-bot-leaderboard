@@ -345,6 +345,11 @@
    "last_online": "2026-10-15",
    "username": "Black-Bishop-Kh"
   },
+  "black-icebot": {
+   "first_seen": "2026-10-16",
+   "last_online": "2026-10-16",
+   "username": "BLACK-ICEbot"
+  },
   "blackeventhorizon": {
    "first_seen": "2026-09-27",
    "last_online": "2026-10-10",
@@ -3602,7 +3607,7 @@
   }
  },
  "online": {
-  "checked_at": "2026-10-16T01:43:10Z",
+  "checked_at": "2026-10-16T02:43:09Z",
   "ids": [
    "aatk_vanguardx",
    "abcd_engine",
@@ -3645,6 +3650,7 @@
    "bernstein-4ply",
    "bfiedler-bot",
    "bitbitbot",
+   "black-icebot",
    "bluemoonbot",
    "blujay-bot",
    "bongaclang",
@@ -3698,6 +3704,7 @@
    "dala-700",
    "dala-900",
    "darkelectronbot",
+   "darkonweakbot",
    "davidsguterbot",
    "debzero",
    "deepbecky",
@@ -3712,7 +3719,6 @@
    "drawfish-reborn",
    "duchessai",
    "dumbotai",
-   "edwardkillick",
    "eigenmann-chess",
    "elachessbot",
    "elexunix_chess_bot",
@@ -3776,7 +3782,6 @@
    "justbot-v1",
    "kavinengine",
    "kestrelstrike",
-   "kingzbot",
    "kirinchessbot",
    "kopyto_dev",
    "kulubot",
@@ -3898,7 +3903,6 @@
    "rudim-bot",
    "rust-in-pieces",
    "rustbot2003",
-   "rustyrival",
    "ryu-ishigori",
    "sargon-1ply",
    "sargon-2ply",
@@ -3990,7 +3994,6 @@
    "vietnamesecoffee",
    "void_bot",
    "waldemar-the-elf",
-   "wasternew",
    "weiawaga",
    "wolfuhfuhbot",
    "worst-ai",
