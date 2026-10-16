@@ -840,6 +840,11 @@
    "last_online": "2026-10-16",
    "username": "CosetteBot"
   },
+  "craftyuci": {
+   "first_seen": "2026-10-16",
+   "last_online": "2026-10-16",
+   "username": "CraftyUCI"
+  },
   "crapbot": {
    "first_seen": "2026-09-28",
    "last_online": "2026-10-04",
@@ -877,7 +882,7 @@
   },
   "daisy-bot": {
    "first_seen": "2026-09-30",
-   "last_online": "2026-10-09",
+   "last_online": "2026-10-16",
    "username": "Daisy-Bot"
   },
   "dala-1100": {
@@ -1112,7 +1117,7 @@
   },
   "epimetheusbot": {
    "first_seen": "2026-09-28",
-   "last_online": "2026-10-14",
+   "last_online": "2026-10-16",
    "username": "EpimetheusBot"
   },
   "epoch512": {
@@ -1217,7 +1222,7 @@
   },
   "gambitonlybot": {
    "first_seen": "2026-09-28",
-   "last_online": "2026-10-15",
+   "last_online": "2026-10-16",
    "username": "GambitOnlyBot"
   },
   "garbobot": {
@@ -1507,7 +1512,7 @@
   },
   "jembok": {
    "first_seen": "2026-10-11",
-   "last_online": "2026-10-11",
+   "last_online": "2026-10-16",
    "username": "JemBok"
   },
   "jenniferx": {
@@ -2267,7 +2272,7 @@
   },
   "nickl1bot": {
    "first_seen": "2026-10-11",
-   "last_online": "2026-10-12",
+   "last_online": "2026-10-16",
    "username": "nickl1bot"
   },
   "nightfall_dev": {
@@ -2649,6 +2654,11 @@
    "first_seen": "2026-09-27",
    "last_online": "2026-10-16",
    "username": "RavenEngine"
+  },
+  "rdi_bot": {
+   "first_seen": "2026-10-16",
+   "last_online": "2026-10-16",
+   "username": "RDI_Bot"
   },
   "rdtchessbot": {
    "first_seen": "2026-09-27",
@@ -3217,7 +3227,7 @@
   },
   "the_baronet": {
    "first_seen": "2026-09-28",
-   "last_online": "2026-10-15",
+   "last_online": "2026-10-16",
    "username": "The_Baronet"
   },
   "thealexdestroyer": {
@@ -3477,7 +3487,7 @@
   },
   "violentstockfish": {
    "first_seen": "2026-09-28",
-   "last_online": "2026-10-14",
+   "last_online": "2026-10-16",
    "username": "ViolentStockfish"
   },
   "virutor": {
@@ -3652,7 +3662,7 @@
   }
  },
  "online": {
-  "checked_at": "2026-10-16T13:43:08Z",
+  "checked_at": "2026-10-16T14:43:10Z",
   "ids": [
    "aaronsengine",
    "aatk_vanguardx",
@@ -3664,6 +3674,7 @@
    "aggressivestockfish",
    "ai-con",
    "ailedbot",
+   "aivean",
    "ajedrezchamberi",
    "alexandrya",
    "aliceshiro",
@@ -3684,8 +3695,6 @@
    "atari-video-chess",
    "axiom_bot",
    "banerot",
-   "battlebornthe1st",
-   "battlebornthe2nd",
    "battlebornthe3rd",
    "batyarapro",
    "bbc_bot",
@@ -3721,7 +3730,6 @@
    "chamberiajedrez",
    "chaotong_engine",
    "charibot",
-   "chekovbot",
    "chess26_bot",
    "chess_set_manager",
    "chessblight",
@@ -3746,9 +3754,11 @@
    "cookiebot711",
    "coolperson_bot1",
    "cosettebot",
+   "craftyuci",
    "croco_bot",
    "croco_little_bot",
    "crocodile_bot",
+   "daisy-bot",
    "dala-1100",
    "dala-1300",
    "dala-1600",
@@ -3781,8 +3791,10 @@
    "elmichess",
    "endspiel-pi",
    "entebot",
+   "epimetheusbot",
    "eubos",
    "falconengine",
+   "fataliibot",
    "fathzer-jchess",
    "fayefish",
    "felipe_bot_53",
@@ -3792,11 +3804,11 @@
    "fourcuriouspandas",
    "fschess-engine",
    "funcomp",
+   "gambitonlybot",
    "garbobot",
    "geotsibot",
    "gnu4u",
    "goldfish-engine",
-   "goldinho1bot",
    "goopis",
    "grail-bot",
    "grindfish",
@@ -3825,14 +3837,17 @@
    "iskelt-corax",
    "jacobsbot",
    "jangine",
+   "jembok",
    "jenniferx",
    "jesterchessrobot",
+   "jibbby",
    "joan_clone",
    "joey_chessengine",
    "jomfishh",
    "jongsungkim",
    "joshsbot",
    "jpg-bot",
+   "jurdbird",
    "justbot-v1",
    "kavinengine",
    "kestrelstrike",
@@ -3907,6 +3922,7 @@
    "nexosdefos",
    "nice_bot",
    "nickdrohan",
+   "nickl1bot",
    "nilatacbot",
    "nittedal",
    "nnueandthevoices",
@@ -3945,6 +3961,7 @@
    "ravager_bot",
    "raven030",
    "ravenengine",
+   "rdi_bot",
    "rdtchessbot",
    "redbeantree",
    "renegadeengine",
@@ -3956,8 +3973,6 @@
    "rust-in-pieces",
    "rustbot2003",
    "rustyrival",
-   "ryu-ishigori",
-   "saisrankarthik_7",
    "sargon-1ply",
    "sargon-2ply",
    "sargon-3ply",
@@ -3971,7 +3986,6 @@
    "seitogakatsu",
    "sf_bot1nok",
    "shallowredbot",
-   "sharpsundae",
    "shrevenbot",
    "silasly",
    "sim3million",
@@ -4008,9 +4022,9 @@
    "teensycheesy",
    "tempocore",
    "terconari",
+   "the_baronet",
    "thechessblazer",
    "thegrobbot",
-   "thelokbott",
    "thunfisch-bot",
    "tigrament",
    "tikifish",
@@ -4047,6 +4061,7 @@
    "vicentlittle",
    "vidbot",
    "vietnamesecoffee",
+   "violentstockfish",
    "void_bot",
    "vortexaurafarm",
    "waldemar-the-elf",
