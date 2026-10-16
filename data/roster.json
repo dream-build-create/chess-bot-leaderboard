@@ -817,7 +817,7 @@
   },
   "consolechessdev": {
    "first_seen": "2026-09-28",
-   "last_online": "2026-10-14",
+   "last_online": "2026-10-16",
    "username": "ConsoleChessDev"
   },
   "consolechessfastbot": {
@@ -1677,7 +1677,7 @@
   },
   "lancelbot": {
    "first_seen": "2026-10-10",
-   "last_online": "2026-10-11",
+   "last_online": "2026-10-16",
    "username": "Lancelbot"
   },
   "lantern_bot": {
@@ -2032,7 +2032,7 @@
   },
   "matemakingmachine": {
    "first_seen": "2026-09-29",
-   "last_online": "2026-10-15",
+   "last_online": "2026-10-16",
    "username": "MateMakingMachine"
   },
   "matmoi": {
@@ -2512,7 +2512,7 @@
   },
   "pomeranian_bot": {
    "first_seen": "2026-10-15",
-   "last_online": "2026-10-15",
+   "last_online": "2026-10-16",
    "username": "Pomeranian_Bot"
   },
   "potential_engine": {
@@ -3667,14 +3667,13 @@
   }
  },
  "online": {
-  "checked_at": "2026-10-16T17:43:09Z",
+  "checked_at": "2026-10-16T18:43:09Z",
   "ids": [
    "aaronsengine",
    "aathena101",
    "abcd_engine",
    "aconcaguabot",
    "aetherbot",
-   "agentc313",
    "aggressivestockfish",
    "ai-con",
    "ailedbot",
@@ -3710,12 +3709,12 @@
    "bluemoonbot",
    "blujay-bot",
    "bongaclang",
-   "borkatower",
    "bot1e",
    "bot1nokk",
    "bot5551",
    "bot64jaques",
    "bot_adario",
+   "botkingteam33",
    "bottios",
    "bretemabot",
    "bubblebot2",
@@ -3750,6 +3749,7 @@
    "coda_bot",
    "colinbot",
    "confidencebuilder",
+   "consolechessdev",
    "cookiebot711",
    "coolperson_bot1",
    "cosettebot",
@@ -3853,6 +3853,7 @@
    "kowalabi",
    "kulubot",
    "lamprook",
+   "lancelbot",
    "larryz-alterego",
    "laura-bot",
    "leelaalien",
@@ -3892,18 +3893,18 @@
    "maia9",
    "maia960-1600",
    "maia960-1900",
-   "makechessbetter",
    "martuni",
    "mate-in-forty",
    "mate-in-thirty",
    "mate-in-twenty",
    "mate1-bot",
+   "matemakingmachine",
    "matmoi",
+   "matthewcarven",
    "mayflyengine",
    "mcdonalds1955",
    "mega-noob-bot",
    "melsh_bot",
-   "mere_papa_ji_bot",
    "mimirbot",
    "minibotapi",
    "minibruteforcebot",
@@ -3927,6 +3928,7 @@
    "noabot",
    "noel-bot",
    "o-rei-cx",
+   "onezenpanda",
    "overfitted",
    "oxide-eg",
    "oxybullet",
@@ -3946,11 +3948,11 @@
    "piebot",
    "piglet_engine",
    "piratesrust",
+   "pomeranian_bot",
    "prokopakop",
    "prosperobot",
    "puisne",
    "pzchessbot",
-   "qioui",
    "rachl1",
    "racingkingsbot_1",
    "radianceengine",
@@ -3979,7 +3981,6 @@
    "scalaqueen",
    "schnecken_bot",
    "scipio-bot",
-   "sebvaderbot",
    "seedchess",
    "seitogakatsu",
    "sf_bot1nok",
@@ -4022,7 +4023,7 @@
    "tempocore",
    "terconari",
    "thechessblazer",
-   "thelokbott",
+   "thegrobbot",
    "throrbjorn",
    "thunfisch-bot",
    "tigrament",
