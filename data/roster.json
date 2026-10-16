@@ -77,7 +77,7 @@
   },
   "ajedrezchamberi": {
    "first_seen": "2026-09-29",
-   "last_online": "2026-10-13",
+   "last_online": "2026-10-16",
    "username": "AjedrezChamberi"
   },
   "alarm2001": {
@@ -577,7 +577,7 @@
   },
   "chamberiajedrez": {
    "first_seen": "2026-09-29",
-   "last_online": "2026-10-13",
+   "last_online": "2026-10-16",
    "username": "ChamberiAjedrez"
   },
   "chaotong_engine": {
@@ -1700,6 +1700,11 @@
    "last_online": "2026-10-15",
    "username": "Learning32"
   },
+  "leechgodestroy": {
+   "first_seen": "2026-10-16",
+   "last_online": "2026-10-16",
+   "username": "LeechGODestroy"
+  },
   "leelaalien": {
    "first_seen": "2026-09-28",
    "last_online": "2026-10-16",
@@ -2457,17 +2462,17 @@
   },
   "pirates1": {
    "first_seen": "2026-10-01",
-   "last_online": "2026-10-10",
+   "last_online": "2026-10-16",
    "username": "pirates1"
   },
   "pirates2": {
    "first_seen": "2026-09-30",
-   "last_online": "2026-10-10",
+   "last_online": "2026-10-16",
    "username": "Pirates2"
   },
   "piratesrust": {
    "first_seen": "2026-10-01",
-   "last_online": "2026-10-14",
+   "last_online": "2026-10-16",
    "username": "PiratesRust"
   },
   "platinumbot": {
@@ -3007,7 +3012,7 @@
   },
   "spyros1bot": {
    "first_seen": "2026-09-28",
-   "last_online": "2026-10-15",
+   "last_online": "2026-10-16",
    "username": "spyros1bot"
   },
   "squarefish-900": {
@@ -3572,7 +3577,7 @@
   },
   "wyxx210704_bot": {
    "first_seen": "2026-10-01",
-   "last_online": "2026-10-15",
+   "last_online": "2026-10-16",
    "username": "wyxx210704_bot"
   },
   "xewali": {
@@ -3627,10 +3632,9 @@
   }
  },
  "online": {
-  "checked_at": "2026-10-16T09:43:09Z",
+  "checked_at": "2026-10-16T10:43:12Z",
   "ids": [
    "aaronsengine",
-   "aathena101",
    "abcd_engine",
    "abdcebot",
    "aconcaguabot",
@@ -3639,6 +3643,7 @@
    "aggressivestockfish",
    "ai-con",
    "ailedbot",
+   "ajedrezchamberi",
    "alexandrya",
    "aliceshiro",
    "alieknek",
@@ -3659,9 +3664,10 @@
    "axiom_bot",
    "baby_eubos",
    "banerot",
+   "battlebornthe2nd",
    "battlebornthe3rd",
-   "batyarapro",
    "bbc_bot",
+   "becela9_kpebetka",
    "berkbot",
    "bernstein-2ply",
    "bernstein-4ply",
@@ -3689,6 +3695,7 @@
    "casanchess-nnue",
    "catnail",
    "catriever",
+   "chamberiajedrez",
    "charibot",
    "chatgpt5_5",
    "chess26_bot",
@@ -3704,7 +3711,6 @@
    "chill4ce",
    "chronicgambler",
    "cinder-bot",
-   "classic_bot-v2",
    "classical-leela",
    "cloudia-chess",
    "clrsrc_lc0",
@@ -3725,7 +3731,6 @@
    "dala-900",
    "darkelectronbot",
    "darkonweakbot",
-   "darkpinechessbot",
    "davidsguterbot",
    "debzero",
    "deepbecky",
@@ -3734,6 +3739,8 @@
    "demolito_l1",
    "demolito_l2",
    "demolito_l3",
+   "demolito_l4",
+   "demolito_l5",
    "demolito_l6",
    "drawfish-reborn",
    "drewschessmachine",
@@ -3751,7 +3758,6 @@
    "falconengine",
    "fataliibot",
    "fathzer-jchess",
-   "fayefish",
    "felipe_bot_53",
    "fenrirbot",
    "flounderbot",
@@ -3800,7 +3806,6 @@
    "jongsungkim",
    "joshsbot",
    "jpg-bot",
-   "jurdbird",
    "justbot-v1",
    "kavinengine",
    "kestrelstrike",
@@ -3811,14 +3816,10 @@
    "lamprook",
    "larryz-alterego",
    "laura-bot",
+   "leechgodestroy",
    "leelaalien",
-   "leelaknightodds",
    "leelamultiposs",
-   "leelapieceodds",
-   "leelaqueenforknight",
-   "leelaqueenodds",
    "leelarogue",
-   "leelarookodds",
    "leelatroll",
    "leol-bot",
    "levymaia",
@@ -3872,10 +3873,9 @@
    "mychessjava",
    "nanozeroorg",
    "nebubot",
-   "neryba",
    "neurosocute",
+   "newchessengine-ai",
    "nexastrat",
-   "nexosdefos",
    "nice_bot",
    "nickdrohan",
    "nilatacbot",
@@ -3903,6 +3903,9 @@
    "pi0w",
    "piebot",
    "piglet_engine",
+   "pirates1",
+   "pirates2",
+   "piratesrust",
    "prokopakop",
    "puisne",
    "pzchessbot",
@@ -3937,7 +3940,6 @@
    "seitogakatsu",
    "sf_bot1nok",
    "shallowredbot",
-   "sharpsundae",
    "shrevenbot",
    "silasly",
    "sim3million",
@@ -3949,6 +3951,7 @@
    "slowmate_bot",
    "solobot",
    "southbot",
+   "spyros1bot",
    "squarefish-900",
    "sseh-c",
    "stickshark99",
@@ -3958,6 +3961,7 @@
    "stockfishlowdepth",
    "stockpapagei",
    "streamervschat",
+   "studyloversz-bot",
    "stupidchessrobot",
    "stupidfishbotbydscs",
    "sunfish-engine",
@@ -4008,12 +4012,14 @@
    "vicentlittle",
    "vidbot",
    "vietnamesecoffee",
+   "void_bot",
    "vortexaurafarm",
    "waldemar-the-elf",
    "weiawaga",
    "wolfuhfuhbot",
    "worst-ai",
    "worstfish",
+   "wyxx210704_bot",
    "xewali",
    "z-o_aspenlabs",
    "zion-bot"
