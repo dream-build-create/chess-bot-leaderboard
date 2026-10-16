@@ -702,7 +702,7 @@
   },
   "chesstransformerbot": {
    "first_seen": "2026-10-08",
-   "last_online": "2026-10-15",
+   "last_online": "2026-10-16",
    "username": "ChessTransformerBot"
   },
   "cheszter": {
@@ -1312,7 +1312,7 @@
   },
   "hackerchessbot": {
    "first_seen": "2026-09-27",
-   "last_online": "2026-10-15",
+   "last_online": "2026-10-16",
    "username": "HackerChessBot"
   },
   "halcyonbot": {
@@ -2852,7 +2852,7 @@
   },
   "silasly": {
    "first_seen": "2026-10-11",
-   "last_online": "2026-10-15",
+   "last_online": "2026-10-16",
    "username": "silasly"
   },
   "silverpike": {
@@ -3457,7 +3457,7 @@
   },
   "vortex_bot": {
    "first_seen": "2026-10-14",
-   "last_online": "2026-10-15",
+   "last_online": "2026-10-16",
    "username": "Vortex_Bot"
   },
   "vortexaurafarm": {
@@ -3612,8 +3612,9 @@
   }
  },
  "online": {
-  "checked_at": "2026-10-16T05:43:09Z",
+  "checked_at": "2026-10-16T06:43:11Z",
   "ids": [
+   "aathena101",
    "aatk_vanguardx",
    "abcd_engine",
    "abdcebot",
@@ -3683,6 +3684,7 @@
    "chessiverse_luc",
    "chessiverse_pawnza",
    "chessiverse_raak",
+   "chesstransformerbot",
    "cheszter",
    "chill4ce",
    "chronicgambler",
@@ -3749,11 +3751,11 @@
    "geotsibot",
    "gnu4u",
    "goldfish-engine",
-   "goopis",
    "grail-bot",
    "grindfish",
    "groshboss",
    "gryndor",
+   "hackerchessbot",
    "halcyonbot",
    "hiusbot",
    "hodgeybot",
@@ -3925,6 +3927,7 @@
    "shallowredbot",
    "sharpsundae",
    "shrevenbot",
+   "silasly",
    "sim3million",
    "simbelmyne-bot",
    "simple-bot",
@@ -3959,7 +3962,6 @@
    "tempocore",
    "terconari",
    "thechessblazer",
-   "thelokbott",
    "throrbjorn",
    "thunfisch-bot",
    "tigrament",
@@ -3999,6 +4001,7 @@
    "vidbot",
    "vietnamesecoffee",
    "void_bot",
+   "vortex_bot",
    "vortexaurafarm",
    "waldemar-the-elf",
    "weiawaga",
