@@ -2,7 +2,7 @@
  "bots": {
   "aaronsengine": {
    "first_seen": "2026-09-27",
-   "last_online": "2026-10-15",
+   "last_online": "2026-10-16",
    "username": "AaronsEngine"
   },
   "aathena101": {
@@ -462,7 +462,7 @@
   },
   "botkingteam33": {
    "first_seen": "2026-10-11",
-   "last_online": "2026-10-15",
+   "last_online": "2026-10-16",
    "username": "Botkingteam33"
   },
   "bottios": {
@@ -630,6 +630,11 @@
    "last_online": "2026-10-09",
    "username": "Chess-Dragon1"
   },
+  "chess26_bot": {
+   "first_seen": "2026-10-16",
+   "last_online": "2026-10-16",
+   "username": "Chess26_BOT"
+  },
   "chess3bot": {
    "first_seen": "2026-09-27",
    "last_online": "2026-10-14",
@@ -697,7 +702,7 @@
   },
   "chesstango_bot": {
    "first_seen": "2026-10-10",
-   "last_online": "2026-10-15",
+   "last_online": "2026-10-16",
    "username": "chesstango_bot"
   },
   "chesstransformerbot": {
@@ -1339,6 +1344,11 @@
    "first_seen": "2026-10-09",
    "last_online": "2026-10-09",
    "username": "Havenear"
+  },
+  "heavennear": {
+   "first_seen": "2026-10-16",
+   "last_online": "2026-10-16",
+   "username": "HeavenNear"
   },
   "hiusbot": {
    "first_seen": "2026-09-27",
@@ -3617,10 +3627,10 @@
   }
  },
  "online": {
-  "checked_at": "2026-10-16T08:43:10Z",
+  "checked_at": "2026-10-16T09:43:09Z",
   "ids": [
+   "aaronsengine",
    "aathena101",
-   "aatk_vanguardx",
    "abcd_engine",
    "abdcebot",
    "aconcaguabot",
@@ -3645,12 +3655,10 @@
    "arkiplayschess",
    "artidigm_research",
    "ashnostromo",
-   "ask-aatk-bot",
    "atari-video-chess",
    "axiom_bot",
    "baby_eubos",
    "banerot",
-   "battlebornthe2nd",
    "battlebornthe3rd",
    "batyarapro",
    "bbc_bot",
@@ -3662,12 +3670,14 @@
    "bluemoonbot",
    "blujay-bot",
    "bongaclang",
+   "boris-trapsky",
    "borkatower",
    "bot1e",
    "bot1nokk",
    "bot5551",
    "bot64jaques",
    "bot_adario",
+   "botkingteam33",
    "bottios",
    "bretemabot",
    "bubblebot2",
@@ -3681,11 +3691,14 @@
    "catriever",
    "charibot",
    "chatgpt5_5",
+   "chess26_bot",
+   "chess_set_manager",
    "chessblight",
    "chessiverse_ethan",
    "chessiverse_luc",
    "chessiverse_pawnza",
    "chessiverse_raak",
+   "chesstango_bot",
    "chesstransformerbot",
    "cheszter",
    "chill4ce",
@@ -3718,6 +3731,9 @@
    "deepbecky",
    "deepsquare-ai",
    "demen100ns-bot",
+   "demolito_l1",
+   "demolito_l2",
+   "demolito_l3",
    "demolito_l6",
    "drawfish-reborn",
    "drewschessmachine",
@@ -3750,10 +3766,12 @@
    "goldfish-engine",
    "goopis",
    "grail-bot",
+   "grindfish",
    "groshboss",
    "gryndor",
    "hackerchessbot",
    "halcyonbot",
+   "heavennear",
    "hiusbot",
    "hodgeybot",
    "holidaybot1225",
@@ -3766,8 +3784,8 @@
    "icarus-bot",
    "ilcorvochess",
    "ilovecatgirl",
+   "inanisbot",
    "incipit_bot",
-   "io-bot",
    "is_boss",
    "iskelt-corax",
    "jacobsbot",
@@ -3794,8 +3812,8 @@
    "larryz-alterego",
    "laura-bot",
    "leelaalien",
-   "leelajester",
    "leelaknightodds",
+   "leelamultiposs",
    "leelapieceodds",
    "leelaqueenforknight",
    "leelaqueenodds",
@@ -3869,6 +3887,7 @@
    "onezenpanda",
    "overfitted",
    "oxide-eg",
+   "oxybullet",
    "oxydanbot",
    "pangubot",
    "partner3615diago",
@@ -3899,14 +3918,12 @@
    "renegadeengine",
    "resolutebot",
    "ribfish-bot",
-   "robotjfischer",
    "romanticbot",
    "romanticbot2",
    "rudim-bot",
    "rust-in-pieces",
    "rustbot2003",
    "ryu-ishigori",
-   "sara_bot1",
    "sargon-1ply",
    "sargon-2ply",
    "sargon-3ply",
@@ -3941,7 +3958,6 @@
    "stockfishlowdepth",
    "stockpapagei",
    "streamervschat",
-   "studyloversz-bot",
    "stupidchessrobot",
    "stupidfishbotbydscs",
    "sunfish-engine",
@@ -3957,7 +3973,7 @@
    "terconari",
    "thechessblazer",
    "thunfisch-bot",
-   "tikifish",
+   "tigrament",
    "tilapiabot",
    "to299d",
    "togaii",
@@ -3992,8 +4008,6 @@
    "vicentlittle",
    "vidbot",
    "vietnamesecoffee",
-   "void_bot",
-   "vortex_bot",
    "vortexaurafarm",
    "waldemar-the-elf",
    "weiawaga",
