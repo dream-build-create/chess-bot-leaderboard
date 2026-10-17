@@ -402,7 +402,7 @@
   },
   "borkatower": {
    "first_seen": "2026-09-27",
-   "last_online": "2026-10-16",
+   "last_online": "2026-10-17",
    "username": "BorkaTower"
   },
   "bot-o-tron": {
@@ -1462,7 +1462,7 @@
   },
   "implosio": {
    "first_seen": "2026-10-15",
-   "last_online": "2026-10-16",
+   "last_online": "2026-10-17",
    "username": "Implosio"
   },
   "inanisbot": {
@@ -1752,7 +1752,7 @@
   },
   "leelamultiposs": {
    "first_seen": "2026-10-08",
-   "last_online": "2026-10-16",
+   "last_online": "2026-10-17",
    "username": "LeelaMultiPoss"
   },
   "leelapieceodds": {
@@ -2492,17 +2492,17 @@
   },
   "pirates1": {
    "first_seen": "2026-10-01",
-   "last_online": "2026-10-16",
+   "last_online": "2026-10-17",
    "username": "pirates1"
   },
   "pirates2": {
    "first_seen": "2026-09-30",
-   "last_online": "2026-10-16",
+   "last_online": "2026-10-17",
    "username": "Pirates2"
   },
   "piratesrust": {
    "first_seen": "2026-10-01",
-   "last_online": "2026-10-16",
+   "last_online": "2026-10-17",
    "username": "PiratesRust"
   },
   "platinumbot": {
@@ -3077,7 +3077,7 @@
   },
   "stepbot_chess": {
    "first_seen": "2026-09-27",
-   "last_online": "2026-10-16",
+   "last_online": "2026-10-17",
    "username": "Stepbot_Chess"
   },
   "stickshark99": {
@@ -3297,7 +3297,7 @@
   },
   "tigrament": {
    "first_seen": "2026-09-27",
-   "last_online": "2026-10-16",
+   "last_online": "2026-10-17",
    "username": "Tigrament"
   },
   "tikifish": {
@@ -3687,9 +3687,8 @@
   }
  },
  "online": {
-  "checked_at": "2026-10-17T07:43:08Z",
+  "checked_at": "2026-10-17T08:43:10Z",
   "ids": [
-   "aatk_vanguardx",
    "abcd_engine",
    "abdcebot",
    "aconcaguabot",
@@ -3704,19 +3703,17 @@
    "angela_eng",
    "anna-bot",
    "annie_archy",
+   "antibotv3-7",
    "aposeij",
-   "approximationbot",
    "arabicahce",
    "ariadne-bot",
    "arkiplayschess",
    "artidigm_research",
-   "ask-aatk-bot",
    "atari-video-chess",
    "axiom_bot",
    "banerot",
    "batyarapro",
    "bbc_bot",
-   "becela9_kpebetka",
    "berkbot",
    "bernstein-2ply",
    "bernstein-4ply",
@@ -3725,7 +3722,7 @@
    "bluemoonbot",
    "blujay-bot",
    "bongaclang",
-   "boris-trapsky",
+   "borkatower",
    "bot1e",
    "bot1nokk",
    "bot5551",
@@ -3815,7 +3812,6 @@
    "flounderbot",
    "flybrainchess",
    "fourcuriouspandas",
-   "fpga-chess",
    "fschess-engine",
    "funcomp",
    "garbobot",
@@ -3843,6 +3839,7 @@
    "icarus-bot",
    "ilcorvochess",
    "ilovecatgirl",
+   "implosio",
    "inanisbot",
    "incipit_bot",
    "io-bot",
@@ -3877,6 +3874,7 @@
    "leelaalien",
    "leelajester",
    "leelaknightodds",
+   "leelamultiposs",
    "leelapieceodds",
    "leelaqueenforknight",
    "leelaqueenodds",
@@ -3934,7 +3932,6 @@
    "nanozeroorg",
    "neryba",
    "neurosocute",
-   "newchessengine-ai",
    "nexastrat",
    "nexosdefos",
    "nice_bot",
@@ -3947,7 +3944,6 @@
    "onezenpanda",
    "overfitted",
    "oxide-eg",
-   "oxybullet",
    "oxydanbot",
    "pangubot",
    "partner3615diago",
@@ -3962,10 +3958,12 @@
    "perl-gigachess",
    "pi0w",
    "piglet_engine",
+   "pirates1",
+   "pirates2",
+   "piratesrust",
    "prokopakop",
    "puisne",
    "pzchessbot",
-   "queensgambot",
    "radianceengine",
    "raspfish",
    "ratkingbot",
@@ -4003,11 +4001,11 @@
    "simpleeval",
    "sj_norbot",
    "slate-engine",
-   "sleepmindengine",
    "slowmate_bot",
    "southbot",
    "squarefish-900",
    "sseh-c",
+   "stepbot_chess",
    "stickshark99",
    "stockcotsfish",
    "stockdory",
@@ -4015,7 +4013,6 @@
    "stockfishlowdepth",
    "stockpapagei",
    "streamervschat",
-   "studyloversz-bot",
    "stupidchessrobot",
    "stupidfishbotbydscs",
    "sunfish-engine",
@@ -4032,8 +4029,8 @@
    "terconari",
    "thechessblazer",
    "thelokbott",
-   "throrbjorn",
    "thunfisch-bot",
+   "tigrament",
    "tikifish",
    "tilapiabot",
    "to299d",
