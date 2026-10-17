@@ -537,7 +537,7 @@
   },
   "caissa-x": {
    "first_seen": "2026-09-29",
-   "last_online": "2026-10-15",
+   "last_online": "2026-10-17",
    "username": "caissa-x"
   },
   "calciumengine": {
@@ -2532,7 +2532,7 @@
   },
   "pomeranian_bot": {
    "first_seen": "2026-10-15",
-   "last_online": "2026-10-16",
+   "last_online": "2026-10-17",
    "username": "Pomeranian_Bot"
   },
   "potential_engine": {
@@ -3712,7 +3712,7 @@
   }
  },
  "online": {
-  "checked_at": "2026-10-17T13:09:30Z",
+  "checked_at": "2026-10-17T13:43:09Z",
   "ids": [
    "aaronsengine",
    "abcd_engine",
@@ -3769,14 +3769,16 @@
    "c-t-r-l",
    "c0kval",
    "caiporabot",
+   "caissa-x",
    "cannotcheckmateme",
    "carechess-bot",
    "carmin-bot",
    "casanchess-nnue",
    "catnail",
    "catriever",
-   "ceraf",
    "charibot",
+   "chatgpt5_5",
+   "chess_set_manager",
    "chessblight",
    "chessbot2880",
    "chessiverse_ethan",
@@ -3790,7 +3792,6 @@
    "cinder-bot",
    "classic_bot-v2",
    "classical-leela",
-   "cloudia-chess",
    "clrsrc_lc0",
    "coda_bot",
    "colinbot",
@@ -3988,6 +3989,7 @@
    "perl-gigachess",
    "pi0w",
    "piglet_engine",
+   "pomeranian_bot",
    "prokopakop",
    "puisne",
    "pzchessbot",
@@ -4034,7 +4036,6 @@
    "sleepmindengine",
    "slowmate_bot",
    "slychessbot",
-   "snaky-bot",
    "snapleelaeasy",
    "southbot",
    "squarefish-900",
@@ -4062,7 +4063,6 @@
    "tempocore",
    "terconari",
    "thechessblazer",
-   "thegrobbot",
    "thelokbott",
    "thunfisch-bot",
    "tigrament",
@@ -4084,7 +4084,6 @@
    "uiagbot",
    "ultrabrick",
    "unimark",
-   "ursus_bot",
    "usunfish",
    "usunfish-l0",
    "usunfish-l1",
