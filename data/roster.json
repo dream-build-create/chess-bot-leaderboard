@@ -542,7 +542,7 @@
   },
   "cannotcheckmateme": {
    "first_seen": "2026-09-27",
-   "last_online": "2026-10-09",
+   "last_online": "2026-10-17",
    "username": "cannotcheckmateme"
   },
   "capybara_chessbot": {
@@ -717,7 +717,7 @@
   },
   "chesstransformerbot": {
    "first_seen": "2026-10-08",
-   "last_online": "2026-10-16",
+   "last_online": "2026-10-17",
    "username": "ChessTransformerBot"
   },
   "cheszter": {
@@ -782,7 +782,7 @@
   },
   "cloudnetbot": {
    "first_seen": "2026-09-27",
-   "last_online": "2026-10-13",
+   "last_online": "2026-10-17",
    "username": "CloudNetBot"
   },
   "clrsrc_lc0": {
@@ -1212,7 +1212,7 @@
   },
   "fpga-chess": {
    "first_seen": "2026-09-28",
-   "last_online": "2026-10-12",
+   "last_online": "2026-10-17",
    "username": "fpga-chess"
   },
   "fschess-engine": {
@@ -3682,7 +3682,7 @@
   }
  },
  "online": {
-  "checked_at": "2026-10-17T05:43:09Z",
+  "checked_at": "2026-10-17T06:43:10Z",
   "ids": [
    "aatk_vanguardx",
    "abcd_engine",
@@ -3706,7 +3706,6 @@
    "ariadne-bot",
    "arkiplayschess",
    "artidigm_research",
-   "ashnostromo",
    "ask-aatk-bot",
    "atari-video-chess",
    "axiom_bot",
@@ -3737,6 +3736,7 @@
    "c-t-r-l",
    "c0kval",
    "caiporabot",
+   "cannotcheckmateme",
    "carechess-bot",
    "casanchess-nnue",
    "catnail",
@@ -3751,13 +3751,14 @@
    "chessiverse_luc",
    "chessiverse_pawnza",
    "chessiverse_raak",
+   "chesstransformerbot",
    "cheszter",
    "chill4ce",
-   "chronicgambler",
    "cinder-bot",
    "classic_bot-v2",
    "classical-leela",
    "cloudia-chess",
+   "cloudnetbot",
    "clrsrc_lc0",
    "coda_bot",
    "colinbot",
@@ -3810,6 +3811,7 @@
    "flounderbot",
    "flybrainchess",
    "fourcuriouspandas",
+   "fpga-chess",
    "fschess-engine",
    "funcomp",
    "garbobot",
@@ -3960,6 +3962,7 @@
    "puisne",
    "pzchessbot",
    "queensgambot",
+   "racingkingsbot_1",
    "radianceengine",
    "raspfish",
    "ratkingbot",
@@ -3972,7 +3975,6 @@
    "renegadeengine",
    "resolutebot",
    "ribfish-bot",
-   "rodent-iv",
    "romanticbot",
    "romanticbot2",
    "rudim-bot",
