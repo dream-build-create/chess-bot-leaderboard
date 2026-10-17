@@ -82,7 +82,7 @@
   },
   "alarm2001": {
    "first_seen": "2026-10-01",
-   "last_online": "2026-10-14",
+   "last_online": "2026-10-17",
    "username": "Alarm2001"
   },
   "alexandrya": {
@@ -2212,7 +2212,7 @@
   },
   "mxnet-gamemaster": {
    "first_seen": "2026-09-28",
-   "last_online": "2026-10-16",
+   "last_online": "2026-10-17",
    "username": "mxnet-gamemaster"
   },
   "my-bot": {
@@ -3095,6 +3095,11 @@
    "last_online": "2026-10-10",
    "username": "Space_BOT"
   },
+  "springerbot": {
+   "first_seen": "2026-10-17",
+   "last_online": "2026-10-17",
+   "username": "SpringerBot"
+  },
   "spyros1bot": {
    "first_seen": "2026-09-28",
    "last_online": "2026-10-16",
@@ -3737,9 +3742,8 @@
   }
  },
  "online": {
-  "checked_at": "2026-10-17T19:43:09Z",
+  "checked_at": "2026-10-17T20:43:09Z",
   "ids": [
-   "aaronsengine",
    "aathena101",
    "aatk_vanguardx",
    "abcd_engine",
@@ -3750,7 +3754,7 @@
    "aggressivestockfish",
    "ai-con",
    "ailedbot",
-   "aivean",
+   "alarm2001",
    "alexandrya",
    "aliceshiro",
    "alieknek",
@@ -3766,7 +3770,6 @@
    "arkiplayschess",
    "artidigm_research",
    "ashnostromo",
-   "ask-aatk-bot",
    "atari-video-chess",
    "axiom_bot",
    "banerot",
@@ -3822,12 +3825,12 @@
    "cinder-bot",
    "classic_bot-v2",
    "classical-leela",
+   "clrsrc_lc0",
    "coda_bot",
    "colinbot",
    "confidencebuilder",
    "cookiebot711",
    "cosettebot",
-   "craftstockfish",
    "craftyuci",
    "croco_bot",
    "croco_little_bot",
@@ -3871,12 +3874,11 @@
    "felipe_bot_53",
    "fenrirbot",
    "fetacompli",
-   "flompiebot",
    "flounderbot",
    "flybrainchess",
+   "fourcuriouspandas",
    "fschess-engine",
    "funcomp",
-   "gambitonlybot",
    "garbobot",
    "geotsibot",
    "ghidorah_x",
@@ -3910,7 +3912,6 @@
    "jacobsbot",
    "jaingalt-bot",
    "jangine",
-   "jenniferx",
    "jesterchessrobot",
    "jibbby",
    "joan_clone",
@@ -3987,6 +3988,7 @@
    "morabandbot",
    "mostlyhuman1900",
    "mrtonnerre",
+   "mxnet-gamemaster",
    "mychessjava",
    "nanozeroorg",
    "neryba",
@@ -4003,6 +4005,7 @@
    "noabot",
    "noel-bot",
    "o-rei-cx",
+   "onezenpanda",
    "overfitted",
    "oxide-eg",
    "oxybullet",
@@ -4038,6 +4041,7 @@
    "resolutebot",
    "ribfish-bot",
    "robert_is_bot",
+   "rodent-iv",
    "romanticbot",
    "romanticbot2",
    "rudim-bot",
@@ -4048,6 +4052,7 @@
    "sargon-2ply",
    "sargon-3ply",
    "sargon-4ply",
+   "satadragon_bot",
    "sbnovella",
    "scalaqueen",
    "schnecken_bot",
@@ -4068,6 +4073,7 @@
    "slowmate_bot",
    "snapleelaeasy",
    "southbot",
+   "springerbot",
    "squarefish-900",
    "sseh-c",
    "stepbot_chess",
@@ -4078,7 +4084,6 @@
    "stockfishlowdepth",
    "stockpapagei",
    "streamervschat",
-   "studyloversz-bot",
    "stupidchessrobot",
    "stupidfishbotbydscs",
    "sunfish-engine",
