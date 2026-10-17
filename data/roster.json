@@ -577,7 +577,7 @@
   },
   "ceraf": {
    "first_seen": "2026-10-01",
-   "last_online": "2026-10-15",
+   "last_online": "2026-10-17",
    "username": "CERAF"
   },
   "chamberiajedrez": {
@@ -2252,7 +2252,7 @@
   },
   "newtsbot": {
    "first_seen": "2026-09-27",
-   "last_online": "2026-10-16",
+   "last_online": "2026-10-17",
    "username": "NEWTSbot"
   },
   "nexastrat": {
@@ -3342,7 +3342,7 @@
   },
   "torombot": {
    "first_seen": "2026-09-28",
-   "last_online": "2026-10-14",
+   "last_online": "2026-10-17",
    "username": "ToromBot"
   },
   "trainer-bot": {
@@ -3682,7 +3682,7 @@
   }
  },
  "online": {
-  "checked_at": "2026-10-17T06:43:10Z",
+  "checked_at": "2026-10-17T07:13:47Z",
   "ids": [
    "aatk_vanguardx",
    "abcd_engine",
@@ -3741,10 +3741,10 @@
    "casanchess-nnue",
    "catnail",
    "catriever",
+   "ceraf",
    "chaotong_engine",
    "charibot",
    "chatgpt5_5",
-   "chess3bot",
    "chess_set_manager",
    "chessblight",
    "chessiverse_ethan",
@@ -3867,6 +3867,7 @@
    "kopyto_dev",
    "kulubot",
    "lamprook",
+   "lantern_bot",
    "larryz-alterego",
    "laura-bot",
    "leelaalien",
@@ -3931,6 +3932,7 @@
    "neryba",
    "neurosocute",
    "newchessengine-ai",
+   "newtsbot",
    "nexastrat",
    "nexosdefos",
    "nice_bot",
@@ -4037,6 +4039,7 @@
    "togaii",
    "tomabbot",
    "topasbot",
+   "torombot",
    "trainer-bot",
    "trenerhetman",
    "trinculobot",
