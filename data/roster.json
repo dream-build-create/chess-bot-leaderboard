@@ -562,7 +562,7 @@
   },
   "carmin-bot": {
    "first_seen": "2026-10-06",
-   "last_online": "2026-10-16",
+   "last_online": "2026-10-17",
    "username": "Carmin-BOT"
   },
   "casanchess-nnue": {
@@ -2062,7 +2062,7 @@
   },
   "matthewcarven": {
    "first_seen": "2026-10-14",
-   "last_online": "2026-10-16",
+   "last_online": "2026-10-17",
    "username": "matthewcarven"
   },
   "maxthedog-esp32": {
@@ -2147,7 +2147,7 @@
   },
   "miss_snowiee": {
    "first_seen": "2026-10-02",
-   "last_online": "2026-10-16",
+   "last_online": "2026-10-17",
    "username": "Miss_snowiee"
   },
   "mithandros": {
@@ -2277,7 +2277,7 @@
   },
   "nexuschess1": {
    "first_seen": "2026-09-30",
-   "last_online": "2026-10-01",
+   "last_online": "2026-10-17",
    "username": "NexusChess1"
   },
   "nice_bot": {
@@ -2992,7 +2992,7 @@
   },
   "slychessbot": {
    "first_seen": "2026-10-01",
-   "last_online": "2026-10-15",
+   "last_online": "2026-10-17",
    "username": "SlyChessBot"
   },
   "snaky-bot": {
@@ -3702,7 +3702,7 @@
   }
  },
  "online": {
-  "checked_at": "2026-10-17T11:43:10Z",
+  "checked_at": "2026-10-17T12:43:12Z",
   "ids": [
    "aaronsengine",
    "abcd_engine",
@@ -3712,7 +3712,6 @@
    "aggressivestockfish",
    "ai-con",
    "ailedbot",
-   "aivean",
    "alexandrya",
    "aliceshiro",
    "alieknek",
@@ -3761,13 +3760,12 @@
    "caiporabot",
    "cannotcheckmateme",
    "carechess-bot",
+   "carmin-bot",
    "casanchess-nnue",
    "catnail",
    "catriever",
    "ceraf",
-   "chaotong_engine",
    "charibot",
-   "chatgpt5_5",
    "chessblight",
    "chessbot2880",
    "chessiverse_ethan",
@@ -3782,7 +3780,6 @@
    "classic_bot-v2",
    "classical-leela",
    "cloudia-chess",
-   "cloudnetbot",
    "clrsrc_lc0",
    "coda_bot",
    "colinbot",
@@ -3871,12 +3868,10 @@
    "jacobsbot",
    "jaingalt-bot",
    "jangine",
-   "jembok",
    "jenniferx",
    "jesterchessrobot",
    "jibbby",
    "jimmy_inc3710",
-   "jinko-chan",
    "joan_clone",
    "joey_chessengine",
    "jomfishh",
@@ -3897,7 +3892,6 @@
    "laura-bot",
    "leelaalien",
    "leelajester",
-   "leelamultiposs",
    "leelarogue",
    "leelatroll",
    "leol-bot",
@@ -3927,12 +3921,14 @@
    "maia9",
    "maia960-1600",
    "maia960-1900",
+   "malpamat",
    "martuni",
    "mate-in-forty",
    "mate-in-thirty",
    "mate-in-twenty",
    "mate1-bot",
    "matmoi",
+   "matthewcarven",
    "mayflyengine",
    "mcdonalds1955",
    "mega-noob-bot",
@@ -3941,6 +3937,7 @@
    "minibotapi",
    "minibruteforcebot",
    "minopponentmoves",
+   "miss_snowiee",
    "mithandros",
    "mochi_bot",
    "morabandbot",
@@ -3954,8 +3951,8 @@
    "newchessengine-ai",
    "nexastrat",
    "nexosdefos",
+   "nexuschess1",
    "nice_bot",
-   "nickl1bot",
    "nilatacbot",
    "nittedal",
    "nnueandthevoices",
@@ -3985,7 +3982,6 @@
    "pzchessbot",
    "qioui",
    "radianceengine",
-   "raspfish",
    "ratkingbot",
    "ratsu-bot",
    "ravager_bot",
@@ -4025,6 +4021,8 @@
    "slate-engine",
    "sleepmindengine",
    "slowmate_bot",
+   "slychessbot",
+   "snaky-bot",
    "southbot",
    "squarefish-900",
    "sseh-c",
@@ -4033,7 +4031,6 @@
    "stockcotsfish",
    "stockdory",
    "stockfail",
-   "stockfishlowdepth",
    "stockpapagei",
    "streamervschat",
    "stupidchessrobot",
@@ -4051,7 +4048,6 @@
    "tempocore",
    "terconari",
    "thechessblazer",
-   "thegrobbot",
    "thelokbott",
    "thunfisch-bot",
    "tigrament",
