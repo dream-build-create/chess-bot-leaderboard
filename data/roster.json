@@ -2,7 +2,7 @@
  "bots": {
   "aaronsengine": {
    "first_seen": "2026-09-27",
-   "last_online": "2026-10-16",
+   "last_online": "2026-10-17",
    "username": "AaronsEngine"
   },
   "aathena101": {
@@ -1332,7 +1332,7 @@
   },
   "grzechu86": {
    "first_seen": "2026-09-29",
-   "last_online": "2026-10-15",
+   "last_online": "2026-10-17",
    "username": "Grzechu86"
   },
   "guitarfish-engine": {
@@ -3687,8 +3687,9 @@
   }
  },
  "online": {
-  "checked_at": "2026-10-17T08:43:10Z",
+  "checked_at": "2026-10-17T09:43:09Z",
   "ids": [
+   "aaronsengine",
    "abcd_engine",
    "abdcebot",
    "aconcaguabot",
@@ -3824,6 +3825,7 @@
    "grindfish",
    "groshboss",
    "gryndor",
+   "grzechu86",
    "hackerchessbot",
    "halcyonbot",
    "heavennear",
@@ -3944,6 +3946,7 @@
    "onezenpanda",
    "overfitted",
    "oxide-eg",
+   "oxybullet",
    "oxydanbot",
    "pangubot",
    "partner3615diago",
@@ -3958,9 +3961,6 @@
    "perl-gigachess",
    "pi0w",
    "piglet_engine",
-   "pirates1",
-   "pirates2",
-   "piratesrust",
    "prokopakop",
    "puisne",
    "pzchessbot",
@@ -4031,13 +4031,11 @@
    "thelokbott",
    "thunfisch-bot",
    "tigrament",
-   "tikifish",
    "tilapiabot",
    "to299d",
    "togaii",
    "tomabbot",
    "topasbot",
-   "torombot",
    "trainer-bot",
    "trenerhetman",
    "trinculobot",
@@ -4066,7 +4064,6 @@
    "vidbot",
    "vietnamesecoffee",
    "violentstockfish",
-   "void_bot",
    "vortexaurafarm",
    "waldemar-the-elf",
    "weiawaga",
