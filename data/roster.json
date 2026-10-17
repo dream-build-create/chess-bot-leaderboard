@@ -2177,7 +2177,7 @@
   },
   "musashi-thebot": {
    "first_seen": "2026-09-28",
-   "last_online": "2026-10-16",
+   "last_online": "2026-10-17",
    "username": "Musashi-thebot"
   },
   "mxnet-gamemaster": {
@@ -2667,7 +2667,7 @@
   },
   "rdi_bot": {
    "first_seen": "2026-10-16",
-   "last_online": "2026-10-16",
+   "last_online": "2026-10-17",
    "username": "RDI_Bot"
   },
   "rdtchessbot": {
@@ -2787,7 +2787,7 @@
   },
   "rustyrival": {
    "first_seen": "2026-09-27",
-   "last_online": "2026-10-16",
+   "last_online": "2026-10-17",
    "username": "RustyRival"
   },
   "ryu-ishigori": {
@@ -3682,7 +3682,7 @@
   }
  },
  "online": {
-  "checked_at": "2026-10-17T03:43:08Z",
+  "checked_at": "2026-10-17T04:43:10Z",
   "ids": [
    "aathena101",
    "aatk_vanguardx",
@@ -3693,7 +3693,6 @@
    "aggressivestockfish",
    "ai-con",
    "ailedbot",
-   "aivean",
    "aliceshiro",
    "alieknek",
    "alliethechessbot",
@@ -3712,6 +3711,7 @@
    "atari-video-chess",
    "axiom_bot",
    "banerot",
+   "batyarapro",
    "bbc_bot",
    "becela9_kpebetka",
    "berkbot",
@@ -3745,6 +3745,7 @@
    "charibot",
    "chatgpt5_5",
    "chess3bot",
+   "chess_set_manager",
    "chessblight",
    "chessiverse_ethan",
    "chessiverse_luc",
@@ -3753,6 +3754,7 @@
    "cheszter",
    "chill4ce",
    "cinder-bot",
+   "classic_bot-v2",
    "classical-leela",
    "cloudia-chess",
    "clrsrc_lc0",
@@ -3820,7 +3822,6 @@
    "gryndor",
    "hackerchessbot",
    "halcyonbot",
-   "hardrok",
    "heavennear",
    "hiusbot",
    "hodgeybot",
@@ -3862,7 +3863,6 @@
    "kopyto_dev",
    "kulubot",
    "lamprook",
-   "lantern_bot",
    "larryz-alterego",
    "laura-bot",
    "leelaalien",
@@ -3921,14 +3921,15 @@
    "morabandbot",
    "mostlyhuman1900",
    "mrtonnerre",
+   "musashi-thebot",
    "mychessjava",
    "nanozeroorg",
    "neryba",
    "neurosocute",
    "newchessengine-ai",
    "nexastrat",
+   "nexosdefos",
    "nice_bot",
-   "nickdrohan",
    "nilatacbot",
    "nittedal",
    "nnueandthevoices",
@@ -3962,6 +3963,7 @@
    "ravager_bot",
    "raven030",
    "ravenengine",
+   "rdi_bot",
    "rdtchessbot",
    "renegadeengine",
    "resolutebot",
@@ -3972,6 +3974,7 @@
    "rudim-bot",
    "rust-in-pieces",
    "rustbot2003",
+   "rustyrival",
    "sargon-1ply",
    "sargon-2ply",
    "sargon-3ply",
