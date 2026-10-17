@@ -87,7 +87,7 @@
   },
   "alexandrya": {
    "first_seen": "2026-10-03",
-   "last_online": "2026-10-16",
+   "last_online": "2026-10-17",
    "username": "Alexandrya"
   },
   "aliceshiro": {
@@ -732,7 +732,7 @@
   },
   "chronicgambler": {
    "first_seen": "2026-09-27",
-   "last_online": "2026-10-16",
+   "last_online": "2026-10-17",
    "username": "ChronicGambler"
   },
   "chrusty": {
@@ -842,7 +842,7 @@
   },
   "craftyuci": {
    "first_seen": "2026-10-16",
-   "last_online": "2026-10-16",
+   "last_online": "2026-10-17",
    "username": "CraftyUCI"
   },
   "crapbot": {
@@ -2387,7 +2387,7 @@
   },
   "pangubot": {
    "first_seen": "2026-09-27",
-   "last_online": "2026-10-16",
+   "last_online": "2026-10-17",
    "username": "pangubot"
   },
   "panic-fish": {
@@ -2407,7 +2407,7 @@
   },
   "patriciabot": {
    "first_seen": "2026-10-03",
-   "last_online": "2026-10-16",
+   "last_online": "2026-10-17",
    "username": "PatriciaBot"
   },
   "patzerbot135": {
@@ -2687,7 +2687,7 @@
   },
   "redbeantree": {
    "first_seen": "2026-09-27",
-   "last_online": "2026-10-16",
+   "last_online": "2026-10-17",
    "username": "RedBeanTree"
   },
   "registerpythonspeed": {
@@ -2872,7 +2872,7 @@
   },
   "seitogakatsu": {
    "first_seen": "2026-09-27",
-   "last_online": "2026-10-16",
+   "last_online": "2026-10-17",
    "username": "SeitoGaKatsu"
   },
   "sf_bot1nok": {
@@ -3322,7 +3322,7 @@
   },
   "togaii": {
    "first_seen": "2026-10-03",
-   "last_online": "2026-10-16",
+   "last_online": "2026-10-17",
    "username": "togaII"
   },
   "tomabbot": {
@@ -3682,9 +3682,8 @@
   }
  },
  "online": {
-  "checked_at": "2026-10-17T04:43:10Z",
+  "checked_at": "2026-10-17T05:43:09Z",
   "ids": [
-   "aathena101",
    "aatk_vanguardx",
    "abcd_engine",
    "abdcebot",
@@ -3693,6 +3692,7 @@
    "aggressivestockfish",
    "ai-con",
    "ailedbot",
+   "alexandrya",
    "aliceshiro",
    "alieknek",
    "alliethechessbot",
@@ -3753,6 +3753,7 @@
    "chessiverse_raak",
    "cheszter",
    "chill4ce",
+   "chronicgambler",
    "cinder-bot",
    "classic_bot-v2",
    "classical-leela",
@@ -3764,6 +3765,7 @@
    "cookiebot711",
    "coolperson_bot1",
    "cosettebot",
+   "craftyuci",
    "croco_bot",
    "croco_little_bot",
    "crocodile_bot",
@@ -3941,7 +3943,9 @@
    "oxide-eg",
    "oxybullet",
    "oxydanbot",
+   "pangubot",
    "partner3615diago",
+   "patriciabot",
    "patzerbot135",
    "pawn_git",
    "pawnrobot",
@@ -3963,8 +3967,8 @@
    "ravager_bot",
    "raven030",
    "ravenengine",
-   "rdi_bot",
    "rdtchessbot",
+   "redbeantree",
    "renegadeengine",
    "resolutebot",
    "ribfish-bot",
@@ -3974,7 +3978,6 @@
    "rudim-bot",
    "rust-in-pieces",
    "rustbot2003",
-   "rustyrival",
    "sargon-1ply",
    "sargon-2ply",
    "sargon-3ply",
@@ -3984,6 +3987,7 @@
    "schnecken_bot",
    "scipio-bot",
    "seedchess",
+   "seitogakatsu",
    "sf_bot1nok",
    "shallowredbot",
    "shrevenbot",
@@ -4028,6 +4032,7 @@
    "tikifish",
    "tilapiabot",
    "to299d",
+   "togaii",
    "tomabbot",
    "topasbot",
    "trainer-bot",
