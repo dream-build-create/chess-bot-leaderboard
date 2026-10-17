@@ -2590,6 +2590,11 @@
    "last_online": "2026-09-29",
    "username": "ProteinBender"
   },
+  "pruningbot": {
+   "first_seen": "2026-10-17",
+   "last_online": "2026-10-17",
+   "username": "pruningBot"
+  },
   "pseudo-0": {
    "first_seen": "2026-09-27",
    "last_online": "2026-10-13",
@@ -3642,7 +3647,7 @@
   },
   "weledar-bot": {
    "first_seen": "2026-09-29",
-   "last_online": "2026-10-13",
+   "last_online": "2026-10-17",
    "username": "Weledar-bot"
   },
   "wildorderbot": {
@@ -3742,7 +3747,7 @@
   }
  },
  "online": {
-  "checked_at": "2026-10-17T21:43:12Z",
+  "checked_at": "2026-10-17T22:43:09Z",
   "ids": [
    "aathena101",
    "aatk_vanguardx",
@@ -3754,6 +3759,7 @@
    "aggressivestockfish",
    "ai-con",
    "ailedbot",
+   "aivean",
    "alarm2001",
    "alexandrya",
    "aliceshiro",
@@ -3783,6 +3789,7 @@
    "bfiedler-bot",
    "bitbitbot",
    "bluemoonbot",
+   "blujay-bot",
    "bobby_pcolla",
    "bongaclang",
    "boris-trapsky",
@@ -3809,10 +3816,11 @@
    "catnail",
    "catriever",
    "charibot",
+   "chatgpt5_5",
    "chess3bot",
    "chess_know",
+   "chess_set_manager",
    "chessblight",
-   "chessbot2880",
    "chessiverse_ethan",
    "chessiverse_luc",
    "chessiverse_pawnza",
@@ -3876,6 +3884,7 @@
    "flounderbot",
    "flybrainchess",
    "fourcuriouspandas",
+   "fpga-chess",
    "fschess-engine",
    "funcomp",
    "garbobot",
@@ -3904,7 +3913,6 @@
    "ilovecatgirl",
    "inanisbot",
    "incipit_bot",
-   "io-bot",
    "is_boss",
    "iskelt-corax",
    "jacobsbot",
@@ -4021,6 +4029,7 @@
    "pi0w",
    "piglet_engine",
    "prokopakop",
+   "pruningbot",
    "puisne",
    "pzchessbot",
    "radianceengine",
@@ -4135,6 +4144,7 @@
    "vortexaurafarm",
    "waldemar-the-elf",
    "weiawaga",
+   "weledar-bot",
    "wolfuhfuhbot",
    "worst-ai",
    "worstfish",
