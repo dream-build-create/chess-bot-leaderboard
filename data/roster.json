@@ -267,7 +267,7 @@
   },
   "battlebornthe3rd": {
    "first_seen": "2026-09-29",
-   "last_online": "2026-10-16",
+   "last_online": "2026-10-17",
    "username": "BattleBornThe3rd"
   },
   "battlebornthe4th": {
@@ -347,7 +347,7 @@
   },
   "black-bishop-kh": {
    "first_seen": "2026-09-28",
-   "last_online": "2026-10-16",
+   "last_online": "2026-10-17",
    "username": "Black-Bishop-Kh"
   },
   "black-icebot": {
@@ -672,7 +672,7 @@
   },
   "chessbot2880": {
    "first_seen": "2026-09-27",
-   "last_online": "2026-10-10",
+   "last_online": "2026-10-17",
    "username": "chessbot2880"
   },
   "chessbzero": {
@@ -844,6 +844,11 @@
    "first_seen": "2026-09-27",
    "last_online": "2026-10-17",
    "username": "CosetteBot"
+  },
+  "craftstockfish": {
+   "first_seen": "2026-10-17",
+   "last_online": "2026-10-17",
+   "username": "CraftStockfish"
   },
   "craftyuci": {
    "first_seen": "2026-10-16",
@@ -1192,7 +1197,7 @@
   },
   "fighting2543": {
    "first_seen": "2026-09-30",
-   "last_online": "2026-10-15",
+   "last_online": "2026-10-17",
    "username": "Fighting2543"
   },
   "flompiebot": {
@@ -1522,7 +1527,7 @@
   },
   "jembok": {
    "first_seen": "2026-10-11",
-   "last_online": "2026-10-16",
+   "last_online": "2026-10-17",
    "username": "JemBok"
   },
   "jenniferx": {
@@ -2287,7 +2292,7 @@
   },
   "nickl1bot": {
    "first_seen": "2026-10-11",
-   "last_online": "2026-10-16",
+   "last_online": "2026-10-17",
    "username": "nickl1bot"
   },
   "nightfall_dev": {
@@ -2587,7 +2592,7 @@
   },
   "qioui": {
    "first_seen": "2026-10-11",
-   "last_online": "2026-10-16",
+   "last_online": "2026-10-17",
    "username": "QiOui"
   },
   "quanticade": {
@@ -3697,7 +3702,7 @@
   }
  },
  "online": {
-  "checked_at": "2026-10-17T10:43:10Z",
+  "checked_at": "2026-10-17T11:43:10Z",
   "ids": [
    "aaronsengine",
    "abcd_engine",
@@ -3724,6 +3729,7 @@
    "atari-video-chess",
    "axiom_bot",
    "banerot",
+   "battlebornthe3rd",
    "batyarapro",
    "bbc_bot",
    "becela9_kpebetka",
@@ -3732,6 +3738,7 @@
    "bernstein-4ply",
    "bfiedler-bot",
    "bitbitbot",
+   "black-bishop-kh",
    "bluemoonbot",
    "blujay-bot",
    "bongaclang",
@@ -3762,6 +3769,7 @@
    "charibot",
    "chatgpt5_5",
    "chessblight",
+   "chessbot2880",
    "chessiverse_ethan",
    "chessiverse_luc",
    "chessiverse_pawnza",
@@ -3773,7 +3781,6 @@
    "cinder-bot",
    "classic_bot-v2",
    "classical-leela",
-   "clementyne1",
    "cloudia-chess",
    "cloudnetbot",
    "clrsrc_lc0",
@@ -3783,6 +3790,7 @@
    "cookiebot711",
    "coolperson_bot1",
    "cosettebot",
+   "craftstockfish",
    "craftyuci",
    "croco_bot",
    "croco_little_bot",
@@ -3825,13 +3833,13 @@
    "felipe_bot_53",
    "fenrirbot",
    "fetacompli",
+   "fighting2543",
    "flounderbot",
    "flybrainchess",
    "fourcuriouspandas",
    "fschess-engine",
    "funcomp",
    "garbobot",
-   "georgii_ai",
    "geotsibot",
    "gnu4u",
    "goldfish-engine",
@@ -3863,6 +3871,7 @@
    "jacobsbot",
    "jaingalt-bot",
    "jangine",
+   "jembok",
    "jenniferx",
    "jesterchessrobot",
    "jibbby",
@@ -3918,7 +3927,6 @@
    "maia9",
    "maia960-1600",
    "maia960-1900",
-   "malpamat",
    "martuni",
    "mate-in-forty",
    "mate-in-thirty",
@@ -3947,6 +3955,7 @@
    "nexastrat",
    "nexosdefos",
    "nice_bot",
+   "nickl1bot",
    "nilatacbot",
    "nittedal",
    "nnueandthevoices",
@@ -3974,6 +3983,7 @@
    "prokopakop",
    "puisne",
    "pzchessbot",
+   "qioui",
    "radianceengine",
    "raspfish",
    "ratkingbot",
@@ -3992,6 +4002,7 @@
    "rudim-bot",
    "rust-in-pieces",
    "rustbot2003",
+   "rustyrival",
    "sargon-1ply",
    "sargon-2ply",
    "sargon-3ply",
