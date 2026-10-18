@@ -212,7 +212,7 @@
   },
   "ask-aatk-bot": {
    "first_seen": "2026-09-27",
-   "last_online": "2026-10-17",
+   "last_online": "2026-10-18",
    "username": "Ask-AATK-bot"
   },
   "askaig": {
@@ -2212,7 +2212,7 @@
   },
   "mxnet-gamemaster": {
    "first_seen": "2026-09-28",
-   "last_online": "2026-10-17",
+   "last_online": "2026-10-18",
    "username": "mxnet-gamemaster"
   },
   "my-bot": {
@@ -2627,7 +2627,7 @@
   },
   "queensgambot": {
    "first_seen": "2026-09-27",
-   "last_online": "2026-10-17",
+   "last_online": "2026-10-18",
    "username": "QueensGamBOT"
   },
   "r0bspierre": {
@@ -3182,7 +3182,7 @@
   },
   "studyloversz-bot": {
    "first_seen": "2026-09-27",
-   "last_online": "2026-10-17",
+   "last_online": "2026-10-18",
    "username": "Studyloversz-bot"
   },
   "stupidchessrobot": {
@@ -3747,9 +3747,8 @@
   }
  },
  "online": {
-  "checked_at": "2026-10-18T00:43:09Z",
+  "checked_at": "2026-10-18T01:13:07Z",
   "ids": [
-   "aathena101",
    "aatk_vanguardx",
    "abcd_engine",
    "abdcebot",
@@ -3777,6 +3776,7 @@
    "arkiplayschess",
    "artidigm_research",
    "ashnostromo",
+   "ask-aatk-bot",
    "atari-video-chess",
    "axiom_bot",
    "banerot",
@@ -3816,7 +3816,6 @@
    "catnail",
    "catriever",
    "charibot",
-   "chatgpt5_5",
    "chess3bot",
    "chess_know",
    "chess_set_manager",
@@ -3993,6 +3992,7 @@
    "morabandbot",
    "mostlyhuman1900",
    "mrtonnerre",
+   "mxnet-gamemaster",
    "mychessjava",
    "nanozeroorg",
    "neryba",
@@ -4032,6 +4032,7 @@
    "pruningbot",
    "puisne",
    "pzchessbot",
+   "queensgambot",
    "radianceengine",
    "raspfish",
    "ratkingbot",
@@ -4086,6 +4087,7 @@
    "stockfishlowdepth",
    "stockpapagei",
    "streamervschat",
+   "studyloversz-bot",
    "stupidchessrobot",
    "stupidfishbotbydscs",
    "sunfish-engine",
