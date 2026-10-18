@@ -1155,6 +1155,11 @@
    "last_online": "2026-10-12",
    "username": "Epoch512"
   },
+  "erebusbot": {
+   "first_seen": "2026-10-18",
+   "last_online": "2026-10-18",
+   "username": "ErebusBot"
+  },
   "escarbo": {
    "first_seen": "2026-09-28",
    "last_online": "2026-10-17",
@@ -1277,7 +1282,7 @@
   },
   "georgii_ai": {
    "first_seen": "2026-09-28",
-   "last_online": "2026-10-17",
+   "last_online": "2026-10-18",
    "username": "georgii_ai"
   },
   "geotsibot": {
@@ -3747,7 +3752,7 @@
   }
  },
  "online": {
-  "checked_at": "2026-10-18T01:43:08Z",
+  "checked_at": "2026-10-18T02:43:09Z",
   "ids": [
    "aatk_vanguardx",
    "abcd_engine",
@@ -3758,7 +3763,6 @@
    "aggressivestockfish",
    "ai-con",
    "ailedbot",
-   "aivean",
    "alarm2001",
    "alexandrya",
    "aliceshiro",
@@ -3780,7 +3784,6 @@
    "atari-video-chess",
    "axiom_bot",
    "banerot",
-   "batyarapro",
    "bbc_bot",
    "becela9_kpebetka",
    "berkbot",
@@ -3788,7 +3791,6 @@
    "bernstein-4ply",
    "bfiedler-bot",
    "bitbitbot",
-   "black-icebot",
    "bluemoonbot",
    "blujay-bot",
    "bobby_pcolla",
@@ -3830,7 +3832,6 @@
    "chill4ce",
    "chronicgambler",
    "cinder-bot",
-   "classic_bot-v2",
    "classical-leela",
    "clrsrc_lc0",
    "coda_bot",
@@ -3873,7 +3874,7 @@
    "elmichess",
    "endspiel-pi",
    "entebot",
-   "epimetheusbot",
+   "erebusbot",
    "eubos",
    "falconengine",
    "fataliibot",
@@ -3888,6 +3889,7 @@
    "fschess-engine",
    "funcomp",
    "garbobot",
+   "georgii_ai",
    "geotsibot",
    "gnu4u",
    "goldfish-engine",
@@ -3993,14 +3995,12 @@
    "morabandbot",
    "mostlyhuman1900",
    "mrtonnerre",
-   "mxnet-gamemaster",
    "mychessjava",
    "nanozeroorg",
    "neryba",
    "neurosocute",
    "newchessengine-ai",
    "nexastrat",
-   "nexosdefos",
    "nice_bot",
    "nickdrohan",
    "nilatacbot",
@@ -4105,10 +4105,8 @@
    "terconari",
    "thechessblazer",
    "thelokbott",
-   "thomengine",
    "thunfisch-bot",
    "tigrament",
-   "tikifish",
    "tilapiabot",
    "to299d",
    "togaii",
@@ -4142,8 +4140,6 @@
    "vidbot",
    "viet-ai",
    "vietnamesecoffee",
-   "violentstockfish",
-   "void_bot",
    "vortexaurafarm",
    "waldemar-the-elf",
    "weiawaga",
