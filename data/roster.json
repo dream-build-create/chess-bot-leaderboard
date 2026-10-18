@@ -1797,7 +1797,7 @@
   },
   "leelachesstest": {
    "first_seen": "2026-09-30",
-   "last_online": "2026-10-15",
+   "last_online": "2026-10-18",
    "username": "LeelaChessTest"
   },
   "leelajester": {
@@ -2897,7 +2897,7 @@
   },
   "sara_bot1": {
    "first_seen": "2026-10-15",
-   "last_online": "2026-10-16",
+   "last_online": "2026-10-18",
    "username": "Sara_bot1"
   },
   "sargon-1ply": {
@@ -3010,6 +3010,11 @@
    "last_online": "2026-10-18",
    "username": "simbelmyne-bot"
   },
+  "simonbot42069": {
+   "first_seen": "2026-10-18",
+   "last_online": "2026-10-18",
+   "username": "SimonBot42069"
+  },
   "simple-bot": {
    "first_seen": "2026-09-27",
    "last_online": "2026-10-18",
@@ -3092,7 +3097,7 @@
   },
   "solidor59": {
    "first_seen": "2026-09-29",
-   "last_online": "2026-10-13",
+   "last_online": "2026-10-18",
    "username": "SOLIDOR59"
   },
   "solobot": {
@@ -3787,7 +3792,7 @@
   }
  },
  "online": {
-  "checked_at": "2026-10-18T17:43:10Z",
+  "checked_at": "2026-10-18T18:43:10Z",
   "ids": [
    "aaronsengine",
    "abcd_engine",
@@ -3799,6 +3804,7 @@
    "ai-con",
    "ailedbot",
    "ajedrezchamberi",
+   "alarm2001",
    "alexandrya",
    "aliceshiro",
    "alieknek",
@@ -3817,8 +3823,6 @@
    "atari-video-chess",
    "axiom_bot",
    "banerot",
-   "battlebornthe3rd",
-   "battlebornthe4th",
    "batyarapro",
    "bbc_bot",
    "becela9_kpebetka",
@@ -3845,10 +3849,12 @@
    "brybrybot",
    "bubblebot2",
    "byte-knight",
+   "bytefish",
    "c-t-r-l",
    "c0kval",
    "caiporabot",
    "cannotcheckmateme",
+   "carechess-bot",
    "casanchess-nnue",
    "catnail",
    "chamberiajedrez",
@@ -3858,6 +3864,7 @@
    "cheng-4-nn",
    "chess3bot",
    "chess_know",
+   "chess_set_manager",
    "chessblight",
    "chesschildren",
    "chessiverse_ethan",
@@ -3894,7 +3901,6 @@
    "deepbecky",
    "deepsquare-ai",
    "demen100ns-bot",
-   "demolito_l1",
    "demolito_l2",
    "demolito_l3",
    "demolito_l4",
@@ -3925,7 +3931,7 @@
    "fpga-chess",
    "friesai",
    "fschess-engine",
-   "gambitonlybot",
+   "funcomp",
    "garbobot",
    "geotsibot",
    "ghidorah_x",
@@ -3970,15 +3976,16 @@
    "jurdbird",
    "justbot-v1",
    "kavinengine",
+   "kestrelstrike",
    "kingzbot",
    "kirinchessbot",
    "kopyto_dev",
    "kruguer_engine",
    "kulubot",
    "lamprook",
-   "lantern_bot",
    "larryz-alterego",
    "laura-bot",
+   "leelachesstest",
    "leelaknightodds",
    "leelapieceodds",
    "leelaqueenforknight",
@@ -3996,6 +4003,7 @@
    "lunaenginechess",
    "lynx_bot",
    "mac-bot",
+   "magic11bot_coach",
    "maia1",
    "maia5",
    "maia9",
@@ -4039,7 +4047,6 @@
    "noel-bot",
    "o-rei-cx",
    "onezenpanda",
-   "osaurus",
    "overfitted",
    "oxide-eg",
    "oxybullet",
@@ -4085,6 +4092,7 @@
    "rust-in-pieces",
    "rustbot2003",
    "rustyrival",
+   "sara_bot1",
    "sargon-1ply",
    "sargon-2ply",
    "sargon-3ply",
@@ -4100,6 +4108,7 @@
    "silasly",
    "sim3million",
    "simbelmyne-bot",
+   "simonbot42069",
    "simple-bot",
    "simpleeval",
    "sj_norbot",
@@ -4108,6 +4117,7 @@
    "slowmate_bot",
    "snaky-bot",
    "snapleelaeasy",
+   "solidor59",
    "southbot",
    "springerbot",
    "squarefish-900",
@@ -4143,7 +4153,6 @@
    "togaii",
    "tomabbot",
    "topasbot",
-   "trainer-bot",
    "trenerhetman",
    "trinculobot",
    "troutbot",
