@@ -1045,6 +1045,11 @@
    "last_online": "2026-10-09",
    "username": "DontShameElon"
   },
+  "dorky-bot": {
+   "first_seen": "2026-10-18",
+   "last_online": "2026-10-18",
+   "username": "Dorky-Bot"
+  },
   "dragonrosedev": {
    "first_seen": "2026-10-02",
    "last_online": "2026-10-12",
@@ -1367,7 +1372,7 @@
   },
   "guitarfish-engine": {
    "first_seen": "2026-09-28",
-   "last_online": "2026-10-05",
+   "last_online": "2026-10-18",
    "username": "guitarfish-engine"
   },
   "guofish": {
@@ -1579,6 +1584,11 @@
    "first_seen": "2026-09-27",
    "last_online": "2026-10-18",
    "username": "Jibbby"
+  },
+  "jimbo_engine": {
+   "first_seen": "2026-10-18",
+   "last_online": "2026-10-18",
+   "username": "Jimbo_Engine"
   },
   "jimmy_inc3710": {
    "first_seen": "2026-10-02",
@@ -3637,7 +3647,7 @@
   },
   "weeebot": {
    "first_seen": "2026-10-09",
-   "last_online": "2026-10-11",
+   "last_online": "2026-10-18",
    "username": "weeebot"
   },
   "weiawaga": {
@@ -3752,9 +3762,8 @@
   }
  },
  "online": {
-  "checked_at": "2026-10-18T04:43:08Z",
+  "checked_at": "2026-10-18T05:43:09Z",
   "ids": [
-   "aatk_vanguardx",
    "abcd_engine",
    "abdcebot",
    "aconcaguabot",
@@ -3780,7 +3789,6 @@
    "arkiplayschess",
    "artidigm_research",
    "ashnostromo",
-   "ask-aatk-bot",
    "atari-video-chess",
    "axiom_bot",
    "banerot",
@@ -3813,7 +3821,6 @@
    "c-t-r-l",
    "c0kval",
    "caiporabot",
-   "caissa-x",
    "cannotcheckmateme",
    "carechess-bot",
    "casanchess-nnue",
@@ -3865,6 +3872,7 @@
    "demolito_l4",
    "demolito_l5",
    "demolito_l6",
+   "dorky-bot",
    "drawfish-reborn",
    "drewschessmachine",
    "duchessai",
@@ -3883,7 +3891,6 @@
    "fathzer-jchess",
    "felipe_bot_53",
    "fenrirbot",
-   "fetacompli",
    "flounderbot",
    "flybrainchess",
    "fourcuriouspandas",
@@ -3900,6 +3907,8 @@
    "grindfish",
    "groshboss",
    "gryndor",
+   "guitarfish-engine",
+   "halcyonbot",
    "heavennear",
    "hiusbot",
    "hodgeybot",
@@ -3923,6 +3932,7 @@
    "jangine",
    "jesterchessrobot",
    "jibbby",
+   "jimbo_engine",
    "joan_clone",
    "joey_chessengine",
    "jomfishh",
@@ -4054,7 +4064,6 @@
    "rust-in-pieces",
    "rustbot2003",
    "rustyrival",
-   "saisrankarthik_7",
    "sargon-1ply",
    "sargon-2ply",
    "sargon-3ply",
@@ -4090,7 +4099,6 @@
    "stockfishlowdepth",
    "stockpapagei",
    "streamervschat",
-   "studyloversz-bot",
    "stupidchessrobot",
    "stupidfishbotbydscs",
    "sunfish-engine",
@@ -4144,6 +4152,7 @@
    "void_bot",
    "vortexaurafarm",
    "waldemar-the-elf",
+   "weeebot",
    "weiawaga",
    "wolfuhfuhbot",
    "worst-ai",
