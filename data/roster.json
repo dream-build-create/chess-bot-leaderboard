@@ -847,7 +847,7 @@
   },
   "consolechessdev": {
    "first_seen": "2026-09-28",
-   "last_online": "2026-10-16",
+   "last_online": "2026-10-18",
    "username": "ConsoleChessDev"
   },
   "consolechessfastbot": {
@@ -3792,7 +3792,7 @@
   }
  },
  "online": {
-  "checked_at": "2026-10-18T18:43:10Z",
+  "checked_at": "2026-10-18T19:02:51Z",
   "ids": [
    "aaronsengine",
    "abcd_engine",
@@ -3849,7 +3849,6 @@
    "brybrybot",
    "bubblebot2",
    "byte-knight",
-   "bytefish",
    "c-t-r-l",
    "c0kval",
    "caiporabot",
@@ -3862,7 +3861,6 @@
    "chatgpt5_5",
    "cheng-4",
    "cheng-4-nn",
-   "chess3bot",
    "chess_know",
    "chess_set_manager",
    "chessblight",
@@ -3881,6 +3879,7 @@
    "coda_bot",
    "colinbot",
    "confidencebuilder",
+   "consolechessdev",
    "cookiebot711",
    "cosettebot",
    "craftstockfish",
@@ -4003,7 +4002,6 @@
    "lunaenginechess",
    "lynx_bot",
    "mac-bot",
-   "magic11bot_coach",
    "maia1",
    "maia5",
    "maia9",
@@ -4087,12 +4085,10 @@
    "renegadeengine",
    "resolutebot",
    "ribfish-bot",
-   "robert_is_bot",
    "rudim-bot",
    "rust-in-pieces",
    "rustbot2003",
    "rustyrival",
-   "sara_bot1",
    "sargon-1ply",
    "sargon-2ply",
    "sargon-3ply",
@@ -4153,6 +4149,7 @@
    "togaii",
    "tomabbot",
    "topasbot",
+   "trainer-bot",
    "trenerhetman",
    "trinculobot",
    "troutbot",
