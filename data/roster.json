@@ -412,7 +412,7 @@
   },
   "borkatower": {
    "first_seen": "2026-09-27",
-   "last_online": "2026-10-17",
+   "last_online": "2026-10-18",
    "username": "BorkaTower"
   },
   "bot-o-tron": {
@@ -742,7 +742,7 @@
   },
   "chesstransformerbot": {
    "first_seen": "2026-10-08",
-   "last_online": "2026-10-17",
+   "last_online": "2026-10-18",
    "username": "ChessTransformerBot"
   },
   "cheszter": {
@@ -867,7 +867,7 @@
   },
   "craftstockfish": {
    "first_seen": "2026-10-17",
-   "last_online": "2026-10-17",
+   "last_online": "2026-10-18",
    "username": "CraftStockfish"
   },
   "craftyuci": {
@@ -2097,7 +2097,7 @@
   },
   "matthewcarven": {
    "first_seen": "2026-10-14",
-   "last_online": "2026-10-17",
+   "last_online": "2026-10-18",
    "username": "matthewcarven"
   },
   "maxthedog-esp32": {
@@ -2222,7 +2222,7 @@
   },
   "musashi-thebot": {
    "first_seen": "2026-09-28",
-   "last_online": "2026-10-17",
+   "last_online": "2026-10-18",
    "username": "Musashi-thebot"
   },
   "mxnet-gamemaster": {
@@ -3762,7 +3762,7 @@
   }
  },
  "online": {
-  "checked_at": "2026-10-18T05:43:09Z",
+  "checked_at": "2026-10-18T06:43:09Z",
   "ids": [
    "abcd_engine",
    "abdcebot",
@@ -3805,6 +3805,7 @@
    "bobby_pcolla",
    "bongaclang",
    "boris-trapsky",
+   "borkatower",
    "bot1e",
    "bot1nokk",
    "bot5551",
@@ -3827,7 +3828,6 @@
    "catnail",
    "catriever",
    "charibot",
-   "chatgpt5_5",
    "chess3bot",
    "chess_know",
    "chess_set_manager",
@@ -3837,6 +3837,7 @@
    "chessiverse_pawnza",
    "chessiverse_raak",
    "chesstango_bot",
+   "chesstransformerbot",
    "cheszter",
    "chill4ce",
    "chronicgambler",
@@ -3849,6 +3850,7 @@
    "confidencebuilder",
    "cookiebot711",
    "cosettebot",
+   "craftstockfish",
    "craftyuci",
    "croco_bot",
    "croco_little_bot",
@@ -3866,13 +3868,7 @@
    "deepbecky",
    "deepsquare-ai",
    "demen100ns-bot",
-   "demolito_l1",
-   "demolito_l2",
    "demolito_l3",
-   "demolito_l4",
-   "demolito_l5",
-   "demolito_l6",
-   "dorky-bot",
    "drawfish-reborn",
    "drewschessmachine",
    "duchessai",
@@ -3932,7 +3928,6 @@
    "jangine",
    "jesterchessrobot",
    "jibbby",
-   "jimbo_engine",
    "joan_clone",
    "joey_chessengine",
    "jomfishh",
@@ -3992,6 +3987,7 @@
    "mate-in-twenty",
    "mate1-bot",
    "matmoi",
+   "matthewcarven",
    "mayflyengine",
    "mcdonalds1955",
    "mega-noob-bot",
@@ -4005,6 +4001,7 @@
    "morabandbot",
    "mostlyhuman1900",
    "mrtonnerre",
+   "musashi-thebot",
    "mxnet-gamemaster",
    "mychessjava",
    "nanozeroorg",
