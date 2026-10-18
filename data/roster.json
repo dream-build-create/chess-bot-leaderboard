@@ -597,7 +597,7 @@
   },
   "ceraf": {
    "first_seen": "2026-10-01",
-   "last_online": "2026-10-17",
+   "last_online": "2026-10-18",
    "username": "CERAF"
   },
   "chamberiajedrez": {
@@ -2525,6 +2525,11 @@
    "last_online": "2026-10-16",
    "username": "PieBot"
   },
+  "pifish": {
+   "first_seen": "2026-10-18",
+   "last_online": "2026-10-18",
+   "username": "PIFISH"
+  },
   "piglet_engine": {
    "first_seen": "2026-09-27",
    "last_online": "2026-10-18",
@@ -3762,7 +3767,7 @@
   }
  },
  "online": {
-  "checked_at": "2026-10-18T07:43:10Z",
+  "checked_at": "2026-10-18T08:43:09Z",
   "ids": [
    "abcd_engine",
    "abdcebot",
@@ -3794,7 +3799,6 @@
    "banerot",
    "batyarapro",
    "bbc_bot",
-   "becela9_kpebetka",
    "berkbot",
    "bernstein-2ply",
    "bernstein-4ply",
@@ -3826,9 +3830,9 @@
    "casanchess-nnue",
    "catnail",
    "catriever",
+   "ceraf",
    "charibot",
    "chess3bot",
-   "chess_know",
    "chess_set_manager",
    "chessblight",
    "chessiverse_ethan",
@@ -3870,6 +3874,8 @@
    "demolito_l2",
    "demolito_l3",
    "demolito_l4",
+   "demolito_l5",
+   "demolito_l6",
    "drawfish-reborn",
    "drewschessmachine",
    "duchessai",
@@ -3891,7 +3897,6 @@
    "fetacompli",
    "flounderbot",
    "flybrainchess",
-   "fourcuriouspandas",
    "fschess-engine",
    "funcomp",
    "garbobot",
@@ -3946,7 +3951,6 @@
    "larryz-alterego",
    "laura-bot",
    "leelaalien",
-   "leelajester",
    "leelaknightodds",
    "leelapieceodds",
    "leelaqueenforknight",
@@ -4006,7 +4010,6 @@
    "mychessjava",
    "nanozeroorg",
    "neurosocute",
-   "newchessengine-ai",
    "nexastrat",
    "nexosdefos",
    "nice_bot",
@@ -4020,7 +4023,6 @@
    "onezenpanda",
    "overfitted",
    "oxide-eg",
-   "oxybullet",
    "oxydanbot",
    "pangubot",
    "panic-fish",
@@ -4035,6 +4037,7 @@
    "peachfruit",
    "perl-gigachess",
    "pi0w",
+   "pifish",
    "piglet_engine",
    "prokopakop",
    "pruningbot",
@@ -4066,7 +4069,6 @@
    "scalaqueen",
    "schnecken_bot",
    "scipio-bot",
-   "seedchess",
    "seitogakatsu",
    "sf_bot1nok",
    "shallowredbot",
