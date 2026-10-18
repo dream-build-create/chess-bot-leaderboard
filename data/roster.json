@@ -1277,7 +1277,7 @@
   },
   "gambitonlybot": {
    "first_seen": "2026-09-28",
-   "last_online": "2026-10-17",
+   "last_online": "2026-10-18",
    "username": "GambitOnlyBot"
   },
   "garbobot": {
@@ -1507,7 +1507,7 @@
   },
   "implosio": {
    "first_seen": "2026-10-15",
-   "last_online": "2026-10-17",
+   "last_online": "2026-10-18",
    "username": "Implosio"
   },
   "inanisbot": {
@@ -2047,7 +2047,7 @@
   },
   "makechessbetter": {
    "first_seen": "2026-09-28",
-   "last_online": "2026-10-16",
+   "last_online": "2026-10-18",
    "username": "MakeChessBetter"
   },
   "malanchess": {
@@ -2302,7 +2302,7 @@
   },
   "newengine2022": {
    "first_seen": "2026-10-06",
-   "last_online": "2026-10-06",
+   "last_online": "2026-10-18",
    "username": "newengine2022"
   },
   "newtsbot": {
@@ -2647,7 +2647,7 @@
   },
   "qioui": {
    "first_seen": "2026-10-11",
-   "last_online": "2026-10-17",
+   "last_online": "2026-10-18",
    "username": "QiOui"
   },
   "quanticade": {
@@ -3602,7 +3602,7 @@
   },
   "virutor": {
    "first_seen": "2026-09-27",
-   "last_online": "2026-10-13",
+   "last_online": "2026-10-18",
    "username": "Virutor"
   },
   "void_bot": {
@@ -3777,7 +3777,7 @@
   }
  },
  "online": {
-  "checked_at": "2026-10-18T12:43:09Z",
+  "checked_at": "2026-10-18T13:10:20Z",
   "ids": [
    "aaronsengine",
    "abcd_engine",
@@ -3788,7 +3788,6 @@
    "aggressivestockfish",
    "ai-con",
    "ailedbot",
-   "aivean",
    "ajedrezchamberi",
    "alexandrya",
    "aliceshiro",
@@ -3844,7 +3843,6 @@
    "carechess-bot",
    "casanchess-nnue",
    "catnail",
-   "catriever",
    "chamberiajedrez",
    "charibot",
    "cheng-4",
@@ -3890,11 +3888,10 @@
    "deepsquare-ai",
    "demen100ns-bot",
    "demolito_l1",
-   "demolito_l2",
    "demolito_l3",
    "demolito_l4",
    "demolito_l6",
-   "drawfish-reborn",
+   "dfy-bot",
    "drewschessmachine",
    "duchessai",
    "dumbotai",
@@ -3919,6 +3916,7 @@
    "fpga-chess",
    "fschess-engine",
    "funcomp",
+   "gambitonlybot",
    "garbobot",
    "geotsibot",
    "gnu4u",
@@ -3946,6 +3944,7 @@
    "icarus-bot",
    "ilcorvochess",
    "ilovecatgirl",
+   "implosio",
    "inanisbot",
    "incipit_bot",
    "is_boss",
@@ -4009,6 +4008,7 @@
    "maia9",
    "maia960-1600",
    "maia960-1900",
+   "makechessbetter",
    "martuni",
    "mate-in-forty",
    "mate-in-thirty",
@@ -4031,11 +4031,12 @@
    "motor-0",
    "mrtonnerre",
    "musashi-thebot",
+   "mxnet-gamemaster",
    "mychessjava",
    "nanozeroorg",
-   "neryba",
    "neurosocute",
    "newchessengine-ai",
+   "newengine2022",
    "newtsbot",
    "nexastrat",
    "nexosdefos",
@@ -4066,8 +4067,8 @@
    "perl-gigachess",
    "phalanx-xxv",
    "pi0w",
-   "pifish",
    "piglet_engine",
+   "piratesrust",
    "playmarius",
    "prokopakop",
    "pruningbot",
@@ -4075,7 +4076,7 @@
    "pseudo-1",
    "puisne",
    "pzchessbot",
-   "rachl1",
+   "qioui",
    "racingkingsbot_1",
    "radianceengine",
    "raspfish",
@@ -4144,6 +4145,7 @@
    "tempocore",
    "terconari",
    "thechessblazer",
+   "thegrobbot",
    "thunfisch-bot",
    "tigrament",
    "tikifish",
@@ -4179,6 +4181,7 @@
    "vidbot",
    "viet-ai",
    "vietnamesecoffee",
+   "virutor",
    "void_bot",
    "vortexaurafarm",
    "waldemar-the-elf",
