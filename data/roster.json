@@ -647,12 +647,12 @@
   },
   "cheng-4": {
    "first_seen": "2026-09-27",
-   "last_online": "2026-10-13",
+   "last_online": "2026-10-18",
    "username": "Cheng-4"
   },
   "cheng-4-nn": {
    "first_seen": "2026-09-27",
-   "last_online": "2026-10-13",
+   "last_online": "2026-10-18",
    "username": "Cheng-4-NN"
   },
   "chengine_rookery": {
@@ -707,7 +707,7 @@
   },
   "chesschildren": {
    "first_seen": "2026-09-27",
-   "last_online": "2026-10-13",
+   "last_online": "2026-10-18",
    "username": "ChessChildren"
   },
   "chessgeniusbot": {
@@ -1442,12 +1442,12 @@
   },
   "honzovy-sachy": {
    "first_seen": "2026-09-27",
-   "last_online": "2026-10-13",
+   "last_online": "2026-10-18",
    "username": "honzovy-sachy"
   },
   "honzovy-sachy-2": {
    "first_seen": "2026-09-27",
-   "last_online": "2026-10-13",
+   "last_online": "2026-10-18",
    "username": "honzovy-sachy-2"
   },
   "hummus-bot": {
@@ -2217,7 +2217,7 @@
   },
   "motor-0": {
    "first_seen": "2026-09-27",
-   "last_online": "2026-10-13",
+   "last_online": "2026-10-18",
    "username": "Motor-0"
   },
   "mr_sandbar": {
@@ -2307,7 +2307,7 @@
   },
   "newtsbot": {
    "first_seen": "2026-09-27",
-   "last_online": "2026-10-17",
+   "last_online": "2026-10-18",
    "username": "NEWTSbot"
   },
   "nexastrat": {
@@ -2517,7 +2517,7 @@
   },
   "phalanx-xxv": {
    "first_seen": "2026-09-27",
-   "last_online": "2026-10-13",
+   "last_online": "2026-10-18",
    "username": "Phalanx-XXV"
   },
   "philidor-142m": {
@@ -2627,12 +2627,12 @@
   },
   "pseudo-0": {
    "first_seen": "2026-09-27",
-   "last_online": "2026-10-13",
+   "last_online": "2026-10-18",
    "username": "Pseudo-0"
   },
   "pseudo-1": {
    "first_seen": "2026-09-27",
-   "last_online": "2026-10-13",
+   "last_online": "2026-10-18",
    "username": "Pseudo-1"
   },
   "puisne": {
@@ -2667,7 +2667,7 @@
   },
   "rachl1": {
    "first_seen": "2026-10-06",
-   "last_online": "2026-10-16",
+   "last_online": "2026-10-18",
    "username": "rachl1"
   },
   "racingkingsbot_1": {
@@ -3117,7 +3117,7 @@
   },
   "soulgar": {
    "first_seen": "2026-09-28",
-   "last_online": "2026-10-16",
+   "last_online": "2026-10-18",
    "username": "soulgar"
   },
   "southbot": {
@@ -3777,7 +3777,7 @@
   }
  },
  "online": {
-  "checked_at": "2026-10-18T11:43:09Z",
+  "checked_at": "2026-10-18T12:43:09Z",
   "ids": [
    "aaronsengine",
    "abcd_engine",
@@ -3843,14 +3843,16 @@
    "cannotcheckmateme",
    "carechess-bot",
    "casanchess-nnue",
-   "catastrophic-bot",
    "catnail",
    "catriever",
    "chamberiajedrez",
    "charibot",
+   "cheng-4",
+   "cheng-4-nn",
    "chess_know",
    "chess_set_manager",
    "chessblight",
+   "chesschildren",
    "chessiverse_ethan",
    "chessiverse_luc",
    "chessiverse_pawnza",
@@ -3860,7 +3862,6 @@
    "cheszter",
    "chill4ce",
    "chronicgambler",
-   "chrusty",
    "cinder-bot",
    "classic_bot-v2",
    "classical-leela",
@@ -3870,6 +3871,7 @@
    "confidencebuilder",
    "cookiebot711",
    "cosettebot",
+   "craftstockfish",
    "craftyuci",
    "croco_bot",
    "croco_little_bot",
@@ -3887,9 +3889,11 @@
    "deepbecky",
    "deepsquare-ai",
    "demen100ns-bot",
+   "demolito_l1",
    "demolito_l2",
-   "demolito_l5",
-   "dfy-bot",
+   "demolito_l3",
+   "demolito_l4",
+   "demolito_l6",
    "drawfish-reborn",
    "drewschessmachine",
    "duchessai",
@@ -3926,10 +3930,13 @@
    "gryndor",
    "guitarfish-engine",
    "halcyonbot",
+   "hardrok",
    "heavennear",
    "hiusbot",
    "hodgeybot",
    "holidaybot1225",
+   "honzovy-sachy",
+   "honzovy-sachy-2",
    "hummus-bot",
    "hustler_1mb",
    "hustler_2mb",
@@ -4021,14 +4028,15 @@
    "mochi_bot",
    "morabandbot",
    "mostlyhuman1900",
+   "motor-0",
    "mrtonnerre",
    "musashi-thebot",
-   "mxnet-gamemaster",
    "mychessjava",
    "nanozeroorg",
    "neryba",
    "neurosocute",
    "newchessengine-ai",
+   "newtsbot",
    "nexastrat",
    "nexosdefos",
    "nice_bot",
@@ -4056,14 +4064,18 @@
    "peacemaker-0_0",
    "peachfruit",
    "perl-gigachess",
+   "phalanx-xxv",
    "pi0w",
    "pifish",
    "piglet_engine",
    "playmarius",
    "prokopakop",
    "pruningbot",
+   "pseudo-0",
+   "pseudo-1",
    "puisne",
    "pzchessbot",
+   "rachl1",
    "racingkingsbot_1",
    "radianceengine",
    "raspfish",
@@ -4077,13 +4089,10 @@
    "renegadeengine",
    "resolutebot",
    "ribfish-bot",
-   "romanticbot",
-   "romanticbot2",
    "rudim-bot",
    "rust-in-pieces",
    "rustbot2003",
    "rustyrival",
-   "saisrankarthik_7",
    "sargon-1ply",
    "sargon-2ply",
    "sargon-3ply",
@@ -4105,7 +4114,9 @@
    "slate-engine",
    "sleepmindengine",
    "slowmate_bot",
+   "snaky-bot",
    "snapleelaeasy",
+   "soulgar",
    "southbot",
    "springerbot",
    "squarefish-900",
@@ -4172,6 +4183,7 @@
    "vortexaurafarm",
    "waldemar-the-elf",
    "weiawaga",
+   "weledar-bot",
    "wolfuhfuhbot",
    "worst-ai",
    "worstfish",
