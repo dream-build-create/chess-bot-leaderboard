@@ -1037,7 +1037,7 @@
   },
   "dfy-bot": {
    "first_seen": "2026-10-18",
-   "last_online": "2026-10-18",
+   "last_online": "2026-10-19",
    "username": "Dfy-Bot"
   },
   "dgtrychess": {
@@ -1302,7 +1302,7 @@
   },
   "georgii_ai": {
    "first_seen": "2026-09-28",
-   "last_online": "2026-10-18",
+   "last_online": "2026-10-19",
    "username": "georgii_ai"
   },
   "geotsibot": {
@@ -1565,6 +1565,11 @@
    "last_online": "2026-10-19",
    "username": "jaingalt-bot"
   },
+  "jakgro": {
+   "first_seen": "2026-10-19",
+   "last_online": "2026-10-19",
+   "username": "jakgro"
+  },
   "jangine": {
    "first_seen": "2026-09-27",
    "last_online": "2026-10-19",
@@ -1797,7 +1802,7 @@
   },
   "leelachesstest": {
    "first_seen": "2026-09-30",
-   "last_online": "2026-10-18",
+   "last_online": "2026-10-19",
    "username": "LeelaChessTest"
   },
   "leelajester": {
@@ -3792,9 +3797,8 @@
   }
  },
  "online": {
-  "checked_at": "2026-10-19T06:43:08Z",
+  "checked_at": "2026-10-19T07:28:00Z",
   "ids": [
-   "aathena101",
    "abdcebot",
    "aconcaguabot",
    "aetherbot",
@@ -3828,6 +3832,7 @@
    "bernstein-2ply",
    "bernstein-4ply",
    "bfiedler-bot",
+   "bitbitbot",
    "bluemoonbot",
    "blujay-bot",
    "bongaclang",
@@ -3888,6 +3893,7 @@
    "deepbecky",
    "deepsquare-ai",
    "demen100ns-bot",
+   "dfy-bot",
    "drawfish-reborn",
    "drewschessmachine",
    "duchessai",
@@ -3914,6 +3920,7 @@
    "fschess-engine",
    "funcomp",
    "garbobot",
+   "georgii_ai",
    "geotsibot",
    "gnu4u",
    "goldfish-engine",
@@ -3942,6 +3949,7 @@
    "iskelt-corax",
    "jacobsbot",
    "jaingalt-bot",
+   "jakgro",
    "jangine",
    "jesterchessrobot",
    "jibbby",
@@ -3965,6 +3973,7 @@
    "larryz-alterego",
    "laura-bot",
    "leelaalien",
+   "leelachesstest",
    "leelajester",
    "leelaknightodds",
    "leelamultiposs",
@@ -4007,7 +4016,6 @@
    "mate-in-twenty",
    "mate1-bot",
    "matmoi",
-   "matthewcarven",
    "mayflyengine",
    "mcdonalds1955",
    "mega-noob-bot",
@@ -4024,7 +4032,6 @@
    "musashi-thebot",
    "mychessjava",
    "nanozeroorg",
-   "neryba",
    "neurosocute",
    "newchessengine-ai",
    "nexastrat",
@@ -4064,6 +4071,7 @@
    "puisne",
    "pzchessbot",
    "queensgambot",
+   "racingkingsbot_1",
    "radianceengine",
    "raspfish",
    "ratkingbot",
