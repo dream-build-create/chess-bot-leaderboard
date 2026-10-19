@@ -250,6 +250,11 @@
    "last_online": "2026-10-16",
    "username": "baby_eubos"
   },
+  "ballin-bot": {
+   "first_seen": "2026-10-19",
+   "last_online": "2026-10-19",
+   "username": "Ballin-bot"
+  },
   "bamsensbadchessbot": {
    "first_seen": "2026-10-09",
    "last_online": "2026-10-09",
@@ -742,7 +747,7 @@
   },
   "chesstango_bot": {
    "first_seen": "2026-10-10",
-   "last_online": "2026-10-18",
+   "last_online": "2026-10-19",
    "username": "chesstango_bot"
   },
   "chesstransformerbot": {
@@ -2912,7 +2917,7 @@
   },
   "sara_bot1": {
    "first_seen": "2026-10-15",
-   "last_online": "2026-10-18",
+   "last_online": "2026-10-19",
    "username": "Sara_bot1"
   },
   "sargon-1ply": {
@@ -3807,9 +3812,10 @@
   }
  },
  "online": {
-  "checked_at": "2026-10-19T13:22:40Z",
+  "checked_at": "2026-10-19T13:43:11Z",
   "ids": [
    "aaronsengine",
+   "aathena101",
    "abdcebot",
    "aconcaguabot",
    "aetherbot",
@@ -3837,6 +3843,7 @@
    "ashnostromo",
    "atari-video-chess",
    "axiom_bot",
+   "ballin-bot",
    "banerot",
    "batyarapro",
    "bbc_bot",
@@ -3881,6 +3888,7 @@
    "chessiverse_luc",
    "chessiverse_pawnza",
    "chessiverse_raak",
+   "chesstango_bot",
    "chesstransformerbot",
    "cheszter",
    "chill4ce",
@@ -3917,6 +3925,7 @@
    "demolito_l5",
    "demolito_l6",
    "dfy-bot",
+   "drawfish-reborn",
    "drewschessmachine",
    "duchessai",
    "dumbotai",
@@ -3944,6 +3953,7 @@
    "funcomp",
    "garbobot",
    "geotsibot",
+   "ghidorah_x",
    "gnu4u",
    "goldfish-engine",
    "goopis",
@@ -3990,6 +4000,7 @@
    "kingzbot",
    "kirinchessbot",
    "kopyto_dev",
+   "kruguer_engine",
    "kulubot",
    "lamprook",
    "lantern_bot",
@@ -4047,7 +4058,6 @@
    "minibruteforcebot",
    "minopponentmoves",
    "mithandros",
-   "mochi_bot",
    "morabandbot",
    "mostlyhuman1900",
    "mrtonnerre",
@@ -4069,7 +4079,6 @@
    "noabot",
    "noel-bot",
    "o-rei-cx",
-   "openinggenie2000",
    "overfitted",
    "oxide-eg",
    "oxybullet",
@@ -4112,6 +4121,7 @@
    "rustbot2003",
    "rustyrival",
    "saisrankarthik_7",
+   "sara_bot1",
    "sargon-1ply",
    "sargon-2ply",
    "sargon-3ply",
@@ -4133,6 +4143,7 @@
    "slate-engine",
    "sleepmindengine",
    "slowmate_bot",
+   "snaky-bot",
    "snapleelaeasy",
    "solobot",
    "southbot",
@@ -4202,7 +4213,6 @@
    "vortexaurafarm",
    "waldemar-the-elf",
    "weiawaga",
-   "weledar-bot",
    "wolfuhfuhbot",
    "worst-ai",
    "worstfish",
