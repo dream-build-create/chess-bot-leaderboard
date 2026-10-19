@@ -1752,7 +1752,7 @@
   },
   "lantern_bot": {
    "first_seen": "2026-10-15",
-   "last_online": "2026-10-18",
+   "last_online": "2026-10-19",
    "username": "Lantern_BOT"
   },
   "larryz-alterego": {
@@ -1812,7 +1812,7 @@
   },
   "leelamultiposs": {
    "first_seen": "2026-10-08",
-   "last_online": "2026-10-17",
+   "last_online": "2026-10-19",
    "username": "LeelaMultiPoss"
   },
   "leelapieceodds": {
@@ -2242,7 +2242,7 @@
   },
   "musashi-thebot": {
    "first_seen": "2026-09-28",
-   "last_online": "2026-10-18",
+   "last_online": "2026-10-19",
    "username": "Musashi-thebot"
   },
   "mxnet-gamemaster": {
@@ -2352,7 +2352,7 @@
   },
   "nightfall_dev": {
    "first_seen": "2026-10-05",
-   "last_online": "2026-10-06",
+   "last_online": "2026-10-19",
    "username": "Nightfall_Dev"
   },
   "nightruin": {
@@ -3792,7 +3792,7 @@
   }
  },
  "online": {
-  "checked_at": "2026-10-19T04:43:08Z",
+  "checked_at": "2026-10-19T05:43:08Z",
   "ids": [
    "abdcebot",
    "aconcaguabot",
@@ -3812,7 +3812,6 @@
    "anti-bot",
    "antibotv3-7",
    "aposeij",
-   "approximationbot",
    "arabicahce",
    "ariadne-bot",
    "arkiplayschess",
@@ -3832,7 +3831,6 @@
    "bluemoonbot",
    "blujay-bot",
    "bongaclang",
-   "boris-trapsky",
    "bot1e",
    "bot1nokk",
    "bot5551",
@@ -3873,7 +3871,6 @@
    "colinbot",
    "confidencebuilder",
    "cookiebot711",
-   "cosettebot",
    "craftyuci",
    "croco_bot",
    "croco_little_bot",
@@ -3892,11 +3889,12 @@
    "deepsquare-ai",
    "demen100ns-bot",
    "demolito_l3",
-   "demolito_l4",
+   "demolito_l6",
    "drawfish-reborn",
    "drewschessmachine",
    "duchessai",
    "dumbotai",
+   "edwardkillick",
    "eigenmann-chess",
    "elachessbot",
    "elexunix_chess_bot",
@@ -3913,7 +3911,6 @@
    "fetacompli",
    "flounderbot",
    "flybrainchess",
-   "fourcuriouspandas",
    "fpga-chess",
    "fschess-engine",
    "funcomp",
@@ -3941,7 +3938,6 @@
    "icarus-bot",
    "ilcorvochess",
    "ilovecatgirl",
-   "inanisbot",
    "incipit_bot",
    "is_boss",
    "iskelt-corax",
@@ -3966,11 +3962,13 @@
    "kruguer_engine",
    "kulubot",
    "lamprook",
+   "lantern_bot",
    "larryz-alterego",
    "laura-bot",
    "leelaalien",
    "leelajester",
    "leelaknightodds",
+   "leelamultiposs",
    "leelapieceodds",
    "leelaqueenforknight",
    "leelaqueenodds",
@@ -4024,6 +4022,7 @@
    "morabandbot",
    "mostlyhuman1900",
    "mrtonnerre",
+   "musashi-thebot",
    "mychessjava",
    "nanozeroorg",
    "neryba",
@@ -4033,6 +4032,7 @@
    "nexosdefos",
    "nice_bot",
    "nickdrohan",
+   "nightfall_dev",
    "nilatacbot",
    "nittedal",
    "nnueandthevoices",
@@ -4088,7 +4088,6 @@
    "sargon-4ply",
    "sbnovella",
    "scalaqueen",
-   "schnecken_bot",
    "scipio-bot",
    "seedchess",
    "seitogakatsu",
@@ -4113,6 +4112,7 @@
    "stepbot_chess",
    "stickshark99",
    "stockcotsfish",
+   "stockdory",
    "stockfail",
    "stockfishlowdepth",
    "stockpapagei",
