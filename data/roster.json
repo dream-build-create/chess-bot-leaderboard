@@ -422,7 +422,7 @@
   },
   "bot-o-tron": {
    "first_seen": "2026-09-28",
-   "last_online": "2026-10-18",
+   "last_online": "2026-10-19",
    "username": "bot-o-tron"
   },
   "bot1e": {
@@ -1417,7 +1417,7 @@
   },
   "hashcake1": {
    "first_seen": "2026-09-30",
-   "last_online": "2026-10-16",
+   "last_online": "2026-10-19",
    "username": "hashcake1"
   },
   "havenear": {
@@ -2782,7 +2782,7 @@
   },
   "reaper1bot": {
    "first_seen": "2026-10-10",
-   "last_online": "2026-10-16",
+   "last_online": "2026-10-19",
    "username": "reaper1bot"
   },
   "redbeantree": {
@@ -3682,7 +3682,7 @@
   },
   "walpurti": {
    "first_seen": "2026-09-27",
-   "last_online": "2026-10-14",
+   "last_online": "2026-10-19",
    "username": "walpurti"
   },
   "wannalearnbot": {
@@ -3817,9 +3817,8 @@
   }
  },
  "online": {
-  "checked_at": "2026-10-19T19:43:10Z",
+  "checked_at": "2026-10-19T20:43:10Z",
   "ids": [
-   "aaronsengine",
    "abdcebot",
    "aconcaguabot",
    "aetherbot",
@@ -3860,17 +3859,20 @@
    "bongaclang",
    "bonyabot",
    "borkatower",
+   "bot-o-tron",
    "bot1e",
    "bot1nokk",
    "bot5551",
    "bot64jaques",
    "bot_adario",
+   "botkingteam33",
    "bottios",
    "bretemabot",
    "brybrybot",
    "bubblebot2",
    "byte-knight",
    "c-t-r-l",
+   "c0kval",
    "caiporabot",
    "cannotcheckmateme",
    "casanchess-nnue",
@@ -3879,6 +3881,7 @@
    "charibot",
    "cheesestar",
    "chess_know",
+   "chess_set_manager",
    "chessiverse_ethan",
    "chessiverse_luc",
    "chessiverse_pawnza",
@@ -3924,6 +3927,7 @@
    "dumbotai",
    "edwardkillick",
    "eigenmann-chess",
+   "elachessbot",
    "elexunix_chess_bot",
    "ellen_replay",
    "elmichess",
@@ -3954,10 +3958,12 @@
    "goopis",
    "grail-bot",
    "grindfish",
+   "groshboss",
    "gryndor",
    "hackerchessbot",
    "halcyonbot",
    "hardrok",
+   "hashcake1",
    "heavennear",
    "hiusbot",
    "hodgeybot",
@@ -4072,6 +4078,7 @@
    "onezenpanda",
    "overfitted",
    "oxide-eg",
+   "oxybullet",
    "oxydanbot",
    "pangubot",
    "panic-fish",
@@ -4103,10 +4110,12 @@
    "raven030",
    "ravenengine",
    "rdtchessbot",
+   "reaper1bot",
    "redbeantree",
    "renegadeengine",
    "resolutebot",
    "ribfish-bot",
+   "rodent-iv",
    "rudim-bot",
    "rust-in-pieces",
    "rustbot2003",
@@ -4126,7 +4135,6 @@
    "sim3million",
    "simbelmyne-bot",
    "simple-bot",
-   "simpleeval",
    "sj_norbot",
    "slate-engine",
    "sleepmindengine",
@@ -4154,6 +4162,7 @@
    "sybaibot",
    "sybbot",
    "sykorabot",
+   "takticprochess",
    "tallikebot",
    "talosbot",
    "teensycheesy",
@@ -4196,6 +4205,7 @@
    "vietnamesecoffee",
    "vortexaurafarm",
    "waldemar-the-elf",
+   "walpurti",
    "weiawaga",
    "weledar-bot",
    "wolfuhfuhbot",
