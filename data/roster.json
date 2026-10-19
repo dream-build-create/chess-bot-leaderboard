@@ -72,7 +72,7 @@
   },
   "aivean": {
    "first_seen": "2026-10-15",
-   "last_online": "2026-10-18",
+   "last_online": "2026-10-19",
    "username": "aivean"
   },
   "ajedrezchamberi": {
@@ -472,7 +472,7 @@
   },
   "botkingteam33": {
    "first_seen": "2026-10-11",
-   "last_online": "2026-10-18",
+   "last_online": "2026-10-19",
    "username": "Botkingteam33"
   },
   "bottios": {
@@ -602,7 +602,7 @@
   },
   "ceraf": {
    "first_seen": "2026-10-01",
-   "last_online": "2026-10-18",
+   "last_online": "2026-10-19",
    "username": "CERAF"
   },
   "chamberiajedrez": {
@@ -1532,7 +1532,7 @@
   },
   "iran_f72": {
    "first_seen": "2026-10-11",
-   "last_online": "2026-10-11",
+   "last_online": "2026-10-19",
    "username": "IRAN_F72"
   },
   "is_boss": {
@@ -2264,6 +2264,11 @@
    "first_seen": "2026-09-27",
    "last_online": "2026-10-19",
    "username": "myChessJava"
+  },
+  "n1742bot": {
+   "first_seen": "2026-10-19",
+   "last_online": "2026-10-19",
+   "username": "N1742Bot"
   },
   "nanozeroorg": {
    "first_seen": "2026-09-27",
@@ -3752,7 +3757,7 @@
   },
   "xxx_another_xxx": {
    "first_seen": "2026-10-17",
-   "last_online": "2026-10-17",
+   "last_online": "2026-10-19",
    "username": "XXX_Another_XXX"
   },
   "yesbot": {
@@ -3802,7 +3807,7 @@
   }
  },
  "online": {
-  "checked_at": "2026-10-19T12:43:10Z",
+  "checked_at": "2026-10-19T13:22:40Z",
   "ids": [
    "aaronsengine",
    "abdcebot",
@@ -3812,6 +3817,7 @@
    "aggressivestockfish",
    "ai-con",
    "ailedbot",
+   "aivean",
    "ajedrezchamberi",
    "alarm2001",
    "alexandrya",
@@ -3832,6 +3838,7 @@
    "atari-video-chess",
    "axiom_bot",
    "banerot",
+   "batyarapro",
    "bbc_bot",
    "becela9_kpebetka",
    "berkbot",
@@ -3851,6 +3858,7 @@
    "bot64jaques",
    "bot913",
    "bot_adario",
+   "botkingteam33",
    "bottios",
    "bretemabot",
    "brybrybot",
@@ -3860,10 +3868,10 @@
    "c-t-r-l",
    "c0kval",
    "caiporabot",
-   "caissa-x",
    "cannotcheckmateme",
    "casanchess-nnue",
    "catnail",
+   "ceraf",
    "chamberiajedrez",
    "charibot",
    "chess_know",
@@ -3876,7 +3884,9 @@
    "chesstransformerbot",
    "cheszter",
    "chill4ce",
+   "chronicgambler",
    "cinder-bot",
+   "classic_bot-v2",
    "classical-leela",
    "clrsrc_lc0",
    "coda_bot",
@@ -3907,7 +3917,6 @@
    "demolito_l5",
    "demolito_l6",
    "dfy-bot",
-   "drawfish-reborn",
    "drewschessmachine",
    "duchessai",
    "dumbotai",
@@ -3942,7 +3951,6 @@
    "grindfish",
    "groshboss",
    "gryndor",
-   "grzechu86",
    "hackerchessbot",
    "halcyonbot",
    "hardrok",
@@ -3960,6 +3968,7 @@
    "ilcorvochess",
    "ilovecatgirl",
    "incipit_bot",
+   "iran_f72",
    "is_boss",
    "iskelt-corax",
    "jacobsbot",
@@ -3983,6 +3992,7 @@
    "kopyto_dev",
    "kulubot",
    "lamprook",
+   "lantern_bot",
    "larryz-alterego",
    "laura-bot",
    "leelaalien",
@@ -4043,11 +4053,13 @@
    "mrtonnerre",
    "musashi-thebot",
    "mychessjava",
+   "n1742bot",
    "nanozeroorg",
    "neryba",
    "neurosocute",
    "newchessengine-ai",
    "nexastrat",
+   "nexosdefos",
    "nibbleknight",
    "nice_bot",
    "nickdrohan",
@@ -4098,6 +4110,7 @@
    "rudim-bot",
    "rust-in-pieces",
    "rustbot2003",
+   "rustyrival",
    "saisrankarthik_7",
    "sargon-1ply",
    "sargon-2ply",
@@ -4120,7 +4133,6 @@
    "slate-engine",
    "sleepmindengine",
    "slowmate_bot",
-   "snaky-bot",
    "snapleelaeasy",
    "solobot",
    "southbot",
@@ -4194,6 +4206,7 @@
    "wolfuhfuhbot",
    "worst-ai",
    "worstfish",
+   "xxx_another_xxx",
    "z-o_aspenlabs",
    "zion-bot"
   ]
