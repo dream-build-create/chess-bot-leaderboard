@@ -7,7 +7,7 @@
   },
   "aathena101": {
    "first_seen": "2026-10-16",
-   "last_online": "2026-10-18",
+   "last_online": "2026-10-19",
    "username": "AAthena101"
   },
   "aatk_vanguardx": {
@@ -162,7 +162,7 @@
   },
   "approximationbot": {
    "first_seen": "2026-09-27",
-   "last_online": "2026-10-18",
+   "last_online": "2026-10-19",
    "username": "ApproximationBot"
   },
   "arabicahce": {
@@ -1022,7 +1022,7 @@
   },
   "demolito_l4": {
    "first_seen": "2026-09-27",
-   "last_online": "2026-10-18",
+   "last_online": "2026-10-19",
    "username": "Demolito_L4"
   },
   "demolito_l5": {
@@ -1162,7 +1162,7 @@
   },
   "epimetheusbot": {
    "first_seen": "2026-09-28",
-   "last_online": "2026-10-18",
+   "last_online": "2026-10-19",
    "username": "EpimetheusBot"
   },
   "epoch512": {
@@ -2667,7 +2667,7 @@
   },
   "queensgambot": {
    "first_seen": "2026-09-27",
-   "last_online": "2026-10-18",
+   "last_online": "2026-10-19",
    "username": "QueensGamBOT"
   },
   "r0bspierre": {
@@ -3362,7 +3362,7 @@
   },
   "thegrobbot": {
    "first_seen": "2026-10-12",
-   "last_online": "2026-10-18",
+   "last_online": "2026-10-19",
    "username": "TheGrobBot"
   },
   "thelokbott": {
@@ -3612,7 +3612,7 @@
   },
   "violentstockfish": {
    "first_seen": "2026-09-28",
-   "last_online": "2026-10-18",
+   "last_online": "2026-10-19",
    "username": "ViolentStockfish"
   },
   "virutor": {
@@ -3792,8 +3792,9 @@
   }
  },
  "online": {
-  "checked_at": "2026-10-19T00:43:09Z",
+  "checked_at": "2026-10-19T01:15:37Z",
   "ids": [
+   "aathena101",
    "abdcebot",
    "aconcaguabot",
    "aetherbot",
@@ -3812,6 +3813,7 @@
    "anti-bot",
    "antibotv3-7",
    "aposeij",
+   "approximationbot",
    "arabicahce",
    "ariadne-bot",
    "arkiplayschess",
@@ -3894,9 +3896,8 @@
    "deepbecky",
    "deepsquare-ai",
    "demen100ns-bot",
-   "demolito_l1",
    "demolito_l3",
-   "demolito_l5",
+   "demolito_l4",
    "demolito_l6",
    "drawfish-reborn",
    "drewschessmachine",
@@ -3910,6 +3911,7 @@
    "elmichess",
    "endspiel-pi",
    "entebot",
+   "epimetheusbot",
    "eubos",
    "falconengine",
    "fataliibot",
@@ -4009,7 +4011,6 @@
    "maia3-79m_2600",
    "maia3-79m_600",
    "maia3-79m_800",
-   "maia5",
    "maia9",
    "maia960-1600",
    "maia960-1900",
@@ -4077,6 +4078,7 @@
    "pseudo-1",
    "puisne",
    "pzchessbot",
+   "queensgambot",
    "radianceengine",
    "raspfish",
    "ratkingbot",
@@ -4145,6 +4147,7 @@
    "tempocore",
    "terconari",
    "thechessblazer",
+   "thegrobbot",
    "thunfisch-bot",
    "tikifish",
    "tilapiabot",
@@ -4180,6 +4183,7 @@
    "vidbot",
    "viet-ai",
    "vietnamesecoffee",
+   "violentstockfish",
    "virutor",
    "void_bot",
    "vortexaurafarm",
