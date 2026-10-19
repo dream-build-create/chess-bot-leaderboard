@@ -272,7 +272,7 @@
   },
   "battlebornthe2nd": {
    "first_seen": "2026-09-28",
-   "last_online": "2026-10-16",
+   "last_online": "2026-10-19",
    "username": "BattleBornThe2nd"
   },
   "battlebornthe3rd": {
@@ -1072,7 +1072,7 @@
   },
   "dragoodle": {
    "first_seen": "2026-09-30",
-   "last_online": "2026-10-17",
+   "last_online": "2026-10-19",
    "username": "dragoodle"
   },
   "drawfish-reborn": {
@@ -1347,7 +1347,7 @@
   },
   "goldinho1bot": {
    "first_seen": "2026-09-29",
-   "last_online": "2026-10-17",
+   "last_online": "2026-10-19",
    "username": "goldinho1bot"
   },
   "goopis": {
@@ -1757,7 +1757,7 @@
   },
   "lancelbot": {
    "first_seen": "2026-10-10",
-   "last_online": "2026-10-16",
+   "last_online": "2026-10-19",
    "username": "Lancelbot"
   },
   "lantern_bot": {
@@ -2112,7 +2112,7 @@
   },
   "matemakingmachine": {
    "first_seen": "2026-09-29",
-   "last_online": "2026-10-17",
+   "last_online": "2026-10-19",
    "username": "MateMakingMachine"
   },
   "matmoi": {
@@ -2812,7 +2812,7 @@
   },
   "robert_is_bot": {
    "first_seen": "2026-10-17",
-   "last_online": "2026-10-18",
+   "last_online": "2026-10-19",
    "username": "Robert_is_Bot"
   },
   "robotjfischer": {
@@ -2918,7 +2918,7 @@
   "sara_bot1": {
    "first_seen": "2026-10-15",
    "last_online": "2026-10-19",
-   "username": "Sara_bot1"
+   "username": "sAra_bot1"
   },
   "sargon-1ply": {
    "first_seen": "2026-09-27",
@@ -3117,7 +3117,7 @@
   },
   "solidor59": {
    "first_seen": "2026-09-29",
-   "last_online": "2026-10-18",
+   "last_online": "2026-10-19",
    "username": "SOLIDOR59"
   },
   "solobot": {
@@ -3172,7 +3172,7 @@
   },
   "spyros1bot": {
    "first_seen": "2026-09-28",
-   "last_online": "2026-10-16",
+   "last_online": "2026-10-19",
    "username": "spyros1bot"
   },
   "squarefish-900": {
@@ -3812,7 +3812,7 @@
   }
  },
  "online": {
-  "checked_at": "2026-10-19T14:43:09Z",
+  "checked_at": "2026-10-19T15:51:26Z",
   "ids": [
    "aaronsengine",
    "aathena101",
@@ -3843,6 +3843,7 @@
    "atari-video-chess",
    "axiom_bot",
    "banerot",
+   "battlebornthe2nd",
    "batyarapro",
    "bbc_bot",
    "becela9_kpebetka",
@@ -3851,7 +3852,6 @@
    "bernstein-4ply",
    "bfiedler-bot",
    "bitbitbot",
-   "black-bishop-kh",
    "bluemoonbot",
    "blujay-bot",
    "bobby_pcolla",
@@ -3861,7 +3861,6 @@
    "bot1nokk",
    "bot5551",
    "bot64jaques",
-   "bot913",
    "bot_adario",
    "botkingteam33",
    "bottios",
@@ -3870,18 +3869,15 @@
    "bubblebot2",
    "byte-knight",
    "bytefish",
-   "c-t-r-l",
    "c0kval",
    "caiporabot",
    "cannotcheckmateme",
    "casanchess-nnue",
    "catnail",
-   "ceraf",
    "chamberiajedrez",
    "charibot",
    "chess_know",
    "chess_set_manager",
-   "chessblight",
    "chessiverse_ethan",
    "chessiverse_luc",
    "chessiverse_pawnza",
@@ -3922,6 +3918,7 @@
    "demolito_l4",
    "demolito_l5",
    "demolito_l6",
+   "dragoodle",
    "drawfish-reborn",
    "drewschessmachine",
    "duchessai",
@@ -3943,17 +3940,17 @@
    "felipe_bot_53",
    "fenrirbot",
    "fetacompli",
-   "fighting2543",
    "flounderbot",
    "flybrainchess",
-   "friesai",
    "fschess-engine",
    "funcomp",
    "gambitonlybot",
    "garbobot",
    "geotsibot",
+   "ghidorah_x",
    "gnu4u",
    "goldfish-engine",
+   "goldinho1bot",
    "goopis",
    "grail-bot",
    "grindfish",
@@ -4000,7 +3997,7 @@
    "kopyto_dev",
    "kulubot",
    "lamprook",
-   "lantern_bot",
+   "lancelbot",
    "larryz-alterego",
    "laura-bot",
    "leelaalien",
@@ -4045,9 +4042,9 @@
    "mate-in-thirty",
    "mate-in-twenty",
    "mate1-bot",
+   "matemakingmachine",
    "matmoi",
    "mayflyengine",
-   "mcdonalds1955",
    "mega-noob-bot",
    "melsh_bot",
    "mimirbot",
@@ -4095,13 +4092,11 @@
    "perl-gigachess",
    "pi0w",
    "piglet_engine",
-   "playmarius",
    "prokopakop",
    "prosperobot",
    "pruningbot",
    "puisne",
    "pzchessbot",
-   "racingkingsbot_1",
    "radianceengine",
    "raspfish",
    "ratkingbot",
@@ -4114,10 +4109,12 @@
    "renegadeengine",
    "resolutebot",
    "ribfish-bot",
+   "robert_is_bot",
    "rudim-bot",
    "rust-in-pieces",
    "rustbot2003",
    "rustyrival",
+   "sara_bot1",
    "sargon-1ply",
    "sargon-2ply",
    "sargon-3ply",
@@ -4141,9 +4138,11 @@
    "slowmate_bot",
    "snaky-bot",
    "snapleelaeasy",
+   "solidor59",
    "solobot",
    "southbot",
    "springerbot",
+   "spyros1bot",
    "squarefish-900",
    "sseh-c",
    "stepbot_chess",
@@ -4209,6 +4208,7 @@
    "vortexaurafarm",
    "waldemar-the-elf",
    "weiawaga",
+   "weledar-bot",
    "wolfuhfuhbot",
    "worst-ai",
    "worstfish",
