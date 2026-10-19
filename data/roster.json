@@ -747,7 +747,7 @@
   },
   "chesstransformerbot": {
    "first_seen": "2026-10-08",
-   "last_online": "2026-10-18",
+   "last_online": "2026-10-19",
    "username": "ChessTransformerBot"
   },
   "cheszter": {
@@ -972,7 +972,7 @@
   },
   "darkpinechessbot": {
    "first_seen": "2026-10-16",
-   "last_online": "2026-10-16",
+   "last_online": "2026-10-19",
    "username": "DarkpineChessBot"
   },
   "dassi-ai": {
@@ -1172,7 +1172,7 @@
   },
   "erebusbot": {
    "first_seen": "2026-10-18",
-   "last_online": "2026-10-18",
+   "last_online": "2026-10-19",
    "username": "ErebusBot"
   },
   "escarbo": {
@@ -3792,8 +3792,9 @@
   }
  },
  "online": {
-  "checked_at": "2026-10-19T05:43:08Z",
+  "checked_at": "2026-10-19T06:43:08Z",
   "ids": [
+   "aathena101",
    "abdcebot",
    "aconcaguabot",
    "aetherbot",
@@ -3827,7 +3828,6 @@
    "bernstein-2ply",
    "bernstein-4ply",
    "bfiedler-bot",
-   "bitbitbot",
    "bluemoonbot",
    "blujay-bot",
    "bongaclang",
@@ -3838,7 +3838,6 @@
    "bot913",
    "bot_adario",
    "bottios",
-   "bravobot",
    "bretemabot",
    "brybrybot",
    "bubblebot2",
@@ -3852,7 +3851,6 @@
    "catnail",
    "catriever",
    "charibot",
-   "chess3bot",
    "chess_know",
    "chess_set_manager",
    "chessblight",
@@ -3860,6 +3858,7 @@
    "chessiverse_luc",
    "chessiverse_pawnza",
    "chessiverse_raak",
+   "chesstransformerbot",
    "cheszter",
    "chill4ce",
    "chronicgambler",
@@ -3883,13 +3882,12 @@
    "dala-900",
    "darkelectronbot",
    "darkonweakbot",
+   "darkpinechessbot",
    "davidsguterbot",
    "debzero",
    "deepbecky",
    "deepsquare-ai",
    "demen100ns-bot",
-   "demolito_l3",
-   "demolito_l6",
    "drawfish-reborn",
    "drewschessmachine",
    "duchessai",
@@ -3902,6 +3900,7 @@
    "elmichess",
    "endspiel-pi",
    "entebot",
+   "erebusbot",
    "eubos",
    "falconengine",
    "fataliibot",
@@ -4065,7 +4064,6 @@
    "puisne",
    "pzchessbot",
    "queensgambot",
-   "racingkingsbot_1",
    "radianceengine",
    "raspfish",
    "ratkingbot",
@@ -4074,6 +4072,7 @@
    "raven030",
    "ravenengine",
    "rdtchessbot",
+   "redbeantree",
    "renegadeengine",
    "resolutebot",
    "ribfish-bot",
@@ -4173,7 +4172,6 @@
    "wolfuhfuhbot",
    "worst-ai",
    "worstfish",
-   "xewali",
    "z-o_aspenlabs",
    "zion-bot"
   ]
