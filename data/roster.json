@@ -1272,7 +1272,7 @@
   },
   "friesai": {
    "first_seen": "2026-10-18",
-   "last_online": "2026-10-18",
+   "last_online": "2026-10-19",
    "username": "FriesAI"
   },
   "fschess-engine": {
@@ -1287,7 +1287,7 @@
   },
   "gambitonlybot": {
    "first_seen": "2026-09-28",
-   "last_online": "2026-10-18",
+   "last_online": "2026-10-19",
    "username": "GambitOnlyBot"
   },
   "garbobot": {
@@ -3812,7 +3812,7 @@
   }
  },
  "online": {
-  "checked_at": "2026-10-19T13:43:11Z",
+  "checked_at": "2026-10-19T14:43:09Z",
   "ids": [
    "aaronsengine",
    "aathena101",
@@ -3833,7 +3833,6 @@
    "angela_eng",
    "anna-bot",
    "annie_archy",
-   "anti-bot",
    "antibotv3-7",
    "aposeij",
    "arabicahce",
@@ -3843,7 +3842,6 @@
    "ashnostromo",
    "atari-video-chess",
    "axiom_bot",
-   "ballin-bot",
    "banerot",
    "batyarapro",
    "bbc_bot",
@@ -3924,7 +3922,6 @@
    "demolito_l4",
    "demolito_l5",
    "demolito_l6",
-   "dfy-bot",
    "drawfish-reborn",
    "drewschessmachine",
    "duchessai",
@@ -3949,11 +3946,12 @@
    "fighting2543",
    "flounderbot",
    "flybrainchess",
+   "friesai",
    "fschess-engine",
    "funcomp",
+   "gambitonlybot",
    "garbobot",
    "geotsibot",
-   "ghidorah_x",
    "gnu4u",
    "goldfish-engine",
    "goopis",
@@ -4000,7 +3998,6 @@
    "kingzbot",
    "kirinchessbot",
    "kopyto_dev",
-   "kruguer_engine",
    "kulubot",
    "lamprook",
    "lantern_bot",
@@ -4058,6 +4055,7 @@
    "minibruteforcebot",
    "minopponentmoves",
    "mithandros",
+   "mochi_bot",
    "morabandbot",
    "mostlyhuman1900",
    "mrtonnerre",
@@ -4120,8 +4118,6 @@
    "rust-in-pieces",
    "rustbot2003",
    "rustyrival",
-   "saisrankarthik_7",
-   "sara_bot1",
    "sargon-1ply",
    "sargon-2ply",
    "sargon-3ply",
