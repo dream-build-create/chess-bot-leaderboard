@@ -497,7 +497,7 @@
   },
   "bravobot": {
    "first_seen": "2026-10-17",
-   "last_online": "2026-10-19",
+   "last_online": "2026-10-20",
    "username": "BravoBot"
   },
   "bretemabot": {
@@ -2582,7 +2582,7 @@
   },
   "piebot": {
    "first_seen": "2026-09-29",
-   "last_online": "2026-10-16",
+   "last_online": "2026-10-20",
    "username": "PieBot"
   },
   "pifish": {
@@ -3832,7 +3832,7 @@
   }
  },
  "online": {
-  "checked_at": "2026-10-20T04:43:10Z",
+  "checked_at": "2026-10-20T05:43:09Z",
   "ids": [
    "aathena101",
    "abcd_engine",
@@ -3881,6 +3881,7 @@
    "bot64jaques",
    "bot_adario",
    "bottios",
+   "bravobot",
    "bretemabot",
    "brybrybot",
    "bubblebot2",
@@ -4104,6 +4105,7 @@
    "peachfruit",
    "perl-gigachess",
    "pi0w",
+   "piebot",
    "piglet_engine",
    "playmarius",
    "plumboi",
@@ -4112,7 +4114,6 @@
    "pruningbot",
    "puisne",
    "pzchessbot",
-   "racingkingsbot_1",
    "radianceengine",
    "raspfish",
    "ratkingbot",
