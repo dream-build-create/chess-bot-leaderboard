@@ -552,7 +552,7 @@
   },
   "caissa-x": {
    "first_seen": "2026-09-29",
-   "last_online": "2026-10-19",
+   "last_online": "2026-10-20",
    "username": "caissa-x"
   },
   "calciumengine": {
@@ -752,7 +752,7 @@
   },
   "chesstransformerbot": {
    "first_seen": "2026-10-08",
-   "last_online": "2026-10-19",
+   "last_online": "2026-10-20",
    "username": "ChessTransformerBot"
   },
   "cheszter": {
@@ -2922,7 +2922,7 @@
   },
   "saisrankarthik_7": {
    "first_seen": "2026-10-07",
-   "last_online": "2026-10-19",
+   "last_online": "2026-10-20",
    "username": "SAISRANKARTHIK_7"
   },
   "sara32222": {
@@ -3832,14 +3832,13 @@
   }
  },
  "online": {
-  "checked_at": "2026-10-20T05:43:09Z",
+  "checked_at": "2026-10-20T06:43:09Z",
   "ids": [
    "aathena101",
    "abcd_engine",
    "abdcebot",
    "aconcaguabot",
    "aetherbot",
-   "agentc313",
    "aggressivestockfish",
    "ai-con",
    "ailedbot",
@@ -3875,6 +3874,7 @@
    "blujay-bot",
    "bobby_pcolla",
    "bongaclang",
+   "bonyabot",
    "bot1e",
    "bot1nokk",
    "bot5551",
@@ -3886,9 +3886,9 @@
    "brybrybot",
    "bubblebot2",
    "byte-knight",
-   "c-t-r-l",
    "c0kval",
    "caiporabot",
+   "caissa-x",
    "cannotcheckmateme",
    "carmin-bot",
    "casanchess-nnue",
@@ -3903,6 +3903,7 @@
    "chessiverse_pawnza",
    "chessiverse_raak",
    "chesstango_bot",
+   "chesstransformerbot",
    "cheszter",
    "chill4ce",
    "chronicgambler",
@@ -3910,7 +3911,6 @@
    "classic_bot-v2",
    "classical-leela",
    "clrsrc_lc0",
-   "coda_bot",
    "colinbot",
    "confidencebuilder",
    "cookiebot711",
@@ -3943,7 +3943,6 @@
    "edwardkillick",
    "eigenmann-chess",
    "elachessbot",
-   "elexunix_chess_bot",
    "ellen_replay",
    "elmichess",
    "endspiel-engine",
@@ -4022,7 +4021,6 @@
    "leelarogue",
    "leelarookodds",
    "leelatroll",
-   "leol-bot",
    "lepbot",
    "levymaia",
    "likeawizard-bot",
@@ -4058,7 +4056,6 @@
    "mate1-bot",
    "matmoi",
    "mayflyengine",
-   "mcdonalds1955",
    "mega-noob-bot",
    "melsh_bot",
    "mimirbot",
@@ -4085,7 +4082,6 @@
    "nittedal",
    "nnueandthevoices",
    "noabot",
-   "noel-bot",
    "o-rei-cx",
    "odonata-bot",
    "overfitted",
@@ -4131,6 +4127,7 @@
    "rust-in-pieces",
    "rustbot2003",
    "rustyrival",
+   "saisrankarthik_7",
    "sargon-1ply",
    "sargon-2ply",
    "sargon-3ply",
@@ -4199,7 +4196,6 @@
    "turk_gambit",
    "turkjs",
    "turochamp-1ply",
-   "uiagbot",
    "ultrabrick",
    "ursus_bot",
    "usunfish",
