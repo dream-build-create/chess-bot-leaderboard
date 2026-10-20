@@ -3097,7 +3097,7 @@
   },
   "sisyphus-engine": {
    "first_seen": "2026-10-12",
-   "last_online": "2026-10-19",
+   "last_online": "2026-10-20",
    "username": "Sisyphus-engine"
   },
   "sj_norbot": {
@@ -3122,7 +3122,7 @@
   },
   "slightknight_11": {
    "first_seen": "2026-09-28",
-   "last_online": "2026-10-02",
+   "last_online": "2026-10-20",
    "username": "SlightKnight_11"
   },
   "slothcomputer": {
@@ -3857,7 +3857,7 @@
   }
  },
  "online": {
-  "checked_at": "2026-10-20T18:43:10Z",
+  "checked_at": "2026-10-20T19:14:26Z",
   "ids": [
    "aaronsengine",
    "aathena101",
@@ -3905,7 +3905,6 @@
    "blujay-bot",
    "bongaclang",
    "bonyabot",
-   "borkatower",
    "bot1e",
    "bot1nokk",
    "bot5551",
@@ -3918,7 +3917,6 @@
    "brybrybot",
    "bubblebot2",
    "byte-knight",
-   "bytefish",
    "c-t-r-l",
    "c0kval",
    "caiporabot",
@@ -3929,6 +3927,7 @@
    "catriever",
    "charibot",
    "chess_know",
+   "chess_set_manager",
    "chessiverse_ethan",
    "chessiverse_luc",
    "chessiverse_pawnza",
@@ -3972,7 +3971,6 @@
    "drawfish-reborn",
    "duchessai",
    "dumbotai",
-   "edwardkillick",
    "eigenmann-chess",
    "elachessbot",
    "elephantgambitengine",
@@ -3993,7 +3991,6 @@
    "friesai",
    "fschess-engine",
    "funcomp",
-   "gambitonlybot",
    "garbobot",
    "geotsibot",
    "gnu4u",
@@ -4052,6 +4049,7 @@
    "leelarogue",
    "leelatroll",
    "leol-bot",
+   "lepbot",
    "levymaia",
    "likeawizard-bot",
    "lilitbot",
@@ -4062,7 +4060,6 @@
    "lunaenginechess",
    "lynx_bot",
    "mac-bot",
-   "magic11bot_coach",
    "maia1",
    "maia3-79m_1000",
    "maia3-79m_1200",
@@ -4141,6 +4138,7 @@
    "plumboi",
    "plumbot",
    "prokopakop",
+   "prosperobot",
    "puisne",
    "pzchessbot",
    "radianceengine",
@@ -4179,9 +4177,11 @@
    "simbelmyne-bot",
    "simple-bot",
    "simpleeval",
+   "sisyphus-engine",
    "sj_norbot",
    "slate-engine",
    "sleepmindengine",
+   "slightknight_11",
    "slowmate_bot",
    "southbot",
    "springerbot",
