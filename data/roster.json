@@ -7,7 +7,7 @@
   },
   "aathena101": {
    "first_seen": "2026-10-16",
-   "last_online": "2026-10-19",
+   "last_online": "2026-10-20",
    "username": "AAthena101"
   },
   "aatk_vanguardx": {
@@ -52,7 +52,7 @@
   },
   "agentc313": {
    "first_seen": "2026-09-30",
-   "last_online": "2026-10-19",
+   "last_online": "2026-10-20",
    "username": "agentc313"
   },
   "aggressivestockfish": {
@@ -362,7 +362,7 @@
   },
   "black-icebot": {
    "first_seen": "2026-10-16",
-   "last_online": "2026-10-19",
+   "last_online": "2026-10-20",
    "username": "BLACK-ICEbot"
   },
   "blackeventhorizon": {
@@ -397,7 +397,7 @@
   },
   "bobby_pcolla": {
    "first_seen": "2026-09-27",
-   "last_online": "2026-10-19",
+   "last_online": "2026-10-20",
    "username": "bobby_pcolla"
   },
   "bongaclang": {
@@ -407,7 +407,7 @@
   },
   "bonyabot": {
    "first_seen": "2026-10-17",
-   "last_online": "2026-10-19",
+   "last_online": "2026-10-20",
    "username": "BonyaBot"
   },
   "boris-trapsky": {
@@ -1875,6 +1875,11 @@
    "last_online": "2026-10-20",
    "username": "Leol-bot"
   },
+  "lepbot": {
+   "first_seen": "2026-10-20",
+   "last_online": "2026-10-20",
+   "username": "lepbot"
+  },
   "levymaia": {
    "first_seen": "2026-10-11",
    "last_online": "2026-10-20",
@@ -2692,7 +2697,7 @@
   },
   "queensgambot": {
    "first_seen": "2026-09-27",
-   "last_online": "2026-10-19",
+   "last_online": "2026-10-20",
    "username": "QueensGamBOT"
   },
   "r0bspierre": {
@@ -2707,7 +2712,7 @@
   },
   "racingkingsbot_1": {
    "first_seen": "2026-10-13",
-   "last_online": "2026-10-19",
+   "last_online": "2026-10-20",
    "username": "RacingKingsBot_1"
   },
   "radianceengine": {
@@ -3552,7 +3557,7 @@
   },
   "ursus_bot": {
    "first_seen": "2026-09-27",
-   "last_online": "2026-10-19",
+   "last_online": "2026-10-20",
    "username": "Ursus_bot"
   },
   "usunfish": {
@@ -3817,11 +3822,13 @@
   }
  },
  "online": {
-  "checked_at": "2026-10-20T00:43:10Z",
+  "checked_at": "2026-10-20T01:16:02Z",
   "ids": [
+   "aathena101",
    "abdcebot",
    "aconcaguabot",
    "aetherbot",
+   "agentc313",
    "aggressivestockfish",
    "ai-con",
    "ailedbot",
@@ -3853,9 +3860,12 @@
    "bernstein-4ply",
    "bfiedler-bot",
    "bitbitbot",
+   "black-icebot",
    "bluemoonbot",
    "blujay-bot",
+   "bobby_pcolla",
    "bongaclang",
+   "bonyabot",
    "bot1e",
    "bot1nokk",
    "bot5551",
@@ -4003,6 +4013,7 @@
    "leelarookodds",
    "leelatroll",
    "leol-bot",
+   "lepbot",
    "levymaia",
    "likeawizard-bot",
    "lilitbot",
@@ -4090,6 +4101,8 @@
    "pruningbot",
    "puisne",
    "pzchessbot",
+   "queensgambot",
+   "racingkingsbot_1",
    "radianceengine",
    "raspfish",
    "ratkingbot",
@@ -4130,7 +4143,6 @@
    "slowmate_bot",
    "slychessbot",
    "snaky-bot",
-   "snapleelaeasy",
    "solobot",
    "southbot",
    "springerbot",
@@ -4179,6 +4191,7 @@
    "turochamp-1ply",
    "uiagbot",
    "ultrabrick",
+   "ursus_bot",
    "usunfish",
    "usunfish-l0",
    "usunfish-l1",
