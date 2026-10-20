@@ -687,7 +687,7 @@
   },
   "chess_set_manager": {
    "first_seen": "2026-09-28",
-   "last_online": "2026-10-19",
+   "last_online": "2026-10-20",
    "username": "chess_set_manager"
   },
   "chessatronbot": {
@@ -1267,7 +1267,7 @@
   },
   "fpga-chess": {
    "first_seen": "2026-09-28",
-   "last_online": "2026-10-19",
+   "last_online": "2026-10-20",
    "username": "fpga-chess"
   },
   "friesai": {
@@ -1925,6 +1925,11 @@
    "last_online": "2026-10-10",
    "username": "LLMate"
   },
+  "lostfish-bot": {
+   "first_seen": "2026-10-20",
+   "last_online": "2026-10-20",
+   "username": "Lostfish-bot"
+  },
   "louischess48-6k": {
    "first_seen": "2026-09-27",
    "last_online": "2026-10-20",
@@ -2262,7 +2267,7 @@
   },
   "musashi-thebot": {
    "first_seen": "2026-09-28",
-   "last_online": "2026-10-19",
+   "last_online": "2026-10-20",
    "username": "Musashi-thebot"
   },
   "mxnet-gamemaster": {
@@ -3827,7 +3832,7 @@
   }
  },
  "online": {
-  "checked_at": "2026-10-20T03:43:10Z",
+  "checked_at": "2026-10-20T04:43:10Z",
   "ids": [
    "aathena101",
    "abcd_engine",
@@ -3870,8 +3875,6 @@
    "blujay-bot",
    "bobby_pcolla",
    "bongaclang",
-   "bonyabot",
-   "borkatower",
    "bot1e",
    "bot1nokk",
    "bot5551",
@@ -3883,6 +3886,7 @@
    "bubblebot2",
    "byte-knight",
    "c-t-r-l",
+   "c0kval",
    "caiporabot",
    "cannotcheckmateme",
    "carmin-bot",
@@ -3891,8 +3895,8 @@
    "catriever",
    "ceraf",
    "charibot",
-   "chatgpt5_5",
    "chess_know",
+   "chess_set_manager",
    "chessiverse_ethan",
    "chessiverse_luc",
    "chessiverse_pawnza",
@@ -3954,26 +3958,26 @@
    "fetacompli",
    "flounderbot",
    "flybrainchess",
-   "friesai",
+   "fpga-chess",
    "fschess-engine",
    "funcomp",
    "garbobot",
    "georgii_ai",
    "geotsibot",
-   "ghidorah_x",
    "gnu4u",
    "goldfish-engine",
    "goopis",
    "grail-bot",
    "grindfish",
+   "groshboss",
    "gryndor",
    "hackerchessbot",
    "halcyonbot",
-   "hardrok",
    "heavennear",
    "hiusbot",
    "hodgeybot",
    "holidaybot1225",
+   "hummus-bot",
    "hustler_1mb",
    "hustler_2mb",
    "hustler_5mb",
@@ -4002,6 +4006,7 @@
    "kestrelstrike",
    "kingzbot",
    "kirinchessbot",
+   "kittyenginev5",
    "kopyto_dev",
    "kulubot",
    "lamprook",
@@ -4023,6 +4028,7 @@
    "lilitbot",
    "little-0",
    "littlepatricia",
+   "lostfish-bot",
    "louischess48-6k",
    "lukebot",
    "lunaenginechess",
@@ -4063,6 +4069,7 @@
    "morabandbot",
    "mostlyhuman1900",
    "mrtonnerre",
+   "musashi-thebot",
    "mychessjava",
    "nanozeroorg",
    "neryba",
@@ -4105,6 +4112,7 @@
    "pruningbot",
    "puisne",
    "pzchessbot",
+   "racingkingsbot_1",
    "radianceengine",
    "raspfish",
    "ratkingbot",
@@ -4165,6 +4173,7 @@
    "sybaibot",
    "sybbot",
    "sykorabot",
+   "takticprochess",
    "tallikebot",
    "talosbot",
    "teensycheesy",
