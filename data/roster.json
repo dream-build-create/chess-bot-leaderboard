@@ -257,7 +257,7 @@
   },
   "ballin-bot": {
    "first_seen": "2026-10-19",
-   "last_online": "2026-10-19",
+   "last_online": "2026-10-20",
    "username": "Ballin-bot"
   },
   "bamsensbadchessbot": {
@@ -354,6 +354,11 @@
    "first_seen": "2026-09-27",
    "last_online": "2026-10-10",
    "username": "bhonduesque"
+  },
+  "bigbotontheblock": {
+   "first_seen": "2026-10-20",
+   "last_online": "2026-10-20",
+   "username": "bigbotontheblock"
   },
   "bitbitbot": {
    "first_seen": "2026-09-27",
@@ -537,7 +542,7 @@
   },
   "bytefish": {
    "first_seen": "2026-10-17",
-   "last_online": "2026-10-19",
+   "last_online": "2026-10-20",
    "username": "Bytefish"
   },
   "c-t-r-l": {
@@ -1582,7 +1587,7 @@
   },
   "jakgro": {
    "first_seen": "2026-10-19",
-   "last_online": "2026-10-19",
+   "last_online": "2026-10-20",
    "username": "jakgro"
   },
   "jangine": {
@@ -1987,7 +1992,7 @@
   },
   "magic11bot_coach": {
    "first_seen": "2026-10-01",
-   "last_online": "2026-10-19",
+   "last_online": "2026-10-20",
    "username": "Magic11bot_Coach"
   },
   "maia1": {
@@ -2957,7 +2962,7 @@
   },
   "sara_bot1": {
    "first_seen": "2026-10-15",
-   "last_online": "2026-10-19",
+   "last_online": "2026-10-20",
    "username": "sAra_bot1"
   },
   "sargon-1ply": {
@@ -3852,7 +3857,7 @@
   }
  },
  "online": {
-  "checked_at": "2026-10-20T17:43:26Z",
+  "checked_at": "2026-10-20T18:43:10Z",
   "ids": [
    "aaronsengine",
    "aathena101",
@@ -3885,6 +3890,7 @@
    "atari-video-chess",
    "athena-chessbot",
    "axiom_bot",
+   "ballin-bot",
    "banerot",
    "batyarapro",
    "bbc_bot",
@@ -3893,23 +3899,26 @@
    "bernstein-2ply",
    "bernstein-4ply",
    "bfiedler-bot",
+   "bigbotontheblock",
    "bitbitbot",
    "bluemoonbot",
    "blujay-bot",
    "bongaclang",
-   "boris-trapsky",
+   "bonyabot",
    "borkatower",
    "bot1e",
    "bot1nokk",
    "bot5551",
    "bot64jaques",
    "bot_adario",
+   "botkingteam33",
    "bottios",
    "bravobot",
    "bretemabot",
    "brybrybot",
    "bubblebot2",
    "byte-knight",
+   "bytefish",
    "c-t-r-l",
    "c0kval",
    "caiporabot",
@@ -3919,7 +3928,6 @@
    "catnail",
    "catriever",
    "charibot",
-   "cheesestar",
    "chess_know",
    "chessiverse_ethan",
    "chessiverse_luc",
@@ -3955,6 +3963,12 @@
    "deepbecky",
    "deepsquare-ai",
    "demen100ns-bot",
+   "demolito_l1",
+   "demolito_l2",
+   "demolito_l3",
+   "demolito_l4",
+   "demolito_l5",
+   "demolito_l6",
    "drawfish-reborn",
    "duchessai",
    "dumbotai",
@@ -3980,6 +3994,7 @@
    "fschess-engine",
    "funcomp",
    "gambitonlybot",
+   "garbobot",
    "geotsibot",
    "gnu4u",
    "goldfish-engine",
@@ -3987,6 +4002,7 @@
    "grail-bot",
    "grindfish",
    "groshboss",
+   "gryndor",
    "hackerchessbot",
    "halcyonbot",
    "hardrok",
@@ -4007,6 +4023,7 @@
    "is_boss",
    "iskelt-corax",
    "jacobsbot",
+   "jakgro",
    "jangine",
    "jesterchessrobot",
    "jibbby",
@@ -4045,6 +4062,7 @@
    "lunaenginechess",
    "lynx_bot",
    "mac-bot",
+   "magic11bot_coach",
    "maia1",
    "maia3-79m_1000",
    "maia3-79m_1200",
@@ -4087,6 +4105,7 @@
    "neryba",
    "neurosocute",
    "newchessengine-ai",
+   "newtsbot",
    "nexastrat",
    "nexosdefos",
    "nibbleknight",
@@ -4124,7 +4143,6 @@
    "prokopakop",
    "puisne",
    "pzchessbot",
-   "racingkingsbot_1",
    "radianceengine",
    "raspfish",
    "ratkingbot",
@@ -4137,10 +4155,12 @@
    "renegadeengine",
    "resolutebot",
    "ribfish-bot",
+   "rodent-iv",
    "rudim-bot",
    "rust-in-pieces",
    "rustbot2003",
    "rustyrival",
+   "sara_bot1",
    "sargon-1ply",
    "sargon-2ply",
    "sargon-3ply",
@@ -4169,6 +4189,7 @@
    "sseh-c",
    "stepbot_chess",
    "stickshark99",
+   "stockcotsfish",
    "stockdory",
    "stockfail",
    "stockfishlowdepth",
