@@ -525,6 +525,11 @@
    "last_online": "2026-10-07",
    "username": "buffFishNet"
   },
+  "burgentruck": {
+   "first_seen": "2026-10-20",
+   "last_online": "2026-10-20",
+   "username": "BURGENTRUCK"
+  },
   "byte-knight": {
    "first_seen": "2026-09-27",
    "last_online": "2026-10-20",
@@ -882,7 +887,7 @@
   },
   "craftstockfish": {
    "first_seen": "2026-10-17",
-   "last_online": "2026-10-18",
+   "last_online": "2026-10-20",
    "username": "CraftStockfish"
   },
   "craftyuci": {
@@ -3837,7 +3842,7 @@
   }
  },
  "online": {
-  "checked_at": "2026-10-20T12:43:10Z",
+  "checked_at": "2026-10-20T13:19:55Z",
   "ids": [
    "aaronsengine",
    "abcd_engine",
@@ -3879,7 +3884,6 @@
    "bitbitbot",
    "bluemoonbot",
    "blujay-bot",
-   "bobby_pcolla",
    "bongaclang",
    "bonyabot",
    "borkatower",
@@ -3894,7 +3898,9 @@
    "bretemabot",
    "brybrybot",
    "bubblebot2",
+   "burgentruck",
    "byte-knight",
+   "c-t-r-l",
    "c0kval",
    "caiporabot",
    "cannotcheckmateme",
@@ -3921,6 +3927,7 @@
    "colinbot",
    "confidencebuilder",
    "cookiebot711",
+   "craftstockfish",
    "craftyuci",
    "croco_bot",
    "croco_little_bot",
@@ -3928,7 +3935,6 @@
    "dala-1100",
    "dala-1300",
    "dala-1600",
-   "dala-2000",
    "dala-700",
    "dala-900",
    "darkelectronbot",
@@ -3953,6 +3959,7 @@
    "elachessbot",
    "ellen_replay",
    "elmichess",
+   "endspiel-pi",
    "entebot",
    "erebusbot",
    "eubos",
@@ -4027,7 +4034,6 @@
    "leelarogue",
    "leelarookodds",
    "leelatroll",
-   "lepbot",
    "levymaia",
    "likeawizard-bot",
    "lilitbot",
@@ -4061,7 +4067,6 @@
    "mate-in-twenty",
    "mate1-bot",
    "matmoi",
-   "matthewcarven",
    "mayflyengine",
    "mcdonalds1955",
    "mega-noob-bot",
@@ -4116,7 +4121,6 @@
    "prokopakop",
    "puisne",
    "pzchessbot",
-   "racingkingsbot_1",
    "radianceengine",
    "raspfish",
    "ratkingbot",
@@ -4126,6 +4130,7 @@
    "ravenengine",
    "rdtchessbot",
    "redbeantree",
+   "renegadeengine",
    "resolutebot",
    "ribfish-bot",
    "rpibot73",
