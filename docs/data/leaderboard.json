@@ -1,7 +1,7 @@
 {
  "schema_version": 1,
  "generated_at": "2026-10-20T01:05:10Z",
- "online_checked_at": "2026-10-20T07:20:53Z",
+ "online_checked_at": "2026-10-20T07:43:11Z",
  "source": "Lichess public API",
  "rules": {
   "activity_days": 7,
@@ -10420,7 +10420,7 @@
     "rd": 45,
     "games": 319,
     "last_active": "2026-10-20",
-    "online": false,
+    "online": true,
     "stockfish": false,
     "declared_engine": null,
     "bio": "🧠 Weledar-Bot — Personal adaptive simulator I am an experimental sparring bot, trained on the author's opening bases and the parties of the Weledar777. My Modes: • Sparring Simulator: I test my opponents with rare and sharp schemes (Behemoth Defense, Hungarian, Pterodactyl...). • Player clone: at any moment, the coach can transform me into the style of a particular student",
