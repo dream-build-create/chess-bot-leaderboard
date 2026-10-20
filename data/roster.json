@@ -17,7 +17,7 @@
   },
   "abcd_engine": {
    "first_seen": "2026-09-27",
-   "last_online": "2026-10-18",
+   "last_online": "2026-10-20",
    "username": "abcd_engine"
   },
   "abdcebot": {
@@ -627,7 +627,7 @@
   },
   "chatgpt5_5": {
    "first_seen": "2026-10-04",
-   "last_online": "2026-10-18",
+   "last_online": "2026-10-20",
    "username": "chatgpt5_5"
   },
   "checkmare666bot": {
@@ -1307,7 +1307,7 @@
   },
   "georgii_ai": {
    "first_seen": "2026-09-28",
-   "last_online": "2026-10-19",
+   "last_online": "2026-10-20",
    "username": "georgii_ai"
   },
   "geotsibot": {
@@ -1662,7 +1662,7 @@
   },
   "jurdbird": {
    "first_seen": "2026-09-27",
-   "last_online": "2026-10-19",
+   "last_online": "2026-10-20",
    "username": "JurdBird"
   },
   "justbot-v1": {
@@ -1704,6 +1704,11 @@
    "first_seen": "2026-09-27",
    "last_online": "2026-10-20",
    "username": "KirinChessBot"
+  },
+  "kittyenginev5": {
+   "first_seen": "2026-10-20",
+   "last_online": "2026-10-20",
+   "username": "KittyEngineV5"
   },
   "kiwi_cube": {
    "first_seen": "2026-09-29",
@@ -3822,9 +3827,10 @@
   }
  },
  "online": {
-  "checked_at": "2026-10-20T01:43:09Z",
+  "checked_at": "2026-10-20T02:43:11Z",
   "ids": [
    "aathena101",
+   "abcd_engine",
    "abdcebot",
    "aconcaguabot",
    "aetherbot",
@@ -3876,7 +3882,6 @@
    "bubblebot2",
    "byte-knight",
    "c-t-r-l",
-   "c0kval",
    "caiporabot",
    "cannotcheckmateme",
    "carmin-bot",
@@ -3884,6 +3889,7 @@
    "catnail",
    "catriever",
    "charibot",
+   "chatgpt5_5",
    "chess_know",
    "chessiverse_ethan",
    "chessiverse_luc",
@@ -3946,12 +3952,11 @@
    "fetacompli",
    "flounderbot",
    "flybrainchess",
-   "fourcuriouspandas",
    "friesai",
    "fschess-engine",
    "funcomp",
-   "gambitonlybot",
    "garbobot",
+   "georgii_ai",
    "geotsibot",
    "ghidorah_x",
    "gnu4u",
@@ -3959,7 +3964,6 @@
    "goopis",
    "grail-bot",
    "grindfish",
-   "groshboss",
    "gryndor",
    "hackerchessbot",
    "halcyonbot",
@@ -3991,11 +3995,13 @@
    "jongsungkim",
    "joshsbot",
    "jpg-bot",
+   "jurdbird",
    "justbot-v1",
    "kavinengine",
    "kestrelstrike",
    "kingzbot",
    "kirinchessbot",
+   "kittyenginev5",
    "kopyto_dev",
    "kulubot",
    "lamprook",
@@ -4076,7 +4082,6 @@
    "onezenpanda",
    "overfitted",
    "oxide-eg",
-   "oxybullet",
    "oxydanbot",
    "pangubot",
    "panic-fish",
@@ -4138,7 +4143,6 @@
    "slate-engine",
    "sleepmindengine",
    "slowmate_bot",
-   "slychessbot",
    "snaky-bot",
    "solobot",
    "southbot",
@@ -4161,7 +4165,6 @@
    "sybaibot",
    "sybbot",
    "sykorabot",
-   "takticprochess",
    "tallikebot",
    "talosbot",
    "teensycheesy",
