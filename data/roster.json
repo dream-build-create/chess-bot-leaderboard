@@ -1510,6 +1510,11 @@
    "last_online": "2026-10-20",
    "username": "Hyperopic"
   },
+  "ia_horus": {
+   "first_seen": "2026-10-20",
+   "last_online": "2026-10-20",
+   "username": "IA_Horus"
+  },
   "iamtryingtvt": {
    "first_seen": "2026-09-30",
    "last_online": "2026-09-30",
@@ -3857,7 +3862,7 @@
   }
  },
  "online": {
-  "checked_at": "2026-10-20T20:43:10Z",
+  "checked_at": "2026-10-20T21:43:09Z",
   "ids": [
    "aatk_vanguardx",
    "abdcebot",
@@ -3899,7 +3904,6 @@
    "bfiedler-bot",
    "bigbotontheblock",
    "bitbitbot",
-   "black-icebot",
    "bluemoonbot",
    "blujay-bot",
    "bongaclang",
@@ -3932,6 +3936,7 @@
    "chessiverse_luc",
    "chessiverse_pawnza",
    "chessiverse_raak",
+   "chesstango_bot",
    "cheszter",
    "chill4ce",
    "chronicgambler",
@@ -3964,6 +3969,8 @@
    "demen100ns-bot",
    "demolito_l1",
    "demolito_l2",
+   "demolito_l3",
+   "demolito_l4",
    "demolito_l5",
    "demolito_l6",
    "drawfish-reborn",
@@ -3997,6 +4004,7 @@
    "ghidorah_x",
    "gnu4u",
    "goldfish-engine",
+   "goopis",
    "grail-bot",
    "grindfish",
    "groshboss",
@@ -4014,6 +4022,7 @@
    "hustler_5mb",
    "hynobiuschess",
    "hyperopic",
+   "ia_horus",
    "icarus-bot",
    "ilcorvochess",
    "ilovecatgirl",
@@ -4173,11 +4182,11 @@
    "simbelmyne-bot",
    "simple-bot",
    "simpleeval",
-   "sisyphus-engine",
    "sj_norbot",
    "slate-engine",
    "sleepmindengine",
    "slowmate_bot",
+   "snapleelaeasy",
    "southbot",
    "springerbot",
    "squarefish-900",
@@ -4235,6 +4244,7 @@
    "valhalla-bot",
    "vanibot",
    "variantsbot",
+   "vic98lg",
    "vicentlittle",
    "vidbot",
    "viet-ai",
