@@ -282,7 +282,7 @@
   },
   "battlebornthe3rd": {
    "first_seen": "2026-09-29",
-   "last_online": "2026-10-18",
+   "last_online": "2026-10-21",
    "username": "BattleBornThe3rd"
   },
   "battlebornthe4th": {
@@ -2772,7 +2772,7 @@
   },
   "rachl1": {
    "first_seen": "2026-10-06",
-   "last_online": "2026-10-19",
+   "last_online": "2026-10-21",
    "username": "rachl1"
   },
   "racingkingsbot_1": {
@@ -3807,7 +3807,7 @@
   },
   "wildorderbot": {
    "first_seen": "2026-09-28",
-   "last_online": "2026-10-20",
+   "last_online": "2026-10-21",
    "username": "WildorderBot"
   },
   "windmolen_bot": {
@@ -3902,13 +3902,15 @@
   }
  },
  "online": {
-  "checked_at": "2026-10-21T16:43:10Z",
+  "checked_at": "2026-10-21T17:43:10Z",
   "ids": [
    "aaronsengine",
+   "aathena101",
    "abcd_engine",
    "abdcebot",
    "aconcaguabot",
    "aetherbot",
+   "aggressivestockfish",
    "ai-con",
    "ailedbot",
    "ajedrezchamberi",
@@ -3934,6 +3936,7 @@
    "axiom_bot",
    "ballin-bot",
    "banerot",
+   "battlebornthe3rd",
    "batyarapro",
    "bbc_bot",
    "becela9_kpebetka",
@@ -3976,15 +3979,12 @@
    "chessiverse_luc",
    "chessiverse_pawnza",
    "chessiverse_raak",
-   "chesstango_bot",
-   "chesstransformerbot",
    "cheszter",
    "chill4ce",
    "chronicgambler",
    "cinder-bot",
    "classic_bot-v2",
    "classical-leela",
-   "claude_bot",
    "clrsrc_lc0",
    "coda_bot",
    "colinbot",
@@ -4023,6 +4023,7 @@
    "eigenmann-chess",
    "elachessbot",
    "elephantgambitengine",
+   "elexunix_chess_bot",
    "ellen_replay",
    "elmichess",
    "endspiel-pi",
@@ -4092,7 +4093,6 @@
    "larryz-alterego",
    "laura-bot",
    "leelaalien",
-   "leelachesstest",
    "leelajester",
    "leelaknightodds",
    "leelapieceodds",
@@ -4157,7 +4157,6 @@
    "neryba",
    "neurosocute",
    "newchessengine-ai",
-   "newtsbot",
    "nexastrat",
    "nexosdefos",
    "nibbleknight",
@@ -4170,6 +4169,7 @@
    "noel-bot",
    "o-rei-cx",
    "odonata-bot",
+   "olimarianbot",
    "overfitted",
    "oxybullet",
    "oxydanbot",
@@ -4193,6 +4193,7 @@
    "prokopakop",
    "puisne",
    "pzchessbot",
+   "rachl1",
    "racingkingsbot_1",
    "radianceengine",
    "raspfish",
@@ -4300,6 +4301,7 @@
    "waldemar-the-elf",
    "weiawaga",
    "weledar-bot",
+   "wildorderbot",
    "wolfuhfuhbot",
    "worst-ai",
    "worstfish",
