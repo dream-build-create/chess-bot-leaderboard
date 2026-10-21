@@ -1847,7 +1847,7 @@
   },
   "leelachesstest": {
    "first_seen": "2026-09-30",
-   "last_online": "2026-10-19",
+   "last_online": "2026-10-21",
    "username": "LeelaChessTest"
   },
   "leelajester": {
@@ -2387,7 +2387,7 @@
   },
   "newtsbot": {
    "first_seen": "2026-09-27",
-   "last_online": "2026-10-20",
+   "last_online": "2026-10-21",
    "username": "NEWTSbot"
   },
   "nexastrat": {
@@ -3182,7 +3182,7 @@
   },
   "snaky-bot": {
    "first_seen": "2026-10-16",
-   "last_online": "2026-10-20",
+   "last_online": "2026-10-21",
    "username": "Snaky-Bot"
   },
   "snapleelaeasy": {
@@ -3902,15 +3902,13 @@
   }
  },
  "online": {
-  "checked_at": "2026-10-21T15:43:09Z",
+  "checked_at": "2026-10-21T16:43:10Z",
   "ids": [
    "aaronsengine",
-   "aathena101",
    "abcd_engine",
    "abdcebot",
    "aconcaguabot",
    "aetherbot",
-   "aggressivestockfish",
    "ai-con",
    "ailedbot",
    "ajedrezchamberi",
@@ -3925,6 +3923,7 @@
    "anti-bot",
    "antibotv3-7",
    "aposeij",
+   "approximationbot",
    "arabicahce",
    "ariadne-bot",
    "arkiplayschess",
@@ -3987,6 +3986,7 @@
    "classical-leela",
    "claude_bot",
    "clrsrc_lc0",
+   "coda_bot",
    "colinbot",
    "confidencebuilder",
    "cookiebot711",
@@ -4023,7 +4023,6 @@
    "eigenmann-chess",
    "elachessbot",
    "elephantgambitengine",
-   "elexunix_chess_bot",
    "ellen_replay",
    "elmichess",
    "endspiel-pi",
@@ -4048,7 +4047,6 @@
    "grindfish",
    "groshboss",
    "gryndor",
-   "grzechu86",
    "hackerchessbot",
    "halcyonbot",
    "hardrok",
@@ -4065,6 +4063,7 @@
    "icarus-bot",
    "ilcorvochess",
    "ilovecatgirl",
+   "incipit_bot",
    "is_boss",
    "iskelt-corax",
    "jacobsbot",
@@ -4093,6 +4092,7 @@
    "larryz-alterego",
    "laura-bot",
    "leelaalien",
+   "leelachesstest",
    "leelajester",
    "leelaknightodds",
    "leelapieceodds",
@@ -4157,6 +4157,7 @@
    "neryba",
    "neurosocute",
    "newchessengine-ai",
+   "newtsbot",
    "nexastrat",
    "nexosdefos",
    "nibbleknight",
@@ -4169,7 +4170,6 @@
    "noel-bot",
    "o-rei-cx",
    "odonata-bot",
-   "olimarianbot",
    "overfitted",
    "oxybullet",
    "oxydanbot",
@@ -4193,6 +4193,7 @@
    "prokopakop",
    "puisne",
    "pzchessbot",
+   "racingkingsbot_1",
    "radianceengine",
    "raspfish",
    "ratkingbot",
@@ -4221,7 +4222,6 @@
    "scipio-bot",
    "seedchess",
    "seitogakatsu",
-   "senkabalabot",
    "sf_bot1nok",
    "shallowredbot",
    "shrevenbot",
@@ -4234,6 +4234,7 @@
    "slate-engine",
    "sleepmindengine",
    "slowmate_bot",
+   "snaky-bot",
    "solobot",
    "southbot",
    "springerbot",
@@ -4296,7 +4297,6 @@
    "void_bot",
    "vortex_bot",
    "vortexaurafarm",
-   "vortexinbrp",
    "waldemar-the-elf",
    "weiawaga",
    "weledar-bot",
