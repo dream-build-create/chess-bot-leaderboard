@@ -705,6 +705,11 @@
    "last_online": "2026-10-21",
    "username": "chess_set_manager"
   },
+  "chessai4f": {
+   "first_seen": "2026-10-21",
+   "last_online": "2026-10-21",
+   "username": "ChessAI4F"
+  },
   "chessatronbot": {
    "first_seen": "2026-09-27",
    "last_online": "2026-10-12",
@@ -767,7 +772,7 @@
   },
   "chesstransformerbot": {
    "first_seen": "2026-10-08",
-   "last_online": "2026-10-20",
+   "last_online": "2026-10-21",
    "username": "ChessTransformerBot"
   },
   "cheszter": {
@@ -1394,6 +1399,11 @@
    "first_seen": "2026-10-14",
    "last_online": "2026-10-21",
    "username": "Grindfish"
+  },
+  "grokdragon": {
+   "first_seen": "2026-10-21",
+   "last_online": "2026-10-21",
+   "username": "GrokDragon"
   },
   "groshboss": {
    "first_seen": "2026-09-27",
@@ -3877,7 +3887,7 @@
   }
  },
  "online": {
-  "checked_at": "2026-10-21T05:43:10Z",
+  "checked_at": "2026-10-21T06:43:10Z",
   "ids": [
    "aathena101",
    "abcd_engine",
@@ -3899,7 +3909,6 @@
    "anti-bot",
    "antibotv3-7",
    "aposeij",
-   "approximationbot",
    "arabicahce",
    "ariadne-bot",
    "arkiplayschess",
@@ -3929,9 +3938,9 @@
    "bot64jaques",
    "bot_adario",
    "bottios",
-   "bravobot",
    "bretemabot",
    "bubblebot2",
+   "burgentruck",
    "byte-knight",
    "bytefish",
    "c-t-r-l",
@@ -3946,10 +3955,12 @@
    "chess3bot",
    "chess_know",
    "chess_set_manager",
+   "chessai4f",
    "chessiverse_ethan",
    "chessiverse_luc",
    "chessiverse_pawnza",
    "chessiverse_raak",
+   "chesstransformerbot",
    "cheszter",
    "chill4ce",
    "chronicgambler",
@@ -3978,7 +3989,6 @@
    "deepbecky",
    "deepsquare-ai",
    "demen100ns-bot",
-   "demolito_l2",
    "drawfish-reborn",
    "drewschessmachine",
    "duchessai",
@@ -4011,6 +4021,7 @@
    "goopis",
    "grail-bot",
    "grindfish",
+   "grokdragon",
    "groshboss",
    "gryndor",
    "hackerchessbot",
@@ -4047,6 +4058,7 @@
    "kestrelstrike",
    "kingzbot",
    "kirinchessbot",
+   "kittyenginev5",
    "kopyto_dev",
    "kruguer_engine",
    "kulubot",
@@ -4063,6 +4075,7 @@
    "leelarogue",
    "leelarookodds",
    "leelatroll",
+   "leol-bot",
    "lepbot",
    "levymaia",
    "likeawizard-bot",
@@ -4127,8 +4140,10 @@
    "nittedal",
    "nnueandthevoices",
    "noabot",
+   "noel-bot",
    "o-rei-cx",
    "odonata-bot",
+   "overfitted",
    "oxybullet",
    "oxydanbot",
    "pangubot",
@@ -4144,7 +4159,6 @@
    "peachfruit",
    "perl-gigachess",
    "pi0w",
-   "piebot",
    "piglet_engine",
    "playmarius",
    "plumboi",
@@ -4173,7 +4187,6 @@
    "rustbot2003",
    "rustyrival",
    "saisrankarthik_7",
-   "sara_bot1",
    "sargon-1ply",
    "sargon-2ply",
    "sargon-3ply",
