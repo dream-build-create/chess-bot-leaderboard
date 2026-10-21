@@ -1027,7 +1027,7 @@
   },
   "demolito_l1": {
    "first_seen": "2026-09-27",
-   "last_online": "2026-10-20",
+   "last_online": "2026-10-21",
    "username": "Demolito_L1"
   },
   "demolito_l2": {
@@ -1327,7 +1327,7 @@
   },
   "georgii_ai": {
    "first_seen": "2026-09-28",
-   "last_online": "2026-10-20",
+   "last_online": "2026-10-21",
    "username": "georgii_ai"
   },
   "geotsibot": {
@@ -2012,7 +2012,7 @@
   },
   "maia2200_10n": {
    "first_seen": "2026-09-27",
-   "last_online": "2026-10-14",
+   "last_online": "2026-10-21",
    "username": "maia2200_10n"
   },
   "maia3-79m_1000": {
@@ -2092,12 +2092,12 @@
   },
   "maia9_10n": {
    "first_seen": "2026-09-27",
-   "last_online": "2026-10-14",
+   "last_online": "2026-10-21",
    "username": "maia9_10n"
   },
   "maia9_30n": {
    "first_seen": "2026-09-27",
-   "last_online": "2026-10-14",
+   "last_online": "2026-10-21",
    "username": "maia9_30n"
   },
   "maiatrap": {
@@ -3872,8 +3872,9 @@
   }
  },
  "online": {
-  "checked_at": "2026-10-21T01:43:10Z",
+  "checked_at": "2026-10-21T02:43:10Z",
   "ids": [
+   "aathena101",
    "aatk_vanguardx",
    "abcd_engine",
    "abdcebot",
@@ -3973,6 +3974,8 @@
    "deepbecky",
    "deepsquare-ai",
    "demen100ns-bot",
+   "demolito_l1",
+   "demolito_l2",
    "drawfish-reborn",
    "drewschessmachine",
    "duchessai",
@@ -3997,6 +4000,7 @@
    "fschess-engine",
    "funcomp",
    "garbobot",
+   "georgii_ai",
    "geotsibot",
    "ghidorah_x",
    "gnu4u",
@@ -4071,6 +4075,7 @@
    "lynx_bot",
    "mac-bot",
    "maia1",
+   "maia2200_10n",
    "maia3-79m_1000",
    "maia3-79m_1200",
    "maia3-79m_1400",
@@ -4082,16 +4087,16 @@
    "maia3-79m_2600",
    "maia3-79m_600",
    "maia3-79m_800",
-   "maia5",
    "maia9",
    "maia960-1600",
    "maia960-1900",
+   "maia9_10n",
+   "maia9_30n",
    "martuni",
    "mate-in-forty",
    "mate-in-thirty",
    "mate-in-twenty",
    "mate1-bot",
-   "matemakingmachine",
    "matmoi",
    "mayflyengine",
    "mcdonalds1955",
@@ -4124,7 +4129,6 @@
    "noel-bot",
    "o-rei-cx",
    "odonata-bot",
-   "overfitted",
    "oxybullet",
    "oxydanbot",
    "pangubot",
@@ -4256,7 +4260,6 @@
    "waldemar-the-elf",
    "walpurti",
    "weiawaga",
-   "weledar-bot",
    "wolfuhfuhbot",
    "worst-ai",
    "worstfish",
