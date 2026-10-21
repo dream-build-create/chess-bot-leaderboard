@@ -2117,7 +2117,7 @@
   },
   "makechessbetter": {
    "first_seen": "2026-09-28",
-   "last_online": "2026-10-18",
+   "last_online": "2026-10-21",
    "username": "MakeChessBetter"
   },
   "malanchess": {
@@ -3892,9 +3892,10 @@
   }
  },
  "online": {
-  "checked_at": "2026-10-21T13:21:10Z",
+  "checked_at": "2026-10-21T13:43:09Z",
   "ids": [
    "aaronsengine",
+   "aathena101",
    "abcd_engine",
    "abdcebot",
    "aconcaguabot",
@@ -3933,7 +3934,6 @@
    "bfiedler-bot",
    "bigbotontheblock",
    "bitbitbot",
-   "black-bishop-kh",
    "bluemoonbot",
    "blujay-bot",
    "bobby_pcolla",
@@ -4087,7 +4087,6 @@
    "leelarookodds",
    "leelatroll",
    "leol-bot",
-   "lepbot",
    "levymaia",
    "likeawizard-bot",
    "lilitbot",
@@ -4118,6 +4117,7 @@
    "maia960-1900",
    "maia9_10n",
    "maia9_30n",
+   "makechessbetter",
    "martuni",
    "mate-in-forty",
    "mate-in-thirty",
