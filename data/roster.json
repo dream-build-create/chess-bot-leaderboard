@@ -422,7 +422,7 @@
   },
   "boris-trapsky": {
    "first_seen": "2026-09-27",
-   "last_online": "2026-10-20",
+   "last_online": "2026-10-21",
    "username": "Boris-Trapsky"
   },
   "borkatower": {
@@ -2475,6 +2475,11 @@
    "last_online": "2026-10-21",
    "username": "odonata-bot"
   },
+  "olimarianbot": {
+   "first_seen": "2026-10-21",
+   "last_online": "2026-10-21",
+   "username": "Olimarianbot"
+  },
   "omegazero-bot": {
    "first_seen": "2026-09-27",
    "last_online": "2026-09-30",
@@ -3059,6 +3064,11 @@
    "first_seen": "2026-09-27",
    "last_online": "2026-10-21",
    "username": "SeitoGaKatsu"
+  },
+  "senkabalabot": {
+   "first_seen": "2026-10-21",
+   "last_online": "2026-10-21",
+   "username": "Senkabalabot"
   },
   "sf_bot1nok": {
    "first_seen": "2026-09-27",
@@ -3742,7 +3752,7 @@
   },
   "vortexinbrp": {
    "first_seen": "2026-10-04",
-   "last_online": "2026-10-06",
+   "last_online": "2026-10-21",
    "username": "VortexInBRP"
   },
   "waldemar-the-elf": {
@@ -3892,7 +3902,7 @@
   }
  },
  "online": {
-  "checked_at": "2026-10-21T14:43:09Z",
+  "checked_at": "2026-10-21T15:43:09Z",
   "ids": [
    "aaronsengine",
    "aathena101",
@@ -3938,13 +3948,13 @@
    "blujay-bot",
    "bobby_pcolla",
    "bongaclang",
+   "boris-trapsky",
    "borkatower",
    "bot1e",
    "bot1nokk",
    "bot5551",
    "bot64jaques",
    "bot_adario",
-   "botkingteam33",
    "bottios",
    "bretemabot",
    "bubblebot2",
@@ -3958,8 +3968,10 @@
    "catnail",
    "chamberiajedrez",
    "charibot",
+   "cheesestar",
    "chess3bot",
    "chess_know",
+   "chess_set_manager",
    "chessai4f",
    "chessiverse_ethan",
    "chessiverse_luc",
@@ -4036,6 +4048,7 @@
    "grindfish",
    "groshboss",
    "gryndor",
+   "grzechu86",
    "hackerchessbot",
    "halcyonbot",
    "hardrok",
@@ -4080,6 +4093,7 @@
    "larryz-alterego",
    "laura-bot",
    "leelaalien",
+   "leelajester",
    "leelaknightodds",
    "leelapieceodds",
    "leelaqueenforknight",
@@ -4093,7 +4107,6 @@
    "lilitbot",
    "little-0",
    "littlepatricia",
-   "lostfish-bot",
    "louischess48-6k",
    "lukebot",
    "lunaenginechess",
@@ -4141,6 +4154,7 @@
    "mrtonnerre",
    "mychessjava",
    "nanozeroorg",
+   "neryba",
    "neurosocute",
    "newchessengine-ai",
    "nexastrat",
@@ -4155,6 +4169,7 @@
    "noel-bot",
    "o-rei-cx",
    "odonata-bot",
+   "olimarianbot",
    "overfitted",
    "oxybullet",
    "oxydanbot",
@@ -4174,10 +4189,10 @@
    "piglet_engine",
    "playmarius",
    "plumboi",
+   "plumbot",
    "prokopakop",
    "puisne",
    "pzchessbot",
-   "racingkingsbot_1",
    "radianceengine",
    "raspfish",
    "ratkingbot",
@@ -4200,13 +4215,13 @@
    "sargon-2ply",
    "sargon-3ply",
    "sargon-4ply",
-   "saxtonengine",
    "sbnovella",
    "scalaqueen",
    "schnecken_bot",
    "scipio-bot",
    "seedchess",
    "seitogakatsu",
+   "senkabalabot",
    "sf_bot1nok",
    "shallowredbot",
    "shrevenbot",
@@ -4281,8 +4296,8 @@
    "void_bot",
    "vortex_bot",
    "vortexaurafarm",
+   "vortexinbrp",
    "waldemar-the-elf",
-   "walpurti",
    "weiawaga",
    "weledar-bot",
    "wolfuhfuhbot",
