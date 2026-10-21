@@ -817,7 +817,7 @@
   },
   "claude_bot": {
    "first_seen": "2026-10-05",
-   "last_online": "2026-10-15",
+   "last_online": "2026-10-21",
    "username": "CLaude_Bot"
   },
   "claudyengine": {
@@ -1417,7 +1417,7 @@
   },
   "grzechu86": {
    "first_seen": "2026-09-29",
-   "last_online": "2026-10-19",
+   "last_online": "2026-10-21",
    "username": "Grzechu86"
   },
   "guitarfish-engine": {
@@ -2950,6 +2950,11 @@
    "last_online": "2026-10-14",
    "username": "RusNikeeAI"
   },
+  "rust-bot": {
+   "first_seen": "2026-10-21",
+   "last_online": "2026-10-21",
+   "username": "rust-bot"
+  },
   "rust-in-pieces": {
    "first_seen": "2026-09-28",
    "last_online": "2026-10-21",
@@ -3887,7 +3892,7 @@
   }
  },
  "online": {
-  "checked_at": "2026-10-21T07:43:09Z",
+  "checked_at": "2026-10-21T08:43:10Z",
   "ids": [
    "aathena101",
    "abcd_engine",
@@ -3920,7 +3925,6 @@
    "banerot",
    "batyarapro",
    "bbc_bot",
-   "becela9_kpebetka",
    "bernstein-2ply",
    "bernstein-4ply",
    "bfiedler-bot",
@@ -3942,7 +3946,6 @@
    "burgentruck",
    "byte-knight",
    "bytefish",
-   "c-t-r-l",
    "c0kval",
    "caiporabot",
    "cannotcheckmateme",
@@ -3952,9 +3955,7 @@
    "catriever",
    "charibot",
    "chess3bot",
-   "chess_know",
    "chess_set_manager",
-   "chessai4f",
    "chessiverse_ethan",
    "chessiverse_luc",
    "chessiverse_pawnza",
@@ -3966,6 +3967,7 @@
    "cinder-bot",
    "classic_bot-v2",
    "classical-leela",
+   "claude_bot",
    "clrsrc_lc0",
    "colinbot",
    "confidencebuilder",
@@ -3987,11 +3989,6 @@
    "deepbecky",
    "deepsquare-ai",
    "demen100ns-bot",
-   "demolito_l1",
-   "demolito_l3",
-   "demolito_l4",
-   "demolito_l5",
-   "demolito_l6",
    "drawfish-reborn",
    "drewschessmachine",
    "duchessai",
@@ -4026,6 +4023,7 @@
    "grindfish",
    "groshboss",
    "gryndor",
+   "grzechu86",
    "hackerchessbot",
    "halcyonbot",
    "heavennear",
@@ -4048,7 +4046,6 @@
    "jangine",
    "jesterchessrobot",
    "jibbby",
-   "jinko-chan",
    "joan_clone",
    "joey_chessengine",
    "jomfishh",
@@ -4077,6 +4074,8 @@
    "leelarogue",
    "leelarookodds",
    "leelatroll",
+   "leol-bot",
+   "lepbot",
    "levymaia",
    "likeawizard-bot",
    "lilitbot",
@@ -4114,7 +4113,6 @@
    "mate1-bot",
    "matmoi",
    "mayflyengine",
-   "mcdonalds1955",
    "mega-noob-bot",
    "melsh_bot",
    "milanbot",
@@ -4131,7 +4129,6 @@
    "nanozeroorg",
    "neryba",
    "neurosocute",
-   "newchessengine-ai",
    "nexastrat",
    "nexosdefos",
    "nibbleknight",
@@ -4141,6 +4138,7 @@
    "nittedal",
    "nnueandthevoices",
    "noabot",
+   "noel-bot",
    "o-rei-cx",
    "odonata-bot",
    "oxybullet",
@@ -4165,6 +4163,7 @@
    "prokopakop",
    "puisne",
    "pzchessbot",
+   "racingkingsbot_1",
    "radianceengine",
    "raspfish",
    "ratkingbot",
@@ -4180,6 +4179,7 @@
    "romanticbot",
    "romanticbot2",
    "rudim-bot",
+   "rust-bot",
    "rust-in-pieces",
    "rustbot2003",
    "rustyrival",
@@ -4235,6 +4235,7 @@
    "thunfisch-bot",
    "tikifish",
    "tilapiabot",
+   "to299d",
    "togaii",
    "tomabbot",
    "topasbot",
