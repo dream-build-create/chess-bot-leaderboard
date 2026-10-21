@@ -7,7 +7,7 @@
   },
   "aathena101": {
    "first_seen": "2026-10-16",
-   "last_online": "2026-10-20",
+   "last_online": "2026-10-21",
    "username": "AAthena101"
   },
   "aatk_vanguardx": {
@@ -1732,7 +1732,7 @@
   },
   "kittyenginev5": {
    "first_seen": "2026-10-20",
-   "last_online": "2026-10-20",
+   "last_online": "2026-10-21",
    "username": "KittyEngineV5"
   },
   "kiwi_cube": {
@@ -1952,7 +1952,7 @@
   },
   "lostfish-bot": {
    "first_seen": "2026-10-20",
-   "last_online": "2026-10-20",
+   "last_online": "2026-10-21",
    "username": "Lostfish-bot"
   },
   "louischess48-6k": {
@@ -2747,7 +2747,7 @@
   },
   "queensgambot": {
    "first_seen": "2026-09-27",
-   "last_online": "2026-10-20",
+   "last_online": "2026-10-21",
    "username": "QueensGamBOT"
   },
   "r0bspierre": {
@@ -3872,8 +3872,9 @@
   }
  },
  "online": {
-  "checked_at": "2026-10-21T00:43:09Z",
+  "checked_at": "2026-10-21T01:16:47Z",
   "ids": [
+   "aathena101",
    "aatk_vanguardx",
    "abcd_engine",
    "abdcebot",
@@ -3909,7 +3910,6 @@
    "batyarapro",
    "bbc_bot",
    "becela9_kpebetka",
-   "berkbot",
    "bernstein-2ply",
    "bernstein-4ply",
    "bfiedler-bot",
@@ -3936,7 +3936,6 @@
    "carmin-bot",
    "casanchess-nnue",
    "catnail",
-   "catriever",
    "charibot",
    "chess3bot",
    "chess_know",
@@ -3969,23 +3968,16 @@
    "dala-900",
    "darkelectronbot",
    "darkonweakbot",
-   "darkpinechessbot",
    "davidsguterbot",
    "debzero",
    "deepbecky",
    "deepsquare-ai",
    "demen100ns-bot",
-   "demolito_l2",
-   "demolito_l3",
-   "demolito_l4",
-   "demolito_l5",
-   "demolito_l6",
    "drawfish-reborn",
    "drewschessmachine",
    "drlemonzzbot",
    "duchessai",
    "dumbotai",
-   "edwardkillick",
    "eigenmann-chess",
    "elachessbot",
    "elephantgambitengine",
@@ -4004,7 +3996,6 @@
    "flybrainchess",
    "fschess-engine",
    "funcomp",
-   "gambitonlybot",
    "garbobot",
    "geotsibot",
    "ghidorah_x",
@@ -4050,6 +4041,7 @@
    "kestrelstrike",
    "kingzbot",
    "kirinchessbot",
+   "kittyenginev5",
    "kopyto_dev",
    "kruguer_engine",
    "kulubot",
@@ -4073,6 +4065,7 @@
    "lilitbot",
    "little-0",
    "littlepatricia",
+   "lostfish-bot",
    "louischess48-6k",
    "lukebot",
    "lunaenginechess",
@@ -4132,7 +4125,6 @@
    "noel-bot",
    "o-rei-cx",
    "odonata-bot",
-   "overfitted",
    "oxybullet",
    "oxydanbot",
    "pangubot",
@@ -4157,7 +4149,7 @@
    "prokopakop",
    "puisne",
    "pzchessbot",
-   "racingkingsbot_1",
+   "queensgambot",
    "radianceengine",
    "raspfish",
    "ratkingbot",
@@ -4190,7 +4182,6 @@
    "silasly",
    "sim3million",
    "simbelmyne-bot",
-   "simple-bot",
    "simpleeval",
    "sj_norbot",
    "slate-engine",
@@ -4235,7 +4226,6 @@
    "topasbot",
    "trainer-bot",
    "trenerhetman",
-   "trinculobot",
    "troutbot",
    "trusia12345678",
    "tucuengine",
