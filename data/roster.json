@@ -372,7 +372,7 @@
   },
   "black-icebot": {
    "first_seen": "2026-10-16",
-   "last_online": "2026-10-20",
+   "last_online": "2026-10-21",
    "username": "BLACK-ICEbot"
   },
   "blackeventhorizon": {
@@ -877,7 +877,7 @@
   },
   "consolechessfastbot": {
    "first_seen": "2026-09-28",
-   "last_online": "2026-10-14",
+   "last_online": "2026-10-21",
    "username": "ConsoleChessFastBot"
   },
   "cookiebot711": {
@@ -2912,7 +2912,7 @@
   },
   "rodent-iv": {
    "first_seen": "2026-10-05",
-   "last_online": "2026-10-20",
+   "last_online": "2026-10-21",
    "username": "Rodent-IV"
   },
   "rodent-v": {
@@ -3247,7 +3247,7 @@
   },
   "soulgar": {
    "first_seen": "2026-09-28",
-   "last_online": "2026-10-18",
+   "last_online": "2026-10-21",
    "username": "soulgar"
   },
   "southbot": {
@@ -3912,7 +3912,7 @@
   }
  },
  "online": {
-  "checked_at": "2026-10-21T18:43:11Z",
+  "checked_at": "2026-10-21T19:15:08Z",
   "ids": [
    "aaronsengine",
    "aathena101",
@@ -3954,11 +3954,13 @@
    "bfiedler-bot",
    "bigbotontheblock",
    "bitbitbot",
+   "black-icebot",
    "bluemoonbot",
    "blujay-bot",
    "bobby_pcolla",
    "bongaclang",
    "boris-trapsky",
+   "borkatower",
    "bot1e",
    "bot5551",
    "bot64jaques",
@@ -3975,6 +3977,7 @@
    "cannotcheckmateme",
    "casanchess-nnue",
    "catnail",
+   "catriever",
    "chamberiajedrez",
    "charibot",
    "cheesestar",
@@ -3986,6 +3989,7 @@
    "chessiverse_luc",
    "chessiverse_pawnza",
    "chessiverse_raak",
+   "chesstango_bot",
    "cheszter",
    "chill4ce",
    "chronicgambler",
@@ -3997,6 +4001,7 @@
    "coda_bot",
    "colinbot",
    "confidencebuilder",
+   "consolechessfastbot",
    "cookiebot711",
    "craftyuci",
    "croco_bot",
@@ -4063,6 +4068,7 @@
    "hiusbot",
    "hodgeybot",
    "holidaybot1225",
+   "hummus-bot",
    "hustler_1mb",
    "hustler_2mb",
    "hustler_5mb",
@@ -4090,7 +4096,6 @@
    "kestrelstrike",
    "kingzbot",
    "kirinchessbot",
-   "kittyenginev5",
    "kopyto_dev",
    "kruguer_engine",
    "la5v2",
@@ -4117,7 +4122,6 @@
    "lunaenginechess",
    "lynx_bot",
    "mac-bot",
-   "magic11bot_coach",
    "maia1",
    "maia2200_10n",
    "maia3-79m_1000",
@@ -4197,7 +4201,6 @@
    "prokopakop",
    "puisne",
    "pzchessbot",
-   "rachl1",
    "radianceengine",
    "raspfish",
    "ratkingbot",
@@ -4210,6 +4213,7 @@
    "renegadeengine",
    "resolutebot",
    "ribfish-bot",
+   "rodent-iv",
    "romanticbot",
    "romanticbot2",
    "rudim-bot",
@@ -4240,6 +4244,7 @@
    "slowmate_bot",
    "snaky-bot",
    "solobot",
+   "soulgar",
    "southbot",
    "springerbot",
    "squarefish-900",
