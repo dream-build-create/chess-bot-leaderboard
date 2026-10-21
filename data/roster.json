@@ -2962,7 +2962,7 @@
   },
   "saisrankarthik_7": {
    "first_seen": "2026-10-07",
-   "last_online": "2026-10-20",
+   "last_online": "2026-10-21",
    "username": "SAISRANKARTHIK_7"
   },
   "sara32222": {
@@ -2977,7 +2977,7 @@
   },
   "sara_bot1": {
    "first_seen": "2026-10-15",
-   "last_online": "2026-10-20",
+   "last_online": "2026-10-21",
    "username": "sAra_bot1"
   },
   "sargon-1ply": {
@@ -3224,6 +3224,11 @@
    "first_seen": "2026-10-05",
    "last_online": "2026-10-10",
    "username": "Space_BOT"
+  },
+  "sparkchessengine": {
+   "first_seen": "2026-10-21",
+   "last_online": "2026-10-21",
+   "username": "SparkchessEngine"
   },
   "springerbot": {
    "first_seen": "2026-10-17",
@@ -3872,7 +3877,7 @@
   }
  },
  "online": {
-  "checked_at": "2026-10-21T04:43:09Z",
+  "checked_at": "2026-10-21T05:43:10Z",
   "ids": [
    "aathena101",
    "abcd_engine",
@@ -3897,6 +3902,7 @@
    "approximationbot",
    "arabicahce",
    "ariadne-bot",
+   "arkiplayschess",
    "artidigm_research",
    "ashnostromo",
    "atari-video-chess",
@@ -3925,9 +3931,7 @@
    "bottios",
    "bravobot",
    "bretemabot",
-   "brybrybot",
    "bubblebot2",
-   "burgentruck",
    "byte-knight",
    "bytefish",
    "c-t-r-l",
@@ -3974,6 +3978,7 @@
    "deepbecky",
    "deepsquare-ai",
    "demen100ns-bot",
+   "demolito_l2",
    "drawfish-reborn",
    "drewschessmachine",
    "duchessai",
@@ -4001,7 +4006,6 @@
    "garbobot",
    "georgii_ai",
    "geotsibot",
-   "ghidorah_x",
    "gnu4u",
    "goldfish-engine",
    "goopis",
@@ -4024,7 +4028,6 @@
    "icarus-bot",
    "ilcorvochess",
    "ilovecatgirl",
-   "incipit_bot",
    "is_boss",
    "iskelt-corax",
    "jacobsbot",
@@ -4053,9 +4056,13 @@
    "laura-bot",
    "leelaalien",
    "leelajester",
+   "leelaknightodds",
+   "leelapieceodds",
+   "leelaqueenforknight",
+   "leelaqueenodds",
    "leelarogue",
+   "leelarookodds",
    "leelatroll",
-   "leol-bot",
    "lepbot",
    "levymaia",
    "likeawizard-bot",
@@ -4107,10 +4114,8 @@
    "morabandbot",
    "mostlyhuman1900",
    "mrtonnerre",
-   "musashi-thebot",
    "mychessjava",
    "nanozeroorg",
-   "neryba",
    "neurosocute",
    "newchessengine-ai",
    "nexastrat",
@@ -4122,7 +4127,6 @@
    "nittedal",
    "nnueandthevoices",
    "noabot",
-   "noel-bot",
    "o-rei-cx",
    "odonata-bot",
    "oxybullet",
@@ -4168,6 +4172,8 @@
    "rust-in-pieces",
    "rustbot2003",
    "rustyrival",
+   "saisrankarthik_7",
+   "sara_bot1",
    "sargon-1ply",
    "sargon-2ply",
    "sargon-3ply",
@@ -4192,6 +4198,7 @@
    "sleepmindengine",
    "slowmate_bot",
    "southbot",
+   "sparkchessengine",
    "springerbot",
    "squarefish-900",
    "sseh-c",
@@ -4214,7 +4221,6 @@
    "takticprochess",
    "tallikebot",
    "talosbot",
-   "teensycheesy",
    "tempocore",
    "terconari",
    "thechessblazer",
