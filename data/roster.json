@@ -767,7 +767,7 @@
   },
   "chesstango_bot": {
    "first_seen": "2026-10-10",
-   "last_online": "2026-10-21",
+   "last_online": "2026-10-22",
    "username": "chesstango_bot"
   },
   "chesstransformerbot": {
@@ -1137,7 +1137,7 @@
   },
   "edwardkillick": {
    "first_seen": "2026-09-27",
-   "last_online": "2026-10-21",
+   "last_online": "2026-10-22",
    "username": "EdwardKillick"
   },
   "eigenmann-chess": {
@@ -1972,7 +1972,7 @@
   },
   "lostfish-bot": {
    "first_seen": "2026-10-20",
-   "last_online": "2026-10-21",
+   "last_online": "2026-10-22",
    "username": "Lostfish-bot"
   },
   "louischess48-6k": {
@@ -2457,7 +2457,7 @@
   },
   "nnueandthevoices": {
    "first_seen": "2026-10-14",
-   "last_online": "2026-10-21",
+   "last_online": "2026-10-22",
    "username": "NNUEandTheVoices"
   },
   "noabot": {
@@ -2777,7 +2777,7 @@
   },
   "queensgambot": {
    "first_seen": "2026-09-27",
-   "last_online": "2026-10-21",
+   "last_online": "2026-10-22",
    "username": "QueensGamBOT"
   },
   "r0bspierre": {
@@ -3317,7 +3317,7 @@
   },
   "stockcotsfish": {
    "first_seen": "2026-10-07",
-   "last_online": "2026-10-21",
+   "last_online": "2026-10-22",
    "username": "Stockcotsfish"
   },
   "stockdory": {
@@ -3922,7 +3922,7 @@
   }
  },
  "online": {
-  "checked_at": "2026-10-22T00:43:09Z",
+  "checked_at": "2026-10-22T01:43:11Z",
   "ids": [
    "abcd_engine",
    "aconcaguabot",
@@ -3990,6 +3990,7 @@
    "chessiverse_luc",
    "chessiverse_pawnza",
    "chessiverse_raak",
+   "chesstango_bot",
    "cheszter",
    "chill4ce",
    "chronicgambler",
@@ -4030,6 +4031,7 @@
    "drewschessmachine",
    "duchessai",
    "dumbotai",
+   "edwardkillick",
    "eigenmann-chess",
    "elachessbot",
    "elephantgambitengine",
@@ -4117,6 +4119,7 @@
    "lilitbot",
    "little-0",
    "littlepatricia",
+   "lostfish-bot",
    "lukebot",
    "lunaenginechess",
    "lynx_bot",
@@ -4172,6 +4175,7 @@
    "nickdrohan",
    "nilatacbot",
    "nittedal",
+   "nnueandthevoices",
    "noabot",
    "noel-bot",
    "o-rei-cx",
@@ -4204,6 +4208,7 @@
    "psion-chess",
    "puisne",
    "pzchessbot",
+   "queensgambot",
    "radianceengine",
    "raspfish",
    "ratkingbot",
@@ -4250,6 +4255,7 @@
    "sseh-c",
    "stepbot_chess",
    "stickshark99",
+   "stockcotsfish",
    "stockdory",
    "stockfail",
    "stockfishlowdepth",
@@ -4259,7 +4265,6 @@
    "stupidfishbotbydscs",
    "sunfish-engine",
    "sunfish-nnue-engine",
-   "sxphia",
    "sybaibot",
    "sybbot",
    "sykorabot",
