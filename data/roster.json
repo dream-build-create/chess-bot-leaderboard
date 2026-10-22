@@ -667,7 +667,7 @@
   },
   "cheesestar": {
    "first_seen": "2026-09-28",
-   "last_online": "2026-10-21",
+   "last_online": "2026-10-22",
    "username": "CheeseStar"
   },
   "chekovbot": {
@@ -3857,7 +3857,7 @@
   },
   "wildorderbot": {
    "first_seen": "2026-09-28",
-   "last_online": "2026-10-21",
+   "last_online": "2026-10-22",
    "username": "WildorderBot"
   },
   "windmolen_bot": {
@@ -3952,7 +3952,7 @@
   }
  },
  "online": {
-  "checked_at": "2026-10-22T16:43:10Z",
+  "checked_at": "2026-10-22T17:36:34Z",
   "ids": [
    "aaronsengine",
    "aathena101",
@@ -4016,6 +4016,7 @@
    "chamberiajedrez",
    "chaotong_engine",
    "charibot",
+   "cheesestar",
    "chess_know",
    "chess_set_manager",
    "chessai4f",
@@ -4081,7 +4082,6 @@
    "flybrainchess",
    "fschess-engine",
    "funcomp",
-   "gambitonlybot",
    "garbobot",
    "geotsibot",
    "gnu4u",
@@ -4107,7 +4107,6 @@
    "jacobsbot",
    "jakgro",
    "jangine",
-   "jaxakos13_bot",
    "jesterchessrobot",
    "jibbby",
    "jinko-chan",
@@ -4183,7 +4182,6 @@
    "nexosdefos",
    "nibbleknight",
    "nice_bot",
-   "nickdrohan",
    "nilatacbot",
    "nittedal",
    "nnueandthevoices",
@@ -4228,7 +4226,6 @@
    "renegadeengine",
    "resolutebot",
    "ribfish-bot",
-   "robotjfischer",
    "romanticbot",
    "romanticbot2",
    "rudim-bot",
@@ -4252,7 +4249,6 @@
    "silasly",
    "sim3million",
    "simbelmyne-bot",
-   "simple-bot",
    "simpleeval",
    "sj_norbot",
    "slate-engine",
@@ -4261,7 +4257,6 @@
    "snaky-bot",
    "solobot",
    "southbot",
-   "sparkchessengine",
    "springerbot",
    "squarefish-900",
    "sseh-c",
@@ -4325,6 +4320,7 @@
    "walpurti",
    "weiawaga",
    "weledar-bot",
+   "wildorderbot",
    "wolfuhfuhbot",
    "worst-ai",
    "worstfish",
