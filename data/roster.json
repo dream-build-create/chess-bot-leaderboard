@@ -12,7 +12,7 @@
   },
   "aatk_vanguardx": {
    "first_seen": "2026-09-27",
-   "last_online": "2026-10-21",
+   "last_online": "2026-10-22",
    "username": "AATK_VanguardX"
   },
   "abcd_engine": {
@@ -212,7 +212,7 @@
   },
   "ask-aatk-bot": {
    "first_seen": "2026-09-27",
-   "last_online": "2026-10-21",
+   "last_online": "2026-10-22",
    "username": "Ask-AATK-bot"
   },
   "askaig": {
@@ -1782,7 +1782,7 @@
   },
   "kruguer_engine": {
    "first_seen": "2026-10-18",
-   "last_online": "2026-10-21",
+   "last_online": "2026-10-22",
    "username": "Kruguer_Engine"
   },
   "kulubot": {
@@ -3142,7 +3142,7 @@
   },
   "simple-bot": {
    "first_seen": "2026-09-27",
-   "last_online": "2026-10-21",
+   "last_online": "2026-10-22",
    "username": "simple-bot"
   },
   "simplechessnnue": {
@@ -3357,7 +3357,7 @@
   },
   "studyloversz-bot": {
    "first_seen": "2026-09-27",
-   "last_online": "2026-10-21",
+   "last_online": "2026-10-22",
    "username": "Studyloversz-bot"
   },
   "stupidchessrobot": {
@@ -3922,8 +3922,9 @@
   }
  },
  "online": {
-  "checked_at": "2026-10-22T01:43:11Z",
+  "checked_at": "2026-10-22T02:43:09Z",
   "ids": [
+   "aatk_vanguardx",
    "abcd_engine",
    "aconcaguabot",
    "aetherbot",
@@ -3946,6 +3947,7 @@
    "arkiplayschess",
    "artidigm_research",
    "ashnostromo",
+   "ask-aatk-bot",
    "atari-video-chess",
    "athena-chessbot",
    "axiom_bot",
@@ -4100,6 +4102,7 @@
    "kirinchessbot",
    "kopyto_dev",
    "kowalabi",
+   "kruguer_engine",
    "kulubot",
    "lamprook",
    "larryz-alterego",
@@ -4242,6 +4245,7 @@
    "silasly",
    "sim3million",
    "simbelmyne-bot",
+   "simple-bot",
    "simpleeval",
    "sj_norbot",
    "slate-engine",
@@ -4261,10 +4265,12 @@
    "stockfishlowdepth",
    "stockpapagei",
    "streamervschat",
+   "studyloversz-bot",
    "stupidchessrobot",
    "stupidfishbotbydscs",
    "sunfish-engine",
    "sunfish-nnue-engine",
+   "sxphia",
    "sybaibot",
    "sybbot",
    "sykorabot",
@@ -4313,7 +4319,6 @@
    "vortexaurafarm",
    "waldemar-the-elf",
    "weiawaga",
-   "weledar-bot",
    "wolfuhfuhbot",
    "worst-ai",
    "worstfish",
