@@ -1320,6 +1320,11 @@
    "last_online": "2026-10-22",
    "username": "FunComp"
   },
+  "galaxy-stellar-bot": {
+   "first_seen": "2026-10-22",
+   "last_online": "2026-10-22",
+   "username": "Galaxy-Stellar-Bot"
+  },
   "gambitonlybot": {
    "first_seen": "2026-09-28",
    "last_online": "2026-10-21",
@@ -1757,7 +1762,7 @@
   },
   "kittyenginev5": {
    "first_seen": "2026-10-20",
-   "last_online": "2026-10-21",
+   "last_online": "2026-10-22",
    "username": "KittyEngineV5"
   },
   "kiwi_cube": {
@@ -2407,7 +2412,7 @@
   },
   "newtsbot": {
    "first_seen": "2026-09-27",
-   "last_online": "2026-10-21",
+   "last_online": "2026-10-22",
    "username": "NEWTSbot"
   },
   "nexastrat": {
@@ -2517,7 +2522,7 @@
   },
   "openingsbot": {
    "first_seen": "2026-10-02",
-   "last_online": "2026-10-05",
+   "last_online": "2026-10-22",
    "username": "OpeningsBot"
   },
   "osaurus": {
@@ -2662,17 +2667,17 @@
   },
   "pirates1": {
    "first_seen": "2026-10-01",
-   "last_online": "2026-10-18",
+   "last_online": "2026-10-22",
    "username": "pirates1"
   },
   "pirates2": {
    "first_seen": "2026-09-30",
-   "last_online": "2026-10-18",
+   "last_online": "2026-10-22",
    "username": "Pirates2"
   },
   "piratesrust": {
    "first_seen": "2026-10-01",
-   "last_online": "2026-10-21",
+   "last_online": "2026-10-22",
    "username": "PiratesRust"
   },
   "platinumbot": {
@@ -2982,7 +2987,7 @@
   },
   "rust-bot": {
    "first_seen": "2026-10-21",
-   "last_online": "2026-10-21",
+   "last_online": "2026-10-22",
    "username": "rust-bot"
   },
   "rust-in-pieces": {
@@ -3657,7 +3662,7 @@
   },
   "unimark": {
    "first_seen": "2026-09-27",
-   "last_online": "2026-10-18",
+   "last_online": "2026-10-22",
    "username": "UniMark"
   },
   "unknownstockfish": {
@@ -3932,7 +3937,7 @@
   }
  },
  "online": {
-  "checked_at": "2026-10-22T06:43:10Z",
+  "checked_at": "2026-10-22T07:43:11Z",
   "ids": [
    "aatk_vanguardx",
    "abcd_engine",
@@ -3948,7 +3953,6 @@
    "alliethechessbot",
    "angela_eng",
    "anna-bot",
-   "annachess2025",
    "annie_archy",
    "antibotv3-7",
    "aposeij",
@@ -3978,6 +3982,7 @@
    "blujay-bot",
    "bobby_pcolla",
    "bongaclang",
+   "boris-trapsky",
    "borkatower",
    "bot5551",
    "bot64jaques",
@@ -3991,7 +3996,6 @@
    "c-t-r-l",
    "c0kval",
    "caiporabot",
-   "cannotcheckmateme",
    "casanchess-nnue",
    "catnail",
    "catriever",
@@ -3999,7 +4003,6 @@
    "chess3bot",
    "chess_know",
    "chess_set_manager",
-   "chessai4f",
    "chessiverse_ethan",
    "chessiverse_luc",
    "chessiverse_pawnza",
@@ -4022,6 +4025,7 @@
    "croco_bot",
    "croco_little_bot",
    "crocodile_bot",
+   "cruelken",
    "dala-1100",
    "dala-1300",
    "dala-1600",
@@ -4040,7 +4044,6 @@
    "demolito_l3",
    "demolito_l4",
    "demolito_l5",
-   "demolito_l6",
    "drawfish-reborn",
    "drewschessmachine",
    "duchessai",
@@ -4064,11 +4067,11 @@
    "flybrainchess",
    "fschess-engine",
    "funcomp",
+   "galaxy-stellar-bot",
    "garbobot",
    "georgii_ai",
    "geotsibot",
    "gnu4u",
-   "goldfish-engine",
    "goopis",
    "grail-bot",
    "grindfish",
@@ -4076,7 +4079,6 @@
    "gryndor",
    "halcyonbot",
    "heavennear",
-   "hiusbot",
    "hodgeybot",
    "holidaybot1225",
    "hummus-bot",
@@ -4108,6 +4110,7 @@
    "kestrelstrike",
    "kingzbot",
    "kirinchessbot",
+   "kittyenginev5",
    "kopyto_dev",
    "kowalabi",
    "kruguer_engine",
@@ -4178,9 +4181,9 @@
    "musashi-thebot",
    "mychessjava",
    "nanozeroorg",
-   "neryba",
    "neurosocute",
    "newchessengine-ai",
+   "newtsbot",
    "nexastrat",
    "nexosdefos",
    "nibbleknight",
@@ -4193,6 +4196,7 @@
    "noel-bot",
    "o-rei-cx",
    "odonata-bot",
+   "openingsbot",
    "overfitted",
    "oxybullet",
    "oxydanbot",
@@ -4210,6 +4214,9 @@
    "perl-gigachess",
    "pi0w",
    "piglet_engine",
+   "pirates1",
+   "pirates2",
+   "piratesrust",
    "playmarius",
    "plumboi",
    "plumbot",
@@ -4219,7 +4226,6 @@
    "psion-chess",
    "puisne",
    "pzchessbot",
-   "queensgambot",
    "radianceengine",
    "raspfish",
    "ratkingbot",
@@ -4235,6 +4241,7 @@
    "romanticbot",
    "romanticbot2",
    "rudim-bot",
+   "rust-bot",
    "rust-in-pieces",
    "rustbot2003",
    "rustyrival",
@@ -4256,7 +4263,6 @@
    "simbelmyne-bot",
    "simple-bot",
    "simpleeval",
-   "sj_norbot",
    "slate-engine",
    "sleepmindengine",
    "slowmate_bot",
@@ -4307,6 +4313,7 @@
    "turochamp-1ply",
    "uiagbot",
    "ultrabrick",
+   "unimark",
    "ursus_bot",
    "usunfish",
    "usunfish-l0",
@@ -4322,7 +4329,6 @@
    "vidbot",
    "viet-ai",
    "vietnamesecoffee",
-   "void_bot",
    "vortex_bot",
    "vortexaurafarm",
    "waldemar-the-elf",
