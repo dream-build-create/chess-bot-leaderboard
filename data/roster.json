@@ -505,6 +505,11 @@
    "last_online": "2026-10-04",
    "username": "Botvunnix"
   },
+  "botyon": {
+   "first_seen": "2026-10-22",
+   "last_online": "2026-10-22",
+   "username": "Botyon"
+  },
   "botyuliirma": {
    "first_seen": "2026-10-06",
    "last_online": "2026-10-11",
@@ -627,12 +632,12 @@
   },
   "ceraf": {
    "first_seen": "2026-10-01",
-   "last_online": "2026-10-20",
+   "last_online": "2026-10-22",
    "username": "CERAF"
   },
   "chamberiajedrez": {
    "first_seen": "2026-09-29",
-   "last_online": "2026-10-21",
+   "last_online": "2026-10-22",
    "username": "ChamberiAjedrez"
   },
   "chaotong_engine": {
@@ -2507,7 +2512,7 @@
   },
   "olimarianbot": {
    "first_seen": "2026-10-21",
-   "last_online": "2026-10-21",
+   "last_online": "2026-10-22",
    "username": "Olimarianbot"
   },
   "omegazero-bot": {
@@ -3807,7 +3812,7 @@
   },
   "walpurti": {
    "first_seen": "2026-09-27",
-   "last_online": "2026-10-21",
+   "last_online": "2026-10-22",
    "username": "walpurti"
   },
   "wannalearnbot": {
@@ -3942,7 +3947,7 @@
   }
  },
  "online": {
-  "checked_at": "2026-10-22T12:43:11Z",
+  "checked_at": "2026-10-22T13:43:10Z",
   "ids": [
    "aaronsengine",
    "aatk_vanguardx",
@@ -3995,6 +4000,7 @@
    "bot_adario",
    "botkingteam33",
    "bottios",
+   "botyon",
    "bravobot",
    "bretemabot",
    "bubblebot2",
@@ -4002,11 +4008,12 @@
    "c-t-r-l",
    "c0kval",
    "caiporabot",
-   "caissa-x",
    "cannotcheckmateme",
    "casanchess-nnue",
    "catnail",
    "catriever",
+   "ceraf",
+   "chamberiajedrez",
    "charibot",
    "chess_know",
    "chessai4f",
@@ -4046,12 +4053,7 @@
    "deepbecky",
    "deepsquare-ai",
    "demen100ns-bot",
-   "demolito_l1",
-   "demolito_l2",
-   "demolito_l3",
    "demolito_l4",
-   "demolito_l5",
-   "demolito_l6",
    "drawfish-reborn",
    "drewschessmachine",
    "duchessai",
@@ -4189,7 +4191,6 @@
    "musashi-thebot",
    "mychessjava",
    "nanozeroorg",
-   "neryba",
    "neurosocute",
    "newchessengine-ai",
    "nexastrat",
@@ -4204,6 +4205,7 @@
    "noel-bot",
    "o-rei-cx",
    "odonata-bot",
+   "olimarianbot",
    "openingsbot",
    "overfitted",
    "oxybullet",
@@ -4318,7 +4320,6 @@
    "uiagbot",
    "ultrabrick",
    "unimark",
-   "ursus_bot",
    "usunfish",
    "usunfish-l0",
    "usunfish-l1",
@@ -4337,6 +4338,7 @@
    "vortex_bot",
    "vortexaurafarm",
    "waldemar-the-elf",
+   "walpurti",
    "weiawaga",
    "wolfuhfuhbot",
    "worst-ai",
