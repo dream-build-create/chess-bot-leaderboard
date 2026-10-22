@@ -1,7 +1,7 @@
 {
  "schema_version": 1,
  "generated_at": "2026-10-22T01:05:08Z",
- "online_checked_at": "2026-10-22T17:36:34Z",
+ "online_checked_at": "2026-10-22T17:43:10Z",
  "source": "Lichess public API",
  "rules": {
   "activity_days": 7,
@@ -1708,7 +1708,7 @@
     "rd": 45,
     "games": 3663,
     "last_active": "2026-10-22",
-    "online": false,
+    "online": true,
     "stockfish": false,
     "declared_engine": null,
     "bio": "GambitOnlyBot is supposed to only play gambits, but is still under development. Designed to play sharp opening lines and immediate kingside pressure. Currently only accepts bullet and blitz challenges.",
@@ -6793,7 +6793,7 @@
     "rd": 45,
     "games": 5623,
     "last_active": "2026-10-22",
-    "online": false,
+    "online": true,
     "stockfish": false,
     "declared_engine": null,
     "bio": "GambitOnlyBot is supposed to only play gambits, but is still under development. Designed to play sharp opening lines and immediate kingside pressure. Currently only accepts bullet and blitz challenges.",
