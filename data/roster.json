@@ -7,7 +7,7 @@
   },
   "aathena101": {
    "first_seen": "2026-10-16",
-   "last_online": "2026-10-21",
+   "last_online": "2026-10-22",
    "username": "AAthena101"
   },
   "aatk_vanguardx": {
@@ -437,7 +437,7 @@
   },
   "bot-o-tron": {
    "first_seen": "2026-09-28",
-   "last_online": "2026-10-19",
+   "last_online": "2026-10-22",
    "username": "bot-o-tron"
   },
   "bot1e": {
@@ -1937,7 +1937,7 @@
   },
   "lepbot": {
    "first_seen": "2026-10-20",
-   "last_online": "2026-10-21",
+   "last_online": "2026-10-22",
    "username": "lepbot"
   },
   "levymaia": {
@@ -1949,6 +1949,11 @@
    "first_seen": "2026-09-27",
    "last_online": "2026-10-22",
    "username": "likeawizard-bot"
+  },
+  "lili-ai": {
+   "first_seen": "2026-10-22",
+   "last_online": "2026-10-22",
+   "username": "Lili-ai"
   },
   "lilitbot": {
    "first_seen": "2026-09-27",
@@ -2352,7 +2357,7 @@
   },
   "n1742bot": {
    "first_seen": "2026-10-19",
-   "last_online": "2026-10-19",
+   "last_online": "2026-10-22",
    "username": "N1742Bot"
   },
   "nanozeroorg": {
@@ -2922,7 +2927,7 @@
   },
   "robotjfischer": {
    "first_seen": "2026-09-29",
-   "last_online": "2026-10-16",
+   "last_online": "2026-10-22",
    "username": "RobotJFischer"
   },
   "rocketengine": {
@@ -3237,7 +3242,7 @@
   },
   "solidor59": {
    "first_seen": "2026-09-29",
-   "last_online": "2026-10-19",
+   "last_online": "2026-10-22",
    "username": "SOLIDOR59"
   },
   "solobot": {
@@ -3937,8 +3942,9 @@
   }
  },
  "online": {
-  "checked_at": "2026-10-22T07:43:11Z",
+  "checked_at": "2026-10-22T08:43:11Z",
   "ids": [
+   "aathena101",
    "aatk_vanguardx",
    "abcd_engine",
    "aconcaguabot",
@@ -3953,6 +3959,7 @@
    "alliethechessbot",
    "angela_eng",
    "anna-bot",
+   "annachess2025",
    "annie_archy",
    "antibotv3-7",
    "aposeij",
@@ -3970,7 +3977,6 @@
    "banerot",
    "batyarapro",
    "bbc_bot",
-   "becela9_kpebetka",
    "berkbot",
    "bernstein-2ply",
    "bernstein-4ply",
@@ -3984,6 +3990,7 @@
    "bongaclang",
    "boris-trapsky",
    "borkatower",
+   "bot-o-tron",
    "bot5551",
    "bot64jaques",
    "bot_adario",
@@ -3993,15 +4000,14 @@
    "bubblebot2",
    "byte-knight",
    "bytefish",
-   "c-t-r-l",
    "c0kval",
    "caiporabot",
+   "cannotcheckmateme",
    "casanchess-nnue",
    "catnail",
    "catriever",
    "charibot",
    "chess3bot",
-   "chess_know",
    "chess_set_manager",
    "chessiverse_ethan",
    "chessiverse_luc",
@@ -4044,6 +4050,7 @@
    "demolito_l3",
    "demolito_l4",
    "demolito_l5",
+   "demolito_l6",
    "drawfish-reborn",
    "drewschessmachine",
    "duchessai",
@@ -4072,6 +4079,7 @@
    "georgii_ai",
    "geotsibot",
    "gnu4u",
+   "goldfish-engine",
    "goopis",
    "grail-bot",
    "grindfish",
@@ -4129,8 +4137,10 @@
    "leelarookodds",
    "leelatroll",
    "leol-bot",
+   "lepbot",
    "levymaia",
    "likeawizard-bot",
+   "lili-ai",
    "lilitbot",
    "little-0",
    "littlepatricia",
@@ -4165,7 +4175,6 @@
    "mate1-bot",
    "matmoi",
    "mayflyengine",
-   "mcdonalds1955",
    "mega-noob-bot",
    "melsh_bot",
    "milanbot",
@@ -4180,10 +4189,9 @@
    "mrtonnerre",
    "musashi-thebot",
    "mychessjava",
+   "n1742bot",
    "nanozeroorg",
    "neurosocute",
-   "newchessengine-ai",
-   "newtsbot",
    "nexastrat",
    "nexosdefos",
    "nibbleknight",
@@ -4238,6 +4246,7 @@
    "renegadeengine",
    "resolutebot",
    "ribfish-bot",
+   "robotjfischer",
    "romanticbot",
    "romanticbot2",
    "rudim-bot",
@@ -4263,10 +4272,12 @@
    "simbelmyne-bot",
    "simple-bot",
    "simpleeval",
+   "sj_norbot",
    "slate-engine",
    "sleepmindengine",
    "slowmate_bot",
    "snaky-bot",
+   "solidor59",
    "solobot",
    "southbot",
    "springerbot",
