@@ -817,7 +817,7 @@
   },
   "chrusty": {
    "first_seen": "2026-09-28",
-   "last_online": "2026-10-20",
+   "last_online": "2026-10-23",
    "username": "chrusty"
   },
   "cinder-bot": {
@@ -1385,6 +1385,11 @@
    "last_online": "2026-10-21",
    "username": "Ghidorah_X"
   },
+  "giffibot": {
+   "first_seen": "2026-10-23",
+   "last_online": "2026-10-23",
+   "username": "GiffiBot"
+  },
   "gnu4u": {
    "first_seen": "2026-10-03",
    "last_online": "2026-10-23",
@@ -1785,6 +1790,11 @@
    "last_online": "2026-10-23",
    "username": "KirinChessBot"
   },
+  "kittenfish": {
+   "first_seen": "2026-10-23",
+   "last_online": "2026-10-23",
+   "username": "KittenFish"
+  },
   "kittyenginev5": {
    "first_seen": "2026-10-20",
    "last_online": "2026-10-23",
@@ -1804,6 +1814,11 @@
    "first_seen": "2026-09-29",
    "last_online": "2026-10-09",
    "username": "Kobal11"
+  },
+  "koi_engine": {
+   "first_seen": "2026-10-23",
+   "last_online": "2026-10-23",
+   "username": "koi_engine"
   },
   "kopyto_dev": {
    "first_seen": "2026-09-27",
@@ -1907,7 +1922,7 @@
   },
   "leelamultiposs": {
    "first_seen": "2026-10-08",
-   "last_online": "2026-10-21",
+   "last_online": "2026-10-23",
    "username": "LeelaMultiPoss"
   },
   "leelapieceodds": {
@@ -2957,7 +2972,7 @@
   },
   "robert_is_bot": {
    "first_seen": "2026-10-17",
-   "last_online": "2026-10-19",
+   "last_online": "2026-10-23",
    "username": "Robert_is_Bot"
   },
   "robotjfischer": {
@@ -3992,9 +4007,10 @@
   }
  },
  "online": {
-  "checked_at": "2026-10-23T13:43:11Z",
+  "checked_at": "2026-10-23T14:43:10Z",
   "ids": [
    "aaronsengine",
+   "abcd_engine",
    "aconcaguabot",
    "aetherbot",
    "aggressivestockfish",
@@ -4034,6 +4050,7 @@
    "bitbitbot",
    "blackeventhorizon",
    "bluemoonbot",
+   "blujay-bot",
    "bobby_pcolla",
    "bongaclang",
    "borkatower",
@@ -4043,13 +4060,13 @@
    "botkingteam33",
    "bottios",
    "botyon",
+   "bravobot",
    "bretemabot",
    "bubblebot2",
    "byte-knight",
    "c-t-r-l",
    "c0kval",
    "caiporabot",
-   "caissa-x",
    "cannotcheckmateme",
    "casanchess-nnue",
    "catnail",
@@ -4059,7 +4076,6 @@
    "charibot",
    "chess_know",
    "chess_set_manager",
-   "chessai4f",
    "chessiverse_ethan",
    "chessiverse_luc",
    "chessiverse_pawnza",
@@ -4069,6 +4085,7 @@
    "cheszter",
    "chill4ce",
    "chronicgambler",
+   "chrusty",
    "cinder-bot",
    "classic_bot-v2",
    "classical-leela",
@@ -4105,7 +4122,6 @@
    "edwardkillick",
    "eigenmann-chess",
    "elachessbot",
-   "elexunix_chess_bot",
    "ellen_replay",
    "elmichess",
    "endspiel-pi",
@@ -4115,7 +4131,6 @@
    "fataliibot",
    "fathzer-jchess",
    "felipe_bot_53",
-   "fenrirbot",
    "fetacompli",
    "fivejoyouspandas",
    "flounderbot",
@@ -4126,6 +4141,7 @@
    "galaxy-stellar-bot",
    "garbobot",
    "geotsibot",
+   "giffibot",
    "gnu4u",
    "goldfish-engine",
    "goopis",
@@ -4143,7 +4159,6 @@
    "hustler_2mb",
    "hustler_5mb",
    "hynobiuschess",
-   "hyperopic",
    "icarus-bot",
    "ilovecatgirl",
    "incipit_bot",
@@ -4166,7 +4181,8 @@
    "kestrelstrike",
    "kingzbot",
    "kirinchessbot",
-   "kittyenginev5",
+   "kittenfish",
+   "koi_engine",
    "kopyto_dev",
    "kulubot",
    "lamprook",
@@ -4175,6 +4191,7 @@
    "leelaalien",
    "leelajester",
    "leelaknightodds",
+   "leelamultiposs",
    "leelapieceodds",
    "leelaqueenforknight",
    "leelaqueenodds",
@@ -4182,7 +4199,6 @@
    "leelarookodds",
    "leelatroll",
    "leol-bot",
-   "lepbot",
    "levymaia",
    "likeawizard-bot",
    "lili-ai",
@@ -4297,6 +4313,7 @@
    "renegadeengine",
    "resolutebot",
    "ribfish-bot",
+   "robert_is_bot",
    "romanticbot",
    "romanticbot2",
    "rudim-bot",
@@ -4333,7 +4350,6 @@
    "springerbot",
    "squarefish-900",
    "sseh-c",
-   "stepbot_chess",
    "stickshark99",
    "stockcotsfish",
    "stockdory",
