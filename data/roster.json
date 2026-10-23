@@ -12,7 +12,7 @@
   },
   "aatk_vanguardx": {
    "first_seen": "2026-09-27",
-   "last_online": "2026-10-22",
+   "last_online": "2026-10-23",
    "username": "AATK_VanguardX"
   },
   "abcd_engine": {
@@ -217,7 +217,7 @@
   },
   "ask-aatk-bot": {
    "first_seen": "2026-09-27",
-   "last_online": "2026-10-22",
+   "last_online": "2026-10-23",
    "username": "Ask-AATK-bot"
   },
   "askaig": {
@@ -1292,7 +1292,7 @@
   },
   "fivejoyouspandas": {
    "first_seen": "2026-10-22",
-   "last_online": "2026-10-22",
+   "last_online": "2026-10-23",
    "username": "FiveJoyousPandas"
   },
   "flompiebot": {
@@ -1312,7 +1312,7 @@
   },
   "fourcuriouspandas": {
    "first_seen": "2026-10-09",
-   "last_online": "2026-10-22",
+   "last_online": "2026-10-23",
    "username": "FourCuriousPandas"
   },
   "fpga-chess": {
@@ -1362,7 +1362,7 @@
   },
   "georgii_ai": {
    "first_seen": "2026-09-28",
-   "last_online": "2026-10-22",
+   "last_online": "2026-10-23",
    "username": "georgii_ai"
   },
   "geotsibot": {
@@ -1777,7 +1777,7 @@
   },
   "kittyenginev5": {
    "first_seen": "2026-10-20",
-   "last_online": "2026-10-22",
+   "last_online": "2026-10-23",
    "username": "KittyEngineV5"
   },
   "kiwi_cube": {
@@ -2222,7 +2222,7 @@
   },
   "matthewcarven": {
    "first_seen": "2026-10-14",
-   "last_online": "2026-10-22",
+   "last_online": "2026-10-23",
    "username": "matthewcarven"
   },
   "maxthedog-esp32": {
@@ -2467,7 +2467,7 @@
   },
   "nickdrohan": {
    "first_seen": "2026-09-30",
-   "last_online": "2026-10-22",
+   "last_online": "2026-10-23",
    "username": "nickdrohan"
   },
   "nickl1bot": {
@@ -2537,7 +2537,7 @@
   },
   "onezenpanda": {
    "first_seen": "2026-10-02",
-   "last_online": "2026-10-22",
+   "last_online": "2026-10-23",
    "username": "OneZenPanda"
   },
   "openinggenie2000": {
@@ -3397,7 +3397,7 @@
   },
   "studyloversz-bot": {
    "first_seen": "2026-09-27",
-   "last_online": "2026-10-22",
+   "last_online": "2026-10-23",
    "username": "Studyloversz-bot"
   },
   "stupidchessrobot": {
@@ -3672,7 +3672,7 @@
   },
   "twosillypandas": {
    "first_seen": "2026-10-06",
-   "last_online": "2026-10-22",
+   "last_online": "2026-10-23",
    "username": "TwoSillyPandas"
   },
   "uiagbot": {
@@ -3972,9 +3972,11 @@
   }
  },
  "online": {
-  "checked_at": "2026-10-23T01:43:10Z",
+  "checked_at": "2026-10-23T02:43:13Z",
   "ids": [
    "aathena101",
+   "aatk_vanguardx",
+   "abcd_engine",
    "aconcaguabot",
    "aetherbot",
    "aggressivestockfish",
@@ -3997,6 +3999,7 @@
    "arkiplayschess",
    "artidigm_research",
    "ashnostromo",
+   "ask-aatk-bot",
    "atari-video-chess",
    "athena-chessbot",
    "axiom_bot",
@@ -4092,11 +4095,14 @@
    "felipe_bot_53",
    "fenrirbot",
    "fetacompli",
+   "fivejoyouspandas",
    "flounderbot",
    "flybrainchess",
+   "fourcuriouspandas",
    "fschess-engine",
    "funcomp",
    "garbobot",
+   "georgii_ai",
    "geotsibot",
    "gnu4u",
    "goldfish-engine",
@@ -4139,6 +4145,7 @@
    "kestrelstrike",
    "kingzbot",
    "kirinchessbot",
+   "kittyenginev5",
    "kopyto_dev",
    "kulubot",
    "lamprook",
@@ -4190,6 +4197,7 @@
    "mate-in-twenty",
    "mate1-bot",
    "matmoi",
+   "matthewcarven",
    "mayflyengine",
    "mcdonalds1955",
    "mega-noob-bot",
@@ -4213,6 +4221,7 @@
    "nexosdefos",
    "nibbleknight",
    "nice_bot",
+   "nickdrohan",
    "nilatacbot",
    "nittedal",
    "nnueandthevoices",
@@ -4220,6 +4229,7 @@
    "noel-bot",
    "o-rei-cx",
    "odonata-bot",
+   "onezenpanda",
    "openingsbot",
    "overfitted",
    "oxybullet",
@@ -4302,6 +4312,7 @@
    "stockfishlowdepth",
    "stockpapagei",
    "streamervschat",
+   "studyloversz-bot",
    "stupidchessrobot",
    "stupidfishbotbydscs",
    "sunfish-engine",
@@ -4332,6 +4343,7 @@
    "turk_gambit",
    "turkjs",
    "turochamp-1ply",
+   "twosillypandas",
    "ultrabrick",
    "unimark",
    "ursus_bot",
