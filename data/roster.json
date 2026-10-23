@@ -2,7 +2,7 @@
  "bots": {
   "aaronsengine": {
    "first_seen": "2026-09-27",
-   "last_online": "2026-10-22",
+   "last_online": "2026-10-23",
    "username": "AaronsEngine"
   },
   "aathena101": {
@@ -174,6 +174,11 @@
    "first_seen": "2026-10-04",
    "last_online": "2026-10-23",
    "username": "ArabicaHCE"
+  },
+  "arabicannue": {
+   "first_seen": "2026-10-23",
+   "last_online": "2026-10-23",
+   "username": "ArabicaNNUE"
   },
   "arasanx": {
    "first_seen": "2026-09-27",
@@ -690,6 +695,11 @@
    "last_online": "2026-09-29",
    "username": "chengine_rookery"
   },
+  "chess-2-bot": {
+   "first_seen": "2026-10-23",
+   "last_online": "2026-10-23",
+   "username": "chess-2-bot"
+  },
   "chess-dragon1": {
    "first_seen": "2026-09-27",
    "last_online": "2026-10-09",
@@ -1047,7 +1057,7 @@
   },
   "demolito_l1": {
    "first_seen": "2026-09-27",
-   "last_online": "2026-10-22",
+   "last_online": "2026-10-23",
    "username": "Demolito_L1"
   },
   "demolito_l2": {
@@ -2902,7 +2912,7 @@
   },
   "reality_bot": {
    "first_seen": "2026-10-10",
-   "last_online": "2026-10-10",
+   "last_online": "2026-10-23",
    "username": "Reality_BOT"
   },
   "reaper1bot": {
@@ -3972,8 +3982,9 @@
   }
  },
  "online": {
-  "checked_at": "2026-10-23T08:43:09Z",
+  "checked_at": "2026-10-23T09:43:11Z",
   "ids": [
+   "aaronsengine",
    "aathena101",
    "aatk_vanguardx",
    "aconcaguabot",
@@ -3994,6 +4005,7 @@
    "aposeij",
    "approximationbot",
    "arabicahce",
+   "arabicannue",
    "ariadne-bot",
    "arkiplayschess",
    "artidigm_research",
@@ -4002,8 +4014,6 @@
    "athena-chessbot",
    "axiom_bot",
    "banerot",
-   "battlebornthe3rd",
-   "battlebornthe4th",
    "batyarapro",
    "bbc_bot",
    "berkbot",
@@ -4025,8 +4035,8 @@
    "bravobot",
    "bretemabot",
    "bubblebot2",
-   "burgentruck",
    "byte-knight",
+   "c-t-r-l",
    "c0kval",
    "caiporabot",
    "cannotcheckmateme",
@@ -4035,8 +4045,10 @@
    "catriever",
    "chaotong_engine",
    "charibot",
+   "chess-2-bot",
    "chess_know",
    "chess_set_manager",
+   "chessai4f",
    "chessiverse_ethan",
    "chessiverse_luc",
    "chessiverse_pawnza",
@@ -4053,7 +4065,6 @@
    "coda_bot",
    "colinbot",
    "confidencebuilder",
-   "consolechessfastbot",
    "cookiebot711",
    "craftyuci",
    "croco_bot",
@@ -4072,6 +4083,9 @@
    "deepbecky",
    "deepsquare-ai",
    "demen100ns-bot",
+   "demolito_l1",
+   "demolito_l4",
+   "demolito_l5",
    "drawfish-reborn",
    "duchessai",
    "dumbotai",
@@ -4192,9 +4206,9 @@
    "mate1-bot",
    "matmoi",
    "mayflyengine",
+   "mcdonalds1955",
    "mega-noob-bot",
    "melsh_bot",
-   "milanbot",
    "mimirbot",
    "minibotapi",
    "minibruteforcebot",
@@ -4206,7 +4220,6 @@
    "mrtonnerre",
    "musashi-thebot",
    "nanozeroorg",
-   "neryba",
    "neurosocute",
    "nexastrat",
    "nexosdefos",
@@ -4258,6 +4271,7 @@
    "raven030",
    "ravenengine",
    "rdtchessbot",
+   "reality_bot",
    "redbeantree",
    "renegadeengine",
    "resolutebot",
@@ -4352,7 +4366,6 @@
    "vidbot",
    "viet-ai",
    "vietnamesecoffee",
-   "void_bot",
    "vortex_bot",
    "vortexaurafarm",
    "waldemar-the-elf",
