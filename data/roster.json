@@ -1832,7 +1832,7 @@
   },
   "kruguer_engine": {
    "first_seen": "2026-10-18",
-   "last_online": "2026-10-22",
+   "last_online": "2026-10-23",
    "username": "Kruguer_Engine"
   },
   "kulubot": {
@@ -2977,12 +2977,12 @@
   },
   "robotjfischer": {
    "first_seen": "2026-09-29",
-   "last_online": "2026-10-22",
+   "last_online": "2026-10-23",
    "username": "RobotJFischer"
   },
   "rocketengine": {
    "first_seen": "2026-10-11",
-   "last_online": "2026-10-11",
+   "last_online": "2026-10-23",
    "username": "RocketEngine"
   },
   "rockingsuperstars": {
@@ -3227,7 +3227,7 @@
   },
   "sisyphus-engine": {
    "first_seen": "2026-10-12",
-   "last_online": "2026-10-21",
+   "last_online": "2026-10-23",
    "username": "Sisyphus-engine"
   },
   "sj_norbot": {
@@ -4007,10 +4007,9 @@
   }
  },
  "online": {
-  "checked_at": "2026-10-23T18:43:11Z",
+  "checked_at": "2026-10-23T19:43:11Z",
   "ids": [
    "aaronsengine",
-   "aathena101",
    "aatk_vanguardx",
    "aconcaguabot",
    "aetherbot",
@@ -4080,7 +4079,6 @@
    "chessiverse_pawnza",
    "chessiverse_raak",
    "chesstango_bot",
-   "chesstransformerbot",
    "cheszter",
    "chill4ce",
    "chronicgambler",
@@ -4092,6 +4090,7 @@
    "clrsrc_lc0",
    "coda_bot",
    "confidencebuilder",
+   "consolechessfastbot",
    "cookiebot711",
    "craftyuci",
    "croco_bot",
@@ -4138,7 +4137,6 @@
    "fourcuriouspandas",
    "fschess-engine",
    "funcomp",
-   "galaxy-stellar-bot",
    "geotsibot",
    "giffibot",
    "gnu4u",
@@ -4185,8 +4183,8 @@
    "kittyenginev5",
    "koi_engine",
    "kopyto_dev",
+   "kruguer_engine",
    "kulubot",
-   "kurganuci",
    "lamprook",
    "larryz-alterego",
    "laura-bot",
@@ -4201,9 +4199,9 @@
    "leelarookodds",
    "leelatroll",
    "leol-bot",
+   "lepbot",
    "levymaia",
    "likeawizard-bot",
-   "lili-ai",
    "lilitbot",
    "little-0",
    "littlepatricia",
@@ -4237,6 +4235,7 @@
    "mate1-bot",
    "matemakingmachine",
    "matmoi",
+   "matthewcarven",
    "mayflyengine",
    "mcdonalds1955",
    "mega-noob-bot",
@@ -4260,7 +4259,6 @@
    "nexosdefos",
    "nibbleknight",
    "nice_bot",
-   "nickdrohan",
    "nilatacbot",
    "nittedal",
    "nnueandthevoices",
@@ -4279,6 +4277,7 @@
    "patriciabot",
    "patzerbot135",
    "pawn_git",
+   "pawnrobot",
    "pdp8-chekmo",
    "pdp8-clash",
    "peacemaker-0_0",
@@ -4287,9 +4286,6 @@
    "philidor-142m",
    "pi0w",
    "piglet_engine",
-   "pirates1",
-   "pirates2",
-   "piratesrust",
    "playmarius",
    "plumboi",
    "plumbot",
@@ -4308,6 +4304,8 @@
    "redbeantree",
    "resolutebot",
    "ribfish-bot",
+   "robotjfischer",
+   "rocketengine",
    "romanticbot",
    "romanticbot2",
    "rudim-bot",
@@ -4332,6 +4330,7 @@
    "simbelmyne-bot",
    "simple-bot",
    "simpleeval",
+   "sisyphus-engine",
    "sj_norbot",
    "slate-engine",
    "sleepmindengine",
@@ -4368,10 +4367,8 @@
    "thunfisch-bot",
    "tigrament",
    "tikifish",
-   "tilapiabot",
    "to299d",
    "togaii",
-   "tomabbot",
    "topasbot",
    "trainer-bot",
    "trenerhetman",
