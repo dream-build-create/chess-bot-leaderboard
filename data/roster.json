@@ -77,7 +77,7 @@
   },
   "ajedrezchamberi": {
    "first_seen": "2026-09-29",
-   "last_online": "2026-10-22",
+   "last_online": "2026-10-23",
    "username": "AjedrezChamberi"
   },
   "alarm2001": {
@@ -387,7 +387,7 @@
   },
   "blackeventhorizon": {
    "first_seen": "2026-09-27",
-   "last_online": "2026-10-10",
+   "last_online": "2026-10-23",
    "username": "blackEventhorizon"
   },
   "blindpewce": {
@@ -642,7 +642,7 @@
   },
   "chamberiajedrez": {
    "first_seen": "2026-09-29",
-   "last_online": "2026-10-22",
+   "last_online": "2026-10-23",
    "username": "ChamberiAjedrez"
   },
   "chaotong_engine": {
@@ -2677,7 +2677,7 @@
   },
   "philidor-142m": {
    "first_seen": "2026-09-27",
-   "last_online": "2026-10-10",
+   "last_online": "2026-10-23",
    "username": "philidor-142M"
   },
   "pi0w": {
@@ -3245,6 +3245,11 @@
    "last_online": "2026-10-23",
    "username": "slowmate_bot"
   },
+  "sluicing": {
+   "first_seen": "2026-10-23",
+   "last_online": "2026-10-23",
+   "username": "sluicing"
+  },
   "slychessbot": {
    "first_seen": "2026-10-01",
    "last_online": "2026-10-20",
@@ -3687,7 +3692,7 @@
   },
   "uiagbot": {
    "first_seen": "2026-10-10",
-   "last_online": "2026-10-22",
+   "last_online": "2026-10-23",
    "username": "uiagBot"
   },
   "ultrabrick": {
@@ -3982,16 +3987,16 @@
   }
  },
  "online": {
-  "checked_at": "2026-10-23T09:43:11Z",
+  "checked_at": "2026-10-23T10:43:09Z",
   "ids": [
    "aaronsengine",
-   "aathena101",
    "aatk_vanguardx",
    "aconcaguabot",
    "aetherbot",
    "aggressivestockfish",
    "ai-con",
    "ailedbot",
+   "ajedrezchamberi",
    "alarm2001",
    "alexandrya",
    "aliceshiro",
@@ -4010,11 +4015,11 @@
    "arkiplayschess",
    "artidigm_research",
    "ashnostromo",
+   "ask-aatk-bot",
    "atari-video-chess",
    "athena-chessbot",
    "axiom_bot",
    "banerot",
-   "batyarapro",
    "bbc_bot",
    "berkbot",
    "bernstein-2ply",
@@ -4022,6 +4027,7 @@
    "bfiedler-bot",
    "bigbotontheblock",
    "bitbitbot",
+   "blackeventhorizon",
    "bluemoonbot",
    "blujay-bot",
    "bobby_pcolla",
@@ -4035,6 +4041,7 @@
    "bravobot",
    "bretemabot",
    "bubblebot2",
+   "burgentruck",
    "byte-knight",
    "c-t-r-l",
    "c0kval",
@@ -4043,6 +4050,7 @@
    "casanchess-nnue",
    "catnail",
    "catriever",
+   "chamberiajedrez",
    "chaotong_engine",
    "charibot",
    "chess-2-bot",
@@ -4059,7 +4067,6 @@
    "chill4ce",
    "chronicgambler",
    "cinder-bot",
-   "classic_bot-v2",
    "classical-leela",
    "clrsrc_lc0",
    "coda_bot",
@@ -4084,8 +4091,6 @@
    "deepsquare-ai",
    "demen100ns-bot",
    "demolito_l1",
-   "demolito_l4",
-   "demolito_l5",
    "drawfish-reborn",
    "duchessai",
    "dumbotai",
@@ -4209,6 +4214,7 @@
    "mcdonalds1955",
    "mega-noob-bot",
    "melsh_bot",
+   "milanbot",
    "mimirbot",
    "minibotapi",
    "minibruteforcebot",
@@ -4222,7 +4228,6 @@
    "nanozeroorg",
    "neurosocute",
    "nexastrat",
-   "nexosdefos",
    "nibbleknight",
    "nice_bot",
    "nickdrohan",
@@ -4250,9 +4255,9 @@
    "peacemaker-0_0",
    "peachfruit",
    "perl-gigachess",
+   "philidor-142m",
    "pi0w",
    "piglet_engine",
-   "pirates1",
    "pirates2",
    "piratesrust",
    "playmarius",
@@ -4305,6 +4310,7 @@
    "slate-engine",
    "sleepmindengine",
    "slowmate_bot",
+   "sluicing",
    "snaky-bot",
    "solobot",
    "southbot",
@@ -4335,7 +4341,6 @@
    "terconari",
    "thechessblazer",
    "thunfisch-bot",
-   "tikifish",
    "tilapiabot",
    "to299d",
    "togaii",
@@ -4350,6 +4355,7 @@
    "turkjs",
    "turochamp-1ply",
    "twosillypandas",
+   "uiagbot",
    "ultrabrick",
    "unimark",
    "ursus_bot",
