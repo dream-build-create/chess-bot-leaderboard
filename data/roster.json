@@ -287,12 +287,12 @@
   },
   "battlebornthe3rd": {
    "first_seen": "2026-09-29",
-   "last_online": "2026-10-21",
+   "last_online": "2026-10-23",
    "username": "BattleBornThe3rd"
   },
   "battlebornthe4th": {
    "first_seen": "2026-09-28",
-   "last_online": "2026-10-18",
+   "last_online": "2026-10-23",
    "username": "BattleBornThe4th"
   },
   "battlebornthe5th": {
@@ -2732,7 +2732,7 @@
   },
   "pontiengine": {
    "first_seen": "2026-10-20",
-   "last_online": "2026-10-22",
+   "last_online": "2026-10-23",
    "username": "PontiEngine"
   },
   "potential_engine": {
@@ -3972,7 +3972,7 @@
   }
  },
  "online": {
-  "checked_at": "2026-10-23T02:43:13Z",
+  "checked_at": "2026-10-23T03:43:10Z",
   "ids": [
    "aathena101",
    "aatk_vanguardx",
@@ -4004,7 +4004,8 @@
    "athena-chessbot",
    "axiom_bot",
    "banerot",
-   "batyarapro",
+   "battlebornthe3rd",
+   "battlebornthe4th",
    "bbc_bot",
    "becela9_kpebetka",
    "berkbot",
@@ -4017,7 +4018,6 @@
    "blujay-bot",
    "bobby_pcolla",
    "bongaclang",
-   "boris-trapsky",
    "bot5551",
    "bot64jaques",
    "bot_adario",
@@ -4048,7 +4048,6 @@
    "chmod-bot",
    "chronicgambler",
    "cinder-bot",
-   "classic_bot-v2",
    "classical-leela",
    "clrsrc_lc0",
    "coda_bot",
@@ -4111,7 +4110,6 @@
    "grindfish",
    "groshboss",
    "gryndor",
-   "hackerchessbot",
    "halcyonbot",
    "hardrok",
    "hodgeybot",
@@ -4185,7 +4183,6 @@
    "maia3-79m_2600",
    "maia3-79m_600",
    "maia3-79m_800",
-   "maia5",
    "maia9",
    "maia960-1600",
    "maia960-1900",
@@ -4197,7 +4194,6 @@
    "mate-in-twenty",
    "mate1-bot",
    "matmoi",
-   "matthewcarven",
    "mayflyengine",
    "mcdonalds1955",
    "mega-noob-bot",
@@ -4218,7 +4214,6 @@
    "neurosocute",
    "newchessengine-ai",
    "nexastrat",
-   "nexosdefos",
    "nibbleknight",
    "nice_bot",
    "nickdrohan",
@@ -4251,6 +4246,7 @@
    "playmarius",
    "plumboi",
    "plumbot",
+   "pontiengine",
    "prokopakop",
    "prosperobot",
    "psion-chess",
@@ -4265,7 +4261,6 @@
    "raven030",
    "ravenengine",
    "rdtchessbot",
-   "redbeantree",
    "renegadeengine",
    "resolutebot",
    "ribfish-bot",
@@ -4306,7 +4301,6 @@
    "sseh-c",
    "stepbot_chess",
    "stickshark99",
-   "stockcotsfish",
    "stockdory",
    "stockfail",
    "stockfishlowdepth",
@@ -4329,7 +4323,6 @@
    "thechessblazer",
    "throrbjorn",
    "thunfisch-bot",
-   "tikifish",
    "tilapiabot",
    "to299d",
    "togaii",
