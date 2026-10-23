@@ -717,7 +717,7 @@
   },
   "chessai4f": {
    "first_seen": "2026-10-21",
-   "last_online": "2026-10-22",
+   "last_online": "2026-10-23",
    "username": "ChessAI4F"
   },
   "chessatronbot": {
@@ -1147,7 +1147,7 @@
   },
   "eclipsebot": {
    "first_seen": "2026-09-27",
-   "last_online": "2026-10-06",
+   "last_online": "2026-10-23",
    "username": "EclipseBOT"
   },
   "edwardkillick": {
@@ -2007,7 +2007,7 @@
   },
   "lostfish-bot": {
    "first_seen": "2026-10-20",
-   "last_online": "2026-10-22",
+   "last_online": "2026-10-23",
    "username": "Lostfish-bot"
   },
   "louischess48-6k": {
@@ -2817,7 +2817,7 @@
   },
   "queensgambot": {
    "first_seen": "2026-09-27",
-   "last_online": "2026-10-22",
+   "last_online": "2026-10-23",
    "username": "QueensGamBOT"
   },
   "r0bspierre": {
@@ -3862,7 +3862,7 @@
   },
   "weiawaga": {
    "first_seen": "2026-09-27",
-   "last_online": "2026-10-22",
+   "last_online": "2026-10-23",
    "username": "Weiawaga"
   },
   "weirdstockfish": {
@@ -3972,10 +3972,9 @@
   }
  },
  "online": {
-  "checked_at": "2026-10-23T00:43:10Z",
+  "checked_at": "2026-10-23T01:43:10Z",
   "ids": [
    "aathena101",
-   "abcd_engine",
    "aconcaguabot",
    "aetherbot",
    "aggressivestockfish",
@@ -4035,6 +4034,7 @@
    "chaotong_engine",
    "charibot",
    "chess_set_manager",
+   "chessai4f",
    "chessiverse_ethan",
    "chessiverse_luc",
    "chessiverse_pawnza",
@@ -4076,6 +4076,7 @@
    "drewschessmachine",
    "duchessai",
    "dumbotai",
+   "eclipsebot",
    "edwardkillick",
    "eigenmann-chess",
    "elachessbot",
@@ -4154,12 +4155,12 @@
    "leelarookodds",
    "leelatroll",
    "leol-bot",
-   "lepbot",
    "levymaia",
    "likeawizard-bot",
    "lilitbot",
    "little-0",
    "littlepatricia",
+   "lostfish-bot",
    "lukebot",
    "lunaenginechess",
    "lynx_bot",
@@ -4245,6 +4246,7 @@
    "psion-chess",
    "puisne",
    "pzchessbot",
+   "queensgambot",
    "radianceengine",
    "raspfish",
    "ratkingbot",
@@ -4316,7 +4318,6 @@
    "thechessblazer",
    "throrbjorn",
    "thunfisch-bot",
-   "tigrament",
    "tikifish",
    "tilapiabot",
    "to299d",
@@ -4348,11 +4349,11 @@
    "viet-ai",
    "vietnamesecoffee",
    "void_bot",
-   "voodoo-engine",
    "vortex_bot",
    "vortexaurafarm",
    "waldemar-the-elf",
    "walpurti",
+   "weiawaga",
    "wolfuhfuhbot",
    "worst-ai",
    "worstfish",
