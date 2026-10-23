@@ -142,7 +142,7 @@
   },
   "annachess2025": {
    "first_seen": "2026-10-22",
-   "last_online": "2026-10-22",
+   "last_online": "2026-10-23",
    "username": "AnnaChess2025"
   },
   "annie_archy": {
@@ -497,7 +497,7 @@
   },
   "botkingteam33": {
    "first_seen": "2026-10-11",
-   "last_online": "2026-10-22",
+   "last_online": "2026-10-23",
    "username": "Botkingteam33"
   },
   "bottios": {
@@ -2287,7 +2287,7 @@
   },
   "mind_bot": {
    "first_seen": "2026-10-03",
-   "last_online": "2026-10-10",
+   "last_online": "2026-10-23",
    "username": "Mind_BOT"
   },
   "minibotapi": {
@@ -2447,7 +2447,7 @@
   },
   "newtsbot": {
    "first_seen": "2026-09-27",
-   "last_online": "2026-10-22",
+   "last_online": "2026-10-23",
    "username": "NEWTSbot"
   },
   "nexastrat": {
@@ -2529,6 +2529,11 @@
    "first_seen": "2026-09-27",
    "last_online": "2026-10-23",
    "username": "O-Rei-CX"
+  },
+  "o_gg_o": {
+   "first_seen": "2026-10-23",
+   "last_online": "2026-10-23",
+   "username": "O_gg_O"
   },
   "odonata-bot": {
    "first_seen": "2026-10-19",
@@ -3322,7 +3327,7 @@
   },
   "space_bot": {
    "first_seen": "2026-10-05",
-   "last_online": "2026-10-10",
+   "last_online": "2026-10-23",
    "username": "Space_BOT"
   },
   "sparkchessengine": {
@@ -3457,7 +3462,7 @@
   },
   "supergame5": {
    "first_seen": "2026-09-28",
-   "last_online": "2026-10-07",
+   "last_online": "2026-10-23",
    "username": "SuperGame5"
   },
   "supermarkishere": {
@@ -3887,7 +3892,7 @@
   },
   "weledar-bot": {
    "first_seen": "2026-09-29",
-   "last_online": "2026-10-22",
+   "last_online": "2026-10-23",
    "username": "Weledar-bot"
   },
   "wildorderbot": {
@@ -3987,7 +3992,7 @@
   }
  },
  "online": {
-  "checked_at": "2026-10-23T10:43:09Z",
+  "checked_at": "2026-10-23T11:43:11Z",
   "ids": [
    "aaronsengine",
    "aatk_vanguardx",
@@ -3997,13 +4002,13 @@
    "ai-con",
    "ailedbot",
    "ajedrezchamberi",
-   "alarm2001",
    "alexandrya",
    "aliceshiro",
    "alieknek",
    "alliethechessbot",
    "angela_eng",
    "anna-bot",
+   "annachess2025",
    "annie_archy",
    "anti-bot",
    "antibotv3-7",
@@ -4020,7 +4025,10 @@
    "athena-chessbot",
    "axiom_bot",
    "banerot",
+   "battlebornthe4th",
+   "batyarapro",
    "bbc_bot",
+   "becela9_kpebetka",
    "berkbot",
    "bernstein-2ply",
    "bernstein-4ply",
@@ -4032,11 +4040,12 @@
    "blujay-bot",
    "bobby_pcolla",
    "bongaclang",
+   "boris-trapsky",
    "borkatower",
    "bot5551",
    "bot64jaques",
    "bot_adario",
-   "bothev",
+   "botkingteam33",
    "bottios",
    "bravobot",
    "bretemabot",
@@ -4054,9 +4063,7 @@
    "chaotong_engine",
    "charibot",
    "chess-2-bot",
-   "chess_know",
    "chess_set_manager",
-   "chessai4f",
    "chessiverse_ethan",
    "chessiverse_luc",
    "chessiverse_pawnza",
@@ -4067,6 +4074,7 @@
    "chill4ce",
    "chronicgambler",
    "cinder-bot",
+   "classic_bot-v2",
    "classical-leela",
    "clrsrc_lc0",
    "coda_bot",
@@ -4090,8 +4098,8 @@
    "deepbecky",
    "deepsquare-ai",
    "demen100ns-bot",
-   "demolito_l1",
    "drawfish-reborn",
+   "drewschessmachine",
    "duchessai",
    "dumbotai",
    "eclipsebot",
@@ -4118,7 +4126,6 @@
    "funcomp",
    "galaxy-stellar-bot",
    "garbobot",
-   "georgii_ai",
    "geotsibot",
    "gnu4u",
    "goldfish-engine",
@@ -4174,6 +4181,7 @@
    "leelarookodds",
    "leelatroll",
    "leol-bot",
+   "lepbot",
    "levymaia",
    "likeawizard-bot",
    "lili-ai",
@@ -4216,6 +4224,7 @@
    "melsh_bot",
    "milanbot",
    "mimirbot",
+   "mind_bot",
    "minibotapi",
    "minibruteforcebot",
    "minopponentmoves",
@@ -4226,8 +4235,12 @@
    "mrtonnerre",
    "musashi-thebot",
    "nanozeroorg",
+   "neryba",
    "neurosocute",
+   "newchessengine-ai",
+   "newtsbot",
    "nexastrat",
+   "nexosdefos",
    "nibbleknight",
    "nice_bot",
    "nickdrohan",
@@ -4237,6 +4250,7 @@
    "noabot",
    "noel-bot",
    "o-rei-cx",
+   "o_gg_o",
    "odonata-bot",
    "onezenpanda",
    "openingsbot",
@@ -4293,7 +4307,6 @@
    "sargon-2ply",
    "sargon-3ply",
    "sargon-4ply",
-   "sbnovella",
    "scalaqueen",
    "schnecken_bot",
    "scipio-bot",
@@ -4314,6 +4327,7 @@
    "snaky-bot",
    "solobot",
    "southbot",
+   "space_bot",
    "springerbot",
    "squarefish-900",
    "sseh-c",
@@ -4330,6 +4344,7 @@
    "stupidfishbotbydscs",
    "sunfish-engine",
    "sunfish-nnue-engine",
+   "supergame5",
    "sxphia",
    "sybaibot",
    "sybbot",
@@ -4341,6 +4356,7 @@
    "terconari",
    "thechessblazer",
    "thunfisch-bot",
+   "tikifish",
    "tilapiabot",
    "to299d",
    "togaii",
@@ -4372,11 +4388,13 @@
    "vidbot",
    "viet-ai",
    "vietnamesecoffee",
+   "void_bot",
    "vortex_bot",
    "vortexaurafarm",
    "waldemar-the-elf",
    "walpurti",
    "weiawaga",
+   "weledar-bot",
    "wolfuhfuhbot",
    "worst-ai",
    "worstfish",
