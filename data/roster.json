@@ -182,7 +182,7 @@
   },
   "arasanx": {
    "first_seen": "2026-09-27",
-   "last_online": "2026-10-15",
+   "last_online": "2026-10-24",
    "username": "ArasanX"
   },
   "ariadne-bot": {
@@ -822,7 +822,7 @@
   },
   "chrusty": {
    "first_seen": "2026-09-28",
-   "last_online": "2026-10-23",
+   "last_online": "2026-10-24",
    "username": "chrusty"
   },
   "cinder-bot": {
@@ -2582,7 +2582,7 @@
   },
   "openinggenie2000": {
    "first_seen": "2026-09-27",
-   "last_online": "2026-10-19",
+   "last_online": "2026-10-24",
    "username": "OpeningGenie2000"
   },
   "openingsbot": {
@@ -4022,8 +4022,9 @@
   }
  },
  "online": {
-  "checked_at": "2026-10-24T01:43:07Z",
+  "checked_at": "2026-10-24T02:43:07Z",
   "ids": [
+   "aatk_vanguardx",
    "aconcaguabot",
    "aetherbot",
    "aggressivestockfish",
@@ -4043,10 +4044,12 @@
    "approximationbot",
    "arabicahce",
    "arabicannue",
+   "arasanx",
    "ariadne-bot",
    "arkiplayschess",
    "artidigm_research",
    "ashnostromo",
+   "ask-aatk-bot",
    "atari-video-chess",
    "athena-chessbot",
    "axiom_bot",
@@ -4068,6 +4071,7 @@
    "bot5551",
    "bot64jaques",
    "bot_adario",
+   "botsuxx",
    "bottios",
    "bravobot",
    "bretemabot",
@@ -4092,6 +4096,7 @@
    "cheszter",
    "chill4ce",
    "chronicgambler",
+   "chrusty",
    "cinder-bot",
    "classic_bot-v2",
    "classical-leela",
@@ -4272,6 +4277,7 @@
    "o-rei-cx",
    "odonata-bot",
    "onezenpanda",
+   "openinggenie2000",
    "openingsbot",
    "oxybullet",
    "oxydanbot",
@@ -4331,7 +4337,6 @@
    "silasly",
    "sim3million",
    "simbelmyne-bot",
-   "simple-bot",
    "simpleeval",
    "sj_norbot",
    "slate-engine",
@@ -4350,6 +4355,7 @@
    "stockfishlowdepth",
    "stockpapagei",
    "streamervschat",
+   "studyloversz-bot",
    "stupidchessrobot",
    "stupidfishbotbydscs",
    "sunfish-engine",
@@ -4369,7 +4375,6 @@
    "tigrament",
    "tikifish",
    "togaii",
-   "tomabbot",
    "topasbot",
    "trainer-bot",
    "trenerhetman",
