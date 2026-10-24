@@ -2402,7 +2402,7 @@
   },
   "mphobot": {
    "first_seen": "2026-10-22",
-   "last_online": "2026-10-23",
+   "last_online": "2026-10-24",
    "username": "MphoBot"
   },
   "mr_sandbar": {
@@ -3200,6 +3200,11 @@
    "last_online": "2026-10-24",
    "username": "SeitoGaKatsu"
   },
+  "selflearn": {
+   "first_seen": "2026-10-24",
+   "last_online": "2026-10-24",
+   "username": "SelfLearn"
+  },
   "senkabalabot": {
    "first_seen": "2026-10-21",
    "last_online": "2026-10-24",
@@ -3752,7 +3757,7 @@
   },
   "turochamp-2ply": {
    "first_seen": "2026-09-27",
-   "last_online": "2026-10-16",
+   "last_online": "2026-10-24",
    "username": "turochamp-2ply"
   },
   "turox-bot": {
@@ -4067,7 +4072,7 @@
   }
  },
  "online": {
-  "checked_at": "2026-10-24T17:43:10Z",
+  "checked_at": "2026-10-24T18:43:11Z",
   "ids": [
    "aaronsengine",
    "aathena101",
@@ -4111,7 +4116,6 @@
    "bfiedler-bot",
    "bigbotontheblock",
    "bitbitbot",
-   "black-icebot",
    "bluemoonbot",
    "blujay-bot",
    "bobby_pcolla",
@@ -4120,6 +4124,7 @@
    "bot64jaques",
    "bot_adario",
    "botkingteam33",
+   "botsuxx",
    "bottios",
    "bravobot",
    "bretemabot",
@@ -4136,6 +4141,8 @@
    "chamberiajedrez",
    "chaotong_engine",
    "charibot",
+   "chekovbot",
+   "chess_set_manager",
    "chessai4f",
    "chessiverse_ethan",
    "chessiverse_luc",
@@ -4176,7 +4183,6 @@
    "demolito_l3",
    "demolito_l4",
    "drawfish-reborn",
-   "drewschessmachine",
    "duchessai",
    "dumbotai",
    "edwardkillick",
@@ -4192,7 +4198,6 @@
    "fataliibot",
    "fathzer-jchess",
    "felipe_bot_53",
-   "fenrir-bot",
    "fetacompli",
    "fivejoyouspandas",
    "flounderbot",
@@ -4200,7 +4205,6 @@
    "fourcuriouspandas",
    "fschess-engine",
    "funcomp",
-   "gambitonlybot",
    "garbobot",
    "geotsibot",
    "giffibot",
@@ -4263,7 +4267,6 @@
    "leelarookodds",
    "leelatroll",
    "leol-bot",
-   "lepbot",
    "levymaia",
    "likeawizard-bot",
    "lilitbot",
@@ -4313,6 +4316,7 @@
    "mochi_bot",
    "morabandbot",
    "mostlyhuman1900",
+   "mphobot",
    "mrtonnerre",
    "nanozeroorg",
    "neryba",
@@ -4361,7 +4365,6 @@
    "puisne",
    "pzchessbot",
    "radianceengine",
-   "raspfish",
    "ratkingbot",
    "ratsu-bot",
    "ravager_bot",
@@ -4387,6 +4390,7 @@
    "scipio-bot",
    "seedchess",
    "seitogakatsu",
+   "selflearn",
    "shallowredbot",
    "shrevenbot",
    "silasly",
@@ -4408,7 +4412,6 @@
    "stockcotsfish",
    "stockdory",
    "stockfail",
-   "stockfishlowdepth",
    "stockpapagei",
    "streamervschat",
    "stupidchessrobot",
@@ -4420,6 +4423,7 @@
    "sybbot",
    "sykorabot",
    "takticprochess",
+   "tallikebot",
    "talosbot",
    "tempocore",
    "terconari",
@@ -4439,6 +4443,7 @@
    "turk_gambit",
    "turkjs",
    "turochamp-1ply",
+   "turochamp-2ply",
    "turquoisebot",
    "twosillypandas",
    "ultrabrick",
