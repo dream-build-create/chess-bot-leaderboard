@@ -2,7 +2,7 @@
  "bots": {
   "aaronsengine": {
    "first_seen": "2026-09-27",
-   "last_online": "2026-10-23",
+   "last_online": "2026-10-24",
    "username": "AaronsEngine"
   },
   "aathena101": {
@@ -142,7 +142,7 @@
   },
   "annachess2025": {
    "first_seen": "2026-10-22",
-   "last_online": "2026-10-23",
+   "last_online": "2026-10-24",
    "username": "AnnaChess2025"
   },
   "annie_archy": {
@@ -1375,6 +1375,11 @@
    "last_online": "2026-10-19",
    "username": "genesis1bot"
   },
+  "genetic_chess_bot": {
+   "first_seen": "2026-10-24",
+   "last_online": "2026-10-24",
+   "username": "Genetic_Chess_Bot"
+  },
   "georgii_ai": {
    "first_seen": "2026-09-28",
    "last_online": "2026-10-24",
@@ -1837,7 +1842,7 @@
   },
   "kruguer_engine": {
    "first_seen": "2026-10-18",
-   "last_online": "2026-10-23",
+   "last_online": "2026-10-24",
    "username": "Kruguer_Engine"
   },
   "kulubot": {
@@ -3177,7 +3182,7 @@
   },
   "senkabalabot": {
    "first_seen": "2026-10-21",
-   "last_online": "2026-10-21",
+   "last_online": "2026-10-24",
    "username": "Senkabalabot"
   },
   "sf_bot1nok": {
@@ -4027,8 +4032,9 @@
   }
  },
  "online": {
-  "checked_at": "2026-10-24T08:43:09Z",
+  "checked_at": "2026-10-24T09:43:09Z",
   "ids": [
+   "aaronsengine",
    "aconcaguabot",
    "aetherbot",
    "aggressivestockfish",
@@ -4042,6 +4048,7 @@
    "alliethechessbot",
    "angela_eng",
    "anna-bot",
+   "annachess2025",
    "annie_archy",
    "anti-bot",
    "antibotv3-7",
@@ -4070,7 +4077,6 @@
    "blujay-bot",
    "bobby_pcolla",
    "bongaclang",
-   "boris-trapsky",
    "bot5551",
    "bot64jaques",
    "bot_adario",
@@ -4090,6 +4096,7 @@
    "chamberiajedrez",
    "chaotong_engine",
    "charibot",
+   "chess_set_manager",
    "chessiverse_ethan",
    "chessiverse_luc",
    "chessiverse_pawnza",
@@ -4156,6 +4163,8 @@
    "fschess-engine",
    "funcomp",
    "garbobot",
+   "genetic_chess_bot",
+   "georgii_ai",
    "geotsibot",
    "giffibot",
    "gnu4u",
@@ -4202,6 +4211,7 @@
    "kittyenginev5",
    "koi_engine",
    "kopyto_dev",
+   "kruguer_engine",
    "kulubot",
    "lamprook",
    "larryz-alterego",
@@ -4268,7 +4278,6 @@
    "mostlyhuman1900",
    "mrtonnerre",
    "musashi-thebot",
-   "n1742bot",
    "nanozeroorg",
    "neurosocute",
    "nexastrat",
@@ -4284,6 +4293,7 @@
    "o-rei-cx",
    "odonata-bot",
    "olifish",
+   "olimarianbot",
    "onezenpanda",
    "openingsbot",
    "oxybullet",
@@ -4312,7 +4322,6 @@
    "psion-chess",
    "puisne",
    "pzchessbot",
-   "queensgambot",
    "radianceengine",
    "raspfish",
    "ratkingbot",
@@ -4341,6 +4350,7 @@
    "scipio-bot",
    "seedchess",
    "seitogakatsu",
+   "senkabalabot",
    "shallowredbot",
    "shrevenbot",
    "silasly",
@@ -4355,7 +4365,6 @@
    "snaky-bot",
    "solobot",
    "southbot",
-   "sparkchessengine",
    "springerbot",
    "squarefish-900",
    "sseh-c",
@@ -4380,11 +4389,11 @@
    "tempocore",
    "terconari",
    "thechessblazer",
-   "throrbjorn",
    "thunfisch-bot",
    "tigrament",
    "tikifish",
    "togaii",
+   "tomabbot",
    "topasbot",
    "trainer-bot",
    "trenerhetman",
@@ -4411,7 +4420,6 @@
    "vidbot",
    "viet-ai",
    "vietnamesecoffee",
-   "void_bot",
    "vortex_bot",
    "vortexaurafarm",
    "waldemar-the-elf",
