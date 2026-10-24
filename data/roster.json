@@ -797,7 +797,7 @@
   },
   "chesstransformerbot": {
    "first_seen": "2026-10-08",
-   "last_online": "2026-10-23",
+   "last_online": "2026-10-24",
    "username": "ChessTransformerBot"
   },
   "cheszter": {
@@ -2267,7 +2267,7 @@
   },
   "mayflyengine": {
    "first_seen": "2026-09-27",
-   "last_online": "2026-10-23",
+   "last_online": "2026-10-24",
    "username": "MayFlyEngine"
   },
   "mboobot": {
@@ -2567,7 +2567,7 @@
   },
   "olimarianbot": {
    "first_seen": "2026-10-21",
-   "last_online": "2026-10-23",
+   "last_online": "2026-10-24",
    "username": "Olimarianbot"
   },
   "omegazero-bot": {
@@ -2812,7 +2812,7 @@
   },
   "prosperobot": {
    "first_seen": "2026-09-27",
-   "last_online": "2026-10-23",
+   "last_online": "2026-10-24",
    "username": "ProsperoBot"
   },
   "proteinbender": {
@@ -4022,9 +4022,8 @@
   }
  },
  "online": {
-  "checked_at": "2026-10-24T05:43:09Z",
+  "checked_at": "2026-10-24T06:43:09Z",
   "ids": [
-   "aatk_vanguardx",
    "aconcaguabot",
    "aetherbot",
    "aggressivestockfish",
@@ -4049,7 +4048,6 @@
    "arkiplayschess",
    "artidigm_research",
    "ashnostromo",
-   "ask-aatk-bot",
    "atari-video-chess",
    "athena-chessbot",
    "axiom_bot",
@@ -4085,12 +4083,13 @@
    "catriever",
    "chaotong_engine",
    "charibot",
-   "chekovbot",
+   "chessai4f",
    "chessiverse_ethan",
    "chessiverse_luc",
    "chessiverse_pawnza",
    "chessiverse_raak",
    "chesstango_bot",
+   "chesstransformerbot",
    "cheszter",
    "chill4ce",
    "chronicgambler",
@@ -4208,7 +4207,6 @@
    "leelarogue",
    "leelarookodds",
    "leelatroll",
-   "leol-bot",
    "levymaia",
    "likeawizard-bot",
    "lilitbot",
@@ -4244,6 +4242,7 @@
    "mate1-bot",
    "matmoi",
    "maximaengine",
+   "mayflyengine",
    "mcdonalds1955",
    "mega-noob-bot",
    "melsh_bot",
@@ -4270,13 +4269,11 @@
    "nittedal",
    "nnueandthevoices",
    "noabot",
-   "noel-bot",
    "o-rei-cx",
    "odonata-bot",
+   "olimarianbot",
    "onezenpanda",
-   "openinggenie2000",
    "openingsbot",
-   "overfitted",
    "oxybullet",
    "oxydanbot",
    "pangubot",
@@ -4292,13 +4289,13 @@
    "peachfruit",
    "perl-gigachess",
    "philidor-142m",
-   "piebot",
    "pierreai",
    "piglet_engine",
    "playmarius",
    "plumboi",
    "plumbot",
    "prokopakop",
+   "prosperobot",
    "psion-chess",
    "puisne",
    "pzchessbot",
@@ -4356,7 +4353,6 @@
    "stockfishlowdepth",
    "stockpapagei",
    "streamervschat",
-   "studyloversz-bot",
    "stupidchessrobot",
    "stupidfishbotbydscs",
    "sunfish-engine",
@@ -4376,7 +4372,6 @@
    "tigrament",
    "tikifish",
    "togaii",
-   "tomabbot",
    "topasbot",
    "trainer-bot",
    "trenerhetman",
