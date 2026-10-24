@@ -907,7 +907,7 @@
   },
   "consolechessdev": {
    "first_seen": "2026-09-28",
-   "last_online": "2026-10-18",
+   "last_online": "2026-10-24",
    "username": "ConsoleChessDev"
   },
   "consolechessfastbot": {
@@ -1292,7 +1292,7 @@
   },
   "fenrir-bot": {
    "first_seen": "2026-10-01",
-   "last_online": "2026-10-04",
+   "last_online": "2026-10-24",
    "username": "Fenrir-bot"
   },
   "fenrirbot": {
@@ -1774,6 +1774,11 @@
    "first_seen": "2026-10-07",
    "last_online": "2026-10-12",
    "username": "KarimBOT"
+  },
+  "katzebot": {
+   "first_seen": "2026-10-24",
+   "last_online": "2026-10-24",
+   "username": "katzebot"
   },
   "kavinengine": {
    "first_seen": "2026-10-09",
@@ -3600,6 +3605,11 @@
    "last_online": "2026-10-13",
    "username": "TheAlexDestroyer"
   },
+  "theayka": {
+   "first_seen": "2026-10-24",
+   "last_online": "2026-10-24",
+   "username": "theAyka"
+  },
   "thechessblazer": {
    "first_seen": "2026-09-27",
    "last_online": "2026-10-24",
@@ -4047,7 +4057,7 @@
   }
  },
  "online": {
-  "checked_at": "2026-10-24T15:43:10Z",
+  "checked_at": "2026-10-24T16:13:22Z",
   "ids": [
    "aaronsengine",
    "aathena101",
@@ -4067,7 +4077,6 @@
    "angela_eng",
    "anna-bot",
    "annie_archy",
-   "anti-bot",
    "antibotv3-7",
    "aposeij",
    "approximationbot",
@@ -4107,6 +4116,7 @@
    "bravobot",
    "bretemabot",
    "bubblebot2",
+   "burgentruck",
    "byte-knight",
    "bytefish",
    "c-t-r-l",
@@ -4135,7 +4145,7 @@
    "clrsrc_lc0",
    "coda_bot",
    "confidencebuilder",
-   "consolechessfastbot",
+   "consolechessdev",
    "cookiebot711",
    "craftyuci",
    "croco_bot",
@@ -4175,6 +4185,7 @@
    "fataliibot",
    "fathzer-jchess",
    "felipe_bot_53",
+   "fenrir-bot",
    "fetacompli",
    "fivejoyouspandas",
    "flounderbot",
@@ -4192,7 +4203,6 @@
    "grindfish",
    "groshboss",
    "gryndor",
-   "guitarfish-engine",
    "halcyonbot",
    "hardrok",
    "hiusbot",
@@ -4222,6 +4232,7 @@
    "jpg-bot",
    "jurdbird",
    "justbot-v1",
+   "katzebot",
    "kavinengine",
    "kestrelstrike",
    "kingzbot",
@@ -4242,6 +4253,7 @@
    "leelarookodds",
    "leelatroll",
    "leol-bot",
+   "lepbot",
    "levymaia",
    "likeawizard-bot",
    "lili-ai",
@@ -4298,7 +4310,6 @@
    "neryba",
    "neurosocute",
    "newchessengine-ai",
-   "newtsbot",
    "nexastrat",
    "nexosdefos",
    "nexuschess1",
@@ -4382,8 +4393,8 @@
    "snaky-bot",
    "solobot",
    "southbot",
-   "sparkchessengine",
    "springerbot",
+   "spvbot",
    "squarefish-900",
    "sseh-c",
    "stickshark99",
@@ -4403,11 +4414,11 @@
    "sybbot",
    "sykorabot",
    "takticprochess",
-   "tallikebot",
    "talosbot",
    "tempocore",
    "terconari",
    "the_baronet",
+   "theayka",
    "thechessblazer",
    "thunfisch-bot",
    "tigrament",
