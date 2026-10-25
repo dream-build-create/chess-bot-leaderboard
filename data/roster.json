@@ -612,7 +612,7 @@
   },
   "calico1": {
    "first_seen": "2026-09-29",
-   "last_online": "2026-10-16",
+   "last_online": "2026-10-25",
    "username": "calico1"
   },
   "cannotcheckmateme": {
@@ -1465,6 +1465,11 @@
    "last_online": "2026-10-25",
    "username": "grail-bot"
   },
+  "grapechessengine": {
+   "first_seen": "2026-10-25",
+   "last_online": "2026-10-25",
+   "username": "GrapeChessEngine"
+  },
   "graphene-64": {
    "first_seen": "2026-10-09",
    "last_online": "2026-10-09",
@@ -1507,7 +1512,7 @@
   },
   "hackerchessbot": {
    "first_seen": "2026-09-27",
-   "last_online": "2026-10-24",
+   "last_online": "2026-10-25",
    "username": "HackerChessBot"
   },
   "halcyonbot": {
@@ -2297,7 +2302,7 @@
   },
   "matemakingmachine": {
    "first_seen": "2026-09-29",
-   "last_online": "2026-10-24",
+   "last_online": "2026-10-25",
    "username": "MateMakingMachine"
   },
   "matmoi": {
@@ -2632,7 +2637,7 @@
   },
   "olifish": {
    "first_seen": "2026-10-24",
-   "last_online": "2026-10-24",
+   "last_online": "2026-10-25",
    "username": "OliFish"
   },
   "olimarianbot": {
@@ -2662,7 +2667,7 @@
   },
   "osaurus": {
    "first_seen": "2026-09-29",
-   "last_online": "2026-10-18",
+   "last_online": "2026-10-25",
    "username": "OSaurus"
   },
   "overfitted": {
@@ -4132,7 +4137,7 @@
   }
  },
  "online": {
-  "checked_at": "2026-10-25T13:43:09Z",
+  "checked_at": "2026-10-25T14:43:10Z",
   "ids": [
    "aaronsengine",
    "aatk_vanguardx",
@@ -4159,6 +4164,7 @@
    "ariadne-bot",
    "arkiplayschess",
    "artidigm_research",
+   "ask-aatk-bot",
    "atari-video-chess",
    "athena-chessbot",
    "axiom_bot",
@@ -4191,7 +4197,7 @@
    "c-t-r-l",
    "c0kval",
    "caiporabot",
-   "caissa-x",
+   "calico1",
    "cannotcheckmateme",
    "casanchess-nnue",
    "catnail",
@@ -4277,13 +4283,14 @@
    "goldfish-engine",
    "goopis",
    "grail-bot",
+   "grapechessengine",
    "grindfish",
    "groshboss",
    "gryndor",
+   "hackerchessbot",
    "halcyonbot",
    "harakternyk",
    "hardrok",
-   "hashcake1",
    "hiusbot",
    "hodgeybot",
    "holidaybot1225",
@@ -4314,6 +4321,7 @@
    "kingzbot",
    "kirinchessbot",
    "kittenfish",
+   "koi_engine",
    "kopyto_dev",
    "kowalabi",
    "lamprook",
@@ -4364,6 +4372,7 @@
    "mate-in-thirty",
    "mate-in-twenty",
    "mate1-bot",
+   "matemakingmachine",
    "matmoi",
    "mayflyengine",
    "mcdonalds1955",
@@ -4397,8 +4406,10 @@
    "noel-bot",
    "o-rei-cx",
    "odonata-bot",
+   "olifish",
    "onezenpanda",
    "openingsbot",
+   "osaurus",
    "overfitted",
    "oxybullet",
    "oxydanbot",
@@ -4417,6 +4428,7 @@
    "philidor-142m",
    "pi0w",
    "piebot",
+   "pierreai",
    "piglet_engine",
    "playmarius",
    "plumboi",
@@ -4433,7 +4445,6 @@
    "raven030",
    "ravenengine",
    "rdtchessbot",
-   "reaper1bot",
    "resolutebot",
    "ribfish-bot",
    "romanticbot",
@@ -4478,6 +4489,7 @@
    "stockfishlowdepth",
    "stockpapagei",
    "streamervschat",
+   "studyloversz-bot",
    "stupidchessrobot",
    "stupidfishbotbydscs",
    "sunfish-engine",
@@ -4497,6 +4509,7 @@
    "tikifish",
    "tilapiabot",
    "togaii",
+   "tomabbot",
    "topasbot",
    "torombot",
    "trainer-bot",
@@ -4520,7 +4533,6 @@
    "usunfish-l7",
    "uxugin-bot",
    "vadbot",
-   "vanibot",
    "variantsbot",
    "vic98lg",
    "vicentlittle",
@@ -4528,6 +4540,7 @@
    "viet-ai",
    "vietnamesecoffee",
    "void_bot",
+   "voodoo-engine",
    "vortex_bot",
    "vortexaurafarm",
    "walpurti",
