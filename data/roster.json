@@ -2437,7 +2437,7 @@
   },
   "musashi-thebot": {
    "first_seen": "2026-09-28",
-   "last_online": "2026-10-24",
+   "last_online": "2026-10-25",
    "username": "Musashi-thebot"
   },
   "mxnet-gamemaster": {
@@ -3987,7 +3987,7 @@
   },
   "wedge_engine": {
    "first_seen": "2026-10-22",
-   "last_online": "2026-10-24",
+   "last_online": "2026-10-25",
    "username": "wedge_engine"
   },
   "weeebot": {
@@ -4107,8 +4107,9 @@
   }
  },
  "online": {
-  "checked_at": "2026-10-25T04:43:09Z",
+  "checked_at": "2026-10-25T05:15:18Z",
   "ids": [
+   "aathena101",
    "aatk_vanguardx",
    "abcd_engine",
    "aconcaguabot",
@@ -4125,7 +4126,6 @@
    "annie_archy",
    "anti-bot",
    "antibotv3-7",
-   "apexbot",
    "aposeij",
    "approximationbot",
    "arabicahce",
@@ -4150,6 +4150,7 @@
    "bfiedler-bot",
    "bitbitbot",
    "bluemoonbot",
+   "blujay-bot",
    "bobby_pcolla",
    "bongaclang",
    "boris-trapsky",
@@ -4340,6 +4341,7 @@
    "mochi_bot",
    "morabandbot",
    "mrtonnerre",
+   "musashi-thebot",
    "nanozeroorg",
    "neryba",
    "neurosocute",
@@ -4490,6 +4492,7 @@
    "vortexaurafarm",
    "waldemar-the-elf",
    "walpurti",
+   "wedge_engine",
    "weiawaga",
    "weledar-bot",
    "wolfuhfuhbot",
