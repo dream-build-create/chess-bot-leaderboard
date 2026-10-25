@@ -12,7 +12,7 @@
   },
   "aatk_vanguardx": {
    "first_seen": "2026-09-27",
-   "last_online": "2026-10-24",
+   "last_online": "2026-10-25",
    "username": "AATK_VanguardX"
   },
   "abcd_engine": {
@@ -232,7 +232,7 @@
   },
   "ask-aatk-bot": {
    "first_seen": "2026-09-27",
-   "last_online": "2026-10-24",
+   "last_online": "2026-10-25",
    "username": "Ask-AATK-bot"
   },
   "askaig": {
@@ -1057,7 +1057,7 @@
   },
   "deepbecky": {
    "first_seen": "2026-09-27",
-   "last_online": "2026-10-24",
+   "last_online": "2026-10-25",
    "username": "DeepBecky"
   },
   "deepsquare-ai": {
@@ -1762,7 +1762,7 @@
   },
   "jongsungkim": {
    "first_seen": "2026-10-05",
-   "last_online": "2026-10-24",
+   "last_online": "2026-10-25",
    "username": "JongsungKim"
   },
   "josefschessenginebot": {
@@ -2137,7 +2137,7 @@
   },
   "maia2200_10n": {
    "first_seen": "2026-09-27",
-   "last_online": "2026-10-24",
+   "last_online": "2026-10-25",
    "username": "maia2200_10n"
   },
   "maia3-79m_1000": {
@@ -2222,7 +2222,7 @@
   },
   "maia9_30n": {
    "first_seen": "2026-09-27",
-   "last_online": "2026-10-24",
+   "last_online": "2026-10-25",
    "username": "maia9_30n"
   },
   "maiatrap": {
@@ -3517,7 +3517,7 @@
   },
   "studyloversz-bot": {
    "first_seen": "2026-09-27",
-   "last_online": "2026-10-24",
+   "last_online": "2026-10-25",
    "username": "Studyloversz-bot"
   },
   "stupidchessrobot": {
@@ -4102,9 +4102,10 @@
   }
  },
  "online": {
-  "checked_at": "2026-10-25T00:43:09Z",
+  "checked_at": "2026-10-25T01:43:10Z",
   "ids": [
    "aathena101",
+   "aatk_vanguardx",
    "abcd_engine",
    "aconcaguabot",
    "aetherbot",
@@ -4129,6 +4130,7 @@
    "ariadne-bot",
    "arkiplayschess",
    "artidigm_research",
+   "ask-aatk-bot",
    "atari-video-chess",
    "athena-chessbot",
    "axiom_bot",
@@ -4164,7 +4166,6 @@
    "chaotong_engine",
    "charibot",
    "chekovbot",
-   "chess_know",
    "chess_set_manager",
    "chessai4f",
    "chessiverse_ethan",
@@ -4195,6 +4196,7 @@
    "darkonweakbot",
    "davidsguterbot",
    "debzero",
+   "deepbecky",
    "deepsquare-ai",
    "demen100ns-bot",
    "demolito_l1",
@@ -4203,7 +4205,6 @@
    "demolito_l4",
    "dravox",
    "drawfish-reborn",
-   "drewschessmachine",
    "duchessai",
    "dumbotai",
    "edwardkillick",
@@ -4244,7 +4245,6 @@
    "hustler_1mb",
    "hustler_2mb",
    "hustler_5mb",
-   "hynobiuschess",
    "hyperopic",
    "icarus-bot",
    "ilovecatgirl",
@@ -4257,7 +4257,7 @@
    "jinko-chan",
    "joan_clone",
    "joey_chessengine",
-   "joshsbot",
+   "jongsungkim",
    "jpg-bot",
    "justbot-v1",
    "katzebot",
@@ -4266,7 +4266,6 @@
    "kingzbot",
    "kirinchessbot",
    "kittyenginev5",
-   "koi_engine",
    "kopyto_dev",
    "kulubot",
    "lamprook",
@@ -4293,6 +4292,7 @@
    "lynx_bot",
    "mac-bot",
    "maia1",
+   "maia2200_10n",
    "maia3-79m_1000",
    "maia3-79m_1200",
    "maia3-79m_1400",
@@ -4309,6 +4309,7 @@
    "maia960-1600",
    "maia960-1900",
    "maia9_10n",
+   "maia9_30n",
    "martuni",
    "mate-in-forty",
    "mate-in-thirty",
@@ -4326,7 +4327,6 @@
    "mithandros",
    "mochi_bot",
    "morabandbot",
-   "mostlyhuman1900",
    "mrtonnerre",
    "nanozeroorg",
    "neryba",
@@ -4411,7 +4411,6 @@
    "slate-engine",
    "sleepmindengine",
    "slowmate_bot",
-   "slychessbot",
    "snaky-bot",
    "solobot",
    "southbot",
@@ -4424,6 +4423,7 @@
    "stockfishlowdepth",
    "stockpapagei",
    "streamervschat",
+   "studyloversz-bot",
    "stupidchessrobot",
    "stupidfishbotbydscs",
    "sunfish-engine",
@@ -4457,7 +4457,6 @@
    "twosillypandas",
    "ultrabrick",
    "unimark",
-   "ursus_bot",
    "usunfish",
    "usunfish-l0",
    "usunfish-l1",
