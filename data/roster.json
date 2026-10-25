@@ -302,7 +302,7 @@
   },
   "battlebornthe3rd": {
    "first_seen": "2026-09-29",
-   "last_online": "2026-10-24",
+   "last_online": "2026-10-25",
    "username": "BattleBornThe3rd"
   },
   "battlebornthe4th": {
@@ -1262,7 +1262,7 @@
   },
   "escarbo": {
    "first_seen": "2026-09-28",
-   "last_online": "2026-10-19",
+   "last_online": "2026-10-25",
    "username": "escarbo"
   },
   "eubos": {
@@ -1452,7 +1452,7 @@
   },
   "goldinho1bot": {
    "first_seen": "2026-09-29",
-   "last_online": "2026-10-19",
+   "last_online": "2026-10-25",
    "username": "goldinho1bot"
   },
   "goopis": {
@@ -2157,7 +2157,7 @@
   },
   "mackbot": {
    "first_seen": "2026-10-10",
-   "last_online": "2026-10-15",
+   "last_online": "2026-10-25",
    "username": "MackBot"
   },
   "madameengine": {
@@ -4012,7 +4012,7 @@
   },
   "walleye_bot": {
    "first_seen": "2026-09-27",
-   "last_online": "2026-10-05",
+   "last_online": "2026-10-25",
    "username": "Walleye_Bot"
   },
   "walpurti": {
@@ -4157,11 +4157,12 @@
   }
  },
  "online": {
-  "checked_at": "2026-10-25T21:43:09Z",
+  "checked_at": "2026-10-25T22:43:11Z",
   "ids": [
    "abcd_engine",
    "aconcaguabot",
    "aetherbot",
+   "aggressivestockfish",
    "ai-con",
    "ailedbot",
    "ajedrezchamberi",
@@ -4174,7 +4175,6 @@
    "anna-bot",
    "annie_archy",
    "antibotv3-7",
-   "apexbot",
    "aposeij",
    "approximationbot",
    "arabicahce",
@@ -4188,6 +4188,7 @@
    "axiom_bot",
    "baby_eubos",
    "banerot",
+   "battlebornthe3rd",
    "batyarapro",
    "bbc_bot",
    "becela9_kpebetka",
@@ -4197,6 +4198,7 @@
    "bfiedler-bot",
    "bitbitbot",
    "bluemoonbot",
+   "blujay-bot",
    "bobby_pcolla",
    "bongaclang",
    "bot5551",
@@ -4271,6 +4273,7 @@
    "elmichess",
    "endspiel-pi",
    "entebot",
+   "escarbo",
    "eubos",
    "falconengine",
    "fathzer-jchess",
@@ -4290,6 +4293,7 @@
    "gnu4u",
    "gochess6767",
    "goldfish-engine",
+   "goldinho1bot",
    "goopis",
    "grail-bot",
    "grapechessengine",
@@ -4307,7 +4311,6 @@
    "hustler_2mb",
    "hustler_5mb",
    "hyperopic",
-   "ia_horus",
    "icarus-bot",
    "ilovecatgirl",
    "incipit_bot",
@@ -4345,6 +4348,7 @@
    "leelarookodds",
    "leelatroll",
    "leol-bot",
+   "lepbot",
    "levymaia",
    "likeawizard-bot",
    "lilitbot",
@@ -4356,6 +4360,7 @@
    "lunaenginechess",
    "lynx_bot",
    "mac-bot",
+   "mackbot",
    "maia1",
    "maia2200_10n",
    "maia3-79m_1000",
@@ -4382,7 +4387,6 @@
    "mate-in-twenty",
    "mate1-bot",
    "matmoi",
-   "matthewcarven",
    "mayflyengine",
    "mcdonalds1955",
    "mega-noob-bot",
@@ -4535,6 +4539,7 @@
    "uiagbot",
    "ultrabrick",
    "unimark",
+   "ursus_bot",
    "usunfish",
    "usunfish-l0",
    "usunfish-l1",
@@ -4552,8 +4557,8 @@
    "void_bot",
    "vortex_bot",
    "vortexaurafarm",
+   "walleye_bot",
    "walpurti",
-   "wedge_engine",
    "weiawaga",
    "weledar-bot",
    "wolfuhfuhbot",
