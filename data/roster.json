@@ -317,7 +317,7 @@
   },
   "batyarapro": {
    "first_seen": "2026-09-27",
-   "last_online": "2026-10-24",
+   "last_online": "2026-10-25",
    "username": "BatyaraPro"
   },
   "bbc_bot": {
@@ -847,7 +847,7 @@
   },
   "classic_bot-v2": {
    "first_seen": "2026-09-27",
-   "last_online": "2026-10-24",
+   "last_online": "2026-10-25",
    "username": "Classic_BOT-v2"
   },
   "classical-leela": {
@@ -1567,7 +1567,7 @@
   },
   "hummus-bot": {
    "first_seen": "2026-09-27",
-   "last_online": "2026-10-24",
+   "last_online": "2026-10-25",
    "username": "hummus-bot"
   },
   "hustler_1mb": {
@@ -2527,7 +2527,7 @@
   },
   "nexosdefos": {
    "first_seen": "2026-09-27",
-   "last_online": "2026-10-24",
+   "last_online": "2026-10-25",
    "username": "NexosDefos"
   },
   "nexuschess1": {
@@ -3692,7 +3692,7 @@
   },
   "tikifish": {
    "first_seen": "2026-09-27",
-   "last_online": "2026-10-24",
+   "last_online": "2026-10-25",
    "username": "TikiFish"
   },
   "tilapiabot": {
@@ -4107,7 +4107,7 @@
   }
  },
  "online": {
-  "checked_at": "2026-10-25T03:43:09Z",
+  "checked_at": "2026-10-25T04:43:09Z",
   "ids": [
    "aatk_vanguardx",
    "abcd_engine",
@@ -4141,6 +4141,7 @@
    "azzbot",
    "baby_eubos",
    "banerot",
+   "batyarapro",
    "bbc_bot",
    "becela9_kpebetka",
    "berkbot",
@@ -4149,7 +4150,6 @@
    "bfiedler-bot",
    "bitbitbot",
    "bluemoonbot",
-   "blujay-bot",
    "bobby_pcolla",
    "bongaclang",
    "boris-trapsky",
@@ -4183,8 +4183,8 @@
    "chill4ce",
    "chmod-bot",
    "chronicgambler",
-   "chrusty",
    "cinder-bot",
+   "classic_bot-v2",
    "clrsrc_lc0",
    "coda_bot",
    "confidencebuilder",
@@ -4212,6 +4212,7 @@
    "demolito_l4",
    "dravox",
    "drawfish-reborn",
+   "drewschessmachine",
    "duchessai",
    "dumbotai",
    "edwardkillick",
@@ -4245,13 +4246,12 @@
    "grindfish",
    "groshboss",
    "gryndor",
-   "guitarfish-engine",
    "halcyonbot",
    "harakternyk",
-   "hardrok",
    "hiusbot",
    "hodgeybot",
    "holidaybot1225",
+   "hummus-bot",
    "hustler_1mb",
    "hustler_2mb",
    "hustler_5mb",
@@ -4265,7 +4265,6 @@
    "jaxakos13_bot",
    "jesterchessrobot",
    "jibbby",
-   "jinko-chan",
    "joan_clone",
    "joey_chessengine",
    "jongsungkim",
@@ -4346,6 +4345,7 @@
    "neurosocute",
    "newchessengine-ai",
    "nexastrat",
+   "nexosdefos",
    "nibbleknight",
    "nice_bot",
    "nickdrohan",
@@ -4414,7 +4414,6 @@
    "scipio-bot",
    "seedchess",
    "seitogakatsu",
-   "selflearn",
    "shallowredbot",
    "shrevenbot",
    "silasly",
@@ -4434,6 +4433,7 @@
    "squarefish-900",
    "sseh-c",
    "stickshark99",
+   "stockcotsfish",
    "stockfail",
    "stockfishlowdepth",
    "stockpapagei",
@@ -4455,6 +4455,7 @@
    "thechessblazer",
    "thunfisch-bot",
    "tigrament",
+   "tikifish",
    "tilapiabot",
    "togaii",
    "tomabbot",
@@ -4471,7 +4472,6 @@
    "turochamp-2ply",
    "twosillypandas",
    "ultrabrick",
-   "unimark",
    "ursus_bot",
    "usunfish",
    "usunfish-l0",
