@@ -560,6 +560,11 @@
    "last_online": "2026-10-07",
    "username": "buffFishNet"
   },
+  "bullet-guitarfish": {
+   "first_seen": "2026-10-25",
+   "last_online": "2026-10-25",
+   "username": "bullet-guitarfish"
+  },
   "burgentruck": {
    "first_seen": "2026-10-20",
    "last_online": "2026-10-24",
@@ -652,7 +657,7 @@
   },
   "ceraf": {
    "first_seen": "2026-10-01",
-   "last_online": "2026-10-22",
+   "last_online": "2026-10-25",
    "username": "CERAF"
   },
   "chamberiajedrez": {
@@ -912,7 +917,7 @@
   },
   "consolechessdev": {
    "first_seen": "2026-09-28",
-   "last_online": "2026-10-24",
+   "last_online": "2026-10-25",
    "username": "ConsoleChessDev"
   },
   "consolechessfastbot": {
@@ -2805,6 +2810,11 @@
    "last_online": "2026-10-23",
    "username": "PiratesRust"
   },
+  "pixiegaming": {
+   "first_seen": "2026-10-25",
+   "last_online": "2026-10-25",
+   "username": "pixiegaming"
+  },
   "platinumbot": {
    "first_seen": "2026-09-30",
    "last_online": "2026-10-01",
@@ -4107,7 +4117,7 @@
   }
  },
  "online": {
-  "checked_at": "2026-10-25T05:43:09Z",
+  "checked_at": "2026-10-25T06:43:09Z",
   "ids": [
    "aathena101",
    "aatk_vanguardx",
@@ -4161,6 +4171,7 @@
    "bravobot",
    "bretemabot",
    "bubblebot2",
+   "bullet-guitarfish",
    "byte-knight",
    "bytefish",
    "c-t-r-l",
@@ -4171,6 +4182,7 @@
    "casanchess-nnue",
    "catnail",
    "catriever",
+   "ceraf",
    "chaotong_engine",
    "charibot",
    "chekovbot",
@@ -4190,6 +4202,7 @@
    "clrsrc_lc0",
    "coda_bot",
    "confidencebuilder",
+   "consolechessdev",
    "cookiebot711",
    "craftyuci",
    "croco_bot",
@@ -4246,7 +4259,6 @@
    "goopis",
    "grail-bot",
    "grindfish",
-   "groshboss",
    "gryndor",
    "guitarfish-engine",
    "halcyonbot",
@@ -4262,12 +4274,12 @@
    "icarus-bot",
    "ilovecatgirl",
    "incipit_bot",
+   "is_boss",
    "iskelt-corax",
    "jangine",
    "jaxakos13_bot",
    "jesterchessrobot",
    "jibbby",
-   "jinko-chan",
    "joan_clone",
    "joey_chessengine",
    "jongsungkim",
@@ -4280,7 +4292,6 @@
    "kingzbot",
    "kirinchessbot",
    "kittyenginev5",
-   "koi_engine",
    "kopyto_dev",
    "kulubot",
    "lamprook",
@@ -4384,6 +4395,7 @@
    "piebot",
    "pierreai",
    "piglet_engine",
+   "pixiegaming",
    "plumboi",
    "plumbot",
    "project_nebulora",
@@ -4441,7 +4453,6 @@
    "stockfishlowdepth",
    "stockpapagei",
    "streamervschat",
-   "studyloversz-bot",
    "stupidchessrobot",
    "stupidfishbotbydscs",
    "sunfish-engine",
@@ -4493,9 +4504,7 @@
    "vortexaurafarm",
    "waldemar-the-elf",
    "walpurti",
-   "wedge_engine",
    "weiawaga",
-   "weledar-bot",
    "wolfuhfuhbot",
    "worstfish",
    "z-o_aspenlabs",
