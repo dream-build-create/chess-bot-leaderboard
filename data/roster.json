@@ -332,7 +332,7 @@
   },
   "becela9_kpebetka": {
    "first_seen": "2026-09-27",
-   "last_online": "2026-10-24",
+   "last_online": "2026-10-25",
    "username": "BECELA9_KPEBETKA"
   },
   "beelzebubzero": {
@@ -427,7 +427,7 @@
   },
   "bobby_pcolla": {
    "first_seen": "2026-09-27",
-   "last_online": "2026-10-24",
+   "last_online": "2026-10-25",
    "username": "bobby_pcolla"
   },
   "bongaclang": {
@@ -1397,7 +1397,7 @@
   },
   "georgii_ai": {
    "first_seen": "2026-09-28",
-   "last_online": "2026-10-24",
+   "last_online": "2026-10-25",
    "username": "georgii_ai"
   },
   "geotsibot": {
@@ -1477,7 +1477,7 @@
   },
   "groshboss": {
    "first_seen": "2026-09-27",
-   "last_online": "2026-10-24",
+   "last_online": "2026-10-25",
    "username": "GroshBoss"
   },
   "gryndor": {
@@ -1727,7 +1727,7 @@
   },
   "jibbby": {
    "first_seen": "2026-09-27",
-   "last_online": "2026-10-24",
+   "last_online": "2026-10-25",
    "username": "Jibbby"
   },
   "jimbo_engine": {
@@ -1782,7 +1782,7 @@
   },
   "jurdbird": {
    "first_seen": "2026-09-27",
-   "last_online": "2026-10-24",
+   "last_online": "2026-10-25",
    "username": "JurdBird"
   },
   "justbot-v1": {
@@ -2992,7 +2992,7 @@
   },
   "ray-bot": {
    "first_seen": "2026-10-24",
-   "last_online": "2026-10-24",
+   "last_online": "2026-10-25",
    "username": "Ray-bot"
   },
   "rdi_bot": {
@@ -3132,7 +3132,7 @@
   },
   "rustyrival": {
    "first_seen": "2026-09-27",
-   "last_online": "2026-10-24",
+   "last_online": "2026-10-25",
    "username": "RustyRival"
   },
   "ryu-ishigori": {
@@ -3755,6 +3755,11 @@
    "last_online": "2026-10-25",
    "username": "TrinculoBot"
   },
+  "trojanhorsebot": {
+   "first_seen": "2026-10-25",
+   "last_online": "2026-10-25",
+   "username": "TrojanHorseBOT"
+  },
   "troutbot": {
    "first_seen": "2026-09-27",
    "last_online": "2026-10-25",
@@ -4102,14 +4107,13 @@
   }
  },
  "online": {
-  "checked_at": "2026-10-25T01:43:10Z",
+  "checked_at": "2026-10-25T02:43:09Z",
   "ids": [
    "aathena101",
    "aatk_vanguardx",
    "abcd_engine",
    "aconcaguabot",
    "aetherbot",
-   "aggressivestockfish",
    "ai-con",
    "ailedbot",
    "alexandrya",
@@ -4138,6 +4142,7 @@
    "baby_eubos",
    "banerot",
    "bbc_bot",
+   "becela9_kpebetka",
    "berkbot",
    "bernstein-2ply",
    "bernstein-4ply",
@@ -4145,12 +4150,12 @@
    "bitbitbot",
    "bluemoonbot",
    "blujay-bot",
+   "bobby_pcolla",
    "bongaclang",
    "bot5551",
    "bot64jaques",
    "bot_adario",
    "bottios",
-   "botyon",
    "bravobot",
    "bretemabot",
    "bubblebot2",
@@ -4227,6 +4232,7 @@
    "fschess-engine",
    "funcomp",
    "garbobot",
+   "georgii_ai",
    "geotsibot",
    "ghidorah_x",
    "giffibot",
@@ -4235,6 +4241,7 @@
    "goopis",
    "grail-bot",
    "grindfish",
+   "groshboss",
    "gryndor",
    "halcyonbot",
    "harakternyk",
@@ -4254,11 +4261,13 @@
    "jangine",
    "jaxakos13_bot",
    "jesterchessrobot",
+   "jibbby",
    "jinko-chan",
    "joan_clone",
    "joey_chessengine",
    "jongsungkim",
    "jpg-bot",
+   "jurdbird",
    "justbot-v1",
    "katzebot",
    "kavinengine",
@@ -4381,6 +4390,7 @@
    "ravager_bot",
    "raven030",
    "ravenengine",
+   "ray-bot",
    "rdtchessbot",
    "resolutebot",
    "ribfish-bot",
@@ -4389,6 +4399,7 @@
    "rudim-bot",
    "rust-in-pieces",
    "rustbot2003",
+   "rustyrival",
    "ryu-ishigori",
    "sargon-1ply",
    "sargon-2ply",
@@ -4406,7 +4417,6 @@
    "sim3million",
    "simbelmyne-bot",
    "simple-bot",
-   "simpleeval",
    "sj_norbot",
    "slate-engine",
    "sleepmindengine",
@@ -4418,7 +4428,6 @@
    "squarefish-900",
    "sseh-c",
    "stickshark99",
-   "stockcotsfish",
    "stockfail",
    "stockfishlowdepth",
    "stockpapagei",
@@ -4448,6 +4457,7 @@
    "trainer-bot",
    "trenerhetman",
    "trinculobot",
+   "trojanhorsebot",
    "troutbot",
    "tucuengine",
    "turk_gambit",
@@ -4457,6 +4467,7 @@
    "twosillypandas",
    "ultrabrick",
    "unimark",
+   "ursus_bot",
    "usunfish",
    "usunfish-l0",
    "usunfish-l1",
@@ -4469,7 +4480,6 @@
    "vidbot",
    "viet-ai",
    "vietnamesecoffee",
-   "void_bot",
    "vortex_bot",
    "vortexaurafarm",
    "waldemar-the-elf",
