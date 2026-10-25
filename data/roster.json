@@ -447,7 +447,7 @@
   },
   "borkatower": {
    "first_seen": "2026-09-27",
-   "last_online": "2026-10-24",
+   "last_online": "2026-10-25",
    "username": "BorkaTower"
   },
   "bot-o-tron": {
@@ -812,7 +812,7 @@
   },
   "chesstransformerbot": {
    "first_seen": "2026-10-08",
-   "last_online": "2026-10-24",
+   "last_online": "2026-10-25",
    "username": "ChessTransformerBot"
   },
   "cheszter": {
@@ -1227,7 +1227,7 @@
   },
   "endspiel-engine": {
    "first_seen": "2026-09-27",
-   "last_online": "2026-10-24",
+   "last_online": "2026-10-25",
    "username": "endspiel-engine"
   },
   "endspiel-pi": {
@@ -4117,7 +4117,7 @@
   }
  },
  "online": {
-  "checked_at": "2026-10-25T06:43:09Z",
+  "checked_at": "2026-10-25T07:43:09Z",
   "ids": [
    "aathena101",
    "aatk_vanguardx",
@@ -4134,7 +4134,6 @@
    "angela_eng",
    "anna-bot",
    "annie_archy",
-   "anti-bot",
    "antibotv3-7",
    "aposeij",
    "approximationbot",
@@ -4144,7 +4143,6 @@
    "ariadne-bot",
    "arkiplayschess",
    "artidigm_research",
-   "ask-aatk-bot",
    "atari-video-chess",
    "athena-chessbot",
    "axiom_bot",
@@ -4163,7 +4161,7 @@
    "blujay-bot",
    "bobby_pcolla",
    "bongaclang",
-   "boris-trapsky",
+   "borkatower",
    "bot5551",
    "bot64jaques",
    "bot_adario",
@@ -4182,8 +4180,6 @@
    "casanchess-nnue",
    "catnail",
    "catriever",
-   "ceraf",
-   "chaotong_engine",
    "charibot",
    "chekovbot",
    "chess_set_manager",
@@ -4193,6 +4189,7 @@
    "chessiverse_pawnza",
    "chessiverse_raak",
    "chesstango_bot",
+   "chesstransformerbot",
    "cheszter",
    "chill4ce",
    "chmod-bot",
@@ -4221,10 +4218,6 @@
    "deepbecky",
    "deepsquare-ai",
    "demen100ns-bot",
-   "demolito_l1",
-   "demolito_l2",
-   "demolito_l3",
-   "demolito_l4",
    "dravox",
    "drawfish-reborn",
    "drewschessmachine",
@@ -4236,6 +4229,7 @@
    "elexunix_chess_bot",
    "ellen_replay",
    "elmichess",
+   "endspiel-engine",
    "endspiel-pi",
    "entebot",
    "eubos",
@@ -4291,9 +4285,7 @@
    "kestrelstrike",
    "kingzbot",
    "kirinchessbot",
-   "kittyenginev5",
    "kopyto_dev",
-   "kulubot",
    "lamprook",
    "larryz-alterego",
    "laura-bot",
@@ -4312,7 +4304,6 @@
    "lilitbot",
    "little-0",
    "littlepatricia",
-   "louischess48-6k",
    "lukebot",
    "lunaenginechess",
    "lynx_bot",
@@ -4372,7 +4363,6 @@
    "o-rei-cx",
    "odonata-bot",
    "onezenpanda",
-   "openinggenie2000",
    "openingsbot",
    "overfitted",
    "oxybullet",
@@ -4388,7 +4378,6 @@
    "pdp8-clash",
    "peacemaker-0_0",
    "peachfruit",
-   "perl-gigachess",
    "philidor-142m",
    "pi0w",
    "picosargon",
