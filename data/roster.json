@@ -167,7 +167,7 @@
   },
   "apexbot": {
    "first_seen": "2026-10-25",
-   "last_online": "2026-10-25",
+   "last_online": "2026-10-26",
    "username": "ApexBot"
   },
   "aposeij": {
@@ -1352,7 +1352,7 @@
   },
   "fpga-chess": {
    "first_seen": "2026-09-28",
-   "last_online": "2026-10-20",
+   "last_online": "2026-10-26",
    "username": "fpga-chess"
   },
   "friesai": {
@@ -3182,7 +3182,7 @@
   },
   "rustyrival": {
    "first_seen": "2026-09-27",
-   "last_online": "2026-10-25",
+   "last_online": "2026-10-26",
    "username": "RustyRival"
   },
   "ryu-ishigori": {
@@ -3212,7 +3212,7 @@
   },
   "sara_bot1": {
    "first_seen": "2026-10-15",
-   "last_online": "2026-10-25",
+   "last_online": "2026-10-26",
    "username": "sAra_bot1"
   },
   "sargon-1ply": {
@@ -4167,7 +4167,7 @@
   }
  },
  "online": {
-  "checked_at": "2026-10-26T05:43:08Z",
+  "checked_at": "2026-10-26T06:43:09Z",
   "ids": [
    "aatk_vanguardx",
    "aconcaguabot",
@@ -4185,13 +4185,13 @@
    "annie_archy",
    "anti-bot",
    "antibotv3-7",
+   "apexbot",
    "aposeij",
    "approximationbot",
    "arabicahce",
    "arabicannue",
    "arasanx",
    "ariadne-bot",
-   "arkiplayschess",
    "artidigm_research",
    "ask-aatk-bot",
    "atari-video-chess",
@@ -4231,6 +4231,7 @@
    "chekovbot",
    "chess_know",
    "chess_set_manager",
+   "chessai4f",
    "chessiverse_ethan",
    "chessiverse_luc",
    "chessiverse_pawnza",
@@ -4293,6 +4294,7 @@
    "flounderbot",
    "flybrainchess",
    "fourcuriouspandas",
+   "fpga-chess",
    "fschess-engine",
    "funcomp",
    "garbobot",
@@ -4475,7 +4477,9 @@
    "rudim-bot",
    "rust-in-pieces",
    "rustbot2003",
+   "rustyrival",
    "ryu-ishigori",
+   "sara_bot1",
    "sargon-1ply",
    "sargon-2ply",
    "sargon-3ply",
@@ -4513,7 +4517,6 @@
    "streamervschat",
    "studyloversz-bot",
    "stupidfishbotbydscs",
-   "styx-chess",
    "sunfish-engine",
    "sunfish-nnue-engine",
    "sxphia",
