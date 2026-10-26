@@ -2292,7 +2292,7 @@
   },
   "makechessbetter": {
    "first_seen": "2026-09-28",
-   "last_online": "2026-10-21",
+   "last_online": "2026-10-26",
    "username": "MakeChessBetter"
   },
   "malanchess": {
@@ -4072,7 +4072,7 @@
   },
   "wedge_engine": {
    "first_seen": "2026-10-22",
-   "last_online": "2026-10-25",
+   "last_online": "2026-10-26",
    "username": "wedge_engine"
   },
   "weeebot": {
@@ -4192,7 +4192,7 @@
   }
  },
  "online": {
-  "checked_at": "2026-10-26T16:43:25Z",
+  "checked_at": "2026-10-26T17:43:09Z",
   "ids": [
    "aaronsengine",
    "abcd_engine",
@@ -4234,7 +4234,6 @@
    "bernstein-4ply",
    "bfiedler-bot",
    "bitbitbot",
-   "blackeventhorizon",
    "bluemoonbot",
    "blujay-bot",
    "bobby_pcolla",
@@ -4250,9 +4249,7 @@
    "byte-knight",
    "bytefish",
    "c-t-r-l",
-   "c0kval",
    "caiporabot",
-   "caissa-x",
    "cannotcheckmateme",
    "casanchess-nnue",
    "catnail",
@@ -4260,7 +4257,6 @@
    "chamberiajedrez",
    "charibot",
    "chekovbot",
-   "chess_set_manager",
    "chessai4f",
    "chessiverse_ethan",
    "chessiverse_luc",
@@ -4375,7 +4371,6 @@
    "knightowlbot",
    "koi_engine",
    "kopyto_dev",
-   "kruguer_engine",
    "kulubot",
    "lamprook",
    "larryz-alterego",
@@ -4420,6 +4415,7 @@
    "maia960-1900",
    "maia9_10n",
    "maia9_30n",
+   "makechessbetter",
    "martuni",
    "mate-in-forty",
    "mate-in-thirty",
@@ -4441,7 +4437,6 @@
    "mrtonnerre",
    "mychessjava",
    "nanozeroorg",
-   "neryba",
    "neurosocute",
    "newchessengine-ai",
    "nexastrat",
@@ -4517,7 +4512,6 @@
    "silasly",
    "sim3million",
    "simbelmyne-bot",
-   "simple-bot",
    "simpleeval",
    "sj_norbot",
    "slate-engine",
@@ -4536,7 +4530,6 @@
    "stockfail",
    "stockfishlowdepth",
    "stockpapagei",
-   "streamervschat",
    "stupidfishbotbydscs",
    "sunfish-engine",
    "sunfish-nnue-engine",
@@ -4549,6 +4542,7 @@
    "terconari",
    "theayka",
    "thechessblazer",
+   "throrbjorn",
    "thunfisch-bot",
    "tigrament",
    "tikifish",
@@ -4576,7 +4570,6 @@
    "usunfish-l7",
    "uxugin-bot",
    "vadbot",
-   "valhalla-bot",
    "vanibot",
    "variantsbot",
    "vic98lg",
@@ -4590,6 +4583,7 @@
    "vortexaurafarm",
    "walleye_bot",
    "walpurti",
+   "wedge_engine",
    "weiawaga",
    "weledar-bot",
    "wolfuhfuhbot",
