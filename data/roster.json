@@ -147,7 +147,7 @@
   },
   "annachess2025": {
    "first_seen": "2026-10-22",
-   "last_online": "2026-10-24",
+   "last_online": "2026-10-26",
    "username": "AnnaChess2025"
   },
   "annie_archy": {
@@ -412,7 +412,7 @@
   },
   "blueberry-engine": {
    "first_seen": "2026-10-05",
-   "last_online": "2026-10-15",
+   "last_online": "2026-10-26",
    "username": "Blueberry-Engine"
   },
   "bluemoonbot": {
@@ -507,7 +507,7 @@
   },
   "botkingteam33": {
    "first_seen": "2026-10-11",
-   "last_online": "2026-10-25",
+   "last_online": "2026-10-26",
    "username": "Botkingteam33"
   },
   "botsuxx": {
@@ -569,6 +569,11 @@
    "first_seen": "2026-10-20",
    "last_online": "2026-10-24",
    "username": "BURGENTRUCK"
+  },
+  "burmalda_engine": {
+   "first_seen": "2026-10-26",
+   "last_online": "2026-10-26",
+   "username": "burmalda_engine"
   },
   "byte-knight": {
    "first_seen": "2026-09-27",
@@ -777,7 +782,7 @@
   },
   "chessgeniusbot": {
    "first_seen": "2026-10-02",
-   "last_online": "2026-10-15",
+   "last_online": "2026-10-26",
    "username": "ChessGeniusBot"
   },
   "chessiverse_ethan": {
@@ -1922,7 +1927,7 @@
   },
   "kulubot": {
    "first_seen": "2026-09-27",
-   "last_online": "2026-10-25",
+   "last_online": "2026-10-26",
    "username": "kulubot"
   },
   "kurganuci": {
@@ -2912,7 +2917,7 @@
   },
   "project_nebulora": {
    "first_seen": "2026-09-30",
-   "last_online": "2026-10-25",
+   "last_online": "2026-10-26",
    "username": "Project_Nebulora"
   },
   "prokopakop": {
@@ -3194,6 +3199,11 @@
    "first_seen": "2026-09-27",
    "last_online": "2026-10-26",
    "username": "RustyRival"
+  },
+  "rutomustgooo": {
+   "first_seen": "2026-10-26",
+   "last_online": "2026-10-26",
+   "username": "RutoMustGooo"
   },
   "ryu-ishigori": {
    "first_seen": "2026-09-30",
@@ -4177,10 +4187,11 @@
   }
  },
  "online": {
-  "checked_at": "2026-10-26T11:43:10Z",
+  "checked_at": "2026-10-26T12:43:09Z",
   "ids": [
    "aaronsengine",
    "aatk_vanguardx",
+   "abcd_engine",
    "aconcaguabot",
    "aetherbot",
    "aggressivestockfish",
@@ -4194,6 +4205,7 @@
    "andobot",
    "angela_eng",
    "anna-bot",
+   "annachess2025",
    "annie_archy",
    "anti-bot",
    "antibotv3-7",
@@ -4212,12 +4224,14 @@
    "baby_eubos",
    "banerot",
    "bbc_bot",
+   "becela9_kpebetka",
    "berkbot",
    "bernstein-2ply",
    "bernstein-4ply",
    "bfiedler-bot",
    "bitbitbot",
    "black-bishop-kh",
+   "blueberry-engine",
    "bluemoonbot",
    "blujay-bot",
    "bobby_pcolla",
@@ -4225,17 +4239,18 @@
    "bot5551",
    "bot64jaques",
    "bot_adario",
+   "botkingteam33",
    "bottios",
    "bravobot",
    "bretemabot",
    "bubblebot2",
+   "burmalda_engine",
    "byte-knight",
    "bytefish",
    "c-t-r-l",
    "c0kval",
    "caiporabot",
    "cannotcheckmateme",
-   "carmin-bot",
    "casanchess-nnue",
    "catnail",
    "catriever",
@@ -4243,6 +4258,7 @@
    "charibot",
    "chekovbot",
    "chess_set_manager",
+   "chessgeniusbot",
    "chessiverse_ethan",
    "chessiverse_luc",
    "chessiverse_pawnza",
@@ -4254,6 +4270,7 @@
    "chmod-bot",
    "chronicgambler",
    "cinder-bot",
+   "classic_bot-v2",
    "clrsrc_lc0",
    "coda_bot",
    "confidencebuilder",
@@ -4284,7 +4301,6 @@
    "dfy-bot",
    "dravox",
    "drawfish-reborn",
-   "drewschessmachine",
    "duchessai",
    "dumbotai",
    "edwardkillick",
@@ -4314,6 +4330,7 @@
    "geotsibot",
    "giffibot",
    "gnu4u",
+   "gochess6767",
    "goldfish-engine",
    "goopis",
    "grail-bot",
@@ -4323,6 +4340,7 @@
    "hackerchessbot",
    "halcyonbot",
    "harakternyk",
+   "hardrok",
    "hiusbot",
    "hodgeybot",
    "holidaybot1225",
@@ -4355,6 +4373,7 @@
    "kittyenginev5",
    "koi_engine",
    "kopyto_dev",
+   "kulubot",
    "lamprook",
    "larryz-alterego",
    "laura-bot",
@@ -4423,6 +4442,7 @@
    "n1742bot",
    "nanozeroorg",
    "neurosocute",
+   "newchessengine-ai",
    "nexastrat",
    "nibbleknight",
    "nice_bot",
@@ -4459,6 +4479,7 @@
    "playmarius",
    "plumboi",
    "plumbot",
+   "project_nebulora",
    "prokopakop",
    "prosperobot",
    "psion-chess",
@@ -4482,6 +4503,8 @@
    "rudim-bot",
    "rust-in-pieces",
    "rustbot2003",
+   "rustyrival",
+   "rutomustgooo",
    "ryu-ishigori",
    "sargon-1ply",
    "sargon-2ply",
@@ -4506,7 +4529,6 @@
    "snaky-bot",
    "solobot",
    "southbot",
-   "sparkchessengine",
    "springerbot",
    "squarefish-900",
    "sseh-c",
@@ -4533,6 +4555,7 @@
    "thechessblazer",
    "thunfisch-bot",
    "tigrament",
+   "tikifish",
    "tilapiabot",
    "togaii",
    "tomabbot",
@@ -4566,6 +4589,7 @@
    "viet-ai",
    "vietnamesecoffee",
    "violentstockfish",
+   "void_bot",
    "vortex_bot",
    "vortexaurafarm",
    "walpurti",
