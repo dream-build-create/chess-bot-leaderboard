@@ -632,7 +632,7 @@
   },
   "carmin-bot": {
    "first_seen": "2026-10-06",
-   "last_online": "2026-10-22",
+   "last_online": "2026-10-26",
    "username": "Carmin-BOT"
   },
   "casanchess-nnue": {
@@ -2512,7 +2512,7 @@
   },
   "n1742bot": {
    "first_seen": "2026-10-19",
-   "last_online": "2026-10-24",
+   "last_online": "2026-10-26",
    "username": "N1742Bot"
   },
   "nanozeroorg": {
@@ -3807,7 +3807,7 @@
   },
   "torombot": {
    "first_seen": "2026-09-28",
-   "last_online": "2026-10-25",
+   "last_online": "2026-10-26",
    "username": "ToromBot"
   },
   "trainer-bot": {
@@ -4177,7 +4177,7 @@
   }
  },
  "online": {
-  "checked_at": "2026-10-26T10:43:10Z",
+  "checked_at": "2026-10-26T11:43:10Z",
   "ids": [
    "aaronsengine",
    "aatk_vanguardx",
@@ -4235,12 +4235,14 @@
    "c0kval",
    "caiporabot",
    "cannotcheckmateme",
+   "carmin-bot",
    "casanchess-nnue",
    "catnail",
    "catriever",
    "chamberiajedrez",
    "charibot",
    "chekovbot",
+   "chess_set_manager",
    "chessiverse_ethan",
    "chessiverse_luc",
    "chessiverse_pawnza",
@@ -4309,7 +4311,6 @@
    "fschess-engine",
    "funcomp",
    "garbobot",
-   "georgii_ai",
    "geotsibot",
    "giffibot",
    "gnu4u",
@@ -4333,6 +4334,7 @@
    "icarus-bot",
    "ilovecatgirl",
    "incipit_bot",
+   "is_boss",
    "iskelt-corax",
    "jangine",
    "jaxakos13_bot",
@@ -4417,8 +4419,8 @@
    "morabandbot",
    "mostlyhuman1900",
    "mrtonnerre",
-   "musashi-thebot",
    "mychessjava",
+   "n1742bot",
    "nanozeroorg",
    "neurosocute",
    "nexastrat",
@@ -4523,6 +4525,7 @@
    "sybaibot",
    "sybbot",
    "sykorabot",
+   "takticprochess",
    "talosbot",
    "tempocore",
    "terconari",
@@ -4534,6 +4537,7 @@
    "togaii",
    "tomabbot",
    "topasbot",
+   "torombot",
    "trainer-bot",
    "trenerhetman",
    "trinculobot",
@@ -4554,6 +4558,7 @@
    "uxugin-bot",
    "vadbot",
    "valhalla-bot",
+   "vanibot",
    "variantsbot",
    "vic98lg",
    "vicentlittle",
@@ -4565,6 +4570,7 @@
    "vortexaurafarm",
    "walpurti",
    "weiawaga",
+   "weledar-bot",
    "wolfuhfuhbot",
    "worstfish",
    "z-o_aspenlabs",
