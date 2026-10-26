@@ -277,7 +277,7 @@
   },
   "ballin-bot": {
    "first_seen": "2026-10-19",
-   "last_online": "2026-10-22",
+   "last_online": "2026-10-26",
    "username": "Ballin-bot"
   },
   "bamsensbadchessbot": {
@@ -1392,7 +1392,7 @@
   },
   "gambitonlybot": {
    "first_seen": "2026-09-28",
-   "last_online": "2026-10-25",
+   "last_online": "2026-10-26",
    "username": "GambitOnlyBot"
   },
   "garbobot": {
@@ -1922,7 +1922,7 @@
   },
   "kruguer_engine": {
    "first_seen": "2026-10-18",
-   "last_online": "2026-10-25",
+   "last_online": "2026-10-26",
    "username": "Kruguer_Engine"
   },
   "kulubot": {
@@ -2182,7 +2182,7 @@
   },
   "magic11bot_coach": {
    "first_seen": "2026-10-01",
-   "last_online": "2026-10-25",
+   "last_online": "2026-10-26",
    "username": "Magic11bot_Coach"
   },
   "maia1": {
@@ -2972,7 +2972,7 @@
   },
   "qioui": {
    "first_seen": "2026-10-11",
-   "last_online": "2026-10-25",
+   "last_online": "2026-10-26",
    "username": "QiOui"
   },
   "quanticade": {
@@ -4187,10 +4187,11 @@
   }
  },
  "online": {
-  "checked_at": "2026-10-26T13:43:11Z",
+  "checked_at": "2026-10-26T14:43:10Z",
   "ids": [
    "aaronsengine",
    "aatk_vanguardx",
+   "abcd_engine",
    "aconcaguabot",
    "aetherbot",
    "aggressivestockfish",
@@ -4220,6 +4221,7 @@
    "athena-chessbot",
    "axiom_bot",
    "baby_eubos",
+   "ballin-bot",
    "banerot",
    "batyarapro",
    "bbc_bot",
@@ -4229,7 +4231,6 @@
    "bernstein-4ply",
    "bfiedler-bot",
    "bitbitbot",
-   "black-bishop-kh",
    "bluemoonbot",
    "blujay-bot",
    "bobby_pcolla",
@@ -4275,7 +4276,6 @@
    "colinbot",
    "confidencebuilder",
    "cookiebot711",
-   "coolperson_bot1",
    "craftyuci",
    "croco_bot",
    "croco_little_bot",
@@ -4318,7 +4318,6 @@
    "fathzer-jchess",
    "felipe_bot_53",
    "fetacompli",
-   "fighting2543",
    "fivejoyouspandas",
    "flounderbot",
    "flybrainchess",
@@ -4326,6 +4325,7 @@
    "fpga-chess",
    "fschess-engine",
    "funcomp",
+   "gambitonlybot",
    "garbobot",
    "geotsibot",
    "giffibot",
@@ -4374,16 +4374,21 @@
    "kirinchessbot",
    "koi_engine",
    "kopyto_dev",
+   "kruguer_engine",
    "kulubot",
    "lamprook",
    "larryz-alterego",
    "laura-bot",
    "leelaalien",
    "leelajester",
+   "leelaknightodds",
+   "leelapieceodds",
+   "leelaqueenforknight",
+   "leelaqueenodds",
    "leelarogue",
+   "leelarookodds",
    "leelatroll",
    "leol-bot",
-   "lepbot",
    "levymaia",
    "likeawizard-bot",
    "lili-ai",
@@ -4396,6 +4401,7 @@
    "lynx_bot",
    "mac-bot",
    "mackbot",
+   "magic11bot_coach",
    "maia1",
    "maia2200_10n",
    "maia3-79m_1000",
@@ -4480,6 +4486,7 @@
    "psion-chess",
    "puisne",
    "pzchessbot",
+   "qioui",
    "radianceengine",
    "randmaster_bot",
    "randmaster_egtb",
@@ -4523,6 +4530,7 @@
    "sluicing",
    "snaky-bot",
    "solobot",
+   "soulgar",
    "southbot",
    "springerbot",
    "squarefish-900",
@@ -4555,7 +4563,6 @@
    "togaii",
    "tomabbot",
    "topasbot",
-   "torombot",
    "trainer-bot",
    "trenerhetman",
    "trinculobot",
@@ -4587,6 +4594,7 @@
    "void_bot",
    "vortex_bot",
    "vortexaurafarm",
+   "walleye_bot",
    "walpurti",
    "weiawaga",
    "weledar-bot",
