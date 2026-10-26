@@ -442,7 +442,7 @@
   },
   "boris-trapsky": {
    "first_seen": "2026-09-27",
-   "last_online": "2026-10-25",
+   "last_online": "2026-10-26",
    "username": "Boris-Trapsky"
   },
   "borkatower": {
@@ -804,6 +804,11 @@
    "first_seen": "2026-09-27",
    "last_online": "2026-10-26",
    "username": "Chessiverse_Raak"
+  },
+  "chessnoobcomp": {
+   "first_seen": "2026-10-26",
+   "last_online": "2026-10-26",
+   "username": "ChessNoobComp"
   },
   "chesspion96": {
    "first_seen": "2026-10-04",
@@ -1854,6 +1859,11 @@
    "first_seen": "2026-10-25",
    "last_online": "2026-10-26",
    "username": "kbelludoo"
+  },
+  "kempelenengine": {
+   "first_seen": "2026-10-26",
+   "last_online": "2026-10-26",
+   "username": "KempelenEngine"
   },
   "kepler_bot": {
    "first_seen": "2026-10-03",
@@ -3332,7 +3342,7 @@
   },
   "sharpsundae": {
    "first_seen": "2026-09-27",
-   "last_online": "2026-10-16",
+   "last_online": "2026-10-26",
    "username": "sharpSundae"
   },
   "shrevenbot": {
@@ -3382,7 +3392,7 @@
   },
   "sisyphus-engine": {
    "first_seen": "2026-10-12",
-   "last_online": "2026-10-25",
+   "last_online": "2026-10-26",
    "username": "Sisyphus-engine"
   },
   "sj_norbot": {
@@ -3722,7 +3732,7 @@
   },
   "the_baronet": {
    "first_seen": "2026-09-28",
-   "last_online": "2026-10-25",
+   "last_online": "2026-10-26",
    "username": "The_Baronet"
   },
   "thealexdestroyer": {
@@ -4192,7 +4202,7 @@
   }
  },
  "online": {
-  "checked_at": "2026-10-26T19:43:09Z",
+  "checked_at": "2026-10-26T20:43:10Z",
   "ids": [
    "aaronsengine",
    "abcd_engine",
@@ -4208,7 +4218,6 @@
    "alliethechessbot",
    "angela_eng",
    "anna-bot",
-   "annachess2025",
    "annie_archy",
    "anti-bot",
    "antibotv3-7",
@@ -4238,9 +4247,11 @@
    "blujay-bot",
    "bobby_pcolla",
    "bongaclang",
+   "boris-trapsky",
    "bot5551",
    "bot64jaques",
    "bot_adario",
+   "botkingteam33",
    "bottios",
    "botyon",
    "bravobot",
@@ -4249,6 +4260,7 @@
    "byte-knight",
    "bytefish",
    "c-t-r-l",
+   "c0kval",
    "caiporabot",
    "cannotcheckmateme",
    "casanchess-nnue",
@@ -4257,11 +4269,13 @@
    "chamberiajedrez",
    "charibot",
    "chekovbot",
+   "chess_set_manager",
    "chessai4f",
    "chessiverse_ethan",
    "chessiverse_luc",
    "chessiverse_pawnza",
    "chessiverse_raak",
+   "chessnoobcomp",
    "chesstango_bot",
    "cheszter",
    "chill4ce",
@@ -4305,7 +4319,6 @@
    "entebot",
    "erin_brain",
    "eubos",
-   "european_chess_bot",
    "falconengine",
    "fathzer-jchess",
    "felipe_bot_53",
@@ -4358,18 +4371,19 @@
    "kahunabot",
    "kavinengine",
    "kbelludoo",
+   "kempelenengine",
    "kestrelstrike",
    "kingzbot",
    "kirinchessbot",
    "knightowlbot",
    "kopyto_dev",
+   "kowalabi",
    "kulubot",
    "lamprook",
    "larryz-alterego",
    "latrunculi-bot",
    "laura-bot",
    "leelaalien",
-   "leelajester",
    "leelaknightodds",
    "leelapieceodds",
    "leelaqueenforknight",
@@ -4430,6 +4444,7 @@
    "mrtonnerre",
    "mychessjava",
    "nanozeroorg",
+   "neryba",
    "neurosocute",
    "newchessengine-ai",
    "nexastrat",
@@ -4447,6 +4462,7 @@
    "openinggenie2000",
    "openingsbot",
    "overfitted",
+   "oxybullet",
    "pangubot",
    "panic-fish",
    "partner3615diago",
@@ -4472,7 +4488,6 @@
    "psion-chess",
    "puisne",
    "pzchessbot",
-   "qioui",
    "rachl1",
    "radianceengine",
    "randmaster_bot",
@@ -4500,21 +4515,21 @@
    "scalaqueen",
    "schnecken_bot",
    "scipio-bot",
-   "seedchess",
    "seitogakatsu",
    "shallowredbot",
+   "sharpsundae",
    "shrevenbot",
    "silasly",
    "sim3million",
    "simbelmyne-bot",
    "simpleeval",
+   "sisyphus-engine",
    "sj_norbot",
    "slate-engine",
    "sleepmindengine",
    "slowmate_bot",
    "snaky-bot",
    "solobot",
-   "soulgar",
    "southbot",
    "springerbot",
    "squarefish-900",
@@ -4527,15 +4542,18 @@
    "stockfishlowdepth",
    "stockpapagei",
    "stupidfishbotbydscs",
+   "styx-chess",
    "sunfish-engine",
    "sunfish-nnue-engine",
    "sxphia",
    "sybaibot",
    "sybbot",
    "sykorabot",
+   "takticprochess",
    "talosbot",
    "tempocore",
    "terconari",
+   "the_baronet",
    "theayka",
    "thechessblazer",
    "throrbjorn",
