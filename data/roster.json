@@ -2332,7 +2332,7 @@
   },
   "matthewcarven": {
    "first_seen": "2026-10-14",
-   "last_online": "2026-10-25",
+   "last_online": "2026-10-26",
    "username": "matthewcarven"
   },
   "maximaengine": {
@@ -2482,7 +2482,7 @@
   },
   "musashi-thebot": {
    "first_seen": "2026-09-28",
-   "last_online": "2026-10-25",
+   "last_online": "2026-10-26",
    "username": "Musashi-thebot"
   },
   "mxnet-gamemaster": {
@@ -3585,6 +3585,11 @@
    "last_online": "2026-10-26",
    "username": "StupidfishBOTBYDSCS"
   },
+  "styx-chess": {
+   "first_seen": "2026-10-26",
+   "last_online": "2026-10-26",
+   "username": "Styx-Chess"
+  },
   "styx_reckless": {
    "first_seen": "2026-09-27",
    "last_online": "2026-10-01",
@@ -4162,7 +4167,7 @@
   }
  },
  "online": {
-  "checked_at": "2026-10-26T05:14:53Z",
+  "checked_at": "2026-10-26T05:43:08Z",
   "ids": [
    "aatk_vanguardx",
    "aconcaguabot",
@@ -4186,6 +4191,7 @@
    "arabicannue",
    "arasanx",
    "ariadne-bot",
+   "arkiplayschess",
    "artidigm_research",
    "ask-aatk-bot",
    "atari-video-chess",
@@ -4297,7 +4303,6 @@
    "goldfish-engine",
    "goopis",
    "grail-bot",
-   "grapechessengine",
    "grindfish",
    "groshboss",
    "gryndor",
@@ -4387,6 +4392,7 @@
    "mate-in-twenty",
    "mate1-bot",
    "matmoi",
+   "matthewcarven",
    "mcdonalds1955",
    "mega-noob-bot",
    "melsh_bot",
@@ -4400,6 +4406,7 @@
    "morabandbot",
    "mostlyhuman1900",
    "mrtonnerre",
+   "musashi-thebot",
    "mychessjava",
    "nanozeroorg",
    "neryba",
@@ -4506,6 +4513,7 @@
    "streamervschat",
    "studyloversz-bot",
    "stupidfishbotbydscs",
+   "styx-chess",
    "sunfish-engine",
    "sunfish-nnue-engine",
    "sxphia",
@@ -4530,7 +4538,6 @@
    "trenerhetman",
    "trinculobot",
    "troutbot",
-   "tucuengine",
    "turk_gambit",
    "turkjs",
    "turochamp-1ply",
@@ -4558,7 +4565,6 @@
    "void_bot",
    "vortex_bot",
    "vortexaurafarm",
-   "walleye_bot",
    "walpurti",
    "weiawaga",
    "wolfuhfuhbot",
