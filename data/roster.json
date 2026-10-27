@@ -302,7 +302,7 @@
   },
   "battlebornthe2nd": {
    "first_seen": "2026-09-28",
-   "last_online": "2026-10-19",
+   "last_online": "2026-10-27",
    "username": "BattleBornThe2nd"
   },
   "battlebornthe3rd": {
@@ -1232,7 +1232,7 @@
   },
   "elexunix_chess_bot": {
    "first_seen": "2026-09-27",
-   "last_online": "2026-10-26",
+   "last_online": "2026-10-27",
    "username": "elexunix_chess_bot"
   },
   "ellen_replay": {
@@ -3582,7 +3582,7 @@
   },
   "spyros1bot": {
    "first_seen": "2026-09-28",
-   "last_online": "2026-10-26",
+   "last_online": "2026-10-27",
    "username": "spyros1bot"
   },
   "squarefish-900": {
@@ -4267,7 +4267,7 @@
   }
  },
  "online": {
-  "checked_at": "2026-10-27T21:43:10Z",
+  "checked_at": "2026-10-27T22:35:19Z",
   "ids": [
    "aathena101",
    "aatk_vanguardx",
@@ -4296,12 +4296,12 @@
    "ashnostromo",
    "ask-aatk-bot",
    "athena-chessbot",
-   "atwell-chess-bot",
    "axiom_bot",
    "azzbot",
    "baby_eubos",
    "ballin-bot",
    "banerot",
+   "battlebornthe2nd",
    "batyarapro",
    "bbc_bot",
    "becela9_kpebetka",
@@ -4385,6 +4385,7 @@
    "edwardkillick",
    "eigenmann-chess",
    "elachessbot",
+   "elexunix_chess_bot",
    "ellen_replay",
    "elmichess",
    "endspiel-pi",
@@ -4460,7 +4461,6 @@
    "leelaalien",
    "leelajester",
    "leelaknightodds",
-   "leelamultiposs",
    "leelapieceodds",
    "leelaqueenforknight",
    "leelaqueenodds",
@@ -4500,7 +4500,6 @@
    "maia960-1900",
    "maia9_10n",
    "maia9_30n",
-   "malpamat",
    "martuni",
    "mate-in-forty",
    "mate-in-thirty",
@@ -4557,7 +4556,6 @@
    "playmarius",
    "plumboi",
    "plumbot",
-   "potential_engine",
    "princhess_policy_bot",
    "prokopakop",
    "prosperobot",
@@ -4583,7 +4581,6 @@
    "rustbot2003",
    "ryu-ishigori",
    "sapling-bot",
-   "sara_bot1",
    "sargon-1ply",
    "sargon-2ply",
    "sargon-3ply",
@@ -4593,12 +4590,12 @@
    "schnecken_bot",
    "scipio-bot",
    "seitogakatsu",
-   "selflearn",
    "shallowredbot",
    "sharpsundae",
    "shrevenbot",
    "silasly",
    "sim3million",
+   "simpleeval",
    "sj_norbot",
    "slate-engine",
    "sleepmindengine",
@@ -4607,6 +4604,7 @@
    "solobot",
    "southbot",
    "springerbot",
+   "spyros1bot",
    "squarefish-900",
    "sseh-c",
    "stargazerengine",
