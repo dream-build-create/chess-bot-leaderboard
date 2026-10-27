@@ -365,6 +365,11 @@
    "last_online": "2026-10-09",
    "username": "BertBot"
   },
+  "beyondheliosai": {
+   "first_seen": "2026-10-27",
+   "last_online": "2026-10-27",
+   "username": "BeyondHeliosAI"
+  },
   "bfiedler-bot": {
    "first_seen": "2026-09-27",
    "last_online": "2026-10-27",
@@ -472,7 +477,7 @@
   },
   "bot64jaques": {
    "first_seen": "2026-09-27",
-   "last_online": "2026-10-26",
+   "last_online": "2026-10-27",
    "username": "bot64jaques"
   },
   "bot913": {
@@ -607,7 +612,7 @@
   },
   "caissa-x": {
    "first_seen": "2026-09-29",
-   "last_online": "2026-10-26",
+   "last_online": "2026-10-27",
    "username": "caissa-x"
   },
   "calciumengine": {
@@ -1497,7 +1502,7 @@
   },
   "grapechessengine": {
    "first_seen": "2026-10-25",
-   "last_online": "2026-10-26",
+   "last_online": "2026-10-27",
    "username": "GrapeChessEngine"
   },
   "graphene-64": {
@@ -4217,11 +4222,8 @@
   }
  },
  "online": {
-  "checked_at": "2026-10-27T05:43:10Z",
+  "checked_at": "2026-10-27T06:43:08Z",
   "ids": [
-   "aathena101",
-   "aatk_vanguardx",
-   "abcd_engine",
    "aconcaguabot",
    "aetherbot",
    "aggressivestockfish",
@@ -4243,8 +4245,6 @@
    "arasanx",
    "ariadne-bot",
    "artidigm_research",
-   "ask-aatk-bot",
-   "atari-video-chess",
    "athena-chessbot",
    "axiom_bot",
    "azzbot",
@@ -4257,6 +4257,7 @@
    "berkbot",
    "bernstein-2ply",
    "bernstein-4ply",
+   "beyondheliosai",
    "bfiedler-bot",
    "bitbitbot",
    "bluemoonbot",
@@ -4264,6 +4265,7 @@
    "bobby_pcolla",
    "bongaclang",
    "bot5551",
+   "bot64jaques",
    "bot_adario",
    "bottios",
    "bravobot",
@@ -4274,12 +4276,12 @@
    "c-t-r-l",
    "c0kval",
    "caiporabot",
+   "caissa-x",
    "cannotcheckmateme",
    "casanchess-nnue",
    "catnail",
    "catriever",
    "charibot",
-   "chekovbot",
    "chess_know",
    "chess_set_manager",
    "chessiverse_ethan",
@@ -4351,6 +4353,7 @@
    "goldfish-engine",
    "goopis",
    "grail-bot",
+   "grapechessengine",
    "grindfish",
    "groshboss",
    "gryndor",
@@ -4481,8 +4484,6 @@
    "patzerbot135",
    "pawn_git",
    "pawnrobot",
-   "pdp8-chekmo",
-   "pdp8-clash",
    "peacemaker-0_0",
    "peachfruit",
    "perl-gigachess",
