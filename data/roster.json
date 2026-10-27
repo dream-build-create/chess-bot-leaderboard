@@ -82,7 +82,7 @@
   },
   "ajedrezchamberi": {
    "first_seen": "2026-09-29",
-   "last_online": "2026-10-26",
+   "last_online": "2026-10-27",
    "username": "AjedrezChamberi"
   },
   "alarm2001": {
@@ -672,7 +672,7 @@
   },
   "chamberiajedrez": {
    "first_seen": "2026-09-29",
-   "last_online": "2026-10-26",
+   "last_online": "2026-10-27",
    "username": "ChamberiAjedrez"
   },
   "chaotong_engine": {
@@ -1387,7 +1387,7 @@
   },
   "fpga-chess": {
    "first_seen": "2026-09-28",
-   "last_online": "2026-10-26",
+   "last_online": "2026-10-27",
    "username": "fpga-chess"
   },
   "friesai": {
@@ -2102,7 +2102,7 @@
   },
   "lepbot": {
    "first_seen": "2026-10-20",
-   "last_online": "2026-10-26",
+   "last_online": "2026-10-27",
    "username": "lepbot"
   },
   "levymaia": {
@@ -2612,7 +2612,7 @@
   },
   "newtsbot": {
    "first_seen": "2026-09-27",
-   "last_online": "2026-10-26",
+   "last_online": "2026-10-27",
    "username": "NEWTSbot"
   },
   "nexastrat": {
@@ -4092,7 +4092,7 @@
   },
   "wannalearnbot": {
    "first_seen": "2026-09-27",
-   "last_online": "2026-10-13",
+   "last_online": "2026-10-27",
    "username": "wannalearnbot"
   },
   "wardnbot": {
@@ -4227,15 +4227,15 @@
   }
  },
  "online": {
-  "checked_at": "2026-10-27T08:43:12Z",
+  "checked_at": "2026-10-27T09:43:10Z",
   "ids": [
-   "aathena101",
    "abcd_engine",
    "aconcaguabot",
    "aetherbot",
    "aggressivestockfish",
    "ai-con",
    "ailedbot",
+   "ajedrezchamberi",
    "alexandrya",
    "aliceshiro",
    "alieknek",
@@ -4261,11 +4261,10 @@
    "banerot",
    "batyarapro",
    "bbc_bot",
-   "becela9_kpebetka",
    "berkbot",
    "bernstein-2ply",
    "bernstein-4ply",
-   "beyondheliosai",
+   "bfiedler-bot",
    "bitbitbot",
    "blueberry-engine",
    "bluemoonbot",
@@ -4288,6 +4287,7 @@
    "casanchess-nnue",
    "catnail",
    "catriever",
+   "chamberiajedrez",
    "charibot",
    "chess_know",
    "chess_set_manager",
@@ -4327,8 +4327,6 @@
    "deepbecky",
    "deepsquare-ai",
    "demen100ns-bot",
-   "demolito_l1",
-   "demolito_l2",
    "demolito_l5",
    "dravox",
    "drawfish-reborn",
@@ -4344,6 +4342,7 @@
    "enginefromscratch",
    "entebot",
    "epimetheusbot",
+   "erin_brain",
    "eubos",
    "falconengine",
    "fathzer-jchess",
@@ -4353,6 +4352,7 @@
    "flounderbot",
    "flybrainchess",
    "fourcuriouspandas",
+   "fpga-chess",
    "fschess-engine",
    "funcomp",
    "garbobot",
@@ -4362,6 +4362,7 @@
    "gnu4u",
    "gochess6767",
    "goldfish-engine",
+   "goopis",
    "grail-bot",
    "grapechessengine",
    "grindfish",
@@ -4393,7 +4394,6 @@
    "kahunabot",
    "kavinengine",
    "kbelludoo",
-   "kempelenengine",
    "kestrelstrike",
    "kingzbot",
    "kirinchessbot",
@@ -4416,6 +4416,7 @@
    "leelarookodds",
    "leelatroll",
    "leol-bot",
+   "lepbot",
    "levymaia",
    "likeawizard-bot",
    "lili-ai",
@@ -4453,6 +4454,7 @@
    "mate-in-twenty",
    "mate1-bot",
    "matmoi",
+   "matthewcarven",
    "mcdonalds1955",
    "mega-noob-bot",
    "melsh_bot",
@@ -4471,7 +4473,7 @@
    "nanozeroorg",
    "neryba",
    "neurosocute",
-   "newchessengine-ai",
+   "newtsbot",
    "nexastrat",
    "nexosdefos",
    "nibbleknight",
@@ -4487,14 +4489,12 @@
    "onezenpanda",
    "openinggenie2000",
    "overfitted",
-   "oxybullet",
    "pangubot",
    "panic-fish",
    "partner3615diago",
    "patriciabot",
    "patzerbot135",
    "pawn_git",
-   "pawnrobot",
    "peacemaker-0_0",
    "peachfruit",
    "perl-gigachess",
@@ -4525,7 +4525,6 @@
    "rdtchessbot",
    "resolutebot",
    "ribfish-bot",
-   "rodent-iv",
    "rudim-bot",
    "rust-in-pieces",
    "rustbot2003",
@@ -4545,7 +4544,6 @@
    "shrevenbot",
    "silasly",
    "sim3million",
-   "simbelmyne-bot",
    "simple-bot",
    "simpleeval",
    "sj_norbot",
@@ -4578,7 +4576,6 @@
    "terconari",
    "theayka",
    "thechessblazer",
-   "throrbjorn",
    "thunfisch-bot",
    "tigrament",
    "tikifish",
@@ -4617,6 +4614,7 @@
    "vortex_bot",
    "vortexaurafarm",
    "walpurti",
+   "wannalearnbot",
    "weiawaga",
    "wolfuhfuhbot",
    "worstfish",
