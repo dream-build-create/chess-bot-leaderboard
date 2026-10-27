@@ -1255,6 +1255,11 @@
    "last_online": "2026-10-27",
    "username": "endspiel-pi"
   },
+  "enginefromscratch": {
+   "first_seen": "2026-10-27",
+   "last_online": "2026-10-27",
+   "username": "EngineFromScratch"
+  },
   "enjoyably3303": {
    "first_seen": "2026-09-27",
    "last_online": "2026-10-10",
@@ -1877,7 +1882,7 @@
   },
   "kempelenengine": {
    "first_seen": "2026-10-26",
-   "last_online": "2026-10-26",
+   "last_online": "2026-10-27",
    "username": "KempelenEngine"
   },
   "kepler_bot": {
@@ -2017,7 +2022,7 @@
   },
   "leechgodestroy": {
    "first_seen": "2026-10-16",
-   "last_online": "2026-10-16",
+   "last_online": "2026-10-27",
    "username": "LeechGODestroy"
   },
   "leelaalien": {
@@ -3532,7 +3537,7 @@
   },
   "sparkchessengine": {
    "first_seen": "2026-10-21",
-   "last_online": "2026-10-26",
+   "last_online": "2026-10-27",
    "username": "SparkchessEngine"
   },
   "springerbot": {
@@ -4222,12 +4227,12 @@
   }
  },
  "online": {
-  "checked_at": "2026-10-27T07:43:09Z",
+  "checked_at": "2026-10-27T08:43:12Z",
   "ids": [
-   "aatk_vanguardx",
+   "aathena101",
+   "abcd_engine",
    "aconcaguabot",
    "aetherbot",
-   "agentc313",
    "aggressivestockfish",
    "ai-con",
    "ailedbot",
@@ -4246,8 +4251,8 @@
    "arabicannue",
    "arasanx",
    "ariadne-bot",
+   "arkiplayschess",
    "artidigm_research",
-   "ask-aatk-bot",
    "athena-chessbot",
    "axiom_bot",
    "azzbot",
@@ -4261,7 +4266,6 @@
    "bernstein-2ply",
    "bernstein-4ply",
    "beyondheliosai",
-   "bfiedler-bot",
    "bitbitbot",
    "blueberry-engine",
    "bluemoonbot",
@@ -4287,7 +4291,6 @@
    "charibot",
    "chess_know",
    "chess_set_manager",
-   "chessai4f",
    "chessiverse_ethan",
    "chessiverse_luc",
    "chessiverse_pawnza",
@@ -4324,8 +4327,8 @@
    "deepbecky",
    "deepsquare-ai",
    "demen100ns-bot",
-   "demolito_l3",
-   "demolito_l4",
+   "demolito_l1",
+   "demolito_l2",
    "demolito_l5",
    "dravox",
    "drawfish-reborn",
@@ -4338,6 +4341,7 @@
    "ellen_replay",
    "elmichess",
    "endspiel-pi",
+   "enginefromscratch",
    "entebot",
    "epimetheusbot",
    "eubos",
@@ -4358,7 +4362,6 @@
    "gnu4u",
    "gochess6767",
    "goldfish-engine",
-   "goopis",
    "grail-bot",
    "grapechessengine",
    "grindfish",
@@ -4390,6 +4393,7 @@
    "kahunabot",
    "kavinengine",
    "kbelludoo",
+   "kempelenengine",
    "kestrelstrike",
    "kingzbot",
    "kirinchessbot",
@@ -4401,6 +4405,7 @@
    "larryz-alterego",
    "latrunculi-bot",
    "laura-bot",
+   "leechgodestroy",
    "leelaalien",
    "leelajester",
    "leelaknightodds",
@@ -4550,6 +4555,7 @@
    "snaky-bot",
    "solobot",
    "southbot",
+   "sparkchessengine",
    "springerbot",
    "squarefish-900",
    "sseh-c",
@@ -4559,7 +4565,6 @@
    "stockfail",
    "stockfishlowdepth",
    "stockpapagei",
-   "studyloversz-bot",
    "stupidfishbotbydscs",
    "sunfish-engine",
    "sunfish-nnue-engine",
