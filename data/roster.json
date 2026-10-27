@@ -7,7 +7,7 @@
   },
   "aathena101": {
    "first_seen": "2026-10-16",
-   "last_online": "2026-10-25",
+   "last_online": "2026-10-27",
    "username": "AAthena101"
   },
   "aatk_vanguardx": {
@@ -327,7 +327,7 @@
   },
   "beastie1": {
    "first_seen": "2026-09-29",
-   "last_online": "2026-10-17",
+   "last_online": "2026-10-27",
    "username": "beastie1"
   },
   "becela9_kpebetka": {
@@ -1427,7 +1427,7 @@
   },
   "georgii_ai": {
    "first_seen": "2026-09-28",
-   "last_online": "2026-10-26",
+   "last_online": "2026-10-27",
    "username": "georgii_ai"
   },
   "geotsibot": {
@@ -2172,7 +2172,7 @@
   },
   "luminexbot": {
    "first_seen": "2026-10-25",
-   "last_online": "2026-10-26",
+   "last_online": "2026-10-27",
    "username": "luminexbot"
   },
   "lunaenginechess": {
@@ -2372,7 +2372,7 @@
   },
   "matthewcarven": {
    "first_seen": "2026-10-14",
-   "last_online": "2026-10-26",
+   "last_online": "2026-10-27",
    "username": "matthewcarven"
   },
   "maximaengine": {
@@ -3012,7 +3012,7 @@
   },
   "queensgambot": {
    "first_seen": "2026-09-27",
-   "last_online": "2026-10-26",
+   "last_online": "2026-10-27",
    "username": "QueensGamBOT"
   },
   "r0bspierre": {
@@ -3297,7 +3297,7 @@
   },
   "sbnovella": {
    "first_seen": "2026-10-09",
-   "last_online": "2026-10-26",
+   "last_online": "2026-10-27",
    "username": "SBNovella"
   },
   "scalaqueen": {
@@ -4217,8 +4217,9 @@
   }
  },
  "online": {
-  "checked_at": "2026-10-27T01:43:10Z",
+  "checked_at": "2026-10-27T02:43:10Z",
   "ids": [
+   "aathena101",
    "aatk_vanguardx",
    "abcd_engine",
    "aconcaguabot",
@@ -4254,6 +4255,7 @@
    "banerot",
    "batyarapro",
    "bbc_bot",
+   "beastie1",
    "becela9_kpebetka",
    "berkbot",
    "bernstein-2ply",
@@ -4272,7 +4274,6 @@
    "byte-knight",
    "bytefish",
    "c-t-r-l",
-   "c0kval",
    "caiporabot",
    "calico1",
    "cannotcheckmateme",
@@ -4281,7 +4282,6 @@
    "catriever",
    "charibot",
    "chekovbot",
-   "chess_set_manager",
    "chessiverse_ethan",
    "chessiverse_luc",
    "chessiverse_pawnza",
@@ -4336,6 +4336,7 @@
    "endspiel-pi",
    "entebot",
    "epimetheusbot",
+   "erin_brain",
    "eubos",
    "falconengine",
    "fathzer-jchess",
@@ -4349,6 +4350,7 @@
    "funcomp",
    "gambitonlybot",
    "garbobot",
+   "georgii_ai",
    "geotsibot",
    "ghidorah_x",
    "giffibot",
@@ -4358,7 +4360,6 @@
    "goopis",
    "grail-bot",
    "grindfish",
-   "groshboss",
    "gryndor",
    "halcyonbot",
    "hardrok",
@@ -4371,7 +4372,6 @@
    "hustler_5mb",
    "hyperopic",
    "icarus-bot",
-   "ilovecatgirl",
    "incipit_bot",
    "is_boss",
    "iskelt-corax",
@@ -4392,9 +4392,7 @@
    "kingzbot",
    "kirinchessbot",
    "knightowlbot",
-   "koi_engine",
    "kopyto_dev",
-   "kruguer_engine",
    "kulubot",
    "lamprook",
    "larryz-alterego",
@@ -4417,6 +4415,7 @@
    "littlepatricia",
    "louischess48-6k",
    "lukebot",
+   "luminexbot",
    "lunaenginechess",
    "lynx_bot",
    "mac-bot",
@@ -4446,6 +4445,7 @@
    "mate-in-twenty",
    "mate1-bot",
    "matmoi",
+   "matthewcarven",
    "mcdonalds1955",
    "mega-noob-bot",
    "melsh_bot",
@@ -4478,7 +4478,6 @@
    "onezenpanda",
    "openinggenie2000",
    "overfitted",
-   "oxybullet",
    "pangubot",
    "panic-fish",
    "partner3615diago",
@@ -4505,6 +4504,7 @@
    "psion-chess",
    "puisne",
    "pzchessbot",
+   "queensgambot",
    "radianceengine",
    "randmaster_bot",
    "randmaster_egtb",
@@ -4527,6 +4527,7 @@
    "sargon-2ply",
    "sargon-3ply",
    "sargon-4ply",
+   "sbnovella",
    "scalaqueen",
    "schnecken_bot",
    "scipio-bot",
@@ -4551,7 +4552,6 @@
    "springerbot",
    "squarefish-900",
    "sseh-c",
-   "stargazerengine",
    "stickshark99",
    "stockcotsfish",
    "stockdory",
@@ -4566,7 +4566,6 @@
    "sybaibot",
    "sybbot",
    "sykorabot",
-   "takticprochess",
    "talosbot",
    "tempocore",
    "terconari",
