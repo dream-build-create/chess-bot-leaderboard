@@ -392,7 +392,7 @@
   },
   "black-bishop-kh": {
    "first_seen": "2026-09-28",
-   "last_online": "2026-10-26",
+   "last_online": "2026-10-27",
    "username": "Black-Bishop-Kh"
   },
   "black-icebot": {
@@ -1117,12 +1117,12 @@
   },
   "demolito_l6": {
    "first_seen": "2026-10-12",
-   "last_online": "2026-10-23",
+   "last_online": "2026-10-27",
    "username": "Demolito_L6"
   },
   "dfy-bot": {
    "first_seen": "2026-10-18",
-   "last_online": "2026-10-26",
+   "last_online": "2026-10-27",
    "username": "Dfy-Bot"
   },
   "dgtrychess": {
@@ -3117,7 +3117,7 @@
   },
   "reality_bot": {
    "first_seen": "2026-10-10",
-   "last_online": "2026-10-23",
+   "last_online": "2026-10-27",
    "username": "Reality_BOT"
   },
   "reaper1bot": {
@@ -3207,7 +3207,7 @@
   },
   "rotor-bot": {
    "first_seen": "2026-09-27",
-   "last_online": "2026-10-24",
+   "last_online": "2026-10-27",
    "username": "rotor-bot"
   },
   "rpibot73": {
@@ -3937,7 +3937,7 @@
   },
   "uiagbot": {
    "first_seen": "2026-10-10",
-   "last_online": "2026-10-26",
+   "last_online": "2026-10-27",
    "username": "uiagBot"
   },
   "ultrabrick": {
@@ -4232,9 +4232,10 @@
   }
  },
  "online": {
-  "checked_at": "2026-10-27T10:43:10Z",
+  "checked_at": "2026-10-27T11:43:11Z",
   "ids": [
    "aaronsengine",
+   "aathena101",
    "aconcaguabot",
    "aetherbot",
    "aggressivestockfish",
@@ -4265,16 +4266,18 @@
    "ballin-bot",
    "banerot",
    "bbc_bot",
+   "becela9_kpebetka",
    "berkbot",
    "bernstein-2ply",
    "bernstein-4ply",
    "bfiedler-bot",
    "bitbitbot",
-   "blueberry-engine",
+   "black-bishop-kh",
    "bluemoonbot",
    "blujay-bot",
    "bobby_pcolla",
    "bongaclang",
+   "borkatower",
    "bot5551",
    "bot64jaques",
    "bot_adario",
@@ -4330,7 +4333,13 @@
    "deepbecky",
    "deepsquare-ai",
    "demen100ns-bot",
+   "demolito_l1",
+   "demolito_l2",
+   "demolito_l3",
+   "demolito_l4",
    "demolito_l5",
+   "demolito_l6",
+   "dfy-bot",
    "dravox",
    "drawfish-reborn",
    "drewschessmachine",
@@ -4358,13 +4367,10 @@
    "fschess-engine",
    "funcomp",
    "garbobot",
-   "georgii_ai",
    "geotsibot",
    "giffibot",
    "gnu4u",
-   "gochess6767",
    "goldfish-engine",
-   "goopis",
    "grail-bot",
    "grapechessengine",
    "grindfish",
@@ -4401,6 +4407,7 @@
    "kirinchessbot",
    "kittyenginev5",
    "knightowlbot",
+   "koi_engine",
    "kopyto_dev",
    "kulubot",
    "lamprook",
@@ -4460,10 +4467,7 @@
    "mega-noob-bot",
    "melsh_bot",
    "milanbot",
-   "miller_kaneto",
    "mimirbot",
-   "minibotapi",
-   "minibruteforcebot",
    "minopponentmoves",
    "mithandros",
    "mochi_bot",
@@ -4474,6 +4478,7 @@
    "mychessjava",
    "nanozeroorg",
    "neurosocute",
+   "newchessengine-ai",
    "nexastrat",
    "nibbleknight",
    "nice_bot",
@@ -4523,8 +4528,10 @@
    "ravenengine",
    "ray-bot",
    "rdtchessbot",
+   "reality_bot",
    "resolutebot",
    "ribfish-bot",
+   "rotor-bot",
    "rudim-bot",
    "rust-in-pieces",
    "rustbot2003",
@@ -4558,6 +4565,7 @@
    "squarefish-900",
    "sseh-c",
    "stickshark99",
+   "stockcotsfish",
    "stockdory",
    "stockfail",
    "stockfishlowdepth",
@@ -4590,6 +4598,7 @@
    "turochamp-1ply",
    "turochamp-2ply",
    "twosillypandas",
+   "uiagbot",
    "ultrabrick",
    "unimark",
    "ursus_bot",
@@ -4608,6 +4617,7 @@
    "viet-ai",
    "vietnamesecoffee",
    "violentstockfish",
+   "void_bot",
    "vortex_bot",
    "vortexaurafarm",
    "walpurti",
