@@ -227,7 +227,7 @@
   },
   "ashnostromo": {
    "first_seen": "2026-09-27",
-   "last_online": "2026-10-24",
+   "last_online": "2026-10-27",
    "username": "AshNostromo"
   },
   "ask-aatk-bot": {
@@ -1374,6 +1374,11 @@
    "first_seen": "2026-09-27",
    "last_online": "2026-10-27",
    "username": "FlounderBot"
+  },
+  "flower-queen": {
+   "first_seen": "2026-10-27",
+   "last_online": "2026-10-27",
+   "username": "Flower-Queen"
   },
   "flybrainchess": {
    "first_seen": "2026-09-27",
@@ -3755,6 +3760,11 @@
    "last_online": "2026-10-27",
    "username": "TempoCore"
   },
+  "tente8x": {
+   "first_seen": "2026-10-27",
+   "last_online": "2026-10-27",
+   "username": "Tente8x"
+  },
   "terconari": {
    "first_seen": "2026-09-27",
    "last_online": "2026-10-27",
@@ -4237,9 +4247,10 @@
   }
  },
  "online": {
-  "checked_at": "2026-10-27T13:43:11Z",
+  "checked_at": "2026-10-27T14:43:11Z",
   "ids": [
    "aaronsengine",
+   "aatk_vanguardx",
    "aconcaguabot",
    "aetherbot",
    "aggressivestockfish",
@@ -4258,10 +4269,11 @@
    "aposeij",
    "approximationbot",
    "arabicannue",
-   "arasanx",
    "ariadne-bot",
    "arkiplayschess",
    "artidigm_research",
+   "ashnostromo",
+   "ask-aatk-bot",
    "athena-chessbot",
    "axiom_bot",
    "azzbot",
@@ -4291,7 +4303,6 @@
    "bretemabot",
    "bubblebot2",
    "byte-knight",
-   "bytefish",
    "c-t-r-l",
    "c0kval",
    "caiporabot",
@@ -4368,16 +4379,18 @@
    "fetacompli",
    "fivejoyouspandas",
    "flounderbot",
+   "flower-queen",
    "flybrainchess",
    "fourcuriouspandas",
    "fschess-engine",
    "funcomp",
    "garbobot",
    "geotsibot",
+   "ghidorah_x",
    "giffibot",
    "gnu4u",
-   "goblinajedrezai",
    "goldfish-engine",
+   "goopis",
    "grail-bot",
    "grapechessengine",
    "grindfish",
@@ -4399,6 +4412,7 @@
    "is_boss",
    "iskelt-corax",
    "jangine",
+   "jaxakos13_bot",
    "jibbby",
    "joan_clone",
    "joey_chessengine",
@@ -4415,6 +4429,7 @@
    "kirinchessbot",
    "kittyenginev5",
    "knightowlbot",
+   "koi_engine",
    "kopyto_dev",
    "kulubot",
    "lamprook",
@@ -4425,7 +4440,6 @@
    "leelaalien",
    "leelajester",
    "leelaknightodds",
-   "leelamultiposs",
    "leelapieceodds",
    "leelaqueenforknight",
    "leelaqueenodds",
@@ -4435,7 +4449,6 @@
    "leol-bot",
    "levymaia",
    "likeawizard-bot",
-   "lili-ai",
    "lilitbot",
    "little-0",
    "littlepatricia",
@@ -4538,7 +4551,6 @@
    "ravenengine",
    "ray-bot",
    "rdtchessbot",
-   "reality_bot",
    "resolutebot",
    "ribfish-bot",
    "rotor-bot",
@@ -4580,6 +4592,7 @@
    "stockfail",
    "stockfishlowdepth",
    "stockpapagei",
+   "studyloversz-bot",
    "stupidfishbotbydscs",
    "sunfish-engine",
    "sunfish-nnue-engine",
@@ -4591,6 +4604,7 @@
    "tallikebot",
    "talosbot",
    "tempocore",
+   "tente8x",
    "terconari",
    "theayka",
    "thechessblazer",
