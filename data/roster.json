@@ -922,7 +922,7 @@
   },
   "colossusbot": {
    "first_seen": "2026-09-30",
-   "last_online": "2026-10-12",
+   "last_online": "2026-10-27",
    "username": "ColossusBOT"
   },
   "confidencebuilder": {
@@ -1467,7 +1467,7 @@
   },
   "goblinajedrezai": {
    "first_seen": "2026-09-28",
-   "last_online": "2026-10-15",
+   "last_online": "2026-10-27",
    "username": "GoblinAjedrezAI"
   },
   "gochess6767": {
@@ -4237,10 +4237,9 @@
   }
  },
  "online": {
-  "checked_at": "2026-10-27T12:43:09Z",
+  "checked_at": "2026-10-27T13:43:11Z",
   "ids": [
    "aaronsengine",
-   "aathena101",
    "aconcaguabot",
    "aetherbot",
    "aggressivestockfish",
@@ -4258,7 +4257,6 @@
    "antibotv3-7",
    "aposeij",
    "approximationbot",
-   "arabicahce",
    "arabicannue",
    "arasanx",
    "ariadne-bot",
@@ -4301,7 +4299,6 @@
    "casanchess-nnue",
    "catnail",
    "catriever",
-   "ceraf",
    "chamberiajedrez",
    "charibot",
    "chess_know",
@@ -4323,6 +4320,7 @@
    "clrsrc_lc0",
    "coda_bot",
    "colinbot",
+   "colossusbot",
    "confidencebuilder",
    "cookiebot711",
    "coolperson_bot1",
@@ -4348,7 +4346,6 @@
    "demolito_l4",
    "demolito_l5",
    "demolito_l6",
-   "dfy-bot",
    "dravox",
    "drawfish-reborn",
    "drewschessmachine",
@@ -4379,8 +4376,8 @@
    "geotsibot",
    "giffibot",
    "gnu4u",
+   "goblinajedrezai",
    "goldfish-engine",
-   "goopis",
    "grail-bot",
    "grapechessengine",
    "grindfish",
@@ -4574,7 +4571,6 @@
    "snaky-bot",
    "solobot",
    "southbot",
-   "sparkchessengine",
    "springerbot",
    "squarefish-900",
    "sseh-c",
