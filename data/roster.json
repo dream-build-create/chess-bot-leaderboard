@@ -12,7 +12,7 @@
   },
   "aatk_vanguardx": {
    "first_seen": "2026-09-27",
-   "last_online": "2026-10-26",
+   "last_online": "2026-10-27",
    "username": "AATK_VanguardX"
   },
   "abcd_engine": {
@@ -167,7 +167,7 @@
   },
   "apexbot": {
    "first_seen": "2026-10-25",
-   "last_online": "2026-10-26",
+   "last_online": "2026-10-27",
    "username": "ApexBot"
   },
   "aposeij": {
@@ -232,7 +232,7 @@
   },
   "ask-aatk-bot": {
    "first_seen": "2026-09-27",
-   "last_online": "2026-10-26",
+   "last_online": "2026-10-27",
    "username": "Ask-AATK-bot"
   },
   "askaig": {
@@ -1932,7 +1932,7 @@
   },
   "koi_engine": {
    "first_seen": "2026-10-23",
-   "last_online": "2026-10-26",
+   "last_online": "2026-10-27",
    "username": "koi_engine"
   },
   "kopyto_dev": {
@@ -3622,7 +3622,7 @@
   },
   "studyloversz-bot": {
    "first_seen": "2026-09-27",
-   "last_online": "2026-10-26",
+   "last_online": "2026-10-27",
    "username": "Studyloversz-bot"
   },
   "stupidchessrobot": {
@@ -4217,8 +4217,9 @@
   }
  },
  "online": {
-  "checked_at": "2026-10-27T00:43:10Z",
+  "checked_at": "2026-10-27T01:43:10Z",
   "ids": [
+   "aatk_vanguardx",
    "abcd_engine",
    "aconcaguabot",
    "aetherbot",
@@ -4234,6 +4235,7 @@
    "annie_archy",
    "anti-bot",
    "antibotv3-7",
+   "apexbot",
    "aposeij",
    "approximationbot",
    "arabicahce",
@@ -4242,6 +4244,7 @@
    "ariadne-bot",
    "arkiplayschess",
    "artidigm_research",
+   "ask-aatk-bot",
    "atari-video-chess",
    "athena-chessbot",
    "axiom_bot",
@@ -4259,7 +4262,6 @@
    "bitbitbot",
    "bluemoonbot",
    "blujay-bot",
-   "bobby_pcolla",
    "bongaclang",
    "bot5551",
    "bot_adario",
@@ -4334,7 +4336,6 @@
    "endspiel-pi",
    "entebot",
    "epimetheusbot",
-   "erin_brain",
    "eubos",
    "falconengine",
    "fathzer-jchess",
@@ -4391,6 +4392,7 @@
    "kingzbot",
    "kirinchessbot",
    "knightowlbot",
+   "koi_engine",
    "kopyto_dev",
    "kruguer_engine",
    "kulubot",
@@ -4475,7 +4477,6 @@
    "odonata-bot",
    "onezenpanda",
    "openinggenie2000",
-   "osaurus",
    "overfitted",
    "oxybullet",
    "pangubot",
@@ -4521,7 +4522,6 @@
    "rudim-bot",
    "rust-in-pieces",
    "rustbot2003",
-   "rustyrival",
    "ryu-ishigori",
    "sargon-1ply",
    "sargon-2ply",
@@ -4558,6 +4558,7 @@
    "stockfail",
    "stockfishlowdepth",
    "stockpapagei",
+   "studyloversz-bot",
    "stupidfishbotbydscs",
    "sunfish-engine",
    "sunfish-nnue-engine",
