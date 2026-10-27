@@ -52,7 +52,7 @@
   },
   "agentc313": {
    "first_seen": "2026-09-30",
-   "last_online": "2026-10-24",
+   "last_online": "2026-10-27",
    "username": "agentc313"
   },
   "aggressivestockfish": {
@@ -417,7 +417,7 @@
   },
   "blueberry-engine": {
    "first_seen": "2026-10-05",
-   "last_online": "2026-10-26",
+   "last_online": "2026-10-27",
    "username": "Blueberry-Engine"
   },
   "bluemoonbot": {
@@ -757,7 +757,7 @@
   },
   "chessai4f": {
    "first_seen": "2026-10-21",
-   "last_online": "2026-10-26",
+   "last_online": "2026-10-27",
    "username": "ChessAI4F"
   },
   "chessatronbot": {
@@ -827,7 +827,7 @@
   },
   "chesstransformerbot": {
    "first_seen": "2026-10-08",
-   "last_online": "2026-10-26",
+   "last_online": "2026-10-27",
    "username": "ChessTransformerBot"
   },
   "cheszter": {
@@ -4222,10 +4222,12 @@
   }
  },
  "online": {
-  "checked_at": "2026-10-27T06:43:08Z",
+  "checked_at": "2026-10-27T07:43:09Z",
   "ids": [
+   "aatk_vanguardx",
    "aconcaguabot",
    "aetherbot",
+   "agentc313",
    "aggressivestockfish",
    "ai-con",
    "ailedbot",
@@ -4245,6 +4247,7 @@
    "arasanx",
    "ariadne-bot",
    "artidigm_research",
+   "ask-aatk-bot",
    "athena-chessbot",
    "axiom_bot",
    "azzbot",
@@ -4260,6 +4263,7 @@
    "beyondheliosai",
    "bfiedler-bot",
    "bitbitbot",
+   "blueberry-engine",
    "bluemoonbot",
    "blujay-bot",
    "bobby_pcolla",
@@ -4276,7 +4280,6 @@
    "c-t-r-l",
    "c0kval",
    "caiporabot",
-   "caissa-x",
    "cannotcheckmateme",
    "casanchess-nnue",
    "catnail",
@@ -4284,11 +4287,13 @@
    "charibot",
    "chess_know",
    "chess_set_manager",
+   "chessai4f",
    "chessiverse_ethan",
    "chessiverse_luc",
    "chessiverse_pawnza",
    "chessiverse_raak",
    "chesstango_bot",
+   "chesstransformerbot",
    "cheszter",
    "chill4ce",
    "chmod-bot",
@@ -4319,6 +4324,8 @@
    "deepbecky",
    "deepsquare-ai",
    "demen100ns-bot",
+   "demolito_l3",
+   "demolito_l4",
    "demolito_l5",
    "dravox",
    "drawfish-reborn",
@@ -4465,7 +4472,6 @@
    "nibbleknight",
    "nice_bot",
    "nickdrohan",
-   "nickl1bot",
    "nilatacbot",
    "nittedal",
    "nnueandthevoices",
@@ -4540,7 +4546,6 @@
    "sj_norbot",
    "slate-engine",
    "sleepmindengine",
-   "slothcomputer",
    "slowmate_bot",
    "snaky-bot",
    "solobot",
@@ -4554,6 +4559,7 @@
    "stockfail",
    "stockfishlowdepth",
    "stockpapagei",
+   "studyloversz-bot",
    "stupidfishbotbydscs",
    "sunfish-engine",
    "sunfish-nnue-engine",
