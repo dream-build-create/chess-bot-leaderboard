@@ -260,6 +260,11 @@
    "last_online": "2026-10-08",
    "username": "AttackerBotPYTHON"
   },
+  "atwell-chess-bot": {
+   "first_seen": "2026-10-27",
+   "last_online": "2026-10-27",
+   "username": "atwell-chess-bot"
+  },
   "axiom_bot": {
    "first_seen": "2026-09-27",
    "last_online": "2026-10-27",
@@ -4162,7 +4167,7 @@
   },
   "wildorderbot": {
    "first_seen": "2026-09-28",
-   "last_online": "2026-10-26",
+   "last_online": "2026-10-27",
    "username": "WildorderBot"
   },
   "windmolen_bot": {
@@ -4257,7 +4262,7 @@
   }
  },
  "online": {
-  "checked_at": "2026-10-27T17:43:11Z",
+  "checked_at": "2026-10-27T18:15:06Z",
   "ids": [
    "aaronsengine",
    "aatk_vanguardx",
@@ -4277,6 +4282,7 @@
    "annie_archy",
    "anti-bot",
    "antibotv3-7",
+   "apexbot",
    "aposeij",
    "approximationbot",
    "arabicannue",
@@ -4286,6 +4292,7 @@
    "ashnostromo",
    "ask-aatk-bot",
    "athena-chessbot",
+   "atwell-chess-bot",
    "axiom_bot",
    "azzbot",
    "baby_eubos",
@@ -4329,7 +4336,6 @@
    "chessiverse_raak",
    "chessnoobcomp",
    "chesstango_bot",
-   "chesstransformerbot",
    "cheszter",
    "chill4ce",
    "chmod-bot",
@@ -4403,7 +4409,6 @@
    "goldfish-engine",
    "goopis",
    "grail-bot",
-   "grapechessengine",
    "grindfish",
    "gryndor",
    "hackerchessbot",
@@ -4453,7 +4458,6 @@
    "leelaalien",
    "leelajester",
    "leelaknightodds",
-   "leelamultiposs",
    "leelapieceodds",
    "leelaqueenforknight",
    "leelaqueenodds",
@@ -4461,6 +4465,7 @@
    "leelarookodds",
    "leelatroll",
    "leol-bot",
+   "lepbot",
    "levymaia",
    "likeawizard-bot",
    "lilitbot",
@@ -4500,7 +4505,6 @@
    "mcdonalds1955",
    "mega-noob-bot",
    "melsh_bot",
-   "mequinho_bot",
    "milanbot",
    "mimirbot",
    "minopponentmoves",
@@ -4514,7 +4518,6 @@
    "neryba",
    "neurosocute",
    "newchessengine-ai",
-   "newtsbot",
    "nexastrat",
    "nexosdefos",
    "nibbleknight",
@@ -4658,12 +4661,12 @@
    "vidbot",
    "viet-ai",
    "vietnamesecoffee",
-   "violentstockfish",
    "void_bot",
    "vortex_bot",
    "vortexaurafarm",
    "walpurti",
    "weiawaga",
+   "wildorderbot",
    "wolfuhfuhbot",
    "worstfish",
    "z-o_aspenlabs",
