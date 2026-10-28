@@ -2397,7 +2397,7 @@
   },
   "matemakingmachine": {
    "first_seen": "2026-09-29",
-   "last_online": "2026-10-27",
+   "last_online": "2026-10-28",
    "username": "MateMakingMachine"
   },
   "matmoi": {
@@ -2444,6 +2444,11 @@
    "first_seen": "2026-09-27",
    "last_online": "2026-10-08",
    "username": "mchess-engine"
+  },
+  "mdbot": {
+   "first_seen": "2026-10-28",
+   "last_online": "2026-10-28",
+   "username": "MDBOT"
   },
   "mega-noob-bot": {
    "first_seen": "2026-09-27",
@@ -3482,7 +3487,7 @@
   },
   "sisyphus-engine": {
    "first_seen": "2026-10-12",
-   "last_online": "2026-10-27",
+   "last_online": "2026-10-28",
    "username": "Sisyphus-engine"
   },
   "sj_norbot": {
@@ -3494,6 +3499,11 @@
    "first_seen": "2026-10-16",
    "last_online": "2026-10-28",
    "username": "slate-engine"
+  },
+  "sleepish": {
+   "first_seen": "2026-10-28",
+   "last_online": "2026-10-28",
+   "username": "sleepish"
   },
   "sleepmindengine": {
    "first_seen": "2026-09-27",
@@ -4317,7 +4327,7 @@
   }
  },
  "online": {
-  "checked_at": "2026-10-28T18:43:11Z",
+  "checked_at": "2026-10-28T19:43:10Z",
   "ids": [
    "aaronsengine",
    "abcd_engine",
@@ -4330,7 +4340,6 @@
    "alexandrya",
    "aliceshiro",
    "alieknek",
-   "alienplays",
    "alliethechessbot",
    "angela_eng",
    "anna-bot",
@@ -4363,6 +4372,7 @@
    "bot5551",
    "bot64jaques",
    "bot_adario",
+   "botkingteam33",
    "bottios",
    "bravobot",
    "bretemabot",
@@ -4370,7 +4380,6 @@
    "byte-knight",
    "bytefish",
    "c-t-r-l",
-   "c0kval",
    "caiporabot",
    "cannotcheckmateme",
    "casanchess-nnue",
@@ -4384,7 +4393,6 @@
    "chessiverse_luc",
    "chessiverse_pawnza",
    "chessiverse_raak",
-   "chessnoobcomp",
    "chesstango_bot",
    "cheszter",
    "chill4ce",
@@ -4415,12 +4423,12 @@
    "demen100ns-bot",
    "demolito_l1",
    "demolito_l2",
+   "demolito_l3",
    "demolito_l4",
    "demolito_l5",
    "demolito_l6",
    "dravox",
    "drawfish-reborn",
-   "drewschessmachine",
    "duchessai",
    "dumbotai",
    "eclipsebot",
@@ -4504,6 +4512,7 @@
    "leelaqueenforknight",
    "leelaqueenodds",
    "leelarogue",
+   "leelarookodds",
    "leelatroll",
    "leol-bot",
    "levymaia",
@@ -4542,10 +4551,12 @@
    "mate-in-thirty",
    "mate-in-twenty",
    "mate1-bot",
+   "matemakingmachine",
    "matmoi",
    "matthewcarven",
    "mayflyengine",
    "mcdonalds1955",
+   "mdbot",
    "mega-noob-bot",
    "melsh_bot",
    "milanbot",
@@ -4634,8 +4645,10 @@
    "simbelmyne-bot",
    "simple-bot",
    "simpleeval",
+   "sisyphus-engine",
    "sj_norbot",
    "slate-engine",
+   "sleepish",
    "sleepmindengine",
    "slowmate_bot",
    "snaky-bot",
@@ -4657,7 +4670,6 @@
    "sybaibot",
    "sybbot",
    "sykorabot",
-   "takticprochess",
    "tallikebot",
    "talosbot",
    "tempocore",
