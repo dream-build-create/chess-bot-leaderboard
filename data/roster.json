@@ -422,7 +422,7 @@
   },
   "blueberry-engine": {
    "first_seen": "2026-10-05",
-   "last_online": "2026-10-27",
+   "last_online": "2026-10-28",
    "username": "Blueberry-Engine"
   },
   "bluemoonbot": {
@@ -457,7 +457,7 @@
   },
   "borkatower": {
    "first_seen": "2026-09-27",
-   "last_online": "2026-10-27",
+   "last_online": "2026-10-28",
    "username": "BorkaTower"
   },
   "bot-o-tron": {
@@ -577,7 +577,7 @@
   },
   "burgentruck": {
    "first_seen": "2026-10-20",
-   "last_online": "2026-10-24",
+   "last_online": "2026-10-28",
    "username": "BURGENTRUCK"
   },
   "burmalda_engine": {
@@ -837,7 +837,7 @@
   },
   "chesstransformerbot": {
    "first_seen": "2026-10-08",
-   "last_online": "2026-10-27",
+   "last_online": "2026-10-28",
    "username": "ChessTransformerBot"
   },
   "cheszter": {
@@ -2417,7 +2417,7 @@
   },
   "mayflyengine": {
    "first_seen": "2026-09-27",
-   "last_online": "2026-10-26",
+   "last_online": "2026-10-28",
    "username": "MayFlyEngine"
   },
   "mboobot": {
@@ -3307,7 +3307,7 @@
   },
   "sara_bot1": {
    "first_seen": "2026-10-15",
-   "last_online": "2026-10-27",
+   "last_online": "2026-10-28",
    "username": "sAra_bot1"
   },
   "sargon-1ply": {
@@ -4142,7 +4142,7 @@
   },
   "wannalearnbot": {
    "first_seen": "2026-09-27",
-   "last_online": "2026-10-27",
+   "last_online": "2026-10-28",
    "username": "wannalearnbot"
   },
   "wardnbot": {
@@ -4282,7 +4282,7 @@
   }
  },
  "online": {
-  "checked_at": "2026-10-28T06:43:10Z",
+  "checked_at": "2026-10-28T07:43:12Z",
   "ids": [
    "aathena101",
    "aatk_vanguardx",
@@ -4304,6 +4304,7 @@
    "antibotv3-7",
    "aposeij",
    "approximationbot",
+   "arabicannue",
    "ariadne-bot",
    "arkiplayschess",
    "artidigm_research",
@@ -4324,10 +4325,12 @@
    "bernstein-4ply",
    "bfiedler-bot",
    "bitbitbot",
+   "blueberry-engine",
    "bluemoonbot",
    "blujay-bot",
    "bobby_pcolla",
    "bongaclang",
+   "borkatower",
    "bot5551",
    "bot64jaques",
    "bot_adario",
@@ -4335,13 +4338,13 @@
    "bravobot",
    "bretemabot",
    "bubblebot2",
+   "burgentruck",
    "byte-knight",
    "bytefish",
    "c0kval",
    "caiporabot",
    "cannotcheckmateme",
    "casanchess-nnue",
-   "catalyst-ctrl",
    "catnail",
    "catriever",
    "charibot",
@@ -4351,9 +4354,9 @@
    "chessiverse_pawnza",
    "chessiverse_raak",
    "chesstango_bot",
+   "chesstransformerbot",
    "cheszter",
    "chill4ce",
-   "chmod-bot",
    "chronicgambler",
    "cinder-bot",
    "classic_bot-v2",
@@ -4383,7 +4386,6 @@
    "demen100ns-bot",
    "demolito_l1",
    "demolito_l2",
-   "demolito_l3",
    "demolito_l4",
    "demolito_l5",
    "demolito_l6",
@@ -4415,7 +4417,6 @@
    "fschess-engine",
    "funcomp",
    "garbobot",
-   "georgii_ai",
    "geotsibot",
    "giffibot",
    "gnu4u",
@@ -4509,6 +4510,7 @@
    "mate1-bot",
    "matmoi",
    "matthewcarven",
+   "mayflyengine",
    "mega-noob-bot",
    "melsh_bot",
    "milanbot",
@@ -4521,7 +4523,6 @@
    "mrtonnerre",
    "mychessjava",
    "nanozeroorg",
-   "neryba",
    "neurosocute",
    "newchessengine-ai",
    "nexastrat",
@@ -4580,6 +4581,7 @@
    "rustbot2003",
    "ryu-ishigori",
    "sapling-bot",
+   "sara_bot1",
    "sargon-1ply",
    "sargon-2ply",
    "sargon-3ply",
@@ -4629,7 +4631,6 @@
    "terconari",
    "theayka",
    "thechessblazer",
-   "throrbjorn",
    "thunfisch-bot",
    "tigrament",
    "tikifish",
@@ -4639,7 +4640,6 @@
    "tomabbot",
    "topasbot",
    "trainer-bot",
-   "trainingbuddy",
    "trenerhetman",
    "trinculobot",
    "troutbot",
@@ -4671,6 +4671,7 @@
    "vortex_bot",
    "vortexaurafarm",
    "walpurti",
+   "wannalearnbot",
    "weiawaga",
    "wolfuhfuhbot",
    "worstfish",
