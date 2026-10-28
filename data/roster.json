@@ -2,7 +2,7 @@
  "bots": {
   "aaronsengine": {
    "first_seen": "2026-09-27",
-   "last_online": "2026-10-27",
+   "last_online": "2026-10-28",
    "username": "AaronsEngine"
   },
   "aathena101": {
@@ -4287,8 +4287,9 @@
   }
  },
  "online": {
-  "checked_at": "2026-10-28T09:43:10Z",
+  "checked_at": "2026-10-28T10:43:11Z",
   "ids": [
+   "aaronsengine",
    "aathena101",
    "aatk_vanguardx",
    "abcd_engine",
@@ -4350,11 +4351,11 @@
    "catnail",
    "catriever",
    "charibot",
-   "chessai4f",
    "chessiverse_ethan",
    "chessiverse_luc",
    "chessiverse_pawnza",
    "chessiverse_raak",
+   "chessnoobcomp",
    "chesstango_bot",
    "chesstransformerbot",
    "cheszter",
@@ -4388,6 +4389,7 @@
    "demen100ns-bot",
    "demolito_l1",
    "demolito_l2",
+   "demolito_l3",
    "demolito_l4",
    "demolito_l5",
    "demolito_l6",
@@ -4406,6 +4408,7 @@
    "endspiel-pi",
    "enginefromscratch",
    "entebot",
+   "erin_brain",
    "eubos",
    "falconengine",
    "fathzer-jchess",
@@ -4519,6 +4522,7 @@
    "mcdonalds1955",
    "mega-noob-bot",
    "melsh_bot",
+   "mequinho_bot",
    "milanbot",
    "mimirbot",
    "minopponentmoves",
@@ -4530,8 +4534,8 @@
    "mrtonnerre",
    "mychessjava",
    "nanozeroorg",
+   "neryba",
    "neurosocute",
-   "newtsbot",
    "nexastrat",
    "nexosdefos",
    "nibbleknight",
@@ -4637,7 +4641,6 @@
    "thechessblazer",
    "thunfisch-bot",
    "tigrament",
-   "tikifish",
    "tilapiabot",
    "to299d",
    "togaii",
@@ -4670,7 +4673,6 @@
    "vicentlittle",
    "viet-ai",
    "vietnamesecoffee",
-   "void_bot",
    "vortex_bot",
    "vortexaurafarm",
    "walpurti",
