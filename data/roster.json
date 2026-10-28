@@ -897,7 +897,7 @@
   },
   "cloudia-chess": {
    "first_seen": "2026-09-27",
-   "last_online": "2026-10-24",
+   "last_online": "2026-10-28",
    "username": "Cloudia-Chess"
   },
   "cloudnetbot": {
@@ -3047,7 +3047,7 @@
   },
   "queensgambot": {
    "first_seen": "2026-09-27",
-   "last_online": "2026-10-27",
+   "last_online": "2026-10-28",
    "username": "QueensGamBOT"
   },
   "r0bspierre": {
@@ -4267,7 +4267,7 @@
   }
  },
  "online": {
-  "checked_at": "2026-10-28T01:43:11Z",
+  "checked_at": "2026-10-28T02:43:10Z",
   "ids": [
    "aatk_vanguardx",
    "abcd_engine",
@@ -4324,6 +4324,7 @@
    "byte-knight",
    "bytefish",
    "c-t-r-l",
+   "c0kval",
    "caiporabot",
    "cannotcheckmateme",
    "casanchess-nnue",
@@ -4345,6 +4346,7 @@
    "cinder-bot",
    "classic_bot-v2",
    "claude_bot",
+   "cloudia-chess",
    "clrsrc_lc0",
    "coda_bot",
    "colinbot",
@@ -4399,7 +4401,6 @@
    "fpga-chess",
    "fschess-engine",
    "funcomp",
-   "gambitonlybot",
    "garbobot",
    "geotsibot",
    "ghidorah_x",
@@ -4455,12 +4456,7 @@
    "leechgodestroy",
    "leelaalien",
    "leelajester",
-   "leelaknightodds",
-   "leelapieceodds",
-   "leelaqueenforknight",
-   "leelaqueenodds",
    "leelarogue",
-   "leelarookodds",
    "leelatroll",
    "leol-bot",
    "levymaia",
@@ -4470,7 +4466,6 @@
    "littlepatricia",
    "louischess48-6k",
    "lukebot",
-   "luminexbot",
    "lunaenginechess",
    "lynx_bot",
    "mac-bot",
@@ -4555,6 +4550,7 @@
    "psion-chess",
    "puisne",
    "pzchessbot",
+   "queensgambot",
    "radianceengine",
    "randmaster_bot",
    "randmaster_egtb",
@@ -4584,7 +4580,6 @@
    "seitogakatsu",
    "selflearn",
    "shallowredbot",
-   "sharpsundae",
    "shrevenbot",
    "silasly",
    "sim3million",
@@ -4600,7 +4595,6 @@
    "springerbot",
    "squarefish-900",
    "sseh-c",
-   "stargazerengine",
    "stickshark99",
    "stockcotsfish",
    "stockdory",
