@@ -82,7 +82,7 @@
   },
   "ajedrezchamberi": {
    "first_seen": "2026-09-29",
-   "last_online": "2026-10-27",
+   "last_online": "2026-10-28",
    "username": "AjedrezChamberi"
   },
   "alarm2001": {
@@ -397,7 +397,7 @@
   },
   "black-bishop-kh": {
    "first_seen": "2026-09-28",
-   "last_online": "2026-10-27",
+   "last_online": "2026-10-28",
    "username": "Black-Bishop-Kh"
   },
   "black-icebot": {
@@ -682,7 +682,7 @@
   },
   "chamberiajedrez": {
    "first_seen": "2026-09-29",
-   "last_online": "2026-10-27",
+   "last_online": "2026-10-28",
    "username": "ChamberiAjedrez"
   },
   "chaotong_engine": {
@@ -932,7 +932,7 @@
   },
   "colossusbot": {
    "first_seen": "2026-09-30",
-   "last_online": "2026-10-27",
+   "last_online": "2026-10-28",
    "username": "ColossusBOT"
   },
   "confidencebuilder": {
@@ -1002,7 +1002,7 @@
   },
   "cruelken": {
    "first_seen": "2026-10-01",
-   "last_online": "2026-10-27",
+   "last_online": "2026-10-28",
    "username": "CruelKen"
   },
   "cutebot": {
@@ -1372,7 +1372,7 @@
   },
   "fighting2543": {
    "first_seen": "2026-09-30",
-   "last_online": "2026-10-26",
+   "last_online": "2026-10-28",
    "username": "Fighting2543"
   },
   "fivejoyouspandas": {
@@ -1902,7 +1902,7 @@
   },
   "kempelenengine": {
    "first_seen": "2026-10-26",
-   "last_online": "2026-10-27",
+   "last_online": "2026-10-28",
    "username": "KempelenEngine"
   },
   "kepler_bot": {
@@ -2007,7 +2007,7 @@
   },
   "lantern_bot": {
    "first_seen": "2026-10-15",
-   "last_online": "2026-10-19",
+   "last_online": "2026-10-28",
    "username": "Lantern_BOT"
   },
   "larryz-alterego": {
@@ -4287,7 +4287,7 @@
   }
  },
  "online": {
-  "checked_at": "2026-10-28T10:43:11Z",
+  "checked_at": "2026-10-28T11:43:10Z",
   "ids": [
    "aaronsengine",
    "aathena101",
@@ -4298,6 +4298,7 @@
    "aggressivestockfish",
    "ai-con",
    "ailedbot",
+   "ajedrezchamberi",
    "alarm2001",
    "alexandrya",
    "aliceshiro",
@@ -4323,13 +4324,13 @@
    "baby_eubos",
    "ballin-bot",
    "banerot",
-   "batyarapro",
    "bbc_bot",
    "berkbot",
    "bernstein-2ply",
    "bernstein-4ply",
    "bfiedler-bot",
    "bitbitbot",
+   "black-bishop-kh",
    "bluemoonbot",
    "blujay-bot",
    "bobby_pcolla",
@@ -4350,24 +4351,23 @@
    "casanchess-nnue",
    "catnail",
    "catriever",
+   "chamberiajedrez",
    "charibot",
    "chessiverse_ethan",
    "chessiverse_luc",
    "chessiverse_pawnza",
    "chessiverse_raak",
    "chessnoobcomp",
-   "chesstango_bot",
    "chesstransformerbot",
    "cheszter",
    "chill4ce",
    "chronicgambler",
    "cinder-bot",
-   "classic_bot-v2",
    "claude_bot",
-   "cloudia-chess",
    "clrsrc_lc0",
    "coda_bot",
    "colinbot",
+   "colossusbot",
    "confidencebuilder",
    "cookiebot711",
    "coolperson_bot1",
@@ -4375,6 +4375,7 @@
    "croco_bot",
    "croco_little_bot",
    "crocodile_bot",
+   "cruelken",
    "dala-1100",
    "dala-1300",
    "dala-1600",
@@ -4414,6 +4415,7 @@
    "fathzer-jchess",
    "felipe_bot_53",
    "fetacompli",
+   "fighting2543",
    "fivejoyouspandas",
    "flounderbot",
    "flower-queen",
@@ -4423,6 +4425,7 @@
    "fschess-engine",
    "funcomp",
    "garbobot",
+   "georgii_ai",
    "geotsibot",
    "giffibot",
    "gnu4u",
@@ -4460,15 +4463,16 @@
    "kahunabot",
    "kavinengine",
    "kbelludoo",
+   "kempelenengine",
    "kestrelstrike",
    "kingzbot",
    "kirinchessbot",
    "kittenfish",
    "kittyenginev5",
-   "koi_engine",
    "kopyto_dev",
    "kulubot",
    "lamprook",
+   "lantern_bot",
    "larryz-alterego",
    "latrunculi-bot",
    "laura-bot",
@@ -4517,7 +4521,6 @@
    "mate1-bot",
    "matmoi",
    "matthewcarven",
-   "maximaengine",
    "mayflyengine",
    "mcdonalds1955",
    "mega-noob-bot",
@@ -4537,7 +4540,6 @@
    "neryba",
    "neurosocute",
    "nexastrat",
-   "nexosdefos",
    "nibbleknight",
    "nice_bot",
    "nickdrohan",
@@ -4550,6 +4552,7 @@
    "odonata-bot",
    "onezenpanda",
    "overfitted",
+   "oxybullet",
    "pangubot",
    "panic-fish",
    "partner3615diago",
@@ -4676,7 +4679,6 @@
    "vortex_bot",
    "vortexaurafarm",
    "walpurti",
-   "wannalearnbot",
    "weiawaga",
    "wolfuhfuhbot",
    "worstfish",
