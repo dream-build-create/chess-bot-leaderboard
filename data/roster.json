@@ -655,6 +655,11 @@
    "last_online": "2026-10-28",
    "username": "Casanchess-NNUE"
   },
+  "catalyst-ctrl": {
+   "first_seen": "2026-10-28",
+   "last_online": "2026-10-28",
+   "username": "catalyst-ctrl"
+  },
   "catastrophic-bot": {
    "first_seen": "2026-10-18",
    "last_online": "2026-10-18",
@@ -2132,7 +2137,7 @@
   },
   "lili-ai": {
    "first_seen": "2026-10-22",
-   "last_online": "2026-10-27",
+   "last_online": "2026-10-28",
    "username": "Lili-ai"
   },
   "lilitbot": {
@@ -2397,7 +2402,7 @@
   },
   "matthewcarven": {
    "first_seen": "2026-10-14",
-   "last_online": "2026-10-27",
+   "last_online": "2026-10-28",
    "username": "matthewcarven"
   },
   "maximaengine": {
@@ -2557,7 +2562,7 @@
   },
   "musashi-thebot": {
    "first_seen": "2026-09-28",
-   "last_online": "2026-10-27",
+   "last_online": "2026-10-28",
    "username": "Musashi-thebot"
   },
   "mxnet-gamemaster": {
@@ -3375,6 +3380,11 @@
    "last_online": "2026-10-28",
    "username": "SelfLearn"
   },
+  "semisoja": {
+   "first_seen": "2026-10-28",
+   "last_online": "2026-10-28",
+   "username": "SemiSoja"
+  },
   "senkabalabot": {
    "first_seen": "2026-10-21",
    "last_online": "2026-10-25",
@@ -4057,7 +4067,7 @@
   },
   "vidbot": {
    "first_seen": "2026-09-27",
-   "last_online": "2026-10-27",
+   "last_online": "2026-10-28",
    "username": "VidBot"
   },
   "viet-ai": {
@@ -4267,7 +4277,7 @@
   }
  },
  "online": {
-  "checked_at": "2026-10-28T04:43:10Z",
+  "checked_at": "2026-10-28T05:43:11Z",
   "ids": [
    "aathena101",
    "aatk_vanguardx",
@@ -4302,6 +4312,7 @@
    "baby_eubos",
    "ballin-bot",
    "banerot",
+   "batyarapro",
    "bbc_bot",
    "becela9_kpebetka",
    "berkbot",
@@ -4327,10 +4338,12 @@
    "caiporabot",
    "cannotcheckmateme",
    "casanchess-nnue",
+   "catalyst-ctrl",
    "catnail",
    "catriever",
    "charibot",
    "chess_set_manager",
+   "chessai4f",
    "chessiverse_ethan",
    "chessiverse_luc",
    "chessiverse_pawnza",
@@ -4341,6 +4354,7 @@
    "chmod-bot",
    "chronicgambler",
    "cinder-bot",
+   "classic_bot-v2",
    "claude_bot",
    "cloudia-chess",
    "clrsrc_lc0",
@@ -4455,6 +4469,7 @@
    "leol-bot",
    "levymaia",
    "likeawizard-bot",
+   "lili-ai",
    "lilitbot",
    "little-0",
    "littlepatricia",
@@ -4489,6 +4504,7 @@
    "mate-in-twenty",
    "mate1-bot",
    "matmoi",
+   "matthewcarven",
    "mcdonalds1955",
    "mega-noob-bot",
    "melsh_bot",
@@ -4500,12 +4516,14 @@
    "morabandbot",
    "mostlyhuman1900",
    "mrtonnerre",
+   "musashi-thebot",
    "mychessjava",
    "nanozeroorg",
    "neryba",
    "neurosocute",
    "newchessengine-ai",
    "nexastrat",
+   "nexosdefos",
    "nibbleknight",
    "nice_bot",
    "nickdrohan",
@@ -4571,6 +4589,7 @@
    "scipio-bot",
    "seitogakatsu",
    "selflearn",
+   "semisoja",
    "shallowredbot",
    "shrevenbot",
    "silasly",
@@ -4605,12 +4624,14 @@
    "tallikebot",
    "talosbot",
    "tempocore",
+   "tente8x",
    "terconari",
    "theayka",
    "thechessblazer",
    "throrbjorn",
    "thunfisch-bot",
    "tigrament",
+   "tikifish",
    "tilapiabot",
    "to299d",
    "togaii",
@@ -4640,6 +4661,7 @@
    "variantsbot",
    "vic98lg",
    "vicentlittle",
+   "vidbot",
    "viet-ai",
    "vietnamesecoffee",
    "void_bot",
