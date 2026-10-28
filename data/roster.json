@@ -322,7 +322,7 @@
   },
   "battlebornthe5th": {
    "first_seen": "2026-09-29",
-   "last_online": "2026-10-27",
+   "last_online": "2026-10-28",
    "username": "BattleBornThe5th"
   },
   "batyarapro": {
@@ -2592,7 +2592,7 @@
   },
   "n1742bot": {
    "first_seen": "2026-10-19",
-   "last_online": "2026-10-26",
+   "last_online": "2026-10-28",
    "username": "N1742Bot"
   },
   "nanozeroorg": {
@@ -3107,7 +3107,7 @@
   },
   "rascal1": {
    "first_seen": "2026-10-09",
-   "last_online": "2026-10-27",
+   "last_online": "2026-10-28",
    "username": "rascal1"
   },
   "raspfish": {
@@ -4307,7 +4307,7 @@
   }
  },
  "online": {
-  "checked_at": "2026-10-28T13:43:11Z",
+  "checked_at": "2026-10-28T14:43:11Z",
   "ids": [
    "aaronsengine",
    "aatk_vanguardx",
@@ -4343,6 +4343,7 @@
    "baby_eubos",
    "ballin-bot",
    "banerot",
+   "battlebornthe5th",
    "batyarapro",
    "bbc_bot",
    "becela9_kpebetka",
@@ -4366,6 +4367,7 @@
    "bubblebot2",
    "byte-knight",
    "bytefish",
+   "c-t-r-l",
    "c0kval",
    "caiporabot",
    "cannotcheckmateme",
@@ -4448,6 +4450,7 @@
    "fpga-chess",
    "fschess-engine",
    "funcomp",
+   "gambitonlybot",
    "garbobot",
    "geotsibot",
    "giffibot",
@@ -4491,6 +4494,7 @@
    "kirinchessbot",
    "kittenfish",
    "kittyenginev5",
+   "koi_engine",
    "kopyto_dev",
    "kulubot",
    "lamprook",
@@ -4543,9 +4547,9 @@
    "matmoi",
    "matthewcarven",
    "mayflyengine",
+   "mcdonalds1955",
    "mega-noob-bot",
    "melsh_bot",
-   "mequinho_bot",
    "milanbot",
    "mimirbot",
    "minopponentmoves",
@@ -4556,6 +4560,7 @@
    "mostlyhuman1900",
    "mrtonnerre",
    "mychessjava",
+   "n1742bot",
    "nanozeroorg",
    "neryba",
    "neurosocute",
@@ -4600,9 +4605,9 @@
    "psion-chess",
    "puisne",
    "pzchessbot",
-   "qioui",
    "randmaster_bot",
    "randmaster_egtb",
+   "rascal1",
    "raspfish",
    "ratkingbot",
    "ratsu-bot",
@@ -4613,7 +4618,6 @@
    "rdtchessbot",
    "resolutebot",
    "ribfish-bot",
-   "rocketengine",
    "rockingsuperstars",
    "rudim-bot",
    "rust-in-pieces",
@@ -4668,7 +4672,6 @@
    "tempocore",
    "tente8x",
    "terconari",
-   "theayka",
    "thechessblazer",
    "thunfisch-bot",
    "tigrament",
@@ -4705,7 +4708,6 @@
    "vicentlittle",
    "viet-ai",
    "vietnamesecoffee",
-   "viviblitzfr",
    "void_bot",
    "vortex_bot",
    "vortexaurafarm",
@@ -4715,8 +4717,7 @@
    "wolfuhfuhbot",
    "worstfish",
    "z-o_aspenlabs",
-   "zion-bot",
-   "zuhammet"
+   "zion-bot"
   ]
  },
  "schema_version": 1
