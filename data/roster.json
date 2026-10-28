@@ -105,6 +105,11 @@
    "last_online": "2026-10-28",
    "username": "Alieknek"
   },
+  "alienplays": {
+   "first_seen": "2026-10-28",
+   "last_online": "2026-10-28",
+   "username": "AlienPlays"
+  },
   "alliethechessbot": {
    "first_seen": "2026-10-04",
    "last_online": "2026-10-28",
@@ -677,7 +682,7 @@
   },
   "ceraf": {
    "first_seen": "2026-10-01",
-   "last_online": "2026-10-27",
+   "last_online": "2026-10-28",
    "username": "CERAF"
   },
   "chamberiajedrez": {
@@ -1212,7 +1217,7 @@
   },
   "eclipsebot": {
    "first_seen": "2026-09-27",
-   "last_online": "2026-10-23",
+   "last_online": "2026-10-28",
    "username": "EclipseBOT"
   },
   "edwardkillick": {
@@ -2342,7 +2347,7 @@
   },
   "makechessbetter": {
    "first_seen": "2026-09-28",
-   "last_online": "2026-10-26",
+   "last_online": "2026-10-28",
    "username": "MakeChessBetter"
   },
   "malanchess": {
@@ -2742,7 +2747,7 @@
   },
   "olifish": {
    "first_seen": "2026-10-24",
-   "last_online": "2026-10-27",
+   "last_online": "2026-10-28",
    "username": "OliFish"
   },
   "olimarianbot": {
@@ -3052,7 +3057,7 @@
   },
   "qioui": {
    "first_seen": "2026-10-11",
-   "last_online": "2026-10-26",
+   "last_online": "2026-10-28",
    "username": "QiOui"
   },
   "quanticade": {
@@ -4285,6 +4290,11 @@
    "last_online": "2026-10-02",
    "username": "ZobristHaescher"
   },
+  "zuhammet": {
+   "first_seen": "2026-10-28",
+   "last_online": "2026-10-28",
+   "username": "Zuhammet"
+  },
   "zxasdsaasda": {
    "first_seen": "2026-10-15",
    "last_online": "2026-10-16",
@@ -4292,7 +4302,7 @@
   }
  },
  "online": {
-  "checked_at": "2026-10-28T12:43:11Z",
+  "checked_at": "2026-10-28T13:30:02Z",
   "ids": [
    "aaronsengine",
    "aatk_vanguardx",
@@ -4306,6 +4316,7 @@
    "alexandrya",
    "aliceshiro",
    "alieknek",
+   "alienplays",
    "alliethechessbot",
    "angela_eng",
    "anna-bot",
@@ -4357,6 +4368,7 @@
    "casanchess-nnue",
    "catnail",
    "catriever",
+   "ceraf",
    "chamberiajedrez",
    "charibot",
    "chessai4f",
@@ -4406,13 +4418,13 @@
    "drewschessmachine",
    "duchessai",
    "dumbotai",
+   "eclipsebot",
    "edwardkillick",
    "eigenmann-chess",
    "elachessbot",
    "elexunix_chess_bot",
    "ellen_replay",
    "elmichess",
-   "emberengine",
    "endspiel-pi",
    "enginefromscratch",
    "entebot",
@@ -4443,6 +4455,7 @@
    "gryndor",
    "hackerchessbot",
    "halcyonbot",
+   "hardrok",
    "hiusbot",
    "hodgeybot",
    "holidaybot1225",
@@ -4468,7 +4481,6 @@
    "justbot-v1",
    "kahunabot",
    "kavinengine",
-   "kbelludoo",
    "kestrelstrike",
    "kingzbot",
    "kirinchessbot",
@@ -4490,7 +4502,6 @@
    "lepbot",
    "levymaia",
    "likeawizard-bot",
-   "lili-ai",
    "lilitbot",
    "little-0",
    "littlepatricia",
@@ -4519,6 +4530,7 @@
    "maia960-1900",
    "maia9_10n",
    "maia9_30n",
+   "makechessbetter",
    "martuni",
    "mate-in-forty",
    "mate-in-thirty",
@@ -4545,7 +4557,6 @@
    "neryba",
    "neurosocute",
    "newchessengine-ai",
-   "newtsbot",
    "nexastrat",
    "nexosdefos",
    "nibbleknight",
@@ -4558,6 +4569,7 @@
    "noel-bot",
    "o-rei-cx",
    "odonata-bot",
+   "olifish",
    "olimarianbot",
    "onezenpanda",
    "overfitted",
@@ -4586,6 +4598,7 @@
    "psion-chess",
    "puisne",
    "pzchessbot",
+   "qioui",
    "randmaster_bot",
    "randmaster_egtb",
    "raspfish",
@@ -4697,7 +4710,8 @@
    "wolfuhfuhbot",
    "worstfish",
    "z-o_aspenlabs",
-   "zion-bot"
+   "zion-bot",
+   "zuhammet"
   ]
  },
  "schema_version": 1
