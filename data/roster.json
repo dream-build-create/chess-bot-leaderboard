@@ -1937,7 +1937,7 @@
   },
   "kittyenginev5": {
    "first_seen": "2026-10-20",
-   "last_online": "2026-10-27",
+   "last_online": "2026-10-28",
    "username": "KittyEngineV5"
   },
   "kiwi_cube": {
@@ -3910,6 +3910,11 @@
    "last_online": "2026-10-28",
    "username": "Trainer-Bot"
   },
+  "trainingbuddy": {
+   "first_seen": "2026-10-28",
+   "last_online": "2026-10-28",
+   "username": "TrainingBuddy"
+  },
   "trenerhetman": {
    "first_seen": "2026-09-27",
    "last_online": "2026-10-28",
@@ -3977,7 +3982,7 @@
   },
   "uiagbot": {
    "first_seen": "2026-10-10",
-   "last_online": "2026-10-27",
+   "last_online": "2026-10-28",
    "username": "uiagBot"
   },
   "ultrabrick": {
@@ -4277,7 +4282,7 @@
   }
  },
  "online": {
-  "checked_at": "2026-10-28T06:15:18Z",
+  "checked_at": "2026-10-28T06:43:10Z",
   "ids": [
    "aathena101",
    "aatk_vanguardx",
@@ -4299,7 +4304,6 @@
    "antibotv3-7",
    "aposeij",
    "approximationbot",
-   "arabicannue",
    "ariadne-bot",
    "arkiplayschess",
    "artidigm_research",
@@ -4333,7 +4337,6 @@
    "bubblebot2",
    "byte-knight",
    "bytefish",
-   "c-t-r-l",
    "c0kval",
    "caiporabot",
    "cannotcheckmateme",
@@ -4454,6 +4457,7 @@
    "kingzbot",
    "kirinchessbot",
    "kittenfish",
+   "kittyenginev5",
    "koi_engine",
    "kopyto_dev",
    "kulubot",
@@ -4505,7 +4509,6 @@
    "mate1-bot",
    "matmoi",
    "matthewcarven",
-   "mcdonalds1955",
    "mega-noob-bot",
    "melsh_bot",
    "milanbot",
@@ -4516,7 +4519,6 @@
    "morabandbot",
    "mostlyhuman1900",
    "mrtonnerre",
-   "musashi-thebot",
    "mychessjava",
    "nanozeroorg",
    "neryba",
@@ -4637,6 +4639,7 @@
    "tomabbot",
    "topasbot",
    "trainer-bot",
+   "trainingbuddy",
    "trenerhetman",
    "trinculobot",
    "troutbot",
@@ -4646,6 +4649,7 @@
    "turochamp-1ply",
    "turochamp-2ply",
    "twosillypandas",
+   "uiagbot",
    "ultrabrick",
    "unimark",
    "ursus_bot",
