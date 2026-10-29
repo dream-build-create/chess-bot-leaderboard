@@ -12,12 +12,12 @@
   },
   "aatk_vanguardx": {
    "first_seen": "2026-09-27",
-   "last_online": "2026-10-28",
+   "last_online": "2026-10-29",
    "username": "AATK_VanguardX"
   },
   "abcd_engine": {
    "first_seen": "2026-09-27",
-   "last_online": "2026-10-28",
+   "last_online": "2026-10-29",
    "username": "abcd_engine"
   },
   "abdcebot": {
@@ -237,7 +237,7 @@
   },
   "ask-aatk-bot": {
    "first_seen": "2026-09-27",
-   "last_online": "2026-10-28",
+   "last_online": "2026-10-29",
    "username": "Ask-AATK-bot"
   },
   "askaig": {
@@ -905,6 +905,11 @@
    "last_online": "2026-10-27",
    "username": "clementyne1"
   },
+  "clessy-bot": {
+   "first_seen": "2026-10-29",
+   "last_online": "2026-10-29",
+   "username": "clessy-bot"
+  },
   "cloudia-chess": {
    "first_seen": "2026-09-27",
    "last_online": "2026-10-28",
@@ -1272,7 +1277,7 @@
   },
   "endspiel-pi": {
    "first_seen": "2026-09-27",
-   "last_online": "2026-10-28",
+   "last_online": "2026-10-29",
    "username": "endspiel-pi"
   },
   "enginefromscratch": {
@@ -3707,7 +3712,7 @@
   },
   "studyloversz-bot": {
    "first_seen": "2026-09-27",
-   "last_online": "2026-10-28",
+   "last_online": "2026-10-29",
    "username": "Studyloversz-bot"
   },
   "stupidchessrobot": {
@@ -4290,6 +4295,11 @@
    "last_online": "2026-10-15",
    "username": "Zagreus_Engine"
   },
+  "zahoribot": {
+   "first_seen": "2026-10-29",
+   "last_online": "2026-10-29",
+   "username": "ZahoriBot"
+  },
   "zanebot": {
    "first_seen": "2026-10-07",
    "last_online": "2026-10-09",
@@ -4327,8 +4337,10 @@
   }
  },
  "online": {
-  "checked_at": "2026-10-29T00:43:10Z",
+  "checked_at": "2026-10-29T01:43:10Z",
   "ids": [
+   "aatk_vanguardx",
+   "abcd_engine",
    "aconcaguabot",
    "aetherbot",
    "aggressivestockfish",
@@ -4350,6 +4362,7 @@
    "arkiplayschess",
    "artidigm_research",
    "ashnostromo",
+   "ask-aatk-bot",
    "athena-chessbot",
    "atwell-chess-bot",
    "axiom_bot",
@@ -4396,6 +4409,7 @@
    "cinder-bot",
    "classic_bot-v2",
    "claude_bot",
+   "clessy-bot",
    "clrsrc_lc0",
    "coda_bot",
    "colinbot",
@@ -4434,9 +4448,9 @@
    "elexunix_chess_bot",
    "ellen_replay",
    "elmichess",
+   "endspiel-pi",
    "enginefromscratch",
    "entebot",
-   "erin_brain",
    "eubos",
    "falconengine",
    "fathzer-jchess",
@@ -4546,7 +4560,6 @@
    "mayflyengine",
    "mcdonalds1955",
    "mdbot",
-   "mega-noob-bot",
    "melsh_bot",
    "milanbot",
    "mimirbot",
@@ -4652,6 +4665,7 @@
    "stockfail",
    "stockfishlowdepth",
    "stockpapagei",
+   "studyloversz-bot",
    "stupidfishbotbydscs",
    "sunfish-engine",
    "sunfish-nnue-engine",
@@ -4710,6 +4724,7 @@
    "wolfuhfuhbot",
    "worstfish",
    "z-o_aspenlabs",
+   "zahoribot",
    "zion-bot"
   ]
  },
