@@ -307,7 +307,7 @@
   },
   "battlebornthe2nd": {
    "first_seen": "2026-09-28",
-   "last_online": "2026-10-27",
+   "last_online": "2026-10-29",
    "username": "BattleBornThe2nd"
   },
   "battlebornthe3rd": {
@@ -1302,7 +1302,7 @@
   },
   "epimetheusbot": {
    "first_seen": "2026-09-28",
-   "last_online": "2026-10-27",
+   "last_online": "2026-10-29",
    "username": "EpimetheusBot"
   },
   "epoch512": {
@@ -2002,7 +2002,7 @@
   },
   "kruguer_engine": {
    "first_seen": "2026-10-18",
-   "last_online": "2026-10-28",
+   "last_online": "2026-10-29",
    "username": "Kruguer_Engine"
   },
   "kulubot": {
@@ -2262,7 +2262,7 @@
   },
   "madameengine": {
    "first_seen": "2026-09-28",
-   "last_online": "2026-10-19",
+   "last_online": "2026-10-29",
    "username": "MadameEngine"
   },
   "magic11bot_coach": {
@@ -2792,12 +2792,12 @@
   },
   "olifish": {
    "first_seen": "2026-10-24",
-   "last_online": "2026-10-28",
+   "last_online": "2026-10-29",
    "username": "OliFish"
   },
   "olimarianbot": {
    "first_seen": "2026-10-21",
-   "last_online": "2026-10-28",
+   "last_online": "2026-10-29",
    "username": "Olimarianbot"
   },
   "omegazero-bot": {
@@ -2812,7 +2812,7 @@
   },
   "openinggenie2000": {
    "first_seen": "2026-09-27",
-   "last_online": "2026-10-28",
+   "last_online": "2026-10-29",
    "username": "OpeningGenie2000"
   },
   "openingsbot": {
@@ -3122,7 +3122,7 @@
   },
   "rachl1": {
    "first_seen": "2026-10-06",
-   "last_online": "2026-10-28",
+   "last_online": "2026-10-29",
    "username": "rachl1"
   },
   "racingkingsbot_1": {
@@ -4372,7 +4372,7 @@
   }
  },
  "online": {
-  "checked_at": "2026-10-29T16:43:10Z",
+  "checked_at": "2026-10-29T17:43:12Z",
   "ids": [
    "aaronsengine",
    "abcd_engine",
@@ -4403,6 +4403,7 @@
    "azzbot",
    "baby_eubos",
    "banerot",
+   "battlebornthe2nd",
    "battlebornthe3rd",
    "batyarapro",
    "bbc_bot",
@@ -4427,6 +4428,7 @@
    "byte-knight",
    "bytefish",
    "c-t-r-l",
+   "c0kval",
    "caiporabot",
    "cannotcheckmateme",
    "casanchess-nnue",
@@ -4434,6 +4436,7 @@
    "catriever",
    "chamberiajedrez",
    "charibot",
+   "chess_set_manager",
    "chessai4f",
    "chessiverse_ethan",
    "chessiverse_luc",
@@ -4448,7 +4451,6 @@
    "cinder-bot",
    "classic_bot-v2",
    "claude_bot",
-   "clementyne1",
    "clessy-bot",
    "clrsrc_lc0",
    "coda_bot",
@@ -4488,6 +4490,7 @@
    "elmichess",
    "endspiel-pi",
    "entebot",
+   "epimetheusbot",
    "eubos",
    "falconengine",
    "fathzer-jchess",
@@ -4501,6 +4504,7 @@
    "fschess-engine",
    "funcomp",
    "gambitonlybot",
+   "gambittai",
    "garbobot",
    "geotsibot",
    "ghidorah_x",
@@ -4529,7 +4533,6 @@
    "iskelt-corax",
    "jangine",
    "jaxakos13_bot",
-   "jembok",
    "jibbby",
    "joan_clone",
    "joey_chessengine",
@@ -4546,6 +4549,7 @@
    "kirinchessbot",
    "kittenfish",
    "kopyto_dev",
+   "kruguer_engine",
    "kulubot",
    "lamprook",
    "lantern_bot",
@@ -4572,6 +4576,7 @@
    "lynx_bot",
    "mac-bot",
    "mackbot",
+   "madameengine",
    "maia1",
    "maia2200_10n",
    "maia3-79m_1000",
@@ -4589,7 +4594,6 @@
    "maia9",
    "maia9_10n",
    "maia9_30n",
-   "malpamat",
    "martuni",
    "mate-in-forty",
    "mate-in-thirty",
@@ -4611,7 +4615,6 @@
    "morabandbot",
    "mostlyhuman1900",
    "mrtonnerre",
-   "musashi-thebot",
    "mychessjava",
    "nanozeroorg",
    "neryba",
@@ -4623,7 +4626,6 @@
    "nibbleknight",
    "nice_bot",
    "nickdrohan",
-   "nickl1bot",
    "nilatacbot",
    "nittedal",
    "nnueandthevoices",
@@ -4631,10 +4633,12 @@
    "notropis",
    "o-rei-cx",
    "odonata-bot",
+   "olifish",
+   "olimarianbot",
    "onezenpanda",
+   "openinggenie2000",
    "openingsbot",
    "overfitted",
-   "oxybullet",
    "pangubot",
    "panic-fish",
    "partner3615diago",
@@ -4658,6 +4662,7 @@
    "psion-chess",
    "puisne",
    "pzchessbot",
+   "rachl1",
    "randmaster_bot",
    "randmaster_egtb",
    "ratkingbot",
@@ -4705,6 +4710,7 @@
    "sseh-c",
    "stargazerengine",
    "stickshark99",
+   "stockcotsfish",
    "stockfail",
    "stockfishlowdepth",
    "stockpapagei",
@@ -4715,12 +4721,13 @@
    "sybaibot",
    "sybbot",
    "sykorabot",
-   "takticprochess",
    "tallikebot",
    "talosbot",
    "tempocore",
    "tente8x",
    "terconari",
+   "thechessblazer",
+   "throrbjorn",
    "thunfisch-bot",
    "tigrament",
    "tikifish",
@@ -4760,7 +4767,6 @@
    "vortexaurafarm",
    "waldemar-the-elf",
    "walpurti",
-   "wedge_engine",
    "weiawaga",
    "wolfuhfuhbot",
    "worstfish",
