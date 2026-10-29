@@ -302,7 +302,7 @@
   },
   "battlebornthe1st": {
    "first_seen": "2026-10-01",
-   "last_online": "2026-10-19",
+   "last_online": "2026-10-29",
    "username": "BattleBornThe1st"
   },
   "battlebornthe2nd": {
@@ -1467,7 +1467,7 @@
   },
   "genesis1bot": {
    "first_seen": "2026-10-10",
-   "last_online": "2026-10-19",
+   "last_online": "2026-10-29",
    "username": "genesis1bot"
   },
   "genetic_chess_bot": {
@@ -1612,7 +1612,7 @@
   },
   "hashcake1": {
    "first_seen": "2026-09-30",
-   "last_online": "2026-10-25",
+   "last_online": "2026-10-29",
    "username": "hashcake1"
   },
   "havenear": {
@@ -3212,7 +3212,7 @@
   },
   "reaper1bot": {
    "first_seen": "2026-10-10",
-   "last_online": "2026-10-26",
+   "last_online": "2026-10-29",
    "username": "reaper1bot"
   },
   "redbeantree": {
@@ -4377,7 +4377,7 @@
   }
  },
  "online": {
-  "checked_at": "2026-10-29T22:57:32Z",
+  "checked_at": "2026-10-29T23:43:08Z",
   "ids": [
    "aathena101",
    "abcd_engine",
@@ -4409,6 +4409,7 @@
    "azzbot",
    "baby_eubos",
    "banerot",
+   "battlebornthe1st",
    "batyarapro",
    "bbc_bot",
    "becela9_kpebetka",
@@ -4425,7 +4426,6 @@
    "bot5551",
    "bot64jaques",
    "bot_adario",
-   "botkingteam33",
    "bottios",
    "bravobot",
    "bretemabot",
@@ -4440,7 +4440,7 @@
    "catriever",
    "chamberiajedrez",
    "charibot",
-   "chessai4f",
+   "chessgeniusbot",
    "chessiverse_ethan",
    "chessiverse_luc",
    "chessiverse_pawnza",
@@ -4510,6 +4510,7 @@
    "gambitonlybot",
    "gambittai",
    "garbobot",
+   "genesis1bot",
    "geotsibot",
    "ghidorah_x",
    "giffibot",
@@ -4524,6 +4525,7 @@
    "hackerchessbot",
    "halcyonbot",
    "hardrok",
+   "hashcake1",
    "holidaybot1225",
    "hummus-bot",
    "hustler_1mb",
@@ -4546,7 +4548,6 @@
    "jurdbird",
    "justbot-v1",
    "kahunabot",
-   "kakabot",
    "kavinengine",
    "kbelludoo",
    "kestrelstrike",
@@ -4554,6 +4555,7 @@
    "kirinchessbot",
    "kittenfish",
    "kittyenginev5",
+   "koi_engine",
    "kopyto_dev",
    "kulubot",
    "lamprook",
@@ -4594,6 +4596,7 @@
    "maia3-79m_600",
    "maia3-79m_800",
    "maia5",
+   "maia9",
    "maia9_10n",
    "maia9_30n",
    "martuni",
@@ -4671,6 +4674,7 @@
    "ray-bot",
    "rdtchessbot",
    "reality_bot",
+   "reaper1bot",
    "resolutebot",
    "ribfish-bot",
    "rudim-bot",
@@ -4678,7 +4682,6 @@
    "rustbot2003",
    "ryu-ishigori",
    "sapling-bot",
-   "sara_bot1",
    "sargon-1ply",
    "sargon-2ply",
    "sargon-3ply",
@@ -4705,14 +4708,13 @@
    "smasher23445",
    "snaky-bot",
    "solobot",
-   "soulgar",
    "springerbot",
-   "spyros1bot",
    "squarefish-900",
    "sseh-c",
    "stargazerengine",
    "stickshark99",
    "stockcotsfish",
+   "stockdory",
    "stockfail",
    "stockfishlowdepth",
    "stockpapagei",
@@ -4730,7 +4732,6 @@
    "tente8x",
    "terconari",
    "thechessblazer",
-   "thegrobbot",
    "throrbjorn",
    "thunfisch-bot",
    "tigrament",
