@@ -312,7 +312,7 @@
   },
   "battlebornthe3rd": {
    "first_seen": "2026-09-29",
-   "last_online": "2026-10-28",
+   "last_online": "2026-10-29",
    "username": "BattleBornThe3rd"
   },
   "battlebornthe4th": {
@@ -1100,6 +1100,11 @@
    "last_online": "2026-10-29",
    "username": "DeepBecky"
   },
+  "deepfish26": {
+   "first_seen": "2026-10-29",
+   "last_online": "2026-10-29",
+   "username": "DeepFish26"
+  },
   "deepsquare-ai": {
    "first_seen": "2026-09-27",
    "last_online": "2026-10-29",
@@ -1797,7 +1802,7 @@
   },
   "jembok": {
    "first_seen": "2026-10-11",
-   "last_online": "2026-10-27",
+   "last_online": "2026-10-29",
    "username": "JemBok"
   },
   "jenniferx": {
@@ -1967,7 +1972,7 @@
   },
   "knightowlbot": {
    "first_seen": "2026-10-26",
-   "last_online": "2026-10-27",
+   "last_online": "2026-10-29",
    "username": "KnightOwlBot"
   },
   "kobal11": {
@@ -2542,7 +2547,7 @@
   },
   "misere-fish": {
    "first_seen": "2026-10-28",
-   "last_online": "2026-10-28",
+   "last_online": "2026-10-29",
    "username": "Misere-Fish"
   },
   "miss_snowiee": {
@@ -2717,7 +2722,7 @@
   },
   "nickl1bot": {
    "first_seen": "2026-10-11",
-   "last_online": "2026-10-27",
+   "last_online": "2026-10-29",
    "username": "nickl1bot"
   },
   "nightfall_dev": {
@@ -4357,7 +4362,7 @@
   }
  },
  "online": {
-  "checked_at": "2026-10-29T12:43:11Z",
+  "checked_at": "2026-10-29T13:41:16Z",
   "ids": [
    "aaronsengine",
    "abcd_engine",
@@ -4383,11 +4388,12 @@
    "artidigm_research",
    "ashnostromo",
    "athena-chessbot",
-   "atwell-chess-bot",
    "axiom_bot",
    "azzbot",
    "baby_eubos",
    "banerot",
+   "battlebornthe3rd",
+   "batyarapro",
    "bbc_bot",
    "becela9_kpebetka",
    "berkbot",
@@ -4428,6 +4434,7 @@
    "chill4ce",
    "chronicgambler",
    "cinder-bot",
+   "classic_bot-v2",
    "claude_bot",
    "clementyne1",
    "clessy-bot",
@@ -4452,6 +4459,7 @@
    "darkonweakbot",
    "debzero",
    "deepbecky",
+   "deepfish26",
    "deepsquare-ai",
    "demen100ns-bot",
    "demolito_l1",
@@ -4498,6 +4506,7 @@
    "hackerchessbot",
    "halcyonbot",
    "harakternyk",
+   "hardrok",
    "hodgeybot",
    "holidaybot1225",
    "hummus-bot",
@@ -4511,8 +4520,8 @@
    "iskelt-corax",
    "jangine",
    "jaxakos13_bot",
+   "jembok",
    "jibbby",
-   "jimbo_engine",
    "joan_clone",
    "joey_chessengine",
    "joshsbot",
@@ -4525,7 +4534,7 @@
    "kingzbot",
    "kirinchessbot",
    "kittyenginev5",
-   "koi_engine",
+   "knightowlbot",
    "kopyto_dev",
    "kulubot",
    "lamprook",
@@ -4586,6 +4595,7 @@
    "milanbot",
    "mimirbot",
    "minopponentmoves",
+   "misere-fish",
    "mithandros",
    "mochi_bot",
    "morabandbot",
@@ -4598,9 +4608,11 @@
    "neurosocute",
    "newchessengine-ai",
    "nexastrat",
+   "nexosdefos",
    "nibbleknight",
    "nice_bot",
    "nickdrohan",
+   "nickl1bot",
    "nilatacbot",
    "nittedal",
    "nnueandthevoices",
@@ -4719,6 +4731,7 @@
    "twosillypandas",
    "ultrabrick",
    "unimark",
+   "ursus_bot",
    "usunfish",
    "usunfish-l0",
    "usunfish-l1",
@@ -4736,7 +4749,6 @@
    "vortexaurafarm",
    "waldemar-the-elf",
    "walpurti",
-   "wedge_engine",
    "weiawaga",
    "wolfuhfuhbot",
    "worstfish",
