@@ -107,7 +107,7 @@
   },
   "alienplays": {
    "first_seen": "2026-10-28",
-   "last_online": "2026-10-28",
+   "last_online": "2026-10-29",
    "username": "AlienPlays"
   },
   "alliethechessbot": {
@@ -1422,7 +1422,7 @@
   },
   "fpga-chess": {
    "first_seen": "2026-09-28",
-   "last_online": "2026-10-28",
+   "last_online": "2026-10-29",
    "username": "fpga-chess"
   },
   "friesai": {
@@ -3207,7 +3207,7 @@
   },
   "reality_bot": {
    "first_seen": "2026-10-10",
-   "last_online": "2026-10-27",
+   "last_online": "2026-10-29",
    "username": "Reality_BOT"
   },
   "reaper1bot": {
@@ -3637,7 +3637,7 @@
   },
   "soulgar": {
    "first_seen": "2026-09-28",
-   "last_online": "2026-10-26",
+   "last_online": "2026-10-29",
    "username": "soulgar"
   },
   "southbot": {
@@ -3897,7 +3897,7 @@
   },
   "thegrobbot": {
    "first_seen": "2026-10-12",
-   "last_online": "2026-10-19",
+   "last_online": "2026-10-29",
    "username": "TheGrobBot"
   },
   "thelokbott": {
@@ -4099,6 +4099,11 @@
    "first_seen": "2026-09-27",
    "last_online": "2026-10-29",
    "username": "uSunfish-l7"
+  },
+  "uundrstnd": {
+   "first_seen": "2026-10-29",
+   "last_online": "2026-10-29",
+   "username": "uundrstnd"
   },
   "uxugin-bot": {
    "first_seen": "2026-09-27",
@@ -4372,7 +4377,7 @@
   }
  },
  "online": {
-  "checked_at": "2026-10-29T17:43:12Z",
+  "checked_at": "2026-10-29T18:43:11Z",
   "ids": [
    "aaronsengine",
    "abcd_engine",
@@ -4385,6 +4390,7 @@
    "alexandrya",
    "aliceshiro",
    "alieknek",
+   "alienplays",
    "alliethechessbot",
    "angela_eng",
    "anna-bot",
@@ -4404,9 +4410,8 @@
    "baby_eubos",
    "banerot",
    "battlebornthe2nd",
-   "battlebornthe3rd",
-   "batyarapro",
    "bbc_bot",
+   "becela9_kpebetka",
    "berkbot",
    "bernstein-2ply",
    "bernstein-4ply",
@@ -4444,12 +4449,10 @@
    "chessiverse_raak",
    "chessnoobcomp",
    "chesstango_bot",
-   "chesstransformerbot",
    "cheszter",
    "chill4ce",
    "chronicgambler",
    "cinder-bot",
-   "classic_bot-v2",
    "claude_bot",
    "clessy-bot",
    "clrsrc_lc0",
@@ -4501,6 +4504,7 @@
    "flower-queen",
    "flybrainchess",
    "fourcuriouspandas",
+   "fpga-chess",
    "fschess-engine",
    "funcomp",
    "gambitonlybot",
@@ -4552,7 +4556,6 @@
    "kruguer_engine",
    "kulubot",
    "lamprook",
-   "lantern_bot",
    "larryz-alterego",
    "latrunculi-bot",
    "laura-bot",
@@ -4572,11 +4575,11 @@
    "littlepatricia",
    "littleply",
    "lukebot",
+   "luminexbot",
    "lunaenginechess",
    "lynx_bot",
    "mac-bot",
    "mackbot",
-   "madameengine",
    "maia1",
    "maia2200_10n",
    "maia3-79m_1000",
@@ -4600,7 +4603,6 @@
    "mate-in-twenty",
    "mate1-bot",
    "matmoi",
-   "matthewcarven",
    "mayflyengine",
    "mcdonalds1955",
    "mega-noob-bot",
@@ -4621,8 +4623,6 @@
    "neurosocute",
    "newchessengine-ai",
    "nexastrat",
-   "nexosdefos",
-   "next_uzbek",
    "nibbleknight",
    "nice_bot",
    "nickdrohan",
@@ -4662,7 +4662,6 @@
    "psion-chess",
    "puisne",
    "pzchessbot",
-   "rachl1",
    "randmaster_bot",
    "randmaster_egtb",
    "ratkingbot",
@@ -4671,6 +4670,7 @@
    "ravenengine",
    "ray-bot",
    "rdtchessbot",
+   "reality_bot",
    "resolutebot",
    "ribfish-bot",
    "rudim-bot",
@@ -4700,11 +4700,11 @@
    "slate-engine",
    "sleepish",
    "sleepmindengine",
-   "slothcomputer",
    "slowmate_bot",
    "smasher23445",
    "snaky-bot",
    "solobot",
+   "soulgar",
    "springerbot",
    "squarefish-900",
    "sseh-c",
@@ -4727,10 +4727,10 @@
    "tente8x",
    "terconari",
    "thechessblazer",
+   "thegrobbot",
    "throrbjorn",
    "thunfisch-bot",
    "tigrament",
-   "tikifish",
    "tilapiabot",
    "to299d",
    "togaii",
@@ -4753,6 +4753,7 @@
    "usunfish-l0",
    "usunfish-l1",
    "usunfish-l7",
+   "uundrstnd",
    "uxugin-bot",
    "vadbot",
    "valhalla-bot",
@@ -4761,8 +4762,6 @@
    "vic98lg",
    "vicentlittle",
    "vietnamesecoffee",
-   "viviblitzfr",
-   "void_bot",
    "vortex_bot",
    "vortexaurafarm",
    "waldemar-the-elf",
