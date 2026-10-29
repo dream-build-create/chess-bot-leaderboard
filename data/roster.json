@@ -2692,7 +2692,7 @@
   },
   "newtsbot": {
    "first_seen": "2026-09-27",
-   "last_online": "2026-10-28",
+   "last_online": "2026-10-29",
    "username": "NEWTSbot"
   },
   "nexastrat": {
@@ -2982,7 +2982,7 @@
   },
   "piratesrust": {
    "first_seen": "2026-10-01",
-   "last_online": "2026-10-25",
+   "last_online": "2026-10-29",
    "username": "PiratesRust"
   },
   "pixiegaming": {
@@ -4377,9 +4377,8 @@
   }
  },
  "online": {
-  "checked_at": "2026-10-29T20:43:09Z",
+  "checked_at": "2026-10-29T21:43:09Z",
   "ids": [
-   "aaronsengine",
    "abcd_engine",
    "aconcaguabot",
    "aetherbot",
@@ -4433,6 +4432,7 @@
    "bubblebot2",
    "byte-knight",
    "bytefish",
+   "c-t-r-l",
    "c0kval",
    "caiporabot",
    "cannotcheckmateme",
@@ -4447,7 +4447,6 @@
    "chessiverse_luc",
    "chessiverse_pawnza",
    "chessiverse_raak",
-   "chessnoobcomp",
    "chesstango_bot",
    "cheszter",
    "chill4ce",
@@ -4507,7 +4506,6 @@
    "fpga-chess",
    "fschess-engine",
    "funcomp",
-   "gambitonlybot",
    "gambittai",
    "garbobot",
    "geotsibot",
@@ -4546,7 +4544,6 @@
    "jurdbird",
    "justbot-v1",
    "kahunabot",
-   "kakabot",
    "kavinengine",
    "kbelludoo",
    "kestrelstrike",
@@ -4601,9 +4598,9 @@
    "mate-in-thirty",
    "mate-in-twenty",
    "mate1-bot",
-   "matemakingmachine",
    "matmoi",
    "mayflyengine",
+   "mcdonalds1955",
    "mdbot",
    "mega-noob-bot",
    "melsh_bot",
@@ -4617,11 +4614,11 @@
    "morabandbot",
    "mostlyhuman1900",
    "mrtonnerre",
-   "mychessjava",
    "nanozeroorg",
    "neryba",
    "neurosocute",
    "newchessengine-ai",
+   "newtsbot",
    "nexastrat",
    "nibbleknight",
    "nice_bot",
@@ -4653,6 +4650,7 @@
    "piebot",
    "pierreai",
    "piglet_engine",
+   "piratesrust",
    "playmarius",
    "plumboi",
    "plumbot",
@@ -4699,7 +4697,6 @@
    "slate-engine",
    "sleepish",
    "sleepmindengine",
-   "slothcomputer",
    "slowmate_bot",
    "smasher23445",
    "snaky-bot",
@@ -4767,7 +4764,6 @@
    "vortexaurafarm",
    "waldemar-the-elf",
    "walpurti",
-   "wedge_engine",
    "weiawaga",
    "wolfuhfuhbot",
    "worstfish",
