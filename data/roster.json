@@ -7,7 +7,7 @@
   },
   "aathena101": {
    "first_seen": "2026-10-16",
-   "last_online": "2026-10-28",
+   "last_online": "2026-10-29",
    "username": "AAthena101"
   },
   "aatk_vanguardx": {
@@ -377,7 +377,7 @@
   },
   "beyondheliosai": {
    "first_seen": "2026-10-27",
-   "last_online": "2026-10-27",
+   "last_online": "2026-10-29",
    "username": "BeyondHeliosAI"
   },
   "bfiedler-bot": {
@@ -427,7 +427,7 @@
   },
   "blueberry-engine": {
    "first_seen": "2026-10-05",
-   "last_online": "2026-10-28",
+   "last_online": "2026-10-29",
    "username": "Blueberry-Engine"
   },
   "bluemoonbot": {
@@ -492,7 +492,7 @@
   },
   "bot913": {
    "first_seen": "2026-09-29",
-   "last_online": "2026-10-19",
+   "last_online": "2026-10-29",
    "username": "bot913"
   },
   "bot_adario": {
@@ -582,7 +582,7 @@
   },
   "burgentruck": {
    "first_seen": "2026-10-20",
-   "last_online": "2026-10-28",
+   "last_online": "2026-10-29",
    "username": "BURGENTRUCK"
   },
   "burmalda_engine": {
@@ -842,7 +842,7 @@
   },
   "chesstransformerbot": {
    "first_seen": "2026-10-08",
-   "last_online": "2026-10-28",
+   "last_online": "2026-10-29",
    "username": "ChessTransformerBot"
   },
   "cheszter": {
@@ -1187,7 +1187,7 @@
   },
   "dravox": {
    "first_seen": "2026-10-24",
-   "last_online": "2026-10-28",
+   "last_online": "2026-10-29",
    "username": "dravox"
   },
   "drawfish-reborn": {
@@ -1272,7 +1272,7 @@
   },
   "endspiel-engine": {
    "first_seen": "2026-09-27",
-   "last_online": "2026-10-25",
+   "last_online": "2026-10-29",
    "username": "endspiel-engine"
   },
   "endspiel-pi": {
@@ -3737,7 +3737,7 @@
   },
   "styx-chess": {
    "first_seen": "2026-10-26",
-   "last_online": "2026-10-27",
+   "last_online": "2026-10-29",
    "username": "Styx-Chess"
   },
   "styx_reckless": {
@@ -4337,7 +4337,7 @@
   },
   "zuhammet": {
    "first_seen": "2026-10-28",
-   "last_online": "2026-10-28",
+   "last_online": "2026-10-29",
    "username": "Zuhammet"
   },
   "zxasdsaasda": {
@@ -4347,8 +4347,9 @@
   }
  },
  "online": {
-  "checked_at": "2026-10-29T06:43:11Z",
+  "checked_at": "2026-10-29T07:43:11Z",
   "ids": [
+   "aathena101",
    "abcd_engine",
    "aconcaguabot",
    "aetherbot",
@@ -4381,18 +4382,22 @@
    "berkbot",
    "bernstein-2ply",
    "bernstein-4ply",
+   "beyondheliosai",
    "bfiedler-bot",
    "bitbitbot",
+   "blueberry-engine",
    "bluemoonbot",
    "blujay-bot",
    "bongaclang",
    "bot5551",
    "bot64jaques",
+   "bot913",
    "bot_adario",
    "bottios",
    "bravobot",
    "bretemabot",
    "bubblebot2",
+   "burgentruck",
    "byte-knight",
    "bytefish",
    "c0kval",
@@ -4409,6 +4414,7 @@
    "chessiverse_raak",
    "chessnoobcomp",
    "chesstango_bot",
+   "chesstransformerbot",
    "cheszter",
    "chill4ce",
    "chronicgambler",
@@ -4433,14 +4439,16 @@
    "dala-700",
    "dala-900",
    "darkelectronbot",
+   "darkonweakbot",
    "debzero",
    "deepbecky",
    "deepsquare-ai",
    "demen100ns-bot",
    "demolito_l1",
    "demolito_l2",
-   "demolito_l4",
+   "demolito_l3",
    "demolito_l6",
+   "dravox",
    "drawfish-reborn",
    "drewschessmachine",
    "duchessai",
@@ -4452,6 +4460,7 @@
    "elexunix_chess_bot",
    "ellen_replay",
    "elmichess",
+   "endspiel-engine",
    "endspiel-pi",
    "enginefromscratch",
    "entebot",
@@ -4528,7 +4537,7 @@
    "lilitbot",
    "little-0",
    "littlepatricia",
-   "louischess48-6k",
+   "littleply",
    "lukebot",
    "lunaenginechess",
    "lynx_bot",
@@ -4655,7 +4664,6 @@
    "smasher23445",
    "snaky-bot",
    "solobot",
-   "sparkchessengine",
    "springerbot",
    "squarefish-900",
    "sseh-c",
@@ -4665,6 +4673,7 @@
    "stockfishlowdepth",
    "stockpapagei",
    "stupidfishbotbydscs",
+   "styx-chess",
    "sunfish-engine",
    "sunfish-nnue-engine",
    "sxphia",
@@ -4678,7 +4687,6 @@
    "tente8x",
    "terconari",
    "thechessblazer",
-   "throrbjorn",
    "thunfisch-bot",
    "tigrament",
    "tikifish",
@@ -4721,7 +4729,8 @@
    "worstfish",
    "z-o_aspenlabs",
    "zahoribot",
-   "zion-bot"
+   "zion-bot",
+   "zuhammet"
   ]
  },
  "schema_version": 1
