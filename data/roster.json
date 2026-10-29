@@ -412,7 +412,7 @@
   },
   "blackeventhorizon": {
    "first_seen": "2026-09-27",
-   "last_online": "2026-10-26",
+   "last_online": "2026-10-29",
    "username": "blackEventhorizon"
   },
   "blindpewce": {
@@ -462,7 +462,7 @@
   },
   "borkatower": {
    "first_seen": "2026-09-27",
-   "last_online": "2026-10-28",
+   "last_online": "2026-10-29",
    "username": "BorkaTower"
   },
   "bot-o-tron": {
@@ -802,7 +802,7 @@
   },
   "chessgeniusbot": {
    "first_seen": "2026-10-02",
-   "last_online": "2026-10-26",
+   "last_online": "2026-10-29",
    "username": "ChessGeniusBot"
   },
   "chessiverse_ethan": {
@@ -1507,7 +1507,7 @@
   },
   "gochess6767": {
    "first_seen": "2026-10-25",
-   "last_online": "2026-10-28",
+   "last_online": "2026-10-29",
    "username": "gochess6767"
   },
   "gokubot": {
@@ -1827,7 +1827,7 @@
   },
   "jimbo_engine": {
    "first_seen": "2026-10-18",
-   "last_online": "2026-10-18",
+   "last_online": "2026-10-29",
    "username": "Jimbo_Engine"
   },
   "jimmy_inc3710": {
@@ -3007,7 +3007,7 @@
   },
   "ponytail_engine": {
    "first_seen": "2026-10-28",
-   "last_online": "2026-10-28",
+   "last_online": "2026-10-29",
    "username": "Ponytail_engine"
   },
   "potential_engine": {
@@ -4192,7 +4192,7 @@
   },
   "waldemar-the-elf": {
    "first_seen": "2026-10-13",
-   "last_online": "2026-10-25",
+   "last_online": "2026-10-29",
    "username": "Waldemar-the-elf"
   },
   "walleye_bot": {
@@ -4357,7 +4357,7 @@
   }
  },
  "online": {
-  "checked_at": "2026-10-29T10:43:12Z",
+  "checked_at": "2026-10-29T11:43:10Z",
   "ids": [
    "aaronsengine",
    "abcd_engine",
@@ -4382,21 +4382,22 @@
    "artidigm_research",
    "ashnostromo",
    "athena-chessbot",
+   "atwell-chess-bot",
    "axiom_bot",
    "azzbot",
    "baby_eubos",
    "banerot",
-   "batyarapro",
    "bbc_bot",
    "berkbot",
    "bernstein-2ply",
    "bernstein-4ply",
-   "beyondheliosai",
    "bfiedler-bot",
    "bitbitbot",
+   "blackeventhorizon",
    "bluemoonbot",
    "blujay-bot",
    "bongaclang",
+   "borkatower",
    "bot5551",
    "bot64jaques",
    "bot_adario",
@@ -4406,17 +4407,15 @@
    "bubblebot2",
    "byte-knight",
    "bytefish",
-   "c0kval",
    "caiporabot",
-   "caissa-x",
    "cannotcheckmateme",
    "casanchess-nnue",
    "catnail",
    "catriever",
    "chamberiajedrez",
    "charibot",
-   "chess_set_manager",
    "chessai4f",
+   "chessgeniusbot",
    "chessiverse_ethan",
    "chessiverse_luc",
    "chessiverse_pawnza",
@@ -4428,7 +4427,6 @@
    "chill4ce",
    "chronicgambler",
    "cinder-bot",
-   "classic_bot-v2",
    "claude_bot",
    "clessy-bot",
    "clrsrc_lc0",
@@ -4455,9 +4453,6 @@
    "demen100ns-bot",
    "demolito_l1",
    "demolito_l2",
-   "demolito_l3",
-   "demolito_l4",
-   "demolito_l5",
    "demolito_l6",
    "dravox",
    "drawfish-reborn",
@@ -4467,7 +4462,6 @@
    "eclipsebot",
    "edwardkillick",
    "eigenmann-chess",
-   "elachessbot",
    "elexunix_chess_bot",
    "ellen_replay",
    "elmichess",
@@ -4488,16 +4482,15 @@
    "funcomp",
    "gambittai",
    "garbobot",
-   "georgii_ai",
    "geotsibot",
    "giffibot",
    "gnu4u",
+   "gochess6767",
    "goldfish-engine",
    "goopis",
    "grail-bot",
    "grindfish",
    "groshboss",
-   "gryndor",
    "hackerchessbot",
    "halcyonbot",
    "harakternyk",
@@ -4515,6 +4508,7 @@
    "jangine",
    "jaxakos13_bot",
    "jibbby",
+   "jimbo_engine",
    "joan_clone",
    "joey_chessengine",
    "joshsbot",
@@ -4527,7 +4521,6 @@
    "kingzbot",
    "kirinchessbot",
    "kittyenginev5",
-   "koi_engine",
    "kopyto_dev",
    "kulubot",
    "lamprook",
@@ -4582,7 +4575,6 @@
    "matthewcarven",
    "mayflyengine",
    "mdbot",
-   "mega-noob-bot",
    "melsh_bot",
    "milanbot",
    "mimirbot",
@@ -4598,7 +4590,6 @@
    "neryba",
    "neurosocute",
    "nexastrat",
-   "nexosdefos",
    "nibbleknight",
    "nice_bot",
    "nickdrohan",
@@ -4612,6 +4603,7 @@
    "onezenpanda",
    "openingsbot",
    "overfitted",
+   "oxybullet",
    "pangubot",
    "panic-fish",
    "partner3615diago",
@@ -4629,7 +4621,7 @@
    "playmarius",
    "plumboi",
    "plumbot",
-   "pontiengine",
+   "ponytail_engine",
    "princhess_policy_bot",
    "prokopakop",
    "prosperobot",
@@ -4692,6 +4684,7 @@
    "sybaibot",
    "sybbot",
    "sykorabot",
+   "takticprochess",
    "tallikebot",
    "talosbot",
    "tempocore",
@@ -4729,10 +4722,11 @@
    "vic98lg",
    "vicentlittle",
    "vietnamesecoffee",
-   "viviblitzfr",
    "vortex_bot",
    "vortexaurafarm",
+   "waldemar-the-elf",
    "walpurti",
+   "wedge_engine",
    "weiawaga",
    "wolfuhfuhbot",
    "worstfish",
