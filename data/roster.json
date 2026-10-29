@@ -622,7 +622,7 @@
   },
   "caissa-x": {
    "first_seen": "2026-09-29",
-   "last_online": "2026-10-27",
+   "last_online": "2026-10-29",
    "username": "caissa-x"
   },
   "calciumengine": {
@@ -1444,6 +1444,11 @@
    "first_seen": "2026-09-28",
    "last_online": "2026-10-29",
    "username": "GambitOnlyBot"
+  },
+  "gambittai": {
+   "first_seen": "2026-10-29",
+   "last_online": "2026-10-29",
+   "username": "GambitTAI"
   },
   "garbobot": {
    "first_seen": "2026-09-27",
@@ -2357,7 +2362,7 @@
   },
   "makechessbetter": {
    "first_seen": "2026-09-28",
-   "last_online": "2026-10-28",
+   "last_online": "2026-10-29",
    "username": "MakeChessBetter"
   },
   "malanchess": {
@@ -2542,7 +2547,7 @@
   },
   "miss_snowiee": {
    "first_seen": "2026-10-02",
-   "last_online": "2026-10-17",
+   "last_online": "2026-10-29",
    "username": "Miss_snowiee"
   },
   "mithandros": {
@@ -2797,7 +2802,7 @@
   },
   "openingsbot": {
    "first_seen": "2026-10-02",
-   "last_online": "2026-10-26",
+   "last_online": "2026-10-29",
    "username": "OpeningsBot"
   },
   "osaurus": {
@@ -3232,7 +3237,7 @@
   },
   "robotjfischer": {
    "first_seen": "2026-09-29",
-   "last_online": "2026-10-23",
+   "last_online": "2026-10-29",
    "username": "RobotJFischer"
   },
   "rocketengine": {
@@ -4212,7 +4217,7 @@
   },
   "wedge_engine": {
    "first_seen": "2026-10-22",
-   "last_online": "2026-10-28",
+   "last_online": "2026-10-29",
    "username": "wedge_engine"
   },
   "weeebot": {
@@ -4347,7 +4352,7 @@
   }
  },
  "online": {
-  "checked_at": "2026-10-29T07:43:11Z",
+  "checked_at": "2026-10-29T08:43:11Z",
   "ids": [
    "aathena101",
    "abcd_engine",
@@ -4397,11 +4402,12 @@
    "bravobot",
    "bretemabot",
    "bubblebot2",
-   "burgentruck",
    "byte-knight",
    "bytefish",
+   "c-t-r-l",
    "c0kval",
    "caiporabot",
+   "caissa-x",
    "cannotcheckmateme",
    "casanchess-nnue",
    "catnail",
@@ -4447,6 +4453,7 @@
    "demolito_l1",
    "demolito_l2",
    "demolito_l3",
+   "demolito_l5",
    "demolito_l6",
    "dravox",
    "drawfish-reborn",
@@ -4478,6 +4485,7 @@
    "fschess-engine",
    "funcomp",
    "gambitonlybot",
+   "gambittai",
    "garbobot",
    "georgii_ai",
    "geotsibot",
@@ -4501,6 +4509,7 @@
    "icarus-bot",
    "ilovecatgirl",
    "incipit_bot",
+   "is_boss",
    "iskelt-corax",
    "jangine",
    "jaxakos13_bot",
@@ -4562,6 +4571,7 @@
    "maia960-1900",
    "maia9_10n",
    "maia9_30n",
+   "makechessbetter",
    "martuni",
    "mate-in-forty",
    "mate-in-thirty",
@@ -4569,12 +4579,14 @@
    "mate1-bot",
    "matmoi",
    "mayflyengine",
+   "mcdonalds1955",
    "mdbot",
    "mega-noob-bot",
    "melsh_bot",
    "milanbot",
    "mimirbot",
    "minopponentmoves",
+   "miss_snowiee",
    "mithandros",
    "mochi_bot",
    "morabandbot",
@@ -4597,6 +4609,7 @@
    "o-rei-cx",
    "odonata-bot",
    "onezenpanda",
+   "openingsbot",
    "overfitted",
    "oxybullet",
    "pangubot",
@@ -4633,6 +4646,7 @@
    "rdtchessbot",
    "resolutebot",
    "ribfish-bot",
+   "robotjfischer",
    "rudim-bot",
    "rust-in-pieces",
    "rustbot2003",
@@ -4664,6 +4678,7 @@
    "smasher23445",
    "snaky-bot",
    "solobot",
+   "sparkchessengine",
    "springerbot",
    "squarefish-900",
    "sseh-c",
@@ -4673,7 +4688,6 @@
    "stockfishlowdepth",
    "stockpapagei",
    "stupidfishbotbydscs",
-   "styx-chess",
    "sunfish-engine",
    "sunfish-nnue-engine",
    "sxphia",
@@ -4693,7 +4707,6 @@
    "tilapiabot",
    "to299d",
    "togaii",
-   "tomabbot",
    "topasbot",
    "trainer-bot",
    "trenerhetman",
@@ -4724,13 +4737,12 @@
    "vortex_bot",
    "vortexaurafarm",
    "walpurti",
+   "wedge_engine",
    "weiawaga",
    "wolfuhfuhbot",
    "worstfish",
    "z-o_aspenlabs",
-   "zahoribot",
-   "zion-bot",
-   "zuhammet"
+   "zion-bot"
   ]
  },
  "schema_version": 1
