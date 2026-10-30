@@ -1,7 +1,7 @@
 {
  "schema_version": 1,
  "generated_at": "2026-10-30T01:05:10Z",
- "online_checked_at": "2026-10-30T06:24:10Z",
+ "online_checked_at": "2026-10-30T06:43:09Z",
  "source": "Lichess public API",
  "rules": {
   "activity_days": 7,
@@ -5857,7 +5857,7 @@
     "rd": 45,
     "games": 89,
     "last_active": "2026-10-30",
-    "online": false,
+    "online": true,
     "stockfish": true,
     "declared_engine": "Stockfish",
     "bio": "HI, I'M SARA! Hello! I'm Sara, a chess bot written in Python. Engine: Stockfish 19 Engine size: 93 MB I play: - Blitz - Rapid - Bullet i don't play variants but i can play 960. Good luck and enjoy the game!",
@@ -8977,7 +8977,7 @@
     "rd": 45,
     "games": 242,
     "last_active": "2026-10-30",
-    "online": false,
+    "online": true,
     "stockfish": false,
     "declared_engine": null,
     "bio": "https://github.com/ethankuehler/gochess",
