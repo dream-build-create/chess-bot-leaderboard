@@ -427,7 +427,7 @@
   },
   "blueberry-engine": {
    "first_seen": "2026-10-05",
-   "last_online": "2026-10-29",
+   "last_online": "2026-10-30",
    "username": "Blueberry-Engine"
   },
   "bluemoonbot": {
@@ -1127,12 +1127,12 @@
   },
   "demolito_l3": {
    "first_seen": "2026-09-27",
-   "last_online": "2026-10-29",
+   "last_online": "2026-10-30",
    "username": "Demolito_L3"
   },
   "demolito_l4": {
    "first_seen": "2026-09-27",
-   "last_online": "2026-10-29",
+   "last_online": "2026-10-30",
    "username": "Demolito_L4"
   },
   "demolito_l5": {
@@ -3112,7 +3112,7 @@
   },
   "queensgambot": {
    "first_seen": "2026-09-27",
-   "last_online": "2026-10-29",
+   "last_online": "2026-10-30",
    "username": "QueensGamBOT"
   },
   "r0bspierre": {
@@ -4222,7 +4222,7 @@
   },
   "walleye_bot": {
    "first_seen": "2026-09-27",
-   "last_online": "2026-10-29",
+   "last_online": "2026-10-30",
    "username": "Walleye_Bot"
   },
   "walpurti": {
@@ -4382,10 +4382,9 @@
   }
  },
  "online": {
-  "checked_at": "2026-10-30T01:43:10Z",
+  "checked_at": "2026-10-30T02:43:09Z",
   "ids": [
    "aatk_vanguardx",
-   "abcd_engine",
    "aconcaguabot",
    "aetherbot",
    "aggressivestockfish",
@@ -4422,9 +4421,9 @@
    "bernstein-4ply",
    "bfiedler-bot",
    "bitbitbot",
+   "blueberry-engine",
    "bluemoonbot",
    "blujay-bot",
-   "bobby_pcolla",
    "bongaclang",
    "boris-trapsky",
    "bot5551",
@@ -4482,6 +4481,8 @@
    "demen100ns-bot",
    "demolito_l1",
    "demolito_l2",
+   "demolito_l3",
+   "demolito_l4",
    "demolito_l6",
    "dravox",
    "drawfish-reborn",
@@ -4520,7 +4521,6 @@
    "goopis",
    "grail-bot",
    "grindfish",
-   "groshboss",
    "gryndor",
    "hackerchessbot",
    "halcyonbot",
@@ -4553,7 +4553,6 @@
    "kingzbot",
    "kirinchessbot",
    "kittenfish",
-   "kittyenginev5",
    "koi_engine",
    "kopyto_dev",
    "kulubot",
@@ -4661,6 +4660,7 @@
    "psion-chess",
    "puisne",
    "pzchessbot",
+   "queensgambot",
    "randmaster_bot",
    "randmaster_egtb",
    "ratkingbot",
@@ -4705,7 +4705,6 @@
    "springerbot",
    "squarefish-900",
    "sseh-c",
-   "stargazerengine",
    "stickshark99",
    "stockcotsfish",
    "stockdory",
@@ -4720,7 +4719,6 @@
    "sybaibot",
    "sybbot",
    "sykorabot",
-   "takticprochess",
    "tallikebot",
    "talosbot",
    "tempocore",
@@ -4764,10 +4762,10 @@
    "vietnamesecoffee",
    "violentstockfish",
    "void_bot",
-   "voidbotv2",
    "vortex_bot",
    "vortexaurafarm",
    "waldemar-the-elf",
+   "walleye_bot",
    "walpurti",
    "weiawaga",
    "wolfuhfuhbot",
