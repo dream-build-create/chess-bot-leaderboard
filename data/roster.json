@@ -872,7 +872,7 @@
   },
   "chrusty": {
    "first_seen": "2026-09-28",
-   "last_online": "2026-10-25",
+   "last_online": "2026-10-30",
    "username": "chrusty"
   },
   "cinder-bot": {
@@ -1637,7 +1637,7 @@
   },
   "hiusbot": {
    "first_seen": "2026-09-27",
-   "last_online": "2026-10-28",
+   "last_online": "2026-10-30",
    "username": "HiusBot"
   },
   "hodgeybot": {
@@ -1985,6 +1985,11 @@
    "last_online": "2026-09-30",
    "username": "KiyEngine"
   },
+  "knightmare_26": {
+   "first_seen": "2026-10-30",
+   "last_online": "2026-10-30",
+   "username": "Knightmare_26"
+  },
   "knightowlbot": {
    "first_seen": "2026-10-26",
    "last_online": "2026-10-29",
@@ -2042,7 +2047,7 @@
   },
   "lantern_bot": {
    "first_seen": "2026-10-15",
-   "last_online": "2026-10-29",
+   "last_online": "2026-10-30",
    "username": "Lantern_BOT"
   },
   "larryz-alterego": {
@@ -2107,7 +2112,7 @@
   },
   "leelamultiposs": {
    "first_seen": "2026-10-08",
-   "last_online": "2026-10-27",
+   "last_online": "2026-10-30",
    "username": "LeelaMultiPoss"
   },
   "leelapieceodds": {
@@ -2282,7 +2287,7 @@
   },
   "magic11bot_coach": {
    "first_seen": "2026-10-01",
-   "last_online": "2026-10-26",
+   "last_online": "2026-10-30",
    "username": "Magic11bot_Coach"
   },
   "maia1": {
@@ -3895,6 +3900,11 @@
    "last_online": "2026-10-30",
    "username": "Terconari"
   },
+  "test-z": {
+   "first_seen": "2026-10-30",
+   "last_online": "2026-10-30",
+   "username": "TesT-Z"
+  },
   "the9masters": {
    "first_seen": "2026-10-17",
    "last_online": "2026-10-17",
@@ -4407,7 +4417,7 @@
   }
  },
  "online": {
-  "checked_at": "2026-10-30T13:43:10Z",
+  "checked_at": "2026-10-30T14:43:10Z",
   "ids": [
    "aaronsengine",
    "aconcaguabot",
@@ -4478,6 +4488,7 @@
    "cheszter",
    "chill4ce",
    "chronicgambler",
+   "chrusty",
    "cinder-bot",
    "classic_bot-v2",
    "classical-leela",
@@ -4503,7 +4514,6 @@
    "darkonweakbot",
    "debzero",
    "deepbecky",
-   "deepfish26",
    "deepsquare-ai",
    "demen100ns-bot",
    "demolito_l1",
@@ -4538,6 +4548,7 @@
    "fpga-chess",
    "fschess-engine",
    "funcomp",
+   "gambitonlybot",
    "gambittai",
    "garbobot",
    "geotsibot",
@@ -4547,7 +4558,6 @@
    "goldfish-engine",
    "goopis",
    "grail-bot",
-   "grapechessengine",
    "grindfish",
    "groshboss",
    "gryndor",
@@ -4555,6 +4565,7 @@
    "halcyonbot",
    "halloweengambit-bot",
    "hardrok",
+   "hiusbot",
    "holidaybot1225",
    "hummus-bot",
    "hustler_1mb",
@@ -4583,10 +4594,12 @@
    "kingzbot",
    "kittenfish",
    "kittyenginev5",
+   "knightmare_26",
    "koi_engine",
    "kopyto_dev",
    "kulubot",
    "lamprook",
+   "lantern_bot",
    "larryz-alterego",
    "latrunculi-bot",
    "laura-bot",
@@ -4594,6 +4607,7 @@
    "leelaanyodds",
    "leelajester",
    "leelaknightodds",
+   "leelamultiposs",
    "leelapieceodds",
    "leelaqueenforknight",
    "leelaqueenodds",
@@ -4611,6 +4625,7 @@
    "lynx_bot",
    "mac-bot",
    "mackbot",
+   "magic11bot_coach",
    "maia1",
    "maia2200_10n",
    "maia3-79m_1000",
@@ -4636,7 +4651,6 @@
    "matmoi",
    "matthewcarven",
    "mayflyengine",
-   "mcdonalds1955",
    "mega-noob-bot",
    "melsh_bot",
    "milanbot",
@@ -4657,7 +4671,6 @@
    "newchessengine-ai",
    "nexastrat",
    "nexosdefos",
-   "next_uzbek",
    "nibbleknight",
    "nice_bot",
    "nickdrohan",
@@ -4739,7 +4752,6 @@
    "smasher23445",
    "snaky-bot",
    "solobot",
-   "sparkchessengine",
    "springerbot",
    "squarefish-900",
    "sseh-c",
@@ -4761,14 +4773,15 @@
    "tempocore",
    "tente8x",
    "terconari",
+   "test-z",
    "thechessblazer",
-   "thomengine",
    "thunfisch-bot",
    "tigrament",
    "tikifish",
    "tilapiabot",
    "to299d",
    "togaii",
+   "tomabbot",
    "topasbot",
    "trainer-bot",
    "trenerhetman",
@@ -4796,6 +4809,7 @@
    "vicentlittle",
    "vietnamesecoffee",
    "violentstockfish",
+   "viviblitzfr",
    "void_bot",
    "vortex_bot",
    "vortexaurafarm",
