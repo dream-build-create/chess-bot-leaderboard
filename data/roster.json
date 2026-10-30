@@ -1032,7 +1032,7 @@
   },
   "cutebot": {
    "first_seen": "2026-09-27",
-   "last_online": "2026-10-11",
+   "last_online": "2026-10-30",
    "username": "CuteBot"
   },
   "daisy-bot": {
@@ -1502,7 +1502,7 @@
   },
   "ghidorah_x": {
    "first_seen": "2026-09-27",
-   "last_online": "2026-10-29",
+   "last_online": "2026-10-30",
    "username": "Ghidorah_X"
   },
   "giffibot": {
@@ -2467,7 +2467,7 @@
   },
   "maximaengine": {
    "first_seen": "2026-10-23",
-   "last_online": "2026-10-28",
+   "last_online": "2026-10-30",
    "username": "MaximaEngine"
   },
   "maxthedog-esp32": {
@@ -4432,7 +4432,7 @@
   }
  },
  "online": {
-  "checked_at": "2026-10-30T16:43:12Z",
+  "checked_at": "2026-10-30T17:43:11Z",
   "ids": [
    "aaronsengine",
    "aatk_vanguardx",
@@ -4498,6 +4498,8 @@
    "catriever",
    "charibot",
    "chess_set_manager",
+   "chessai4f",
+   "chessgeniusbot",
    "chessiverse_ethan",
    "chessiverse_luc",
    "chessiverse_pawnza",
@@ -4523,6 +4525,7 @@
    "croco_bot",
    "croco_little_bot",
    "crocodile_bot",
+   "cutebot",
    "dala-1100",
    "dala-1300",
    "dala-1600",
@@ -4539,6 +4542,7 @@
    "demolito_l2",
    "demolito_l6",
    "dravox",
+   "drawfish-reborn",
    "drewschessmachine",
    "duchessai",
    "dumbotai",
@@ -4570,6 +4574,7 @@
    "gambittai",
    "garbobot",
    "geotsibot",
+   "ghidorah_x",
    "giffibot",
    "gnu4u",
    "gochess6767",
@@ -4591,7 +4596,6 @@
    "icarus-bot",
    "ilovecatgirl",
    "incipit_bot",
-   "ironfang",
    "is_boss",
    "iskelt-corax",
    "jangine",
@@ -4612,10 +4616,10 @@
    "kirinchessbot",
    "kittenfish",
    "knightmare_26",
+   "koi_engine",
    "kopyto_dev",
    "kulubot",
    "lamprook",
-   "lantern_bot",
    "larryz-alterego",
    "latrunculi-bot",
    "laura-bot",
@@ -4641,7 +4645,6 @@
    "lynx_bot",
    "mac-bot",
    "mackbot",
-   "magic11bot_coach",
    "maia1",
    "maia2200_10n",
    "maia3-79m_1000",
@@ -4666,6 +4669,7 @@
    "mate1-bot",
    "matmoi",
    "matthewcarven",
+   "maximaengine",
    "mayflyengine",
    "mcdonalds1955",
    "mega-noob-bot",
@@ -4679,6 +4683,7 @@
    "morabandbot",
    "mostlyhuman1900",
    "mrtonnerre",
+   "munzurbot2",
    "musashi-thebot",
    "mychessjava",
    "nanozeroorg",
@@ -4701,7 +4706,6 @@
    "openinggenie2000",
    "openingsbot",
    "overfitted",
-   "oxybullet",
    "pangubot",
    "panic-fish",
    "partner3615diago",
@@ -4721,7 +4725,6 @@
    "plumbot",
    "princhess_policy_bot",
    "prokopakop",
-   "prosperobot",
    "psion-chess",
    "puisne",
    "pzchessbot",
@@ -4765,10 +4768,9 @@
    "sleepish",
    "sleepmindengine",
    "slowmate_bot",
-   "sluicing",
    "smasher23445",
    "snaky-bot",
-   "solobot",
+   "sparkchessengine",
    "springerbot",
    "squarefish-900",
    "sseh-c",
@@ -4786,7 +4788,6 @@
    "sxphia",
    "sybaibot",
    "sybbot",
-   "takticprochess",
    "talosbot",
    "tempocore",
    "tente8x",
