@@ -772,7 +772,7 @@
   },
   "chessai4f": {
    "first_seen": "2026-10-21",
-   "last_online": "2026-10-29",
+   "last_online": "2026-10-30",
    "username": "ChessAI4F"
   },
   "chessatronbot": {
@@ -2607,7 +2607,7 @@
   },
   "musashi-thebot": {
    "first_seen": "2026-09-28",
-   "last_online": "2026-10-29",
+   "last_online": "2026-10-30",
    "username": "Musashi-thebot"
   },
   "mxnet-gamemaster": {
@@ -3102,7 +3102,7 @@
   },
   "qioui": {
    "first_seen": "2026-10-11",
-   "last_online": "2026-10-28",
+   "last_online": "2026-10-30",
    "username": "QiOui"
   },
   "quanticade": {
@@ -3735,6 +3735,11 @@
    "last_online": "2026-10-30",
    "username": "StockPapagei"
   },
+  "stormbot": {
+   "first_seen": "2026-10-30",
+   "last_online": "2026-10-30",
+   "username": "StormBot"
+  },
   "straightbot": {
    "first_seen": "2026-09-27",
    "last_online": "2026-09-30",
@@ -3762,7 +3767,7 @@
   },
   "styx-chess": {
    "first_seen": "2026-10-26",
-   "last_online": "2026-10-29",
+   "last_online": "2026-10-30",
    "username": "Styx-Chess"
   },
   "styx_reckless": {
@@ -4382,7 +4387,7 @@
   }
  },
  "online": {
-  "checked_at": "2026-10-30T04:43:09Z",
+  "checked_at": "2026-10-30T05:43:09Z",
   "ids": [
    "aatk_vanguardx",
    "aconcaguabot",
@@ -4410,11 +4415,11 @@
    "ashnostromo",
    "ask-aatk-bot",
    "athena-chessbot",
-   "atwell-chess-bot",
    "axiom_bot",
    "azzbot",
    "baby_eubos",
    "banerot",
+   "batyarapro",
    "bbc_bot",
    "becela9_kpebetka",
    "berkbot",
@@ -4445,6 +4450,7 @@
    "catriever",
    "charibot",
    "chess_set_manager",
+   "chessai4f",
    "chessiverse_ethan",
    "chessiverse_luc",
    "chessiverse_pawnza",
@@ -4455,6 +4461,7 @@
    "chill4ce",
    "chronicgambler",
    "cinder-bot",
+   "classic_bot-v2",
    "classical-leela",
    "claude_bot",
    "clessy-bot",
@@ -4518,12 +4525,13 @@
    "geotsibot",
    "giffibot",
    "gnu4u",
-   "gochess6767",
    "goldfish-engine",
    "goopis",
    "grail-bot",
    "grindfish",
+   "groshboss",
    "gryndor",
+   "hackerchessbot",
    "halcyonbot",
    "holidaybot1225",
    "hummus-bot",
@@ -4537,7 +4545,6 @@
    "is_boss",
    "iskelt-corax",
    "jangine",
-   "jaxakos13_bot",
    "jibbby",
    "joan_clone",
    "joey_chessengine",
@@ -4617,11 +4624,13 @@
    "morabandbot",
    "mostlyhuman1900",
    "mrtonnerre",
+   "musashi-thebot",
    "mychessjava",
    "nanozeroorg",
    "neurosocute",
    "newchessengine-ai",
    "nexastrat",
+   "nexosdefos",
    "nibbleknight",
    "nice_bot",
    "nickdrohan",
@@ -4660,6 +4669,7 @@
    "psion-chess",
    "puisne",
    "pzchessbot",
+   "qioui",
    "queensgambot",
    "randmaster_bot",
    "randmaster_egtb",
@@ -4710,14 +4720,17 @@
    "stockfail",
    "stockfishlowdepth",
    "stockpapagei",
+   "stormbot",
    "studyloversz-bot",
    "stupidfishbotbydscs",
+   "styx-chess",
    "sunfish-engine",
    "sunfish-nnue-engine",
    "sxphia",
    "sybaibot",
    "sybbot",
    "sykorabot",
+   "takticprochess",
    "tallikebot",
    "talosbot",
    "tempocore",
@@ -4727,6 +4740,7 @@
    "throrbjorn",
    "thunfisch-bot",
    "tigrament",
+   "tikifish",
    "tilapiabot",
    "to299d",
    "togaii",
