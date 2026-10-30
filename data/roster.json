@@ -52,7 +52,7 @@
   },
   "agentc313": {
    "first_seen": "2026-09-30",
-   "last_online": "2026-10-27",
+   "last_online": "2026-10-30",
    "username": "agentc313"
   },
   "aggressivestockfish": {
@@ -342,7 +342,7 @@
   },
   "becela9_kpebetka": {
    "first_seen": "2026-09-27",
-   "last_online": "2026-10-29",
+   "last_online": "2026-10-30",
    "username": "BECELA9_KPEBETKA"
   },
   "beelzebubzero": {
@@ -1477,7 +1477,7 @@
   },
   "georgii_ai": {
    "first_seen": "2026-09-28",
-   "last_online": "2026-10-29",
+   "last_online": "2026-10-30",
    "username": "georgii_ai"
   },
   "geotsibot": {
@@ -2682,7 +2682,7 @@
   },
   "newchessengine-ai": {
    "first_seen": "2026-09-27",
-   "last_online": "2026-10-29",
+   "last_online": "2026-10-30",
    "username": "NewChessEngine-ai"
   },
   "newengine2022": {
@@ -3987,7 +3987,7 @@
   },
   "trainingbuddy": {
    "first_seen": "2026-10-28",
-   "last_online": "2026-10-28",
+   "last_online": "2026-10-30",
    "username": "TrainingBuddy"
   },
   "trenerhetman": {
@@ -4382,11 +4382,12 @@
   }
  },
  "online": {
-  "checked_at": "2026-10-30T02:43:09Z",
+  "checked_at": "2026-10-30T03:43:10Z",
   "ids": [
    "aatk_vanguardx",
    "aconcaguabot",
    "aetherbot",
+   "agentc313",
    "aggressivestockfish",
    "ai-con",
    "ailedbot",
@@ -4416,14 +4417,15 @@
    "banerot",
    "batyarapro",
    "bbc_bot",
+   "becela9_kpebetka",
    "berkbot",
    "bernstein-2ply",
    "bernstein-4ply",
    "bfiedler-bot",
    "bitbitbot",
-   "blueberry-engine",
    "bluemoonbot",
    "blujay-bot",
+   "bobby_pcolla",
    "bongaclang",
    "boris-trapsky",
    "bot5551",
@@ -4513,6 +4515,7 @@
    "funcomp",
    "gambittai",
    "garbobot",
+   "georgii_ai",
    "geotsibot",
    "giffibot",
    "gnu4u",
@@ -4620,6 +4623,7 @@
    "nanozeroorg",
    "neryba",
    "neurosocute",
+   "newchessengine-ai",
    "nexastrat",
    "nexosdefos",
    "nibbleknight",
@@ -4722,7 +4726,6 @@
    "tallikebot",
    "talosbot",
    "tempocore",
-   "tente8x",
    "terconari",
    "thechessblazer",
    "throrbjorn",
@@ -4735,6 +4738,7 @@
    "tomabbot",
    "topasbot",
    "trainer-bot",
+   "trainingbuddy",
    "trenerhetman",
    "trinculobot",
    "troutbot",
@@ -4751,7 +4755,6 @@
    "usunfish-l0",
    "usunfish-l1",
    "usunfish-l7",
-   "uundrstnd",
    "uxugin-bot",
    "vadbot",
    "valhalla-bot",
@@ -4765,7 +4768,6 @@
    "vortex_bot",
    "vortexaurafarm",
    "waldemar-the-elf",
-   "walleye_bot",
    "walpurti",
    "weiawaga",
    "wolfuhfuhbot",
