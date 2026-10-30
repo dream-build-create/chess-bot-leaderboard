@@ -12,7 +12,7 @@
   },
   "aatk_vanguardx": {
    "first_seen": "2026-09-27",
-   "last_online": "2026-10-29",
+   "last_online": "2026-10-30",
    "username": "AATK_VanguardX"
   },
   "abcd_engine": {
@@ -162,7 +162,7 @@
   },
   "anti-bot": {
    "first_seen": "2026-09-27",
-   "last_online": "2026-10-29",
+   "last_online": "2026-10-30",
    "username": "anti-bot"
   },
   "antibotv3-7": {
@@ -237,7 +237,7 @@
   },
   "ask-aatk-bot": {
    "first_seen": "2026-09-27",
-   "last_online": "2026-10-29",
+   "last_online": "2026-10-30",
    "username": "Ask-AATK-bot"
   },
   "askaig": {
@@ -1532,7 +1532,7 @@
   },
   "goopis": {
    "first_seen": "2026-09-27",
-   "last_online": "2026-10-29",
+   "last_online": "2026-10-30",
    "username": "Goopis"
   },
   "gpt579419": {
@@ -3747,7 +3747,7 @@
   },
   "studyloversz-bot": {
    "first_seen": "2026-09-27",
-   "last_online": "2026-10-29",
+   "last_online": "2026-10-30",
    "username": "Studyloversz-bot"
   },
   "stupidchessrobot": {
@@ -4382,8 +4382,9 @@
   }
  },
  "online": {
-  "checked_at": "2026-10-30T00:43:10Z",
+  "checked_at": "2026-10-30T01:43:10Z",
   "ids": [
+   "aatk_vanguardx",
    "abcd_engine",
    "aconcaguabot",
    "aetherbot",
@@ -4397,6 +4398,7 @@
    "angela_eng",
    "anna-bot",
    "annie_archy",
+   "anti-bot",
    "antibotv3-7",
    "aposeij",
    "approximationbot",
@@ -4406,13 +4408,13 @@
    "arkiplayschess",
    "artidigm_research",
    "ashnostromo",
+   "ask-aatk-bot",
    "athena-chessbot",
    "atwell-chess-bot",
    "axiom_bot",
    "azzbot",
    "baby_eubos",
    "banerot",
-   "battlebornthe1st",
    "batyarapro",
    "bbc_bot",
    "berkbot",
@@ -4481,7 +4483,6 @@
    "demolito_l1",
    "demolito_l2",
    "demolito_l6",
-   "dragoodle",
    "dravox",
    "drawfish-reborn",
    "drewschessmachine",
@@ -4509,7 +4510,6 @@
    "fpga-chess",
    "fschess-engine",
    "funcomp",
-   "gambitonlybot",
    "gambittai",
    "garbobot",
    "geotsibot",
@@ -4517,7 +4517,7 @@
    "gnu4u",
    "gochess6767",
    "goldfish-engine",
-   "goldinho1bot",
+   "goopis",
    "grail-bot",
    "grindfish",
    "groshboss",
@@ -4525,7 +4525,6 @@
    "hackerchessbot",
    "halcyonbot",
    "hardrok",
-   "hashcake1",
    "holidaybot1225",
    "hummus-bot",
    "hustler_1mb",
@@ -4613,7 +4612,6 @@
    "milanbot",
    "mimirbot",
    "minopponentmoves",
-   "misere-fish",
    "mithandros",
    "mochi_bot",
    "morabandbot",
@@ -4657,7 +4655,6 @@
    "playmarius",
    "plumboi",
    "plumbot",
-   "pontiengine",
    "princhess_policy_bot",
    "prokopakop",
    "prosperobot",
@@ -4672,8 +4669,6 @@
    "ravenengine",
    "ray-bot",
    "rdtchessbot",
-   "reality_bot",
-   "reaper1bot",
    "resolutebot",
    "ribfish-bot",
    "rudim-bot",
@@ -4717,6 +4712,7 @@
    "stockfail",
    "stockfishlowdepth",
    "stockpapagei",
+   "studyloversz-bot",
    "stupidfishbotbydscs",
    "sunfish-engine",
    "sunfish-nnue-engine",
