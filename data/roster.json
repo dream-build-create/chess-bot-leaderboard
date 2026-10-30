@@ -377,7 +377,7 @@
   },
   "beyondheliosai": {
    "first_seen": "2026-10-27",
-   "last_online": "2026-10-29",
+   "last_online": "2026-10-30",
    "username": "BeyondHeliosAI"
   },
   "bfiedler-bot": {
@@ -842,7 +842,7 @@
   },
   "chesstransformerbot": {
    "first_seen": "2026-10-08",
-   "last_online": "2026-10-29",
+   "last_online": "2026-10-30",
    "username": "ChessTransformerBot"
   },
   "cheszter": {
@@ -1277,7 +1277,7 @@
   },
   "endspiel-engine": {
    "first_seen": "2026-09-27",
-   "last_online": "2026-10-29",
+   "last_online": "2026-10-30",
    "username": "endspiel-engine"
   },
   "endspiel-pi": {
@@ -2437,7 +2437,7 @@
   },
   "matthewcarven": {
    "first_seen": "2026-10-14",
-   "last_online": "2026-10-29",
+   "last_online": "2026-10-30",
    "username": "matthewcarven"
   },
   "maximaengine": {
@@ -4392,7 +4392,7 @@
   }
  },
  "online": {
-  "checked_at": "2026-10-30T06:43:09Z",
+  "checked_at": "2026-10-30T07:43:09Z",
   "ids": [
    "aatk_vanguardx",
    "aconcaguabot",
@@ -4430,6 +4430,7 @@
    "berkbot",
    "bernstein-2ply",
    "bernstein-4ply",
+   "beyondheliosai",
    "bfiedler-bot",
    "bitbitbot",
    "bluemoonbot",
@@ -4446,7 +4447,6 @@
    "bubblebot2",
    "byte-knight",
    "bytefish",
-   "c-t-r-l",
    "c0kval",
    "caiporabot",
    "cannotcheckmateme",
@@ -4462,6 +4462,7 @@
    "chessiverse_raak",
    "chessnoobcomp",
    "chesstango_bot",
+   "chesstransformerbot",
    "cheszter",
    "chill4ce",
    "chronicgambler",
@@ -4494,8 +4495,6 @@
    "demen100ns-bot",
    "demolito_l1",
    "demolito_l2",
-   "demolito_l3",
-   "demolito_l4",
    "demolito_l6",
    "dravox",
    "drawfish-reborn",
@@ -4508,6 +4507,7 @@
    "elexunix_chess_bot",
    "ellen_replay",
    "elmichess",
+   "endspiel-engine",
    "endspiel-pi",
    "entebot",
    "epimetheusbot",
@@ -4556,6 +4556,7 @@
    "jibbby",
    "joan_clone",
    "joey_chessengine",
+   "jongsungkim",
    "joshsbot",
    "jpg-bot",
    "jurdbird",
@@ -4619,6 +4620,7 @@
    "mate-in-twenty",
    "mate1-bot",
    "matmoi",
+   "matthewcarven",
    "mayflyengine",
    "mcdonalds1955",
    "mdbot",
@@ -4635,6 +4637,7 @@
    "musashi-thebot",
    "mychessjava",
    "nanozeroorg",
+   "neryba",
    "neurosocute",
    "newchessengine-ai",
    "nexastrat",
@@ -4694,7 +4697,6 @@
    "rustbot2003",
    "ryu-ishigori",
    "sapling-bot",
-   "sara_bot1",
    "sargon-1ply",
    "sargon-2ply",
    "sargon-3ply",
@@ -4718,9 +4720,9 @@
    "sleepish",
    "sleepmindengine",
    "slowmate_bot",
+   "smasher23445",
    "snaky-bot",
    "solobot",
-   "sparkchessengine",
    "springerbot",
    "squarefish-900",
    "sseh-c",
@@ -4753,7 +4755,6 @@
    "tilapiabot",
    "to299d",
    "togaii",
-   "tomabbot",
    "topasbot",
    "trainer-bot",
    "trenerhetman",
@@ -4772,6 +4773,7 @@
    "usunfish-l0",
    "usunfish-l1",
    "usunfish-l7",
+   "uundrstnd",
    "uxugin-bot",
    "vadbot",
    "valhalla-bot",
