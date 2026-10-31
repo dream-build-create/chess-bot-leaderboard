@@ -862,7 +862,7 @@
   },
   "chesstransformerbot": {
    "first_seen": "2026-10-08",
-   "last_online": "2026-10-30",
+   "last_online": "2026-10-31",
    "username": "ChessTransformerBot"
   },
   "cheszter": {
@@ -3135,6 +3135,11 @@
    "last_online": "2026-09-29",
    "username": "ProteinBender"
   },
+  "protyv2": {
+   "first_seen": "2026-10-31",
+   "last_online": "2026-10-31",
+   "username": "ProtyV2"
+  },
   "pruningbot": {
    "first_seen": "2026-10-17",
    "last_online": "2026-10-20",
@@ -4472,7 +4477,7 @@
   }
  },
  "online": {
-  "checked_at": "2026-10-31T06:43:10Z",
+  "checked_at": "2026-10-31T07:43:10Z",
   "ids": [
    "aathena101",
    "abcd_engine",
@@ -4523,7 +4528,6 @@
    "bubblebot2",
    "byte-knight",
    "bytefish",
-   "c-t-r-l",
    "c0kval",
    "caiporabot",
    "cannotcheckmateme",
@@ -4536,8 +4540,8 @@
    "chessiverse_luc",
    "chessiverse_pawnza",
    "chessiverse_raak",
-   "chessnoobcomp",
    "chesstango_bot",
+   "chesstransformerbot",
    "cheszter",
    "chill4ce",
    "chronicgambler",
@@ -4570,7 +4574,8 @@
    "demen100ns-bot",
    "demolito_l1",
    "demolito_l2",
-   "demolito_l6",
+   "demolito_l3",
+   "demolito_l4",
    "dravox",
    "drawfish-reborn",
    "drewschessmachine",
@@ -4620,7 +4625,6 @@
    "hustler_1mb",
    "hustler_2mb",
    "hustler_5mb",
-   "hyperopic",
    "icarus-bot",
    "ilovecatgirl",
    "incipit_bot",
@@ -4694,7 +4698,7 @@
    "mate-in-twenty",
    "mate1-bot",
    "matmoi",
-   "mcdonalds1955",
+   "mdbot",
    "mega-noob-bot",
    "melsh_bot",
    "milanbot",
@@ -4719,7 +4723,6 @@
    "nichteliasbot",
    "nickdrohan",
    "nilatacbot",
-   "nittedal",
    "nnueandthevoices",
    "noabot",
    "nohopeforman",
@@ -4748,10 +4751,10 @@
    "playmarius",
    "plumboi",
    "plumbot",
-   "ponytail_engine",
    "princhess_policy_bot",
    "prokopakop",
    "prosperobot",
+   "protyv2",
    "psion-chess",
    "puisne",
    "pzchessbot",
@@ -4793,7 +4796,6 @@
    "sleepmindengine",
    "slowmate_bot",
    "snaky-bot",
-   "sparkchessengine",
    "springerbot",
    "squarefish-900",
    "sseh-c",
@@ -4814,10 +4816,8 @@
    "takticprochess",
    "talosbot",
    "tempocore",
-   "tente8x",
    "terconari",
    "thechessblazer",
-   "throrbjorn",
    "thunfisch-bot",
    "tigrament",
    "tikifish",
