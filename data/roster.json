@@ -422,7 +422,7 @@
   },
   "black-bishop-kh": {
    "first_seen": "2026-09-28",
-   "last_online": "2026-10-28",
+   "last_online": "2026-10-31",
    "username": "Black-Bishop-Kh"
   },
   "black-icebot": {
@@ -542,7 +542,7 @@
   },
   "botkingteam33": {
    "first_seen": "2026-10-11",
-   "last_online": "2026-10-30",
+   "last_online": "2026-10-31",
    "username": "Botkingteam33"
   },
   "botsuxx": {
@@ -887,7 +887,7 @@
   },
   "chrusty": {
    "first_seen": "2026-09-28",
-   "last_online": "2026-10-30",
+   "last_online": "2026-10-31",
    "username": "chrusty"
   },
   "cinder-bot": {
@@ -1037,7 +1037,7 @@
   },
   "cutebot": {
    "first_seen": "2026-09-27",
-   "last_online": "2026-10-30",
+   "last_online": "2026-10-31",
    "username": "CuteBot"
   },
   "dagfish": {
@@ -2197,7 +2197,7 @@
   },
   "lepbot": {
    "first_seen": "2026-10-20",
-   "last_online": "2026-10-28",
+   "last_online": "2026-10-31",
    "username": "lepbot"
   },
   "levymaia": {
@@ -2694,6 +2694,11 @@
    "first_seen": "2026-10-29",
    "last_online": "2026-10-29",
    "username": "NARC_ENGINE"
+  },
+  "ndashka_bot": {
+   "first_seen": "2026-10-31",
+   "last_online": "2026-10-31",
+   "username": "ndashka_bot"
   },
   "nebubot": {
    "first_seen": "2026-09-27",
@@ -4482,7 +4487,7 @@
   }
  },
  "online": {
-  "checked_at": "2026-10-31T11:43:10Z",
+  "checked_at": "2026-10-31T12:43:09Z",
   "ids": [
    "aaronsengine",
    "abcd_engine",
@@ -4511,6 +4516,7 @@
    "athena-chessbot",
    "axiom_bot",
    "baby_eubos",
+   "batyarapro",
    "bbc_bot",
    "becela9_kpebetka",
    "berkbot",
@@ -4518,6 +4524,7 @@
    "bernstein-4ply",
    "bfiedler-bot",
    "bitbitbot",
+   "black-bishop-kh",
    "bluemoonbot",
    "blujay-bot",
    "bobby_pcolla",
@@ -4525,6 +4532,7 @@
    "bot5551",
    "bot64jaques",
    "bot_adario",
+   "botkingteam33",
    "bottios",
    "bravobot",
    "bretemabot",
@@ -4540,7 +4548,6 @@
    "catriever",
    "chamberiajedrez",
    "charibot",
-   "chessgeniusbot",
    "chessiverse_ethan",
    "chessiverse_luc",
    "chessiverse_pawnza",
@@ -4550,7 +4557,9 @@
    "cheszter",
    "chill4ce",
    "chronicgambler",
+   "chrusty",
    "cinder-bot",
+   "classic_bot-v2",
    "classical-leela",
    "claude_bot",
    "clessy-bot",
@@ -4563,6 +4572,7 @@
    "croco_bot",
    "croco_little_bot",
    "crocodile_bot",
+   "cutebot",
    "dala-1100",
    "dala-1300",
    "dala-1600",
@@ -4577,7 +4587,6 @@
    "deepsquare-ai",
    "demen100ns-bot",
    "demolito_l1",
-   "demolito_l2",
    "demolito_l3",
    "demolito_l4",
    "dravox",
@@ -4617,6 +4626,7 @@
    "gnu4u",
    "gochess6767",
    "goldfish-engine",
+   "goopis",
    "grail-bot",
    "grapechessengine",
    "grindfish",
@@ -4631,6 +4641,7 @@
    "icarus-bot",
    "ilovecatgirl",
    "incipit_bot",
+   "ironfang",
    "is_boss",
    "iskelt-corax",
    "jangine",
@@ -4658,7 +4669,6 @@
    "laura-bot",
    "leelaalien",
    "leelaanyodds",
-   "leelajester",
    "leelaknightodds",
    "leelapieceodds",
    "leelaqueenforknight",
@@ -4666,6 +4676,7 @@
    "leelarogue",
    "leelarookodds",
    "leelatroll",
+   "lepbot",
    "levymaia",
    "likeawizard-bot",
    "lilitbot",
@@ -4701,7 +4712,6 @@
    "matmoi",
    "mayflyengine",
    "mcdonalds1955",
-   "mdbot",
    "melsh_bot",
    "milanbot",
    "mimirbot",
@@ -4711,12 +4721,14 @@
    "morabandbot",
    "mostlyhuman1900",
    "mrtonnerre",
+   "munzurbot2",
    "musashi-thebot",
-   "my-bot",
    "mychessjava",
    "nanozeroorg",
+   "ndashka_bot",
    "neurosocute",
    "nexastrat",
+   "nexosdefos",
    "nibbleknight",
    "nice_bot",
    "nichteliasbot",
@@ -4724,6 +4736,7 @@
    "nickl1bot",
    "nilatacbot",
    "nnueandthevoices",
+   "noabot",
    "notropis",
    "o-rei-cx",
    "odonata-bot",
@@ -4756,7 +4769,6 @@
    "psion-chess",
    "puisne",
    "pzchessbot",
-   "rachl1",
    "radianceengine",
    "randmaster_bot",
    "randmaster_egtb",
@@ -4797,12 +4809,10 @@
    "slowmate_bot",
    "smasher23445",
    "snaky-bot",
-   "sparkchessengine",
    "springerbot",
    "squarefish-900",
    "sseh-c",
    "stickshark99",
-   "stockcotsfish",
    "stockdory",
    "stockfail",
    "stockfishlowdepth",
@@ -4821,6 +4831,7 @@
    "thechessblazer",
    "thunfisch-bot",
    "tigrament",
+   "tikifish",
    "tilapiabot",
    "to299d",
    "togaii",
