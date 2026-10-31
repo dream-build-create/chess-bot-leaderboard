@@ -2657,7 +2657,7 @@
   },
   "musashi-thebot": {
    "first_seen": "2026-09-28",
-   "last_online": "2026-10-30",
+   "last_online": "2026-10-31",
    "username": "Musashi-thebot"
   },
   "mxnet-gamemaster": {
@@ -2824,6 +2824,11 @@
    "first_seen": "2026-09-27",
    "last_online": "2026-10-29",
    "username": "Noel-bot"
+  },
+  "nohopeforman": {
+   "first_seen": "2026-10-31",
+   "last_online": "2026-10-31",
+   "username": "NoHopeForMan"
   },
   "notropis": {
    "first_seen": "2026-09-27",
@@ -3077,7 +3082,7 @@
   },
   "ponytail_engine": {
    "first_seen": "2026-10-28",
-   "last_online": "2026-10-29",
+   "last_online": "2026-10-31",
    "username": "Ponytail_engine"
   },
   "potential_engine": {
@@ -4462,10 +4467,9 @@
   }
  },
  "online": {
-  "checked_at": "2026-10-31T05:43:09Z",
+  "checked_at": "2026-10-31T06:14:46Z",
   "ids": [
    "aathena101",
-   "aatk_vanguardx",
    "abcd_engine",
    "aconcaguabot",
    "aetherbot",
@@ -4491,7 +4495,6 @@
    "arroccobot",
    "artidigm_research",
    "ashnostromo",
-   "ask-aatk-bot",
    "athena-chessbot",
    "axiom_bot",
    "baby_eubos",
@@ -4559,6 +4562,7 @@
    "deepfish26",
    "deepsquare-ai",
    "demen100ns-bot",
+   "demolito_l1",
    "demolito_l2",
    "demolito_l6",
    "dravox",
@@ -4696,6 +4700,7 @@
    "mostlyhuman1900",
    "mrtonnerre",
    "munzurbot2",
+   "musashi-thebot",
    "mychessjava",
    "nanozeroorg",
    "neryba",
@@ -4711,6 +4716,7 @@
    "nittedal",
    "nnueandthevoices",
    "noabot",
+   "nohopeforman",
    "notropis",
    "o-rei-cx",
    "odonata-bot",
@@ -4735,6 +4741,7 @@
    "piglet_engine",
    "plumboi",
    "plumbot",
+   "ponytail_engine",
    "princhess_policy_bot",
    "prokopakop",
    "prosperobot",
@@ -4790,14 +4797,12 @@
    "stockfishlowdepth",
    "stockpapagei",
    "stormbot",
-   "studyloversz-bot",
    "stupidfishbotbydscs",
    "sunfish-engine",
    "sunfish-nnue-engine",
    "sxphia",
    "sybaibot",
    "sybbot",
-   "tadbot",
    "takticprochess",
    "talosbot",
    "tempocore",
