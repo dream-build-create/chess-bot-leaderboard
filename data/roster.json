@@ -1127,7 +1127,7 @@
   },
   "deepfish26": {
    "first_seen": "2026-10-29",
-   "last_online": "2026-10-30",
+   "last_online": "2026-10-31",
    "username": "DeepFish26"
   },
   "deepsquare-ai": {
@@ -1152,12 +1152,12 @@
   },
   "demolito_l3": {
    "first_seen": "2026-09-27",
-   "last_online": "2026-10-30",
+   "last_online": "2026-10-31",
    "username": "Demolito_L3"
   },
   "demolito_l4": {
    "first_seen": "2026-09-27",
-   "last_online": "2026-10-30",
+   "last_online": "2026-10-31",
    "username": "Demolito_L4"
   },
   "demolito_l5": {
@@ -1329,6 +1329,11 @@
    "first_seen": "2026-09-28",
    "last_online": "2026-10-31",
    "username": "EpimetheusBot"
+  },
+  "epo_5_chess_engine": {
+   "first_seen": "2026-10-31",
+   "last_online": "2026-10-31",
+   "username": "Epo_5_Chess_Engine"
   },
   "epoch512": {
    "first_seen": "2026-10-12",
@@ -2477,7 +2482,7 @@
   },
   "maximaengine": {
    "first_seen": "2026-10-23",
-   "last_online": "2026-10-30",
+   "last_online": "2026-10-31",
    "username": "MaximaEngine"
   },
   "maxthedog-esp32": {
@@ -3885,6 +3890,11 @@
    "last_online": "2026-10-30",
    "username": "SykoraBot"
   },
+  "tadbot": {
+   "first_seen": "2026-10-31",
+   "last_online": "2026-10-31",
+   "username": "TadBot"
+  },
   "takticprochess": {
    "first_seen": "2026-09-27",
    "last_online": "2026-10-31",
@@ -4452,7 +4462,7 @@
   }
  },
  "online": {
-  "checked_at": "2026-10-31T00:43:10Z",
+  "checked_at": "2026-10-31T01:43:11Z",
   "ids": [
    "aatk_vanguardx",
    "abcd_engine",
@@ -4514,12 +4524,10 @@
    "catriever",
    "charibot",
    "chess_set_manager",
-   "chessai4f",
    "chessiverse_ethan",
    "chessiverse_luc",
    "chessiverse_pawnza",
    "chessiverse_raak",
-   "chessnoobcomp",
    "chesstango_bot",
    "cheszter",
    "chill4ce",
@@ -4548,9 +4556,11 @@
    "darkonweakbot",
    "debzero",
    "deepbecky",
+   "deepfish26",
    "deepsquare-ai",
    "demen100ns-bot",
-   "demolito_l1",
+   "demolito_l3",
+   "demolito_l4",
    "demolito_l6",
    "dravox",
    "drawfish-reborn",
@@ -4568,6 +4578,7 @@
    "enginefromscratch",
    "entebot",
    "epimetheusbot",
+   "epo_5_chess_engine",
    "eubos",
    "falconengine",
    "fathzer-jchess",
@@ -4579,7 +4590,6 @@
    "flower-queen",
    "flybrainchess",
    "fourcuriouspandas",
-   "fpga-chess",
    "fschess-engine",
    "funcomp",
    "gambittai",
@@ -4605,7 +4615,6 @@
    "hustler_2mb",
    "hustler_5mb",
    "hyperopic",
-   "ia_horus",
    "icarus-bot",
    "ilovecatgirl",
    "incipit_bot",
@@ -4678,6 +4687,7 @@
    "mate-in-twenty",
    "mate1-bot",
    "matmoi",
+   "maximaengine",
    "mayflyengine",
    "mcdonalds1955",
    "mdbot",
@@ -4784,7 +4794,6 @@
    "stockfail",
    "stockfishlowdepth",
    "stockpapagei",
-   "stormbot",
    "studyloversz-bot",
    "stupidfishbotbydscs",
    "sunfish-engine",
@@ -4792,6 +4801,7 @@
    "sxphia",
    "sybaibot",
    "sybbot",
+   "tadbot",
    "takticprochess",
    "talosbot",
    "tempocore",
