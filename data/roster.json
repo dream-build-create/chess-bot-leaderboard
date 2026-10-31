@@ -1042,7 +1042,7 @@
   },
   "cruelken": {
    "first_seen": "2026-10-01",
-   "last_online": "2026-10-29",
+   "last_online": "2026-10-31",
    "username": "CruelKen"
   },
   "cutebot": {
@@ -1577,7 +1577,7 @@
   },
   "goldinho1bot": {
    "first_seen": "2026-09-29",
-   "last_online": "2026-10-30",
+   "last_online": "2026-10-31",
    "username": "goldinho1bot"
   },
   "goopis": {
@@ -2332,7 +2332,7 @@
   },
   "magic11bot_coach": {
    "first_seen": "2026-10-01",
-   "last_online": "2026-10-30",
+   "last_online": "2026-10-31",
    "username": "Magic11bot_Coach"
   },
   "maia1": {
@@ -2872,7 +2872,7 @@
   },
   "o_gg_o": {
    "first_seen": "2026-10-23",
-   "last_online": "2026-10-23",
+   "last_online": "2026-10-31",
    "username": "O_gg_O"
   },
   "odonata-bot": {
@@ -3122,7 +3122,7 @@
   },
   "power_stone": {
    "first_seen": "2026-10-30",
-   "last_online": "2026-10-30",
+   "last_online": "2026-10-31",
    "username": "Power_Stone"
   },
   "prawn_bot": {
@@ -4512,9 +4512,10 @@
   }
  },
  "online": {
-  "checked_at": "2026-10-31T22:43:09Z",
+  "checked_at": "2026-10-31T23:43:11Z",
   "ids": [
    "aatk_vanguardx",
+   "abcd_engine",
    "aconcaguabot",
    "aetherbot",
    "aggressivestockfish",
@@ -4555,7 +4556,6 @@
    "bot5551",
    "bot64jaques",
    "bot_adario",
-   "bot_hik7ur06",
    "bottios",
    "botyon",
    "bravobot",
@@ -4572,7 +4572,7 @@
    "catriever",
    "chamberiajedrez",
    "charibot",
-   "chessgeniusbot",
+   "chess_set_manager",
    "chessiverse_ethan",
    "chessiverse_luc",
    "chessiverse_pawnza",
@@ -4596,6 +4596,8 @@
    "croco_bot",
    "croco_little_bot",
    "crocodile_bot",
+   "cruelken",
+   "dagfish",
    "dala-1100",
    "dala-1300",
    "dala-1600",
@@ -4642,6 +4644,7 @@
    "fourcuriouspandas",
    "fschess-engine",
    "funcomp",
+   "gambitonlybot",
    "gambittai",
    "garbobot",
    "geotsibot",
@@ -4650,7 +4653,7 @@
    "gnu4u",
    "gochess6767",
    "goldfish-engine",
-   "goopis",
+   "goldinho1bot",
    "grail-bot",
    "grindfish",
    "groshboss",
@@ -4713,6 +4716,7 @@
    "lynx_bot",
    "mac-bot",
    "mackbot",
+   "magic11bot_coach",
    "maia1",
    "maia2200_10n",
    "maia3-79m_1000",
@@ -4735,7 +4739,6 @@
    "mate-in-thirty",
    "mate-in-twenty",
    "mate1-bot",
-   "matemakingmachine",
    "matmoi",
    "maximaengine",
    "mayflyengine",
@@ -4745,6 +4748,7 @@
    "melsh_bot",
    "milanbot",
    "mimirbot",
+   "mind_bot",
    "minopponentmoves",
    "mithandros",
    "mochi_bot",
@@ -4752,12 +4756,11 @@
    "mostlyhuman1900",
    "mrtonnerre",
    "mychessjava",
-   "nanochess6",
    "nanozeroorg",
+   "ndashka_bot",
    "neryba",
    "neurosocute",
    "newchessengine-ai",
-   "newtsbot",
    "nexastrat",
    "nexosdefos",
    "nibbleknight",
@@ -4769,6 +4772,7 @@
    "noabot",
    "notropis",
    "o-rei-cx",
+   "o_gg_o",
    "odonata-bot",
    "onezenpanda",
    "openinggenie2000",
@@ -4792,6 +4796,7 @@
    "playmarius",
    "plumboi",
    "plumbot",
+   "power_stone",
    "princhess_policy_bot",
    "prokopakop",
    "prosperobot",
@@ -4804,13 +4809,13 @@
    "ravenengine",
    "ray-bot",
    "rdtchessbot",
+   "reality_bot",
    "resolutebot",
    "ribfish-bot",
    "rudim-bot",
    "rustbot2003",
    "ryu-ishigori",
    "sapling-bot",
-   "sara_bot1",
    "sargon-1ply",
    "sargon-3ply",
    "sbnovella",
@@ -4831,7 +4836,6 @@
    "sleepmindengine",
    "slowmate_bot",
    "slychessbot",
-   "smasher23445",
    "snaky-bot",
    "springerbot",
    "spyros1bot",
