@@ -87,7 +87,7 @@
   },
   "ajedrezchamberi": {
    "first_seen": "2026-09-29",
-   "last_online": "2026-10-29",
+   "last_online": "2026-10-31",
    "username": "AjedrezChamberi"
   },
   "alarm2001": {
@@ -707,7 +707,7 @@
   },
   "chamberiajedrez": {
    "first_seen": "2026-09-29",
-   "last_online": "2026-10-29",
+   "last_online": "2026-10-31",
    "username": "ChamberiAjedrez"
   },
   "chaotong_engine": {
@@ -1792,7 +1792,7 @@
   },
   "ironfang": {
    "first_seen": "2026-10-24",
-   "last_online": "2026-10-30",
+   "last_online": "2026-10-31",
    "username": "Ironfang"
   },
   "is_boss": {
@@ -2077,7 +2077,7 @@
   },
   "lantern_bot": {
    "first_seen": "2026-10-15",
-   "last_online": "2026-10-30",
+   "last_online": "2026-10-31",
    "username": "Lantern_BOT"
   },
   "larryz-alterego": {
@@ -2792,7 +2792,7 @@
   },
   "nickl1bot": {
    "first_seen": "2026-10-11",
-   "last_online": "2026-10-29",
+   "last_online": "2026-10-31",
    "username": "nickl1bot"
   },
   "nightfall_dev": {
@@ -3287,7 +3287,7 @@
   },
   "reaper1bot": {
    "first_seen": "2026-10-10",
-   "last_online": "2026-10-30",
+   "last_online": "2026-10-31",
    "username": "reaper1bot"
   },
   "redbeantree": {
@@ -3652,7 +3652,7 @@
   },
   "smasher23445": {
    "first_seen": "2026-10-29",
-   "last_online": "2026-10-30",
+   "last_online": "2026-10-31",
    "username": "Smasher23445"
   },
   "snaky-bot": {
@@ -4482,15 +4482,15 @@
   }
  },
  "online": {
-  "checked_at": "2026-10-31T08:43:10Z",
+  "checked_at": "2026-10-31T09:43:11Z",
   "ids": [
-   "aathena101",
    "abcd_engine",
    "aconcaguabot",
    "aetherbot",
    "aggressivestockfish",
    "ai-con",
    "ailedbot",
+   "ajedrezchamberi",
    "alexandrya",
    "aliceshiro",
    "alieknek",
@@ -4516,7 +4516,6 @@
    "banerot",
    "batyarapro",
    "bbc_bot",
-   "becela9_kpebetka",
    "berkbot",
    "bernstein-2ply",
    "bernstein-4ply",
@@ -4542,6 +4541,7 @@
    "casanchess-nnue",
    "catnail",
    "catriever",
+   "chamberiajedrez",
    "charibot",
    "chess_set_manager",
    "chessiverse_ethan",
@@ -4639,9 +4639,11 @@
    "icarus-bot",
    "ilovecatgirl",
    "incipit_bot",
+   "ironfang",
    "is_boss",
    "iskelt-corax",
    "jangine",
+   "jaxakos13_bot",
    "jibbby",
    "joan_clone",
    "joey_chessengine",
@@ -4662,6 +4664,7 @@
    "kopyto_dev",
    "kulubot",
    "lamprook",
+   "lantern_bot",
    "larryz-alterego",
    "latrunculi-bot",
    "laura-bot",
@@ -4710,6 +4713,7 @@
    "mate-in-twenty",
    "mate1-bot",
    "matmoi",
+   "mayflyengine",
    "mcdonalds1955",
    "mdbot",
    "mega-noob-bot",
@@ -4728,13 +4732,13 @@
    "mychessjava",
    "nanozeroorg",
    "neurosocute",
-   "newchessengine-ai",
    "nexastrat",
    "nexosdefos",
    "nibbleknight",
    "nice_bot",
    "nichteliasbot",
    "nickdrohan",
+   "nickl1bot",
    "nilatacbot",
    "nnueandthevoices",
    "noabot",
@@ -4746,7 +4750,6 @@
    "openinggenie2000",
    "openingsbot",
    "overfitted",
-   "oxybullet",
    "pangubot",
    "panic-fish",
    "partner3615diago",
@@ -4754,7 +4757,6 @@
    "patzerbot135",
    "pawn_git",
    "peacemaker-0_0",
-   "peachfruit",
    "perl-gigachess",
    "philidor-142m",
    "picosargon",
@@ -4767,7 +4769,6 @@
    "princhess_policy_bot",
    "prokopakop",
    "prosperobot",
-   "protyv2",
    "psion-chess",
    "puisne",
    "pzchessbot",
@@ -4781,6 +4782,7 @@
    "ravenengine",
    "ray-bot",
    "rdtchessbot",
+   "reaper1bot",
    "resolutebot",
    "ribfish-bot",
    "rudim-bot",
@@ -4809,6 +4811,7 @@
    "sleepish",
    "sleepmindengine",
    "slowmate_bot",
+   "smasher23445",
    "snaky-bot",
    "springerbot",
    "squarefish-900",
@@ -4850,7 +4853,6 @@
    "turochamp-1ply",
    "turochamp-2ply",
    "twosillypandas",
-   "ultrabrick",
    "unimark",
    "ursus_bot",
    "usunfish",
