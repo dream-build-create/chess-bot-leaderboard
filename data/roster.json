@@ -487,7 +487,7 @@
   },
   "bot-o-tron": {
    "first_seen": "2026-09-28",
-   "last_online": "2026-10-29",
+   "last_online": "2026-10-31",
    "username": "bot-o-tron"
   },
   "bot1e": {
@@ -507,7 +507,7 @@
   },
   "bot64jaques": {
    "first_seen": "2026-09-27",
-   "last_online": "2026-10-30",
+   "last_online": "2026-10-31",
    "username": "bot64jaques"
   },
   "bot913": {
@@ -1445,6 +1445,11 @@
    "last_online": "2026-10-31",
    "username": "FlyBrainChess"
   },
+  "forktellbot": {
+   "first_seen": "2026-10-31",
+   "last_online": "2026-10-31",
+   "username": "ForktellBot"
+  },
   "fourcuriouspandas": {
    "first_seen": "2026-10-09",
    "last_online": "2026-10-31",
@@ -1997,7 +2002,7 @@
   },
   "kittyenginev5": {
    "first_seen": "2026-10-20",
-   "last_online": "2026-10-30",
+   "last_online": "2026-10-31",
    "username": "KittyEngineV5"
   },
   "kiwi_cube": {
@@ -3192,7 +3197,7 @@
   },
   "rachl1": {
    "first_seen": "2026-10-06",
-   "last_online": "2026-10-29",
+   "last_online": "2026-10-31",
    "username": "rachl1"
   },
   "racingkingsbot_1": {
@@ -4477,7 +4482,7 @@
   }
  },
  "online": {
-  "checked_at": "2026-10-31T07:43:10Z",
+  "checked_at": "2026-10-31T08:43:10Z",
   "ids": [
    "aathena101",
    "abcd_engine",
@@ -4521,13 +4526,16 @@
    "blujay-bot",
    "bobby_pcolla",
    "bongaclang",
+   "bot-o-tron",
    "bot5551",
+   "bot64jaques",
    "bot_adario",
    "bottios",
    "bretemabot",
    "bubblebot2",
    "byte-knight",
    "bytefish",
+   "c-t-r-l",
    "c0kval",
    "caiporabot",
    "cannotcheckmateme",
@@ -4592,6 +4600,7 @@
    "enginefromscratch",
    "entebot",
    "epimetheusbot",
+   "epo_5_chess_engine",
    "eubos",
    "falconengine",
    "fathzer-jchess",
@@ -4602,6 +4611,7 @@
    "flounderbot",
    "flower-queen",
    "flybrainchess",
+   "forktellbot",
    "fourcuriouspandas",
    "fschess-engine",
    "funcomp",
@@ -4625,6 +4635,7 @@
    "hustler_1mb",
    "hustler_2mb",
    "hustler_5mb",
+   "hyperopic",
    "icarus-bot",
    "ilovecatgirl",
    "incipit_bot",
@@ -4646,6 +4657,7 @@
    "kestrelstrike",
    "kingzbot",
    "kirinchessbot",
+   "kittyenginev5",
    "koi_engine",
    "kopyto_dev",
    "kulubot",
@@ -4698,6 +4710,7 @@
    "mate-in-twenty",
    "mate1-bot",
    "matmoi",
+   "mcdonalds1955",
    "mdbot",
    "mega-noob-bot",
    "melsh_bot",
@@ -4758,6 +4771,7 @@
    "psion-chess",
    "puisne",
    "pzchessbot",
+   "rachl1",
    "radianceengine",
    "randmaster_bot",
    "randmaster_egtb",
@@ -4805,7 +4819,6 @@
    "stockfail",
    "stockfishlowdepth",
    "stockpapagei",
-   "stormbot",
    "stronggoliath",
    "stupidfishbotbydscs",
    "sunfish-engine",
@@ -4816,6 +4829,7 @@
    "takticprochess",
    "talosbot",
    "tempocore",
+   "tente8x",
    "terconari",
    "thechessblazer",
    "thunfisch-bot",
