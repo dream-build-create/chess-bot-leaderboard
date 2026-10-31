@@ -927,7 +927,7 @@
   },
   "clementyne1": {
    "first_seen": "2026-09-29",
-   "last_online": "2026-10-29",
+   "last_online": "2026-10-31",
    "username": "clementyne1"
   },
   "clessy-bot": {
@@ -3647,7 +3647,7 @@
   },
   "slothcomputer": {
    "first_seen": "2026-09-27",
-   "last_online": "2026-10-29",
+   "last_online": "2026-10-31",
    "username": "SlothComputer"
   },
   "slowmate_bot": {
@@ -4055,6 +4055,11 @@
    "last_online": "2026-10-08",
    "username": "TimeMachine1858"
   },
+  "tinynnue-bot": {
+   "first_seen": "2026-10-31",
+   "last_online": "2026-10-31",
+   "username": "tinyNNUE-Bot"
+  },
   "tm-sovietschool": {
    "first_seen": "2026-09-27",
    "last_online": "2026-10-08",
@@ -4362,7 +4367,7 @@
   },
   "wedge_engine": {
    "first_seen": "2026-10-22",
-   "last_online": "2026-10-30",
+   "last_online": "2026-10-31",
    "username": "wedge_engine"
   },
   "weeebot": {
@@ -4497,7 +4502,7 @@
   }
  },
  "online": {
-  "checked_at": "2026-10-31T18:43:25Z",
+  "checked_at": "2026-10-31T19:43:10Z",
   "ids": [
    "aaronsengine",
    "aatk_vanguardx",
@@ -4510,7 +4515,6 @@
    "alexandrya",
    "aliceshiro",
    "alieknek",
-   "alienplays",
    "alliethechessbot",
    "angela_eng",
    "anna-bot",
@@ -4525,6 +4529,7 @@
    "ask-aatk-bot",
    "athena-chessbot",
    "axiom_bot",
+   "baby_eubos",
    "banerot",
    "bbc_bot",
    "becela9_kpebetka",
@@ -4538,7 +4543,6 @@
    "blujay-bot",
    "bobby_pcolla",
    "bongaclang",
-   "borkatower",
    "bot5551",
    "bot64jaques",
    "bot_adario",
@@ -4550,6 +4554,7 @@
    "byte-knight",
    "bytefish",
    "c-t-r-l",
+   "c0kval",
    "caiporabot",
    "cannotcheckmateme",
    "casanchess-nnue",
@@ -4570,6 +4575,7 @@
    "cinder-bot",
    "classical-leela",
    "claude_bot",
+   "clementyne1",
    "clessy-bot",
    "clrsrc_lc0",
    "coda_bot",
@@ -4581,7 +4587,6 @@
    "croco_bot",
    "croco_little_bot",
    "crocodile_bot",
-   "dagfish",
    "dala-1100",
    "dala-1300",
    "dala-1600",
@@ -4652,11 +4657,11 @@
    "icarus-bot",
    "ilovecatgirl",
    "incipit_bot",
-   "ironfang",
    "is_boss",
    "iskelt-corax",
    "jangine",
    "jaxakos13_bot",
+   "jembok",
    "jibbby",
    "joan_clone",
    "joey_chessengine",
@@ -4726,6 +4731,7 @@
    "matmoi",
    "mayflyengine",
    "mcdonalds1955",
+   "mdbot",
    "mega-noob-bot",
    "melsh_bot",
    "milanbot",
@@ -4759,6 +4765,7 @@
    "openinggenie2000",
    "openingsbot",
    "overfitted",
+   "oxybullet",
    "pangubot",
    "panic-fish",
    "partner3615diago",
@@ -4796,7 +4803,6 @@
    "rustbot2003",
    "ryu-ishigori",
    "sapling-bot",
-   "sara_bot1",
    "sargon-1ply",
    "sargon-3ply",
    "sbnovella",
@@ -4814,7 +4820,9 @@
    "slate-engine",
    "sleepish",
    "sleepmindengine",
+   "slothcomputer",
    "slowmate_bot",
+   "smasher23445",
    "snaky-bot",
    "springerbot",
    "squarefish-900",
@@ -4834,6 +4842,7 @@
    "sybaibot",
    "takticprochess",
    "talosbot",
+   "tempocore",
    "tente8x",
    "terconari",
    "thechessblazer",
@@ -4842,6 +4851,7 @@
    "tigrament",
    "tikifish",
    "tilapiabot",
+   "tinynnue-bot",
    "to299d",
    "togaii",
    "topasbot",
@@ -4864,8 +4874,8 @@
    "uundrstnd",
    "uxugin-bot",
    "vadbot",
+   "vanibot",
    "variantsbot",
-   "vic98lg",
    "vicentlittle",
    "vietnamesecoffee",
    "violentstockfish",
@@ -4874,6 +4884,7 @@
    "vortexaurafarm",
    "waldemar-the-elf",
    "walpurti",
+   "wedge_engine",
    "weiawaga",
    "worstfish",
    "z-o_aspenlabs",
