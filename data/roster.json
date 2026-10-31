@@ -2667,7 +2667,7 @@
   },
   "my-bot": {
    "first_seen": "2026-10-03",
-   "last_online": "2026-10-21",
+   "last_online": "2026-10-31",
    "username": "MY-BOT"
   },
   "mychessjava": {
@@ -3815,6 +3815,11 @@
    "last_online": "2026-10-26",
    "username": "StreamerVSChat"
   },
+  "stronggoliath": {
+   "first_seen": "2026-10-31",
+   "last_online": "2026-10-31",
+   "username": "Stronggoliath"
+  },
   "studyloversz-bot": {
    "first_seen": "2026-09-27",
    "last_online": "2026-10-31",
@@ -4467,7 +4472,7 @@
   }
  },
  "online": {
-  "checked_at": "2026-10-31T06:14:46Z",
+  "checked_at": "2026-10-31T06:43:10Z",
   "ids": [
    "aathena101",
    "abcd_engine",
@@ -4531,6 +4536,7 @@
    "chessiverse_luc",
    "chessiverse_pawnza",
    "chessiverse_raak",
+   "chessnoobcomp",
    "chesstango_bot",
    "cheszter",
    "chill4ce",
@@ -4701,9 +4707,9 @@
    "mrtonnerre",
    "munzurbot2",
    "musashi-thebot",
+   "my-bot",
    "mychessjava",
    "nanozeroorg",
-   "neryba",
    "neurosocute",
    "newchessengine-ai",
    "nexastrat",
@@ -4739,6 +4745,7 @@
    "piebot",
    "pierreai",
    "piglet_engine",
+   "playmarius",
    "plumboi",
    "plumbot",
    "ponytail_engine",
@@ -4797,6 +4804,7 @@
    "stockfishlowdepth",
    "stockpapagei",
    "stormbot",
+   "stronggoliath",
    "stupidfishbotbydscs",
    "sunfish-engine",
    "sunfish-nnue-engine",
