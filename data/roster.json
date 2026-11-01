@@ -807,7 +807,7 @@
   },
   "chessai4f": {
    "first_seen": "2026-10-21",
-   "last_online": "2026-10-31",
+   "last_online": "2026-11-01",
    "username": "ChessAI4F"
   },
   "chessatronbot": {
@@ -837,7 +837,7 @@
   },
   "chessgeniusbot": {
    "first_seen": "2026-10-02",
-   "last_online": "2026-10-31",
+   "last_online": "2026-11-01",
    "username": "ChessGeniusBot"
   },
   "chessiverse_ethan": {
@@ -2512,7 +2512,7 @@
   },
   "matthewcarven": {
    "first_seen": "2026-10-14",
-   "last_online": "2026-10-30",
+   "last_online": "2026-11-01",
    "username": "matthewcarven"
   },
   "maximaengine": {
@@ -2687,7 +2687,7 @@
   },
   "munzurbot2": {
    "first_seen": "2026-10-30",
-   "last_online": "2026-10-31",
+   "last_online": "2026-11-01",
    "username": "MunzurBOT2"
   },
   "musashi-thebot": {
@@ -4137,7 +4137,7 @@
   },
   "trainingbuddy": {
    "first_seen": "2026-10-28",
-   "last_online": "2026-10-30",
+   "last_online": "2026-11-01",
    "username": "TrainingBuddy"
   },
   "trenerhetman": {
@@ -4532,9 +4532,8 @@
   }
  },
  "online": {
-  "checked_at": "2026-11-01T04:43:11Z",
+  "checked_at": "2026-11-01T05:43:09Z",
   "ids": [
-   "aatk_vanguardx",
    "abcd_engine",
    "aconcaguabot",
    "aetherbot",
@@ -4556,18 +4555,15 @@
    "arkiplayschess",
    "arroccobot",
    "artidigm_research",
-   "ask-aatk-bot",
    "athena-chessbot",
    "axiom_bot",
    "baby_eubos",
-   "battlebornthe1st",
    "bbc_bot",
    "becela9_kpebetka",
    "berkbot",
    "bernstein-2ply",
    "bernstein-4ply",
    "bfiedler-bot",
-   "bit-fish8",
    "bitbitbot",
    "bluemoonbot",
    "blujay-bot",
@@ -4591,6 +4587,8 @@
    "catriever",
    "charibot",
    "chess_set_manager",
+   "chessai4f",
+   "chessgeniusbot",
    "chessiverse_ethan",
    "chessiverse_luc",
    "chessiverse_pawnza",
@@ -4601,6 +4599,7 @@
    "chill4ce",
    "chronicgambler",
    "cinder-bot",
+   "classic_bot-v2",
    "classical-leela",
    "claude_bot",
    "clessy-bot",
@@ -4631,7 +4630,6 @@
    "demolito_l2",
    "demolito_l3",
    "demolito_l4",
-   "dragoodle",
    "dravox",
    "drawfish-reborn",
    "drewschessmachine",
@@ -4665,7 +4663,6 @@
    "funcomp",
    "gambittai",
    "garbobot",
-   "genesis1bot",
    "georgii_ai",
    "geotsibot",
    "ghidorah_x",
@@ -4682,7 +4679,6 @@
    "guofish",
    "hackerchessbot",
    "halcyonbot",
-   "hashcake1",
    "hiusbot",
    "huginn_bot",
    "hummus-bot",
@@ -4765,6 +4761,7 @@
    "mate-in-twenty",
    "mate1-bot",
    "matmoi",
+   "matthewcarven",
    "maximaengine",
    "mayflyengine",
    "mcdonalds1955",
@@ -4780,6 +4777,7 @@
    "morabandbot",
    "mostlyhuman1900",
    "mrtonnerre",
+   "munzurbot2",
    "mychessjava",
    "nanozeroorg",
    "ndashka_bot",
@@ -4817,7 +4815,6 @@
    "piebot",
    "pierreai",
    "piglet_engine",
-   "playmarius",
    "plumboi",
    "plumbot",
    "power_stone",
@@ -4861,8 +4858,8 @@
    "sleepish",
    "sleepmindengine",
    "slowmate_bot",
+   "smasher23445",
    "snaky-bot",
-   "sparkchessengine",
    "springerbot",
    "squarefish-900",
    "sseh-c",
@@ -4871,7 +4868,6 @@
    "stockfail",
    "stockpapagei",
    "stronggoliath",
-   "studyloversz-bot",
    "stupidfishbotbydscs",
    "sunfish-engine",
    "sunfish-nnue-engine",
@@ -4887,11 +4883,13 @@
    "throrbjorn",
    "thunfisch-bot",
    "tigrament",
+   "tikifish",
    "tilapiabot",
    "to299d",
    "togaii",
    "topasbot",
    "trainer-bot",
+   "trainingbuddy",
    "trenerhetman",
    "trinculobot",
    "troutbot",
