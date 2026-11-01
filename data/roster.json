@@ -117,7 +117,7 @@
   },
   "alienplays": {
    "first_seen": "2026-10-28",
-   "last_online": "2026-10-31",
+   "last_online": "2026-11-01",
    "username": "AlienPlays"
   },
   "alliethechessbot": {
@@ -402,7 +402,7 @@
   },
   "beyondheliosai": {
    "first_seen": "2026-10-27",
-   "last_online": "2026-10-30",
+   "last_online": "2026-11-01",
    "username": "BeyondHeliosAI"
   },
   "bfiedler-bot": {
@@ -492,7 +492,7 @@
   },
   "borkatower": {
    "first_seen": "2026-09-27",
-   "last_online": "2026-10-31",
+   "last_online": "2026-11-01",
    "username": "BorkaTower"
   },
   "bot-o-tron": {
@@ -802,7 +802,7 @@
   },
   "chess_know": {
    "first_seen": "2026-10-17",
-   "last_online": "2026-10-30",
+   "last_online": "2026-11-01",
    "username": "chess_know"
   },
   "chess_set_manager": {
@@ -1827,7 +1827,7 @@
   },
   "ironfang": {
    "first_seen": "2026-10-24",
-   "last_online": "2026-10-31",
+   "last_online": "2026-11-01",
    "username": "Ironfang"
   },
   "is_boss": {
@@ -3277,7 +3277,7 @@
   },
   "rascal1": {
    "first_seen": "2026-10-09",
-   "last_online": "2026-10-28",
+   "last_online": "2026-11-01",
    "username": "rascal1"
   },
   "raspfish": {
@@ -3737,7 +3737,7 @@
   },
   "solobot": {
    "first_seen": "2026-09-28",
-   "last_online": "2026-10-30",
+   "last_online": "2026-11-01",
    "username": "SoloBot"
   },
   "solsticeengine": {
@@ -3977,7 +3977,7 @@
   },
   "tallikebot": {
    "first_seen": "2026-10-17",
-   "last_online": "2026-10-30",
+   "last_online": "2026-11-01",
    "username": "tallikebot"
   },
   "talosbot": {
@@ -4062,7 +4062,7 @@
   },
   "thomengine": {
    "first_seen": "2026-09-30",
-   "last_online": "2026-10-30",
+   "last_online": "2026-11-01",
    "username": "ThomEngine"
   },
   "throrbjorn": {
@@ -4547,7 +4547,7 @@
   }
  },
  "online": {
-  "checked_at": "2026-11-01T11:43:09Z",
+  "checked_at": "2026-11-01T12:43:10Z",
   "ids": [
    "aaronsengine",
    "aatk_vanguardx",
@@ -4561,6 +4561,7 @@
    "alexandrya",
    "aliceshiro",
    "alieknek",
+   "alienplays",
    "alliethechessbot",
    "angela_eng",
    "anna-bot",
@@ -4583,6 +4584,7 @@
    "berkbot",
    "bernstein-2ply",
    "bernstein-4ply",
+   "beyondheliosai",
    "bfiedler-bot",
    "bitbitbot",
    "black-bishop-kh",
@@ -4590,6 +4592,7 @@
    "blujay-bot",
    "bobby_pcolla",
    "bongaclang",
+   "borkatower",
    "bot5551",
    "bot64jaques",
    "bot_adario",
@@ -4599,7 +4602,6 @@
    "bubblebot2",
    "byte-knight",
    "c-t-r-l",
-   "c0kval",
    "caiporabot",
    "cannotcheckmateme",
    "casanchess-nnue",
@@ -4607,6 +4609,7 @@
    "catriever",
    "chamberiajedrez",
    "charibot",
+   "chess_know",
    "chessiverse_ethan",
    "chessiverse_luc",
    "chessiverse_pawnza",
@@ -4682,7 +4685,6 @@
    "funcomp",
    "gambittai",
    "garbobot",
-   "georgii_ai",
    "geotsibot",
    "giffibot",
    "gnu4u",
@@ -4705,8 +4707,8 @@
    "hustler_5mb",
    "hyperopic",
    "icarus-bot",
-   "ilovecatgirl",
    "incipit_bot",
+   "ironfang",
    "is_boss",
    "iskelt-corax",
    "jangine",
@@ -4735,7 +4737,6 @@
    "latrunculi-bot",
    "laura-bot",
    "leelaalien",
-   "leelajester",
    "leelaknightodds",
    "leelapieceodds",
    "leelaqueenforknight",
@@ -4797,8 +4798,10 @@
    "musashi-thebot",
    "mychessjava",
    "nanozeroorg",
+   "ndashka_bot",
    "neurosocute",
    "newchessengine-ai",
+   "newtsbot",
    "nexastrat",
    "nexosdefos",
    "nibbleknight",
@@ -4843,6 +4846,7 @@
    "pzchessbot",
    "queensgambot",
    "radianceengine",
+   "rascal1",
    "ratsu-bot",
    "raven030",
    "ravenengine",
@@ -4880,8 +4884,8 @@
    "sluicing",
    "smasher23445",
    "snaky-bot",
+   "solobot",
    "space_bot",
-   "sparkchessengine",
    "springerbot",
    "squarefish-900",
    "sseh-c",
@@ -4898,15 +4902,18 @@
    "sybaibot",
    "sybbot",
    "takticprochess",
+   "tallikebot",
    "talosbot",
    "tempocore",
    "tente8x",
    "terconari",
    "territorybot",
    "thechessblazer",
+   "thomengine",
    "throrbjorn",
    "thunfisch-bot",
    "tigrament",
+   "tikifish",
    "tilapiabot",
    "to299d",
    "togaii",
@@ -4922,7 +4929,6 @@
    "turochamp-2ply",
    "twosillypandas",
    "unimark",
-   "ursus_bot",
    "usunfish",
    "usunfish-l0",
    "usunfish-l1",
@@ -4936,6 +4942,7 @@
    "vicentlittle",
    "vietnamesecoffee",
    "violentstockfish",
+   "void_bot",
    "vortex_bot",
    "vortexaurafarm",
    "waldemar-the-elf",
