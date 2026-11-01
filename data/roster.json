@@ -2,7 +2,7 @@
  "bots": {
   "aaronsengine": {
    "first_seen": "2026-09-27",
-   "last_online": "2026-10-31",
+   "last_online": "2026-11-01",
    "username": "AaronsEngine"
   },
   "aathena101": {
@@ -87,7 +87,7 @@
   },
   "ajedrezchamberi": {
    "first_seen": "2026-09-29",
-   "last_online": "2026-10-31",
+   "last_online": "2026-11-01",
    "username": "AjedrezChamberi"
   },
   "alarm2001": {
@@ -432,7 +432,7 @@
   },
   "black-bishop-kh": {
    "first_seen": "2026-09-28",
-   "last_online": "2026-10-31",
+   "last_online": "2026-11-01",
    "username": "Black-Bishop-Kh"
   },
   "black-icebot": {
@@ -727,7 +727,7 @@
   },
   "chamberiajedrez": {
    "first_seen": "2026-09-29",
-   "last_online": "2026-10-31",
+   "last_online": "2026-11-01",
    "username": "ChamberiAjedrez"
   },
   "chaotong_engine": {
@@ -2357,7 +2357,7 @@
   },
   "magic11bot_coach": {
    "first_seen": "2026-10-01",
-   "last_online": "2026-10-31",
+   "last_online": "2026-11-01",
    "username": "Magic11bot_Coach"
   },
   "maia1": {
@@ -4015,6 +4015,11 @@
    "last_online": "2026-11-01",
    "username": "Terconari"
   },
+  "territorybot": {
+   "first_seen": "2026-11-01",
+   "last_online": "2026-11-01",
+   "username": "TerritoryBot"
+  },
   "test-z": {
    "first_seen": "2026-10-30",
    "last_online": "2026-10-30",
@@ -4542,8 +4547,9 @@
   }
  },
  "online": {
-  "checked_at": "2026-11-01T09:43:09Z",
+  "checked_at": "2026-11-01T10:43:09Z",
   "ids": [
+   "aaronsengine",
    "aatk_vanguardx",
    "abcd_engine",
    "aconcaguabot",
@@ -4551,6 +4557,7 @@
    "aggressivestockfish",
    "ai-con",
    "ailedbot",
+   "ajedrezchamberi",
    "alexandrya",
    "aliceshiro",
    "alieknek",
@@ -4578,6 +4585,7 @@
    "bernstein-4ply",
    "bfiedler-bot",
    "bitbitbot",
+   "black-bishop-kh",
    "bluemoonbot",
    "blujay-bot",
    "bobby_pcolla",
@@ -4597,13 +4605,13 @@
    "casanchess-nnue",
    "catnail",
    "catriever",
+   "chamberiajedrez",
    "charibot",
    "chess_set_manager",
    "chessiverse_ethan",
    "chessiverse_luc",
    "chessiverse_pawnza",
    "chessiverse_raak",
-   "chessnoobcomp",
    "chesstango_bot",
    "chesstransformerbot",
    "cheszter",
@@ -4722,7 +4730,6 @@
    "kittyenginev5",
    "knightmare_26",
    "koi_engine",
-   "kolmato",
    "kopyto_dev",
    "kulubot",
    "lamprook",
@@ -4751,6 +4758,7 @@
    "lynx_bot",
    "mac-bot",
    "mackbot",
+   "magic11bot_coach",
    "maia1",
    "maia2200_10n",
    "maia3-79m_1000",
@@ -4774,7 +4782,6 @@
    "mate-in-twenty",
    "mate1-bot",
    "matmoi",
-   "matthewcarven",
    "maximaengine",
    "mayflyengine",
    "mdbot",
@@ -4793,6 +4800,7 @@
    "mychessjava",
    "nanozeroorg",
    "ndashka_bot",
+   "neryba",
    "neurosocute",
    "nexastrat",
    "nexosdefos",
@@ -4810,7 +4818,6 @@
    "onezenpanda",
    "openinggenie2000",
    "openingsbot",
-   "oxybullet",
    "pangubot",
    "panic-fish",
    "partner3615diago",
@@ -4849,7 +4856,6 @@
    "rustbot2003",
    "ryu-ishigori",
    "sapling-bot",
-   "sara_bot1",
    "sargon-1ply",
    "sargon-3ply",
    "sbnovella",
@@ -4871,8 +4877,10 @@
    "sleepish",
    "sleepmindengine",
    "slowmate_bot",
+   "sluicing",
    "smasher23445",
    "snaky-bot",
+   "sparkchessengine",
    "springerbot",
    "squarefish-900",
    "sseh-c",
@@ -4893,6 +4901,7 @@
    "tempocore",
    "tente8x",
    "terconari",
+   "territorybot",
    "thechessblazer",
    "throrbjorn",
    "thunfisch-bot",
@@ -4927,7 +4936,6 @@
    "vicentlittle",
    "vietnamesecoffee",
    "violentstockfish",
-   "void_bot",
    "vortex_bot",
    "vortexaurafarm",
    "waldemar-the-elf",
