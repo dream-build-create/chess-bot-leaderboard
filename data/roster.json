@@ -172,7 +172,7 @@
   },
   "anti-bot": {
    "first_seen": "2026-09-27",
-   "last_online": "2026-10-31",
+   "last_online": "2026-11-01",
    "username": "anti-bot"
   },
   "antibotv3-7": {
@@ -187,7 +187,7 @@
   },
   "apexchess-bot": {
    "first_seen": "2026-10-31",
-   "last_online": "2026-10-31",
+   "last_online": "2026-11-01",
    "username": "ApexChess-Bot"
   },
   "aposeij": {
@@ -1632,7 +1632,7 @@
   },
   "guitarfish-engine": {
    "first_seen": "2026-09-28",
-   "last_online": "2026-10-25",
+   "last_online": "2026-11-01",
    "username": "guitarfish-engine"
   },
   "guofish": {
@@ -1717,7 +1717,7 @@
   },
   "hummus-bot": {
    "first_seen": "2026-09-27",
-   "last_online": "2026-10-31",
+   "last_online": "2026-11-01",
    "username": "hummus-bot"
   },
   "hustler_1mb": {
@@ -3360,6 +3360,11 @@
    "last_online": "2026-10-23",
    "username": "Robert_is_Bot"
   },
+  "robodoxadrez": {
+   "first_seen": "2026-11-01",
+   "last_online": "2026-11-01",
+   "username": "RoboDoXadrez"
+  },
   "robotjfischer": {
    "first_seen": "2026-09-29",
    "last_online": "2026-10-29",
@@ -3817,7 +3822,7 @@
   },
   "stockcotsfish": {
    "first_seen": "2026-10-07",
-   "last_online": "2026-10-31",
+   "last_online": "2026-11-01",
    "username": "Stockcotsfish"
   },
   "stockdory": {
@@ -4522,7 +4527,7 @@
   }
  },
  "online": {
-  "checked_at": "2026-11-01T02:43:09Z",
+  "checked_at": "2026-11-01T03:43:10Z",
   "ids": [
    "aatk_vanguardx",
    "abcd_engine",
@@ -4538,7 +4543,9 @@
    "angela_eng",
    "anna-bot",
    "annie_archy",
+   "anti-bot",
    "antibotv3-7",
+   "apexchess-bot",
    "aposeij",
    "approximationbot",
    "arabicannue",
@@ -4550,7 +4557,6 @@
    "axiom_bot",
    "baby_eubos",
    "battlebornthe1st",
-   "batyarapro",
    "bbc_bot",
    "becela9_kpebetka",
    "berkbot",
@@ -4591,7 +4597,6 @@
    "chill4ce",
    "chronicgambler",
    "cinder-bot",
-   "classic_bot-v2",
    "classical-leela",
    "claude_bot",
    "clessy-bot",
@@ -4629,6 +4634,7 @@
    "duchessai",
    "dumbotai",
    "eclipsebot",
+   "edwardkillick",
    "eigenmann-chess",
    "elexunix_chess_bot",
    "ellen_replay",
@@ -4669,6 +4675,7 @@
    "grindfish",
    "groshboss",
    "gryndor",
+   "guitarfish-engine",
    "guofish",
    "hackerchessbot",
    "halcyonbot",
@@ -4676,6 +4683,7 @@
    "hashcake1",
    "hiusbot",
    "huginn_bot",
+   "hummus-bot",
    "hustler_1mb",
    "hustler_2mb",
    "hustler_5mb",
@@ -4759,7 +4767,6 @@
    "mayflyengine",
    "mcdonalds1955",
    "mdbot",
-   "mega-noob-bot",
    "melsh_bot",
    "milanbot",
    "mimirbot",
@@ -4771,14 +4778,12 @@
    "mostlyhuman1900",
    "mrtonnerre",
    "mychessjava",
-   "nanochess6",
    "nanozeroorg",
    "ndashka_bot",
    "neryba",
    "neurosocute",
    "newchessengine-ai",
    "nexastrat",
-   "nexosdefos",
    "nibbleknight",
    "nice_bot",
    "nichteliasbot",
@@ -4829,6 +4834,7 @@
    "rdtchessbot",
    "resolutebot",
    "ribfish-bot",
+   "robodoxadrez",
    "rudim-bot",
    "rustbot2003",
    "ryu-ishigori",
@@ -4860,6 +4866,7 @@
    "squarefish-900",
    "sseh-c",
    "stickshark99",
+   "stockcotsfish",
    "stockfail",
    "stockpapagei",
    "stronggoliath",
@@ -4879,7 +4886,6 @@
    "throrbjorn",
    "thunfisch-bot",
    "tigrament",
-   "tikifish",
    "tilapiabot",
    "to299d",
    "togaii",
@@ -4909,7 +4915,6 @@
    "vicentlittle",
    "vietnamesecoffee",
    "violentstockfish",
-   "void_bot",
    "vortex_bot",
    "vortexaurafarm",
    "waldemar-the-elf",
