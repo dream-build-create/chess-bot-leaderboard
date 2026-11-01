@@ -1147,7 +1147,7 @@
   },
   "deepfish26": {
    "first_seen": "2026-10-29",
-   "last_online": "2026-10-31",
+   "last_online": "2026-11-01",
    "username": "DeepFish26"
   },
   "deepsquare-ai": {
@@ -1500,6 +1500,11 @@
    "last_online": "2026-11-01",
    "username": "FunComp"
   },
+  "future_sight_ai": {
+   "first_seen": "2026-11-01",
+   "last_online": "2026-11-01",
+   "username": "Future_Sight_AI"
+  },
   "galaxy-stellar-bot": {
    "first_seen": "2026-10-22",
    "last_online": "2026-10-30",
@@ -1607,7 +1612,7 @@
   },
   "grapechessengine": {
    "first_seen": "2026-10-25",
-   "last_online": "2026-10-31",
+   "last_online": "2026-11-01",
    "username": "GrapeChessEngine"
   },
   "graphene-64": {
@@ -2047,7 +2052,7 @@
   },
   "knightmare_26": {
    "first_seen": "2026-10-30",
-   "last_online": "2026-10-30",
+   "last_online": "2026-11-01",
    "username": "Knightmare_26"
   },
   "knightowlbot": {
@@ -4537,8 +4542,9 @@
   }
  },
  "online": {
-  "checked_at": "2026-11-01T08:43:10Z",
+  "checked_at": "2026-11-01T09:43:09Z",
   "ids": [
+   "aatk_vanguardx",
    "abcd_engine",
    "aconcaguabot",
    "aetherbot",
@@ -4561,12 +4567,12 @@
    "arkiplayschess",
    "arroccobot",
    "artidigm_research",
+   "ask-aatk-bot",
    "athena-chessbot",
    "axiom_bot",
    "baby_eubos",
    "batyarapro",
    "bbc_bot",
-   "becela9_kpebetka",
    "berkbot",
    "bernstein-2ply",
    "bernstein-4ply",
@@ -4576,7 +4582,6 @@
    "blujay-bot",
    "bobby_pcolla",
    "bongaclang",
-   "bot-win-loh-nick",
    "bot5551",
    "bot64jaques",
    "bot_adario",
@@ -4586,7 +4591,6 @@
    "bubblebot2",
    "byte-knight",
    "bytefish",
-   "c-t-r-l",
    "c0kval",
    "caiporabot",
    "cannotcheckmateme",
@@ -4631,6 +4635,7 @@
    "darkonweakbot",
    "debzero",
    "deepbecky",
+   "deepfish26",
    "deepsquare-ai",
    "demen100ns-bot",
    "demolito_l1",
@@ -4668,6 +4673,7 @@
    "fourcuriouspandas",
    "fschess-engine",
    "funcomp",
+   "future_sight_ai",
    "gambittai",
    "garbobot",
    "georgii_ai",
@@ -4678,6 +4684,7 @@
    "goldfish-engine",
    "goopis",
    "grail-bot",
+   "grapechessengine",
    "grindfish",
    "groshboss",
    "gryndor",
@@ -4713,6 +4720,7 @@
    "kingzbot",
    "kirinchessbot",
    "kittyenginev5",
+   "knightmare_26",
    "koi_engine",
    "kolmato",
    "kopyto_dev",
@@ -4769,7 +4777,6 @@
    "matthewcarven",
    "maximaengine",
    "mayflyengine",
-   "mcdonalds1955",
    "mdbot",
    "mega-noob-bot",
    "melsh_bot",
@@ -4786,13 +4793,9 @@
    "mychessjava",
    "nanozeroorg",
    "ndashka_bot",
-   "neryba",
    "neurosocute",
-   "newchessengine-ai",
-   "newtsbot",
    "nexastrat",
    "nexosdefos",
-   "next_uzbek",
    "nibbleknight",
    "nice_bot",
    "nichteliasbot",
@@ -4800,7 +4803,6 @@
    "nilatacbot",
    "nnueandthevoices",
    "noabot",
-   "nohopeforman",
    "notropis",
    "o-rei-cx",
    "o_gg_o",
@@ -4808,6 +4810,7 @@
    "onezenpanda",
    "openinggenie2000",
    "openingsbot",
+   "oxybullet",
    "pangubot",
    "panic-fish",
    "partner3615diago",
@@ -4877,8 +4880,8 @@
    "stockcotsfish",
    "stockfail",
    "stockpapagei",
-   "stormbot",
    "stronggoliath",
+   "studyloversz-bot",
    "stupidfishbotbydscs",
    "sunfish-engine",
    "sunfish-nnue-engine",
