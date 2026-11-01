@@ -500,6 +500,11 @@
    "last_online": "2026-10-31",
    "username": "bot-o-tron"
   },
+  "bot-win-loh-nick": {
+   "first_seen": "2026-11-01",
+   "last_online": "2026-11-01",
+   "username": "bot-win-loh-nick"
+  },
   "bot1e": {
    "first_seen": "2026-09-27",
    "last_online": "2026-10-21",
@@ -1177,7 +1182,7 @@
   },
   "demolito_l5": {
    "first_seen": "2026-09-27",
-   "last_online": "2026-10-29",
+   "last_online": "2026-11-01",
    "username": "Demolito_L5"
   },
   "demolito_l6": {
@@ -2787,7 +2792,7 @@
   },
   "newtsbot": {
    "first_seen": "2026-09-27",
-   "last_online": "2026-10-31",
+   "last_online": "2026-11-01",
    "username": "NEWTSbot"
   },
   "nexastrat": {
@@ -3492,7 +3497,7 @@
   },
   "sara_bot1": {
    "first_seen": "2026-10-15",
-   "last_online": "2026-10-31",
+   "last_online": "2026-11-01",
    "username": "sAra_bot1"
   },
   "sargon-1ply": {
@@ -3857,7 +3862,7 @@
   },
   "stormbot": {
    "first_seen": "2026-10-30",
-   "last_online": "2026-10-31",
+   "last_online": "2026-11-01",
    "username": "StormBot"
   },
   "straightbot": {
@@ -4532,7 +4537,7 @@
   }
  },
  "online": {
-  "checked_at": "2026-11-01T07:43:08Z",
+  "checked_at": "2026-11-01T08:43:10Z",
   "ids": [
    "abcd_engine",
    "aconcaguabot",
@@ -4549,6 +4554,7 @@
    "annie_archy",
    "anti-bot",
    "antibotv3-7",
+   "apexchess-bot",
    "aposeij",
    "approximationbot",
    "arabicannue",
@@ -4570,6 +4576,7 @@
    "blujay-bot",
    "bobby_pcolla",
    "bongaclang",
+   "bot-win-loh-nick",
    "bot5551",
    "bot64jaques",
    "bot_adario",
@@ -4588,7 +4595,6 @@
    "catriever",
    "charibot",
    "chess_set_manager",
-   "chessgeniusbot",
    "chessiverse_ethan",
    "chessiverse_luc",
    "chessiverse_pawnza",
@@ -4631,6 +4637,7 @@
    "demolito_l2",
    "demolito_l3",
    "demolito_l4",
+   "demolito_l5",
    "dravox",
    "drawfish-reborn",
    "drewschessmachine",
@@ -4642,7 +4649,6 @@
    "elexunix_chess_bot",
    "ellen_replay",
    "elmichess",
-   "endspiel-engine",
    "endspiel-pi",
    "enginefromscratch",
    "entebot",
@@ -4706,12 +4712,12 @@
    "kestrelstrike",
    "kingzbot",
    "kirinchessbot",
+   "kittyenginev5",
    "koi_engine",
    "kolmato",
    "kopyto_dev",
    "kulubot",
    "lamprook",
-   "lantern_bot",
    "larryz-alterego",
    "latrunculi-bot",
    "laura-bot",
@@ -4783,6 +4789,7 @@
    "neryba",
    "neurosocute",
    "newchessengine-ai",
+   "newtsbot",
    "nexastrat",
    "nexosdefos",
    "next_uzbek",
@@ -4801,7 +4808,6 @@
    "onezenpanda",
    "openinggenie2000",
    "openingsbot",
-   "oxybullet",
    "pangubot",
    "panic-fish",
    "partner3615diago",
@@ -4835,12 +4841,12 @@
    "rdtchessbot",
    "resolutebot",
    "ribfish-bot",
-   "robodoxadrez",
    "rockingsuperstars",
    "rudim-bot",
    "rustbot2003",
    "ryu-ishigori",
    "sapling-bot",
+   "sara_bot1",
    "sargon-1ply",
    "sargon-3ply",
    "sbnovella",
@@ -4864,7 +4870,6 @@
    "slowmate_bot",
    "smasher23445",
    "snaky-bot",
-   "sparkchessengine",
    "springerbot",
    "squarefish-900",
    "sseh-c",
@@ -4872,6 +4877,7 @@
    "stockcotsfish",
    "stockfail",
    "stockpapagei",
+   "stormbot",
    "stronggoliath",
    "stupidfishbotbydscs",
    "sunfish-engine",
