@@ -957,7 +957,7 @@
   },
   "cloudnetbot": {
    "first_seen": "2026-09-27",
-   "last_online": "2026-10-17",
+   "last_online": "2026-11-01",
    "username": "CloudNetBot"
   },
   "clrsrc_lc0": {
@@ -1382,7 +1382,7 @@
   },
   "european_chess_bot": {
    "first_seen": "2026-09-27",
-   "last_online": "2026-10-31",
+   "last_online": "2026-11-01",
    "username": "European_Chess_Bot"
   },
   "falconengine": {
@@ -3057,7 +3057,7 @@
   },
   "pi0w": {
    "first_seen": "2026-09-27",
-   "last_online": "2026-10-31",
+   "last_online": "2026-11-01",
    "username": "pi0w"
   },
   "picosargon": {
@@ -3457,7 +3457,7 @@
   },
   "rust-in-pieces": {
    "first_seen": "2026-09-28",
-   "last_online": "2026-10-31",
+   "last_online": "2026-11-01",
    "username": "rust-in-pieces"
   },
   "rustbot2003": {
@@ -3777,7 +3777,7 @@
   },
   "space_bot": {
    "first_seen": "2026-10-05",
-   "last_online": "2026-10-27",
+   "last_online": "2026-11-01",
    "username": "Space_BOT"
   },
   "sparkchessengine": {
@@ -4547,7 +4547,7 @@
   }
  },
  "online": {
-  "checked_at": "2026-11-01T10:43:09Z",
+  "checked_at": "2026-11-01T11:43:09Z",
   "ids": [
    "aaronsengine",
    "aatk_vanguardx",
@@ -4578,8 +4578,8 @@
    "athena-chessbot",
    "axiom_bot",
    "baby_eubos",
-   "batyarapro",
    "bbc_bot",
+   "becela9_kpebetka",
    "berkbot",
    "bernstein-2ply",
    "bernstein-4ply",
@@ -4598,7 +4598,7 @@
    "bretemabot",
    "bubblebot2",
    "byte-knight",
-   "bytefish",
+   "c-t-r-l",
    "c0kval",
    "caiporabot",
    "cannotcheckmateme",
@@ -4607,7 +4607,6 @@
    "catriever",
    "chamberiajedrez",
    "charibot",
-   "chess_set_manager",
    "chessiverse_ethan",
    "chessiverse_luc",
    "chessiverse_pawnza",
@@ -4618,10 +4617,10 @@
    "chill4ce",
    "chronicgambler",
    "cinder-bot",
-   "classic_bot-v2",
    "classical-leela",
    "claude_bot",
    "clessy-bot",
+   "cloudnetbot",
    "clrsrc_lc0",
    "coda_bot",
    "colinbot",
@@ -4643,7 +4642,6 @@
    "darkonweakbot",
    "debzero",
    "deepbecky",
-   "deepfish26",
    "deepsquare-ai",
    "demen100ns-bot",
    "demolito_l1",
@@ -4668,6 +4666,7 @@
    "epimetheusbot",
    "epo_5_chess_engine",
    "eubos",
+   "european_chess_bot",
    "falconengine",
    "fathzer-jchess",
    "felipe_bot_53",
@@ -4681,7 +4680,6 @@
    "fourcuriouspandas",
    "fschess-engine",
    "funcomp",
-   "future_sight_ai",
    "gambittai",
    "garbobot",
    "georgii_ai",
@@ -4728,8 +4726,8 @@
    "kingzbot",
    "kirinchessbot",
    "kittyenginev5",
-   "knightmare_26",
    "koi_engine",
+   "kolmato",
    "kopyto_dev",
    "kulubot",
    "lamprook",
@@ -4737,7 +4735,6 @@
    "latrunculi-bot",
    "laura-bot",
    "leelaalien",
-   "leelaanyodds",
    "leelajester",
    "leelaknightodds",
    "leelapieceodds",
@@ -4758,7 +4755,6 @@
    "lynx_bot",
    "mac-bot",
    "mackbot",
-   "magic11bot_coach",
    "maia1",
    "maia2200_10n",
    "maia3-79m_1000",
@@ -4784,6 +4780,7 @@
    "matmoi",
    "maximaengine",
    "mayflyengine",
+   "mcdonalds1955",
    "mdbot",
    "mega-noob-bot",
    "melsh_bot",
@@ -4797,11 +4794,11 @@
    "mostlyhuman1900",
    "mrtonnerre",
    "munzurbot2",
+   "musashi-thebot",
    "mychessjava",
    "nanozeroorg",
-   "ndashka_bot",
-   "neryba",
    "neurosocute",
+   "newchessengine-ai",
    "nexastrat",
    "nexosdefos",
    "nibbleknight",
@@ -4818,6 +4815,7 @@
    "onezenpanda",
    "openinggenie2000",
    "openingsbot",
+   "oxybullet",
    "pangubot",
    "panic-fish",
    "partner3615diago",
@@ -4828,6 +4826,7 @@
    "peachfruit",
    "perl-gigachess",
    "philidor-142m",
+   "pi0w",
    "picosargon",
    "piebot",
    "pierreai",
@@ -4853,6 +4852,7 @@
    "ribfish-bot",
    "rockingsuperstars",
    "rudim-bot",
+   "rust-in-pieces",
    "rustbot2003",
    "ryu-ishigori",
    "sapling-bot",
@@ -4880,6 +4880,7 @@
    "sluicing",
    "smasher23445",
    "snaky-bot",
+   "space_bot",
    "sparkchessengine",
    "springerbot",
    "squarefish-900",
@@ -4906,7 +4907,6 @@
    "throrbjorn",
    "thunfisch-bot",
    "tigrament",
-   "tikifish",
    "tilapiabot",
    "to299d",
    "togaii",
