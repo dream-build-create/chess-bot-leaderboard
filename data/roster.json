@@ -432,7 +432,7 @@
   },
   "black-icebot": {
    "first_seen": "2026-10-16",
-   "last_online": "2026-10-31",
+   "last_online": "2026-11-01",
    "username": "BLACK-ICEbot"
   },
   "blackeventhorizon": {
@@ -857,7 +857,7 @@
   },
   "chessnoobcomp": {
    "first_seen": "2026-10-26",
-   "last_online": "2026-10-31",
+   "last_online": "2026-11-01",
    "username": "ChessNoobComp"
   },
   "chesspion96": {
@@ -1642,7 +1642,7 @@
   },
   "hackerchessbot": {
    "first_seen": "2026-09-27",
-   "last_online": "2026-10-31",
+   "last_online": "2026-11-01",
    "username": "HackerChessBot"
   },
   "halcyonbot": {
@@ -2512,7 +2512,7 @@
   },
   "maximaengine": {
    "first_seen": "2026-10-23",
-   "last_online": "2026-10-31",
+   "last_online": "2026-11-01",
    "username": "MaximaEngine"
   },
   "maxthedog-esp32": {
@@ -2712,7 +2712,7 @@
   },
   "nanochess6": {
    "first_seen": "2026-10-31",
-   "last_online": "2026-10-31",
+   "last_online": "2026-11-01",
    "username": "NanoChess6"
   },
   "nanozeroorg": {
@@ -3542,7 +3542,7 @@
   },
   "seedchess": {
    "first_seen": "2026-10-14",
-   "last_online": "2026-10-26",
+   "last_online": "2026-11-01",
    "username": "SeedChess"
   },
   "seitogakatsu": {
@@ -4522,7 +4522,7 @@
   }
  },
  "online": {
-  "checked_at": "2026-11-01T00:43:10Z",
+  "checked_at": "2026-11-01T01:43:09Z",
   "ids": [
    "aatk_vanguardx",
    "abcd_engine",
@@ -4558,6 +4558,7 @@
    "bernstein-4ply",
    "bfiedler-bot",
    "bitbitbot",
+   "black-icebot",
    "bluemoonbot",
    "blujay-bot",
    "bongaclang",
@@ -4583,6 +4584,7 @@
    "chessiverse_luc",
    "chessiverse_pawnza",
    "chessiverse_raak",
+   "chessnoobcomp",
    "chesstango_bot",
    "cheszter",
    "chill4ce",
@@ -4662,13 +4664,13 @@
    "gnu4u",
    "gochess6767",
    "goldfish-engine",
-   "goldinho1bot",
    "goopis",
    "grail-bot",
    "grindfish",
    "groshboss",
    "gryndor",
    "guofish",
+   "hackerchessbot",
    "halcyonbot",
    "hardrok",
    "hashcake1",
@@ -4710,7 +4712,6 @@
    "laura-bot",
    "leelaalien",
    "leelaanyodds",
-   "leelajester",
    "leelaknightodds",
    "leelapieceodds",
    "leelaqueenforknight",
@@ -4753,6 +4754,7 @@
    "mate-in-twenty",
    "mate1-bot",
    "matmoi",
+   "maximaengine",
    "mayflyengine",
    "mcdonalds1955",
    "mdbot",
@@ -4768,6 +4770,7 @@
    "mostlyhuman1900",
    "mrtonnerre",
    "mychessjava",
+   "nanochess6",
    "nanozeroorg",
    "ndashka_bot",
    "neryba",
@@ -4789,7 +4792,6 @@
    "onezenpanda",
    "openinggenie2000",
    "openingsbot",
-   "overfitted",
    "oxybullet",
    "pangubot",
    "panic-fish",
@@ -4833,6 +4835,7 @@
    "scalaqueen",
    "schnecken_bot",
    "scipio-bot",
+   "seedchess",
    "seitogakatsu",
    "shallowredbot",
    "sharpsundae",
@@ -4849,7 +4852,6 @@
    "slowmate_bot",
    "sluicing",
    "slychessbot",
-   "smasher23445",
    "snaky-bot",
    "springerbot",
    "squarefish-900",
@@ -4909,7 +4911,6 @@
    "vortex_bot",
    "vortexaurafarm",
    "waldemar-the-elf",
-   "walleye_bot",
    "walpurti",
    "weiawaga",
    "worstfish",
