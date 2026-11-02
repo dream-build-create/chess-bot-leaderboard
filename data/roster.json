@@ -1662,7 +1662,7 @@
   },
   "hackerchessbot": {
    "first_seen": "2026-09-27",
-   "last_online": "2026-11-01",
+   "last_online": "2026-11-02",
    "username": "HackerChessBot"
   },
   "halcyonbot": {
@@ -2282,7 +2282,7 @@
   },
   "littleply": {
    "first_seen": "2026-10-28",
-   "last_online": "2026-11-01",
+   "last_online": "2026-11-02",
    "username": "littleply"
   },
   "llianc_bot": {
@@ -3385,6 +3385,11 @@
    "last_online": "2026-11-02",
    "username": "Ribfish-Bot"
   },
+  "rivoentreleslignes": {
+   "first_seen": "2026-11-02",
+   "last_online": "2026-11-02",
+   "username": "RivoEntreLesLignes"
+  },
   "robert_is_bot": {
    "first_seen": "2026-10-17",
    "last_online": "2026-10-23",
@@ -3807,7 +3812,7 @@
   },
   "sparkchessengine": {
    "first_seen": "2026-10-21",
-   "last_online": "2026-11-01",
+   "last_online": "2026-11-02",
    "username": "SparkchessEngine"
   },
   "springerbot": {
@@ -4572,8 +4577,9 @@
   }
  },
  "online": {
-  "checked_at": "2026-11-02T03:43:08Z",
+  "checked_at": "2026-11-02T04:43:09Z",
   "ids": [
+   "aatk_vanguardx",
    "abcd_engine",
    "aconcaguabot",
    "aetherbot",
@@ -4596,10 +4602,10 @@
    "arkiplayschess",
    "arroccobot",
    "artidigm_research",
+   "ask-aatk-bot",
    "athena-chessbot",
    "axiom_bot",
    "banerot",
-   "batyarapro",
    "bbc_bot",
    "becela9_kpebetka",
    "berkbot",
@@ -4637,7 +4643,6 @@
    "cheszter",
    "chill4ce",
    "cinder-bot",
-   "classic_bot-v2",
    "classical-leela",
    "claude_bot",
    "clessy-bot",
@@ -4711,6 +4716,7 @@
    "grindfish",
    "groshboss",
    "gryndor",
+   "hackerchessbot",
    "halcyonbot",
    "hardrok",
    "hiusbot",
@@ -4741,7 +4747,6 @@
    "kestrelstrike",
    "kingzbot",
    "kirinchessbot",
-   "kittyenginev5",
    "koi_engine",
    "kopyto_dev",
    "kulubot",
@@ -4764,6 +4769,7 @@
    "lilitbot",
    "little-0",
    "littlepatricia",
+   "littleply",
    "louischess48-6k",
    "lukebot",
    "lynx_bot",
@@ -4813,7 +4819,6 @@
    "neurosocute",
    "newchessengine-ai",
    "nexastrat",
-   "nexosdefos",
    "nibbleknight",
    "nice_bot",
    "nichteliasbot",
@@ -4862,6 +4867,7 @@
    "rdtchessbot",
    "resolutebot",
    "ribfish-bot",
+   "rivoentreleslignes",
    "rudim-bot",
    "rustbot2003",
    "ryu-ishigori",
@@ -4882,13 +4888,13 @@
    "simple-bot",
    "simpleeval",
    "sj_norbot",
-   "sl_tech-bot",
    "slate-engine",
    "sleepish",
    "sleepmindengine",
    "slowmate_bot",
    "snaky-bot",
    "solobot",
+   "sparkchessengine",
    "springerbot",
    "squarefish-900",
    "sseh-c",
@@ -4900,6 +4906,7 @@
    "stockpapagei",
    "stormbot",
    "stronggoliath",
+   "studyloversz-bot",
    "stupidfishbotbydscs",
    "sunfish-engine",
    "sunfish-nnue-engine",
@@ -4916,7 +4923,6 @@
    "throrbjorn",
    "thunfisch-bot",
    "tigrament",
-   "tikifish",
    "tilapiabot",
    "to299d",
    "togaii",
@@ -4944,6 +4950,7 @@
    "vic98lg",
    "vicentlittle",
    "vietnamesecoffee",
+   "void_bot",
    "vortex_bot",
    "vortexaurafarm",
    "waldemar-the-elf",
