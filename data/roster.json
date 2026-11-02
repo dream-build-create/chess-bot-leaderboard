@@ -2,7 +2,7 @@
  "bots": {
   "aaronsengine": {
    "first_seen": "2026-09-27",
-   "last_online": "2026-11-01",
+   "last_online": "2026-11-02",
    "username": "AaronsEngine"
   },
   "aathena101": {
@@ -87,7 +87,7 @@
   },
   "ajedrezchamberi": {
    "first_seen": "2026-09-29",
-   "last_online": "2026-11-01",
+   "last_online": "2026-11-02",
    "username": "AjedrezChamberi"
   },
   "alarm2001": {
@@ -437,7 +437,7 @@
   },
   "black-bishop-kh": {
    "first_seen": "2026-09-28",
-   "last_online": "2026-11-01",
+   "last_online": "2026-11-02",
    "username": "Black-Bishop-Kh"
   },
   "black-icebot": {
@@ -732,7 +732,7 @@
   },
   "chamberiajedrez": {
    "first_seen": "2026-09-29",
-   "last_online": "2026-11-01",
+   "last_online": "2026-11-02",
    "username": "ChamberiAjedrez"
   },
   "chaotong_engine": {
@@ -1037,7 +1037,7 @@
   },
   "creaticachessbot": {
    "first_seen": "2026-09-29",
-   "last_online": "2026-10-02",
+   "last_online": "2026-11-02",
    "username": "CreaticaChessBot"
   },
   "croco_bot": {
@@ -1522,7 +1522,7 @@
   },
   "galaxy-stellar-bot": {
    "first_seen": "2026-10-22",
-   "last_online": "2026-10-30",
+   "last_online": "2026-11-02",
    "username": "Galaxy-Stellar-Bot"
   },
   "gambitonlybot": {
@@ -2202,7 +2202,7 @@
   },
   "leelamultiposs": {
    "first_seen": "2026-10-08",
-   "last_online": "2026-11-01",
+   "last_online": "2026-11-02",
    "username": "LeelaMultiPoss"
   },
   "leelapieceodds": {
@@ -2272,7 +2272,7 @@
   },
   "lili-ai": {
    "first_seen": "2026-10-22",
-   "last_online": "2026-10-31",
+   "last_online": "2026-11-02",
    "username": "Lili-ai"
   },
   "lilitbot": {
@@ -2642,7 +2642,7 @@
   },
   "mind_bot": {
    "first_seen": "2026-10-03",
-   "last_online": "2026-11-01",
+   "last_online": "2026-11-02",
    "username": "Mind_BOT"
   },
   "minibotapi": {
@@ -2742,7 +2742,7 @@
   },
   "my-bot": {
    "first_seen": "2026-10-03",
-   "last_online": "2026-10-31",
+   "last_online": "2026-11-02",
    "username": "MY-BOT"
   },
   "mychessjava": {
@@ -2827,7 +2827,7 @@
   },
   "newtsbot": {
    "first_seen": "2026-09-27",
-   "last_online": "2026-11-01",
+   "last_online": "2026-11-02",
    "username": "NEWTSbot"
   },
   "nexastrat": {
@@ -4597,14 +4597,16 @@
   }
  },
  "online": {
-  "checked_at": "2026-11-02T09:43:19Z",
+  "checked_at": "2026-11-02T10:43:17Z",
   "ids": [
+   "aaronsengine",
    "abcd_engine",
    "aconcaguabot",
    "aetherbot",
    "aggressivestockfish",
    "ai-con",
    "ailedbot",
+   "ajedrezchamberi",
    "alexandrya",
    "aliceshiro",
    "alieknek",
@@ -4631,6 +4633,7 @@
    "bernstein-4ply",
    "bfiedler-bot",
    "bitbitbot",
+   "black-bishop-kh",
    "bluemoonbot",
    "bobby_pcolla",
    "bongaclang",
@@ -4642,7 +4645,6 @@
    "bretemabot",
    "bubblebot2",
    "byte-knight",
-   "bytefish",
    "c-t-r-l",
    "c0kval",
    "caiporabot",
@@ -4651,6 +4653,7 @@
    "casanchess-nnue",
    "catnail",
    "catriever",
+   "chamberiajedrez",
    "charibot",
    "chess_set_manager",
    "chessgeniusbot",
@@ -4674,6 +4677,7 @@
    "confidencebuilder",
    "cookiebot711",
    "craftyuci",
+   "creaticachessbot",
    "croco_bot",
    "croco_little_bot",
    "crocodile_bot",
@@ -4688,11 +4692,9 @@
    "debzero",
    "deepbecky",
    "deepsquare-ai",
-   "dehorsed_bot",
    "demen100ns-bot",
    "demolito_l1",
    "demolito_l2",
-   "demolito_l3",
    "demolito_l4",
    "demolito_l5",
    "dravox",
@@ -4723,6 +4725,7 @@
    "fourcuriouspandas",
    "fschess-engine",
    "funcomp",
+   "galaxy-stellar-bot",
    "gambittai",
    "garbobot",
    "georgii_ai",
@@ -4780,6 +4783,7 @@
    "leelaanyodds",
    "leelajester",
    "leelaknightodds",
+   "leelamultiposs",
    "leelapieceodds",
    "leelaqueenforknight",
    "leelaqueenodds",
@@ -4788,6 +4792,7 @@
    "leelatroll",
    "levymaia",
    "likeawizard-bot",
+   "lili-ai",
    "lilitbot",
    "little-0",
    "littlepatricia",
@@ -4824,24 +4829,27 @@
    "maximaengine",
    "mayflyengine",
    "mcdonalds1955",
+   "mdbot",
    "mega-noob-bot",
    "melsh_bot",
    "michaamateurbot",
    "milanbot",
    "mimirbot",
+   "mind_bot",
    "minopponentmoves",
    "mithandros",
    "mochi_bot",
    "morabandbot",
    "mostlyhuman1900",
    "mrtonnerre",
-   "munzurbot2",
    "musashi-thebot",
+   "my-bot",
    "mychessjava",
    "nanozeroorg",
    "ndashka_bot",
    "neryba",
    "neurosocute",
+   "newtsbot",
    "nexastrat",
    "nexosdefos",
    "nibbleknight",
@@ -4858,7 +4866,6 @@
    "onezenpanda",
    "openingsbot",
    "overfitted",
-   "oxybullet",
    "pangubot",
    "panic-fish",
    "partner3615diago",
@@ -4903,6 +4910,7 @@
    "scalaqueen",
    "schnecken_bot",
    "scipio-bot",
+   "seedchess",
    "seitogakatsu",
    "shallowredbot",
    "sharpsundae",
@@ -4973,7 +4981,6 @@
    "vic98lg",
    "vicentlittle",
    "vietnamesecoffee",
-   "void_bot",
    "vortex_bot",
    "vortexaurafarm",
    "waldemar-the-elf",
