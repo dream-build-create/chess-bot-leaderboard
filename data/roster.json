@@ -907,7 +907,7 @@
   },
   "chronicgambler": {
    "first_seen": "2026-09-27",
-   "last_online": "2026-11-01",
+   "last_online": "2026-11-02",
    "username": "ChronicGambler"
   },
   "chrusty": {
@@ -2107,7 +2107,7 @@
   },
   "la5v2": {
    "first_seen": "2026-10-08",
-   "last_online": "2026-10-21",
+   "last_online": "2026-11-02",
    "username": "LA5V2"
   },
   "lamprook": {
@@ -3932,7 +3932,7 @@
   },
   "styx-chess": {
    "first_seen": "2026-10-26",
-   "last_online": "2026-10-30",
+   "last_online": "2026-11-02",
    "username": "Styx-Chess"
   },
   "styx_reckless": {
@@ -4577,7 +4577,7 @@
   }
  },
  "online": {
-  "checked_at": "2026-11-02T04:43:09Z",
+  "checked_at": "2026-11-02T05:43:20Z",
   "ids": [
    "aatk_vanguardx",
    "abcd_engine",
@@ -4593,7 +4593,6 @@
    "angela_eng",
    "anna-bot",
    "annie_archy",
-   "anti-bot",
    "antibotv3-7",
    "aposeij",
    "approximationbot",
@@ -4642,7 +4641,9 @@
    "chesstango_bot",
    "cheszter",
    "chill4ce",
+   "chronicgambler",
    "cinder-bot",
+   "classic_bot-v2",
    "classical-leela",
    "claude_bot",
    "clessy-bot",
@@ -4718,7 +4719,6 @@
    "gryndor",
    "hackerchessbot",
    "halcyonbot",
-   "hardrok",
    "hiusbot",
    "hummus-bot",
    "hustler_1mb",
@@ -4731,7 +4731,6 @@
    "is_boss",
    "iskelt-corax",
    "jangine",
-   "jaxakos13_bot",
    "jibbby",
    "jimmy_inc3710",
    "joan_clone",
@@ -4750,6 +4749,7 @@
    "koi_engine",
    "kopyto_dev",
    "kulubot",
+   "la5v2",
    "lamprook",
    "larryz-alterego",
    "latrunculi-bot",
@@ -4815,7 +4815,6 @@
    "mychessjava",
    "nanozeroorg",
    "ndashka_bot",
-   "neryba",
    "neurosocute",
    "newchessengine-ai",
    "nexastrat",
@@ -4826,7 +4825,6 @@
    "nilatacbot",
    "nnueandthevoices",
    "noabot",
-   "nohopeforman",
    "notropis",
    "o-rei-cx",
    "odonata-bot",
@@ -4894,7 +4892,6 @@
    "slowmate_bot",
    "snaky-bot",
    "solobot",
-   "sparkchessengine",
    "springerbot",
    "squarefish-900",
    "sseh-c",
@@ -4908,6 +4905,7 @@
    "stronggoliath",
    "studyloversz-bot",
    "stupidfishbotbydscs",
+   "styx-chess",
    "sunfish-engine",
    "sunfish-nnue-engine",
    "sxphia",
@@ -4923,6 +4921,7 @@
    "throrbjorn",
    "thunfisch-bot",
    "tigrament",
+   "tikifish",
    "tilapiabot",
    "to299d",
    "togaii",
