@@ -257,7 +257,7 @@
   },
   "ashnostromo": {
    "first_seen": "2026-09-27",
-   "last_online": "2026-10-31",
+   "last_online": "2026-11-02",
    "username": "AshNostromo"
   },
   "ask-aatk-bot": {
@@ -527,7 +527,7 @@
   },
   "bot64jaques": {
    "first_seen": "2026-09-27",
-   "last_online": "2026-11-01",
+   "last_online": "2026-11-02",
    "username": "bot64jaques"
   },
   "bot913": {
@@ -2092,7 +2092,7 @@
   },
   "kolmato": {
    "first_seen": "2026-11-01",
-   "last_online": "2026-11-01",
+   "last_online": "2026-11-02",
    "username": "kolmato"
   },
   "kopyto_dev": {
@@ -4272,7 +4272,7 @@
   },
   "uiagbot": {
    "first_seen": "2026-10-10",
-   "last_online": "2026-10-28",
+   "last_online": "2026-11-02",
    "username": "uiagBot"
   },
   "ultrabrick": {
@@ -4597,9 +4597,8 @@
   }
  },
  "online": {
-  "checked_at": "2026-11-02T08:43:09Z",
+  "checked_at": "2026-11-02T09:43:19Z",
   "ids": [
-   "aatk_vanguardx",
    "abcd_engine",
    "aconcaguabot",
    "aetherbot",
@@ -4621,13 +4620,12 @@
    "arkiplayschess",
    "arroccobot",
    "artidigm_research",
-   "ask-aatk-bot",
+   "ashnostromo",
    "athena-chessbot",
    "axiom_bot",
    "banerot",
    "batyarapro",
    "bbc_bot",
-   "becela9_kpebetka",
    "berkbot",
    "bernstein-2ply",
    "bernstein-4ply",
@@ -4638,6 +4636,7 @@
    "bongaclang",
    "borkatower",
    "bot5551",
+   "bot64jaques",
    "bot_adario",
    "bottios",
    "bretemabot",
@@ -4731,9 +4730,9 @@
    "giffibot",
    "gnu4u",
    "gochess6767",
-   "goldfish-engine",
    "goopis",
    "grail-bot",
+   "grapechessengine",
    "grindfish",
    "groshboss",
    "gryndor",
@@ -4751,7 +4750,6 @@
    "is_boss",
    "iskelt-corax",
    "jangine",
-   "jaxakos13_bot",
    "jev-bot-2",
    "jibbby",
    "jimmy_inc3710",
@@ -4770,6 +4768,7 @@
    "kirinchessbot",
    "kittyenginev5",
    "koi_engine",
+   "kolmato",
    "kopyto_dev",
    "kulubot",
    "la5v2",
@@ -4836,13 +4835,13 @@
    "morabandbot",
    "mostlyhuman1900",
    "mrtonnerre",
+   "munzurbot2",
    "musashi-thebot",
    "mychessjava",
    "nanozeroorg",
    "ndashka_bot",
    "neryba",
    "neurosocute",
-   "newchessengine-ai",
    "nexastrat",
    "nexosdefos",
    "nibbleknight",
@@ -4904,7 +4903,6 @@
    "scalaqueen",
    "schnecken_bot",
    "scipio-bot",
-   "seedchess",
    "seitogakatsu",
    "shallowredbot",
    "sharpsundae",
@@ -4920,7 +4918,6 @@
    "slowmate_bot",
    "snaky-bot",
    "solobot",
-   "sparkchessengine",
    "springerbot",
    "squarefish-900",
    "sseh-c",
@@ -4931,7 +4928,6 @@
    "stockfishlowdepth",
    "stockpapagei",
    "stronggoliath",
-   "studyloversz-bot",
    "stupidfishbotbydscs",
    "sunfish-engine",
    "sunfish-nnue-engine",
@@ -4964,6 +4960,7 @@
    "turochamp-1ply",
    "turochamp-2ply",
    "twosillypandas",
+   "uiagbot",
    "ursus_bot",
    "usunfish",
    "usunfish-l0",
@@ -4981,6 +4978,7 @@
    "vortexaurafarm",
    "waldemar-the-elf",
    "walpurti",
+   "wedge_engine",
    "weiawaga",
    "worstfish",
    "z-o_aspenlabs",
