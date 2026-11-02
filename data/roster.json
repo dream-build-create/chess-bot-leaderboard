@@ -1480,6 +1480,11 @@
    "last_online": "2026-11-02",
    "username": "ForktellBot"
   },
+  "fornax-engine": {
+   "first_seen": "2026-11-02",
+   "last_online": "2026-11-02",
+   "username": "fornax-engine"
+  },
   "fourcuriouspandas": {
    "first_seen": "2026-10-09",
    "last_online": "2026-11-02",
@@ -1904,6 +1909,11 @@
    "first_seen": "2026-09-27",
    "last_online": "2026-10-25",
    "username": "JesterChessRobot"
+  },
+  "jev-bot-2": {
+   "first_seen": "2026-11-02",
+   "last_online": "2026-11-02",
+   "username": "jev-bot-2"
   },
   "jev_chess": {
    "first_seen": "2026-10-02",
@@ -4587,7 +4597,7 @@
   }
  },
  "online": {
-  "checked_at": "2026-11-02T07:43:11Z",
+  "checked_at": "2026-11-02T08:43:09Z",
   "ids": [
    "aatk_vanguardx",
    "abcd_engine",
@@ -4634,6 +4644,7 @@
    "bubblebot2",
    "byte-knight",
    "bytefish",
+   "c-t-r-l",
    "c0kval",
    "caiporabot",
    "caissa-x",
@@ -4667,7 +4678,6 @@
    "croco_bot",
    "croco_little_bot",
    "crocodile_bot",
-   "cruelken",
    "dala-1100",
    "dala-1300",
    "dala-1600",
@@ -4710,6 +4720,7 @@
    "flower-queen",
    "flybrainchess",
    "forktellbot",
+   "fornax-engine",
    "fourcuriouspandas",
    "fschess-engine",
    "funcomp",
@@ -4723,7 +4734,6 @@
    "goldfish-engine",
    "goopis",
    "grail-bot",
-   "grapechessengine",
    "grindfish",
    "groshboss",
    "gryndor",
@@ -4742,6 +4752,7 @@
    "iskelt-corax",
    "jangine",
    "jaxakos13_bot",
+   "jev-bot-2",
    "jibbby",
    "jimmy_inc3710",
    "joan_clone",
@@ -4813,7 +4824,7 @@
    "matthewcarven",
    "maximaengine",
    "mayflyengine",
-   "mdbot",
+   "mcdonalds1955",
    "mega-noob-bot",
    "melsh_bot",
    "michaamateurbot",
@@ -4829,6 +4840,7 @@
    "mychessjava",
    "nanozeroorg",
    "ndashka_bot",
+   "neryba",
    "neurosocute",
    "newchessengine-ai",
    "nexastrat",
@@ -4840,6 +4852,7 @@
    "nilatacbot",
    "nnueandthevoices",
    "noabot",
+   "nohopeforman",
    "notropis",
    "o-rei-cx",
    "odonata-bot",
@@ -4881,7 +4894,6 @@
    "remychessengine",
    "resolutebot",
    "ribfish-bot",
-   "rivoentreleslignes",
    "rudim-bot",
    "rustbot2003",
    "ryu-ishigori",
@@ -4918,7 +4930,6 @@
    "stockfail",
    "stockfishlowdepth",
    "stockpapagei",
-   "stormbot",
    "stronggoliath",
    "studyloversz-bot",
    "stupidfishbotbydscs",
@@ -4970,7 +4981,6 @@
    "vortexaurafarm",
    "waldemar-the-elf",
    "walpurti",
-   "wedge_engine",
    "weiawaga",
    "worstfish",
    "z-o_aspenlabs",
