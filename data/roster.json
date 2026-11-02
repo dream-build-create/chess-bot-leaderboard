@@ -667,7 +667,7 @@
   },
   "caissa-x": {
    "first_seen": "2026-09-29",
-   "last_online": "2026-10-29",
+   "last_online": "2026-11-02",
    "username": "caissa-x"
   },
   "calciumengine": {
@@ -847,7 +847,7 @@
   },
   "chessgeniusbot": {
    "first_seen": "2026-10-02",
-   "last_online": "2026-11-01",
+   "last_online": "2026-11-02",
    "username": "ChessGeniusBot"
   },
   "chessiverse_ethan": {
@@ -887,7 +887,7 @@
   },
   "chesstransformerbot": {
    "first_seen": "2026-10-08",
-   "last_online": "2026-11-01",
+   "last_online": "2026-11-02",
    "username": "ChessTransformerBot"
   },
   "cheszter": {
@@ -1159,6 +1159,11 @@
    "first_seen": "2026-09-27",
    "last_online": "2026-11-02",
    "username": "DeepSquare-ai"
+  },
+  "dehorsed_bot": {
+   "first_seen": "2026-11-02",
+   "last_online": "2026-11-02",
+   "username": "dehorsed_bot"
   },
   "demen100ns-bot": {
    "first_seen": "2026-09-27",
@@ -2532,7 +2537,7 @@
   },
   "matthewcarven": {
    "first_seen": "2026-10-14",
-   "last_online": "2026-11-01",
+   "last_online": "2026-11-02",
    "username": "matthewcarven"
   },
   "maximaengine": {
@@ -4052,7 +4057,7 @@
   },
   "territorybot": {
    "first_seen": "2026-11-01",
-   "last_online": "2026-11-01",
+   "last_online": "2026-11-02",
    "username": "TerritoryBot"
   },
   "test-z": {
@@ -4582,7 +4587,7 @@
   }
  },
  "online": {
-  "checked_at": "2026-11-02T06:46:38Z",
+  "checked_at": "2026-11-02T07:43:11Z",
   "ids": [
    "aatk_vanguardx",
    "abcd_engine",
@@ -4616,7 +4621,6 @@
    "berkbot",
    "bernstein-2ply",
    "bernstein-4ply",
-   "beyondheliosai",
    "bfiedler-bot",
    "bitbitbot",
    "bluemoonbot",
@@ -4630,20 +4634,22 @@
    "bubblebot2",
    "byte-knight",
    "bytefish",
-   "c-t-r-l",
    "c0kval",
    "caiporabot",
+   "caissa-x",
    "cannotcheckmateme",
    "casanchess-nnue",
    "catnail",
    "catriever",
    "charibot",
    "chess_set_manager",
+   "chessgeniusbot",
    "chessiverse_ethan",
    "chessiverse_luc",
    "chessiverse_pawnza",
    "chessiverse_raak",
    "chesstango_bot",
+   "chesstransformerbot",
    "cheszter",
    "chill4ce",
    "chronicgambler",
@@ -4673,6 +4679,7 @@
    "debzero",
    "deepbecky",
    "deepsquare-ai",
+   "dehorsed_bot",
    "demen100ns-bot",
    "demolito_l1",
    "demolito_l2",
@@ -4690,7 +4697,7 @@
    "elexunix_chess_bot",
    "ellen_replay",
    "elmichess",
-   "enginefromscratch",
+   "endspiel-pi",
    "entebot",
    "epimetheusbot",
    "falconengine",
@@ -4750,6 +4757,7 @@
    "kestrelstrike",
    "kingzbot",
    "kirinchessbot",
+   "kittyenginev5",
    "koi_engine",
    "kopyto_dev",
    "kulubot",
@@ -4802,9 +4810,9 @@
    "mate-in-twenty",
    "mate1-bot",
    "matmoi",
+   "matthewcarven",
    "maximaengine",
    "mayflyengine",
-   "mcdonalds1955",
    "mdbot",
    "mega-noob-bot",
    "melsh_bot",
@@ -4821,7 +4829,6 @@
    "mychessjava",
    "nanozeroorg",
    "ndashka_bot",
-   "neryba",
    "neurosocute",
    "newchessengine-ai",
    "nexastrat",
@@ -4915,7 +4922,6 @@
    "stronggoliath",
    "studyloversz-bot",
    "stupidfishbotbydscs",
-   "styx-chess",
    "sunfish-engine",
    "sunfish-nnue-engine",
    "sxphia",
@@ -4927,6 +4933,7 @@
    "tempocore",
    "tente8x",
    "terconari",
+   "territorybot",
    "thechessblazer",
    "throrbjorn",
    "thunfisch-bot",
@@ -4941,7 +4948,6 @@
    "trenerhetman",
    "trinculobot",
    "troutbot",
-   "tucuengine",
    "turk_gambit",
    "turkjs",
    "turochamp-1ply",
