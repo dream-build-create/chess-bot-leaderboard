@@ -297,7 +297,7 @@
   },
   "atwell-chess-bot": {
    "first_seen": "2026-10-27",
-   "last_online": "2026-10-30",
+   "last_online": "2026-11-02",
    "username": "atwell-chess-bot"
   },
   "axiom_bot": {
@@ -2462,12 +2462,12 @@
   },
   "maia960-1600": {
    "first_seen": "2026-09-27",
-   "last_online": "2026-10-29",
+   "last_online": "2026-11-02",
    "username": "maia960-1600"
   },
   "maia960-1900": {
    "first_seen": "2026-09-29",
-   "last_online": "2026-10-29",
+   "last_online": "2026-11-02",
    "username": "maia960-1900"
   },
   "maia9_10n": {
@@ -2684,6 +2684,11 @@
    "first_seen": "2026-10-02",
    "last_online": "2026-10-29",
    "username": "Miss_snowiee"
+  },
+  "misterpbot": {
+   "first_seen": "2026-11-02",
+   "last_online": "2026-11-02",
+   "username": "MisterPbot"
   },
   "mithandros": {
    "first_seen": "2026-09-27",
@@ -3282,7 +3287,7 @@
   },
   "racingkingsbot_1": {
    "first_seen": "2026-10-13",
-   "last_online": "2026-10-21",
+   "last_online": "2026-11-02",
    "username": "RacingKingsBot_1"
   },
   "radianceengine": {
@@ -3817,7 +3822,7 @@
   },
   "soulgar": {
    "first_seen": "2026-09-28",
-   "last_online": "2026-10-29",
+   "last_online": "2026-11-02",
    "username": "soulgar"
   },
   "southbot": {
@@ -3995,6 +4000,11 @@
    "last_online": "2026-10-25",
    "username": "SuperMarkIsHere"
   },
+  "switchless": {
+   "first_seen": "2026-11-02",
+   "last_online": "2026-11-02",
+   "username": "Switchless"
+  },
   "sxphia": {
    "first_seen": "2026-09-27",
    "last_online": "2026-11-02",
@@ -4112,7 +4122,7 @@
   },
   "thomengine": {
    "first_seen": "2026-09-30",
-   "last_online": "2026-11-01",
+   "last_online": "2026-11-02",
    "username": "ThomEngine"
   },
   "throrbjorn": {
@@ -4597,7 +4607,7 @@
   }
  },
  "online": {
-  "checked_at": "2026-11-02T13:43:10Z",
+  "checked_at": "2026-11-02T14:43:10Z",
   "ids": [
    "aaronsengine",
    "abcd_engine",
@@ -4624,9 +4634,11 @@
    "artidigm_research",
    "ashnostromo",
    "athena-chessbot",
+   "atwell-chess-bot",
    "axiom_bot",
    "banerot",
    "bbc_bot",
+   "becela9_kpebetka",
    "berkbot",
    "bernstein-2ply",
    "bernstein-4ply",
@@ -4644,7 +4656,6 @@
    "bretemabot",
    "bubblebot2",
    "byte-knight",
-   "c-t-r-l",
    "caiporabot",
    "cannotcheckmateme",
    "casanchess-nnue",
@@ -4811,6 +4822,8 @@
    "maia3-79m_800",
    "maia5",
    "maia9",
+   "maia960-1600",
+   "maia960-1900",
    "maia9_10n",
    "maia9_30n",
    "martuni",
@@ -4822,24 +4835,25 @@
    "matthewcarven",
    "maximaengine",
    "mayflyengine",
-   "mcdonalds1955",
    "mega-noob-bot",
    "melsh_bot",
    "michaamateurbot",
    "milanbot",
    "mimirbot",
+   "minimax_chessy_lol",
    "minopponentmoves",
+   "misterpbot",
    "mithandros",
    "mochi_bot",
    "morabandbot",
    "mostlyhuman1900",
    "mrtonnerre",
-   "munzurbot2",
    "mychessjava",
    "nanozeroorg",
    "ndashka_bot",
    "neryba",
    "neurosocute",
+   "newchessengine-ai",
    "nexastrat",
    "next_uzbek",
    "nibbleknight",
@@ -4882,6 +4896,7 @@
    "puisne",
    "pzchessbot",
    "queensgambot",
+   "racingkingsbot_1",
    "radianceengine",
    "raspfish",
    "ratsu-bot",
@@ -4919,6 +4934,7 @@
    "slowmate_bot",
    "snaky-bot",
    "solobot",
+   "soulgar",
    "sparkchessengine",
    "springerbot",
    "squarefish-900",
@@ -4933,6 +4949,7 @@
    "stupidfishbotbydscs",
    "sunfish-engine",
    "sunfish-nnue-engine",
+   "switchless",
    "sxphia",
    "sybaibot",
    "sybbot",
@@ -4944,6 +4961,7 @@
    "terconari",
    "territorybot",
    "thechessblazer",
+   "thomengine",
    "throrbjorn",
    "thunfisch-bot",
    "tigrament",
