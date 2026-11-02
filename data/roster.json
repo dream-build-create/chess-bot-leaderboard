@@ -2717,7 +2717,7 @@
   },
   "musashi-thebot": {
    "first_seen": "2026-09-28",
-   "last_online": "2026-11-01",
+   "last_online": "2026-11-02",
    "username": "Musashi-thebot"
   },
   "mxnet-gamemaster": {
@@ -3364,6 +3364,11 @@
    "first_seen": "2026-09-28",
    "last_online": "2026-10-16",
    "username": "RegisterPythonSpeed"
+  },
+  "remychessengine": {
+   "first_seen": "2026-11-02",
+   "last_online": "2026-11-02",
+   "username": "remychessengine"
   },
   "renegadeengine": {
    "first_seen": "2026-10-05",
@@ -4577,7 +4582,7 @@
   }
  },
  "online": {
-  "checked_at": "2026-11-02T05:43:20Z",
+  "checked_at": "2026-11-02T06:43:10Z",
   "ids": [
    "aatk_vanguardx",
    "abcd_engine",
@@ -4605,6 +4610,7 @@
    "athena-chessbot",
    "axiom_bot",
    "banerot",
+   "batyarapro",
    "bbc_bot",
    "becela9_kpebetka",
    "berkbot",
@@ -4613,7 +4619,6 @@
    "beyondheliosai",
    "bfiedler-bot",
    "bitbitbot",
-   "black-icebot",
    "bluemoonbot",
    "bobby_pcolla",
    "bongaclang",
@@ -4685,8 +4690,6 @@
    "elexunix_chess_bot",
    "ellen_replay",
    "elmichess",
-   "endspiel-engine",
-   "endspiel-pi",
    "enginefromscratch",
    "entebot",
    "epimetheusbot",
@@ -4731,6 +4734,7 @@
    "is_boss",
    "iskelt-corax",
    "jangine",
+   "jaxakos13_bot",
    "jibbby",
    "jimmy_inc3710",
    "joan_clone",
@@ -4798,6 +4802,7 @@
    "mate-in-twenty",
    "mate1-bot",
    "matmoi",
+   "maximaengine",
    "mayflyengine",
    "mcdonalds1955",
    "mdbot",
@@ -4812,12 +4817,15 @@
    "morabandbot",
    "mostlyhuman1900",
    "mrtonnerre",
+   "musashi-thebot",
    "mychessjava",
    "nanozeroorg",
    "ndashka_bot",
+   "neryba",
    "neurosocute",
    "newchessengine-ai",
    "nexastrat",
+   "nexosdefos",
    "nibbleknight",
    "nice_bot",
    "nichteliasbot",
@@ -4863,6 +4871,7 @@
    "ravenengine",
    "ray-bot",
    "rdtchessbot",
+   "remychessengine",
    "resolutebot",
    "ribfish-bot",
    "rivoentreleslignes",
@@ -4892,6 +4901,7 @@
    "slowmate_bot",
    "snaky-bot",
    "solobot",
+   "sparkchessengine",
    "springerbot",
    "squarefish-900",
    "sseh-c",
