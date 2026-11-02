@@ -1912,7 +1912,7 @@
   },
   "jibbby": {
    "first_seen": "2026-09-27",
-   "last_online": "2026-11-01",
+   "last_online": "2026-11-02",
    "username": "Jibbby"
   },
   "jimbo_engine": {
@@ -1967,7 +1967,7 @@
   },
   "jurdbird": {
    "first_seen": "2026-09-27",
-   "last_online": "2026-11-01",
+   "last_online": "2026-11-02",
    "username": "JurdBird"
   },
   "justbot-v1": {
@@ -2042,7 +2042,7 @@
   },
   "kittyenginev5": {
    "first_seen": "2026-10-20",
-   "last_online": "2026-11-01",
+   "last_online": "2026-11-02",
    "username": "KittyEngineV5"
   },
   "kiwi_cube": {
@@ -2712,7 +2712,7 @@
   },
   "munzurbot2": {
    "first_seen": "2026-10-30",
-   "last_online": "2026-11-01",
+   "last_online": "2026-11-02",
    "username": "MunzurBOT2"
   },
   "musashi-thebot": {
@@ -3077,7 +3077,7 @@
   },
   "picosargon": {
    "first_seen": "2026-10-24",
-   "last_online": "2026-11-01",
+   "last_online": "2026-11-02",
    "username": "picoSargon"
   },
   "piebot": {
@@ -3892,7 +3892,7 @@
   },
   "stormbot": {
    "first_seen": "2026-10-30",
-   "last_online": "2026-11-01",
+   "last_online": "2026-11-02",
    "username": "StormBot"
   },
   "straightbot": {
@@ -4572,7 +4572,7 @@
   }
  },
  "online": {
-  "checked_at": "2026-11-02T01:43:09Z",
+  "checked_at": "2026-11-02T02:43:09Z",
   "ids": [
    "abcd_engine",
    "aconcaguabot",
@@ -4725,12 +4725,14 @@
    "iskelt-corax",
    "jangine",
    "jaxakos13_bot",
+   "jibbby",
    "jimmy_inc3710",
    "joan_clone",
    "joey_chessengine",
    "jongsungkim",
    "joshsbot",
    "jpg-bot",
+   "jurdbird",
    "justbot-v1",
    "kahunabot",
    "kavinengine",
@@ -4738,6 +4740,7 @@
    "kestrelstrike",
    "kingzbot",
    "kirinchessbot",
+   "kittyenginev5",
    "koi_engine",
    "kopyto_dev",
    "kulubot",
@@ -4796,13 +4799,13 @@
    "michaamateurbot",
    "milanbot",
    "mimirbot",
-   "minimax_chessy_lol",
    "minopponentmoves",
    "mithandros",
    "mochi_bot",
    "morabandbot",
    "mostlyhuman1900",
    "mrtonnerre",
+   "munzurbot2",
    "mychessjava",
    "nanozeroorg",
    "ndashka_bot",
@@ -4837,6 +4840,7 @@
    "perl-gigachess",
    "philidor-142m",
    "pi0w",
+   "picosargon",
    "piebot",
    "pierreai",
    "piglet_engine",
@@ -4878,6 +4882,7 @@
    "simple-bot",
    "simpleeval",
    "sj_norbot",
+   "sl_tech-bot",
    "slate-engine",
    "sleepish",
    "sleepmindengine",
@@ -4894,6 +4899,7 @@
    "stockfail",
    "stockfishlowdepth",
    "stockpapagei",
+   "stormbot",
    "stronggoliath",
    "stupidfishbotbydscs",
    "sunfish-engine",
