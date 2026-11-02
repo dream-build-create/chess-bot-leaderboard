@@ -955,6 +955,11 @@
    "last_online": "2026-11-02",
    "username": "clessy-bot"
   },
+  "clockworkengine": {
+   "first_seen": "2026-11-02",
+   "last_online": "2026-11-02",
+   "username": "ClockworkEngine"
+  },
   "cloudia-chess": {
    "first_seen": "2026-09-27",
    "last_online": "2026-10-28",
@@ -1612,7 +1617,7 @@
   },
   "goldinho1bot": {
    "first_seen": "2026-09-29",
-   "last_online": "2026-11-01",
+   "last_online": "2026-11-02",
    "username": "goldinho1bot"
   },
   "goopis": {
@@ -3732,7 +3737,7 @@
   },
   "sisyphus-engine": {
    "first_seen": "2026-10-12",
-   "last_online": "2026-10-28",
+   "last_online": "2026-11-02",
    "username": "Sisyphus-engine"
   },
   "sj_norbot": {
@@ -4637,7 +4642,7 @@
   }
  },
  "online": {
-  "checked_at": "2026-11-02T21:54:46Z",
+  "checked_at": "2026-11-02T22:43:10Z",
   "ids": [
    "aatk_vanguardx",
    "aconcaguabot",
@@ -4679,6 +4684,7 @@
    "bot5551",
    "bot64jaques",
    "bot_adario",
+   "botkingteam33",
    "bottios",
    "bretemabot",
    "bubblebot2",
@@ -4707,6 +4713,7 @@
    "classical-leela",
    "claude_bot",
    "clessy-bot",
+   "clockworkengine",
    "clrsrc_lc0",
    "coda_bot",
    "colinbot",
@@ -4714,7 +4721,6 @@
    "cookiebot711",
    "craftyuci",
    "croco_bot",
-   "croco_little_bot",
    "crocodile_bot",
    "dala-1100",
    "dala-1300",
@@ -4746,7 +4752,6 @@
    "endspiel-engine",
    "endspiel-pi",
    "entebot",
-   "eunoiabot",
    "falconengine",
    "fathzer-jchess",
    "felipe_bot_53",
@@ -4768,11 +4773,13 @@
    "gnu4u",
    "gochess6767",
    "goldfish-engine",
+   "goldinho1bot",
    "goopis",
    "grail-bot",
    "grapechessengine",
    "grindfish",
    "gryndor",
+   "hackerchessbot",
    "halcyonbot",
    "hardrok",
    "hiusbot",
@@ -4805,6 +4812,7 @@
    "kirinchessbot",
    "kissol-chess",
    "kittyenginev5",
+   "koi_engine",
    "kolmato",
    "kopyto_dev",
    "kulubot",
@@ -4818,6 +4826,7 @@
    "leelaanyodds",
    "leelajester",
    "leelaknightodds",
+   "leelamultiposs",
    "leelapieceodds",
    "leelaqueenforknight",
    "leelaqueenodds",
@@ -4869,7 +4878,6 @@
    "milanbot",
    "mimirbot",
    "mind_bot",
-   "minmaxvalgen",
    "minopponentmoves",
    "mithandros",
    "mochi_bot",
@@ -4919,10 +4927,8 @@
    "psion-chess",
    "puisne",
    "pzchessbot",
-   "queensgambot",
    "quirkafleeg-zx48k",
    "quirkafleeg-zxnext",
-   "racingkingsbot_1",
    "radianceengine",
    "raspfish",
    "ratsu-bot",
@@ -4952,6 +4958,7 @@
    "sim3million",
    "simple-bot",
    "simpleeval",
+   "sisyphus-engine",
    "sj_norbot",
    "slate-engine",
    "sleepish",
@@ -4962,7 +4969,6 @@
    "space_bot",
    "sparkchessengine",
    "springerbot",
-   "spyros1bot",
    "squarefish-900",
    "sseh-c",
    "stargazerengine",
