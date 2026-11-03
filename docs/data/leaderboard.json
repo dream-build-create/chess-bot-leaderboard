@@ -1,7 +1,7 @@
 {
  "schema_version": 1,
  "generated_at": "2026-11-03T01:05:10Z",
- "online_checked_at": "2026-11-03T19:43:25Z",
+ "online_checked_at": "2026-11-03T19:46:54Z",
  "source": "Lichess public API",
  "rules": {
   "activity_days": 7,
@@ -9796,7 +9796,7 @@
     "rd": 45,
     "games": 341,
     "last_active": "2026-11-03",
-    "online": false,
+    "online": true,
     "stockfish": false,
     "declared_engine": null,
     "bio": "Hi, I'm Milan a hobby chess engine written in C#. Developed by @Ondous07",
@@ -14751,7 +14751,7 @@
     "rd": 45,
     "games": 169,
     "last_active": "2026-11-03",
-    "online": false,
+    "online": true,
     "stockfish": false,
     "declared_engine": null,
     "bio": "Hi, I'm Milan a hobby chess engine written in C#. Developed by @Ondous07",
