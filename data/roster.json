@@ -370,6 +370,11 @@
    "last_online": "2026-11-01",
    "username": "beastie1"
   },
+  "beatrijs-bot": {
+   "first_seen": "2026-11-03",
+   "last_online": "2026-11-03",
+   "username": "beatrijs-bot"
+  },
   "becela9_kpebetka": {
    "first_seen": "2026-09-27",
    "last_online": "2026-11-03",
@@ -3812,7 +3817,7 @@
   },
   "slothcomputer": {
    "first_seen": "2026-09-27",
-   "last_online": "2026-10-31",
+   "last_online": "2026-11-03",
    "username": "SlothComputer"
   },
   "slowmate_bot": {
@@ -4472,7 +4477,7 @@
   },
   "viviblitzfr": {
    "first_seen": "2026-10-28",
-   "last_online": "2026-11-01",
+   "last_online": "2026-11-03",
    "username": "viviblitzFR"
   },
   "void_bot": {
@@ -4677,9 +4682,8 @@
   }
  },
  "online": {
-  "checked_at": "2026-11-03T20:43:14Z",
+  "checked_at": "2026-11-03T21:43:16Z",
   "ids": [
-   "aaronsengine",
    "aatk_vanguardx",
    "aconcaguabot",
    "aetherbot",
@@ -4709,6 +4713,7 @@
    "axiom_bot",
    "banerot",
    "bbc_bot",
+   "beatrijs-bot",
    "berkbot",
    "bernstein-2ply",
    "bernstein-4ply",
@@ -4771,6 +4776,8 @@
    "deepbecky",
    "deepsquare-ai",
    "demen100ns-bot",
+   "demolito_l1",
+   "demolito_l2",
    "demolito_l3",
    "demolito_l5",
    "dravox",
@@ -4805,6 +4812,7 @@
    "gnu4u",
    "gochess6767",
    "goldfish-engine",
+   "goldinho1bot",
    "goopis",
    "grail-bot",
    "grapechessengine",
@@ -4821,7 +4829,6 @@
    "hyperopic",
    "icarus-bot",
    "incipit_bot",
-   "is_boss",
    "iskelt-corax",
    "jangine",
    "jaxakos13_bot",
@@ -4847,6 +4854,7 @@
    "kopyto_dev",
    "kulubot",
    "lamprook",
+   "lancelbot",
    "larryz-alterego",
    "latrunculi-bot",
    "laura-bot",
@@ -4891,7 +4899,6 @@
    "maia960-1900",
    "maia9_10n",
    "maia9_30n",
-   "makechessbetter",
    "martuni",
    "mate-in-forty",
    "mate-in-thirty",
@@ -4912,6 +4919,7 @@
    "morabandbot",
    "mostlyhuman1900",
    "mrtonnerre",
+   "munzurbot2",
    "mychessjava",
    "nanozeroorg",
    "ndashka_bot",
@@ -4921,6 +4929,7 @@
    "nice_bot",
    "nichteliasbot",
    "nickdrohan",
+   "nickl1bot",
    "nilatacbot",
    "nnueandthevoices",
    "noabot",
@@ -4929,6 +4938,7 @@
    "onezenpanda",
    "openingsbot",
    "overfitted",
+   "oxybullet",
    "pangubot",
    "panic-fish",
    "partner3615diago",
@@ -4954,9 +4964,9 @@
    "psion-chess",
    "puisne",
    "pzchessbot",
+   "quirkafleeg-zx48k",
    "quirkafleeg-zxnext",
    "radianceengine",
-   "raspfish",
    "ratsu-bot",
    "raven030",
    "ravenengine",
@@ -4988,6 +4998,7 @@
    "slate-engine",
    "sleepish",
    "sleepmindengine",
+   "slothcomputer",
    "slowmate_bot",
    "snaky-bot",
    "solobot",
@@ -4998,7 +5009,6 @@
    "stickshark99",
    "stockcotsfish",
    "stockdory",
-   "stockfishlowdepth",
    "stockpapagei",
    "stormbot",
    "streamervschat",
@@ -5047,6 +5057,7 @@
    "vic98lg",
    "vicentlittle",
    "vietnamesecoffee",
+   "viviblitzfr",
    "vortex_bot",
    "vortexaurafarm",
    "waldemar-the-elf",
