@@ -187,7 +187,7 @@
   },
   "apexchess-bot": {
    "first_seen": "2026-10-31",
-   "last_online": "2026-11-02",
+   "last_online": "2026-11-03",
    "username": "ApexChess-Bot"
   },
   "aposeij": {
@@ -447,7 +447,7 @@
   },
   "blackeventhorizon": {
    "first_seen": "2026-09-27",
-   "last_online": "2026-11-01",
+   "last_online": "2026-11-03",
    "username": "blackEventhorizon"
   },
   "blindpewce": {
@@ -807,7 +807,7 @@
   },
   "chess_know": {
    "first_seen": "2026-10-17",
-   "last_online": "2026-11-02",
+   "last_online": "2026-11-03",
    "username": "chess_know"
   },
   "chess_set_manager": {
@@ -3005,6 +3005,11 @@
    "last_online": "2026-11-03",
    "username": "OpeningsBot"
   },
+  "opycep": {
+   "first_seen": "2026-11-03",
+   "last_online": "2026-11-03",
+   "username": "OPyCEP"
+  },
   "osaurus": {
    "first_seen": "2026-09-29",
    "last_online": "2026-11-03",
@@ -3807,7 +3812,7 @@
   },
   "sluicing": {
    "first_seen": "2026-10-23",
-   "last_online": "2026-11-01",
+   "last_online": "2026-11-03",
    "username": "sluicing"
   },
   "slychessbot": {
@@ -4662,7 +4667,7 @@
   }
  },
  "online": {
-  "checked_at": "2026-11-03T11:43:09Z",
+  "checked_at": "2026-11-03T12:43:10Z",
   "ids": [
    "aaronsengine",
    "aatk_vanguardx",
@@ -4681,6 +4686,7 @@
    "annie_archy",
    "anti-bot",
    "antibotv3-7",
+   "apexchess-bot",
    "aposeij",
    "approximationbot",
    "arabicannue",
@@ -4700,6 +4706,7 @@
    "bfiedler-bot",
    "bitbitbot",
    "black-bishop-kh",
+   "blackeventhorizon",
    "bluemoonbot",
    "bongaclang",
    "bot5551",
@@ -4711,7 +4718,6 @@
    "byte-knight",
    "bytefish",
    "c-t-r-l",
-   "c0kval",
    "caiporabot",
    "cannotcheckmateme",
    "casanchess-nnue",
@@ -4719,7 +4725,7 @@
    "catriever",
    "chamberiajedrez",
    "charibot",
-   "chess_set_manager",
+   "chess_know",
    "chessgeniusbot",
    "chessiverse_ethan",
    "chessiverse_luc",
@@ -4740,12 +4746,10 @@
    "confidencebuilder",
    "cookiebot711",
    "craftyuci",
-   "creaticachessbot",
    "croco_bot",
    "croco_little_bot",
    "crocodile_bot",
    "cruelken",
-   "crustik-bot",
    "dala-1100",
    "dala-1300",
    "dala-1600",
@@ -4823,6 +4827,7 @@
    "jurdbird",
    "justbot-v1",
    "kahunabot",
+   "kakabot",
    "kavinengine",
    "kbelludoo",
    "kestrelstrike",
@@ -4885,7 +4890,6 @@
    "matmoi",
    "mayflyengine",
    "mcdonalds1955",
-   "mdbot",
    "mega-noob-bot",
    "melsh_bot",
    "milanbot",
@@ -4899,13 +4903,11 @@
    "mychessjava",
    "nanozeroorg",
    "ndashka_bot",
-   "neryba",
    "neurosocute",
    "nexastrat",
    "nibbleknight",
    "nice_bot",
    "nichteliasbot",
-   "nickdrohan",
    "nilatacbot",
    "nnueandthevoices",
    "noabot",
@@ -4915,7 +4917,9 @@
    "onezenpanda",
    "openinggenie2000",
    "openingsbot",
+   "opycep",
    "overfitted",
+   "oxybullet",
    "pangubot",
    "panic-fish",
    "partner3615diago",
@@ -4934,7 +4938,6 @@
    "playmarius",
    "plumboi",
    "plumbot",
-   "pontiengine",
    "premove90-1500",
    "prokopakop",
    "prosperobot",
@@ -4943,7 +4946,6 @@
    "pzchessbot",
    "quirkafleeg-zx48k",
    "quirkafleeg-zxnext",
-   "racingkingsbot_1",
    "radianceengine",
    "raspfish",
    "ratsu-bot",
@@ -4952,7 +4954,6 @@
    "ray-bot",
    "rdtchessbot",
    "remychessengine",
-   "resolutebot",
    "ribfish-bot",
    "rudim-bot",
    "rustbot2003",
@@ -4972,11 +4973,13 @@
    "silasly",
    "sim3million",
    "simple-bot",
+   "simpleeval",
    "sj_norbot",
    "slate-engine",
    "sleepish",
    "sleepmindengine",
    "slowmate_bot",
+   "sluicing",
    "snaky-bot",
    "solobot",
    "sparkchessengine",
@@ -5035,7 +5038,6 @@
    "waldemar-the-elf",
    "walpurti",
    "wannalearnbot",
-   "wedge_engine",
    "weiawaga",
    "worstfish",
    "z-o_aspenlabs",
