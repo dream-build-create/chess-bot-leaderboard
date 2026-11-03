@@ -172,7 +172,7 @@
   },
   "anti-bot": {
    "first_seen": "2026-09-27",
-   "last_online": "2026-11-02",
+   "last_online": "2026-11-03",
    "username": "anti-bot"
   },
   "antibotv3-7": {
@@ -357,7 +357,7 @@
   },
   "batyarapro": {
    "first_seen": "2026-09-27",
-   "last_online": "2026-11-02",
+   "last_online": "2026-11-03",
    "username": "BatyaraPro"
   },
   "bbc_bot": {
@@ -927,7 +927,7 @@
   },
   "classic_bot-v2": {
    "first_seen": "2026-09-27",
-   "last_online": "2026-11-02",
+   "last_online": "2026-11-03",
    "username": "Classic_BOT-v2"
   },
   "classical-leela": {
@@ -1362,7 +1362,7 @@
   },
   "epimetheusbot": {
    "first_seen": "2026-09-28",
-   "last_online": "2026-11-02",
+   "last_online": "2026-11-03",
    "username": "EpimetheusBot"
   },
   "epo_5_chess_engine": {
@@ -1752,7 +1752,7 @@
   },
   "huginn_bot": {
    "first_seen": "2026-11-01",
-   "last_online": "2026-11-01",
+   "last_online": "2026-11-03",
    "username": "Huginn_bot"
   },
   "hummus-bot": {
@@ -2862,7 +2862,7 @@
   },
   "nexosdefos": {
    "first_seen": "2026-09-27",
-   "last_online": "2026-11-02",
+   "last_online": "2026-11-03",
    "username": "NexosDefos"
   },
   "next_uzbek": {
@@ -3540,6 +3540,11 @@
    "last_online": "2026-11-02",
    "username": "rust-in-pieces"
   },
+  "rust-in-pieces-nnue": {
+   "first_seen": "2026-11-03",
+   "last_online": "2026-11-03",
+   "username": "rust-in-pieces-nnue"
+  },
   "rustbot2003": {
    "first_seen": "2026-09-29",
    "last_online": "2026-11-03",
@@ -4182,7 +4187,7 @@
   },
   "tikifish": {
    "first_seen": "2026-09-27",
-   "last_online": "2026-11-02",
+   "last_online": "2026-11-03",
    "username": "TikiFish"
   },
   "tilapiabot": {
@@ -4642,7 +4647,7 @@
   }
  },
  "online": {
-  "checked_at": "2026-11-03T00:43:10Z",
+  "checked_at": "2026-11-03T01:43:20Z",
   "ids": [
    "aatk_vanguardx",
    "aconcaguabot",
@@ -4657,6 +4662,7 @@
    "angela_eng",
    "anna-bot",
    "annie_archy",
+   "anti-bot",
    "antibotv3-7",
    "aposeij",
    "approximationbot",
@@ -4670,7 +4676,7 @@
    "athena-chessbot",
    "axiom_bot",
    "banerot",
-   "battlebornthe4th",
+   "batyarapro",
    "bbc_bot",
    "becela9_kpebetka",
    "berkbot",
@@ -4709,6 +4715,7 @@
    "chill4ce",
    "chronicgambler",
    "cinder-bot",
+   "classic_bot-v2",
    "classical-leela",
    "claude_bot",
    "clessy-bot",
@@ -4751,7 +4758,7 @@
    "endspiel-engine",
    "endspiel-pi",
    "entebot",
-   "erin_brain",
+   "epimetheusbot",
    "falconengine",
    "fathzer-jchess",
    "felipe_bot_53",
@@ -4772,7 +4779,6 @@
    "gnu4u",
    "gochess6767",
    "goldfish-engine",
-   "goldinho1bot",
    "goopis",
    "grail-bot",
    "grapechessengine",
@@ -4782,6 +4788,7 @@
    "halcyonbot",
    "hardrok",
    "hiusbot",
+   "huginn_bot",
    "hummus-bot",
    "hustler_1mb",
    "hustler_2mb",
@@ -4885,10 +4892,10 @@
    "mychessjava",
    "nanozeroorg",
    "ndashka_bot",
-   "neryba",
    "neurosocute",
    "newchessengine-ai",
    "nexastrat",
+   "nexosdefos",
    "nibbleknight",
    "nice_bot",
    "nichteliasbot",
@@ -4902,7 +4909,6 @@
    "onezenpanda",
    "openinggenie2000",
    "openingsbot",
-   "osaurus",
    "overfitted",
    "oxybullet",
    "pangubot",
@@ -4943,6 +4949,7 @@
    "resolutebot",
    "ribfish-bot",
    "rudim-bot",
+   "rust-in-pieces-nnue",
    "rustbot2003",
    "ryu-ishigori",
    "sapling-bot",
@@ -4999,6 +5006,7 @@
    "throrbjorn",
    "thunfisch-bot",
    "tigrament",
+   "tikifish",
    "tilapiabot",
    "to299d",
    "togaii",
