@@ -87,7 +87,7 @@
   },
   "ajedrezchamberi": {
    "first_seen": "2026-09-29",
-   "last_online": "2026-11-02",
+   "last_online": "2026-11-03",
    "username": "AjedrezChamberi"
   },
   "alarm2001": {
@@ -732,7 +732,7 @@
   },
   "chamberiajedrez": {
    "first_seen": "2026-09-29",
-   "last_online": "2026-11-02",
+   "last_online": "2026-11-03",
    "username": "ChamberiAjedrez"
   },
   "chaotong_engine": {
@@ -1042,7 +1042,7 @@
   },
   "creaticachessbot": {
    "first_seen": "2026-09-29",
-   "last_online": "2026-11-02",
+   "last_online": "2026-11-03",
    "username": "CreaticaChessBot"
   },
   "croco_bot": {
@@ -1064,6 +1064,11 @@
    "first_seen": "2026-10-01",
    "last_online": "2026-11-03",
    "username": "CruelKen"
+  },
+  "crustik-bot": {
+   "first_seen": "2026-11-03",
+   "last_online": "2026-11-03",
+   "username": "Crustik-bot"
   },
   "cutebot": {
    "first_seen": "2026-09-27",
@@ -1684,6 +1689,11 @@
    "first_seen": "2026-10-05",
    "last_online": "2026-11-02",
    "username": "GuoFish"
+  },
+  "gyatsobot": {
+   "first_seen": "2026-11-03",
+   "last_online": "2026-11-03",
+   "username": "GyatsoBot"
   },
   "hackerchessbot": {
    "first_seen": "2026-09-27",
@@ -3977,7 +3987,7 @@
   },
   "streamervschat": {
    "first_seen": "2026-09-27",
-   "last_online": "2026-10-26",
+   "last_online": "2026-11-03",
    "username": "StreamerVSChat"
   },
   "stronggoliath": {
@@ -4652,7 +4662,7 @@
   }
  },
  "online": {
-  "checked_at": "2026-11-03T08:43:11Z",
+  "checked_at": "2026-11-03T09:43:10Z",
   "ids": [
    "aatk_vanguardx",
    "aconcaguabot",
@@ -4660,6 +4670,7 @@
    "aggressivestockfish",
    "ai-con",
    "ailedbot",
+   "ajedrezchamberi",
    "alexandrya",
    "aliceshiro",
    "alieknek",
@@ -4685,6 +4696,7 @@
    "berkbot",
    "bernstein-2ply",
    "bernstein-4ply",
+   "beyondheliosai",
    "bfiedler-bot",
    "bitbitbot",
    "bluemoonbot",
@@ -4698,12 +4710,14 @@
    "bubblebot2",
    "byte-knight",
    "bytefish",
+   "c-t-r-l",
    "c0kval",
    "caiporabot",
    "cannotcheckmateme",
    "casanchess-nnue",
    "catnail",
    "catriever",
+   "chamberiajedrez",
    "charibot",
    "chess_set_manager",
    "chessgeniusbot",
@@ -4726,10 +4740,12 @@
    "confidencebuilder",
    "cookiebot711",
    "craftyuci",
+   "creaticachessbot",
    "croco_bot",
    "croco_little_bot",
    "crocodile_bot",
    "cruelken",
+   "crustik-bot",
    "dala-1100",
    "dala-1300",
    "dala-1600",
@@ -4746,7 +4762,6 @@
    "demolito_l2",
    "demolito_l3",
    "demolito_l5",
-   "despitefire",
    "dravox",
    "drawfish-reborn",
    "drewschessmachine",
@@ -4785,6 +4800,7 @@
    "grapechessengine",
    "grindfish",
    "groshboss",
+   "gyatsobot",
    "halcyonbot",
    "hiusbot",
    "hummus-bot",
@@ -4814,7 +4830,6 @@
    "kestrelstrike",
    "kingzbot",
    "kirinchessbot",
-   "koi_engine",
    "kolmato",
    "kopyto_dev",
    "kulubot",
@@ -4870,6 +4885,7 @@
    "mate1-bot",
    "matmoi",
    "mayflyengine",
+   "mcdonalds1955",
    "mdbot",
    "mega-noob-bot",
    "melsh_bot",
@@ -4971,6 +4987,7 @@
    "stockdory",
    "stockfishlowdepth",
    "stockpapagei",
+   "streamervschat",
    "stronggoliath",
    "studyloversz-bot",
    "stupidfishbotbydscs",
@@ -4983,6 +5000,7 @@
    "tallikebot",
    "talosbot",
    "tempocore",
+   "tente8x",
    "terconari",
    "territorybot",
    "thechessblazer",
@@ -5001,7 +5019,6 @@
    "turochamp-1ply",
    "turochamp-2ply",
    "twosillypandas",
-   "uiagbot",
    "ursus_bot",
    "usunfish",
    "usunfish-l0",
