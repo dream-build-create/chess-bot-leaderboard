@@ -342,7 +342,7 @@
   },
   "battlebornthe3rd": {
    "first_seen": "2026-09-29",
-   "last_online": "2026-10-29",
+   "last_online": "2026-11-03",
    "username": "BattleBornThe3rd"
   },
   "battlebornthe4th": {
@@ -752,7 +752,7 @@
   },
   "checkmare666bot": {
    "first_seen": "2026-09-30",
-   "last_online": "2026-11-02",
+   "last_online": "2026-11-03",
    "username": "CHECKMARE666Bot"
   },
   "checkmatebutlouder": {
@@ -2677,7 +2677,7 @@
   },
   "mind_bot": {
    "first_seen": "2026-10-03",
-   "last_online": "2026-11-02",
+   "last_online": "2026-11-03",
    "username": "Mind_BOT"
   },
   "minibotapi": {
@@ -2912,7 +2912,7 @@
   },
   "nickl1bot": {
    "first_seen": "2026-10-11",
-   "last_online": "2026-11-02",
+   "last_online": "2026-11-03",
    "username": "nickl1bot"
   },
   "nightfall_dev": {
@@ -3337,7 +3337,7 @@
   },
   "rachl1": {
    "first_seen": "2026-10-06",
-   "last_online": "2026-11-02",
+   "last_online": "2026-11-03",
    "username": "rachl1"
   },
   "racingkingsbot_1": {
@@ -3422,7 +3422,7 @@
   },
   "reality_bot": {
    "first_seen": "2026-10-10",
-   "last_online": "2026-11-01",
+   "last_online": "2026-11-03",
    "username": "Reality_BOT"
   },
   "reaper1bot": {
@@ -3487,7 +3487,7 @@
   },
   "rocketengine": {
    "first_seen": "2026-10-11",
-   "last_online": "2026-10-30",
+   "last_online": "2026-11-03",
    "username": "RocketEngine"
   },
   "rockingsuperstars": {
@@ -4142,7 +4142,7 @@
   },
   "test-z": {
    "first_seen": "2026-10-30",
-   "last_online": "2026-10-30",
+   "last_online": "2026-11-03",
    "username": "TesT-Z"
   },
   "the9masters": {
@@ -4667,7 +4667,7 @@
   }
  },
  "online": {
-  "checked_at": "2026-11-03T14:43:11Z",
+  "checked_at": "2026-11-03T15:43:10Z",
   "ids": [
    "aaronsengine",
    "aatk_vanguardx",
@@ -4690,6 +4690,7 @@
    "approximationbot",
    "arabicannue",
    "arasanx",
+   "arkiplayschess",
    "arroccobot",
    "artidigm_research",
    "ashnostromo",
@@ -4697,6 +4698,7 @@
    "athena-chessbot",
    "axiom_bot",
    "banerot",
+   "battlebornthe3rd",
    "batyarapro",
    "bbc_bot",
    "becela9_kpebetka",
@@ -4708,6 +4710,7 @@
    "black-bishop-kh",
    "blackeventhorizon",
    "bluemoonbot",
+   "bobby_pcolla",
    "bongaclang",
    "bot5551",
    "bot64jaques",
@@ -4725,7 +4728,9 @@
    "catriever",
    "chamberiajedrez",
    "charibot",
+   "checkmare666bot",
    "chess_know",
+   "chessgeniusbot",
    "chessiverse_ethan",
    "chessiverse_luc",
    "chessiverse_pawnza",
@@ -4777,7 +4782,6 @@
    "elexunix_chess_bot",
    "ellen_replay",
    "elmichess",
-   "endspiel-pi",
    "entebot",
    "falconengine",
    "fathzer-jchess",
@@ -4821,6 +4825,7 @@
    "jimmy_inc3710",
    "joan_clone",
    "joey_chessengine",
+   "jongsungkim",
    "joshsbot",
    "jpg-bot",
    "jurdbird",
@@ -4845,7 +4850,6 @@
    "leelaanyodds",
    "leelajester",
    "leelaknightodds",
-   "leelamultiposs",
    "leelapieceodds",
    "leelaqueenforknight",
    "leelaqueenodds",
@@ -4890,13 +4894,12 @@
    "mate-in-twenty",
    "mate1-bot",
    "matmoi",
-   "maximaengine",
    "mayflyengine",
-   "mcdonalds1955",
    "mega-noob-bot",
    "melsh_bot",
    "milanbot",
    "mimirbot",
+   "mind_bot",
    "minimax_chessy_lol",
    "minopponentmoves",
    "mithandros",
@@ -4904,6 +4907,7 @@
    "morabandbot",
    "mostlyhuman1900",
    "mrtonnerre",
+   "munzurbot2",
    "mychessjava",
    "nanozeroorg",
    "ndashka_bot",
@@ -4915,6 +4919,7 @@
    "nice_bot",
    "nichteliasbot",
    "nickdrohan",
+   "nickl1bot",
    "nilatacbot",
    "nnueandthevoices",
    "noabot",
@@ -4945,14 +4950,14 @@
    "playmarius",
    "plumboi",
    "plumbot",
+   "power_stone",
    "premove90-1500",
    "prokopakop",
    "psion-chess",
    "puisne",
    "pzchessbot",
-   "qioui",
-   "quirkafleeg-zx48k",
    "quirkafleeg-zxnext",
+   "rachl1",
    "radianceengine",
    "raspfish",
    "ratsu-bot",
@@ -4960,8 +4965,10 @@
    "ravenengine",
    "ray-bot",
    "rdtchessbot",
+   "reality_bot",
    "remychessengine",
    "ribfish-bot",
+   "rocketengine",
    "rudim-bot",
    "rustbot2003",
    "ryu-ishigori",
@@ -4989,7 +4996,8 @@
    "sluicing",
    "snaky-bot",
    "solobot",
-   "soulgar",
+   "space_bot",
+   "sparkchessengine",
    "springerbot",
    "squarefish-900",
    "sseh-c",
@@ -5012,6 +5020,7 @@
    "tente8x",
    "terconari",
    "territorybot",
+   "test-z",
    "thechessblazer",
    "thunfisch-bot",
    "tigrament",
