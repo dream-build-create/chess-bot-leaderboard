@@ -2,7 +2,7 @@
  "bots": {
   "aaronsengine": {
    "first_seen": "2026-09-27",
-   "last_online": "2026-11-02",
+   "last_online": "2026-11-03",
    "username": "AaronsEngine"
   },
   "aathena101": {
@@ -437,7 +437,7 @@
   },
   "black-bishop-kh": {
    "first_seen": "2026-09-28",
-   "last_online": "2026-11-02",
+   "last_online": "2026-11-03",
    "username": "Black-Bishop-Kh"
   },
   "black-icebot": {
@@ -2967,7 +2967,7 @@
   },
   "o_gg_o": {
    "first_seen": "2026-10-23",
-   "last_online": "2026-11-01",
+   "last_online": "2026-11-03",
    "username": "O_gg_O"
   },
   "odonata-bot": {
@@ -3107,7 +3107,7 @@
   },
   "peanet0": {
    "first_seen": "2026-10-05",
-   "last_online": "2026-10-05",
+   "last_online": "2026-11-03",
    "username": "PeaNet0"
   },
   "perl-gigachess": {
@@ -4512,7 +4512,7 @@
   },
   "wannalearnbot": {
    "first_seen": "2026-09-27",
-   "last_online": "2026-10-28",
+   "last_online": "2026-11-03",
    "username": "wannalearnbot"
   },
   "wardnbot": {
@@ -4662,8 +4662,9 @@
   }
  },
  "online": {
-  "checked_at": "2026-11-03T09:43:10Z",
+  "checked_at": "2026-11-03T10:43:09Z",
   "ids": [
+   "aaronsengine",
    "aatk_vanguardx",
    "aconcaguabot",
    "aetherbot",
@@ -4696,9 +4697,9 @@
    "berkbot",
    "bernstein-2ply",
    "bernstein-4ply",
-   "beyondheliosai",
    "bfiedler-bot",
    "bitbitbot",
+   "black-bishop-kh",
    "bluemoonbot",
    "bobby_pcolla",
    "bongaclang",
@@ -4800,7 +4801,6 @@
    "grapechessengine",
    "grindfish",
    "groshboss",
-   "gyatsobot",
    "halcyonbot",
    "hiusbot",
    "hummus-bot",
@@ -4841,6 +4841,7 @@
    "leelaanyodds",
    "leelajester",
    "leelaknightodds",
+   "leelamultiposs",
    "leelapieceodds",
    "leelaqueenforknight",
    "leelaqueenodds",
@@ -4900,6 +4901,7 @@
    "mychessjava",
    "nanozeroorg",
    "ndashka_bot",
+   "neryba",
    "neurosocute",
    "nexastrat",
    "nibbleknight",
@@ -4910,6 +4912,7 @@
    "nnueandthevoices",
    "noabot",
    "o-rei-cx",
+   "o_gg_o",
    "odonata-bot",
    "onezenpanda",
    "openinggenie2000",
@@ -4924,6 +4927,7 @@
    "pawn_git",
    "peacemaker-0_0",
    "peachfruit",
+   "peanet0",
    "perl-gigachess",
    "philidor-142m",
    "pi0w",
@@ -4979,6 +4983,7 @@
    "slowmate_bot",
    "snaky-bot",
    "solobot",
+   "sparkchessengine",
    "springerbot",
    "squarefish-900",
    "sseh-c",
@@ -5000,7 +5005,6 @@
    "tallikebot",
    "talosbot",
    "tempocore",
-   "tente8x",
    "terconari",
    "territorybot",
    "thechessblazer",
@@ -5035,6 +5039,7 @@
    "vortexaurafarm",
    "waldemar-the-elf",
    "walpurti",
+   "wannalearnbot",
    "wedge_engine",
    "weiawaga",
    "worstfish",
