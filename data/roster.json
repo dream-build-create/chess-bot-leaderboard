@@ -1192,7 +1192,7 @@
   },
   "demolito_l4": {
    "first_seen": "2026-09-27",
-   "last_online": "2026-11-02",
+   "last_online": "2026-11-03",
    "username": "Demolito_L4"
   },
   "demolito_l5": {
@@ -2102,7 +2102,7 @@
   },
   "koi_engine": {
    "first_seen": "2026-10-23",
-   "last_online": "2026-11-02",
+   "last_online": "2026-11-03",
    "username": "koi_engine"
   },
   "kolmato": {
@@ -3297,7 +3297,7 @@
   },
   "queensgambot": {
    "first_seen": "2026-09-27",
-   "last_online": "2026-11-02",
+   "last_online": "2026-11-03",
    "username": "QueensGamBOT"
   },
   "quirkafleeg-zx48k": {
@@ -4647,7 +4647,7 @@
   }
  },
  "online": {
-  "checked_at": "2026-11-03T01:43:20Z",
+  "checked_at": "2026-11-03T02:43:09Z",
   "ids": [
    "aatk_vanguardx",
    "aconcaguabot",
@@ -4692,20 +4692,17 @@
    "bot5551",
    "bot64jaques",
    "bot_adario",
-   "botkingteam33",
    "bottios",
    "bretemabot",
    "bubblebot2",
    "byte-knight",
    "c-t-r-l",
-   "c0kval",
    "caiporabot",
    "cannotcheckmateme",
    "casanchess-nnue",
    "catnail",
    "catriever",
    "charibot",
-   "chess_set_manager",
    "chessiverse_ethan",
    "chessiverse_luc",
    "chessiverse_pawnza",
@@ -4743,6 +4740,7 @@
    "demolito_l1",
    "demolito_l2",
    "demolito_l3",
+   "demolito_l4",
    "demolito_l5",
    "dravox",
    "drawfish-reborn",
@@ -4758,7 +4756,6 @@
    "endspiel-engine",
    "endspiel-pi",
    "entebot",
-   "epimetheusbot",
    "falconengine",
    "fathzer-jchess",
    "felipe_bot_53",
@@ -4788,7 +4785,6 @@
    "halcyonbot",
    "hardrok",
    "hiusbot",
-   "huginn_bot",
    "hummus-bot",
    "hustler_1mb",
    "hustler_2mb",
@@ -4816,8 +4812,8 @@
    "kestrelstrike",
    "kingzbot",
    "kirinchessbot",
-   "kissol-chess",
    "kittyenginev5",
+   "koi_engine",
    "kolmato",
    "kopyto_dev",
    "kulubot",
@@ -4903,7 +4899,6 @@
    "nilatacbot",
    "nnueandthevoices",
    "noabot",
-   "notropis",
    "o-rei-cx",
    "odonata-bot",
    "onezenpanda",
@@ -4929,13 +4924,13 @@
    "playmarius",
    "plumboi",
    "plumbot",
-   "power_stone",
    "premove90-1500",
    "prokopakop",
    "prosperobot",
    "psion-chess",
    "puisne",
    "pzchessbot",
+   "queensgambot",
    "quirkafleeg-zx48k",
    "quirkafleeg-zxnext",
    "radianceengine",
@@ -4975,7 +4970,6 @@
    "slowmate_bot",
    "snaky-bot",
    "solobot",
-   "space_bot",
    "sparkchessengine",
    "springerbot",
    "squarefish-900",
