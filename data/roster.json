@@ -337,7 +337,7 @@
   },
   "battlebornthe2nd": {
    "first_seen": "2026-09-28",
-   "last_online": "2026-11-02",
+   "last_online": "2026-11-03",
    "username": "BattleBornThe2nd"
   },
   "battlebornthe3rd": {
@@ -689,6 +689,11 @@
    "first_seen": "2026-09-27",
    "last_online": "2026-11-03",
    "username": "cannotcheckmateme"
+  },
+  "caprastar": {
+   "first_seen": "2026-11-03",
+   "last_online": "2026-11-03",
+   "username": "CapraStar"
   },
   "capybara_chessbot": {
    "first_seen": "2026-09-27",
@@ -1402,7 +1407,7 @@
   },
   "escarbo": {
    "first_seen": "2026-09-28",
-   "last_online": "2026-11-01",
+   "last_online": "2026-11-03",
    "username": "escarbo"
   },
   "eubos": {
@@ -1912,7 +1917,7 @@
   },
   "jakgro": {
    "first_seen": "2026-10-19",
-   "last_online": "2026-10-22",
+   "last_online": "2026-11-03",
    "username": "jakgro"
   },
   "jangine": {
@@ -1932,7 +1937,7 @@
   },
   "jembok": {
    "first_seen": "2026-10-11",
-   "last_online": "2026-11-02",
+   "last_online": "2026-11-03",
    "username": "JemBok"
   },
   "jenniferx": {
@@ -3335,6 +3340,11 @@
    "last_online": "2026-11-03",
    "username": "QueensGamBOT"
   },
+  "quirkafleeg-pc": {
+   "first_seen": "2026-11-03",
+   "last_online": "2026-11-03",
+   "username": "Quirkafleeg-PC"
+  },
   "quirkafleeg-zx48k": {
    "first_seen": "2026-11-02",
    "last_online": "2026-11-03",
@@ -4682,7 +4692,7 @@
   }
  },
  "online": {
-  "checked_at": "2026-11-03T21:43:16Z",
+  "checked_at": "2026-11-03T22:43:15Z",
   "ids": [
    "aatk_vanguardx",
    "aconcaguabot",
@@ -4712,8 +4722,8 @@
    "athena-chessbot",
    "axiom_bot",
    "banerot",
+   "battlebornthe2nd",
    "bbc_bot",
-   "beatrijs-bot",
    "berkbot",
    "bernstein-2ply",
    "bernstein-4ply",
@@ -4734,6 +4744,7 @@
    "c-t-r-l",
    "c0kval",
    "caiporabot",
+   "caprastar",
    "casanchess-nnue",
    "catnail",
    "catriever",
@@ -4776,9 +4787,9 @@
    "deepbecky",
    "deepsquare-ai",
    "demen100ns-bot",
-   "demolito_l1",
    "demolito_l2",
    "demolito_l3",
+   "demolito_l4",
    "demolito_l5",
    "dravox",
    "drawfish-reborn",
@@ -4791,8 +4802,10 @@
    "elexunix_chess_bot",
    "ellen_replay",
    "elmichess",
+   "endspiel-engine",
    "endspiel-pi",
    "entebot",
+   "escarbo",
    "falconengine",
    "fathzer-jchess",
    "felipe_bot_53",
@@ -4829,9 +4842,12 @@
    "hyperopic",
    "icarus-bot",
    "incipit_bot",
+   "is_boss",
    "iskelt-corax",
+   "jakgro",
    "jangine",
    "jaxakos13_bot",
+   "jembok",
    "jev-bot-2",
    "jibbby",
    "jimmy_inc3710",
@@ -4843,18 +4859,17 @@
    "jurdbird",
    "justbot-v1",
    "kahunabot",
+   "kakabot",
    "kavinengine",
    "kbelludoo",
    "kestrelstrike",
    "kingzbot",
    "kirinchessbot",
-   "kittyenginev5",
    "koi_engine",
    "kolmato",
    "kopyto_dev",
    "kulubot",
    "lamprook",
-   "lancelbot",
    "larryz-alterego",
    "latrunculi-bot",
    "laura-bot",
@@ -4919,7 +4934,6 @@
    "morabandbot",
    "mostlyhuman1900",
    "mrtonnerre",
-   "munzurbot2",
    "mychessjava",
    "nanozeroorg",
    "ndashka_bot",
@@ -4929,13 +4943,13 @@
    "nice_bot",
    "nichteliasbot",
    "nickdrohan",
-   "nickl1bot",
    "nilatacbot",
    "nnueandthevoices",
    "noabot",
    "o-rei-cx",
    "odonata-bot",
    "onezenpanda",
+   "openinggenie2000",
    "openingsbot",
    "overfitted",
    "oxybullet",
@@ -4955,7 +4969,6 @@
    "pierreai",
    "piglet_engine",
    "playmarius",
-   "playmimir",
    "plumboi",
    "plumbot",
    "premove90-1500",
@@ -4964,9 +4977,11 @@
    "psion-chess",
    "puisne",
    "pzchessbot",
+   "quirkafleeg-pc",
    "quirkafleeg-zx48k",
    "quirkafleeg-zxnext",
    "radianceengine",
+   "raspfish",
    "ratsu-bot",
    "raven030",
    "ravenengine",
@@ -5009,6 +5024,7 @@
    "stickshark99",
    "stockcotsfish",
    "stockdory",
+   "stockfishlowdepth",
    "stockpapagei",
    "stormbot",
    "streamervschat",
@@ -5027,6 +5043,7 @@
    "terconari",
    "territorybot",
    "thechessblazer",
+   "thomengine",
    "throrbjorn",
    "thunfisch-bot",
    "tigrament",
@@ -5057,7 +5074,6 @@
    "vic98lg",
    "vicentlittle",
    "vietnamesecoffee",
-   "viviblitzfr",
    "vortex_bot",
    "vortexaurafarm",
    "waldemar-the-elf",
