@@ -87,7 +87,7 @@
   },
   "ajedrezchamberi": {
    "first_seen": "2026-09-29",
-   "last_online": "2026-11-03",
+   "last_online": "2026-11-04",
    "username": "AjedrezChamberi"
   },
   "alarm2001": {
@@ -742,7 +742,7 @@
   },
   "chamberiajedrez": {
    "first_seen": "2026-09-29",
-   "last_online": "2026-11-03",
+   "last_online": "2026-11-04",
    "username": "ChamberiAjedrez"
   },
   "chaotong_engine": {
@@ -1207,7 +1207,7 @@
   },
   "demolito_l4": {
    "first_seen": "2026-09-27",
-   "last_online": "2026-11-03",
+   "last_online": "2026-11-04",
    "username": "Demolito_L4"
   },
   "demolito_l5": {
@@ -1217,7 +1217,7 @@
   },
   "demolito_l6": {
    "first_seen": "2026-10-12",
-   "last_online": "2026-10-31",
+   "last_online": "2026-11-04",
    "username": "Demolito_L6"
   },
   "despitefire": {
@@ -4037,7 +4037,7 @@
   },
   "studyloversz-bot": {
    "first_seen": "2026-09-27",
-   "last_online": "2026-11-03",
+   "last_online": "2026-11-04",
    "username": "Studyloversz-bot"
   },
   "stupidchessrobot": {
@@ -4702,7 +4702,7 @@
   }
  },
  "online": {
-  "checked_at": "2026-11-04T10:43:11Z",
+  "checked_at": "2026-11-04T11:43:09Z",
   "ids": [
    "aaronsengine",
    "aatk_vanguardx",
@@ -4712,6 +4712,7 @@
    "aggressivestockfish",
    "ai-con",
    "ailedbot",
+   "ajedrezchamberi",
    "alexandrya",
    "aliceshiro",
    "alieknek",
@@ -4758,6 +4759,7 @@
    "casanchess-nnue",
    "catnail",
    "catriever",
+   "chamberiajedrez",
    "charibot",
    "chess_know",
    "chessgeniusbot",
@@ -4798,6 +4800,9 @@
    "demen100ns-bot",
    "demolito_l2",
    "demolito_l3",
+   "demolito_l4",
+   "demolito_l5",
+   "demolito_l6",
    "dravox",
    "drawfish-reborn",
    "drewschessmachine",
@@ -4808,7 +4813,6 @@
    "elexunix_chess_bot",
    "ellen_replay",
    "elmichess",
-   "endspiel-engine",
    "endspiel-pi",
    "entebot",
    "eubos",
@@ -4827,7 +4831,6 @@
    "gambittai",
    "garbobot",
    "georgii_ai",
-   "geotsibot",
    "giffibot",
    "gnu4u",
    "gochess6767",
@@ -4850,6 +4853,7 @@
    "iskelt-corax",
    "jakgro",
    "jangine",
+   "jaxakos13_bot",
    "jev-bot-2",
    "jibbby",
    "jimmy_inc3710",
@@ -4981,7 +4985,6 @@
    "puisne",
    "pzchessbot",
    "quirkafleeg-pc",
-   "quirkafleeg-zx48k",
    "quirkafleeg-zxnext",
    "radianceengine",
    "raspfish",
@@ -5030,6 +5033,7 @@
    "stockpapagei",
    "streamervschat",
    "stronggoliath",
+   "studyloversz-bot",
    "stupidfishbotbydscs",
    "sunfish-engine",
    "sunfish-nnue-engine",
@@ -5045,7 +5049,6 @@
    "thechessblazer",
    "thunfisch-bot",
    "tigrament",
-   "tikifish",
    "tilapiabot",
    "to299d",
    "togaii",
@@ -5072,7 +5075,6 @@
    "vic98lg",
    "vicentlittle",
    "vietnamesecoffee",
-   "void_bot",
    "vortex_bot",
    "vortexaurafarm",
    "waldemar-the-elf",
