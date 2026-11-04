@@ -2,7 +2,7 @@
  "bots": {
   "aaronsengine": {
    "first_seen": "2026-09-27",
-   "last_online": "2026-11-03",
+   "last_online": "2026-11-04",
    "username": "AaronsEngine"
   },
   "aathena101": {
@@ -442,7 +442,7 @@
   },
   "black-bishop-kh": {
    "first_seen": "2026-09-28",
-   "last_online": "2026-11-03",
+   "last_online": "2026-11-04",
    "username": "Black-Bishop-Kh"
   },
   "black-icebot": {
@@ -817,7 +817,7 @@
   },
   "chess_know": {
    "first_seen": "2026-10-17",
-   "last_online": "2026-11-03",
+   "last_online": "2026-11-04",
    "username": "chess_know"
   },
   "chess_set_manager": {
@@ -2322,7 +2322,7 @@
   },
   "lili-ai": {
    "first_seen": "2026-10-22",
-   "last_online": "2026-11-02",
+   "last_online": "2026-11-04",
    "username": "Lili-ai"
   },
   "lilitbot": {
@@ -4702,8 +4702,9 @@
   }
  },
  "online": {
-  "checked_at": "2026-11-04T09:43:11Z",
+  "checked_at": "2026-11-04T10:43:11Z",
   "ids": [
+   "aaronsengine",
    "aatk_vanguardx",
    "abcd_engine",
    "aconcaguabot",
@@ -4736,13 +4737,12 @@
    "banerot",
    "batyarapro",
    "bbc_bot",
-   "beatrijs-bot",
-   "becela9_kpebetka",
    "berkbot",
    "bernstein-2ply",
    "bernstein-4ply",
    "bfiedler-bot",
    "bitbitbot",
+   "black-bishop-kh",
    "bluemoonbot",
    "bobby_pcolla",
    "bongaclang",
@@ -4754,12 +4754,12 @@
    "bubblebot2",
    "byte-knight",
    "bytefish",
-   "c-t-r-l",
    "caiporabot",
    "casanchess-nnue",
    "catnail",
    "catriever",
    "charibot",
+   "chess_know",
    "chessgeniusbot",
    "chessiverse_ethan",
    "chessiverse_luc",
@@ -4796,8 +4796,8 @@
    "deepbecky",
    "deepsquare-ai",
    "demen100ns-bot",
+   "demolito_l2",
    "demolito_l3",
-   "despitefire",
    "dravox",
    "drawfish-reborn",
    "drewschessmachine",
@@ -4886,6 +4886,7 @@
    "leelatroll",
    "levymaia",
    "likeawizard-bot",
+   "lili-ai",
    "lilitbot",
    "little-0",
    "littlepatricia",
@@ -4921,9 +4922,7 @@
    "mate-in-twenty",
    "mate1-bot",
    "matmoi",
-   "maximaengine",
    "mayflyengine",
-   "mcdonalds1955",
    "mdbot",
    "mega-noob-bot",
    "melsh_bot",
@@ -4940,7 +4939,6 @@
    "nanozeroorg",
    "ndashka_bot",
    "neurosocute",
-   "newchessengine-ai",
    "nexastrat",
    "nexosdefos",
    "nibbleknight",
@@ -4959,7 +4957,6 @@
    "openingsbot",
    "opycep",
    "overfitted",
-   "oxybullet",
    "pangubot",
    "panic-fish",
    "partner3615diago",
@@ -5022,6 +5019,7 @@
    "slowmate_bot",
    "snaky-bot",
    "solobot",
+   "sparkchessengine",
    "springerbot",
    "squarefish-900",
    "sseh-c",
