@@ -2645,6 +2645,11 @@
    "last_online": "2026-10-08",
    "username": "mchess-engine"
   },
+  "mcvoid-bot": {
+   "first_seen": "2026-11-04",
+   "last_online": "2026-11-04",
+   "username": "mcvoid-bot"
+  },
   "mdbot": {
    "first_seen": "2026-10-28",
    "last_online": "2026-11-04",
@@ -2747,7 +2752,7 @@
   },
   "misere-fish": {
    "first_seen": "2026-10-28",
-   "last_online": "2026-11-01",
+   "last_online": "2026-11-04",
    "username": "Misere-Fish"
   },
   "miss_snowiee": {
@@ -3024,6 +3029,11 @@
    "first_seen": "2026-09-27",
    "last_online": "2026-09-30",
    "username": "OmegaZero-Bot"
+  },
+  "onechessbot": {
+   "first_seen": "2026-11-04",
+   "last_online": "2026-11-04",
+   "username": "OnechessBot"
   },
   "onezenpanda": {
    "first_seen": "2026-10-02",
@@ -4622,7 +4632,7 @@
   },
   "wildorderbot": {
    "first_seen": "2026-09-28",
-   "last_online": "2026-11-01",
+   "last_online": "2026-11-04",
    "username": "WildorderBot"
   },
   "windmolen_bot": {
@@ -4732,7 +4742,7 @@
   }
  },
  "online": {
-  "checked_at": "2026-11-04T18:43:10Z",
+  "checked_at": "2026-11-04T19:43:10Z",
   "ids": [
    "aaronsengine",
    "abcd_engine",
@@ -4765,7 +4775,6 @@
    "banerot",
    "batyarapro",
    "bbc_bot",
-   "becela9_kpebetka",
    "berkbot",
    "bernstein-2ply",
    "bernstein-4ply",
@@ -4783,6 +4792,7 @@
    "bubblebot2",
    "byte-knight",
    "bytefish",
+   "c-t-r-l",
    "caiporabot",
    "casanchess-nnue",
    "catnail",
@@ -4796,7 +4806,6 @@
    "chesstango_bot",
    "cheszter",
    "chill4ce",
-   "chronicgambler",
    "cinder-bot",
    "classic_bot-v2",
    "classical-leela",
@@ -4863,6 +4872,7 @@
    "goopis",
    "grail-bot",
    "grindfish",
+   "gryndor",
    "halcyonbot",
    "hardrok",
    "hiusbot",
@@ -4916,7 +4926,6 @@
    "lemonjuice10",
    "levymaia",
    "likeawizard-bot",
-   "lili-ai",
    "lilitbot",
    "little-0",
    "littlepatricia",
@@ -4953,13 +4962,14 @@
    "mate1-bot",
    "matmoi",
    "mayflyengine",
-   "mcdonalds1955",
+   "mcvoid-bot",
    "mega-noob-bot",
    "melsh_bot",
    "michaamateurbot",
    "milanbot",
    "mimirbot",
    "minopponentmoves",
+   "misere-fish",
    "mithandros",
    "mochi_bot",
    "morabandbot",
@@ -4969,7 +4979,6 @@
    "nanozeroorg",
    "ndashka_bot",
    "neurosocute",
-   "newchessengine-ai",
    "nexastrat",
    "nexosdefos",
    "nibbleknight",
@@ -4983,11 +4992,11 @@
    "notropis",
    "o-rei-cx",
    "odonata-bot",
+   "onechessbot",
    "onezenpanda",
    "openinggenie2000",
    "openingsbot",
    "overfitted",
-   "oxybullet",
    "pangubot",
    "panic-fish",
    "partner3615diago",
@@ -5013,7 +5022,6 @@
    "quirkafleeg-pc",
    "quirkafleeg-zx48k",
    "quirkafleeg-zxnext",
-   "racingkingsbot_1",
    "radianceengine",
    "raspfish",
    "ratsu-bot",
@@ -5021,7 +5029,6 @@
    "ravenengine",
    "ray-bot",
    "rdtchessbot",
-   "reality_bot",
    "remychessengine",
    "resolutebot",
    "ribfish-bot",
@@ -5037,7 +5044,6 @@
    "scalaqueen",
    "schnecken_bot",
    "scipio-bot",
-   "seedchess",
    "seitogakatsu",
    "shallowredbot",
    "shrevenbot",
@@ -5086,6 +5092,7 @@
    "tomahawkbot",
    "topasbot",
    "trainer-bot",
+   "traininggroundbot",
    "trenerhetman",
    "trinculobot",
    "troutbot",
@@ -5112,7 +5119,9 @@
    "vortexaurafarm",
    "waldemar-the-elf",
    "walpurti",
+   "wedge_engine",
    "weiawaga",
+   "wildorderbot",
    "worstfish",
    "z-o_aspenlabs",
    "zero3-now",
