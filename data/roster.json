@@ -22,7 +22,7 @@
   },
   "abcd_engine": {
    "first_seen": "2026-09-27",
-   "last_online": "2026-11-02",
+   "last_online": "2026-11-04",
    "username": "abcd_engine"
   },
   "abdcebot": {
@@ -367,7 +367,7 @@
   },
   "beastie1": {
    "first_seen": "2026-09-29",
-   "last_online": "2026-11-01",
+   "last_online": "2026-11-04",
    "username": "beastie1"
   },
   "beatrijs-bot": {
@@ -3347,7 +3347,7 @@
   },
   "queensgambot": {
    "first_seen": "2026-09-27",
-   "last_online": "2026-11-03",
+   "last_online": "2026-11-04",
    "username": "QueensGamBOT"
   },
   "quirkafleeg-pc": {
@@ -4702,9 +4702,10 @@
   }
  },
  "online": {
-  "checked_at": "2026-11-04T01:43:10Z",
+  "checked_at": "2026-11-04T02:43:09Z",
   "ids": [
    "aatk_vanguardx",
+   "abcd_engine",
    "aconcaguabot",
    "aetherbot",
    "aggressivestockfish",
@@ -4735,6 +4736,7 @@
    "banerot",
    "batyarapro",
    "bbc_bot",
+   "beastie1",
    "becela9_kpebetka",
    "berkbot",
    "bernstein-2ply",
@@ -4794,7 +4796,7 @@
    "deepbecky",
    "deepsquare-ai",
    "demen100ns-bot",
-   "demolito_l1",
+   "demolito_l3",
    "demolito_l5",
    "dravox",
    "drawfish-reborn",
@@ -4925,7 +4927,6 @@
    "mayflyengine",
    "mcdonalds1955",
    "mdbot",
-   "meccedo",
    "mega-noob-bot",
    "melsh_bot",
    "michaamateurbot",
@@ -4937,7 +4938,6 @@
    "morabandbot",
    "mostlyhuman1900",
    "mrtonnerre",
-   "munzurbot2",
    "mychessjava",
    "nanozeroorg",
    "ndashka_bot",
@@ -4957,7 +4957,6 @@
    "onezenpanda",
    "openinggenie2000",
    "openingsbot",
-   "osaurus",
    "overfitted",
    "oxybullet",
    "pangubot",
@@ -4985,6 +4984,7 @@
    "psion-chess",
    "puisne",
    "pzchessbot",
+   "queensgambot",
    "quirkafleeg-pc",
    "quirkafleeg-zx48k",
    "quirkafleeg-zxnext",
@@ -5046,6 +5046,7 @@
    "tallikebot",
    "talosbot",
    "tempocore",
+   "tente8x",
    "terconari",
    "territorybot",
    "thechessblazer",
@@ -5083,7 +5084,6 @@
    "vortex_bot",
    "vortexaurafarm",
    "waldemar-the-elf",
-   "walleye_bot",
    "walpurti",
    "weiawaga",
    "worstfish",
