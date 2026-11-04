@@ -447,7 +447,7 @@
   },
   "black-icebot": {
    "first_seen": "2026-10-16",
-   "last_online": "2026-11-02",
+   "last_online": "2026-11-04",
    "username": "BLACK-ICEbot"
   },
   "blackeventhorizon": {
@@ -2147,7 +2147,7 @@
   },
   "kolmato": {
    "first_seen": "2026-11-01",
-   "last_online": "2026-11-03",
+   "last_online": "2026-11-04",
    "username": "kolmato"
   },
   "kopyto_dev": {
@@ -2302,7 +2302,7 @@
   },
   "lemonjuice10": {
    "first_seen": "2026-11-02",
-   "last_online": "2026-11-03",
+   "last_online": "2026-11-04",
    "username": "LemonJuice10"
   },
   "lemuffinbot": {
@@ -3750,6 +3750,11 @@
    "last_online": "2026-10-21",
    "username": "SF_Bot1nok"
   },
+  "shahmatbot": {
+   "first_seen": "2026-11-04",
+   "last_online": "2026-11-04",
+   "username": "SHAHMATBOT"
+  },
   "shallowredbot": {
    "first_seen": "2026-10-13",
    "last_online": "2026-11-04",
@@ -4727,7 +4732,7 @@
   }
  },
  "online": {
-  "checked_at": "2026-11-04T16:43:19Z",
+  "checked_at": "2026-11-04T17:43:10Z",
   "ids": [
    "aaronsengine",
    "abcd_engine",
@@ -4766,6 +4771,7 @@
    "bernstein-4ply",
    "bfiedler-bot",
    "bitbitbot",
+   "black-icebot",
    "bluemoonbot",
    "bobby_pcolla",
    "bongaclang",
@@ -4779,7 +4785,6 @@
    "bubblebot2",
    "byte-knight",
    "bytefish",
-   "c-t-r-l",
    "c0kval",
    "caiporabot",
    "casanchess-nnue",
@@ -4792,7 +4797,6 @@
    "chessiverse_pawnza",
    "chessiverse_raak",
    "chesstango_bot",
-   "chesstitanspro",
    "chesstransformerbot",
    "cheszter",
    "chill4ce",
@@ -4823,8 +4827,9 @@
    "deepbecky",
    "deepsquare-ai",
    "demen100ns-bot",
-   "demolito_l3",
+   "demolito_l2",
    "demolito_l4",
+   "demolito_l5",
    "demolito_l6",
    "dravox",
    "drawfish-reborn",
@@ -4898,6 +4903,7 @@
    "kirinchessbot",
    "kittyenginev5",
    "koi_engine",
+   "kolmato",
    "kopyto_dev",
    "lamprook",
    "larryz-alterego",
@@ -4913,8 +4919,10 @@
    "leelarogue",
    "leelarookodds",
    "leelatroll",
+   "lemonjuice10",
    "levymaia",
    "likeawizard-bot",
+   "lili-ai",
    "lilitbot",
    "little-0",
    "littlepatricia",
@@ -4924,6 +4932,7 @@
    "lunaenginechess",
    "lynx_bot",
    "mac-bot",
+   "madeincyprus",
    "maia1",
    "maia2200_10n",
    "maia3-79m_1000",
@@ -4949,6 +4958,7 @@
    "mate-in-twenty",
    "mate1-bot",
    "matmoi",
+   "maximaengine",
    "mayflyengine",
    "mcdonalds1955",
    "mega-noob-bot",
@@ -4956,9 +4966,7 @@
    "michaamateurbot",
    "milanbot",
    "mimirbot",
-   "mind_bot",
    "minopponentmoves",
-   "miss_snowiee",
    "mithandros",
    "mochi_bot",
    "morabandbot",
@@ -4969,6 +4977,7 @@
    "ndashka_bot",
    "neurosocute",
    "newchessengine-ai",
+   "newtsbot",
    "nexastrat",
    "nexosdefos",
    "nibbleknight",
@@ -5020,6 +5029,7 @@
    "ravenengine",
    "ray-bot",
    "rdtchessbot",
+   "reality_bot",
    "remychessengine",
    "resolutebot",
    "ribfish-bot",
@@ -5037,6 +5047,7 @@
    "scipio-bot",
    "seedchess",
    "seitogakatsu",
+   "shahmatbot",
    "shallowredbot",
    "shrevenbot",
    "silasly",
@@ -5051,7 +5062,6 @@
    "slowmate_bot",
    "snaky-bot",
    "solobot",
-   "sparkchessengine",
    "springerbot",
    "squarefish-900",
    "sseh-c",
@@ -5077,6 +5087,7 @@
    "terconari",
    "territorybot",
    "thechessblazer",
+   "thomengine",
    "thunfisch-bot",
    "tigrament",
    "tikifish",
