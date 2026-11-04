@@ -572,7 +572,7 @@
   },
   "botkingteam33": {
    "first_seen": "2026-10-11",
-   "last_online": "2026-11-03",
+   "last_online": "2026-11-04",
    "username": "Botkingteam33"
   },
   "botsuxx": {
@@ -2122,7 +2122,7 @@
   },
   "knightmare_26": {
    "first_seen": "2026-10-30",
-   "last_online": "2026-11-01",
+   "last_online": "2026-11-04",
    "username": "Knightmare_26"
   },
   "knightowlbot": {
@@ -2435,6 +2435,11 @@
    "last_online": "2026-10-29",
    "username": "MadameEngine"
   },
+  "madeincyprus": {
+   "first_seen": "2026-11-04",
+   "last_online": "2026-11-04",
+   "username": "MadeInCyprus"
+  },
   "magic11bot_coach": {
    "first_seen": "2026-10-01",
    "last_online": "2026-11-01",
@@ -2702,7 +2707,7 @@
   },
   "mind_bot": {
    "first_seen": "2026-10-03",
-   "last_online": "2026-11-03",
+   "last_online": "2026-11-04",
    "username": "Mind_BOT"
   },
   "minibotapi": {
@@ -2892,7 +2897,7 @@
   },
   "newtsbot": {
    "first_seen": "2026-09-27",
-   "last_online": "2026-11-02",
+   "last_online": "2026-11-04",
    "username": "NEWTSbot"
   },
   "nexastrat": {
@@ -3187,7 +3192,7 @@
   },
   "pirates1": {
    "first_seen": "2026-10-01",
-   "last_online": "2026-11-03",
+   "last_online": "2026-11-04",
    "username": "pirates1"
   },
   "pirates2": {
@@ -3462,7 +3467,7 @@
   },
   "reality_bot": {
    "first_seen": "2026-10-10",
-   "last_online": "2026-11-03",
+   "last_online": "2026-11-04",
    "username": "Reality_BOT"
   },
   "reaper1bot": {
@@ -3532,7 +3537,7 @@
   },
   "rockingsuperstars": {
    "first_seen": "2026-09-28",
-   "last_online": "2026-11-01",
+   "last_online": "2026-11-04",
    "username": "RockingSuperstars"
   },
   "rodent-iv": {
@@ -3789,6 +3794,11 @@
    "first_seen": "2026-09-27",
    "last_online": "2026-11-04",
    "username": "simple-bot"
+  },
+  "simplechessengine": {
+   "first_seen": "2026-11-04",
+   "last_online": "2026-11-04",
+   "username": "SimpleChessEngine"
   },
   "simplechessnnue": {
    "first_seen": "2026-10-04",
@@ -4707,7 +4717,7 @@
   }
  },
  "online": {
-  "checked_at": "2026-11-04T13:43:09Z",
+  "checked_at": "2026-11-04T14:43:11Z",
   "ids": [
    "aaronsengine",
    "abcd_engine",
@@ -4726,7 +4736,6 @@
    "annie_archy",
    "anti-bot",
    "antibotv3-7",
-   "apexchess-bot",
    "aposeij",
    "approximationbot",
    "arabicannue",
@@ -4739,6 +4748,7 @@
    "axiom_bot",
    "baby_eubos",
    "banerot",
+   "batyarapro",
    "bbc_bot",
    "becela9_kpebetka",
    "berkbot",
@@ -4753,6 +4763,7 @@
    "bot5551",
    "bot64jaques",
    "bot_adario",
+   "botkingteam33",
    "bottios",
    "bretemabot",
    "bubblebot2",
@@ -4779,6 +4790,7 @@
    "chill4ce",
    "chronicgambler",
    "cinder-bot",
+   "classic_bot-v2",
    "classical-leela",
    "claude_bot",
    "clessy-bot",
@@ -4803,9 +4815,9 @@
    "deepbecky",
    "deepsquare-ai",
    "demen100ns-bot",
+   "demolito_l3",
    "demolito_l4",
    "demolito_l6",
-   "despitefire",
    "dravox",
    "drawfish-reborn",
    "drewschessmachine",
@@ -4878,6 +4890,7 @@
    "kingzbot",
    "kirinchessbot",
    "kittyenginev5",
+   "knightmare_26",
    "koi_engine",
    "kopyto_dev",
    "lamprook",
@@ -4906,6 +4919,7 @@
    "lynx_bot",
    "mac-bot",
    "mackbot",
+   "madeincyprus",
    "maia1",
    "maia2200_10n",
    "maia3-79m_1000",
@@ -4939,6 +4953,7 @@
    "michaamateurbot",
    "milanbot",
    "mimirbot",
+   "mind_bot",
    "minopponentmoves",
    "miss_snowiee",
    "mithandros",
@@ -4951,7 +4966,9 @@
    "ndashka_bot",
    "neurosocute",
    "newchessengine-ai",
+   "newtsbot",
    "nexastrat",
+   "nexosdefos",
    "nibbleknight",
    "nice_bot",
    "nichteliasbot",
@@ -4967,10 +4984,12 @@
    "openinggenie2000",
    "openingsbot",
    "opycep",
+   "osaurus",
    "overfitted",
    "oxybullet",
    "pangubot",
    "panic-fish",
+   "partner3615diago",
    "patriciabot",
    "patzerbot135",
    "pawn_git",
@@ -4978,11 +4997,11 @@
    "peachfruit",
    "perl-gigachess",
    "philidor-142m",
-   "pi0w",
    "picosargon",
    "piebot",
    "pierreai",
    "piglet_engine",
+   "pirates1",
    "pirates2",
    "piratesrust",
    "playmarius",
@@ -4996,6 +5015,7 @@
    "quirkafleeg-pc",
    "quirkafleeg-zx48k",
    "quirkafleeg-zxnext",
+   "racingkingsbot_1",
    "radianceengine",
    "raspfish",
    "ratsu-bot",
@@ -5003,9 +5023,11 @@
    "ravenengine",
    "ray-bot",
    "rdtchessbot",
+   "reality_bot",
    "remychessengine",
    "resolutebot",
    "ribfish-bot",
+   "rockingsuperstars",
    "rudim-bot",
    "rust-in-pieces",
    "rust-in-pieces-nnue",
@@ -5025,6 +5047,7 @@
    "silasly",
    "sim3million",
    "simple-bot",
+   "simplechessengine",
    "simpleeval",
    "sj_norbot",
    "slate-engine",
@@ -5061,6 +5084,7 @@
    "thomengine",
    "thunfisch-bot",
    "tigrament",
+   "tikifish",
    "tilapiabot",
    "to299d",
    "togaii",
@@ -5089,11 +5113,11 @@
    "vicentlittle",
    "vietnamesecoffee",
    "viviblitzfr",
+   "void_bot",
    "vortex_bot",
    "vortexaurafarm",
    "waldemar-the-elf",
    "walpurti",
-   "wedge_engine",
    "weiawaga",
    "worstfish",
    "z-o_aspenlabs",
