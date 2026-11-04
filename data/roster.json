@@ -3832,7 +3832,7 @@
   },
   "sisyphus-engine": {
    "first_seen": "2026-10-12",
-   "last_online": "2026-11-02",
+   "last_online": "2026-11-04",
    "username": "Sisyphus-engine"
   },
   "sj_norbot": {
@@ -4742,7 +4742,7 @@
   }
  },
  "online": {
-  "checked_at": "2026-11-04T19:43:10Z",
+  "checked_at": "2026-11-04T20:00:01Z",
   "ids": [
    "aaronsengine",
    "abcd_engine",
@@ -4799,6 +4799,7 @@
    "catriever",
    "chamberiajedrez",
    "charibot",
+   "chessgeniusbot",
    "chessiverse_ethan",
    "chessiverse_luc",
    "chessiverse_pawnza",
@@ -4975,6 +4976,7 @@
    "morabandbot",
    "mostlyhuman1900",
    "mrtonnerre",
+   "munzurbot2",
    "mychessjava",
    "nanozeroorg",
    "ndashka_bot",
@@ -5050,8 +5052,8 @@
    "silasly",
    "sim3million",
    "simple-bot",
-   "simplechessengine",
    "simpleeval",
+   "sisyphus-engine",
    "sj_norbot",
    "slate-engine",
    "sleepish",
@@ -5085,7 +5087,6 @@
    "thechessblazer",
    "thunfisch-bot",
    "tigrament",
-   "tikifish",
    "tilapiabot",
    "to299d",
    "togaii",
@@ -5114,7 +5115,6 @@
    "vic98lg",
    "vicentlittle",
    "vietnamesecoffee",
-   "void_bot",
    "vortex_bot",
    "vortexaurafarm",
    "waldemar-the-elf",
