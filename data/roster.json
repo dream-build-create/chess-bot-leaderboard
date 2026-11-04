@@ -267,7 +267,7 @@
   },
   "askaig": {
    "first_seen": "2026-10-17",
-   "last_online": "2026-10-17",
+   "last_online": "2026-11-04",
    "username": "Askaig"
   },
   "atari-video-chess": {
@@ -467,7 +467,7 @@
   },
   "blueberry-engine": {
    "first_seen": "2026-10-05",
-   "last_online": "2026-10-30",
+   "last_online": "2026-11-04",
    "username": "Blueberry-Engine"
   },
   "bluemoonbot": {
@@ -857,7 +857,7 @@
   },
   "chessgeniusbot": {
    "first_seen": "2026-10-02",
-   "last_online": "2026-11-03",
+   "last_online": "2026-11-04",
    "username": "ChessGeniusBot"
   },
   "chessiverse_ethan": {
@@ -2102,7 +2102,7 @@
   },
   "kittyenginev5": {
    "first_seen": "2026-10-20",
-   "last_online": "2026-11-03",
+   "last_online": "2026-11-04",
    "username": "KittyEngineV5"
   },
   "kiwi_cube": {
@@ -4702,7 +4702,7 @@
   }
  },
  "online": {
-  "checked_at": "2026-11-04T05:43:09Z",
+  "checked_at": "2026-11-04T06:43:11Z",
   "ids": [
    "aatk_vanguardx",
    "abcd_engine",
@@ -4730,10 +4730,12 @@
    "artidigm_research",
    "ashnostromo",
    "ask-aatk-bot",
+   "askaig",
    "athena-chessbot",
    "axiom_bot",
    "baby_eubos",
    "banerot",
+   "batyarapro",
    "bbc_bot",
    "becela9_kpebetka",
    "berkbot",
@@ -4741,6 +4743,7 @@
    "bernstein-4ply",
    "bfiedler-bot",
    "bitbitbot",
+   "blueberry-engine",
    "bluemoonbot",
    "bobby_pcolla",
    "bongaclang",
@@ -4753,12 +4756,12 @@
    "byte-knight",
    "bytefish",
    "c-t-r-l",
-   "c0kval",
    "caiporabot",
    "casanchess-nnue",
    "catnail",
    "catriever",
    "charibot",
+   "chessgeniusbot",
    "chessiverse_ethan",
    "chessiverse_luc",
    "chessiverse_pawnza",
@@ -4768,6 +4771,7 @@
    "chill4ce",
    "chronicgambler",
    "cinder-bot",
+   "classic_bot-v2",
    "classical-leela",
    "claude_bot",
    "clessy-bot",
@@ -4825,6 +4829,7 @@
    "funcomp",
    "gambittai",
    "garbobot",
+   "georgii_ai",
    "geotsibot",
    "giffibot",
    "gnu4u",
@@ -4834,7 +4839,6 @@
    "grail-bot",
    "grapechessengine",
    "grindfish",
-   "groshboss",
    "gryndor",
    "halcyonbot",
    "hiusbot",
@@ -4866,6 +4870,7 @@
    "kestrelstrike",
    "kingzbot",
    "kirinchessbot",
+   "kittyenginev5",
    "koi_engine",
    "kopyto_dev",
    "kulubot",
@@ -4942,6 +4947,7 @@
    "neurosocute",
    "newchessengine-ai",
    "nexastrat",
+   "nexosdefos",
    "nibbleknight",
    "nice_bot",
    "nichteliasbot",
@@ -5004,7 +5010,6 @@
    "scalaqueen",
    "schnecken_bot",
    "scipio-bot",
-   "seedchess",
    "seitogakatsu",
    "shallowredbot",
    "sharpsundae",
@@ -5017,7 +5022,6 @@
    "slate-engine",
    "sleepish",
    "sleepmindengine",
-   "slothcomputer",
    "slowmate_bot",
    "snaky-bot",
    "solobot",
@@ -5037,7 +5041,6 @@
    "sxphia",
    "sybaibot",
    "sybbot",
-   "takticprochess",
    "tallikebot",
    "talosbot",
    "tempocore",
