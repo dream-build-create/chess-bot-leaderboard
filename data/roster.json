@@ -842,7 +842,7 @@
   },
   "chessbot2880": {
    "first_seen": "2026-09-27",
-   "last_online": "2026-10-25",
+   "last_online": "2026-11-05",
    "username": "chessbot2880"
   },
   "chessbzero": {
@@ -4662,7 +4662,7 @@
   },
   "wildorderbot": {
    "first_seen": "2026-09-28",
-   "last_online": "2026-11-04",
+   "last_online": "2026-11-05",
    "username": "WildorderBot"
   },
   "windmolen_bot": {
@@ -4777,7 +4777,7 @@
   }
  },
  "online": {
-  "checked_at": "2026-11-05T19:43:12Z",
+  "checked_at": "2026-11-05T20:14:53Z",
   "ids": [
    "aaronsengine",
    "abcd_engine",
@@ -4809,6 +4809,7 @@
    "axiom_bot",
    "baby_eubos",
    "banerot",
+   "batyarapro",
    "bbc_bot",
    "bernstein-2ply",
    "bernstein-4ply",
@@ -4837,6 +4838,7 @@
    "chamberiajedrez",
    "charibot",
    "chess3bot",
+   "chessbot2880",
    "chessgeniusbot",
    "chessiverse_ethan",
    "chessiverse_luc",
@@ -4846,6 +4848,7 @@
    "cheszter",
    "chill4ce",
    "cinder-bot",
+   "classic_bot-v2",
    "classical-leela",
    "claude_bot",
    "clessy-bot",
@@ -4905,7 +4908,6 @@
    "gambitonlybot",
    "gambittai",
    "garbobot",
-   "georgii_ai",
    "geotsibot",
    "ghidorah_x",
    "gnu4u",
@@ -4959,7 +4961,6 @@
    "leelaanyodds",
    "leelajester",
    "leelaknightodds",
-   "leelamultiposs",
    "leelapieceodds",
    "leelaqueenforknight",
    "leelaqueenodds",
@@ -4978,6 +4979,7 @@
    "lunaenginechess",
    "lynx_bot",
    "mac-bot",
+   "madeincyprus",
    "maia1",
    "maia2200_10n",
    "maia5",
@@ -4995,7 +4997,6 @@
    "mayflyengine",
    "mcdonalds1955",
    "mdbot",
-   "mega-noob-bot",
    "melsh_bot",
    "michaamateurbot",
    "milanbot",
@@ -5013,6 +5014,7 @@
    "neurosocute",
    "newengine2022",
    "nexastrat",
+   "nexosdefos",
    "nibbleknight",
    "nice_bot",
    "nichteliasbot",
@@ -5072,7 +5074,6 @@
    "resolutebot",
    "ribfish-bot",
    "rudim-bot",
-   "rust-in-pieces",
    "ryu-ishigori",
    "saitek_renaissance",
    "sapling-bot",
@@ -5125,7 +5126,6 @@
    "thechessblazer",
    "thunfisch-bot",
    "tigrament",
-   "tikifish",
    "tilapiabot",
    "togaii",
    "tomahawkbot",
@@ -5154,7 +5154,6 @@
    "vic98lg",
    "vicentlittle",
    "vietnamesecoffee",
-   "void_bot",
    "vortex_bot",
    "vortexaurafarm",
    "waldemar-the-elf",
@@ -5162,6 +5161,7 @@
    "walpurti",
    "wedge_engine",
    "weiawaga",
+   "wildorderbot",
    "worstfish",
    "z-o_aspenlabs",
    "zekimuren_bot",
