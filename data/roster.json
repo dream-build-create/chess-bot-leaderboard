@@ -187,7 +187,7 @@
   },
   "apexchess-bot": {
    "first_seen": "2026-10-31",
-   "last_online": "2026-11-04",
+   "last_online": "2026-11-05",
    "username": "ApexChess-Bot"
   },
   "aposeij": {
@@ -1322,7 +1322,7 @@
   },
   "edwardkillick": {
    "first_seen": "2026-09-27",
-   "last_online": "2026-11-04",
+   "last_online": "2026-11-05",
    "username": "EdwardKillick"
   },
   "eigenmann-chess": {
@@ -3622,7 +3622,7 @@
   },
   "rust-in-pieces-nnue": {
    "first_seen": "2026-11-03",
-   "last_online": "2026-11-04",
+   "last_online": "2026-11-05",
    "username": "rust-in-pieces-nnue"
   },
   "rustbot2003": {
@@ -3817,7 +3817,7 @@
   },
   "simplechessengine": {
    "first_seen": "2026-11-04",
-   "last_online": "2026-11-04",
+   "last_online": "2026-11-05",
    "username": "SimpleChessEngine"
   },
   "simplechessnnue": {
@@ -4152,7 +4152,7 @@
   },
   "sykorabot": {
    "first_seen": "2026-09-27",
-   "last_online": "2026-10-30",
+   "last_online": "2026-11-05",
    "username": "SykoraBot"
   },
   "tadbot": {
@@ -4252,7 +4252,7 @@
   },
   "thomengine": {
    "first_seen": "2026-09-30",
-   "last_online": "2026-11-04",
+   "last_online": "2026-11-05",
    "username": "ThomEngine"
   },
   "throrbjorn": {
@@ -4742,7 +4742,7 @@
   }
  },
  "online": {
-  "checked_at": "2026-11-05T00:43:09Z",
+  "checked_at": "2026-11-05T01:43:16Z",
   "ids": [
    "abcd_engine",
    "aconcaguabot",
@@ -4759,6 +4759,7 @@
    "annie_archy",
    "anti-bot",
    "antibotv3-7",
+   "apexchess-bot",
    "aposeij",
    "approximationbot",
    "arabicannue",
@@ -4830,8 +4831,6 @@
    "deepbecky",
    "deepsquare-ai",
    "demen100ns-bot",
-   "demolito_l1",
-   "demolito_l3",
    "demolito_l4",
    "demolito_l6",
    "diogenes-bot",
@@ -4840,6 +4839,7 @@
    "duchessai",
    "dumbotai",
    "eclipsebot",
+   "edwardkillick",
    "eigenmann-chess",
    "elachessbot",
    "elexunix_chess_bot",
@@ -4864,7 +4864,6 @@
    "funcomp",
    "gambittai",
    "garbobot",
-   "georgii_ai",
    "geotsibot",
    "gnu4u",
    "gochess6767",
@@ -4891,7 +4890,6 @@
    "jimmy_inc3710",
    "joan_clone",
    "joey_chessengine",
-   "jongsungkim",
    "joshsbot",
    "jpg-bot",
    "jurdbird",
@@ -4989,7 +4987,6 @@
    "nittedal",
    "nnueandthevoices",
    "noabot",
-   "nohopeforman",
    "notropis",
    "o-rei-cx",
    "odonata-bot",
@@ -5023,8 +5020,6 @@
    "psion-chess",
    "puisne",
    "pzchessbot",
-   "quirkafleeg-pc",
-   "quirkafleeg-zxnext",
    "racingkingsbot_1",
    "radianceengine",
    "raspfish",
@@ -5037,7 +5032,7 @@
    "resolutebot",
    "ribfish-bot",
    "rudim-bot",
-   "rustbot2003",
+   "rust-in-pieces-nnue",
    "ryu-ishigori",
    "sapling-bot",
    "sargon-1ply",
@@ -5052,6 +5047,7 @@
    "shrevenbot",
    "silasly",
    "sim3million",
+   "simplechessengine",
    "simpleeval",
    "sj_norbot",
    "slate-engine",
@@ -5077,6 +5073,7 @@
    "sxphia",
    "sybaibot",
    "sybbot",
+   "sykorabot",
    "takticprochess",
    "tallikebot",
    "talosbot",
@@ -5085,6 +5082,7 @@
    "terconari",
    "territorybot",
    "thechessblazer",
+   "thomengine",
    "throrbjorn",
    "thunfisch-bot",
    "tigrament",
