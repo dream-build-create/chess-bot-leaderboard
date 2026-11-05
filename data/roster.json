@@ -287,7 +287,7 @@
   },
   "attackerbotpython": {
    "first_seen": "2026-10-04",
-   "last_online": "2026-10-08",
+   "last_online": "2026-11-05",
    "username": "AttackerBotPYTHON"
   },
   "attackingordefending": {
@@ -442,7 +442,7 @@
   },
   "black-bishop-kh": {
    "first_seen": "2026-09-28",
-   "last_online": "2026-11-04",
+   "last_online": "2026-11-05",
    "username": "Black-Bishop-Kh"
   },
   "black-icebot": {
@@ -857,7 +857,7 @@
   },
   "chessgeniusbot": {
    "first_seen": "2026-10-02",
-   "last_online": "2026-11-04",
+   "last_online": "2026-11-05",
    "username": "ChessGeniusBot"
   },
   "chessiverse_ethan": {
@@ -1692,7 +1692,7 @@
   },
   "groshboss": {
    "first_seen": "2026-09-27",
-   "last_online": "2026-11-04",
+   "last_online": "2026-11-05",
    "username": "GroshBoss"
   },
   "gryndor": {
@@ -2817,7 +2817,7 @@
   },
   "musashi-thebot": {
    "first_seen": "2026-09-28",
-   "last_online": "2026-11-02",
+   "last_online": "2026-11-05",
    "username": "Musashi-thebot"
   },
   "mxnet-gamemaster": {
@@ -4747,7 +4747,7 @@
   }
  },
  "online": {
-  "checked_at": "2026-11-05T04:43:10Z",
+  "checked_at": "2026-11-05T05:43:12Z",
   "ids": [
    "abcd_engine",
    "aconcaguabot",
@@ -4774,16 +4774,17 @@
    "artidigm_research",
    "ashnostromo",
    "athena-chessbot",
+   "attackerbotpython",
    "axiom_bot",
    "baby_eubos",
    "banerot",
-   "batyarapro",
    "bbc_bot",
    "becela9_kpebetka",
    "bernstein-2ply",
    "bernstein-4ply",
    "bfiedler-bot",
    "bitbitbot",
+   "black-bishop-kh",
    "bluemoonbot",
    "blujay-bot",
    "bobby_pcolla",
@@ -4802,6 +4803,7 @@
    "catnail",
    "catriever",
    "charibot",
+   "chessgeniusbot",
    "chessiverse_ethan",
    "chessiverse_luc",
    "chessiverse_pawnza",
@@ -4810,7 +4812,6 @@
    "cheszter",
    "chill4ce",
    "cinder-bot",
-   "classic_bot-v2",
    "classical-leela",
    "claude_bot",
    "clessy-bot",
@@ -4838,6 +4839,7 @@
    "demolito_l4",
    "demolito_l6",
    "drawfish-reborn",
+   "drewschessmachine",
    "duchessai",
    "dumbotai",
    "eclipsebot",
@@ -4873,9 +4875,9 @@
    "goopis",
    "grail-bot",
    "grindfish",
+   "groshboss",
    "gryndor",
    "halcyonbot",
-   "hardrok",
    "hiusbot",
    "hummus-bot",
    "hustler_1mb",
@@ -4890,7 +4892,6 @@
    "jev-bot-2",
    "jibbby",
    "jimmy_inc3710",
-   "jkcheeserchess",
    "joan_clone",
    "joey_chessengine",
    "joshsbot",
@@ -4932,7 +4933,6 @@
    "lunaenginechess",
    "lynx_bot",
    "mac-bot",
-   "madeincyprus",
    "maia1",
    "maia2200_10n",
    "maia3-79m_1000",
@@ -4946,7 +4946,6 @@
    "maia3-79m_2600",
    "maia3-79m_600",
    "maia3-79m_800",
-   "maia5",
    "maia9",
    "maia960-1600",
    "maia960-1900",
@@ -4972,6 +4971,7 @@
    "morabandbot",
    "mostlyhuman1900",
    "mrtonnerre",
+   "musashi-thebot",
    "mychessjava",
    "nanozeroorg",
    "ndashka_bot",
@@ -4979,7 +4979,6 @@
    "neurosocute",
    "newchessengine-ai",
    "nexastrat",
-   "nexosdefos",
    "nibbleknight",
    "nice_bot",
    "nichteliasbot",
@@ -5061,6 +5060,7 @@
    "springerbot",
    "squarefish-900",
    "sseh-c",
+   "stickshark99",
    "stockcotsfish",
    "stockdory",
    "stockfishlowdepth",
@@ -5074,6 +5074,7 @@
    "sybaibot",
    "sybbot",
    "sykorabot",
+   "takticprochess",
    "tallikebot",
    "talosbot",
    "tempocore",
@@ -5084,7 +5085,6 @@
    "throrbjorn",
    "thunfisch-bot",
    "tigrament",
-   "tikifish",
    "tilapiabot",
    "togaii",
    "tomahawkbot",
