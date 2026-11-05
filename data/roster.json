@@ -1567,7 +1567,7 @@
   },
   "gambitonlybot": {
    "first_seen": "2026-09-28",
-   "last_online": "2026-11-03",
+   "last_online": "2026-11-05",
    "username": "GambitOnlyBot"
   },
   "gambittai": {
@@ -3372,7 +3372,7 @@
   },
   "queensgambot": {
    "first_seen": "2026-09-27",
-   "last_online": "2026-11-04",
+   "last_online": "2026-11-05",
    "username": "QueensGamBOT"
   },
   "quirkafleeg-pc": {
@@ -3812,7 +3812,7 @@
   },
   "simple-bot": {
    "first_seen": "2026-09-27",
-   "last_online": "2026-11-04",
+   "last_online": "2026-11-05",
    "username": "simple-bot"
   },
   "simplechessengine": {
@@ -4742,7 +4742,7 @@
   }
  },
  "online": {
-  "checked_at": "2026-11-05T01:43:16Z",
+  "checked_at": "2026-11-05T02:43:10Z",
   "ids": [
    "abcd_engine",
    "aconcaguabot",
@@ -4862,6 +4862,7 @@
    "fourcuriouspandas",
    "fschess-engine",
    "funcomp",
+   "gambitonlybot",
    "gambittai",
    "garbobot",
    "geotsibot",
@@ -4956,7 +4957,6 @@
    "mate-in-twenty",
    "mate1-bot",
    "matmoi",
-   "matthewcarven",
    "mayflyengine",
    "mcdonalds1955",
    "mdbot",
@@ -5014,13 +5014,12 @@
    "plumboi",
    "plumbot",
    "polvo_engine",
-   "pontiengine",
    "premove90-1500",
    "prokopakop",
    "psion-chess",
    "puisne",
    "pzchessbot",
-   "racingkingsbot_1",
+   "queensgambot",
    "radianceengine",
    "raspfish",
    "ratsu-bot",
@@ -5037,7 +5036,6 @@
    "sapling-bot",
    "sargon-1ply",
    "sargon-3ply",
-   "sbnovella",
    "scalaqueen",
    "schnecken_bot",
    "scipio-bot",
@@ -5047,6 +5045,7 @@
    "shrevenbot",
    "silasly",
    "sim3million",
+   "simple-bot",
    "simplechessengine",
    "simpleeval",
    "sj_norbot",
@@ -5082,7 +5081,6 @@
    "terconari",
    "territorybot",
    "thechessblazer",
-   "thomengine",
    "throrbjorn",
    "thunfisch-bot",
    "tigrament",
