@@ -532,7 +532,7 @@
   },
   "bot64jaques": {
    "first_seen": "2026-09-27",
-   "last_online": "2026-11-04",
+   "last_online": "2026-11-05",
    "username": "bot64jaques"
   },
   "bot913": {
@@ -1207,7 +1207,7 @@
   },
   "demolito_l2": {
    "first_seen": "2026-09-27",
-   "last_online": "2026-11-04",
+   "last_online": "2026-11-05",
    "username": "Demolito_L2"
   },
   "demolito_l3": {
@@ -1222,7 +1222,7 @@
   },
   "demolito_l5": {
    "first_seen": "2026-09-27",
-   "last_online": "2026-11-04",
+   "last_online": "2026-11-05",
    "username": "Demolito_L5"
   },
   "demolito_l6": {
@@ -2117,7 +2117,7 @@
   },
   "kittyenginev5": {
    "first_seen": "2026-10-20",
-   "last_online": "2026-11-04",
+   "last_online": "2026-11-05",
    "username": "KittyEngineV5"
   },
   "kiwi_cube": {
@@ -4747,7 +4747,7 @@
   }
  },
  "online": {
-  "checked_at": "2026-11-05T05:43:12Z",
+  "checked_at": "2026-11-05T06:43:10Z",
   "ids": [
    "abcd_engine",
    "aconcaguabot",
@@ -4778,6 +4778,7 @@
    "axiom_bot",
    "baby_eubos",
    "banerot",
+   "batyarapro",
    "bbc_bot",
    "becela9_kpebetka",
    "bernstein-2ply",
@@ -4791,13 +4792,14 @@
    "bongaclang",
    "borkatower",
    "bot5551",
+   "bot64jaques",
    "bot_adario",
    "bottios",
    "bretemabot",
    "bubblebot2",
    "byte-knight",
    "bytefish",
-   "c-t-r-l",
+   "c0kval",
    "caiporabot",
    "casanchess-nnue",
    "catnail",
@@ -4812,6 +4814,7 @@
    "cheszter",
    "chill4ce",
    "cinder-bot",
+   "classic_bot-v2",
    "classical-leela",
    "claude_bot",
    "clessy-bot",
@@ -4836,7 +4839,9 @@
    "deepbecky",
    "deepsquare-ai",
    "demen100ns-bot",
+   "demolito_l2",
    "demolito_l4",
+   "demolito_l5",
    "demolito_l6",
    "drawfish-reborn",
    "drewschessmachine",
@@ -4905,6 +4910,7 @@
    "kestrelstrike",
    "kingzbot",
    "kirinchessbot",
+   "kittyenginev5",
    "koi_engine",
    "kopyto_dev",
    "kulubot",
@@ -4946,6 +4952,7 @@
    "maia3-79m_2600",
    "maia3-79m_600",
    "maia3-79m_800",
+   "maia5",
    "maia9",
    "maia960-1600",
    "maia960-1900",
@@ -4979,6 +4986,7 @@
    "neurosocute",
    "newchessengine-ai",
    "nexastrat",
+   "nexosdefos",
    "nibbleknight",
    "nice_bot",
    "nichteliasbot",
@@ -5031,7 +5039,6 @@
    "resolutebot",
    "ribfish-bot",
    "rudim-bot",
-   "rust-in-pieces-nnue",
    "ryu-ishigori",
    "sapling-bot",
    "sargon-1ply",
@@ -5085,6 +5092,7 @@
    "throrbjorn",
    "thunfisch-bot",
    "tigrament",
+   "tikifish",
    "tilapiabot",
    "togaii",
    "tomahawkbot",
@@ -5115,7 +5123,6 @@
    "vortexaurafarm",
    "waldemar-the-elf",
    "walpurti",
-   "wedge_engine",
    "weiawaga",
    "worstfish",
    "z-o_aspenlabs",
