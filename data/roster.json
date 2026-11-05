@@ -87,7 +87,7 @@
   },
   "ajedrezchamberi": {
    "first_seen": "2026-09-29",
-   "last_online": "2026-11-04",
+   "last_online": "2026-11-05",
    "username": "AjedrezChamberi"
   },
   "alarm2001": {
@@ -742,7 +742,7 @@
   },
   "chamberiajedrez": {
    "first_seen": "2026-09-29",
-   "last_online": "2026-11-04",
+   "last_online": "2026-11-05",
    "username": "ChamberiAjedrez"
   },
   "chaotong_engine": {
@@ -1282,7 +1282,7 @@
   },
   "dravox": {
    "first_seen": "2026-10-24",
-   "last_online": "2026-11-04",
+   "last_online": "2026-11-05",
    "username": "dravox"
   },
   "drawfish-reborn": {
@@ -3130,6 +3130,11 @@
    "last_online": "2026-11-05",
    "username": "pawn_git"
   },
+  "pawnopenings": {
+   "first_seen": "2026-11-05",
+   "last_online": "2026-11-05",
+   "username": "PawnOpenings"
+  },
   "pawnrobot": {
    "first_seen": "2026-09-27",
    "last_online": "2026-10-27",
@@ -3322,7 +3327,7 @@
   },
   "prosperobot": {
    "first_seen": "2026-09-27",
-   "last_online": "2026-11-04",
+   "last_online": "2026-11-05",
    "username": "ProsperoBot"
   },
   "proteinbender": {
@@ -3387,7 +3392,7 @@
   },
   "quirkafleeg-zx48k": {
    "first_seen": "2026-11-02",
-   "last_online": "2026-11-04",
+   "last_online": "2026-11-05",
    "username": "Quirkafleeg-ZX48K"
   },
   "quirkafleeg-zxnext": {
@@ -4382,7 +4387,7 @@
   },
   "tucuengine": {
    "first_seen": "2026-09-27",
-   "last_online": "2026-11-02",
+   "last_online": "2026-11-05",
    "username": "TucuEngine"
   },
   "turk_gambit": {
@@ -4422,7 +4427,7 @@
   },
   "uiagbot": {
    "first_seen": "2026-10-10",
-   "last_online": "2026-11-04",
+   "last_online": "2026-11-05",
    "username": "uiagBot"
   },
   "ultrabrick": {
@@ -4747,7 +4752,7 @@
   }
  },
  "online": {
-  "checked_at": "2026-11-05T07:43:11Z",
+  "checked_at": "2026-11-05T08:43:11Z",
   "ids": [
    "abcd_engine",
    "aconcaguabot",
@@ -4755,6 +4760,7 @@
    "aggressivestockfish",
    "ai-con",
    "ailedbot",
+   "ajedrezchamberi",
    "alexandrya",
    "aliceshiro",
    "alieknek",
@@ -4774,7 +4780,6 @@
    "artidigm_research",
    "ashnostromo",
    "athena-chessbot",
-   "attackerbotpython",
    "axiom_bot",
    "baby_eubos",
    "banerot",
@@ -4785,7 +4790,6 @@
    "bernstein-4ply",
    "bfiedler-bot",
    "bitbitbot",
-   "black-bishop-kh",
    "bluemoonbot",
    "blujay-bot",
    "bobby_pcolla",
@@ -4804,6 +4808,7 @@
    "casanchess-nnue",
    "catnail",
    "catriever",
+   "chamberiajedrez",
    "charibot",
    "chess3bot",
    "chessgeniusbot",
@@ -4845,6 +4850,7 @@
    "demolito_l4",
    "demolito_l5",
    "demolito_l6",
+   "dravox",
    "drawfish-reborn",
    "drewschessmachine",
    "duchessai",
@@ -4965,8 +4971,6 @@
    "mate-in-twenty",
    "mate1-bot",
    "matmoi",
-   "mayflyengine",
-   "mcdonalds1955",
    "mdbot",
    "mega-noob-bot",
    "melsh_bot",
@@ -4979,6 +4983,7 @@
    "morabandbot",
    "mostlyhuman1900",
    "mrtonnerre",
+   "munzurbot2",
    "musashi-thebot",
    "mychessjava",
    "nanozeroorg",
@@ -5009,6 +5014,7 @@
    "patriciabot",
    "patzerbot135",
    "pawn_git",
+   "pawnopenings",
    "peacemaker-0_0",
    "peachfruit",
    "perl-gigachess",
@@ -5023,9 +5029,13 @@
    "polvo_engine",
    "premove90-1500",
    "prokopakop",
+   "prosperobot",
    "psion-chess",
    "puisne",
    "pzchessbot",
+   "quirkafleeg-pc",
+   "quirkafleeg-zx48k",
+   "quirkafleeg-zxnext",
    "racingkingsbot_1",
    "radianceengine",
    "raspfish",
@@ -5053,7 +5063,6 @@
    "silasly",
    "sim3million",
    "simple-bot",
-   "simplechessengine",
    "simpleeval",
    "sj_norbot",
    "slate-engine",
@@ -5100,11 +5109,13 @@
    "trenerhetman",
    "trinculobot",
    "troutbot",
+   "tucuengine",
    "turk_gambit",
    "turkjs",
    "turochamp-1ply",
    "turochamp-2ply",
    "twosillypandas",
+   "uiagbot",
    "unimark",
    "ursus_bot",
    "usunfish",
