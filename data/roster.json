@@ -762,7 +762,7 @@
   },
   "checkmare666bot": {
    "first_seen": "2026-09-30",
-   "last_online": "2026-11-03",
+   "last_online": "2026-11-05",
    "username": "CHECKMARE666Bot"
   },
   "checkmatebutlouder": {
@@ -917,7 +917,7 @@
   },
   "chmod-bot": {
    "first_seen": "2026-10-22",
-   "last_online": "2026-10-28",
+   "last_online": "2026-11-05",
    "username": "chmod-bot"
   },
   "chronicgambler": {
@@ -4112,7 +4112,7 @@
   },
   "styx-chess": {
    "first_seen": "2026-10-26",
-   "last_online": "2026-11-04",
+   "last_online": "2026-11-05",
    "username": "Styx-Chess"
   },
   "styx_reckless": {
@@ -4777,10 +4777,8 @@
   }
  },
  "online": {
-  "checked_at": "2026-11-05T20:43:10Z",
+  "checked_at": "2026-11-05T21:43:09Z",
   "ids": [
-   "aaronsengine",
-   "abcd_engine",
    "aconcaguabot",
    "aetherbot",
    "aggressivestockfish",
@@ -4822,6 +4820,7 @@
    "bot5551",
    "bot64jaques",
    "bot_adario",
+   "botkingteam33",
    "bottios",
    "bravobot",
    "bretemabot",
@@ -4836,6 +4835,7 @@
    "catriever",
    "chamberiajedrez",
    "charibot",
+   "checkmare666bot",
    "chess3bot",
    "chessbot2880",
    "chessgeniusbot",
@@ -4846,6 +4846,7 @@
    "chesstango_bot",
    "cheszter",
    "chill4ce",
+   "chmod-bot",
    "cinder-bot",
    "classic_bot-v2",
    "classical-leela",
@@ -4877,7 +4878,6 @@
    "demolito_l6",
    "diogenes-bot",
    "dravox",
-   "drawfish-reborn",
    "duchessai",
    "dumbotai",
    "eclipsebot",
@@ -4903,7 +4903,6 @@
    "fourcuriouspandas",
    "fschess-engine",
    "funcomp",
-   "galaxy-stellar-bot",
    "gambitonlybot",
    "gambittai",
    "garbobot",
@@ -4912,6 +4911,7 @@
    "gnu4u",
    "gochess6767",
    "goldfish-engine",
+   "goopis",
    "grail-bot",
    "grindfish",
    "groshboss",
@@ -4949,7 +4949,6 @@
    "kingzbot",
    "kirinchessbot",
    "kissol-chess",
-   "kittyenginev5",
    "kopyto_dev",
    "kulubot",
    "lamprook",
@@ -4969,7 +4968,6 @@
    "lemonjuice10",
    "levymaia",
    "likeawizard-bot",
-   "lili-ai",
    "lilitbot",
    "little-0",
    "littlepatricia",
@@ -5028,8 +5026,8 @@
    "onechessbot",
    "onezenpanda",
    "openingsbot",
-   "osaurus",
    "overfitted",
+   "oxybullet",
    "paconbot",
    "pangubot",
    "panic-fish",
@@ -5046,10 +5044,8 @@
    "piebot",
    "pierreai",
    "piglet_engine",
-   "pirates1",
-   "pirates2",
-   "piratesrust",
    "playmarius",
+   "playmimir",
    "plumboi",
    "plumbot",
    "polvo_engine",
@@ -5090,6 +5086,7 @@
    "silasly",
    "sim3million",
    "simpleeval",
+   "sisyphus-engine",
    "sj_norbot",
    "slate-engine",
    "sleepish",
@@ -5110,6 +5107,7 @@
    "streamervschat",
    "stronggoliath",
    "stupidfishbotbydscs",
+   "styx-chess",
    "sunfish-engine",
    "sunfish-nnue-engine",
    "sxphia",
@@ -5160,7 +5158,6 @@
    "waldemar-the-elf",
    "walpurti",
    "weiawaga",
-   "wildorderbot",
    "worstfish",
    "z-o_aspenlabs",
    "zero3-now",
