@@ -3067,7 +3067,7 @@
   },
   "osaurus": {
    "first_seen": "2026-09-29",
-   "last_online": "2026-11-04",
+   "last_online": "2026-11-05",
    "username": "OSaurus"
   },
   "overfitted": {
@@ -4777,7 +4777,7 @@
   }
  },
  "online": {
-  "checked_at": "2026-11-05T20:14:53Z",
+  "checked_at": "2026-11-05T20:43:10Z",
   "ids": [
    "aaronsengine",
    "abcd_engine",
@@ -4819,7 +4819,6 @@
    "blujay-bot",
    "bobby_pcolla",
    "bongaclang",
-   "borkatower",
    "bot5551",
    "bot64jaques",
    "bot_adario",
@@ -4913,7 +4912,6 @@
    "gnu4u",
    "gochess6767",
    "goldfish-engine",
-   "goopis",
    "grail-bot",
    "grindfish",
    "groshboss",
@@ -4950,6 +4948,7 @@
    "kestrelstrike",
    "kingzbot",
    "kirinchessbot",
+   "kissol-chess",
    "kittyenginev5",
    "kopyto_dev",
    "kulubot",
@@ -5029,6 +5028,8 @@
    "onechessbot",
    "onezenpanda",
    "openingsbot",
+   "osaurus",
+   "overfitted",
    "paconbot",
    "pangubot",
    "panic-fish",
@@ -5049,7 +5050,6 @@
    "pirates2",
    "piratesrust",
    "playmarius",
-   "playmimir",
    "plumboi",
    "plumbot",
    "polvo_engine",
@@ -5106,6 +5106,7 @@
    "stockdory",
    "stockfishlowdepth",
    "stockpapagei",
+   "stormbot",
    "streamervschat",
    "stronggoliath",
    "stupidfishbotbydscs",
@@ -5157,14 +5158,11 @@
    "vortex_bot",
    "vortexaurafarm",
    "waldemar-the-elf",
-   "wall-e-bot",
    "walpurti",
-   "wedge_engine",
    "weiawaga",
    "wildorderbot",
    "worstfish",
    "z-o_aspenlabs",
-   "zekimuren_bot",
    "zero3-now",
    "zion-bot"
   ]
