@@ -2912,7 +2912,7 @@
   },
   "newengine2022": {
    "first_seen": "2026-10-06",
-   "last_online": "2026-11-01",
+   "last_online": "2026-11-05",
    "username": "newengine2022"
   },
   "newtsbot": {
@@ -3099,6 +3099,11 @@
    "first_seen": "2026-10-11",
    "last_online": "2026-10-17",
    "username": "pachetron"
+  },
+  "paconbot": {
+   "first_seen": "2026-11-05",
+   "last_online": "2026-11-05",
+   "username": "PaconBot"
   },
   "pangubot": {
    "first_seen": "2026-09-27",
@@ -3664,6 +3669,11 @@
    "first_seen": "2026-10-07",
    "last_online": "2026-10-21",
    "username": "SAISRANKARTHIK_7"
+  },
+  "saitek_renaissance": {
+   "first_seen": "2026-11-05",
+   "last_online": "2026-11-05",
+   "username": "Saitek_Renaissance"
   },
   "saltettorrfisk": {
    "first_seen": "2026-11-01",
@@ -4237,7 +4247,7 @@
   },
   "the_baronet": {
    "first_seen": "2026-09-28",
-   "last_online": "2026-11-02",
+   "last_online": "2026-11-05",
    "username": "The_Baronet"
   },
   "thealexdestroyer": {
@@ -4595,6 +4605,11 @@
    "last_online": "2026-11-05",
    "username": "Waldemar-the-elf"
   },
+  "wall-e-bot": {
+   "first_seen": "2026-11-05",
+   "last_online": "2026-11-05",
+   "username": "wall-e-bot"
+  },
   "walleye_bot": {
    "first_seen": "2026-09-27",
    "last_online": "2026-11-04",
@@ -4725,6 +4740,11 @@
    "last_online": "2026-10-09",
    "username": "zanebot"
   },
+  "zekimuren_bot": {
+   "first_seen": "2026-11-05",
+   "last_online": "2026-11-05",
+   "username": "ZekiMuren_bot"
+  },
   "zeno-bot": {
    "first_seen": "2026-09-27",
    "last_online": "2026-10-14",
@@ -4757,7 +4777,7 @@
   }
  },
  "online": {
-  "checked_at": "2026-11-05T18:43:12Z",
+  "checked_at": "2026-11-05T19:43:12Z",
   "ids": [
    "aaronsengine",
    "abcd_engine",
@@ -4790,7 +4810,6 @@
    "baby_eubos",
    "banerot",
    "bbc_bot",
-   "becela9_kpebetka",
    "bernstein-2ply",
    "bernstein-4ply",
    "bfiedler-bot",
@@ -4851,6 +4870,7 @@
    "deepbecky",
    "deepsquare-ai",
    "demen100ns-bot",
+   "demolito_l1",
    "demolito_l4",
    "demolito_l6",
    "diogenes-bot",
@@ -4939,6 +4959,7 @@
    "leelaanyodds",
    "leelajester",
    "leelaknightodds",
+   "leelamultiposs",
    "leelapieceodds",
    "leelaqueenforknight",
    "leelaqueenodds",
@@ -4971,9 +4992,9 @@
    "mate-in-twenty",
    "mate1-bot",
    "matmoi",
-   "matthewcarven",
    "mayflyengine",
    "mcdonalds1955",
+   "mdbot",
    "mega-noob-bot",
    "melsh_bot",
    "michaamateurbot",
@@ -4985,12 +5006,12 @@
    "morabandbot",
    "mostlyhuman1900",
    "mrtonnerre",
-   "musashi-thebot",
    "mychessjava",
    "nanozeroorg",
+   "ndashka_bot",
    "neryba",
    "neurosocute",
-   "newchessengine-ai",
+   "newengine2022",
    "nexastrat",
    "nibbleknight",
    "nice_bot",
@@ -5006,7 +5027,7 @@
    "onechessbot",
    "onezenpanda",
    "openingsbot",
-   "oxybullet",
+   "paconbot",
    "pangubot",
    "panic-fish",
    "partner3615diago",
@@ -5047,13 +5068,13 @@
    "ravenengine",
    "ray-bot",
    "rdtchessbot",
-   "reality_bot",
    "remychessengine",
    "resolutebot",
    "ribfish-bot",
    "rudim-bot",
    "rust-in-pieces",
    "ryu-ishigori",
+   "saitek_renaissance",
    "sapling-bot",
    "sargon-1ply",
    "sargon-3ply",
@@ -5100,6 +5121,7 @@
    "tente8x",
    "terconari",
    "territorybot",
+   "the_baronet",
    "thechessblazer",
    "thunfisch-bot",
    "tigrament",
@@ -5136,10 +5158,13 @@
    "vortex_bot",
    "vortexaurafarm",
    "waldemar-the-elf",
+   "wall-e-bot",
    "walpurti",
+   "wedge_engine",
    "weiawaga",
    "worstfish",
    "z-o_aspenlabs",
+   "zekimuren_bot",
    "zero3-now",
    "zion-bot"
   ]
