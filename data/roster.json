@@ -1732,7 +1732,7 @@
   },
   "hackerchessbot": {
    "first_seen": "2026-09-27",
-   "last_online": "2026-11-02",
+   "last_online": "2026-11-06",
    "username": "HackerChessBot"
   },
   "halcyonbot": {
@@ -1902,7 +1902,7 @@
   },
   "ironfang": {
    "first_seen": "2026-10-24",
-   "last_online": "2026-11-05",
+   "last_online": "2026-11-06",
    "username": "Ironfang"
   },
   "ironrooks": {
@@ -2277,7 +2277,7 @@
   },
   "leelamultiposs": {
    "first_seen": "2026-10-08",
-   "last_online": "2026-11-05",
+   "last_online": "2026-11-06",
    "username": "LeelaMultiPoss"
   },
   "leelapieceodds": {
@@ -2352,7 +2352,7 @@
   },
   "lili-ai": {
    "first_seen": "2026-10-22",
-   "last_online": "2026-11-05",
+   "last_online": "2026-11-06",
    "username": "Lili-ai"
   },
   "lilitbot": {
@@ -4807,7 +4807,7 @@
   }
  },
  "online": {
-  "checked_at": "2026-11-06T11:43:10Z",
+  "checked_at": "2026-11-06T12:43:11Z",
   "ids": [
    "aaronsengine",
    "aconcaguabot",
@@ -4836,13 +4836,11 @@
    "axiom_bot",
    "baby_eubos",
    "banerot",
-   "batyarapro",
    "bbc_bot",
    "berkbot",
    "bernstein-2ply",
    "bernstein-4ply",
    "bfiedler-bot",
-   "bit-fish8",
    "bitbitbot",
    "black-icebot",
    "bluemoonbot",
@@ -4875,7 +4873,6 @@
    "chill4ce",
    "chmod-bot",
    "cinder-bot",
-   "classic_bot-v2",
    "classical-leela",
    "claude_bot",
    "clessy-bot",
@@ -4897,7 +4894,6 @@
    "darkelectronbot",
    "debzero",
    "deepbecky",
-   "deepfish26",
    "deepsquare-ai",
    "demen100ns-bot",
    "demolito_l4",
@@ -4943,6 +4939,7 @@
    "grail-bot",
    "grindfish",
    "gryndor",
+   "hackerchessbot",
    "halcyonbot",
    "hiusbot",
    "hummus-bot",
@@ -4953,11 +4950,12 @@
    "hyperopic",
    "icarus-bot",
    "incipit_bot",
+   "ironfang",
    "is_boss",
    "iskelt-corax",
    "jakgro",
    "jangine",
-   "jembok",
+   "jaxakos13_bot",
    "jibbby",
    "joan_clone",
    "joey_chessengine",
@@ -4985,6 +4983,7 @@
    "leelaanyodds",
    "leelajester",
    "leelaknightodds",
+   "leelamultiposs",
    "leelapieceodds",
    "leelaqueenforknight",
    "leelaqueenodds",
@@ -4993,6 +4992,7 @@
    "leelatroll",
    "levymaia",
    "likeawizard-bot",
+   "lili-ai",
    "lilitbot",
    "little-0",
    "littlepatricia",
@@ -5045,7 +5045,7 @@
    "neryba",
    "neurosocute",
    "nexastrat",
-   "nexosdefos",
+   "next_uzbek",
    "nibbleknight",
    "nice_bot",
    "nichteliasbot",
@@ -5062,6 +5062,7 @@
    "onezenpanda",
    "openingsbot",
    "overfitted",
+   "oxybullet",
    "pangubot",
    "panic-fish",
    "partner3615diago",
@@ -5147,7 +5148,6 @@
    "sykorabot",
    "tallikebot",
    "talosbot",
-   "taubertdietaubejs",
    "tempocore",
    "tente8x",
    "terconari",
