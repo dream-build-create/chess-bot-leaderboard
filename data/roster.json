@@ -447,7 +447,7 @@
   },
   "black-icebot": {
    "first_seen": "2026-10-16",
-   "last_online": "2026-11-05",
+   "last_online": "2026-11-06",
    "username": "BLACK-ICEbot"
   },
   "blackeventhorizon": {
@@ -1182,7 +1182,7 @@
   },
   "deepfish26": {
    "first_seen": "2026-10-29",
-   "last_online": "2026-11-05",
+   "last_online": "2026-11-06",
    "username": "DeepFish26"
   },
   "deepsquare-ai": {
@@ -2157,7 +2157,7 @@
   },
   "koi_engine": {
    "first_seen": "2026-10-23",
-   "last_online": "2026-11-05",
+   "last_online": "2026-11-06",
    "username": "koi_engine"
   },
   "kolmato": {
@@ -2252,7 +2252,7 @@
   },
   "leelaanyodds": {
    "first_seen": "2026-10-30",
-   "last_online": "2026-11-05",
+   "last_online": "2026-11-06",
    "username": "LeelaAnyOdds"
   },
   "leelachesstest": {
@@ -2262,7 +2262,7 @@
   },
   "leelajester": {
    "first_seen": "2026-09-28",
-   "last_online": "2026-11-05",
+   "last_online": "2026-11-06",
    "username": "LeelaJester"
   },
   "leelaknightodds": {
@@ -2627,7 +2627,7 @@
   },
   "matthewcarven": {
    "first_seen": "2026-10-14",
-   "last_online": "2026-11-05",
+   "last_online": "2026-11-06",
    "username": "matthewcarven"
   },
   "maximaengine": {
@@ -3007,7 +3007,7 @@
   },
   "nohopeforman": {
    "first_seen": "2026-10-31",
-   "last_online": "2026-11-05",
+   "last_online": "2026-11-06",
    "username": "NoHopeForMan"
   },
   "notropis": {
@@ -4787,9 +4787,8 @@
   }
  },
  "online": {
-  "checked_at": "2026-11-06T03:43:10Z",
+  "checked_at": "2026-11-06T04:43:10Z",
   "ids": [
-   "abcd_engine",
    "aconcaguabot",
    "aetherbot",
    "aggressivestockfish",
@@ -4814,6 +4813,7 @@
    "artidigm_research",
    "ashnostromo",
    "athena-chessbot",
+   "attackerbotpython",
    "axiom_bot",
    "baby_eubos",
    "banerot",
@@ -4823,6 +4823,7 @@
    "bernstein-4ply",
    "bfiedler-bot",
    "bitbitbot",
+   "black-icebot",
    "bluemoonbot",
    "blujay-bot",
    "bobby_pcolla",
@@ -4873,6 +4874,7 @@
    "darkelectronbot",
    "debzero",
    "deepbecky",
+   "deepfish26",
    "deepsquare-ai",
    "demen100ns-bot",
    "demolito_l1",
@@ -4940,7 +4942,6 @@
    "jaxakos13_bot",
    "jev-bot-2",
    "jibbby",
-   "jkcheeserchess",
    "joan_clone",
    "joey_chessengine",
    "jongsungkim",
@@ -4955,6 +4956,7 @@
    "kingzbot",
    "kirinchessbot",
    "kittyenginev5",
+   "koi_engine",
    "kopyto_dev",
    "kulubot",
    "lamprook",
@@ -4962,6 +4964,8 @@
    "latrunculi-bot",
    "laura-bot",
    "leelaalien",
+   "leelaanyodds",
+   "leelajester",
    "leelaknightodds",
    "leelapieceodds",
    "leelaqueenforknight",
@@ -5004,6 +5008,7 @@
    "mate-in-twenty",
    "mate1-bot",
    "matmoi",
+   "matthewcarven",
    "mayflyengine",
    "mcdonalds1955",
    "mdbot",
@@ -5031,6 +5036,7 @@
    "nittedal",
    "nnueandthevoices",
    "noabot",
+   "nohopeforman",
    "notropis",
    "o-rei-cx",
    "odonata-bot",
@@ -5038,6 +5044,7 @@
    "onezenpanda",
    "openingsbot",
    "overfitted",
+   "oxybullet",
    "pangubot",
    "panic-fish",
    "partner3615diago",
