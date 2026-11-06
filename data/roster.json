@@ -1207,12 +1207,12 @@
   },
   "demolito_l2": {
    "first_seen": "2026-09-27",
-   "last_online": "2026-11-05",
+   "last_online": "2026-11-06",
    "username": "Demolito_L2"
   },
   "demolito_l3": {
    "first_seen": "2026-09-27",
-   "last_online": "2026-11-05",
+   "last_online": "2026-11-06",
    "username": "Demolito_L3"
   },
   "demolito_l4": {
@@ -1222,7 +1222,7 @@
   },
   "demolito_l5": {
    "first_seen": "2026-09-27",
-   "last_online": "2026-11-05",
+   "last_online": "2026-11-06",
    "username": "Demolito_L5"
   },
   "demolito_l6": {
@@ -2827,7 +2827,7 @@
   },
   "musashi-thebot": {
    "first_seen": "2026-09-28",
-   "last_online": "2026-11-05",
+   "last_online": "2026-11-06",
    "username": "Musashi-thebot"
   },
   "mxnet-gamemaster": {
@@ -2937,7 +2937,7 @@
   },
   "next_uzbek": {
    "first_seen": "2026-10-28",
-   "last_online": "2026-11-02",
+   "last_online": "2026-11-06",
    "username": "Next_Uzbek"
   },
   "nexuschess1": {
@@ -3037,7 +3037,7 @@
   },
   "olimarianbot": {
    "first_seen": "2026-10-21",
-   "last_online": "2026-10-29",
+   "last_online": "2026-11-06",
    "username": "Olimarianbot"
   },
   "omegazero-bot": {
@@ -4787,7 +4787,7 @@
   }
  },
  "online": {
-  "checked_at": "2026-11-06T04:43:10Z",
+  "checked_at": "2026-11-06T05:43:10Z",
   "ids": [
    "aconcaguabot",
    "aetherbot",
@@ -4813,7 +4813,6 @@
    "artidigm_research",
    "ashnostromo",
    "athena-chessbot",
-   "attackerbotpython",
    "axiom_bot",
    "baby_eubos",
    "banerot",
@@ -4828,7 +4827,6 @@
    "blujay-bot",
    "bobby_pcolla",
    "bongaclang",
-   "borkatower",
    "bot5551",
    "bot_adario",
    "bottios",
@@ -4874,11 +4872,13 @@
    "darkelectronbot",
    "debzero",
    "deepbecky",
-   "deepfish26",
    "deepsquare-ai",
    "demen100ns-bot",
    "demolito_l1",
+   "demolito_l2",
+   "demolito_l3",
    "demolito_l4",
+   "demolito_l5",
    "demolito_l6",
    "diogenes-bot",
    "dravox",
@@ -4903,7 +4903,6 @@
    "felipe_bot_53",
    "fenrirbot",
    "fetacompli",
-   "fissureengine",
    "fivejoyouspandas",
    "flounderbot",
    "flower-queen",
@@ -4925,7 +4924,6 @@
    "groshboss",
    "gryndor",
    "halcyonbot",
-   "hardrok",
    "hiusbot",
    "hummus-bot",
    "hustler_1mb",
@@ -4934,7 +4932,6 @@
    "hyperopic",
    "icarus-bot",
    "incipit_bot",
-   "ironrooks",
    "is_boss",
    "iskelt-corax",
    "jakgro",
@@ -4955,7 +4952,6 @@
    "kestrelstrike",
    "kingzbot",
    "kirinchessbot",
-   "kittyenginev5",
    "koi_engine",
    "kopyto_dev",
    "kulubot",
@@ -5022,12 +5018,14 @@
    "morabandbot",
    "mostlyhuman1900",
    "mrtonnerre",
+   "musashi-thebot",
    "mychessjava",
    "nanozeroorg",
    "neryba",
    "neurosocute",
    "newchessengine-ai",
    "nexastrat",
+   "next_uzbek",
    "nibbleknight",
    "nice_bot",
    "nichteliasbot",
@@ -5040,6 +5038,7 @@
    "notropis",
    "o-rei-cx",
    "odonata-bot",
+   "olimarianbot",
    "onechessbot",
    "onezenpanda",
    "openingsbot",
@@ -5137,7 +5136,6 @@
    "throrbjorn",
    "thunfisch-bot",
    "tigrament",
-   "tikifish",
    "tilapiabot",
    "togaii",
    "tomahawkbot",
