@@ -1107,7 +1107,7 @@
   },
   "daisy-bot": {
    "first_seen": "2026-09-30",
-   "last_online": "2026-10-16",
+   "last_online": "2026-11-06",
    "username": "Daisy-Bot"
   },
   "dala-1100": {
@@ -1577,7 +1577,7 @@
   },
   "gambitonlybot": {
    "first_seen": "2026-09-28",
-   "last_online": "2026-11-05",
+   "last_online": "2026-11-06",
    "username": "GambitOnlyBot"
   },
   "gambittai": {
@@ -1682,7 +1682,7 @@
   },
   "grapechessengine": {
    "first_seen": "2026-10-25",
-   "last_online": "2026-11-04",
+   "last_online": "2026-11-06",
    "username": "GrapeChessEngine"
   },
   "graphene-64": {
@@ -2002,7 +2002,7 @@
   },
   "jimmy_inc3710": {
    "first_seen": "2026-10-02",
-   "last_online": "2026-11-05",
+   "last_online": "2026-11-06",
    "username": "Jimmy_inc3710"
   },
   "jinko-chan": {
@@ -2394,6 +2394,11 @@
    "first_seen": "2026-10-03",
    "last_online": "2026-10-10",
    "username": "LLMate"
+  },
+  "lol_cc_bot": {
+   "first_seen": "2026-11-06",
+   "last_online": "2026-11-06",
+   "username": "lol_cc_bot"
   },
   "lostfish-bot": {
    "first_seen": "2026-10-20",
@@ -4807,7 +4812,7 @@
   }
  },
  "online": {
-  "checked_at": "2026-11-06T14:43:15Z",
+  "checked_at": "2026-11-06T15:43:10Z",
   "ids": [
    "aaronsengine",
    "aconcaguabot",
@@ -4846,7 +4851,6 @@
    "black-icebot",
    "bluemoonbot",
    "blujay-bot",
-   "bobby_pcolla",
    "bongaclang",
    "borkatower",
    "bot5551",
@@ -4861,6 +4865,7 @@
    "c-t-r-l",
    "c0kval",
    "caiporabot",
+   "caissa-x",
    "casanchess-nnue",
    "catnail",
    "catriever",
@@ -4888,6 +4893,7 @@
    "croco_bot",
    "croco_little_bot",
    "crocodile_bot",
+   "daisy-bot",
    "dala-1100",
    "dala-1300",
    "dala-1600",
@@ -4903,6 +4909,7 @@
    "demen100ns-bot",
    "demolito_l4",
    "demolito_l6",
+   "diogenes-bot",
    "dravox",
    "drawfish-reborn",
    "drewschessmachine",
@@ -4933,6 +4940,7 @@
    "fourcuriouspandas",
    "fschess-engine",
    "funcomp",
+   "gambitonlybot",
    "gambittai",
    "garbobot",
    "georgii_ai",
@@ -4941,6 +4949,7 @@
    "gochess6767",
    "goldfish-engine",
    "grail-bot",
+   "grapechessengine",
    "grindfish",
    "groshboss",
    "gryndor",
@@ -4963,6 +4972,7 @@
    "jangine",
    "jaxakos13_bot",
    "jibbby",
+   "jimmy_inc3710",
    "joan_clone",
    "joey_chessengine",
    "jongsungkim",
@@ -4976,7 +4986,6 @@
    "kestrelstrike",
    "kingzbot",
    "kirinchessbot",
-   "kittyenginev5",
    "koi_engine",
    "kolmato",
    "kopyto_dev",
@@ -4989,7 +4998,6 @@
    "leelaanyodds",
    "leelajester",
    "leelaknightodds",
-   "leelamultiposs",
    "leelapieceodds",
    "leelaqueenforknight",
    "leelaqueenodds",
@@ -5002,6 +5010,7 @@
    "little-0",
    "littlepatricia",
    "littleply",
+   "lol_cc_bot",
    "lukebot",
    "lunaenginechess",
    "lynx_bot",
@@ -5045,16 +5054,13 @@
    "mostlyhuman1900",
    "moteur441",
    "mrtonnerre",
-   "munzurbot2",
    "musashi-thebot",
-   "my-bot",
    "mychessjava",
    "nanozeroorg",
    "neryba",
    "neurosocute",
    "newchessengine-ai",
    "nexastrat",
-   "next_uzbek",
    "nibbleknight",
    "nice_bot",
    "nichteliasbot",
@@ -5101,7 +5107,6 @@
    "quirkafleeg-zx48k",
    "quirkafleeg-zxnext",
    "racingkingsbot_1",
-   "radianceengine",
    "raspfish",
    "ratsu-bot",
    "raven030",
@@ -5113,6 +5118,7 @@
    "ribfish-bot",
    "rudim-bot",
    "rust-in-pieces",
+   "rust-in-pieces-nnue",
    "ryu-ishigori",
    "sapling-bot",
    "sargon-1ply",
@@ -5182,14 +5188,11 @@
    "turochamp-1ply",
    "turochamp-2ply",
    "twosillypandas",
-   "uiagbot",
    "unimark",
-   "ursus_bot",
    "usunfish",
    "usunfish-l0",
    "usunfish-l1",
    "usunfish-l7",
-   "utrain-chess-bot",
    "vadbot",
    "vanibot",
    "variantsbot",
