@@ -397,7 +397,7 @@
   },
   "berkbot": {
    "first_seen": "2026-09-27",
-   "last_online": "2026-11-05",
+   "last_online": "2026-11-06",
    "username": "BerkBot"
   },
   "bernstein-2ply": {
@@ -1962,7 +1962,7 @@
   },
   "jembok": {
    "first_seen": "2026-10-11",
-   "last_online": "2026-11-03",
+   "last_online": "2026-11-06",
    "username": "JemBok"
   },
   "jenniferx": {
@@ -3652,7 +3652,7 @@
   },
   "rust-in-pieces": {
    "first_seen": "2026-09-28",
-   "last_online": "2026-11-05",
+   "last_online": "2026-11-06",
    "username": "rust-in-pieces"
   },
   "rust-in-pieces-nnue": {
@@ -4222,7 +4222,7 @@
   },
   "taubertdietaubejs": {
    "first_seen": "2026-10-14",
-   "last_online": "2026-10-14",
+   "last_online": "2026-11-06",
    "username": "TaubertdieTaubeJS"
   },
   "tchessbot": {
@@ -4294,6 +4294,11 @@
    "first_seen": "2026-10-15",
    "last_online": "2026-10-18",
    "username": "thelokbott"
+  },
+  "thevariantsnormalbot": {
+   "first_seen": "2026-11-06",
+   "last_online": "2026-11-06",
+   "username": "ThEvArIaNtSnOrMaLbOt"
   },
   "thomengine": {
    "first_seen": "2026-09-30",
@@ -4647,7 +4652,7 @@
   },
   "wannalearnbot": {
    "first_seen": "2026-09-27",
-   "last_online": "2026-11-05",
+   "last_online": "2026-11-06",
    "username": "wannalearnbot"
   },
   "wardnbot": {
@@ -4802,7 +4807,7 @@
   }
  },
  "online": {
-  "checked_at": "2026-11-06T10:43:08Z",
+  "checked_at": "2026-11-06T11:43:10Z",
   "ids": [
    "aaronsengine",
    "aconcaguabot",
@@ -4833,6 +4838,7 @@
    "banerot",
    "batyarapro",
    "bbc_bot",
+   "berkbot",
    "bernstein-2ply",
    "bernstein-4ply",
    "bfiedler-bot",
@@ -4857,6 +4863,7 @@
    "casanchess-nnue",
    "catnail",
    "catriever",
+   "charibot",
    "chess3bot",
    "chessgeniusbot",
    "chessiverse_ethan",
@@ -4890,6 +4897,7 @@
    "darkelectronbot",
    "debzero",
    "deepbecky",
+   "deepfish26",
    "deepsquare-ai",
    "demen100ns-bot",
    "demolito_l4",
@@ -4949,6 +4957,7 @@
    "iskelt-corax",
    "jakgro",
    "jangine",
+   "jembok",
    "jibbby",
    "joan_clone",
    "joey_chessengine",
@@ -5093,6 +5102,7 @@
    "resolutebot",
    "ribfish-bot",
    "rudim-bot",
+   "rust-in-pieces",
    "ryu-ishigori",
    "sapling-bot",
    "sargon-1ply",
@@ -5137,14 +5147,15 @@
    "sykorabot",
    "tallikebot",
    "talosbot",
+   "taubertdietaubejs",
    "tempocore",
    "tente8x",
    "terconari",
    "territorybot",
    "thechessblazer",
+   "thevariantsnormalbot",
    "thunfisch-bot",
    "tigrament",
-   "tikifish",
    "tilapiabot",
    "togaii",
    "tomahawkbot",
@@ -5174,11 +5185,11 @@
    "vic98lg",
    "vicentlittle",
    "vietnamesecoffee",
-   "void_bot",
    "vortex_bot",
    "vortexaurafarm",
    "waldemar-the-elf",
    "walpurti",
+   "wannalearnbot",
    "weiawaga",
    "worstfish",
    "z-o_aspenlabs",
