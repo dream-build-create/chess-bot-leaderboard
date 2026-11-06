@@ -210,6 +210,11 @@
    "last_online": "2026-11-06",
    "username": "ApproximationBot"
   },
+  "aqueval-chess": {
+   "first_seen": "2026-11-06",
+   "last_online": "2026-11-06",
+   "username": "aqueval-chess"
+  },
   "arabicahce": {
    "first_seen": "2026-10-04",
    "last_online": "2026-10-27",
@@ -3702,7 +3707,7 @@
   },
   "saitek_renaissance": {
    "first_seen": "2026-11-05",
-   "last_online": "2026-11-05",
+   "last_online": "2026-11-06",
    "username": "Saitek_Renaissance"
   },
   "saltettorrfisk": {
@@ -4832,7 +4837,7 @@
   }
  },
  "online": {
-  "checked_at": "2026-11-06T19:40:05Z",
+  "checked_at": "2026-11-06T19:43:09Z",
   "ids": [
    "aaronsengine",
    "aatk_vanguardx",
@@ -4853,6 +4858,7 @@
    "antibotv3-7",
    "aposeij",
    "approximationbot",
+   "aqueval-chess",
    "arabicannue",
    "arasanx",
    "arkiplayschess",
@@ -5140,6 +5146,7 @@
    "rust-in-pieces",
    "rust-in-pieces-nnue",
    "ryu-ishigori",
+   "saitek_renaissance",
    "sapling-bot",
    "sargon-1ply",
    "sargon-3ply",
