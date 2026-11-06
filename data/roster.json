@@ -267,7 +267,7 @@
   },
   "ask-aatk-bot": {
    "first_seen": "2026-09-27",
-   "last_online": "2026-11-04",
+   "last_online": "2026-11-06",
    "username": "Ask-AATK-bot"
   },
   "askaig": {
@@ -552,7 +552,7 @@
   },
   "bot_hik7ur06": {
    "first_seen": "2026-10-31",
-   "last_online": "2026-10-31",
+   "last_online": "2026-11-06",
    "username": "bot_Hik7ur06"
   },
   "bot_stockfish13": {
@@ -1139,6 +1139,11 @@
    "first_seen": "2026-09-27",
    "last_online": "2026-11-06",
    "username": "dala-900"
+  },
+  "dan90113": {
+   "first_seen": "2026-11-06",
+   "last_online": "2026-11-06",
+   "username": "dan90113"
   },
   "darkelectronbot": {
    "first_seen": "2026-09-27",
@@ -3342,7 +3347,7 @@
   },
   "project_nebulora": {
    "first_seen": "2026-09-30",
-   "last_online": "2026-11-02",
+   "last_online": "2026-11-06",
    "username": "Project_Nebulora"
   },
   "prokopakop": {
@@ -4812,9 +4817,10 @@
   }
  },
  "online": {
-  "checked_at": "2026-11-06T15:43:10Z",
+  "checked_at": "2026-11-06T16:43:12Z",
   "ids": [
    "aaronsengine",
+   "aatk_vanguardx",
    "aconcaguabot",
    "aetherbot",
    "aggressivestockfish",
@@ -4837,6 +4843,7 @@
    "arroccobot",
    "artidigm_research",
    "ashnostromo",
+   "ask-aatk-bot",
    "athena-chessbot",
    "axiom_bot",
    "baby_eubos",
@@ -4848,7 +4855,6 @@
    "bernstein-4ply",
    "bfiedler-bot",
    "bitbitbot",
-   "black-icebot",
    "bluemoonbot",
    "blujay-bot",
    "bongaclang",
@@ -4856,6 +4862,7 @@
    "bot5551",
    "bot64jaques",
    "bot_adario",
+   "bot_hik7ur06",
    "botkingteam33",
    "bottios",
    "bravobot",
@@ -4865,7 +4872,6 @@
    "c-t-r-l",
    "c0kval",
    "caiporabot",
-   "caissa-x",
    "casanchess-nnue",
    "catnail",
    "catriever",
@@ -4900,6 +4906,7 @@
    "dala-2000",
    "dala-700",
    "dala-900",
+   "dan90113",
    "darkelectronbot",
    "darkonbot",
    "darkonweakbot",
@@ -4940,14 +4947,14 @@
    "fourcuriouspandas",
    "fschess-engine",
    "funcomp",
-   "gambitonlybot",
    "gambittai",
    "garbobot",
-   "georgii_ai",
    "geotsibot",
+   "ghidorah_x",
    "gnu4u",
    "gochess6767",
    "goldfish-engine",
+   "goopis",
    "grail-bot",
    "grapechessengine",
    "grindfish",
@@ -4961,7 +4968,6 @@
    "hustler_1mb",
    "hustler_2mb",
    "hustler_5mb",
-   "hynobiuschess",
    "hyperopic",
    "icarus-bot",
    "incipit_bot",
@@ -5072,7 +5078,6 @@
    "notropis",
    "o-rei-cx",
    "odonata-bot",
-   "olimarianbot",
    "onechessbot",
    "onezenpanda",
    "openingsbot",
@@ -5098,6 +5103,7 @@
    "plumboi",
    "plumbot",
    "premove90-1500",
+   "project_nebulora",
    "prokopakop",
    "prosperobot",
    "psion-chess",
@@ -5146,6 +5152,7 @@
    "springerbot",
    "squarefish-900",
    "sseh-c",
+   "stargazerengine",
    "stickshark99",
    "stockcotsfish",
    "stockdory",
@@ -5153,6 +5160,7 @@
    "stockpapagei",
    "streamervschat",
    "stronggoliath",
+   "studyloversz-bot",
    "stupidfishbotbydscs",
    "sunfish-engine",
    "sunfish-nnue-engine",
@@ -5169,6 +5177,8 @@
    "terconari",
    "territorybot",
    "thechessblazer",
+   "thomengine",
+   "throrbjorn",
    "thunfisch-bot",
    "tigrament",
    "tikifish",
@@ -5188,7 +5198,9 @@
    "turochamp-1ply",
    "turochamp-2ply",
    "twosillypandas",
+   "uiagbot",
    "unimark",
+   "ursus_bot",
    "usunfish",
    "usunfish-l0",
    "usunfish-l1",
