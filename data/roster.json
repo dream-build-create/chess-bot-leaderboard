@@ -70,6 +70,11 @@
    "last_online": "2026-10-24",
    "username": "Ahmed_Por1_2z"
   },
+  "ahmedzhanov": {
+   "first_seen": "2026-11-06",
+   "last_online": "2026-11-06",
+   "username": "ahmedzhanov"
+  },
   "ai-con": {
    "first_seen": "2026-09-27",
    "last_online": "2026-11-06",
@@ -932,7 +937,7 @@
   },
   "chrusty": {
    "first_seen": "2026-09-28",
-   "last_online": "2026-10-31",
+   "last_online": "2026-11-06",
    "username": "chrusty"
   },
   "cinder-bot": {
@@ -3765,6 +3770,11 @@
    "last_online": "2026-11-06",
    "username": "ScalaQueen"
   },
+  "schach-knecht": {
+   "first_seen": "2026-11-06",
+   "last_online": "2026-11-06",
+   "username": "Schach-Knecht"
+  },
   "schnecken_bot": {
    "first_seen": "2026-09-27",
    "last_online": "2026-11-06",
@@ -4817,13 +4827,14 @@
   }
  },
  "online": {
-  "checked_at": "2026-11-06T16:43:12Z",
+  "checked_at": "2026-11-06T17:43:11Z",
   "ids": [
    "aaronsengine",
    "aatk_vanguardx",
    "aconcaguabot",
    "aetherbot",
    "aggressivestockfish",
+   "ahmedzhanov",
    "ai-con",
    "ailedbot",
    "alexandrya",
@@ -4862,7 +4873,6 @@
    "bot5551",
    "bot64jaques",
    "bot_adario",
-   "bot_hik7ur06",
    "botkingteam33",
    "bottios",
    "bravobot",
@@ -4882,10 +4892,10 @@
    "chessiverse_luc",
    "chessiverse_pawnza",
    "chessiverse_raak",
-   "chesstransformerbot",
    "cheszter",
    "chill4ce",
    "chmod-bot",
+   "chrusty",
    "cinder-bot",
    "classical-leela",
    "claude_bot",
@@ -4906,7 +4916,6 @@
    "dala-2000",
    "dala-700",
    "dala-900",
-   "dan90113",
    "darkelectronbot",
    "darkonbot",
    "darkonweakbot",
@@ -4947,8 +4956,10 @@
    "fourcuriouspandas",
    "fschess-engine",
    "funcomp",
+   "gambitonlybot",
    "gambittai",
    "garbobot",
+   "georgii_ai",
    "geotsibot",
    "ghidorah_x",
    "gnu4u",
@@ -5016,7 +5027,6 @@
    "little-0",
    "littlepatricia",
    "littleply",
-   "lol_cc_bot",
    "lukebot",
    "lunaenginechess",
    "lynx_bot",
@@ -5067,6 +5077,7 @@
    "neurosocute",
    "newchessengine-ai",
    "nexastrat",
+   "next_uzbek",
    "nibbleknight",
    "nice_bot",
    "nichteliasbot",
@@ -5103,7 +5114,6 @@
    "plumboi",
    "plumbot",
    "premove90-1500",
-   "project_nebulora",
    "prokopakop",
    "prosperobot",
    "psion-chess",
@@ -5131,6 +5141,7 @@
    "sargon-3ply",
    "sbnovella",
    "scalaqueen",
+   "schach-knecht",
    "schnecken_bot",
    "scipio-bot",
    "seedchess",
@@ -5148,7 +5159,6 @@
    "sleepmindengine",
    "slowmate_bot",
    "solobot",
-   "sparkchessengine",
    "springerbot",
    "squarefish-900",
    "sseh-c",
@@ -5177,7 +5187,6 @@
    "terconari",
    "territorybot",
    "thechessblazer",
-   "thomengine",
    "throrbjorn",
    "thunfisch-bot",
    "tigrament",
