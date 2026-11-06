@@ -1477,7 +1477,7 @@
   },
   "fenrir-bot": {
    "first_seen": "2026-10-01",
-   "last_online": "2026-10-24",
+   "last_online": "2026-11-06",
    "username": "Fenrir-bot"
   },
   "fenrirbot": {
@@ -2167,7 +2167,7 @@
   },
   "kolmato": {
    "first_seen": "2026-11-01",
-   "last_online": "2026-11-04",
+   "last_online": "2026-11-06",
    "username": "kolmato"
   },
   "kopyto_dev": {
@@ -2682,7 +2682,7 @@
   },
   "mega-noob-bot": {
    "first_seen": "2026-09-27",
-   "last_online": "2026-11-05",
+   "last_online": "2026-11-06",
    "username": "MEGA-NOOB-BOT"
   },
   "meikechess": {
@@ -3707,7 +3707,7 @@
   },
   "sara_bot1": {
    "first_seen": "2026-10-15",
-   "last_online": "2026-11-01",
+   "last_online": "2026-11-06",
    "username": "sAra_bot1"
   },
   "sargon-1ply": {
@@ -4792,14 +4792,13 @@
   }
  },
  "online": {
-  "checked_at": "2026-11-06T07:43:09Z",
+  "checked_at": "2026-11-06T08:43:09Z",
   "ids": [
    "aconcaguabot",
    "aetherbot",
    "aggressivestockfish",
    "ai-con",
    "ailedbot",
-   "aleph_engine",
    "alexandrya",
    "aliceshiro",
    "alieknek",
@@ -4883,6 +4882,7 @@
    "darkelectronbot",
    "debzero",
    "deepbecky",
+   "deepfish26",
    "deepsquare-ai",
    "demen100ns-bot",
    "demolito_l4",
@@ -4908,6 +4908,7 @@
    "falconengine",
    "fathzer-jchess",
    "felipe_bot_53",
+   "fenrir-bot",
    "fenrirbot",
    "fetacompli",
    "fivejoyouspandas",
@@ -4957,7 +4958,9 @@
    "kestrelstrike",
    "kingzbot",
    "kirinchessbot",
+   "kittyenginev5",
    "koi_engine",
+   "kolmato",
    "kopyto_dev",
    "kulubot",
    "lamprook",
@@ -4979,6 +4982,7 @@
    "lilitbot",
    "little-0",
    "littlepatricia",
+   "littleply",
    "lukebot",
    "lunaenginechess",
    "lynx_bot",
@@ -5012,6 +5016,7 @@
    "mayflyengine",
    "mcdonalds1955",
    "mdbot",
+   "mega-noob-bot",
    "melsh_bot",
    "michaamateurbot",
    "milanbot",
@@ -5022,7 +5027,6 @@
    "morabandbot",
    "mostlyhuman1900",
    "mrtonnerre",
-   "munzurbot2",
    "musashi-thebot",
    "mychessjava",
    "nanozeroorg",
@@ -5093,6 +5097,7 @@
    "rudim-bot",
    "ryu-ishigori",
    "sapling-bot",
+   "sara_bot1",
    "sargon-1ply",
    "sargon-3ply",
    "sbnovella",
@@ -5113,7 +5118,6 @@
    "slowmate_bot",
    "snaky-bot",
    "solobot",
-   "sparkchessengine",
    "springerbot",
    "squarefish-900",
    "sseh-c",
