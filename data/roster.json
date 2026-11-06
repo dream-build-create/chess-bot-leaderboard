@@ -12,7 +12,7 @@
   },
   "aatk_vanguardx": {
    "first_seen": "2026-09-27",
-   "last_online": "2026-11-04",
+   "last_online": "2026-11-06",
    "username": "AATK_VanguardX"
   },
   "abcbot": {
@@ -1489,6 +1489,11 @@
    "first_seen": "2026-09-30",
    "last_online": "2026-10-28",
    "username": "Fighting2543"
+  },
+  "fissureengine": {
+   "first_seen": "2026-11-06",
+   "last_online": "2026-11-06",
+   "username": "FissureEngine"
   },
   "fivejoyouspandas": {
    "first_seen": "2026-10-22",
@@ -3392,7 +3397,7 @@
   },
   "queensgambot": {
    "first_seen": "2026-09-27",
-   "last_online": "2026-11-05",
+   "last_online": "2026-11-06",
    "username": "QueensGamBOT"
   },
   "quirkafleeg-pc": {
@@ -4097,7 +4102,7 @@
   },
   "studyloversz-bot": {
    "first_seen": "2026-09-27",
-   "last_online": "2026-11-04",
+   "last_online": "2026-11-06",
    "username": "Studyloversz-bot"
   },
   "stupidchessrobot": {
@@ -4782,8 +4787,9 @@
   }
  },
  "online": {
-  "checked_at": "2026-11-06T01:43:10Z",
+  "checked_at": "2026-11-06T02:43:10Z",
   "ids": [
+   "aatk_vanguardx",
    "aconcaguabot",
    "aetherbot",
    "aggressivestockfish",
@@ -4809,11 +4815,9 @@
    "artidigm_research",
    "ashnostromo",
    "athena-chessbot",
-   "attackerbotpython",
    "axiom_bot",
    "baby_eubos",
    "banerot",
-   "batyarapro",
    "bbc_bot",
    "becela9_kpebetka",
    "bernstein-2ply",
@@ -4848,7 +4852,6 @@
    "chill4ce",
    "chmod-bot",
    "cinder-bot",
-   "classic_bot-v2",
    "classical-leela",
    "claude_bot",
    "clessy-bot",
@@ -4899,6 +4902,7 @@
    "felipe_bot_53",
    "fenrirbot",
    "fetacompli",
+   "fissureengine",
    "fivejoyouspandas",
    "flounderbot",
    "flower-queen",
@@ -5021,7 +5025,6 @@
    "neurosocute",
    "newchessengine-ai",
    "nexastrat",
-   "nexosdefos",
    "nibbleknight",
    "nice_bot",
    "nichteliasbot",
@@ -5062,6 +5065,7 @@
    "psion-chess",
    "puisne",
    "pzchessbot",
+   "queensgambot",
    "quirkafleeg-pc",
    "quirkafleeg-zx48k",
    "quirkafleeg-zxnext",
@@ -5110,6 +5114,7 @@
    "stockpapagei",
    "streamervschat",
    "stronggoliath",
+   "studyloversz-bot",
    "stupidfishbotbydscs",
    "sunfish-engine",
    "sunfish-nnue-engine",
@@ -5166,7 +5171,6 @@
    "weiawaga",
    "worstfish",
    "z-o_aspenlabs",
-   "zekimuren_bot",
    "zero3-now",
    "zion-bot"
   ]
