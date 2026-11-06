@@ -100,6 +100,11 @@
    "last_online": "2026-10-30",
    "username": "Alehkine_cat"
   },
+  "aleph_engine": {
+   "first_seen": "2026-11-06",
+   "last_online": "2026-11-06",
+   "username": "Aleph_Engine"
+  },
   "alexandrya": {
    "first_seen": "2026-10-03",
    "last_online": "2026-11-06",
@@ -857,7 +862,7 @@
   },
   "chessgeniusbot": {
    "first_seen": "2026-10-02",
-   "last_online": "2026-11-05",
+   "last_online": "2026-11-06",
    "username": "ChessGeniusBot"
   },
   "chessiverse_ethan": {
@@ -2822,7 +2827,7 @@
   },
   "munzurbot2": {
    "first_seen": "2026-10-30",
-   "last_online": "2026-11-05",
+   "last_online": "2026-11-06",
    "username": "MunzurBOT2"
   },
   "musashi-thebot": {
@@ -3997,7 +4002,7 @@
   },
   "sparkchessengine": {
    "first_seen": "2026-10-21",
-   "last_online": "2026-11-05",
+   "last_online": "2026-11-06",
    "username": "SparkchessEngine"
   },
   "springerbot": {
@@ -4787,13 +4792,14 @@
   }
  },
  "online": {
-  "checked_at": "2026-11-06T07:21:57Z",
+  "checked_at": "2026-11-06T07:43:09Z",
   "ids": [
    "aconcaguabot",
    "aetherbot",
    "aggressivestockfish",
    "ai-con",
    "ailedbot",
+   "aleph_engine",
    "alexandrya",
    "aliceshiro",
    "alieknek",
@@ -4812,6 +4818,7 @@
    "artidigm_research",
    "ashnostromo",
    "athena-chessbot",
+   "attackerbotpython",
    "axiom_bot",
    "baby_eubos",
    "banerot",
@@ -4843,6 +4850,7 @@
    "catriever",
    "charibot",
    "chess3bot",
+   "chessgeniusbot",
    "chessiverse_ethan",
    "chessiverse_luc",
    "chessiverse_pawnza",
@@ -4877,10 +4885,7 @@
    "deepbecky",
    "deepsquare-ai",
    "demen100ns-bot",
-   "demolito_l2",
-   "demolito_l3",
    "demolito_l4",
-   "demolito_l5",
    "demolito_l6",
    "diogenes-bot",
    "dravox",
@@ -5017,6 +5022,7 @@
    "morabandbot",
    "mostlyhuman1900",
    "mrtonnerre",
+   "munzurbot2",
    "musashi-thebot",
    "mychessjava",
    "nanozeroorg",
@@ -5107,6 +5113,7 @@
    "slowmate_bot",
    "snaky-bot",
    "solobot",
+   "sparkchessengine",
    "springerbot",
    "squarefish-900",
    "sseh-c",
