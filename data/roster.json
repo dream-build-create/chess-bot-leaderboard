@@ -500,6 +500,11 @@
    "last_online": "2026-11-07",
    "username": "Blujay-bot"
   },
+  "blundeel67": {
+   "first_seen": "2026-11-07",
+   "last_online": "2026-11-07",
+   "username": "blundeel67"
+  },
   "bobby_pcolla": {
    "first_seen": "2026-09-27",
    "last_online": "2026-11-07",
@@ -1519,6 +1524,11 @@
    "first_seen": "2026-09-30",
    "last_online": "2026-10-28",
    "username": "Fighting2543"
+  },
+  "fischer_bot": {
+   "first_seen": "2026-11-07",
+   "last_online": "2026-11-07",
+   "username": "Fischer_Bot"
   },
   "fissureengine": {
    "first_seen": "2026-11-06",
@@ -2819,6 +2829,11 @@
    "first_seen": "2026-09-27",
    "last_online": "2026-11-03",
    "username": "minimax_chessy_lol"
+  },
+  "minimaxpro": {
+   "first_seen": "2026-11-07",
+   "last_online": "2026-11-07",
+   "username": "Minimaxpro"
   },
   "minmaxvalgen": {
    "first_seen": "2026-10-01",
@@ -4912,7 +4927,7 @@
   }
  },
  "online": {
-  "checked_at": "2026-11-07T21:43:09Z",
+  "checked_at": "2026-11-07T22:15:51Z",
   "ids": [
    "abcd_engine",
    "aconcaguabot",
@@ -4952,7 +4967,10 @@
    "black-icebot",
    "bluemoonbot",
    "blujay-bot",
+   "blundeel67",
+   "bobby_pcolla",
    "bongaclang",
+   "bot5551",
    "bot64jaques",
    "bot_adario",
    "botkingteam33",
@@ -4961,7 +4979,6 @@
    "bubblebot2",
    "bytefish",
    "c-t-r-l",
-   "c0kval",
    "caiporabot",
    "casanchess-nnue",
    "catnail",
@@ -4969,7 +4986,7 @@
    "chamberiajedrez",
    "chaotong_engine",
    "charibot",
-   "chessgeniusbot",
+   "chess3bot",
    "chessiverse_ethan",
    "chessiverse_luc",
    "chessiverse_pawnza",
@@ -5031,6 +5048,7 @@
    "felipe_bot_53",
    "fenrirbot",
    "fetacompli",
+   "fischer_bot",
    "fivejoyouspandas",
    "flounderbot",
    "flower-queen",
@@ -5049,7 +5067,6 @@
    "goopis",
    "grail-bot",
    "grindfish",
-   "groshboss",
    "gryndor",
    "hackerchessbot",
    "halcyonbot",
@@ -5150,6 +5167,7 @@
    "michaamateurbot",
    "milanbot",
    "mimirbot",
+   "minimaxpro",
    "minopponentmoves",
    "mithandros",
    "mochi_bot",
@@ -5212,7 +5230,6 @@
    "puisne",
    "pzchessbot",
    "quirkafleeg-pc",
-   "quirkafleeg-zx48k",
    "quirkafleeg-zxnext",
    "racingkingsbot_1",
    "raspfish",
@@ -5246,13 +5263,13 @@
    "silasly",
    "sim3million",
    "simple-bot",
+   "simplechessengine",
    "simpleeval",
    "sj_norbot",
    "slate-engine",
    "sleepish",
    "sleepmindengine",
    "slowmate_bot",
-   "snapleelaeasy",
    "solobot",
    "springerbot",
    "squarefish-900",
@@ -5273,7 +5290,6 @@
    "sybaibot",
    "sybbot",
    "sykorabot",
-   "takticprochess",
    "tallikebot",
    "talosbot",
    "tempocore",
