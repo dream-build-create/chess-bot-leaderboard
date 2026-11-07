@@ -935,6 +935,11 @@
    "last_online": "2026-11-07",
    "username": "chill4ce"
   },
+  "chiral_ebt": {
+   "first_seen": "2026-11-07",
+   "last_online": "2026-11-07",
+   "username": "chiral_ebt"
+  },
   "chmod-bot": {
    "first_seen": "2026-10-22",
    "last_online": "2026-11-07",
@@ -2167,7 +2172,7 @@
   },
   "kissol-chess": {
    "first_seen": "2026-11-02",
-   "last_online": "2026-11-05",
+   "last_online": "2026-11-07",
    "username": "kissol-chess"
   },
   "kittenfish": {
@@ -4027,7 +4032,7 @@
   },
   "snapleelaeasy": {
    "first_seen": "2026-10-04",
-   "last_online": "2026-10-26",
+   "last_online": "2026-11-07",
    "username": "SnapLeelaEasy"
   },
   "softacornbot": {
@@ -4677,7 +4682,7 @@
   },
   "viviblitzfr": {
    "first_seen": "2026-10-28",
-   "last_online": "2026-11-06",
+   "last_online": "2026-11-07",
    "username": "viviblitzFR"
   },
   "void_bot": {
@@ -4892,7 +4897,7 @@
   }
  },
  "online": {
-  "checked_at": "2026-11-07T16:43:10Z",
+  "checked_at": "2026-11-07T17:43:10Z",
   "ids": [
    "aaronsengine",
    "abcd_engine",
@@ -4925,6 +4930,7 @@
    "banerot",
    "bbc_bot",
    "becela9_kpebetka",
+   "belzedarian",
    "berkbot",
    "bernstein-2ply",
    "bernstein-4ply",
@@ -4959,6 +4965,7 @@
    "chesstransformerbot",
    "cheszter",
    "chill4ce",
+   "chiral_ebt",
    "chronicgambler",
    "cinder-bot",
    "classic_bot-v2",
@@ -4989,7 +4996,6 @@
    "demen100ns-bot",
    "demolito_l4",
    "demolito_l6",
-   "dfy-bot",
    "dravox",
    "drawfish-reborn",
    "duchessai",
@@ -5005,7 +5011,6 @@
    "entebot",
    "epimetheusbot",
    "eubos",
-   "european_chess_bot",
    "falconengine",
    "fathzer-jchess",
    "felipe_bot_53",
@@ -5031,7 +5036,6 @@
    "goldfish-engine",
    "goopis",
    "grail-bot",
-   "grapechessengine",
    "grindfish",
    "groshboss",
    "gryndor",
@@ -5045,7 +5049,6 @@
    "hyperopic",
    "icarus-bot",
    "incipit_bot",
-   "io-bot",
    "is_boss",
    "iskelt-corax",
    "jakgro",
@@ -5068,6 +5071,7 @@
    "kestrelstrike",
    "kingzbot",
    "kirinchessbot",
+   "kissol-chess",
    "kittyenginev5",
    "kolmato",
    "kopyto_dev",
@@ -5165,10 +5169,8 @@
    "onechessbot",
    "onezenpanda",
    "openingsbot",
-   "opycep",
    "overfitted",
    "oxide-eg",
-   "oxybullet",
    "paconbot",
    "palebots",
    "pangubot",
@@ -5185,6 +5187,7 @@
    "pi0w",
    "picosargon",
    "piebot",
+   "pierreai",
    "piglet_engine",
    "pirates1",
    "pirates2",
@@ -5194,6 +5197,7 @@
    "plumbot",
    "premove90-1500",
    "prokopakop",
+   "prosperobot",
    "psion-chess",
    "puisne",
    "pzchessbot",
@@ -5210,7 +5214,6 @@
    "remychessengine",
    "resolutebot",
    "ribfish-bot",
-   "robotjfischer",
    "rockingsuperstars",
    "rudim-bot",
    "rust-in-pieces",
@@ -5239,6 +5242,7 @@
    "sleepish",
    "sleepmindengine",
    "slowmate_bot",
+   "snapleelaeasy",
    "solobot",
    "springerbot",
    "squarefish-900",
@@ -5264,7 +5268,6 @@
    "tempocore",
    "tente8x",
    "territorybot",
-   "thomengine",
    "throrbjorn",
    "thunfisch-bot",
    "tigrament",
@@ -5297,6 +5300,7 @@
    "vic98lg",
    "vicentlittle",
    "vietnamesecoffee",
+   "viviblitzfr",
    "void_bot",
    "vortexaurafarm",
    "waldemar-the-elf",
