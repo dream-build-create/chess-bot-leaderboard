@@ -447,7 +447,7 @@
   },
   "bit-fish8": {
    "first_seen": "2026-11-01",
-   "last_online": "2026-11-06",
+   "last_online": "2026-11-07",
    "username": "Bit-Fish8"
   },
   "bitbitbot": {
@@ -872,7 +872,7 @@
   },
   "chessgeniusbot": {
    "first_seen": "2026-10-02",
-   "last_online": "2026-11-06",
+   "last_online": "2026-11-07",
    "username": "ChessGeniusBot"
   },
   "chessiverse_ethan": {
@@ -897,7 +897,7 @@
   },
   "chessnoobcomp": {
    "first_seen": "2026-10-26",
-   "last_online": "2026-11-01",
+   "last_online": "2026-11-07",
    "username": "ChessNoobComp"
   },
   "chesspion96": {
@@ -917,7 +917,7 @@
   },
   "chesstransformerbot": {
    "first_seen": "2026-10-08",
-   "last_online": "2026-11-06",
+   "last_online": "2026-11-07",
    "username": "ChessTransformerBot"
   },
   "cheszter": {
@@ -2862,7 +2862,7 @@
   },
   "munzurbot2": {
    "first_seen": "2026-10-30",
-   "last_online": "2026-11-06",
+   "last_online": "2026-11-07",
    "username": "MunzurBOT2"
   },
   "musashi-thebot": {
@@ -2909,6 +2909,11 @@
    "first_seen": "2026-10-31",
    "last_online": "2026-11-05",
    "username": "ndashka_bot"
+  },
+  "ndr1sn": {
+   "first_seen": "2026-11-07",
+   "last_online": "2026-11-07",
+   "username": "Ndr1sn"
   },
   "nebubot": {
    "first_seen": "2026-09-27",
@@ -4852,7 +4857,7 @@
   }
  },
  "online": {
-  "checked_at": "2026-11-07T06:43:10Z",
+  "checked_at": "2026-11-07T07:43:08Z",
   "ids": [
    "abcd_engine",
    "aconcaguabot",
@@ -4886,11 +4891,11 @@
    "banerot",
    "bbc_bot",
    "becela9_kpebetka",
-   "belzedarian",
    "berkbot",
    "bernstein-2ply",
    "bernstein-4ply",
    "bfiedler-bot",
+   "bit-fish8",
    "bitbitbot",
    "bluemoonbot",
    "blujay-bot",
@@ -4902,7 +4907,6 @@
    "bretemabot",
    "bubblebot2",
    "bytefish",
-   "c-t-r-l",
    "c0kval",
    "caiporabot",
    "casanchess-nnue",
@@ -4911,10 +4915,13 @@
    "chaotong_engine",
    "charibot",
    "chess3bot",
+   "chessgeniusbot",
    "chessiverse_ethan",
    "chessiverse_luc",
    "chessiverse_pawnza",
    "chessiverse_raak",
+   "chessnoobcomp",
+   "chesstransformerbot",
    "cheszter",
    "chill4ce",
    "chmod-bot",
@@ -4940,13 +4947,11 @@
    "dala-700",
    "dala-900",
    "darkelectronbot",
-   "darkonbot",
    "darkonweakbot",
    "debzero",
    "deepbecky",
    "deepsquare-ai",
    "demen100ns-bot",
-   "demolito_l6",
    "dravox",
    "drawfish-reborn",
    "drewschessmachine",
@@ -4984,7 +4989,6 @@
    "gnu4u",
    "gochess6767",
    "goldfish-engine",
-   "goopis",
    "grail-bot",
    "grapechessengine",
    "grindfish",
@@ -5076,7 +5080,6 @@
    "matmoi",
    "matthewcarven",
    "mayflyengine",
-   "mcdonalds1955",
    "mdbot",
    "mega-noob-bot",
    "melsh_bot",
@@ -5090,9 +5093,11 @@
    "mostlyhuman1900",
    "moteur441",
    "mrtonnerre",
+   "munzurbot2",
    "musashi-thebot",
    "mychessjava",
    "nanozeroorg",
+   "ndr1sn",
    "neurosocute",
    "newchessengine-ai",
    "nexastrat",
@@ -5158,7 +5163,6 @@
    "rust-in-pieces-nnue",
    "ryu-ishigori",
    "sapling-bot",
-   "sardinebot",
    "sargon-1ply",
    "sargon-3ply",
    "sbnovella",
@@ -5192,6 +5196,7 @@
    "streamervschat",
    "stronggoliath",
    "stupidfishbotbydscs",
+   "styx-chess",
    "sunfish-engine",
    "sunfish-nnue-engine",
    "sxphia",
@@ -5239,7 +5244,6 @@
    "vicentlittle",
    "vietnamesecoffee",
    "void_bot",
-   "vortex_bot",
    "vortexaurafarm",
    "waldemar-the-elf",
    "walpurti",
