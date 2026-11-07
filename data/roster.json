@@ -2,7 +2,7 @@
  "bots": {
   "aaronsengine": {
    "first_seen": "2026-09-27",
-   "last_online": "2026-11-06",
+   "last_online": "2026-11-07",
    "username": "AaronsEngine"
   },
   "aathena101": {
@@ -462,7 +462,7 @@
   },
   "black-bishop-kh": {
    "first_seen": "2026-09-28",
-   "last_online": "2026-11-05",
+   "last_online": "2026-11-07",
    "username": "Black-Bishop-Kh"
   },
   "black-icebot": {
@@ -757,7 +757,7 @@
   },
   "ceraf": {
    "first_seen": "2026-10-01",
-   "last_online": "2026-11-06",
+   "last_online": "2026-11-07",
    "username": "CERAF"
   },
   "chamberiajedrez": {
@@ -2345,6 +2345,11 @@
    "last_online": "2026-11-07",
    "username": "LeelaTroll"
   },
+  "leelonardo": {
+   "first_seen": "2026-11-07",
+   "last_online": "2026-11-07",
+   "username": "Leelonardo"
+  },
   "leetomic": {
    "first_seen": "2026-10-06",
    "last_online": "2026-10-08",
@@ -2387,7 +2392,7 @@
   },
   "lili-ai": {
    "first_seen": "2026-10-22",
-   "last_online": "2026-11-06",
+   "last_online": "2026-11-07",
    "username": "Lili-ai"
   },
   "lilitbot": {
@@ -2684,6 +2689,11 @@
    "first_seen": "2026-10-03",
    "last_online": "2026-10-04",
    "username": "MaxtheDog-ESP32"
+  },
+  "maybyen": {
+   "first_seen": "2026-11-07",
+   "last_online": "2026-11-07",
+   "username": "maybyen"
   },
   "mayflyengine": {
    "first_seen": "2026-09-27",
@@ -3162,7 +3172,7 @@
   },
   "paconbot": {
    "first_seen": "2026-11-05",
-   "last_online": "2026-11-06",
+   "last_online": "2026-11-07",
    "username": "PaconBot"
   },
   "palebots": {
@@ -4717,7 +4727,7 @@
   },
   "wannalearnbot": {
    "first_seen": "2026-09-27",
-   "last_online": "2026-11-06",
+   "last_online": "2026-11-07",
    "username": "wannalearnbot"
   },
   "wardnbot": {
@@ -4792,7 +4802,7 @@
   },
   "wyxx210704_bot": {
    "first_seen": "2026-10-01",
-   "last_online": "2026-10-16",
+   "last_online": "2026-11-07",
    "username": "wyxx210704_bot"
   },
   "xewali": {
@@ -4872,8 +4882,9 @@
   }
  },
  "online": {
-  "checked_at": "2026-11-07T09:43:10Z",
+  "checked_at": "2026-11-07T10:43:10Z",
   "ids": [
+   "aaronsengine",
    "abcd_engine",
    "aconcaguabot",
    "aetherbot",
@@ -4904,13 +4915,14 @@
    "baby_eubos",
    "banerot",
    "bbc_bot",
-   "becela9_kpebetka",
    "belzedarian",
    "berkbot",
    "bernstein-2ply",
    "bernstein-4ply",
    "bfiedler-bot",
+   "bit-fish8",
    "bitbitbot",
+   "black-bishop-kh",
    "bluemoonbot",
    "blujay-bot",
    "bongaclang",
@@ -4928,16 +4940,15 @@
    "casanchess-nnue",
    "catnail",
    "catriever",
+   "ceraf",
    "chamberiajedrez",
    "chaotong_engine",
    "charibot",
    "chess3bot",
-   "chessgeniusbot",
    "chessiverse_ethan",
    "chessiverse_luc",
    "chessiverse_pawnza",
    "chessiverse_raak",
-   "chessnoobcomp",
    "chesstitanspro",
    "chesstransformerbot",
    "cheszter",
@@ -4970,6 +4981,7 @@
    "deepbecky",
    "deepsquare-ai",
    "demen100ns-bot",
+   "demolito_l4",
    "dravox",
    "drawfish-reborn",
    "drewschessmachine",
@@ -5060,8 +5072,10 @@
    "leelarogue",
    "leelarookodds",
    "leelatroll",
+   "leelonardo",
    "levymaia",
    "likeawizard-bot",
+   "lili-ai",
    "lilitbot",
    "little-0",
    "littlepatricia",
@@ -5096,6 +5110,7 @@
    "mate-in-twenty",
    "mate1-bot",
    "matmoi",
+   "maybyen",
    "mayflyengine",
    "mcdonalds1955",
    "mdbot",
@@ -5110,12 +5125,10 @@
    "mostlyhuman1900",
    "moteur441",
    "mrtonnerre",
-   "munzurbot2",
    "musashi-thebot",
    "nanozeroorg",
    "ndr1sn",
    "neurosocute",
-   "newchessengine-ai",
    "nexastrat",
    "nexosdefos",
    "nibbleknight",
@@ -5137,11 +5150,10 @@
    "opycep",
    "overfitted",
    "oxide-eg",
-   "oxybullet",
+   "paconbot",
    "palebots",
    "pangubot",
    "panic-fish",
-   "parrottropik",
    "partner3615diago",
    "patriciabot",
    "patzerbot135",
@@ -5176,7 +5188,6 @@
    "remychessengine",
    "resolutebot",
    "ribfish-bot",
-   "rockingsuperstars",
    "rudim-bot",
    "rust-in-pieces",
    "rust-in-pieces-nnue",
@@ -5228,7 +5239,6 @@
    "tente8x",
    "territorybot",
    "thechessblazer",
-   "thevariantsnormalbot",
    "thunfisch-bot",
    "tigrament",
    "tikifish",
@@ -5258,12 +5268,13 @@
    "vic98lg",
    "vicentlittle",
    "vietnamesecoffee",
-   "void_bot",
    "vortexaurafarm",
    "waldemar-the-elf",
    "walpurti",
+   "wannalearnbot",
    "weiawaga",
    "worstfish",
+   "wyxx210704_bot",
    "z-o_aspenlabs",
    "zion-bot"
   ]
