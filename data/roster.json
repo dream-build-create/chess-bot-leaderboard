@@ -1922,7 +1922,7 @@
   },
   "io-bot": {
    "first_seen": "2026-09-28",
-   "last_online": "2026-10-18",
+   "last_online": "2026-11-07",
    "username": "io-bot"
   },
   "iran_f72": {
@@ -2039,6 +2039,11 @@
    "first_seen": "2026-10-09",
    "last_online": "2026-10-25",
    "username": "Jinko-Chan"
+  },
+  "jjugle": {
+   "first_seen": "2026-11-07",
+   "last_online": "2026-11-07",
+   "username": "JJUGLE"
   },
   "jkcheeserchess": {
    "first_seen": "2026-11-05",
@@ -2247,7 +2252,7 @@
   },
   "lantern_bot": {
    "first_seen": "2026-10-15",
-   "last_online": "2026-11-05",
+   "last_online": "2026-11-07",
    "username": "Lantern_BOT"
   },
   "larryz-alterego": {
@@ -3642,7 +3647,7 @@
   },
   "robotjfischer": {
    "first_seen": "2026-09-29",
-   "last_online": "2026-11-04",
+   "last_online": "2026-11-07",
    "username": "RobotJFischer"
   },
   "rocketengine": {
@@ -4882,10 +4887,9 @@
   }
  },
  "online": {
-  "checked_at": "2026-11-07T14:43:11Z",
+  "checked_at": "2026-11-07T15:43:09Z",
   "ids": [
    "aaronsengine",
-   "aatk_vanguardx",
    "abcd_engine",
    "aconcaguabot",
    "aetherbot",
@@ -4903,7 +4907,6 @@
    "annie_archy",
    "anti-bot",
    "antibotv3-7",
-   "apexchess-bot",
    "aposeij",
    "approximationbot",
    "aqueval-chess",
@@ -4911,7 +4914,6 @@
    "arkiplayschess",
    "arroccobot",
    "artidigm_research",
-   "ask-aatk-bot",
    "athena-chessbot",
    "axiom_bot",
    "baby_eubos",
@@ -4927,6 +4929,7 @@
    "black-icebot",
    "bluemoonbot",
    "blujay-bot",
+   "bobby_pcolla",
    "bongaclang",
    "bot5551",
    "bot64jaques",
@@ -4936,12 +4939,11 @@
    "bretemabot",
    "bubblebot2",
    "bytefish",
+   "c-t-r-l",
    "caiporabot",
-   "calciumengine",
    "casanchess-nnue",
    "catnail",
    "catriever",
-   "ceraf",
    "chamberiajedrez",
    "chaotong_engine",
    "charibot",
@@ -4976,6 +4978,7 @@
    "dala-700",
    "dala-900",
    "darkelectronbot",
+   "darkonbot",
    "darkonweakbot",
    "debzero",
    "deepbecky",
@@ -4989,7 +4992,6 @@
    "drewschessmachine",
    "duchessai",
    "dumbotai",
-   "eclipsebot",
    "edwardkillick",
    "eigenmann-chess",
    "elachessbot",
@@ -5037,6 +5039,7 @@
    "hyperopic",
    "icarus-bot",
    "incipit_bot",
+   "io-bot",
    "is_boss",
    "iskelt-corax",
    "jakgro",
@@ -5044,6 +5047,7 @@
    "jaxakos13_bot",
    "jibbby",
    "jimmy_inc3710",
+   "jjugle",
    "joan_clone",
    "joey_chessengine",
    "jongsungkim",
@@ -5063,6 +5067,7 @@
    "kopyto_dev",
    "kulubot",
    "lamprook",
+   "lantern_bot",
    "larryz-alterego",
    "latrunculi-bot",
    "laura-bot",
@@ -5196,7 +5201,11 @@
    "remychessengine",
    "resolutebot",
    "ribfish-bot",
+   "robotjfischer",
+   "rockingsuperstars",
    "rudim-bot",
+   "rust-in-pieces",
+   "rust-in-pieces-nnue",
    "ryu-ishigori",
    "sapling-bot",
    "sargon-1ply",
@@ -5219,7 +5228,6 @@
    "sleepish",
    "sleepmindengine",
    "slowmate_bot",
-   "slychessbot",
    "solobot",
    "springerbot",
    "squarefish-900",
@@ -5232,7 +5240,6 @@
    "stockpapagei",
    "streamervschat",
    "stronggoliath",
-   "studyloversz-bot",
    "stupidfishbotbydscs",
    "sunfish-engine",
    "sunfish-nnue-engine",
@@ -5269,6 +5276,7 @@
    "usunfish-l7",
    "utrain-chess-bot",
    "vadbot",
+   "vanibot",
    "variantsbot",
    "vic98lg",
    "vicentlittle",
