@@ -97,7 +97,7 @@
   },
   "alarm2001": {
    "first_seen": "2026-10-01",
-   "last_online": "2026-11-06",
+   "last_online": "2026-11-07",
    "username": "Alarm2001"
   },
   "alehkine_cat": {
@@ -1247,7 +1247,7 @@
   },
   "demolito_l6": {
    "first_seen": "2026-10-12",
-   "last_online": "2026-11-06",
+   "last_online": "2026-11-07",
    "username": "Demolito_L6"
   },
   "despitefire": {
@@ -3747,7 +3747,7 @@
   },
   "sardinebot": {
    "first_seen": "2026-11-06",
-   "last_online": "2026-11-06",
+   "last_online": "2026-11-07",
    "username": "SardineBot"
   },
   "sargon-1ply": {
@@ -4167,7 +4167,7 @@
   },
   "styx-chess": {
    "first_seen": "2026-10-26",
-   "last_online": "2026-11-06",
+   "last_online": "2026-11-07",
    "username": "Styx-Chess"
   },
   "styx_reckless": {
@@ -4342,7 +4342,7 @@
   },
   "thomengine": {
    "first_seen": "2026-09-30",
-   "last_online": "2026-11-06",
+   "last_online": "2026-11-07",
    "username": "ThomEngine"
   },
   "throrbjorn": {
@@ -4602,7 +4602,7 @@
   },
   "vicentlittle": {
    "first_seen": "2026-10-02",
-   "last_online": "2026-11-06",
+   "last_online": "2026-11-07",
    "username": "VicentLittle"
   },
   "vidbot": {
@@ -4847,7 +4847,7 @@
   }
  },
  "online": {
-  "checked_at": "2026-11-07T00:43:09Z",
+  "checked_at": "2026-11-07T01:43:11Z",
   "ids": [
    "aatk_vanguardx",
    "aconcaguabot",
@@ -4855,6 +4855,7 @@
    "aggressivestockfish",
    "ai-con",
    "ailedbot",
+   "alarm2001",
    "alexandrya",
    "aliceshiro",
    "alieknek",
@@ -4892,7 +4893,6 @@
    "bot5551",
    "bot_adario",
    "bottios",
-   "bravobot",
    "bretemabot",
    "bubblebot2",
    "bytefish",
@@ -4912,7 +4912,6 @@
    "chill4ce",
    "chmod-bot",
    "cinder-bot",
-   "classic_bot-v2",
    "classical-leela",
    "claude_bot",
    "clessy-bot",
@@ -4938,6 +4937,7 @@
    "deepbecky",
    "deepsquare-ai",
    "demen100ns-bot",
+   "demolito_l6",
    "dravox",
    "drawfish-reborn",
    "drewschessmachine",
@@ -5088,7 +5088,6 @@
    "neurosocute",
    "newchessengine-ai",
    "nexastrat",
-   "nexosdefos",
    "nibbleknight",
    "nice_bot",
    "nichteliasbot",
@@ -5148,6 +5147,7 @@
    "rust-in-pieces-nnue",
    "ryu-ishigori",
    "sapling-bot",
+   "sardinebot",
    "sargon-1ply",
    "sargon-3ply",
    "sbnovella",
@@ -5183,6 +5183,7 @@
    "stronggoliath",
    "studyloversz-bot",
    "stupidfishbotbydscs",
+   "styx-chess",
    "sunfish-engine",
    "sunfish-nnue-engine",
    "sxphia",
@@ -5198,6 +5199,7 @@
    "territorybot",
    "thechessblazer",
    "thevariantsnormalbot",
+   "thomengine",
    "throrbjorn",
    "thunfisch-bot",
    "tigrament",
@@ -5229,6 +5231,7 @@
    "vanibot",
    "variantsbot",
    "vic98lg",
+   "vicentlittle",
    "vietnamesecoffee",
    "void_bot",
    "vortex_bot",
