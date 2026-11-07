@@ -402,7 +402,7 @@
   },
   "belzedarian": {
    "first_seen": "2026-09-29",
-   "last_online": "2026-10-30",
+   "last_online": "2026-11-07",
    "username": "Belzedarian"
   },
   "berkbot": {
@@ -2492,7 +2492,7 @@
   },
   "madeincyprus": {
    "first_seen": "2026-11-04",
-   "last_online": "2026-11-06",
+   "last_online": "2026-11-07",
    "username": "MadeInCyprus"
   },
   "magic11bot_coach": {
@@ -2867,7 +2867,7 @@
   },
   "musashi-thebot": {
    "first_seen": "2026-09-28",
-   "last_online": "2026-11-06",
+   "last_online": "2026-11-07",
    "username": "Musashi-thebot"
   },
   "mxnet-gamemaster": {
@@ -4852,7 +4852,7 @@
   }
  },
  "online": {
-  "checked_at": "2026-11-07T05:43:10Z",
+  "checked_at": "2026-11-07T06:33:39Z",
   "ids": [
    "abcd_engine",
    "aconcaguabot",
@@ -4886,6 +4886,7 @@
    "banerot",
    "bbc_bot",
    "becela9_kpebetka",
+   "belzedarian",
    "berkbot",
    "bernstein-2ply",
    "bernstein-4ply",
@@ -4945,7 +4946,7 @@
    "deepbecky",
    "deepsquare-ai",
    "demen100ns-bot",
-   "demolito_l4",
+   "demolito_l6",
    "dravox",
    "drawfish-reborn",
    "drewschessmachine",
@@ -4979,11 +4980,11 @@
    "garbobot",
    "georgii_ai",
    "geotsibot",
-   "ghidorah_x",
    "glorbo_evermorrow",
    "gnu4u",
    "gochess6767",
    "goldfish-engine",
+   "goopis",
    "grail-bot",
    "grapechessengine",
    "grindfish",
@@ -5047,6 +5048,7 @@
    "lunaenginechess",
    "lynx_bot",
    "mac-bot",
+   "madeincyprus",
    "maia1",
    "maia2200_10n",
    "maia3-79m_1000",
@@ -5088,11 +5090,13 @@
    "mostlyhuman1900",
    "moteur441",
    "mrtonnerre",
+   "musashi-thebot",
    "mychessjava",
    "nanozeroorg",
    "neurosocute",
    "newchessengine-ai",
    "nexastrat",
+   "nexosdefos",
    "nibbleknight",
    "nice_bot",
    "nichteliasbot",
@@ -5137,7 +5141,6 @@
    "psion-chess",
    "puisne",
    "pzchessbot",
-   "queensgambot",
    "quirkafleeg-pc",
    "quirkafleeg-zxnext",
    "racingkingsbot_1",
@@ -5228,6 +5231,7 @@
    "usunfish-l0",
    "usunfish-l1",
    "usunfish-l7",
+   "utrain-chess-bot",
    "vadbot",
    "vanibot",
    "variantsbot",
