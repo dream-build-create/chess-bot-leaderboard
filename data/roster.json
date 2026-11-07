@@ -22,7 +22,7 @@
   },
   "abcd_engine": {
    "first_seen": "2026-09-27",
-   "last_online": "2026-11-06",
+   "last_online": "2026-11-07",
    "username": "abcd_engine"
   },
   "abdcebot": {
@@ -197,7 +197,7 @@
   },
   "apexchess-bot": {
    "first_seen": "2026-10-31",
-   "last_online": "2026-11-05",
+   "last_online": "2026-11-07",
    "username": "ApexChess-Bot"
   },
   "aposeij": {
@@ -2152,7 +2152,7 @@
   },
   "kittyenginev5": {
    "first_seen": "2026-10-20",
-   "last_online": "2026-11-06",
+   "last_online": "2026-11-07",
    "username": "KittyEngineV5"
   },
   "kiwi_cube": {
@@ -4847,13 +4847,13 @@
   }
  },
  "online": {
-  "checked_at": "2026-11-07T03:43:11Z",
+  "checked_at": "2026-11-07T04:43:08Z",
   "ids": [
    "aatk_vanguardx",
+   "abcd_engine",
    "aconcaguabot",
    "aetherbot",
    "aggressivestockfish",
-   "ahmedzhanov",
    "ai-con",
    "ailedbot",
    "alarm2001",
@@ -4866,6 +4866,7 @@
    "annie_archy",
    "anti-bot",
    "antibotv3-7",
+   "apexchess-bot",
    "aposeij",
    "approximationbot",
    "aqueval-chess",
@@ -4941,7 +4942,6 @@
    "deepsquare-ai",
    "demen100ns-bot",
    "demolito_l4",
-   "demolito_l6",
    "dravox",
    "drawfish-reborn",
    "drewschessmachine",
@@ -5016,6 +5016,7 @@
    "kestrelstrike",
    "kingzbot",
    "kirinchessbot",
+   "kittyenginev5",
    "koi_engine",
    "kopyto_dev",
    "kulubot",
@@ -5085,7 +5086,6 @@
    "mrtonnerre",
    "mychessjava",
    "nanozeroorg",
-   "neryba",
    "neurosocute",
    "newchessengine-ai",
    "nexastrat",
@@ -5106,6 +5106,7 @@
    "openingsbot",
    "overfitted",
    "oxide-eg",
+   "oxybullet",
    "palebots",
    "pangubot",
    "panic-fish",
@@ -5196,7 +5197,6 @@
    "tente8x",
    "territorybot",
    "thechessblazer",
-   "thevariantsnormalbot",
    "throrbjorn",
    "thunfisch-bot",
    "tigrament",
@@ -5218,7 +5218,6 @@
    "twosillypandas",
    "uiagbot",
    "unimark",
-   "ursus_bot",
    "usunfish",
    "usunfish-l0",
    "usunfish-l1",
