@@ -107,7 +107,7 @@
   },
   "aleph_engine": {
    "first_seen": "2026-11-06",
-   "last_online": "2026-11-06",
+   "last_online": "2026-11-07",
    "username": "Aleph_Engine"
   },
   "alexandrya": {
@@ -467,7 +467,7 @@
   },
   "black-icebot": {
    "first_seen": "2026-10-16",
-   "last_online": "2026-11-06",
+   "last_online": "2026-11-07",
    "username": "BLACK-ICEbot"
   },
   "blackeventhorizon": {
@@ -3827,7 +3827,7 @@
   },
   "schach-knecht": {
    "first_seen": "2026-11-06",
-   "last_online": "2026-11-06",
+   "last_online": "2026-11-07",
    "username": "Schach-Knecht"
   },
   "schnecken_bot": {
@@ -4872,7 +4872,7 @@
   },
   "zuhammet": {
    "first_seen": "2026-10-28",
-   "last_online": "2026-10-29",
+   "last_online": "2026-11-07",
    "username": "Zuhammet"
   },
   "zxasdsaasda": {
@@ -4882,10 +4882,11 @@
   }
  },
  "online": {
-  "checked_at": "2026-11-07T11:43:09Z",
+  "checked_at": "2026-11-07T12:43:10Z",
   "ids": [
    "aaronsengine",
    "aatk_vanguardx",
+   "abcd_engine",
    "aconcaguabot",
    "aetherbot",
    "aggressivestockfish",
@@ -4893,6 +4894,7 @@
    "ai-con",
    "ailedbot",
    "ajedrezchamberi",
+   "aleph_engine",
    "alexandrya",
    "aliceshiro",
    "alieknek",
@@ -4904,7 +4906,6 @@
    "antibotv3-7",
    "aposeij",
    "approximationbot",
-   "aqueval-chess",
    "arabicannue",
    "arasanx",
    "arkiplayschess",
@@ -4916,12 +4917,15 @@
    "baby_eubos",
    "banerot",
    "bbc_bot",
+   "becela9_kpebetka",
    "belzedarian",
    "berkbot",
    "bernstein-2ply",
    "bernstein-4ply",
    "bfiedler-bot",
    "bitbitbot",
+   "black-bishop-kh",
+   "black-icebot",
    "bluemoonbot",
    "blujay-bot",
    "bongaclang",
@@ -5129,6 +5133,7 @@
    "nanozeroorg",
    "ndr1sn",
    "neurosocute",
+   "newchessengine-ai",
    "nexastrat",
    "nibbleknight",
    "nice_bot",
@@ -5142,7 +5147,6 @@
    "notropis",
    "o-rei-cx",
    "odonata-bot",
-   "olimarianbot",
    "onechessbot",
    "onezenpanda",
    "openingsbot",
@@ -5187,16 +5191,16 @@
    "ray-bot",
    "rdtchessbot",
    "remychessengine",
+   "resolutebot",
    "ribfish-bot",
    "rudim-bot",
-   "rust-in-pieces",
-   "rust-in-pieces-nnue",
    "ryu-ishigori",
    "sapling-bot",
    "sargon-1ply",
    "sargon-3ply",
    "sbnovella",
    "scalaqueen",
+   "schach-knecht",
    "schnecken_bot",
    "scipio-bot",
    "seedchess",
@@ -5218,6 +5222,7 @@
    "sseh-c",
    "stepbot_chess",
    "stickshark99",
+   "stockcotsfish",
    "stockdory",
    "stockfishlowdepth",
    "stockpapagei",
@@ -5231,7 +5236,6 @@
    "sybaibot",
    "sybbot",
    "sykorabot",
-   "tallikebot",
    "talosbot",
    "tempocore",
    "tente8x",
@@ -5239,6 +5243,7 @@
    "thechessblazer",
    "thunfisch-bot",
    "tigrament",
+   "tikifish",
    "tilapiabot",
    "togaii",
    "tonyengine",
@@ -5261,11 +5266,11 @@
    "usunfish-l7",
    "utrain-chess-bot",
    "vadbot",
-   "vanibot",
    "variantsbot",
    "vic98lg",
    "vicentlittle",
    "vietnamesecoffee",
+   "void_bot",
    "vortexaurafarm",
    "waldemar-the-elf",
    "walpurti",
@@ -5273,7 +5278,8 @@
    "worstfish",
    "wyxx210704_bot",
    "z-o_aspenlabs",
-   "zion-bot"
+   "zion-bot",
+   "zuhammet"
   ]
  },
  "schema_version": 1
