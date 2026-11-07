@@ -302,7 +302,7 @@
   },
   "attackerbotpython": {
    "first_seen": "2026-10-04",
-   "last_online": "2026-11-06",
+   "last_online": "2026-11-07",
    "username": "AttackerBotPYTHON"
   },
   "attackingordefending": {
@@ -1577,7 +1577,7 @@
   },
   "fpga-chess": {
    "first_seen": "2026-09-28",
-   "last_online": "2026-10-31",
+   "last_online": "2026-11-07",
    "username": "fpga-chess"
   },
   "friesai": {
@@ -3797,7 +3797,7 @@
   },
   "saitek_renaissance": {
    "first_seen": "2026-11-05",
-   "last_online": "2026-11-06",
+   "last_online": "2026-11-07",
    "username": "Saitek_Renaissance"
   },
   "saltettorrfisk": {
@@ -4927,12 +4927,12 @@
   }
  },
  "online": {
-  "checked_at": "2026-11-07T22:15:51Z",
+  "checked_at": "2026-11-07T22:43:11Z",
   "ids": [
-   "abcd_engine",
    "aconcaguabot",
    "aetherbot",
    "aggressivestockfish",
+   "ahmedzhanov",
    "ai-con",
    "ailedbot",
    "ajedrezchamberi",
@@ -4953,10 +4953,12 @@
    "arroccobot",
    "artidigm_research",
    "athena-chessbot",
+   "attackerbotpython",
    "axiom_bot",
    "banerot",
    "batyarapro",
    "bbc_bot",
+   "beattheengine",
    "becela9_kpebetka",
    "belzedarian",
    "berkbot",
@@ -4973,7 +4975,6 @@
    "bot5551",
    "bot64jaques",
    "bot_adario",
-   "botkingteam33",
    "bottios",
    "bretemabot",
    "bubblebot2",
@@ -5053,6 +5054,7 @@
    "flounderbot",
    "flower-queen",
    "fourcuriouspandas",
+   "fpga-chess",
    "fschess-engine",
    "funcomp",
    "gambitonlybot",
@@ -5101,7 +5103,6 @@
    "kestrelstrike",
    "kingzbot",
    "kirinchessbot",
-   "kissol-chess",
    "koi_engine",
    "kolmato",
    "kopyto_dev",
@@ -5219,7 +5220,6 @@
    "pierreai",
    "piglet_engine",
    "playmarius",
-   "playmimir",
    "plumboi",
    "plumbot",
    "polvo_engine",
@@ -5247,11 +5247,11 @@
    "rust-in-pieces",
    "rust-in-pieces-nnue",
    "ryu-ishigori",
+   "saitek_renaissance",
    "sapling-bot",
    "sardinebot",
    "sargon-1ply",
    "sargon-3ply",
-   "sbnovella",
    "scalaqueen",
    "schach-knecht",
    "schnecken_bot",
