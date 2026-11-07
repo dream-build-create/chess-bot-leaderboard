@@ -372,7 +372,7 @@
   },
   "batyarapro": {
    "first_seen": "2026-09-27",
-   "last_online": "2026-11-06",
+   "last_online": "2026-11-07",
    "username": "BatyaraPro"
   },
   "bbc_bot": {
@@ -1232,7 +1232,7 @@
   },
   "demolito_l1": {
    "first_seen": "2026-09-27",
-   "last_online": "2026-11-06",
+   "last_online": "2026-11-07",
    "username": "Demolito_L1"
   },
   "demolito_l2": {
@@ -2142,7 +2142,7 @@
   },
   "kempelenengine": {
    "first_seen": "2026-10-26",
-   "last_online": "2026-10-31",
+   "last_online": "2026-11-07",
    "username": "KempelenEngine"
   },
   "kepler_bot": {
@@ -2687,7 +2687,7 @@
   },
   "matrixengine": {
    "first_seen": "2026-09-28",
-   "last_online": "2026-09-28",
+   "last_online": "2026-11-07",
    "username": "MatrixEngine"
   },
   "matthewcarven": {
@@ -3405,6 +3405,11 @@
    "last_online": "2026-11-07",
    "username": "Premove90-1500"
   },
+  "primeagentbot": {
+   "first_seen": "2026-11-07",
+   "last_online": "2026-11-07",
+   "username": "PrimeAgentBot"
+  },
   "princessyuribot": {
    "first_seen": "2026-09-27",
    "last_online": "2026-09-30",
@@ -3709,6 +3714,11 @@
    "first_seen": "2026-09-27",
    "last_online": "2026-10-20",
    "username": "rpiBot73"
+  },
+  "rubyai": {
+   "first_seen": "2026-11-07",
+   "last_online": "2026-11-07",
+   "username": "RubyAI"
   },
   "rudim-bot": {
    "first_seen": "2026-09-27",
@@ -4357,7 +4367,7 @@
   },
   "the_baronet": {
    "first_seen": "2026-09-28",
-   "last_online": "2026-11-06",
+   "last_online": "2026-11-07",
    "username": "The_Baronet"
   },
   "thealexdestroyer": {
@@ -4897,7 +4907,7 @@
   }
  },
  "online": {
-  "checked_at": "2026-11-07T17:43:10Z",
+  "checked_at": "2026-11-07T18:43:10Z",
   "ids": [
    "aaronsengine",
    "abcd_engine",
@@ -4928,8 +4938,8 @@
    "axiom_bot",
    "baby_eubos",
    "banerot",
+   "batyarapro",
    "bbc_bot",
-   "becela9_kpebetka",
    "belzedarian",
    "berkbot",
    "bernstein-2ply",
@@ -4939,11 +4949,11 @@
    "black-icebot",
    "bluemoonbot",
    "blujay-bot",
-   "bobby_pcolla",
    "bongaclang",
    "bot5551",
    "bot64jaques",
    "bot_adario",
+   "botkingteam33",
    "bottios",
    "bretemabot",
    "bubblebot2",
@@ -4962,7 +4972,6 @@
    "chessiverse_luc",
    "chessiverse_pawnza",
    "chessiverse_raak",
-   "chesstransformerbot",
    "cheszter",
    "chill4ce",
    "chiral_ebt",
@@ -4994,6 +5003,7 @@
    "deepbecky",
    "deepsquare-ai",
    "demen100ns-bot",
+   "demolito_l1",
    "demolito_l4",
    "demolito_l6",
    "dravox",
@@ -5014,7 +5024,6 @@
    "falconengine",
    "fathzer-jchess",
    "felipe_bot_53",
-   "fenrir-bot",
    "fenrirbot",
    "fetacompli",
    "fivejoyouspandas",
@@ -5023,7 +5032,6 @@
    "fourcuriouspandas",
    "fschess-engine",
    "funcomp",
-   "galaxy-stellar-bot",
    "gambitonlybot",
    "gambittai",
    "garbobot",
@@ -5031,7 +5039,6 @@
    "geotsibot",
    "glorbo_evermorrow",
    "gnu4u",
-   "goats-of-bots",
    "gochess6767",
    "goldfish-engine",
    "goopis",
@@ -5065,9 +5072,9 @@
    "jurdbird",
    "justbot-v1",
    "kahunabot",
-   "karl-engine-v1",
    "kavinengine",
    "kbelludoo",
+   "kempelenengine",
    "kestrelstrike",
    "kingzbot",
    "kirinchessbot",
@@ -5094,7 +5101,6 @@
    "leelonardo",
    "levymaia",
    "likeawizard-bot",
-   "lili-ai",
    "lilitbot",
    "little-0",
    "littlepatricia",
@@ -5129,6 +5135,7 @@
    "mate-in-twenty",
    "mate1-bot",
    "matmoi",
+   "matrixengine",
    "maybyen",
    "mayflyengine",
    "mcdonalds1955",
@@ -5145,15 +5152,14 @@
    "mostlyhuman1900",
    "moteur441",
    "mrtonnerre",
+   "munzurbot2",
    "mychessjava",
    "nanozeroorg",
    "ndr1sn",
    "neryba",
    "neurosocute",
-   "newchessengine-ai",
    "nexastrat",
    "nexosdefos",
-   "next_uzbek",
    "nibbleknight",
    "nice_bot",
    "nichteliasbot",
@@ -5189,13 +5195,11 @@
    "piebot",
    "pierreai",
    "piglet_engine",
-   "pirates1",
-   "pirates2",
-   "piratesrust",
    "playmarius",
    "plumboi",
    "plumbot",
    "premove90-1500",
+   "primeagentbot",
    "prokopakop",
    "prosperobot",
    "psion-chess",
@@ -5215,6 +5219,7 @@
    "resolutebot",
    "ribfish-bot",
    "rockingsuperstars",
+   "rubyai",
    "rudim-bot",
    "rust-in-pieces",
    "rust-in-pieces-nnue",
@@ -5235,7 +5240,6 @@
    "silasly",
    "sim3million",
    "simple-bot",
-   "simplechessengine",
    "simpleeval",
    "sj_norbot",
    "slate-engine",
@@ -5268,10 +5272,10 @@
    "tempocore",
    "tente8x",
    "territorybot",
+   "the_baronet",
    "throrbjorn",
    "thunfisch-bot",
    "tigrament",
-   "tikifish",
    "tilapiabot",
    "to299d",
    "togaii",
@@ -5300,8 +5304,6 @@
    "vic98lg",
    "vicentlittle",
    "vietnamesecoffee",
-   "viviblitzfr",
-   "void_bot",
    "vortexaurafarm",
    "waldemar-the-elf",
    "walpurti",
