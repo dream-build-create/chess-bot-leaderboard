@@ -2,7 +2,7 @@
  "bots": {
   "aaronsengine": {
    "first_seen": "2026-09-27",
-   "last_online": "2026-11-07",
+   "last_online": "2026-11-08",
    "username": "AaronsEngine"
   },
   "aathena101": {
@@ -462,7 +462,7 @@
   },
   "black-bishop-kh": {
    "first_seen": "2026-09-28",
-   "last_online": "2026-11-07",
+   "last_online": "2026-11-08",
    "username": "Black-Bishop-Kh"
   },
   "black-icebot": {
@@ -2342,7 +2342,7 @@
   },
   "leelamultiposs": {
    "first_seen": "2026-10-08",
-   "last_online": "2026-11-06",
+   "last_online": "2026-11-08",
    "username": "LeelaMultiPoss"
   },
   "leelapieceodds": {
@@ -4937,8 +4937,9 @@
   }
  },
  "online": {
-  "checked_at": "2026-11-08T09:43:08Z",
+  "checked_at": "2026-11-08T10:43:11Z",
   "ids": [
+   "aaronsengine",
    "aatk_vanguardx",
    "abcd_engine",
    "aconcaguabot",
@@ -4964,7 +4965,6 @@
    "artidigm_research",
    "ask-aatk-bot",
    "athena-chessbot",
-   "attackerbotpython",
    "axiom_bot",
    "banerot",
    "bbc_bot",
@@ -4974,10 +4974,10 @@
    "bernstein-4ply",
    "bfiedler-bot",
    "bitbitbot",
+   "black-bishop-kh",
    "bluemoonbot",
    "blujay-bot",
    "blundeel67",
-   "blunder-engine",
    "bobby_pcolla",
    "bongaclang",
    "bot5551",
@@ -5005,7 +5005,6 @@
    "cheszter",
    "chill4ce",
    "chronicgambler",
-   "chrusty",
    "cinder-bot",
    "classic_bot-v2",
    "claude_bot",
@@ -5053,7 +5052,6 @@
    "endspiel-pi",
    "entebot",
    "epimetheusbot",
-   "eubos",
    "falconengine",
    "fathzer-jchess",
    "felipe_bot_53",
@@ -5119,6 +5117,7 @@
    "leelaanyodds",
    "leelajester",
    "leelaknightodds",
+   "leelamultiposs",
    "leelapieceodds",
    "leelaqueenforknight",
    "leelaqueenodds",
@@ -5164,7 +5163,6 @@
    "mate1-bot",
    "matmoi",
    "maybyen",
-   "mayflyengine",
    "mdbot",
    "mega-noob-bot",
    "melsh_bot",
@@ -5174,6 +5172,7 @@
    "minopponentmoves",
    "mithandros",
    "mochi_bot",
+   "morabandbot",
    "mostlyhuman1900",
    "moteur441",
    "mrtonnerre",
@@ -5205,7 +5204,6 @@
    "opycep",
    "overfitted",
    "oxide-eg",
-   "oxybullet",
    "palebots",
    "pangubot",
    "panic-fish",
@@ -5251,7 +5249,6 @@
    "rust-in-pieces-nnue",
    "ryu-ishigori",
    "sapling-bot",
-   "sardinebot",
    "sargon-1ply",
    "sargon-3ply",
    "sbnovella",
@@ -5274,6 +5271,7 @@
    "sleepmindengine",
    "slowmate_bot",
    "solobot",
+   "sparkchessengine",
    "springerbot",
    "squarefish-900",
    "sseh-c",
@@ -5330,7 +5328,6 @@
    "vic98lg",
    "vicentlittle",
    "vietnamesecoffee",
-   "void_bot",
    "vortexaurafarm",
    "waldemar-the-elf",
    "walpurti",
