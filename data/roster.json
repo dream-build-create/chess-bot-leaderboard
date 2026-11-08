@@ -907,7 +907,7 @@
   },
   "chessnoobcomp": {
    "first_seen": "2026-10-26",
-   "last_online": "2026-11-07",
+   "last_online": "2026-11-08",
    "username": "ChessNoobComp"
   },
   "chesspion96": {
@@ -1777,7 +1777,7 @@
   },
   "hackerchessbot": {
    "first_seen": "2026-09-27",
-   "last_online": "2026-11-07",
+   "last_online": "2026-11-08",
    "username": "HackerChessBot"
   },
   "halcyonbot": {
@@ -3512,7 +3512,7 @@
   },
   "queensgambot": {
    "first_seen": "2026-09-27",
-   "last_online": "2026-11-07",
+   "last_online": "2026-11-08",
    "username": "QueensGamBOT"
   },
   "quirkafleeg-pc": {
@@ -4927,9 +4927,10 @@
   }
  },
  "online": {
-  "checked_at": "2026-11-08T01:43:10Z",
+  "checked_at": "2026-11-08T02:43:09Z",
   "ids": [
    "aatk_vanguardx",
+   "abcd_engine",
    "aconcaguabot",
    "aetherbot",
    "aggressivestockfish",
@@ -4990,6 +4991,7 @@
    "chessiverse_luc",
    "chessiverse_pawnza",
    "chessiverse_raak",
+   "chessnoobcomp",
    "cheszter",
    "chill4ce",
    "chronicgambler",
@@ -5060,10 +5062,12 @@
    "glorbo_evermorrow",
    "gnu4u",
    "goldfish-engine",
+   "goopis",
    "grail-bot",
    "grindfish",
    "groshboss",
    "gryndor",
+   "hackerchessbot",
    "halcyonbot",
    "hardrok",
    "hiusbot",
@@ -5155,7 +5159,6 @@
    "maybyen",
    "mayflyengine",
    "mcdonalds1955",
-   "mdbot",
    "mega-noob-bot",
    "melsh_bot",
    "michaamateurbot",
@@ -5214,7 +5217,6 @@
    "playmarius",
    "plumboi",
    "plumbot",
-   "polvo_engine",
    "premove90-1500",
    "prokopakop",
    "prosperobot",
@@ -5222,6 +5224,7 @@
    "psion-chess",
    "puisne",
    "pzchessbot",
+   "queensgambot",
    "quirkafleeg-pc",
    "quirkafleeg-zxnext",
    "racingkingsbot_1",
@@ -5234,7 +5237,6 @@
    "remychessengine",
    "resolutebot",
    "ribfish-bot",
-   "robodoxadrez",
    "rubyai",
    "rudim-bot",
    "rust-in-pieces",
@@ -5273,7 +5275,6 @@
    "stockdory",
    "stockfishlowdepth",
    "stockpapagei",
-   "stormbot",
    "streamervschat",
    "studyloversz-bot",
    "stupidfishbotbydscs",
