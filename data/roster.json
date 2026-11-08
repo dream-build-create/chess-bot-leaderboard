@@ -762,7 +762,7 @@
   },
   "ceraf": {
    "first_seen": "2026-10-01",
-   "last_online": "2026-11-07",
+   "last_online": "2026-11-08",
    "username": "CERAF"
   },
   "chamberiajedrez": {
@@ -882,7 +882,7 @@
   },
   "chessgeniusbot": {
    "first_seen": "2026-10-02",
-   "last_online": "2026-11-07",
+   "last_online": "2026-11-08",
    "username": "ChessGeniusBot"
   },
   "chessiverse_ethan": {
@@ -4927,9 +4927,8 @@
   }
  },
  "online": {
-  "checked_at": "2026-11-08T05:43:09Z",
+  "checked_at": "2026-11-08T06:40:00Z",
   "ids": [
-   "aatk_vanguardx",
    "abcd_engine",
    "aconcaguabot",
    "aetherbot",
@@ -4952,9 +4951,7 @@
    "arkiplayschess",
    "arroccobot",
    "artidigm_research",
-   "ask-aatk-bot",
    "athena-chessbot",
-   "attackerbotpython",
    "axiom_bot",
    "banerot",
    "bbc_bot",
@@ -4982,9 +4979,11 @@
    "casanchess-nnue",
    "catnail",
    "catriever",
+   "ceraf",
    "chaotong_engine",
    "charibot",
    "chess3bot",
+   "chessgeniusbot",
    "chessiverse_ethan",
    "chessiverse_luc",
    "chessiverse_pawnza",
@@ -4995,7 +4994,6 @@
    "chronicgambler",
    "cinder-bot",
    "classic_bot-v2",
-   "classical-leela",
    "claude_bot",
    "clessy-bot",
    "clrsrc_lc0",
@@ -5114,7 +5112,6 @@
    "leelarookodds",
    "leelatroll",
    "leelonardo",
-   "leol-bot",
    "levymaia",
    "likeawizard-bot",
    "lilitbot",
@@ -5125,7 +5122,6 @@
    "lunaenginechess",
    "lynx_bot",
    "mac-bot",
-   "madeincyprus",
    "maia1",
    "maia2200_10n",
    "maia3-79m_1000",
@@ -5172,6 +5168,7 @@
    "neurosocute",
    "newchessengine-ai",
    "nexastrat",
+   "nexosdefos",
    "next_uzbek",
    "nibbleknight",
    "nice_bot",
@@ -5181,7 +5178,7 @@
    "nittedal",
    "nnueandthevoices",
    "noabot",
-   "noel-bot",
+   "noksiy",
    "notropis",
    "o-rei-cx",
    "odonata-bot",
@@ -5271,7 +5268,6 @@
    "stockpapagei",
    "streamervschat",
    "stronggoliath",
-   "studyloversz-bot",
    "stupidfishbotbydscs",
    "sunfish-engine",
    "sunfish-nnue-engine",
