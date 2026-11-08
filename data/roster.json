@@ -532,7 +532,7 @@
   },
   "borkatower": {
    "first_seen": "2026-09-27",
-   "last_online": "2026-11-07",
+   "last_online": "2026-11-08",
    "username": "BorkaTower"
   },
   "bot-o-tron": {
@@ -1332,7 +1332,7 @@
   },
   "drewschessmachine": {
    "first_seen": "2026-09-28",
-   "last_online": "2026-11-07",
+   "last_online": "2026-11-08",
    "username": "DrewsChessMachine"
   },
   "drlemonzzbot": {
@@ -4929,16 +4929,23 @@
    "first_seen": "2026-10-15",
    "last_online": "2026-10-16",
    "username": "ZXASdsaASdA"
+  },
+  "zzzzzzzzsleep": {
+   "first_seen": "2026-11-08",
+   "last_online": "2026-11-08",
+   "username": "ZZZzzzzzSleep"
   }
  },
  "online": {
-  "checked_at": "2026-11-08T07:43:09Z",
+  "checked_at": "2026-11-08T08:43:10Z",
   "ids": [
+   "aatk_vanguardx",
    "abcd_engine",
    "aconcaguabot",
    "aetherbot",
    "aggressivestockfish",
    "ai-con",
+   "ailedbot",
    "alexandrya",
    "aliceshiro",
    "alieknek",
@@ -4955,6 +4962,7 @@
    "arkiplayschess",
    "arroccobot",
    "artidigm_research",
+   "ask-aatk-bot",
    "athena-chessbot",
    "attackerbotpython",
    "axiom_bot",
@@ -4973,6 +4981,7 @@
    "blunder-engine",
    "bobby_pcolla",
    "bongaclang",
+   "borkatower",
    "bot5551",
    "bot64jaques",
    "bot_adario",
@@ -4989,7 +4998,6 @@
    "chaotong_engine",
    "charibot",
    "chess3bot",
-   "chessgeniusbot",
    "chessiverse_ethan",
    "chessiverse_luc",
    "chessiverse_pawnza",
@@ -5033,6 +5041,7 @@
    "demolito_l6",
    "dravox",
    "drawfish-reborn",
+   "drewschessmachine",
    "duchessai",
    "dumbotai",
    "edwardkillick",
@@ -5041,7 +5050,6 @@
    "elexunix_chess_bot",
    "ellen_replay",
    "elmichess",
-   "endspiel-engine",
    "endspiel-pi",
    "entebot",
    "epimetheusbot",
@@ -5119,6 +5127,7 @@
    "leelarookodds",
    "leelatroll",
    "leelonardo",
+   "leol-bot",
    "levymaia",
    "likeawizard-bot",
    "lilitbot",
@@ -5172,12 +5181,12 @@
    "musashi-thebot",
    "mychessjava",
    "nanozeroorg",
-   "ndr1sn",
    "neryba",
    "neurosocute",
    "newchessengine-ai",
    "nexastrat",
    "nexosdefos",
+   "next_uzbek",
    "nibbleknight",
    "nice_bot",
    "nichteliasbot",
@@ -5186,6 +5195,7 @@
    "nittedal",
    "nnueandthevoices",
    "noabot",
+   "noel-bot",
    "nohopeforman",
    "noksiy",
    "notropis",
@@ -5279,6 +5289,7 @@
    "stockpapagei",
    "streamervschat",
    "stronggoliath",
+   "studyloversz-bot",
    "stupidfishbotbydscs",
    "sunfish-engine",
    "sunfish-nnue-engine",
@@ -5330,7 +5341,8 @@
    "weiawaga",
    "worstfish",
    "z-o_aspenlabs",
-   "zion-bot"
+   "zion-bot",
+   "zzzzzzzzsleep"
   ]
  },
  "schema_version": 1
