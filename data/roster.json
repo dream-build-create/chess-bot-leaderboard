@@ -72,7 +72,7 @@
   },
   "ahmedzhanov": {
    "first_seen": "2026-11-06",
-   "last_online": "2026-11-07",
+   "last_online": "2026-11-08",
    "username": "ahmedzhanov"
   },
   "ai-con": {
@@ -832,7 +832,7 @@
   },
   "chess-dragon1": {
    "first_seen": "2026-09-27",
-   "last_online": "2026-10-09",
+   "last_online": "2026-11-08",
    "username": "Chess-Dragon1"
   },
   "chess26_bot": {
@@ -1609,6 +1609,11 @@
    "first_seen": "2026-11-01",
    "last_online": "2026-11-01",
    "username": "Future_Sight_AI"
+  },
+  "gaiachessengine": {
+   "first_seen": "2026-11-08",
+   "last_online": "2026-11-08",
+   "username": "GaiaChessEngine"
   },
   "galaxy-stellar-bot": {
    "first_seen": "2026-10-22",
@@ -4592,7 +4597,7 @@
   },
   "uiagbot": {
    "first_seen": "2026-10-10",
-   "last_online": "2026-11-07",
+   "last_online": "2026-11-08",
    "username": "uiagBot"
   },
   "ultrabrick": {
@@ -4937,7 +4942,7 @@
   }
  },
  "online": {
-  "checked_at": "2026-11-08T11:43:09Z",
+  "checked_at": "2026-11-08T12:43:10Z",
   "ids": [
    "aaronsengine",
    "aatk_vanguardx",
@@ -4945,6 +4950,7 @@
    "aconcaguabot",
    "aetherbot",
    "aggressivestockfish",
+   "ahmedzhanov",
    "ai-con",
    "ailedbot",
    "ajedrezchamberi",
@@ -4968,6 +4974,7 @@
    "axiom_bot",
    "banerot",
    "bbc_bot",
+   "becela9_kpebetka",
    "belzedarian",
    "berkbot",
    "bernstein-2ply",
@@ -4996,6 +5003,7 @@
    "chamberiajedrez",
    "chaotong_engine",
    "charibot",
+   "chess-dragon1",
    "chess3bot",
    "chessbot2880",
    "chessiverse_ethan",
@@ -5067,6 +5075,7 @@
    "fpga-chess",
    "fschess-engine",
    "funcomp",
+   "gaiachessengine",
    "garbobot",
    "georgii_ai",
    "geotsibot",
@@ -5076,6 +5085,7 @@
    "goopis",
    "grail-bot",
    "grindfish",
+   "groshboss",
    "gryndor",
    "halcyonbot",
    "hiusbot",
@@ -5184,6 +5194,7 @@
    "ndr1sn",
    "neryba",
    "neurosocute",
+   "newchessengine-ai",
    "nexastrat",
    "next_uzbek",
    "nibbleknight",
@@ -5196,6 +5207,7 @@
    "noabot",
    "noel-bot",
    "nohopeforman",
+   "noksiy",
    "notropis",
    "o-rei-cx",
    "odonata-bot",
@@ -5264,7 +5276,6 @@
    "seitogakatsu",
    "shallowredbot",
    "shrevenbot",
-   "silasly",
    "sim3million",
    "simple-bot",
    "simplechessengine",
@@ -5294,6 +5305,7 @@
    "sybaibot",
    "sybbot",
    "sykorabot",
+   "takticprochess",
    "talosbot",
    "tempocore",
    "tente8x",
@@ -5316,6 +5328,7 @@
    "turochamp-1ply",
    "turochamp-2ply",
    "twosillypandas",
+   "uiagbot",
    "unimark",
    "ursus_bot",
    "usunfish",
@@ -5324,7 +5337,6 @@
    "usunfish-l7",
    "utrain-chess-bot",
    "vadbot",
-   "vanibot",
    "variantsbot",
    "vic98lg",
    "vicentlittle",
@@ -5334,6 +5346,7 @@
    "walpurti",
    "weiawaga",
    "worstfish",
+   "wyxx210704_bot",
    "z-o_aspenlabs",
    "zion-bot"
   ]
