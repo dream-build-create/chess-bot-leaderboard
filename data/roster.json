@@ -1297,7 +1297,7 @@
   },
   "diogenes-bot": {
    "first_seen": "2026-10-26",
-   "last_online": "2026-11-06",
+   "last_online": "2026-11-08",
    "username": "diogenes-bot"
   },
   "dontshameelon": {
@@ -2237,7 +2237,7 @@
   },
   "kolmato": {
    "first_seen": "2026-11-01",
-   "last_online": "2026-11-07",
+   "last_online": "2026-11-08",
    "username": "kolmato"
   },
   "kopyto_dev": {
@@ -3632,7 +3632,7 @@
   },
   "reality_bot": {
    "first_seen": "2026-10-10",
-   "last_online": "2026-11-06",
+   "last_online": "2026-11-08",
    "username": "Reality_BOT"
   },
   "reaper1bot": {
@@ -4550,6 +4550,11 @@
    "last_online": "2026-11-08",
    "username": "TroutBot"
   },
+  "trrchessbot": {
+   "first_seen": "2026-11-08",
+   "last_online": "2026-11-08",
+   "username": "TrrChessBot"
+  },
   "trusia12345678": {
    "first_seen": "2026-09-27",
    "last_online": "2026-10-22",
@@ -4915,6 +4920,11 @@
    "last_online": "2026-11-07",
    "username": "zero3-noW"
   },
+  "zerobauer": {
+   "first_seen": "2026-11-08",
+   "last_online": "2026-11-08",
+   "username": "ZeroBauer"
+  },
   "zion-bot": {
    "first_seen": "2026-09-30",
    "last_online": "2026-11-08",
@@ -4942,7 +4952,7 @@
   }
  },
  "online": {
-  "checked_at": "2026-11-08T14:43:10Z",
+  "checked_at": "2026-11-08T15:43:09Z",
   "ids": [
    "aaronsengine",
    "abcd_engine",
@@ -5044,6 +5054,7 @@
    "demolito_l4",
    "demolito_l5",
    "demolito_l6",
+   "diogenes-bot",
    "dravox",
    "drawfish-reborn",
    "drewschessmachine",
@@ -5099,6 +5110,7 @@
    "jaxakos13_bot",
    "jibbby",
    "jimmy_inc3710",
+   "jinko-chan",
    "jjugle",
    "joan_clone",
    "joey_chessengine",
@@ -5113,6 +5125,7 @@
    "kbelludoo",
    "kestrelstrike",
    "kirinchessbot",
+   "kolmato",
    "kopyto_dev",
    "kulubot",
    "kurganuci",
@@ -5179,7 +5192,6 @@
    "minopponentmoves",
    "mithandros",
    "mochi_bot",
-   "morabandbot",
    "mostlyhuman1900",
    "moteur441",
    "mrtonnerre",
@@ -5215,6 +5227,7 @@
    "palebots",
    "pangubot",
    "panic-fish",
+   "partner3615diago",
    "patriciabot",
    "patzerbot135",
    "pawn_git",
@@ -5224,7 +5237,6 @@
    "perl-gigachess",
    "philidor-142m",
    "pi0w",
-   "picosargon",
    "piebot",
    "pierreai",
    "piglet_engine",
@@ -5247,11 +5259,11 @@
    "ravenengine",
    "ray-bot",
    "rdtchessbot",
+   "reality_bot",
    "remychessengine",
    "resolutebot",
    "ribfish-bot",
    "robodoxadrez",
-   "rubyai",
    "rudim-bot",
    "rust-in-pieces",
    "rust-in-pieces-nnue",
@@ -5316,12 +5328,14 @@
    "trenerhetman",
    "trinculobot",
    "troutbot",
+   "trrchessbot",
    "tucuengine",
    "turk_gambit",
    "turkjs",
    "turochamp-1ply",
    "turochamp-2ply",
    "twosillypandas",
+   "uiagbot",
    "unimark",
    "ursus_bot",
    "usunfish",
@@ -5330,6 +5344,7 @@
    "usunfish-l7",
    "utrain-chess-bot",
    "vadbot",
+   "vanibot",
    "variantsbot",
    "vic98lg",
    "vicentlittle",
@@ -5341,6 +5356,7 @@
    "weiawaga",
    "worstfish",
    "z-o_aspenlabs",
+   "zerobauer",
    "zion-bot"
   ]
  },
