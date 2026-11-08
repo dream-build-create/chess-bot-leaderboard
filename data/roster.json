@@ -92,7 +92,7 @@
   },
   "ajedrezchamberi": {
    "first_seen": "2026-09-29",
-   "last_online": "2026-11-07",
+   "last_online": "2026-11-08",
    "username": "AjedrezChamberi"
   },
   "alarm2001": {
@@ -772,7 +772,7 @@
   },
   "chamberiajedrez": {
    "first_seen": "2026-09-29",
-   "last_online": "2026-11-07",
+   "last_online": "2026-11-08",
    "username": "ChamberiAjedrez"
   },
   "chaotong_engine": {
@@ -962,7 +962,7 @@
   },
   "chrusty": {
    "first_seen": "2026-09-28",
-   "last_online": "2026-11-06",
+   "last_online": "2026-11-08",
    "username": "chrusty"
   },
   "cinder-bot": {
@@ -1222,7 +1222,7 @@
   },
   "deepfish26": {
    "first_seen": "2026-10-29",
-   "last_online": "2026-11-07",
+   "last_online": "2026-11-08",
    "username": "DeepFish26"
   },
   "deepsquare-ai": {
@@ -4937,7 +4937,7 @@
   }
  },
  "online": {
-  "checked_at": "2026-11-08T08:43:10Z",
+  "checked_at": "2026-11-08T09:43:08Z",
   "ids": [
    "aatk_vanguardx",
    "abcd_engine",
@@ -4946,6 +4946,7 @@
    "aggressivestockfish",
    "ai-con",
    "ailedbot",
+   "ajedrezchamberi",
    "alexandrya",
    "aliceshiro",
    "alieknek",
@@ -4953,7 +4954,6 @@
    "angela_eng",
    "anna-bot",
    "annie_archy",
-   "anti-bot",
    "antibotv3-7",
    "aposeij",
    "approximationbot",
@@ -4968,7 +4968,6 @@
    "axiom_bot",
    "banerot",
    "bbc_bot",
-   "becela9_kpebetka",
    "belzedarian",
    "berkbot",
    "bernstein-2ply",
@@ -4981,7 +4980,6 @@
    "blunder-engine",
    "bobby_pcolla",
    "bongaclang",
-   "borkatower",
    "bot5551",
    "bot64jaques",
    "bot_adario",
@@ -4989,12 +4987,12 @@
    "bretemabot",
    "bubblebot2",
    "bytefish",
-   "c-t-r-l",
    "c0kval",
    "caiporabot",
    "casanchess-nnue",
    "catnail",
    "catriever",
+   "chamberiajedrez",
    "chaotong_engine",
    "charibot",
    "chess3bot",
@@ -5007,6 +5005,7 @@
    "cheszter",
    "chill4ce",
    "chronicgambler",
+   "chrusty",
    "cinder-bot",
    "classic_bot-v2",
    "claude_bot",
@@ -5027,10 +5026,10 @@
    "dala-700",
    "dala-900",
    "darkelectronbot",
-   "darkonbot",
    "darkonweakbot",
    "debzero",
    "deepbecky",
+   "deepfish26",
    "deepsquare-ai",
    "demen100ns-bot",
    "demolito_l1",
@@ -5050,6 +5049,7 @@
    "elexunix_chess_bot",
    "ellen_replay",
    "elmichess",
+   "endspiel-engine",
    "endspiel-pi",
    "entebot",
    "epimetheusbot",
@@ -5059,7 +5059,6 @@
    "felipe_bot_53",
    "fenrirbot",
    "fetacompli",
-   "fischer_bot",
    "fivejoyouspandas",
    "flounderbot",
    "flower-queen",
@@ -5164,8 +5163,8 @@
    "mate-in-twenty",
    "mate1-bot",
    "matmoi",
+   "maybyen",
    "mayflyengine",
-   "mcdonalds1955",
    "mdbot",
    "mega-noob-bot",
    "melsh_bot",
@@ -5183,7 +5182,6 @@
    "nanozeroorg",
    "neryba",
    "neurosocute",
-   "newchessengine-ai",
    "nexastrat",
    "nexosdefos",
    "next_uzbek",
@@ -5211,7 +5209,6 @@
    "palebots",
    "pangubot",
    "panic-fish",
-   "partner3615diago",
    "patriciabot",
    "patzerbot135",
    "pawn_git",
@@ -5277,7 +5274,6 @@
    "sleepmindengine",
    "slowmate_bot",
    "solobot",
-   "sparkchessengine",
    "springerbot",
    "squarefish-900",
    "sseh-c",
@@ -5341,8 +5337,7 @@
    "weiawaga",
    "worstfish",
    "z-o_aspenlabs",
-   "zion-bot",
-   "zzzzzzzzsleep"
+   "zion-bot"
   ]
  },
  "schema_version": 1
