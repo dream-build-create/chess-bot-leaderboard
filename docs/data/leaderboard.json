@@ -1,7 +1,7 @@
 {
  "schema_version": 1,
  "generated_at": "2026-11-08T01:05:10Z",
- "online_checked_at": "2026-11-08T06:40:00Z",
+ "online_checked_at": "2026-11-08T06:43:10Z",
  "source": "Lichess public API",
  "rules": {
   "activity_days": 7,
@@ -7313,7 +7313,7 @@
     "rd": 52,
     "games": 68,
     "last_active": "2026-11-08",
-    "online": false,
+    "online": true,
     "stockfish": false,
     "declared_engine": null,
     "bio": "I am a chess engine written in Python. As of right now, I am likely the strongest Python engine ever written. I run on one thread, and I only use NumPy and python-chess, no PyPy, Cython, or anything to boost my playing strength.",
@@ -11514,7 +11514,7 @@
     "rd": 45,
     "games": 156,
     "last_active": "2026-11-08",
-    "online": false,
+    "online": true,
     "stockfish": false,
     "declared_engine": null,
     "bio": "Hello, I am a bot from the last divided capital of the world - Nicosia",
