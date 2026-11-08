@@ -12,7 +12,7 @@
   },
   "aatk_vanguardx": {
    "first_seen": "2026-09-27",
-   "last_online": "2026-11-07",
+   "last_online": "2026-11-08",
    "username": "AATK_VanguardX"
   },
   "abcbot": {
@@ -187,7 +187,7 @@
   },
   "antibotv3-7": {
    "first_seen": "2026-10-14",
-   "last_online": "2026-11-07",
+   "last_online": "2026-11-08",
    "username": "AntiBotV3-7"
   },
   "apexbot": {
@@ -277,7 +277,7 @@
   },
   "ask-aatk-bot": {
    "first_seen": "2026-09-27",
-   "last_online": "2026-11-07",
+   "last_online": "2026-11-08",
    "username": "Ask-AATK-bot"
   },
   "askaig": {
@@ -2192,7 +2192,7 @@
   },
   "kittyenginev5": {
    "first_seen": "2026-10-20",
-   "last_online": "2026-11-07",
+   "last_online": "2026-11-08",
    "username": "KittyEngineV5"
   },
   "kiwi_cube": {
@@ -3187,7 +3187,7 @@
   },
   "oxide-eg": {
    "first_seen": "2026-09-27",
-   "last_online": "2026-11-07",
+   "last_online": "2026-11-08",
    "username": "Oxide-Eg"
   },
   "oxybullet": {
@@ -3257,7 +3257,7 @@
   },
   "pawnopenings": {
    "first_seen": "2026-11-05",
-   "last_online": "2026-11-07",
+   "last_online": "2026-11-08",
    "username": "PawnOpenings"
   },
   "pawnrobot": {
@@ -3467,7 +3467,7 @@
   },
   "protyv2": {
    "first_seen": "2026-10-31",
-   "last_online": "2026-11-01",
+   "last_online": "2026-11-08",
    "username": "ProtyV2"
   },
   "pruningbot": {
@@ -3677,7 +3677,7 @@
   },
   "robodoxadrez": {
    "first_seen": "2026-11-01",
-   "last_online": "2026-11-01",
+   "last_online": "2026-11-08",
    "username": "RoboDoXadrez"
   },
   "robotjfischer": {
@@ -4232,7 +4232,7 @@
   },
   "studyloversz-bot": {
    "first_seen": "2026-09-27",
-   "last_online": "2026-11-07",
+   "last_online": "2026-11-08",
    "username": "Studyloversz-bot"
   },
   "stupidchessrobot": {
@@ -4927,9 +4927,9 @@
   }
  },
  "online": {
-  "checked_at": "2026-11-08T00:43:10Z",
+  "checked_at": "2026-11-08T01:43:10Z",
   "ids": [
-   "abcd_engine",
+   "aatk_vanguardx",
    "aconcaguabot",
    "aetherbot",
    "aggressivestockfish",
@@ -4943,6 +4943,7 @@
    "anna-bot",
    "annie_archy",
    "anti-bot",
+   "antibotv3-7",
    "aposeij",
    "approximationbot",
    "aqueval-chess",
@@ -4950,6 +4951,7 @@
    "arkiplayschess",
    "arroccobot",
    "artidigm_research",
+   "ask-aatk-bot",
    "athena-chessbot",
    "attackerbotpython",
    "axiom_bot",
@@ -5052,15 +5054,12 @@
    "fpga-chess",
    "fschess-engine",
    "funcomp",
-   "gambittai",
    "garbobot",
    "georgii_ai",
    "geotsibot",
    "glorbo_evermorrow",
    "gnu4u",
-   "gochess6767",
    "goldfish-engine",
-   "goopis",
    "grail-bot",
    "grindfish",
    "groshboss",
@@ -5096,8 +5095,8 @@
    "kavinengine",
    "kbelludoo",
    "kestrelstrike",
-   "kingzbot",
    "kirinchessbot",
+   "kittyenginev5",
    "koi_engine",
    "kopyto_dev",
    "kulubot",
@@ -5193,6 +5192,7 @@
    "onezenpanda",
    "openingsbot",
    "overfitted",
+   "oxide-eg",
    "oxybullet",
    "palebots",
    "pangubot",
@@ -5201,6 +5201,7 @@
    "patriciabot",
    "patzerbot135",
    "pawn_git",
+   "pawnopenings",
    "peacemaker-0_0",
    "peachfruit",
    "perl-gigachess",
@@ -5217,6 +5218,7 @@
    "premove90-1500",
    "prokopakop",
    "prosperobot",
+   "protyv2",
    "psion-chess",
    "puisne",
    "pzchessbot",
@@ -5232,6 +5234,7 @@
    "remychessengine",
    "resolutebot",
    "ribfish-bot",
+   "robodoxadrez",
    "rubyai",
    "rudim-bot",
    "rust-in-pieces",
@@ -5272,6 +5275,7 @@
    "stockpapagei",
    "stormbot",
    "streamervschat",
+   "studyloversz-bot",
    "stupidfishbotbydscs",
    "sunfish-engine",
    "sunfish-nnue-engine",
