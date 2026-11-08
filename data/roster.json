@@ -320,6 +320,11 @@
    "last_online": "2026-11-08",
    "username": "Axiom_BOT"
   },
+  "ayanoengine": {
+   "first_seen": "2026-11-08",
+   "last_online": "2026-11-08",
+   "username": "AyanoEngine"
+  },
   "azzbot": {
    "first_seen": "2026-09-27",
    "last_online": "2026-10-30",
@@ -2922,7 +2927,7 @@
   },
   "munzurbot2": {
    "first_seen": "2026-10-30",
-   "last_online": "2026-11-07",
+   "last_online": "2026-11-08",
    "username": "MunzurBOT2"
   },
   "musashi-thebot": {
@@ -4957,7 +4962,7 @@
   }
  },
  "online": {
-  "checked_at": "2026-11-08T19:43:09Z",
+  "checked_at": "2026-11-08T20:43:10Z",
   "ids": [
    "aaronsengine",
    "aconcaguabot",
@@ -4984,10 +4989,11 @@
    "arroccobot",
    "artidigm_research",
    "athena-chessbot",
-   "attackerbotpython",
    "axiom_bot",
+   "ayanoengine",
    "banerot",
    "bbc_bot",
+   "beattheengine",
    "belzedarian",
    "berkbot",
    "bernstein-2ply",
@@ -4995,6 +5001,7 @@
    "bfiedler-bot",
    "bitbitbot",
    "bluemoonbot",
+   "blujay-bot",
    "bobby_pcolla",
    "bongaclang",
    "borkatower",
@@ -5124,7 +5131,6 @@
    "jurdbird",
    "justbot-v1",
    "kahunabot",
-   "karl-engine-v1",
    "kavinengine",
    "kbelludoo",
    "kestrelstrike",
@@ -5191,7 +5197,6 @@
    "michaamateurbot",
    "milanbot",
    "mimirbot",
-   "minimaxpro",
    "minopponentmoves",
    "mithandros",
    "mochi_bot",
@@ -5199,6 +5204,7 @@
    "mostlyhuman1900",
    "moteur441",
    "mrtonnerre",
+   "munzurbot2",
    "mychessjava",
    "nanozeroorg",
    "ndr1sn",
@@ -5226,7 +5232,6 @@
    "oxide-eg",
    "oxybullet",
    "paconbot",
-   "palebots",
    "pangubot",
    "panic-fish",
    "partner3615diago",
@@ -5318,8 +5323,6 @@
    "tempocore",
    "tente8x",
    "territorybot",
-   "the_baronet",
-   "thevariantsnormalbot",
    "throrbjorn",
    "thunfisch-bot",
    "tigrament",
