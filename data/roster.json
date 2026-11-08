@@ -2262,7 +2262,7 @@
   },
   "kurganuci": {
    "first_seen": "2026-09-28",
-   "last_online": "2026-10-23",
+   "last_online": "2026-11-08",
    "username": "KurganUCI"
   },
   "la5v2": {
@@ -4057,7 +4057,7 @@
   },
   "slychessbot": {
    "first_seen": "2026-10-01",
-   "last_online": "2026-11-07",
+   "last_online": "2026-11-08",
    "username": "SlyChessBot"
   },
   "smasher23445": {
@@ -4942,7 +4942,7 @@
   }
  },
  "online": {
-  "checked_at": "2026-11-08T13:50:42Z",
+  "checked_at": "2026-11-08T14:43:10Z",
   "ids": [
    "aaronsengine",
    "abcd_engine",
@@ -4978,10 +4978,8 @@
    "bernstein-4ply",
    "bfiedler-bot",
    "bitbitbot",
-   "black-bishop-kh",
    "bluemoonbot",
    "blujay-bot",
-   "blundeel67",
    "bobby_pcolla",
    "bongaclang",
    "borkatower",
@@ -5101,7 +5099,6 @@
    "jaxakos13_bot",
    "jibbby",
    "jimmy_inc3710",
-   "jinko-chan",
    "jjugle",
    "joan_clone",
    "joey_chessengine",
@@ -5116,9 +5113,9 @@
    "kbelludoo",
    "kestrelstrike",
    "kirinchessbot",
-   "koi_engine",
    "kopyto_dev",
    "kulubot",
+   "kurganuci",
    "lamprook",
    "larryz-alterego",
    "latrunculi-bot",
@@ -5179,7 +5176,6 @@
    "michaamateurbot",
    "milanbot",
    "mimirbot",
-   "minimaxpro",
    "minopponentmoves",
    "mithandros",
    "mochi_bot",
@@ -5187,7 +5183,6 @@
    "mostlyhuman1900",
    "moteur441",
    "mrtonnerre",
-   "musashi-thebot",
    "mychessjava",
    "nanozeroorg",
    "ndr1sn",
@@ -5267,7 +5262,6 @@
    "sargon-3ply",
    "sbnovella",
    "scalaqueen",
-   "schach-knecht",
    "schnecken_bot",
    "scipio-bot",
    "seedchess",
@@ -5284,6 +5278,7 @@
    "sleepish",
    "sleepmindengine",
    "slowmate_bot",
+   "slychessbot",
    "solobot",
    "springerbot",
    "squarefish-900",
@@ -5308,7 +5303,6 @@
    "tempocore",
    "tente8x",
    "territorybot",
-   "thomengine",
    "throrbjorn",
    "thunfisch-bot",
    "tigrament",
@@ -5328,7 +5322,6 @@
    "turochamp-1ply",
    "turochamp-2ply",
    "twosillypandas",
-   "uiagbot",
    "unimark",
    "ursus_bot",
    "usunfish",
