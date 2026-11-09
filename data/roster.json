@@ -267,7 +267,7 @@
   },
   "ashasevidence": {
    "first_seen": "2026-10-08",
-   "last_online": "2026-10-12",
+   "last_online": "2026-11-09",
    "username": "ashasevidence"
   },
   "ashnostromo": {
@@ -2722,7 +2722,7 @@
   },
   "maximaengine": {
    "first_seen": "2026-10-23",
-   "last_online": "2026-11-04",
+   "last_online": "2026-11-09",
    "username": "MaximaEngine"
   },
   "maxthedog-esp32": {
@@ -4147,7 +4147,7 @@
   },
   "sparkchessengine": {
    "first_seen": "2026-10-21",
-   "last_online": "2026-11-08",
+   "last_online": "2026-11-09",
    "username": "SparkchessEngine"
   },
   "springerbot": {
@@ -4962,7 +4962,7 @@
   }
  },
  "online": {
-  "checked_at": "2026-11-09T03:43:09Z",
+  "checked_at": "2026-11-09T04:43:11Z",
   "ids": [
    "aatk_vanguardx",
    "abcd_engine",
@@ -4972,7 +4972,6 @@
    "ai-con",
    "ailedbot",
    "alarm2001",
-   "aleph_engine",
    "alexandrya",
    "aliceshiro",
    "alieknek",
@@ -4988,6 +4987,7 @@
    "arkiplayschess",
    "arroccobot",
    "artidigm_research",
+   "ashasevidence",
    "ask-aatk-bot",
    "athena-chessbot",
    "attackerbotpython",
@@ -5116,6 +5116,7 @@
    "jibbby",
    "jimmy_inc3710",
    "jjugle",
+   "jkcheeserchess",
    "joan_clone",
    "joey_chessengine",
    "jongsungkim",
@@ -5124,7 +5125,6 @@
    "jurdbird",
    "justbot-v1",
    "kahunabot",
-   "karl-engine-v1",
    "kavinengine",
    "kbelludoo",
    "kestrelstrike",
@@ -5184,6 +5184,7 @@
    "mate-in-twenty",
    "mate1-bot",
    "matmoi",
+   "maximaengine",
    "maybyen",
    "mayflyengine",
    "mcdonalds1955",
@@ -5294,6 +5295,7 @@
    "sleepmindengine",
    "slowmate_bot",
    "solobot",
+   "sparkchessengine",
    "springerbot",
    "squarefish-900",
    "sseh-c",
@@ -5311,7 +5313,6 @@
    "sybaibot",
    "sybbot",
    "sykorabot",
-   "tallikebot",
    "talosbot",
    "tempocore",
    "tente8x",
@@ -5319,7 +5320,6 @@
    "throrbjorn",
    "thunfisch-bot",
    "tigrament",
-   "tikifish",
    "tilapiabot",
    "to299d",
    "togaii",
@@ -5348,14 +5348,14 @@
    "vic98lg",
    "vicentlittle",
    "vietnamesecoffee",
+   "void_bot",
    "vortexaurafarm",
    "waldemar-the-elf",
    "walpurti",
    "weiawaga",
    "worstfish",
    "z-o_aspenlabs",
-   "zion-bot",
-   "zzzzzzzzsleep"
+   "zion-bot"
   ]
  },
  "schema_version": 1
