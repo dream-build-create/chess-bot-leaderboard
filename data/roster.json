@@ -92,7 +92,7 @@
   },
   "ajedrezchamberi": {
    "first_seen": "2026-09-29",
-   "last_online": "2026-11-08",
+   "last_online": "2026-11-09",
    "username": "AjedrezChamberi"
   },
   "alarm2001": {
@@ -777,7 +777,7 @@
   },
   "chamberiajedrez": {
    "first_seen": "2026-09-29",
-   "last_online": "2026-11-08",
+   "last_online": "2026-11-09",
    "username": "ChamberiAjedrez"
   },
   "chaotong_engine": {
@@ -914,6 +914,11 @@
    "first_seen": "2026-09-27",
    "last_online": "2026-11-09",
    "username": "Chessiverse_Raak"
+  },
+  "chessmate_david": {
+   "first_seen": "2026-11-09",
+   "last_online": "2026-11-09",
+   "username": "chessmate_david"
   },
   "chessnoobcomp": {
    "first_seen": "2026-10-26",
@@ -2287,7 +2292,7 @@
   },
   "lantern_bot": {
    "first_seen": "2026-10-15",
-   "last_online": "2026-11-07",
+   "last_online": "2026-11-09",
    "username": "Lantern_BOT"
   },
   "larryz-alterego": {
@@ -4962,7 +4967,7 @@
   }
  },
  "online": {
-  "checked_at": "2026-11-09T07:43:09Z",
+  "checked_at": "2026-11-09T08:43:09Z",
   "ids": [
    "aatk_vanguardx",
    "abcd_engine",
@@ -4972,6 +4977,7 @@
    "ahmedzhanov",
    "ai-con",
    "ailedbot",
+   "ajedrezchamberi",
    "alarm2001",
    "alexandrya",
    "aliceshiro",
@@ -5003,6 +5009,7 @@
    "bitbitbot",
    "bluemoonbot",
    "blujay-bot",
+   "blundeel67",
    "bobby_pcolla",
    "bongaclang",
    "bot5551",
@@ -5014,11 +5021,11 @@
    "bytefish",
    "c0kval",
    "caiporabot",
-   "caissa-x",
    "carmin-bot",
    "casanchess-nnue",
    "catnail",
    "catriever",
+   "chamberiajedrez",
    "charibot",
    "chess3bot",
    "chessgeniusbot",
@@ -5026,6 +5033,7 @@
    "chessiverse_luc",
    "chessiverse_pawnza",
    "chessiverse_raak",
+   "chessmate_david",
    "chesstransformerbot",
    "cheszter",
    "chill4ce",
@@ -5082,7 +5090,6 @@
    "funcomp",
    "gaiachessengine",
    "garbobot",
-   "georgii_ai",
    "geotsibot",
    "glorbo_evermorrow",
    "gnu4u",
@@ -5127,6 +5134,7 @@
    "kulubot",
    "kurganuci",
    "lamprook",
+   "lantern_bot",
    "larryz-alterego",
    "latrunculi-bot",
    "laura-bot",
@@ -5251,6 +5259,7 @@
    "pzchessbot",
    "queensgambot",
    "quirkafleeg-pc",
+   "quirkafleeg-zx48k",
    "quirkafleeg-zxnext",
    "racingkingsbot_1",
    "raspfish",
@@ -5282,6 +5291,7 @@
    "shrevenbot",
    "silasly",
    "sim3million",
+   "simplechessengine",
    "simpleeval",
    "sj_norbot",
    "slate-engine",
@@ -5294,6 +5304,7 @@
    "sseh-c",
    "stepbot_chess",
    "stickshark99",
+   "stockcotsfish",
    "stockfishlowdepth",
    "stockpapagei",
    "streamervschat",
