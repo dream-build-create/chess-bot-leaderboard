@@ -1615,6 +1615,11 @@
    "last_online": "2026-11-09",
    "username": "FunComp"
   },
+  "funfishbot": {
+   "first_seen": "2026-11-09",
+   "last_online": "2026-11-09",
+   "username": "FunFishBot"
+  },
   "future_sight_ai": {
    "first_seen": "2026-11-01",
    "last_online": "2026-11-01",
@@ -4982,7 +4987,7 @@
   }
  },
  "online": {
-  "checked_at": "2026-11-09T13:43:11Z",
+  "checked_at": "2026-11-09T14:43:10Z",
   "ids": [
    "aaronsengine",
    "aatk_vanguardx",
@@ -4990,7 +4995,6 @@
    "aconcaguabot",
    "aetherbot",
    "aggressivestockfish",
-   "ahmedzhanov",
    "ai-con",
    "ailedbot",
    "ajedrezchamberi",
@@ -5035,6 +5039,7 @@
    "bytefish",
    "c-t-r-l",
    "caiporabot",
+   "carmin-bot",
    "casanchess-nnue",
    "catnail",
    "catriever",
@@ -5073,6 +5078,8 @@
    "deepbecky",
    "deepsquare-ai",
    "demen100ns-bot",
+   "demolito_l4",
+   "demolito_l6",
    "diogenes-bot",
    "dravox",
    "drawfish-reborn",
@@ -5098,7 +5105,9 @@
    "fpga-chess",
    "fschess-engine",
    "funcomp",
+   "funfishbot",
    "garbobot",
+   "georgii_ai",
    "geotsibot",
    "glorbo_evermorrow",
    "gnu4u",
@@ -5107,7 +5116,6 @@
    "grail-bot",
    "grindfish",
    "gryndor",
-   "halcyonbot",
    "hardrok",
    "hiusbot",
    "hummus-bot",
@@ -5284,7 +5292,6 @@
    "resolutebot",
    "ribfish-bot",
    "robodoxadrez",
-   "rockingsuperstars",
    "rudim-bot",
    "rust-in-pieces",
    "rust-in-pieces-nnue",
@@ -5303,6 +5310,7 @@
    "shrevenbot",
    "silasly",
    "sim3million",
+   "simplechessengine",
    "simpleeval",
    "sj_norbot",
    "slate-engine",
@@ -5331,6 +5339,7 @@
    "tempocore",
    "tente8x",
    "territorybot",
+   "thevariantsnormalbot",
    "throrbjorn",
    "thunfisch-bot",
    "tigrament",
