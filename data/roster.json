@@ -2367,7 +2367,7 @@
   },
   "leelachesstest": {
    "first_seen": "2026-09-30",
-   "last_online": "2026-10-23",
+   "last_online": "2026-11-09",
    "username": "LeelaChessTest"
   },
   "leelajester": {
@@ -2867,7 +2867,7 @@
   },
   "mind_bot": {
    "first_seen": "2026-10-03",
-   "last_online": "2026-11-05",
+   "last_online": "2026-11-09",
    "username": "Mind_BOT"
   },
   "minibotapi": {
@@ -3757,7 +3757,7 @@
   },
   "rocketengine": {
    "first_seen": "2026-10-11",
-   "last_online": "2026-11-06",
+   "last_online": "2026-11-09",
    "username": "RocketEngine"
   },
   "rockingsuperstars": {
@@ -3867,7 +3867,7 @@
   },
   "saitek_renaissance": {
    "first_seen": "2026-11-05",
-   "last_online": "2026-11-08",
+   "last_online": "2026-11-09",
    "username": "Saitek_Renaissance"
   },
   "saltettorrfisk": {
@@ -3984,6 +3984,11 @@
    "first_seen": "2026-10-21",
    "last_online": "2026-10-25",
    "username": "Senkabalabot"
+  },
+  "sezgi_bot": {
+   "first_seen": "2026-11-09",
+   "last_online": "2026-11-09",
+   "username": "SEZGI_BOT"
   },
   "sf_bot1nok": {
    "first_seen": "2026-09-27",
@@ -4435,6 +4440,11 @@
    "last_online": "2026-11-09",
    "username": "TempoCore"
   },
+  "tente-v2": {
+   "first_seen": "2026-11-09",
+   "last_online": "2026-11-09",
+   "username": "Tente-V2"
+  },
   "tente8x": {
    "first_seen": "2026-10-27",
    "last_online": "2026-11-09",
@@ -4657,7 +4667,7 @@
   },
   "turquoisebot": {
    "first_seen": "2026-10-24",
-   "last_online": "2026-10-24",
+   "last_online": "2026-11-09",
    "username": "TurquoiseBOT"
   },
   "twosillypandas": {
@@ -5022,7 +5032,7 @@
   }
  },
  "online": {
-  "checked_at": "2026-11-09T17:43:11Z",
+  "checked_at": "2026-11-09T18:43:11Z",
   "ids": [
    "a-elo",
    "aaronsengine",
@@ -5044,9 +5054,9 @@
    "antibotv3-7",
    "aposeij",
    "approximationbot",
+   "aqueval-chess",
    "arasanx",
    "arkiplayschess",
-   "arroccobot",
    "artidigm_research",
    "ashasevidence",
    "athena-chessbot",
@@ -5081,11 +5091,11 @@
    "chamberiajedrez",
    "charibot",
    "chess3bot",
+   "chessgeniusbot",
    "chessiverse_ethan",
    "chessiverse_luc",
    "chessiverse_pawnza",
    "chessiverse_raak",
-   "chesstransformerbot",
    "cheszter",
    "chill4ce",
    "chronicgambler",
@@ -5106,6 +5116,7 @@
    "dala-2000",
    "dala-700",
    "dala-900",
+   "darkelectronbot",
    "darkonweakbot",
    "debzero",
    "deepbecky",
@@ -5120,7 +5131,6 @@
    "drewschessmachine",
    "duchessai",
    "dumbotai",
-   "dysthimi",
    "edwardkillick",
    "eigenmann-chess",
    "elachessbot",
@@ -5135,6 +5145,7 @@
    "felipe_bot_53",
    "fenrir-bot",
    "fenrirbot",
+   "fetacompli",
    "fivejoyouspandas",
    "flounderbot",
    "flower-queen",
@@ -5156,6 +5167,7 @@
    "grail-bot",
    "grindfish",
    "gryndor",
+   "halcyonbot",
    "hardrok",
    "hiusbot",
    "hummus-bot",
@@ -5197,8 +5209,10 @@
    "laura-bot",
    "leelaalien",
    "leelaanyodds",
+   "leelachesstest",
    "leelajester",
    "leelaknightodds",
+   "leelamultiposs",
    "leelapieceodds",
    "leelaqueenforknight",
    "leelaqueenodds",
@@ -5244,15 +5258,14 @@
    "mate-in-twenty",
    "mate1-bot",
    "matmoi",
-   "maximaengine",
    "maybyen",
    "mayflyengine",
    "mdbot",
    "mega-noob-bot",
    "melsh_bot",
-   "michaamateurbot",
    "milanbot",
    "mimirbot",
+   "mind_bot",
    "minopponentmoves",
    "mithandros",
    "mochi_bot",
@@ -5283,7 +5296,6 @@
    "onechessbot",
    "onezenpanda",
    "openingsbot",
-   "opycep",
    "overfitted",
    "oxide-eg",
    "oxybullet",
@@ -5332,10 +5344,12 @@
    "resolutebot",
    "ribfish-bot",
    "robodoxadrez",
+   "rocketengine",
    "rudim-bot",
    "rust-in-pieces",
    "rust-in-pieces-nnue",
    "ryu-ishigori",
+   "saitek_renaissance",
    "sapling-bot",
    "sardinebot",
    "sargon-1ply",
@@ -5346,6 +5360,7 @@
    "scipio-bot",
    "seedchess",
    "seitogakatsu",
+   "sezgi_bot",
    "shallowredbot",
    "shrevenbot",
    "silasly",
@@ -5358,7 +5373,6 @@
    "slowmate_bot",
    "smartysprout",
    "solobot",
-   "sparkchessengine",
    "springerbot",
    "squarefish-900",
    "sseh-c",
@@ -5380,6 +5394,7 @@
    "tallikebot",
    "talosbot",
    "tempocore",
+   "tente-v2",
    "tente8x",
    "territorybot",
    "thevariantsnormalbot",
@@ -5401,6 +5416,7 @@
    "turkjs",
    "turochamp-1ply",
    "turochamp-2ply",
+   "turquoisebot",
    "twosillypandas",
    "unimark",
    "ursus_bot",
