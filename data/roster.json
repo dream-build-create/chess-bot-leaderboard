@@ -1,5 +1,10 @@
 {
  "bots": {
+  "a-elo": {
+   "first_seen": "2026-11-09",
+   "last_online": "2026-11-09",
+   "username": "a-elo"
+  },
   "aaronsengine": {
    "first_seen": "2026-09-27",
    "last_online": "2026-11-09",
@@ -362,7 +367,7 @@
   },
   "battlebornthe3rd": {
    "first_seen": "2026-09-29",
-   "last_online": "2026-11-03",
+   "last_online": "2026-11-09",
    "username": "BattleBornThe3rd"
   },
   "battlebornthe4th": {
@@ -607,7 +612,7 @@
   },
   "botkingteam33": {
    "first_seen": "2026-10-11",
-   "last_online": "2026-11-08",
+   "last_online": "2026-11-09",
    "username": "Botkingteam33"
   },
   "botsuxx": {
@@ -1687,7 +1692,7 @@
   },
   "ghidorah_x": {
    "first_seen": "2026-09-27",
-   "last_online": "2026-11-08",
+   "last_online": "2026-11-09",
    "username": "Ghidorah_X"
   },
   "giffibot": {
@@ -2420,6 +2425,11 @@
    "last_online": "2026-10-11",
    "username": "LegoChess98"
   },
+  "legotechniccontrolpl": {
+   "first_seen": "2026-11-09",
+   "last_online": "2026-11-09",
+   "username": "LegoTechnicControlPl"
+  },
   "lemonjuice10": {
    "first_seen": "2026-11-02",
    "last_online": "2026-11-08",
@@ -2944,6 +2954,11 @@
    "first_seen": "2026-09-27",
    "last_online": "2026-10-05",
    "username": "Mr_Sandbar"
+  },
+  "mrdeepseekgpt": {
+   "first_seen": "2026-11-09",
+   "last_online": "2026-11-09",
+   "username": "MrDeepSeekGPT"
   },
   "mrtonnerre": {
    "first_seen": "2026-09-27",
@@ -5002,13 +5017,15 @@
   }
  },
  "online": {
-  "checked_at": "2026-11-09T15:43:10Z",
+  "checked_at": "2026-11-09T16:43:10Z",
   "ids": [
+   "a-elo",
    "aaronsengine",
-   "aatk_vanguardx",
    "abcd_engine",
    "aconcaguabot",
    "aetherbot",
+   "aggressivestockfish",
+   "ahmedzhanov",
    "ai-con",
    "ailedbot",
    "ajedrezchamberi",
@@ -5027,11 +5044,11 @@
    "arroccobot",
    "artidigm_research",
    "ashasevidence",
-   "ask-aatk-bot",
    "athena-chessbot",
    "attackerbotpython",
    "axiom_bot",
    "banerot",
+   "battlebornthe3rd",
    "bbc_bot",
    "belzedarian",
    "berkbot",
@@ -5048,6 +5065,7 @@
    "bot5551",
    "bot64jaques",
    "bot_adario",
+   "botkingteam33",
    "bottios",
    "bretemabot",
    "bubblebot2",
@@ -5060,7 +5078,6 @@
    "chamberiajedrez",
    "charibot",
    "chess3bot",
-   "chessgeniusbot",
    "chessiverse_ethan",
    "chessiverse_luc",
    "chessiverse_pawnza",
@@ -5105,6 +5122,7 @@
    "elachessbot",
    "elexunix_chess_bot",
    "elmichess",
+   "endspiel-engine",
    "entebot",
    "epimetheusbot",
    "fairytailregimebot",
@@ -5113,6 +5131,7 @@
    "felipe_bot_53",
    "fenrir-bot",
    "fenrirbot",
+   "fetacompli",
    "fivejoyouspandas",
    "flounderbot",
    "flower-queen",
@@ -5124,6 +5143,7 @@
    "gambitonlybot",
    "garbobot",
    "geotsibot",
+   "ghidorah_x",
    "glorbo_evermorrow",
    "gnu4u",
    "goldfish-engine",
@@ -5131,6 +5151,7 @@
    "grail-bot",
    "grindfish",
    "gryndor",
+   "halcyonbot",
    "hardrok",
    "hiusbot",
    "hummus-bot",
@@ -5181,7 +5202,7 @@
    "leelarookodds",
    "leelatroll",
    "leelonardo",
-   "leol-bot",
+   "legotechniccontrolpl",
    "levymaia",
    "likeawizard-bot",
    "lili-ai",
@@ -5234,14 +5255,11 @@
    "morabandbot",
    "mostlyhuman1900",
    "moteur441",
+   "mrdeepseekgpt",
    "mrtonnerre",
-   "munzurbot2",
-   "musashi-thebot",
-   "my-bot",
    "mychessjava",
    "nanozeroorg",
    "ndr1sn",
-   "neryba",
    "neurosocute",
    "nexastrat",
    "next_uzbek",
@@ -5249,13 +5267,12 @@
    "nice_bot",
    "nichteliasbot",
    "nickdrohan",
-   "nickl1bot",
    "nilatacbot",
    "nittedal",
    "nnueandthevoices",
    "noabot",
-   "noel-bot",
    "nohopeforman",
+   "noksiy",
    "notropis",
    "o-rei-cx",
    "odonata-bot",
@@ -5296,7 +5313,6 @@
    "quirkafleeg-pc",
    "quirkafleeg-zx48k",
    "quirkafleeg-zxnext",
-   "racingkingsbot_1",
    "radianceengine",
    "raspfish",
    "ratsu-bot",
@@ -5339,6 +5355,7 @@
    "springerbot",
    "squarefish-900",
    "sseh-c",
+   "stargazerengine",
    "stepbot_chess",
    "stickshark99",
    "stockcotsfish",
@@ -5353,11 +5370,11 @@
    "sybaibot",
    "sybbot",
    "sykorabot",
+   "tallikebot",
    "talosbot",
    "tempocore",
    "tente8x",
    "territorybot",
-   "the_baronet",
    "thevariantsnormalbot",
    "throrbjorn",
    "thunfisch-bot",
