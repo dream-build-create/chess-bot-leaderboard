@@ -342,7 +342,7 @@
   },
   "ballin-bot": {
    "first_seen": "2026-10-19",
-   "last_online": "2026-10-28",
+   "last_online": "2026-11-09",
    "username": "Ballin-bot"
   },
   "bamsensbadchessbot": {
@@ -649,6 +649,11 @@
    "first_seen": "2026-09-27",
    "last_online": "2026-11-09",
    "username": "BretemaBot"
+  },
+  "brettcomputer": {
+   "first_seen": "2026-11-09",
+   "last_online": "2026-11-09",
+   "username": "Brettcomputer"
   },
   "brybrybot": {
    "first_seen": "2026-10-13",
@@ -2040,6 +2045,11 @@
    "last_online": "2026-11-09",
    "username": "jakgro"
   },
+  "jamchess_app": {
+   "first_seen": "2026-11-09",
+   "last_online": "2026-11-09",
+   "username": "JamChess_App"
+  },
   "jangine": {
    "first_seen": "2026-09-27",
    "last_online": "2026-11-09",
@@ -2887,7 +2897,7 @@
   },
   "minimaxpro": {
    "first_seen": "2026-11-07",
-   "last_online": "2026-11-08",
+   "last_online": "2026-11-09",
    "username": "Minimaxpro"
   },
   "minmaxvalgen": {
@@ -3202,7 +3212,7 @@
   },
   "olimarianbot": {
    "first_seen": "2026-10-21",
-   "last_online": "2026-11-08",
+   "last_online": "2026-11-09",
    "username": "Olimarianbot"
   },
   "omegazero-bot": {
@@ -3767,7 +3777,7 @@
   },
   "rodent-iv": {
    "first_seen": "2026-10-05",
-   "last_online": "2026-10-30",
+   "last_online": "2026-11-09",
    "username": "Rodent-IV"
   },
   "rodent-v": {
@@ -4827,7 +4837,7 @@
   },
   "vortex_bot": {
    "first_seen": "2026-10-14",
-   "last_online": "2026-11-07",
+   "last_online": "2026-11-09",
    "username": "Vortex_Bot"
   },
   "vortexaurafarm": {
@@ -4897,7 +4907,7 @@
   },
   "weledar-bot": {
    "first_seen": "2026-09-29",
-   "last_online": "2026-10-26",
+   "last_online": "2026-11-09",
    "username": "Weledar-bot"
   },
   "wildorderbot": {
@@ -5032,7 +5042,7 @@
   }
  },
  "online": {
-  "checked_at": "2026-11-09T18:43:11Z",
+  "checked_at": "2026-11-09T19:43:11Z",
   "ids": [
    "a-elo",
    "aaronsengine",
@@ -5054,13 +5064,13 @@
    "antibotv3-7",
    "aposeij",
    "approximationbot",
-   "aqueval-chess",
    "arasanx",
    "arkiplayschess",
    "artidigm_research",
    "ashasevidence",
    "athena-chessbot",
    "axiom_bot",
+   "ballin-bot",
    "banerot",
    "bbc_bot",
    "belzedarian",
@@ -5075,12 +5085,14 @@
    "blunder-engine",
    "bobby_pcolla",
    "bongaclang",
+   "borkatower",
    "bot5551",
    "bot64jaques",
    "bot_adario",
    "botkingteam33",
    "bottios",
    "bretemabot",
+   "brettcomputer",
    "bubblebot2",
    "bytefish",
    "caiporabot",
@@ -5124,17 +5136,15 @@
    "demen100ns-bot",
    "demolito_l4",
    "demolito_l6",
-   "diogenes-bot",
    "disrespect_fish",
    "dravox",
    "drawfish-reborn",
-   "drewschessmachine",
    "duchessai",
    "dumbotai",
+   "dysthimi",
    "edwardkillick",
    "eigenmann-chess",
    "elachessbot",
-   "elexunix_chess_bot",
    "elmichess",
    "endspiel-engine",
    "entebot",
@@ -5157,13 +5167,13 @@
    "galaxy-stellar-bot",
    "gambitonlybot",
    "garbobot",
+   "georgii_ai",
    "geotsibot",
    "ghidorah_x",
    "glorbo_evermorrow",
    "gnu4u",
    "goats-of-bots",
    "goldfish-engine",
-   "goopis",
    "grail-bot",
    "grindfish",
    "gryndor",
@@ -5180,11 +5190,12 @@
    "incipit_bot",
    "is_boss",
    "iskelt-corax",
-   "jakgro",
+   "jamchess_app",
    "jangine",
    "jibbby",
    "jimmy_inc3710",
    "jjugle",
+   "jkcheeserchess",
    "joan_clone",
    "joey_chessengine",
    "jongsungkim",
@@ -5212,7 +5223,6 @@
    "leelachesstest",
    "leelajester",
    "leelaknightodds",
-   "leelamultiposs",
    "leelapieceodds",
    "leelaqueenforknight",
    "leelaqueenodds",
@@ -5258,6 +5268,7 @@
    "mate-in-twenty",
    "mate1-bot",
    "matmoi",
+   "maximaengine",
    "maybyen",
    "mayflyengine",
    "mdbot",
@@ -5265,7 +5276,7 @@
    "melsh_bot",
    "milanbot",
    "mimirbot",
-   "mind_bot",
+   "minimaxpro",
    "minopponentmoves",
    "mithandros",
    "mochi_bot",
@@ -5274,7 +5285,6 @@
    "moteur441",
    "mrdeepseekgpt",
    "mrtonnerre",
-   "mychessjava",
    "nanozeroorg",
    "ndr1sn",
    "neurosocute",
@@ -5293,12 +5303,12 @@
    "notropis",
    "o-rei-cx",
    "odonata-bot",
+   "olimarianbot",
    "onechessbot",
    "onezenpanda",
    "openingsbot",
    "overfitted",
    "oxide-eg",
-   "oxybullet",
    "pangubot",
    "panic-fish",
    "partner3615diago",
@@ -5321,7 +5331,6 @@
    "playmarius",
    "plumboi",
    "plumbot",
-   "ponytail_engine",
    "premove90-1500",
    "prokopakop",
    "prosperobot",
@@ -5332,6 +5341,7 @@
    "quirkafleeg-pc",
    "quirkafleeg-zx48k",
    "quirkafleeg-zxnext",
+   "racingkingsbot_1",
    "radianceengine",
    "raspfish",
    "ratsu-bot",
@@ -5344,7 +5354,7 @@
    "resolutebot",
    "ribfish-bot",
    "robodoxadrez",
-   "rocketengine",
+   "rodent-iv",
    "rudim-bot",
    "rust-in-pieces",
    "rust-in-pieces-nnue",
@@ -5360,7 +5370,6 @@
    "scipio-bot",
    "seedchess",
    "seitogakatsu",
-   "sezgi_bot",
    "shallowredbot",
    "shrevenbot",
    "silasly",
@@ -5373,6 +5382,7 @@
    "slowmate_bot",
    "smartysprout",
    "solobot",
+   "sparkchessengine",
    "springerbot",
    "squarefish-900",
    "sseh-c",
@@ -5416,7 +5426,6 @@
    "turkjs",
    "turochamp-1ply",
    "turochamp-2ply",
-   "turquoisebot",
    "twosillypandas",
    "unimark",
    "ursus_bot",
@@ -5433,10 +5442,12 @@
    "vicentlittle",
    "vietnamesecoffee",
    "void_bot",
+   "vortex_bot",
    "vortexaurafarm",
    "waldemar-the-elf",
    "walpurti",
    "weiawaga",
+   "weledar-bot",
    "worstfish",
    "z-o_aspenlabs",
    "zion-bot",
