@@ -12,7 +12,7 @@
   },
   "aatk_vanguardx": {
    "first_seen": "2026-09-27",
-   "last_online": "2026-11-08",
+   "last_online": "2026-11-09",
    "username": "AATK_VanguardX"
   },
   "abcbot": {
@@ -97,7 +97,7 @@
   },
   "alarm2001": {
    "first_seen": "2026-10-01",
-   "last_online": "2026-11-07",
+   "last_online": "2026-11-09",
    "username": "Alarm2001"
   },
   "alehkine_cat": {
@@ -277,7 +277,7 @@
   },
   "ask-aatk-bot": {
    "first_seen": "2026-09-27",
-   "last_online": "2026-11-08",
+   "last_online": "2026-11-09",
    "username": "Ask-AATK-bot"
   },
   "askaig": {
@@ -2412,7 +2412,7 @@
   },
   "leol-bot": {
    "first_seen": "2026-09-27",
-   "last_online": "2026-11-08",
+   "last_online": "2026-11-09",
    "username": "Leol-bot"
   },
   "lepbot": {
@@ -2662,7 +2662,7 @@
   },
   "malanchess": {
    "first_seen": "2026-10-01",
-   "last_online": "2026-10-06",
+   "last_online": "2026-11-09",
    "username": "MalanChess"
   },
   "malpamat": {
@@ -2927,7 +2927,7 @@
   },
   "munzurbot2": {
    "first_seen": "2026-10-30",
-   "last_online": "2026-11-08",
+   "last_online": "2026-11-09",
    "username": "MunzurBOT2"
   },
   "musashi-thebot": {
@@ -3117,7 +3117,7 @@
   },
   "noel-bot": {
    "first_seen": "2026-09-27",
-   "last_online": "2026-11-08",
+   "last_online": "2026-11-09",
    "username": "Noel-bot"
   },
   "nohopeforman": {
@@ -4252,7 +4252,7 @@
   },
   "studyloversz-bot": {
    "first_seen": "2026-09-27",
-   "last_online": "2026-11-08",
+   "last_online": "2026-11-09",
    "username": "Studyloversz-bot"
   },
   "stupidchessrobot": {
@@ -4962,14 +4962,16 @@
   }
  },
  "online": {
-  "checked_at": "2026-11-09T01:43:10Z",
+  "checked_at": "2026-11-09T02:43:10Z",
   "ids": [
+   "aatk_vanguardx",
    "abcd_engine",
    "aconcaguabot",
    "aetherbot",
    "aggressivestockfish",
    "ai-con",
    "ailedbot",
+   "alarm2001",
    "aleph_engine",
    "alexandrya",
    "aliceshiro",
@@ -4986,8 +4988,8 @@
    "arkiplayschess",
    "arroccobot",
    "artidigm_research",
+   "ask-aatk-bot",
    "athena-chessbot",
-   "attackerbotpython",
    "axiom_bot",
    "banerot",
    "bbc_bot",
@@ -5145,6 +5147,7 @@
    "leelarookodds",
    "leelatroll",
    "leelonardo",
+   "leol-bot",
    "levymaia",
    "likeawizard-bot",
    "lilitbot",
@@ -5174,6 +5177,7 @@
    "maia960-1900",
    "maia9_10n",
    "maia9_30n",
+   "malanchess",
    "martuni",
    "mate-in-forty",
    "mate-in-thirty",
@@ -5196,6 +5200,7 @@
    "mostlyhuman1900",
    "moteur441",
    "mrtonnerre",
+   "munzurbot2",
    "mychessjava",
    "nanozeroorg",
    "ndr1sn",
@@ -5211,6 +5216,7 @@
    "nittedal",
    "nnueandthevoices",
    "noabot",
+   "noel-bot",
    "nohopeforman",
    "noksiy",
    "notropis",
@@ -5296,11 +5302,11 @@
    "stargazerengine",
    "stepbot_chess",
    "stickshark99",
-   "stockcotsfish",
    "stockfishlowdepth",
    "stockpapagei",
    "streamervschat",
    "stronggoliath",
+   "studyloversz-bot",
    "stupidfishbotbydscs",
    "sunfish-engine",
    "sunfish-nnue-engine",
