@@ -717,7 +717,7 @@
   },
   "caissa-x": {
    "first_seen": "2026-09-29",
-   "last_online": "2026-11-09",
+   "last_online": "2026-11-10",
    "username": "caissa-x"
   },
   "calciumengine": {
@@ -1147,7 +1147,7 @@
   },
   "cruelken": {
    "first_seen": "2026-10-01",
-   "last_online": "2026-11-03",
+   "last_online": "2026-11-10",
    "username": "CruelKen"
   },
   "crustik-bot": {
@@ -3552,7 +3552,7 @@
   },
   "protyv2": {
    "first_seen": "2026-10-31",
-   "last_online": "2026-11-08",
+   "last_online": "2026-11-10",
    "username": "ProtyV2"
   },
   "pruningbot": {
@@ -4647,7 +4647,7 @@
   },
   "trrchessbot": {
    "first_seen": "2026-11-08",
-   "last_online": "2026-11-09",
+   "last_online": "2026-11-10",
    "username": "TrrChessBot"
   },
   "trusia12345678": {
@@ -5052,7 +5052,7 @@
   }
  },
  "online": {
-  "checked_at": "2026-11-10T08:43:13Z",
+  "checked_at": "2026-11-10T09:43:11Z",
   "ids": [
    "abcd_engine",
    "aconcaguabot",
@@ -5079,6 +5079,7 @@
    "ballin-bot",
    "banerot",
    "bbc_bot",
+   "belzedarian",
    "berkbot",
    "bernstein-2ply",
    "bernstein-4ply",
@@ -5087,7 +5088,6 @@
    "bluemoonbot",
    "blujay-bot",
    "blundeel67",
-   "blunder-engine",
    "bobby_pcolla",
    "bongaclang",
    "bot5551",
@@ -5099,6 +5099,7 @@
    "bytefish",
    "c-t-r-l",
    "caiporabot",
+   "caissa-x",
    "carmin-bot",
    "casanchess-nnue",
    "cassidychess-bot",
@@ -5129,6 +5130,7 @@
    "croco_bot",
    "croco_little_bot",
    "crocodile_bot",
+   "cruelken",
    "dala-1100",
    "dala-1300",
    "dala-1600",
@@ -5192,6 +5194,7 @@
    "incipit_bot",
    "is_boss",
    "iskelt-corax",
+   "jamchess_app",
    "jangine",
    "jibbby",
    "jimmy_inc3710",
@@ -5280,13 +5283,12 @@
    "mostlyhuman1900",
    "moteur441",
    "mrtonnerre",
-   "munzurbot2",
    "musashi-thebot",
    "mychessjava",
    "nanozeroorg",
    "ndr1sn",
+   "neryba",
    "neurosocute",
-   "newtsbot",
    "nexastrat",
    "next_uzbek",
    "nibbleknight",
@@ -5297,6 +5299,7 @@
    "nittedal",
    "nnueandthevoices",
    "noabot",
+   "noksiy",
    "notropis",
    "o-rei-cx",
    "odonata-bot",
@@ -5324,7 +5327,6 @@
    "piglet_engine",
    "pirates1",
    "pirates2",
-   "piratesrust",
    "playmarius",
    "plumboi",
    "plumbot",
@@ -5332,6 +5334,7 @@
    "princhess_policy_bot",
    "prokopakop",
    "prosperobot",
+   "protyv2",
    "psion-chess",
    "puisne",
    "pzchessbot",
@@ -5349,12 +5352,14 @@
    "remychessengine",
    "resolutebot",
    "ribfish-bot",
+   "robodoxadrez",
    "rubyai",
    "rudim-bot",
    "rust-in-pieces",
    "rust-in-pieces-nnue",
    "ryu-ishigori",
    "sapling-bot",
+   "sardinebot",
    "sargon-1ply",
    "sargon-3ply",
    "sbnovella",
@@ -5410,6 +5415,7 @@
    "trenerhetman",
    "trinculobot",
    "troutbot",
+   "trrchessbot",
    "tucuengine",
    "turk_gambit",
    "turkjs",
