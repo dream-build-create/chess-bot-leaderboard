@@ -17,7 +17,7 @@
   },
   "aatk_vanguardx": {
    "first_seen": "2026-09-27",
-   "last_online": "2026-11-09",
+   "last_online": "2026-11-10",
    "username": "AATK_VanguardX"
   },
   "abcbot": {
@@ -282,7 +282,7 @@
   },
   "ask-aatk-bot": {
    "first_seen": "2026-09-27",
-   "last_online": "2026-11-09",
+   "last_online": "2026-11-10",
    "username": "Ask-AATK-bot"
   },
   "askaig": {
@@ -1787,7 +1787,7 @@
   },
   "grand-master-bot": {
    "first_seen": "2026-11-03",
-   "last_online": "2026-11-08",
+   "last_online": "2026-11-10",
    "username": "Grand-Master-Bot"
   },
   "grapechessengine": {
@@ -2482,7 +2482,7 @@
   },
   "leol-bot": {
    "first_seen": "2026-09-27",
-   "last_online": "2026-11-09",
+   "last_online": "2026-11-10",
    "username": "Leol-bot"
   },
   "lepbot": {
@@ -3202,7 +3202,7 @@
   },
   "noel-bot": {
    "first_seen": "2026-09-27",
-   "last_online": "2026-11-09",
+   "last_online": "2026-11-10",
    "username": "Noel-bot"
   },
   "nohopeforman": {
@@ -4352,7 +4352,7 @@
   },
   "studyloversz-bot": {
    "first_seen": "2026-09-27",
-   "last_online": "2026-11-09",
+   "last_online": "2026-11-10",
    "username": "Studyloversz-bot"
   },
   "stupidchessrobot": {
@@ -4842,7 +4842,7 @@
   },
   "viviblitzfr": {
    "first_seen": "2026-10-28",
-   "last_online": "2026-11-07",
+   "last_online": "2026-11-10",
    "username": "viviblitzFR"
   },
   "void_bot": {
@@ -5072,16 +5072,18 @@
   }
  },
  "online": {
-  "checked_at": "2026-11-10T16:43:11Z",
+  "checked_at": "2026-11-10T17:43:09Z",
   "ids": [
    "a-elo",
    "aaronsengine",
+   "aatk_vanguardx",
    "abcd_engine",
    "aconcaguabot",
    "aetherbot",
    "aggressivestockfish",
    "ai-con",
    "ailedbot",
+   "alarm2001",
    "alexandrya",
    "aliceshiro",
    "alieknek",
@@ -5095,6 +5097,7 @@
    "arasanx",
    "arkiplayschess",
    "artidigm_research",
+   "ask-aatk-bot",
    "athena-chessbot",
    "axiom_bot",
    "ballin-bot",
@@ -5106,7 +5109,6 @@
    "bernstein-4ply",
    "bfiedler-bot",
    "bitbitbot",
-   "black-bishop-kh",
    "bluemoonbot",
    "blujay-bot",
    "blundeel67",
@@ -5129,7 +5131,6 @@
    "catnail",
    "catriever",
    "charibot",
-   "chess3bot",
    "chessgeniusbot",
    "chessiverse_ethan",
    "chessiverse_luc",
@@ -5173,6 +5174,7 @@
    "dumbotai",
    "edwardkillick",
    "eigenmann-chess",
+   "elachessbot",
    "elmichess",
    "entebot",
    "fairytailregimebot",
@@ -5193,8 +5195,8 @@
    "funfishbot",
    "gaiachessengine",
    "galaxy-stellar-bot",
+   "gambitonlybot",
    "garbobot",
-   "georgii_ai",
    "geotsibot",
    "glorbo_evermorrow",
    "gnu4u",
@@ -5202,6 +5204,7 @@
    "goldfish-engine",
    "goopis",
    "grail-bot",
+   "grand-master-bot",
    "grindfish",
    "gryndor",
    "halcyonbot",
@@ -5216,10 +5219,10 @@
    "ilerdabot",
    "ilovecatgirl",
    "incipit_bot",
+   "ironfang",
    "is_boss",
    "iskelt-corax",
    "jangine",
-   "jaxakos13_bot",
    "jibbby",
    "jimmy_inc3710",
    "jjugle",
@@ -5259,6 +5262,7 @@
    "leelatroll",
    "leelonardo",
    "legotechniccontrolpl",
+   "leol-bot",
    "levymaia",
    "likeawizard-bot",
    "lilitbot",
@@ -5266,7 +5270,6 @@
    "littlepatricia",
    "littleply",
    "lukebot",
-   "lumac0",
    "lynx_bot",
    "mac-bot",
    "madeincyprus",
@@ -5317,6 +5320,8 @@
    "musashi-thebot",
    "mychessjava",
    "nanozeroorg",
+   "ndr1sn",
+   "neryba",
    "neurosocute",
    "nexastrat",
    "next_uzbek",
@@ -5328,6 +5333,8 @@
    "nittedal",
    "nnueandthevoices",
    "noabot",
+   "noel-bot",
+   "noksiy",
    "notropis",
    "o-rei-cx",
    "odonata-bot",
@@ -5335,6 +5342,7 @@
    "onezenpanda",
    "openingsbot",
    "oxide-eg",
+   "oxybullet",
    "pangubot",
    "panic-fish",
    "partner3615diago",
@@ -5380,7 +5388,6 @@
    "remychessengine",
    "resolutebot",
    "ribfish-bot",
-   "robodoxadrez",
    "rubyai",
    "rudim-bot",
    "rust-in-pieces",
@@ -5412,7 +5419,6 @@
    "slowmate_bot",
    "smartysprout",
    "solobot",
-   "soulgar",
    "sparkchessengine",
    "springerbot",
    "squarefish-900",
@@ -5425,6 +5431,7 @@
    "stockpapagei",
    "streamervschat",
    "stronggoliath",
+   "studyloversz-bot",
    "stupidfishbotbydscs",
    "sunfish-engine",
    "sunfish-nnue-engine",
@@ -5434,6 +5441,8 @@
    "sykorabot",
    "talosbot",
    "tempocore",
+   "tente-v2",
+   "tente8x",
    "territorybot",
    "thevariantsnormalbot",
    "throrbjorn",
@@ -5468,12 +5477,12 @@
    "vic98lg",
    "vicentlittle",
    "vietnamesecoffee",
+   "viviblitzfr",
    "void_bot",
    "vortex_bot",
    "vortexaurafarm",
    "waldemar-the-elf",
    "walpurti",
-   "wannalearnbot",
    "wedge_engine",
    "weiawaga",
    "worstfish",
