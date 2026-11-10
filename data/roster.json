@@ -77,7 +77,7 @@
   },
   "ahmedzhanov": {
    "first_seen": "2026-11-06",
-   "last_online": "2026-11-09",
+   "last_online": "2026-11-10",
    "username": "ahmedzhanov"
   },
   "ai-con": {
@@ -102,7 +102,7 @@
   },
   "alarm2001": {
    "first_seen": "2026-10-01",
-   "last_online": "2026-11-09",
+   "last_online": "2026-11-10",
    "username": "Alarm2001"
   },
   "alehkine_cat": {
@@ -1692,7 +1692,7 @@
   },
   "georgii_ai": {
    "first_seen": "2026-09-28",
-   "last_online": "2026-11-09",
+   "last_online": "2026-11-10",
    "username": "georgii_ai"
   },
   "geotsibot": {
@@ -2442,7 +2442,7 @@
   },
   "legotechniccontrolpl": {
    "first_seen": "2026-11-09",
-   "last_online": "2026-11-09",
+   "last_online": "2026-11-10",
    "username": "LegoTechnicControlPl"
   },
   "lemonjuice10": {
@@ -2972,7 +2972,7 @@
   },
   "mrdeepseekgpt": {
    "first_seen": "2026-11-09",
-   "last_online": "2026-11-09",
+   "last_online": "2026-11-10",
    "username": "MrDeepSeekGPT"
   },
   "mrtonnerre": {
@@ -3157,7 +3157,7 @@
   },
   "nnueandthevoices": {
    "first_seen": "2026-10-14",
-   "last_online": "2026-11-09",
+   "last_online": "2026-11-10",
    "username": "NNUEandTheVoices"
   },
   "noabot": {
@@ -3392,7 +3392,7 @@
   },
   "picosargon": {
    "first_seen": "2026-10-24",
-   "last_online": "2026-11-09",
+   "last_online": "2026-11-10",
    "username": "picoSargon"
   },
   "piebot": {
@@ -4512,7 +4512,7 @@
   },
   "thevariantsnormalbot": {
    "first_seen": "2026-11-06",
-   "last_online": "2026-11-09",
+   "last_online": "2026-11-10",
    "username": "ThEvArIaNtSnOrMaLbOt"
   },
   "thomengine": {
@@ -4542,7 +4542,7 @@
   },
   "tikifish": {
    "first_seen": "2026-09-27",
-   "last_online": "2026-11-09",
+   "last_online": "2026-11-10",
    "username": "TikiFish"
   },
   "tilapiabot": {
@@ -4817,7 +4817,7 @@
   },
   "void_bot": {
    "first_seen": "2026-09-29",
-   "last_online": "2026-11-09",
+   "last_online": "2026-11-10",
    "username": "Void_Bot"
   },
   "voidbotv2": {
@@ -5017,7 +5017,7 @@
   },
   "zipfile_chess-bot": {
    "first_seen": "2026-11-09",
-   "last_online": "2026-11-09",
+   "last_online": "2026-11-10",
    "username": "zipfile_chess-bot"
   },
   "zobristhaescher": {
@@ -5042,14 +5042,16 @@
   }
  },
  "online": {
-  "checked_at": "2026-11-10T00:43:11Z",
+  "checked_at": "2026-11-10T01:43:10Z",
   "ids": [
    "abcd_engine",
    "aconcaguabot",
    "aetherbot",
    "aggressivestockfish",
+   "ahmedzhanov",
    "ai-con",
    "ailedbot",
+   "alarm2001",
    "aleph_engine",
    "alexandrya",
    "aliceshiro",
@@ -5064,7 +5066,6 @@
    "arasanx",
    "arkiplayschess",
    "artidigm_research",
-   "ashasevidence",
    "athena-chessbot",
    "axiom_bot",
    "ballin-bot",
@@ -5099,7 +5100,6 @@
    "catriever",
    "charibot",
    "chess3bot",
-   "chessgeniusbot",
    "chessiverse_ethan",
    "chessiverse_luc",
    "chessiverse_pawnza",
@@ -5142,7 +5142,6 @@
    "edwardkillick",
    "eigenmann-chess",
    "elachessbot",
-   "elexunix_chess_bot",
    "elmichess",
    "endspiel-engine",
    "entebot",
@@ -5163,6 +5162,7 @@
    "funfishbot",
    "gambitonlybot",
    "garbobot",
+   "georgii_ai",
    "geotsibot",
    "glorbo_evermorrow",
    "gnu4u",
@@ -5220,6 +5220,7 @@
    "leelarookodds",
    "leelatroll",
    "leelonardo",
+   "legotechniccontrolpl",
    "levymaia",
    "likeawizard-bot",
    "lilitbot",
@@ -5257,7 +5258,6 @@
    "mate-in-twenty",
    "mate1-bot",
    "matmoi",
-   "maximaengine",
    "maybyen",
    "mayflyengine",
    "mcdonalds1955",
@@ -5273,6 +5273,7 @@
    "morabandbot",
    "mostlyhuman1900",
    "moteur441",
+   "mrdeepseekgpt",
    "mrtonnerre",
    "mychessjava",
    "nanozeroorg",
@@ -5287,6 +5288,7 @@
    "nickdrohan",
    "nilatacbot",
    "nittedal",
+   "nnueandthevoices",
    "noabot",
    "noksiy",
    "notropis",
@@ -5311,6 +5313,7 @@
    "perl-gigachess",
    "philidor-142m",
    "pi0w",
+   "picosargon",
    "piebot",
    "pierreai",
    "piglet_engine",
@@ -5374,13 +5377,11 @@
    "stargazerengine",
    "stepbot_chess",
    "stickshark99",
-   "stockcotsfish",
    "stockfishlowdepth",
    "stockpapagei",
    "streamervschat",
    "stronggoliath",
    "stupidfishbotbydscs",
-   "styx-chess",
    "sunfish-engine",
    "sunfish-nnue-engine",
    "sxphia",
@@ -5393,9 +5394,11 @@
    "tente-v2",
    "tente8x",
    "territorybot",
+   "thevariantsnormalbot",
    "throrbjorn",
    "thunfisch-bot",
    "tigrament",
+   "tikifish",
    "tilapiabot",
    "to299d",
    "togaii",
@@ -5425,6 +5428,7 @@
    "vic98lg",
    "vicentlittle",
    "vietnamesecoffee",
+   "void_bot",
    "vortex_bot",
    "vortexaurafarm",
    "waldemar-the-elf",
@@ -5432,7 +5436,8 @@
    "weiawaga",
    "worstfish",
    "z-o_aspenlabs",
-   "zion-bot"
+   "zion-bot",
+   "zipfile_chess-bot"
   ]
  },
  "schema_version": 1
