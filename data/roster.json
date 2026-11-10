@@ -7,7 +7,7 @@
   },
   "aaronsengine": {
    "first_seen": "2026-09-27",
-   "last_online": "2026-11-09",
+   "last_online": "2026-11-10",
    "username": "AaronsEngine"
   },
   "aathena101": {
@@ -462,7 +462,7 @@
   },
   "bit-fish8": {
    "first_seen": "2026-11-01",
-   "last_online": "2026-11-07",
+   "last_online": "2026-11-10",
    "username": "Bit-Fish8"
   },
   "bitbitbot": {
@@ -472,7 +472,7 @@
   },
   "black-bishop-kh": {
    "first_seen": "2026-09-28",
-   "last_online": "2026-11-09",
+   "last_online": "2026-11-10",
    "username": "Black-Bishop-Kh"
   },
   "black-icebot": {
@@ -1612,7 +1612,7 @@
   },
   "forktellbot": {
    "first_seen": "2026-10-31",
-   "last_online": "2026-11-07",
+   "last_online": "2026-11-10",
    "username": "ForktellBot"
   },
   "fornax-engine": {
@@ -2980,6 +2980,11 @@
    "last_online": "2026-10-05",
    "username": "Mr_Sandbar"
   },
+  "mrbeaubeauthebot": {
+   "first_seen": "2026-11-10",
+   "last_online": "2026-11-10",
+   "username": "MrBeauBeauTheBot"
+  },
   "mrdeepseekgpt": {
    "first_seen": "2026-11-09",
    "last_online": "2026-11-10",
@@ -3617,7 +3622,7 @@
   },
   "r0bspierre": {
    "first_seen": "2026-09-27",
-   "last_online": "2026-10-01",
+   "last_online": "2026-11-10",
    "username": "R0bspierre"
   },
   "rachl1": {
@@ -4882,7 +4887,7 @@
   },
   "wannalearnbot": {
    "first_seen": "2026-09-27",
-   "last_online": "2026-11-07",
+   "last_online": "2026-11-10",
    "username": "wannalearnbot"
   },
   "wardnbot": {
@@ -5052,12 +5057,12 @@
   }
  },
  "online": {
-  "checked_at": "2026-11-10T09:43:11Z",
+  "checked_at": "2026-11-10T10:43:14Z",
   "ids": [
+   "aaronsengine",
    "abcd_engine",
    "aconcaguabot",
    "aetherbot",
-   "aggressivestockfish",
    "ai-con",
    "ailedbot",
    "alarm2001",
@@ -5084,10 +5089,13 @@
    "bernstein-2ply",
    "bernstein-4ply",
    "bfiedler-bot",
+   "bit-fish8",
    "bitbitbot",
+   "black-bishop-kh",
    "bluemoonbot",
    "blujay-bot",
    "blundeel67",
+   "blunder-engine",
    "bobby_pcolla",
    "bongaclang",
    "bot5551",
@@ -5097,7 +5105,6 @@
    "bretemabot",
    "bubblebot2",
    "bytefish",
-   "c-t-r-l",
    "caiporabot",
    "caissa-x",
    "carmin-bot",
@@ -5130,7 +5137,6 @@
    "croco_bot",
    "croco_little_bot",
    "crocodile_bot",
-   "cruelken",
    "dala-1100",
    "dala-1300",
    "dala-1600",
@@ -5138,7 +5144,6 @@
    "dala-700",
    "dala-900",
    "darkelectronbot",
-   "darkonbot",
    "darkonweakbot",
    "debzero",
    "deepbecky",
@@ -5154,7 +5159,6 @@
    "eigenmann-chess",
    "elachessbot",
    "elmichess",
-   "endspiel-engine",
    "entebot",
    "falconengine",
    "fathzer-jchess",
@@ -5165,6 +5169,7 @@
    "fivejoyouspandas",
    "flounderbot",
    "flower-queen",
+   "forktellbot",
    "fourcuriouspandas",
    "fpga-chess",
    "fschess-engine",
@@ -5235,7 +5240,6 @@
    "lilitbot",
    "little-0",
    "littlepatricia",
-   "littleply",
    "lukebot",
    "lunaenginechess",
    "lynx_bot",
@@ -5256,8 +5260,6 @@
    "maia3-79m_800",
    "maia5",
    "maia9",
-   "maia960-1600",
-   "maia960-1900",
    "maia9_10n",
    "maia9_30n",
    "malanchess",
@@ -5269,7 +5271,6 @@
    "matmoi",
    "maybyen",
    "mayflyengine",
-   "mcdonalds1955",
    "mdbot",
    "mega-noob-bot",
    "melsh_bot",
@@ -5282,6 +5283,7 @@
    "morabandbot",
    "mostlyhuman1900",
    "moteur441",
+   "mrbeaubeauthebot",
    "mrtonnerre",
    "musashi-thebot",
    "mychessjava",
@@ -5327,6 +5329,7 @@
    "piglet_engine",
    "pirates1",
    "pirates2",
+   "piratesrust",
    "playmarius",
    "plumboi",
    "plumbot",
@@ -5340,6 +5343,7 @@
    "pzchessbot",
    "quirkafleeg-pc",
    "quirkafleeg-zxnext",
+   "r0bspierre",
    "racingkingsbot_1",
    "radianceengine",
    "raspfish",
@@ -5381,11 +5385,13 @@
    "slowmate_bot",
    "smartysprout",
    "solobot",
+   "sparkchessengine",
    "springerbot",
    "squarefish-900",
    "sseh-c",
    "stepbot_chess",
    "stickshark99",
+   "stockcotsfish",
    "stockfishlowdepth",
    "stockpapagei",
    "streamervschat",
@@ -5440,6 +5446,7 @@
    "vortexaurafarm",
    "waldemar-the-elf",
    "walpurti",
+   "wannalearnbot",
    "weiawaga",
    "worstfish",
    "z-o_aspenlabs",
