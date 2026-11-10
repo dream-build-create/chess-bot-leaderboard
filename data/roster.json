@@ -755,6 +755,11 @@
    "last_online": "2026-11-10",
    "username": "Carmin-BOT"
   },
+  "carmin-brilliant": {
+   "first_seen": "2026-11-10",
+   "last_online": "2026-11-10",
+   "username": "Carmin-Brilliant"
+  },
   "casanchess-nnue": {
    "first_seen": "2026-09-27",
    "last_online": "2026-11-10",
@@ -2012,7 +2017,7 @@
   },
   "ironfang": {
    "first_seen": "2026-10-24",
-   "last_online": "2026-11-06",
+   "last_online": "2026-11-10",
    "username": "Ironfang"
   },
   "ironrooks": {
@@ -2487,7 +2492,7 @@
   },
   "lili-ai": {
    "first_seen": "2026-10-22",
-   "last_online": "2026-11-09",
+   "last_online": "2026-11-10",
    "username": "Lili-ai"
   },
   "lilitbot": {
@@ -3012,7 +3017,7 @@
   },
   "my-bot": {
    "first_seen": "2026-10-03",
-   "last_online": "2026-11-09",
+   "last_online": "2026-11-10",
    "username": "MY-BOT"
   },
   "mychessjava": {
@@ -4077,7 +4082,7 @@
   },
   "simplechessengine": {
    "first_seen": "2026-11-04",
-   "last_online": "2026-11-09",
+   "last_online": "2026-11-10",
    "username": "SimpleChessEngine"
   },
   "simplechessnnue": {
@@ -5057,7 +5062,7 @@
   }
  },
  "online": {
-  "checked_at": "2026-11-10T11:43:09Z",
+  "checked_at": "2026-11-10T12:43:10Z",
   "ids": [
    "aaronsengine",
    "abcd_engine",
@@ -5106,9 +5111,9 @@
    "bretemabot",
    "bubblebot2",
    "bytefish",
+   "c-t-r-l",
    "caiporabot",
-   "caissa-x",
-   "carmin-bot",
+   "carmin-brilliant",
    "casanchess-nnue",
    "cassidychess-bot",
    "catnail",
@@ -5145,6 +5150,7 @@
    "dala-700",
    "dala-900",
    "darkelectronbot",
+   "darkonbot",
    "darkonweakbot",
    "debzero",
    "deepbecky",
@@ -5198,6 +5204,7 @@
    "icarus-bot",
    "ilovecatgirl",
    "incipit_bot",
+   "ironfang",
    "is_boss",
    "iskelt-corax",
    "jamchess_app",
@@ -5239,11 +5246,11 @@
    "leelonardo",
    "levymaia",
    "likeawizard-bot",
+   "lili-ai",
    "lilitbot",
    "little-0",
    "littlepatricia",
    "lukebot",
-   "lunaenginechess",
    "lynx_bot",
    "mac-bot",
    "madeincyprus",
@@ -5262,6 +5269,8 @@
    "maia3-79m_800",
    "maia5",
    "maia9",
+   "maia960-1600",
+   "maia960-1900",
    "maia9_10n",
    "maia9_30n",
    "malanchess",
@@ -5273,6 +5282,7 @@
    "matmoi",
    "maybyen",
    "mayflyengine",
+   "mcdonalds1955",
    "mdbot",
    "mega-noob-bot",
    "melsh_bot",
@@ -5288,6 +5298,7 @@
    "mrbeaubeauthebot",
    "mrtonnerre",
    "musashi-thebot",
+   "my-bot",
    "mychessjava",
    "nanozeroorg",
    "ndr1sn",
@@ -5306,7 +5317,6 @@
    "notropis",
    "o-rei-cx",
    "odonata-bot",
-   "olimarianbot",
    "onechessbot",
    "onezenpanda",
    "openingsbot",
@@ -5338,7 +5348,6 @@
    "princhess_policy_bot",
    "prokopakop",
    "prosperobot",
-   "protyv2",
    "psion-chess",
    "puisne",
    "pzchessbot",
@@ -5357,7 +5366,6 @@
    "remychessengine",
    "resolutebot",
    "ribfish-bot",
-   "robodoxadrez",
    "rubyai",
    "rudim-bot",
    "rust-in-pieces",
@@ -5379,6 +5387,7 @@
    "shrevenbot",
    "silasly",
    "sim3million",
+   "simplechessengine",
    "simpleeval",
    "sj_norbot",
    "slate-engine",
@@ -5408,7 +5417,6 @@
    "talosbot",
    "tempocore",
    "tente-v2",
-   "tente8x",
    "territorybot",
    "thevariantsnormalbot",
    "thunfisch-bot",
@@ -5416,7 +5424,6 @@
    "tilapiabot",
    "to299d",
    "togaii",
-   "tonyengine",
    "topasbot",
    "trainer-bot",
    "trenerhetman",
@@ -5447,7 +5454,6 @@
    "vortexaurafarm",
    "waldemar-the-elf",
    "walpurti",
-   "wannalearnbot",
    "weiawaga",
    "worstfish",
    "z-o_aspenlabs",
