@@ -957,7 +957,7 @@
   },
   "chesstransformerbot": {
    "first_seen": "2026-10-08",
-   "last_online": "2026-11-09",
+   "last_online": "2026-11-10",
    "username": "ChessTransformerBot"
   },
   "cheszter": {
@@ -3717,7 +3717,7 @@
   },
   "refutemygambit": {
    "first_seen": "2026-11-09",
-   "last_online": "2026-11-09",
+   "last_online": "2026-11-10",
    "username": "RefuteMyGambit"
   },
   "registerpythonspeed": {
@@ -5047,12 +5047,13 @@
   }
  },
  "online": {
-  "checked_at": "2026-11-10T06:43:11Z",
+  "checked_at": "2026-11-10T07:42:53Z",
   "ids": [
    "abcd_engine",
    "aconcaguabot",
    "aetherbot",
    "aggressivestockfish",
+   "ahmedzhanov",
    "ai-con",
    "ailedbot",
    "alarm2001",
@@ -5107,6 +5108,7 @@
    "chessiverse_pawnza",
    "chessiverse_raak",
    "chesstango_bot",
+   "chesstransformerbot",
    "cheszter",
    "chill4ce",
    "chiral_ebt",
@@ -5156,7 +5158,6 @@
    "fetacompli",
    "fivejoyouspandas",
    "flounderbot",
-   "flower-queen",
    "fourcuriouspandas",
    "fpga-chess",
    "fschess-engine",
@@ -5219,7 +5220,6 @@
    "leelarookodds",
    "leelatroll",
    "leelonardo",
-   "legotechniccontrolpl",
    "levymaia",
    "likeawizard-bot",
    "lilitbot",
@@ -5272,7 +5272,6 @@
    "morabandbot",
    "mostlyhuman1900",
    "moteur441",
-   "mrdeepseekgpt",
    "mrtonnerre",
    "musashi-thebot",
    "mychessjava",
@@ -5307,7 +5306,6 @@
    "pawnopenings",
    "peacemaker-0_0",
    "peachfruit",
-   "perl-gigachess",
    "philidor-142m",
    "pi0w",
    "picosargon",
@@ -5334,6 +5332,7 @@
    "ravenengine",
    "ray-bot",
    "rdtchessbot",
+   "refutemygambit",
    "remychessengine",
    "resolutebot",
    "ribfish-bot",
@@ -5345,7 +5344,6 @@
    "rust-in-pieces-nnue",
    "ryu-ishigori",
    "sapling-bot",
-   "sardinebot",
    "sargon-1ply",
    "sargon-3ply",
    "sbnovella",
@@ -5379,6 +5377,7 @@
    "streamervschat",
    "stronggoliath",
    "stupidfishbotbydscs",
+   "styx-chess",
    "sunfish-engine",
    "sunfish-nnue-engine",
    "sxphia",
@@ -5391,10 +5390,9 @@
    "tente-v2",
    "tente8x",
    "territorybot",
-   "throrbjorn",
+   "thevariantsnormalbot",
    "thunfisch-bot",
    "tigrament",
-   "tikifish",
    "tilapiabot",
    "to299d",
    "togaii",
@@ -5424,16 +5422,15 @@
    "vic98lg",
    "vicentlittle",
    "vietnamesecoffee",
-   "void_bot",
    "vortex_bot",
    "vortexaurafarm",
    "waldemar-the-elf",
    "walpurti",
+   "wedge_engine",
    "weiawaga",
    "worstfish",
    "z-o_aspenlabs",
-   "zion-bot",
-   "zipfile_chess-bot"
+   "zion-bot"
   ]
  },
  "schema_version": 1
