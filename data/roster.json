@@ -517,7 +517,7 @@
   },
   "blunder-engine": {
    "first_seen": "2026-11-08",
-   "last_online": "2026-11-09",
+   "last_online": "2026-11-10",
    "username": "Blunder-Engine"
   },
   "bobby_pcolla": {
@@ -1120,6 +1120,11 @@
    "last_online": "2026-10-04",
    "username": "crapBot"
   },
+  "crazyfishbot": {
+   "first_seen": "2026-11-10",
+   "last_online": "2026-11-10",
+   "username": "CrazyFishBot"
+  },
   "creaticachessbot": {
    "first_seen": "2026-09-29",
    "last_online": "2026-11-03",
@@ -1662,7 +1667,7 @@
   },
   "galaxy-stellar-bot": {
    "first_seen": "2026-10-22",
-   "last_online": "2026-11-09",
+   "last_online": "2026-11-10",
    "username": "Galaxy-Stellar-Bot"
   },
   "gambitonlybot": {
@@ -1732,7 +1737,7 @@
   },
   "goats-of-bots": {
    "first_seen": "2026-11-07",
-   "last_online": "2026-11-09",
+   "last_online": "2026-11-10",
    "username": "Goats-Of-Bots"
   },
   "goblinajedrezai": {
@@ -3092,7 +3097,7 @@
   },
   "newtsbot": {
    "first_seen": "2026-09-27",
-   "last_online": "2026-11-05",
+   "last_online": "2026-11-10",
    "username": "NEWTSbot"
   },
   "nexastrat": {
@@ -3422,17 +3427,17 @@
   },
   "pirates1": {
    "first_seen": "2026-10-01",
-   "last_online": "2026-11-09",
+   "last_online": "2026-11-10",
    "username": "pirates1"
   },
   "pirates2": {
    "first_seen": "2026-09-30",
-   "last_online": "2026-11-09",
+   "last_online": "2026-11-10",
    "username": "Pirates2"
   },
   "piratesrust": {
    "first_seen": "2026-10-01",
-   "last_online": "2026-11-09",
+   "last_online": "2026-11-10",
    "username": "PiratesRust"
   },
   "pixiegaming": {
@@ -5047,13 +5052,12 @@
   }
  },
  "online": {
-  "checked_at": "2026-11-10T07:43:10Z",
+  "checked_at": "2026-11-10T08:43:13Z",
   "ids": [
    "abcd_engine",
    "aconcaguabot",
    "aetherbot",
    "aggressivestockfish",
-   "ahmedzhanov",
    "ai-con",
    "ailedbot",
    "alarm2001",
@@ -5083,6 +5087,7 @@
    "bluemoonbot",
    "blujay-bot",
    "blundeel67",
+   "blunder-engine",
    "bobby_pcolla",
    "bongaclang",
    "bot5551",
@@ -5090,7 +5095,6 @@
    "bot_adario",
    "bottios",
    "bretemabot",
-   "brettcomputer",
    "bubblebot2",
    "bytefish",
    "c-t-r-l",
@@ -5121,6 +5125,7 @@
    "confidencebuilder",
    "cookiebot711",
    "craftyuci",
+   "crazyfishbot",
    "croco_bot",
    "croco_little_bot",
    "crocodile_bot",
@@ -5146,7 +5151,6 @@
    "edwardkillick",
    "eigenmann-chess",
    "elachessbot",
-   "elexunix_chess_bot",
    "elmichess",
    "endspiel-engine",
    "entebot",
@@ -5158,16 +5162,19 @@
    "fetacompli",
    "fivejoyouspandas",
    "flounderbot",
+   "flower-queen",
    "fourcuriouspandas",
    "fpga-chess",
    "fschess-engine",
    "funcomp",
    "funfishbot",
+   "galaxy-stellar-bot",
    "garbobot",
    "georgii_ai",
    "geotsibot",
    "glorbo_evermorrow",
    "gnu4u",
+   "goats-of-bots",
    "goldfish-engine",
    "goopis",
    "grail-bot",
@@ -5273,11 +5280,13 @@
    "mostlyhuman1900",
    "moteur441",
    "mrtonnerre",
+   "munzurbot2",
    "musashi-thebot",
    "mychessjava",
    "nanozeroorg",
    "ndr1sn",
    "neurosocute",
+   "newtsbot",
    "nexastrat",
    "next_uzbek",
    "nibbleknight",
@@ -5306,12 +5315,16 @@
    "pawnopenings",
    "peacemaker-0_0",
    "peachfruit",
+   "perl-gigachess",
    "philidor-142m",
    "pi0w",
    "picosargon",
    "piebot",
    "pierreai",
    "piglet_engine",
+   "pirates1",
+   "pirates2",
+   "piratesrust",
    "playmarius",
    "plumboi",
    "plumbot",
@@ -5336,8 +5349,6 @@
    "remychessengine",
    "resolutebot",
    "ribfish-bot",
-   "robodoxadrez",
-   "rodent-iv",
    "rubyai",
    "rudim-bot",
    "rust-in-pieces",
@@ -5365,19 +5376,16 @@
    "slowmate_bot",
    "smartysprout",
    "solobot",
-   "sparkchessengine",
    "springerbot",
    "squarefish-900",
    "sseh-c",
    "stepbot_chess",
    "stickshark99",
-   "stockcotsfish",
    "stockfishlowdepth",
    "stockpapagei",
    "streamervschat",
    "stronggoliath",
    "stupidfishbotbydscs",
-   "styx-chess",
    "sunfish-engine",
    "sunfish-nnue-engine",
    "sxphia",
@@ -5426,7 +5434,6 @@
    "vortexaurafarm",
    "waldemar-the-elf",
    "walpurti",
-   "wedge_engine",
    "weiawaga",
    "worstfish",
    "z-o_aspenlabs",
