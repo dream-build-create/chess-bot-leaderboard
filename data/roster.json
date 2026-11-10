@@ -1985,6 +1985,11 @@
    "last_online": "2026-10-22",
    "username": "IlCorvoChess"
   },
+  "ilerdabot": {
+   "first_seen": "2026-11-10",
+   "last_online": "2026-11-10",
+   "username": "IlerdaBot"
+  },
   "ilovecatgirl": {
    "first_seen": "2026-09-27",
    "last_online": "2026-11-10",
@@ -2072,7 +2077,7 @@
   },
   "jaxakos13_bot": {
    "first_seen": "2026-10-22",
-   "last_online": "2026-11-09",
+   "last_online": "2026-11-10",
    "username": "Jaxakos13_bot"
   },
   "jaxman_n": {
@@ -2300,6 +2305,11 @@
    "last_online": "2026-11-10",
    "username": "kolmato"
   },
+  "komodoqueenodds": {
+   "first_seen": "2026-11-10",
+   "last_online": "2026-11-10",
+   "username": "KomodoQueenOdds"
+  },
   "kopyto_dev": {
    "first_seen": "2026-09-27",
    "last_online": "2026-11-10",
@@ -2342,7 +2352,7 @@
   },
   "lantern_bot": {
    "first_seen": "2026-10-15",
-   "last_online": "2026-11-09",
+   "last_online": "2026-11-10",
    "username": "Lantern_BOT"
   },
   "larryz-alterego": {
@@ -4097,7 +4107,7 @@
   },
   "sisyphus-engine": {
    "first_seen": "2026-10-12",
-   "last_online": "2026-11-09",
+   "last_online": "2026-11-10",
    "username": "Sisyphus-engine"
   },
   "sj_norbot": {
@@ -5062,7 +5072,7 @@
   }
  },
  "online": {
-  "checked_at": "2026-11-10T15:43:11Z",
+  "checked_at": "2026-11-10T16:43:11Z",
   "ids": [
    "a-elo",
    "aaronsengine",
@@ -5070,10 +5080,8 @@
    "aconcaguabot",
    "aetherbot",
    "aggressivestockfish",
-   "ahmedzhanov",
    "ai-con",
    "ailedbot",
-   "alarm2001",
    "alexandrya",
    "aliceshiro",
    "alieknek",
@@ -5105,6 +5113,7 @@
    "blunder-engine",
    "bobby_pcolla",
    "bongaclang",
+   "borkatower",
    "bot5551",
    "bot64jaques",
    "bot_adario",
@@ -5119,7 +5128,6 @@
    "cassidychess-bot",
    "catnail",
    "catriever",
-   "ceraf",
    "charibot",
    "chess3bot",
    "chessgeniusbot",
@@ -5165,7 +5173,6 @@
    "dumbotai",
    "edwardkillick",
    "eigenmann-chess",
-   "elachessbot",
    "elmichess",
    "entebot",
    "fairytailregimebot",
@@ -5193,6 +5200,7 @@
    "gnu4u",
    "goats-of-bots",
    "goldfish-engine",
+   "goopis",
    "grail-bot",
    "grindfish",
    "gryndor",
@@ -5205,13 +5213,13 @@
    "hustler_5mb",
    "hyperopic",
    "icarus-bot",
+   "ilerdabot",
    "ilovecatgirl",
    "incipit_bot",
-   "ironfang",
    "is_boss",
    "iskelt-corax",
-   "jamchess_app",
    "jangine",
+   "jaxakos13_bot",
    "jibbby",
    "jimmy_inc3710",
    "jjugle",
@@ -5229,10 +5237,12 @@
    "kestrelstrike",
    "kirinchessbot",
    "kittyenginev5",
+   "komodoqueenodds",
    "kopyto_dev",
    "kulubot",
    "kurganuci",
    "lamprook",
+   "lantern_bot",
    "larryz-alterego",
    "latrunculi-bot",
    "laura-bot",
@@ -5240,6 +5250,7 @@
    "leelaanyodds",
    "leelajester",
    "leelaknightodds",
+   "leelamultiposs",
    "leelapieceodds",
    "leelaqueenforknight",
    "leelaqueenodds",
@@ -5250,10 +5261,10 @@
    "legotechniccontrolpl",
    "levymaia",
    "likeawizard-bot",
-   "lili-ai",
    "lilitbot",
    "little-0",
    "littlepatricia",
+   "littleply",
    "lukebot",
    "lumac0",
    "lynx_bot",
@@ -5369,6 +5380,7 @@
    "remychessengine",
    "resolutebot",
    "ribfish-bot",
+   "robodoxadrez",
    "rubyai",
    "rudim-bot",
    "rust-in-pieces",
@@ -5392,6 +5404,7 @@
    "sim3million",
    "simplechessengine",
    "simpleeval",
+   "sisyphus-engine",
    "sj_norbot",
    "slate-engine",
    "sleepish",
@@ -5400,11 +5413,14 @@
    "smartysprout",
    "solobot",
    "soulgar",
+   "sparkchessengine",
    "springerbot",
    "squarefish-900",
    "sseh-c",
+   "stargazerengine",
    "stepbot_chess",
    "stickshark99",
+   "stockcotsfish",
    "stockfishlowdepth",
    "stockpapagei",
    "streamervschat",
@@ -5418,10 +5434,9 @@
    "sykorabot",
    "talosbot",
    "tempocore",
-   "tente-v2",
-   "tente8x",
    "territorybot",
    "thevariantsnormalbot",
+   "throrbjorn",
    "thunfisch-bot",
    "tigrament",
    "tikifish",
