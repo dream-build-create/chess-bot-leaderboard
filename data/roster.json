@@ -760,6 +760,11 @@
    "last_online": "2026-11-10",
    "username": "Casanchess-NNUE"
   },
+  "cassidychess-bot": {
+   "first_seen": "2026-11-10",
+   "last_online": "2026-11-10",
+   "username": "CassidyChess-Bot"
+  },
   "catalyst-ctrl": {
    "first_seen": "2026-10-28",
    "last_online": "2026-10-28",
@@ -3757,7 +3762,7 @@
   },
   "robodoxadrez": {
    "first_seen": "2026-11-01",
-   "last_online": "2026-11-09",
+   "last_online": "2026-11-10",
    "username": "RoboDoXadrez"
   },
   "robotjfischer": {
@@ -4887,7 +4892,7 @@
   },
   "wedge_engine": {
    "first_seen": "2026-10-22",
-   "last_online": "2026-11-09",
+   "last_online": "2026-11-10",
    "username": "wedge_engine"
   },
   "weeebot": {
@@ -5042,13 +5047,12 @@
   }
  },
  "online": {
-  "checked_at": "2026-11-10T01:43:10Z",
+  "checked_at": "2026-11-10T02:43:10Z",
   "ids": [
    "abcd_engine",
    "aconcaguabot",
    "aetherbot",
    "aggressivestockfish",
-   "ahmedzhanov",
    "ai-con",
    "ailedbot",
    "alarm2001",
@@ -5091,11 +5095,10 @@
    "brettcomputer",
    "bubblebot2",
    "bytefish",
-   "c-t-r-l",
-   "c0kval",
    "caiporabot",
    "carmin-bot",
    "casanchess-nnue",
+   "cassidychess-bot",
    "catnail",
    "catriever",
    "charibot",
@@ -5127,7 +5130,6 @@
    "dala-700",
    "dala-900",
    "darkelectronbot",
-   "darkonbot",
    "darkonweakbot",
    "debzero",
    "deepbecky",
@@ -5142,6 +5144,7 @@
    "edwardkillick",
    "eigenmann-chess",
    "elachessbot",
+   "elexunix_chess_bot",
    "elmichess",
    "endspiel-engine",
    "entebot",
@@ -5162,7 +5165,6 @@
    "funfishbot",
    "gambitonlybot",
    "garbobot",
-   "georgii_ai",
    "geotsibot",
    "glorbo_evermorrow",
    "gnu4u",
@@ -5258,9 +5260,9 @@
    "mate-in-twenty",
    "mate1-bot",
    "matmoi",
+   "maximaengine",
    "maybyen",
    "mayflyengine",
-   "mcdonalds1955",
    "mdbot",
    "mega-noob-bot",
    "melsh_bot",
@@ -5341,6 +5343,7 @@
    "remychessengine",
    "resolutebot",
    "ribfish-bot",
+   "robodoxadrez",
    "rodent-iv",
    "rubyai",
    "rudim-bot",
@@ -5377,6 +5380,7 @@
    "stargazerengine",
    "stepbot_chess",
    "stickshark99",
+   "stockcotsfish",
    "stockfishlowdepth",
    "stockpapagei",
    "streamervschat",
@@ -5433,6 +5437,7 @@
    "vortexaurafarm",
    "waldemar-the-elf",
    "walpurti",
+   "wedge_engine",
    "weiawaga",
    "worstfish",
    "z-o_aspenlabs",
