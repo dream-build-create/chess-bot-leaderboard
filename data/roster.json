@@ -2292,7 +2292,7 @@
   },
   "kolmato": {
    "first_seen": "2026-11-01",
-   "last_online": "2026-11-09",
+   "last_online": "2026-11-10",
    "username": "kolmato"
   },
   "kopyto_dev": {
@@ -4037,7 +4037,7 @@
   },
   "sharpsundae": {
    "first_seen": "2026-09-27",
-   "last_online": "2026-11-04",
+   "last_online": "2026-11-10",
    "username": "sharpSundae"
   },
   "shrevenbot": {
@@ -5057,12 +5057,14 @@
   }
  },
  "online": {
-  "checked_at": "2026-11-10T10:43:14Z",
+  "checked_at": "2026-11-10T11:43:09Z",
   "ids": [
    "aaronsengine",
    "abcd_engine",
    "aconcaguabot",
    "aetherbot",
+   "aggressivestockfish",
+   "ahmedzhanov",
    "ai-con",
    "ailedbot",
    "alarm2001",
@@ -5084,7 +5086,6 @@
    "ballin-bot",
    "banerot",
    "bbc_bot",
-   "belzedarian",
    "berkbot",
    "bernstein-2ply",
    "bernstein-4ply",
@@ -5217,6 +5218,7 @@
    "kbelludoo",
    "kestrelstrike",
    "kirinchessbot",
+   "kolmato",
    "kopyto_dev",
    "kulubot",
    "kurganuci",
@@ -5289,7 +5291,6 @@
    "mychessjava",
    "nanozeroorg",
    "ndr1sn",
-   "neryba",
    "neurosocute",
    "nexastrat",
    "next_uzbek",
@@ -5305,11 +5306,11 @@
    "notropis",
    "o-rei-cx",
    "odonata-bot",
+   "olimarianbot",
    "onechessbot",
    "onezenpanda",
    "openingsbot",
    "oxide-eg",
-   "oxybullet",
    "palebots",
    "pangubot",
    "panic-fish",
@@ -5374,6 +5375,7 @@
    "seitogakatsu",
    "sezgi_bot",
    "shallowredbot",
+   "sharpsundae",
    "shrevenbot",
    "silasly",
    "sim3million",
@@ -5391,7 +5393,6 @@
    "sseh-c",
    "stepbot_chess",
    "stickshark99",
-   "stockcotsfish",
    "stockfishlowdepth",
    "stockpapagei",
    "streamervschat",
