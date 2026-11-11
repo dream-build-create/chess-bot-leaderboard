@@ -7,7 +7,7 @@
   },
   "aaronsengine": {
    "first_seen": "2026-09-27",
-   "last_online": "2026-11-10",
+   "last_online": "2026-11-11",
    "username": "AaronsEngine"
   },
   "aathena101": {
@@ -202,7 +202,7 @@
   },
   "apexchess-bot": {
    "first_seen": "2026-10-31",
-   "last_online": "2026-11-10",
+   "last_online": "2026-11-11",
    "username": "ApexChess-Bot"
   },
   "aposeij": {
@@ -472,7 +472,7 @@
   },
   "black-bishop-kh": {
    "first_seen": "2026-09-28",
-   "last_online": "2026-11-10",
+   "last_online": "2026-11-11",
    "username": "Black-Bishop-Kh"
   },
   "black-icebot": {
@@ -1545,6 +1545,11 @@
    "last_online": "2026-11-11",
    "username": "fathzer-jchess"
   },
+  "fattorini-bot": {
+   "first_seen": "2026-11-11",
+   "last_online": "2026-11-11",
+   "username": "fattorini-bot"
+  },
   "fayefish": {
    "first_seen": "2026-09-28",
    "last_online": "2026-10-16",
@@ -2099,6 +2104,11 @@
    "first_seen": "2026-09-29",
    "last_online": "2026-10-17",
    "username": "JenniferX"
+  },
+  "jester7777": {
+   "first_seen": "2026-11-11",
+   "last_online": "2026-11-11",
+   "username": "jester7777"
   },
   "jesterchessrobot": {
    "first_seen": "2026-09-27",
@@ -3217,7 +3227,7 @@
   },
   "nohopeforman": {
    "first_seen": "2026-10-31",
-   "last_online": "2026-11-09",
+   "last_online": "2026-11-11",
    "username": "NoHopeForMan"
   },
   "noksiy": {
@@ -3947,7 +3957,7 @@
   },
   "sardinebot": {
    "first_seen": "2026-11-06",
-   "last_online": "2026-11-10",
+   "last_online": "2026-11-11",
    "username": "SardineBot"
   },
   "sargon-1ply": {
@@ -5092,8 +5102,9 @@
   }
  },
  "online": {
-  "checked_at": "2026-11-11T09:43:12Z",
+  "checked_at": "2026-11-11T10:43:09Z",
   "ids": [
+   "aaronsengine",
    "abcd_engine",
    "aconcaguabot",
    "aetherbot",
@@ -5110,6 +5121,7 @@
    "anna-bot",
    "annie_archy",
    "antibotv3-7",
+   "apexchess-bot",
    "aposeij",
    "approximationbot",
    "arasanx",
@@ -5119,14 +5131,15 @@
    "axiom_bot",
    "banerot",
    "bbc_bot",
+   "beattheengine",
    "belzedarian",
    "bernstein-2ply",
    "bernstein-4ply",
    "bfiedler-bot",
    "bitbitbot",
+   "black-bishop-kh",
    "bluemoonbot",
    "blujay-bot",
-   "blundeel67",
    "blunder-engine",
    "bongaclang",
    "bot5551",
@@ -5148,7 +5161,6 @@
    "chessiverse_luc",
    "chessiverse_pawnza",
    "chessiverse_raak",
-   "chessnoobcomp",
    "chesstransformerbot",
    "cheszter",
    "chill4ce",
@@ -5190,9 +5202,9 @@
    "elachessbot",
    "elmichess",
    "entebot",
-   "fairytailregimebot",
    "falconengine",
    "fathzer-jchess",
+   "fattorini-bot",
    "felipe_bot_53",
    "fenrirbot",
    "fetacompli",
@@ -5206,14 +5218,15 @@
    "fschess-engine",
    "funcomp",
    "funfishbot",
+   "gaiachessengine",
    "galaxy-stellar-bot",
    "garbobot",
+   "georgii_ai",
    "geotsibot",
    "glorbo_evermorrow",
    "gnu4u",
    "goats-of-bots",
    "goldfish-engine",
-   "goopis",
    "grail-bot",
    "grindfish",
    "gryndor",
@@ -5231,7 +5244,7 @@
    "iskelt-corax",
    "jamchess_app",
    "jangine",
-   "jaxakos13_bot",
+   "jester7777",
    "jibbby",
    "jimmy_inc3710",
    "jjugle",
@@ -5248,7 +5261,6 @@
    "kbelludoo",
    "kestrelstrike",
    "kirinchessbot",
-   "kopyto_dev",
    "kurganuci",
    "lamprook",
    "larryz-alterego",
@@ -5304,6 +5316,7 @@
    "mate1-bot",
    "matmoi",
    "maximaengine",
+   "maybyen",
    "mayflyengine",
    "mcdonalds1955",
    "mdbot",
@@ -5335,6 +5348,7 @@
    "nittedal",
    "nnueandthevoices",
    "noabot",
+   "nohopeforman",
    "noksiy",
    "notropis",
    "o-rei-cx",
@@ -5372,7 +5386,6 @@
    "psion-chess",
    "puisne",
    "pzchessbot",
-   "queensgambot",
    "quirkafleeg-pc",
    "quirkafleeg-zxnext",
    "r0bspierre",
@@ -5387,11 +5400,13 @@
    "remychessengine",
    "resolutebot",
    "ribfish-bot",
+   "rockingsuperstars",
    "rudim-bot",
    "rust-in-pieces",
    "rust-in-pieces-nnue",
    "ryu-ishigori",
    "sapling-bot",
+   "sardinebot",
    "sargon-1ply",
    "sargon-3ply",
    "sbnovella",
@@ -5432,7 +5447,6 @@
    "sybbot",
    "sykorabot",
    "tallikebot",
-   "talosbot",
    "tempocore",
    "tente-v2",
    "tente8x",
