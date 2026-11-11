@@ -302,7 +302,7 @@
   },
   "atomicenginev1": {
    "first_seen": "2026-09-28",
-   "last_online": "2026-10-01",
+   "last_online": "2026-11-11",
    "username": "AtomicEngineV1"
   },
   "attackerbotpython": {
@@ -1872,7 +1872,7 @@
   },
   "hackerchessbot": {
    "first_seen": "2026-09-27",
-   "last_online": "2026-11-08",
+   "last_online": "2026-11-11",
    "username": "HackerChessBot"
   },
   "halcyonbot": {
@@ -3542,7 +3542,7 @@
   },
   "polvo_engine": {
    "first_seen": "2026-11-04",
-   "last_online": "2026-11-08",
+   "last_online": "2026-11-11",
    "username": "Polvo_engine"
   },
   "pomeranian_bot": {
@@ -5132,7 +5132,7 @@
   }
  },
  "online": {
-  "checked_at": "2026-11-11T22:43:10Z",
+  "checked_at": "2026-11-11T23:43:09Z",
   "ids": [
    "abcd_engine",
    "aconcaguabot",
@@ -5156,6 +5156,7 @@
    "arkiplayschess",
    "artidigm_research",
    "athena-chessbot",
+   "atomicenginev1",
    "axiom_bot",
    "banerot",
    "bbc_bot",
@@ -5177,7 +5178,6 @@
    "bretemabot",
    "bubblebot2",
    "bytefish",
-   "c-t-r-l",
    "caiporabot",
    "casanchess-nnue",
    "cassidychess-bot",
@@ -5186,6 +5186,7 @@
    "chamberiajedrez",
    "charibot",
    "chess3bot",
+   "chessgeniusbot",
    "chessiverse_ethan",
    "chessiverse_luc",
    "chessiverse_pawnza",
@@ -5216,9 +5217,9 @@
    "dala-700",
    "dala-900",
    "darkelectronbot",
-   "darkonbot",
    "darkonweakbot",
    "debzero",
+   "deepbecky",
    "deepsquare-ai",
    "demen100ns-bot",
    "devchessplayer-bot",
@@ -5259,6 +5260,7 @@
    "grail-bot",
    "grindfish",
    "gryndor",
+   "hackerchessbot",
    "halcyonbot",
    "hardrok",
    "hiusbot",
@@ -5343,7 +5345,6 @@
    "mate1-bot",
    "matmoi",
    "mayflyengine",
-   "mcdonalds1955",
    "mdbot",
    "mega-noob-bot",
    "melsh_bot",
@@ -5382,7 +5383,6 @@
    "openingsbot",
    "oxide-eg",
    "oxybullet",
-   "palebots",
    "pangubot",
    "panic-fish",
    "partner3615diago",
@@ -5401,6 +5401,7 @@
    "playmarius",
    "plumboi",
    "plumbot",
+   "polvo_engine",
    "premove90-1500",
    "princhess_policy_bot",
    "prokopakop",
@@ -5409,7 +5410,6 @@
    "puisne",
    "pzchessbot",
    "quirkafleeg-pc",
-   "quirkafleeg-zx48k",
    "quirkafleeg-zxnext",
    "r0bspierre",
    "racingkingsbot_1",
@@ -5479,8 +5479,6 @@
    "tente8x",
    "territorybot",
    "thechessblazer",
-   "thevariantsnormalbot",
-   "thomengine",
    "throrbjorn",
    "thunfisch-bot",
    "tigrament",
