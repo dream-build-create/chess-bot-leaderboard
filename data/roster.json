@@ -1372,7 +1372,7 @@
   },
   "drewschessmachine": {
    "first_seen": "2026-09-28",
-   "last_online": "2026-11-10",
+   "last_online": "2026-11-11",
    "username": "DrewsChessMachine"
   },
   "drlemonzzbot": {
@@ -4252,7 +4252,7 @@
   },
   "sparkchessengine": {
    "first_seen": "2026-10-21",
-   "last_online": "2026-11-10",
+   "last_online": "2026-11-11",
    "username": "SparkchessEngine"
   },
   "springerbot": {
@@ -4307,7 +4307,7 @@
   },
   "stockcotsfish": {
    "first_seen": "2026-10-07",
-   "last_online": "2026-11-10",
+   "last_online": "2026-11-11",
    "username": "Stockcotsfish"
   },
   "stockdory": {
@@ -4730,6 +4730,11 @@
    "last_online": "2026-10-31",
    "username": "UltraBrick"
   },
+  "unifiedchess-bot": {
+   "first_seen": "2026-11-11",
+   "last_online": "2026-11-11",
+   "username": "UnifiedChess-Bot"
+  },
   "unimark": {
    "first_seen": "2026-09-27",
    "last_online": "2026-11-11",
@@ -5082,7 +5087,7 @@
   }
  },
  "online": {
-  "checked_at": "2026-11-11T04:43:10Z",
+  "checked_at": "2026-11-11T05:43:10Z",
   "ids": [
    "aatk_vanguardx",
    "abcd_engine",
@@ -5120,7 +5125,6 @@
    "blujay-bot",
    "blundeel67",
    "bongaclang",
-   "borkatower",
    "bot5551",
    "bot64jaques",
    "bot_adario",
@@ -5135,6 +5139,7 @@
    "catnail",
    "catriever",
    "charibot",
+   "chessgeniusbot",
    "chessiverse_ethan",
    "chessiverse_luc",
    "chessiverse_pawnza",
@@ -5174,6 +5179,7 @@
    "disrespect_fish",
    "dravox",
    "drawfish-reborn",
+   "drewschessmachine",
    "duchessai",
    "dumbotai",
    "edwardkillick",
@@ -5208,7 +5214,6 @@
    "grindfish",
    "gryndor",
    "halcyonbot",
-   "hardrok",
    "hiusbot",
    "hummus-bot",
    "hustler_1mb",
@@ -5320,12 +5325,12 @@
    "nibbleknight",
    "nice_bot",
    "nichteliasbot",
+   "nickdrohan",
    "nilatacbot",
    "nittedal",
    "nnueandthevoices",
    "noabot",
    "noel-bot",
-   "noksiy",
    "notropis",
    "o-rei-cx",
    "odonata-bot",
@@ -5377,7 +5382,6 @@
    "resolutebot",
    "ribfish-bot",
    "rockingsuperstars",
-   "rubyai",
    "rudim-bot",
    "rust-in-pieces",
    "rust-in-pieces-nnue",
@@ -5406,11 +5410,13 @@
    "slowmate_bot",
    "smartysprout",
    "solobot",
+   "sparkchessengine",
    "springerbot",
    "squarefish-900",
    "sseh-c",
    "stepbot_chess",
    "stickshark99",
+   "stockcotsfish",
    "stockfishlowdepth",
    "stockpapagei",
    "streamervschat",
@@ -5451,6 +5457,7 @@
    "turochamp-1ply",
    "turochamp-2ply",
    "twosillypandas",
+   "unifiedchess-bot",
    "unimark",
    "ursus_bot",
    "usunfish",
