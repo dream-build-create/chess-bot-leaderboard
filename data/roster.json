@@ -1610,6 +1610,11 @@
    "last_online": "2026-11-11",
    "username": "Flower-Queen"
   },
+  "flowerlilac": {
+   "first_seen": "2026-11-11",
+   "last_online": "2026-11-11",
+   "username": "FlowerLilac"
+  },
   "flybrainchess": {
    "first_seen": "2026-09-27",
    "last_online": "2026-11-02",
@@ -1667,7 +1672,7 @@
   },
   "gaiachessengine": {
    "first_seen": "2026-11-08",
-   "last_online": "2026-11-10",
+   "last_online": "2026-11-11",
    "username": "GaiaChessEngine"
   },
   "galaxy-stellar-bot": {
@@ -3802,7 +3807,7 @@
   },
   "rockingsuperstars": {
    "first_seen": "2026-09-28",
-   "last_online": "2026-11-09",
+   "last_online": "2026-11-11",
    "username": "RockingSuperstars"
   },
   "rodent-iv": {
@@ -5077,13 +5082,14 @@
   }
  },
  "online": {
-  "checked_at": "2026-11-11T03:43:09Z",
+  "checked_at": "2026-11-11T04:43:10Z",
   "ids": [
    "aatk_vanguardx",
    "abcd_engine",
    "aconcaguabot",
    "aetherbot",
    "aggressivestockfish",
+   "ahmedzhanov",
    "ai-con",
    "ailedbot",
    "aleph_engine",
@@ -5113,7 +5119,6 @@
    "bluemoonbot",
    "blujay-bot",
    "blundeel67",
-   "bobby_pcolla",
    "bongaclang",
    "borkatower",
    "bot5551",
@@ -5130,7 +5135,6 @@
    "catnail",
    "catriever",
    "charibot",
-   "chess3bot",
    "chessiverse_ethan",
    "chessiverse_luc",
    "chessiverse_pawnza",
@@ -5186,13 +5190,14 @@
    "fivejoyouspandas",
    "flounderbot",
    "flower-queen",
+   "flowerlilac",
    "forktellbot",
    "fourcuriouspandas",
    "fpga-chess",
    "fschess-engine",
    "funcomp",
    "funfishbot",
-   "gambitonlybot",
+   "gaiachessengine",
    "garbobot",
    "geotsibot",
    "glorbo_evermorrow",
@@ -5228,7 +5233,6 @@
    "jurdbird",
    "justbot-v1",
    "kahunabot",
-   "karl-engine-v1",
    "kavinengine",
    "kbelludoo",
    "kestrelstrike",
@@ -5243,7 +5247,6 @@
    "leelaanyodds",
    "leelajester",
    "leelaknightodds",
-   "leelamultiposs",
    "leelapieceodds",
    "leelaqueenforknight",
    "leelaqueenodds",
@@ -5258,6 +5261,7 @@
    "lilitbot",
    "little-0",
    "littlepatricia",
+   "littleply",
    "lukebot",
    "lynx_bot",
    "mac-bot",
@@ -5316,7 +5320,6 @@
    "nibbleknight",
    "nice_bot",
    "nichteliasbot",
-   "nickdrohan",
    "nilatacbot",
    "nittedal",
    "nnueandthevoices",
@@ -5373,6 +5376,7 @@
    "remychessengine",
    "resolutebot",
    "ribfish-bot",
+   "rockingsuperstars",
    "rubyai",
    "rudim-bot",
    "rust-in-pieces",
