@@ -1012,7 +1012,7 @@
   },
   "classical-leela": {
    "first_seen": "2026-09-27",
-   "last_online": "2026-11-08",
+   "last_online": "2026-11-11",
    "username": "classical-leela"
   },
   "claude_bot": {
@@ -1319,6 +1319,11 @@
    "first_seen": "2026-11-11",
    "last_online": "2026-11-11",
    "username": "devichessengine"
+  },
+  "devilfishbot": {
+   "first_seen": "2026-11-11",
+   "last_online": "2026-11-11",
+   "username": "Devilfishbot"
   },
   "dfy-bot": {
    "first_seen": "2026-10-18",
@@ -4592,7 +4597,7 @@
   },
   "thomengine": {
    "first_seen": "2026-09-30",
-   "last_online": "2026-11-08",
+   "last_online": "2026-11-11",
    "username": "ThomEngine"
   },
   "throrbjorn": {
@@ -5127,7 +5132,7 @@
   }
  },
  "online": {
-  "checked_at": "2026-11-11T21:43:11Z",
+  "checked_at": "2026-11-11T22:43:10Z",
   "ids": [
    "abcd_engine",
    "aconcaguabot",
@@ -5161,6 +5166,7 @@
    "bitbitbot",
    "bluemoonbot",
    "blujay-bot",
+   "blundeel67",
    "bongaclang",
    "borkatower",
    "bot5551",
@@ -5180,7 +5186,6 @@
    "chamberiajedrez",
    "charibot",
    "chess3bot",
-   "chessgeniusbot",
    "chessiverse_ethan",
    "chessiverse_luc",
    "chessiverse_pawnza",
@@ -5188,9 +5193,9 @@
    "chessnoobcomp",
    "cheszter",
    "chill4ce",
-   "chiral_ebt",
    "chronicgambler",
    "cinder-bot",
+   "classical-leela",
    "clessy-bot",
    "cloudia-chess",
    "clrsrc_lc0",
@@ -5217,6 +5222,7 @@
    "deepsquare-ai",
    "demen100ns-bot",
    "devchessplayer-bot",
+   "devilfishbot",
    "disrespect_fish",
    "drawfish-reborn",
    "drewschessmachine",
@@ -5294,7 +5300,6 @@
    "leechgodestroy",
    "leelaalien",
    "leelaanyodds",
-   "leelachesstest",
    "leelajester",
    "leelaknightodds",
    "leelapieceodds",
@@ -5393,7 +5398,6 @@
    "piebot",
    "pierreai",
    "piglet_engine",
-   "pixiegaming",
    "playmarius",
    "plumboi",
    "plumbot",
@@ -5420,6 +5424,7 @@
    "renegadeengine",
    "resolutebot",
    "ribfish-bot",
+   "robodoxadrez",
    "rodent-iv",
    "rubyai",
    "rudim-bot",
@@ -5450,7 +5455,6 @@
    "slowmate_bot",
    "smartysprout",
    "solobot",
-   "sparkchessengine",
    "springerbot",
    "squarefish-900",
    "sseh-c",
@@ -5476,6 +5480,7 @@
    "territorybot",
    "thechessblazer",
    "thevariantsnormalbot",
+   "thomengine",
    "throrbjorn",
    "thunfisch-bot",
    "tigrament",
