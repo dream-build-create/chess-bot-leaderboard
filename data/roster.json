@@ -402,7 +402,7 @@
   },
   "beattheengine": {
    "first_seen": "2026-11-07",
-   "last_online": "2026-11-08",
+   "last_online": "2026-11-11",
    "username": "BeatTheEngine"
   },
   "becela9_kpebetka": {
@@ -517,7 +517,7 @@
   },
   "blunder-engine": {
    "first_seen": "2026-11-08",
-   "last_online": "2026-11-10",
+   "last_online": "2026-11-11",
    "username": "Blunder-Engine"
   },
   "bobby_pcolla": {
@@ -1677,7 +1677,7 @@
   },
   "galaxy-stellar-bot": {
    "first_seen": "2026-10-22",
-   "last_online": "2026-11-10",
+   "last_online": "2026-11-11",
    "username": "Galaxy-Stellar-Bot"
   },
   "gambitonlybot": {
@@ -1747,7 +1747,7 @@
   },
   "goats-of-bots": {
    "first_seen": "2026-11-07",
-   "last_online": "2026-11-10",
+   "last_online": "2026-11-11",
    "username": "Goats-Of-Bots"
   },
   "goblinajedrezai": {
@@ -3457,17 +3457,17 @@
   },
   "pirates1": {
    "first_seen": "2026-10-01",
-   "last_online": "2026-11-10",
+   "last_online": "2026-11-11",
    "username": "pirates1"
   },
   "pirates2": {
    "first_seen": "2026-09-30",
-   "last_online": "2026-11-10",
+   "last_online": "2026-11-11",
    "username": "Pirates2"
   },
   "piratesrust": {
    "first_seen": "2026-10-01",
-   "last_online": "2026-11-10",
+   "last_online": "2026-11-11",
    "username": "PiratesRust"
   },
   "pixiegaming": {
@@ -5092,13 +5092,14 @@
   }
  },
  "online": {
-  "checked_at": "2026-11-11T07:43:09Z",
+  "checked_at": "2026-11-11T08:43:09Z",
   "ids": [
    "a-elo",
    "abcd_engine",
    "aconcaguabot",
    "aetherbot",
    "aggressivestockfish",
+   "ahmedzhanov",
    "ai-con",
    "ailedbot",
    "alexandrya",
@@ -5109,7 +5110,6 @@
    "anna-bot",
    "annie_archy",
    "antibotv3-7",
-   "apexbot",
    "aposeij",
    "approximationbot",
    "arasanx",
@@ -5119,6 +5119,7 @@
    "axiom_bot",
    "banerot",
    "bbc_bot",
+   "beattheengine",
    "belzedarian",
    "bernstein-2ply",
    "bernstein-4ply",
@@ -5127,6 +5128,7 @@
    "bluemoonbot",
    "blujay-bot",
    "blundeel67",
+   "blunder-engine",
    "bongaclang",
    "bot5551",
    "bot64jaques",
@@ -5135,6 +5137,7 @@
    "bretemabot",
    "bubblebot2",
    "bytefish",
+   "c-t-r-l",
    "caiporabot",
    "casanchess-nnue",
    "catnail",
@@ -5149,7 +5152,6 @@
    "chesstransformerbot",
    "cheszter",
    "chill4ce",
-   "chiral_ebt",
    "chronicgambler",
    "cinder-bot",
    "clessy-bot",
@@ -5171,6 +5173,7 @@
    "dala-700",
    "dala-900",
    "darkelectronbot",
+   "darkonbot",
    "darkonweakbot",
    "debzero",
    "deepbecky",
@@ -5203,11 +5206,12 @@
    "fschess-engine",
    "funcomp",
    "funfishbot",
+   "galaxy-stellar-bot",
    "garbobot",
-   "georgii_ai",
    "geotsibot",
    "glorbo_evermorrow",
    "gnu4u",
+   "goats-of-bots",
    "goldfish-engine",
    "goopis",
    "grail-bot",
@@ -5301,6 +5305,7 @@
    "mate1-bot",
    "matmoi",
    "mayflyengine",
+   "mcdonalds1955",
    "mdbot",
    "mega-noob-bot",
    "melsh_bot",
@@ -5313,14 +5318,12 @@
    "morabandbot",
    "mostlyhuman1900",
    "moteur441",
-   "mrbeaubeauthebot",
    "mrdeepseekgpt",
    "mrtonnerre",
    "musashi-thebot",
    "mychessjava",
    "nanozeroorg",
    "ndr1sn",
-   "neryba",
    "neurosocute",
    "nexastrat",
    "next_uzbek",
@@ -5357,6 +5360,9 @@
    "piebot",
    "pierreai",
    "piglet_engine",
+   "pirates1",
+   "pirates2",
+   "piratesrust",
    "playmarius",
    "plumboi",
    "plumbot",
@@ -5411,7 +5417,6 @@
    "slowmate_bot",
    "smartysprout",
    "solobot",
-   "sparkchessengine",
    "springerbot",
    "squarefish-900",
    "sseh-c",
@@ -5476,6 +5481,7 @@
    "vortexaurafarm",
    "waldemar-the-elf",
    "walpurti",
+   "wannalearnbot",
    "wedge_engine",
    "weiawaga",
    "worstfish",
