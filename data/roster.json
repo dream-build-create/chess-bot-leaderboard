@@ -1807,7 +1807,7 @@
   },
   "grand-master-bot": {
    "first_seen": "2026-11-03",
-   "last_online": "2026-11-10",
+   "last_online": "2026-11-11",
    "username": "Grand-Master-Bot"
   },
   "grapechessengine": {
@@ -2502,7 +2502,7 @@
   },
   "lemonjuice10": {
    "first_seen": "2026-11-02",
-   "last_online": "2026-11-08",
+   "last_online": "2026-11-11",
    "username": "LemonJuice10"
   },
   "lemuffinbot": {
@@ -2657,7 +2657,7 @@
   },
   "magic11bot_coach": {
    "first_seen": "2026-10-01",
-   "last_online": "2026-11-07",
+   "last_online": "2026-11-11",
    "username": "Magic11bot_Coach"
   },
   "maia1": {
@@ -3119,6 +3119,11 @@
    "first_seen": "2026-09-27",
    "last_online": "2026-10-10",
    "username": "nesbes"
+  },
+  "nest-chess": {
+   "first_seen": "2026-11-11",
+   "last_online": "2026-11-11",
+   "username": "nest-chess"
   },
   "nethervikings": {
    "first_seen": "2026-10-04",
@@ -3792,7 +3797,7 @@
   },
   "renegadeengine": {
    "first_seen": "2026-10-05",
-   "last_online": "2026-10-23",
+   "last_online": "2026-11-11",
    "username": "RenegadeEngine"
   },
   "reptilesbedamned": {
@@ -3842,7 +3847,7 @@
   },
   "rodent-iv": {
    "first_seen": "2026-10-05",
-   "last_online": "2026-11-10",
+   "last_online": "2026-11-11",
    "username": "Rodent-IV"
   },
   "rodent-v": {
@@ -5112,12 +5117,12 @@
   },
   "zzzzzzzzsleep": {
    "first_seen": "2026-11-08",
-   "last_online": "2026-11-10",
+   "last_online": "2026-11-11",
    "username": "ZZZzzzzzSleep"
   }
  },
  "online": {
-  "checked_at": "2026-11-11T17:43:10Z",
+  "checked_at": "2026-11-11T18:43:10Z",
   "ids": [
    "aaronsengine",
    "abcd_engine",
@@ -5237,12 +5242,12 @@
    "gaiachessengine",
    "garbobot",
    "geotsibot",
-   "ghidorah_x",
    "glorbo_evermorrow",
    "gnu4u",
    "goldfish-engine",
    "goopis",
    "grail-bot",
+   "grand-master-bot",
    "grindfish",
    "gryndor",
    "halcyonbot",
@@ -5260,6 +5265,7 @@
    "is_boss",
    "iskelt-corax",
    "jangine",
+   "jaxakos13_bot",
    "jibbby",
    "jjugle",
    "joan_clone",
@@ -5296,6 +5302,7 @@
    "leelatroll",
    "leelonardo",
    "legotechniccontrolpl",
+   "lemonjuice10",
    "levymaia",
    "likeawizard-bot",
    "lilitbot",
@@ -5306,6 +5313,7 @@
    "lynx_bot",
    "mac-bot",
    "madeincyprus",
+   "magic11bot_coach",
    "maia1",
    "maia3-79m_1000",
    "maia3-79m_1200",
@@ -5350,6 +5358,7 @@
    "mychessjava",
    "nanozeroorg",
    "ndr1sn",
+   "nest-chess",
    "neurosocute",
    "nexastrat",
    "next_uzbek",
@@ -5369,7 +5378,6 @@
    "onezenpanda",
    "openingsbot",
    "oxide-eg",
-   "oxybullet",
    "palebots",
    "pangubot",
    "panic-fish",
@@ -5408,8 +5416,10 @@
    "ray-bot",
    "rdtchessbot",
    "remychessengine",
+   "renegadeengine",
    "resolutebot",
    "ribfish-bot",
+   "rodent-iv",
    "rubyai",
    "rudim-bot",
    "rust-in-pieces",
@@ -5438,6 +5448,7 @@
    "slowmate_bot",
    "smartysprout",
    "solobot",
+   "sparkchessengine",
    "springerbot",
    "squarefish-900",
    "sseh-c",
@@ -5507,7 +5518,8 @@
    "z-o_aspenlabs",
    "zaglotfish",
    "zion-bot",
-   "zipfile_chess-bot"
+   "zipfile_chess-bot",
+   "zzzzzzzzsleep"
   ]
  },
  "schema_version": 1
