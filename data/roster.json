@@ -97,7 +97,7 @@
   },
   "ajedrezchamberi": {
    "first_seen": "2026-09-29",
-   "last_online": "2026-11-09",
+   "last_online": "2026-11-11",
    "username": "AjedrezChamberi"
   },
   "alarm2001": {
@@ -797,7 +797,7 @@
   },
   "chamberiajedrez": {
    "first_seen": "2026-09-29",
-   "last_online": "2026-11-09",
+   "last_online": "2026-11-11",
    "username": "ChamberiAjedrez"
   },
   "chaotong_engine": {
@@ -5092,9 +5092,8 @@
   }
  },
  "online": {
-  "checked_at": "2026-11-11T08:43:09Z",
+  "checked_at": "2026-11-11T09:43:12Z",
   "ids": [
-   "a-elo",
    "abcd_engine",
    "aconcaguabot",
    "aetherbot",
@@ -5102,6 +5101,7 @@
    "ahmedzhanov",
    "ai-con",
    "ailedbot",
+   "ajedrezchamberi",
    "alexandrya",
    "aliceshiro",
    "alieknek",
@@ -5119,7 +5119,6 @@
    "axiom_bot",
    "banerot",
    "bbc_bot",
-   "beattheengine",
    "belzedarian",
    "bernstein-2ply",
    "bernstein-4ply",
@@ -5142,6 +5141,7 @@
    "casanchess-nnue",
    "catnail",
    "catriever",
+   "chamberiajedrez",
    "charibot",
    "chessgeniusbot",
    "chessiverse_ethan",
@@ -5248,7 +5248,6 @@
    "kbelludoo",
    "kestrelstrike",
    "kirinchessbot",
-   "kittyenginev5",
    "kopyto_dev",
    "kurganuci",
    "lamprook",
@@ -5304,6 +5303,7 @@
    "mate-in-twenty",
    "mate1-bot",
    "matmoi",
+   "maximaengine",
    "mayflyengine",
    "mcdonalds1955",
    "mdbot",
@@ -5355,7 +5355,6 @@
    "peachfruit",
    "perl-gigachess",
    "philidor-142m",
-   "pi0w",
    "picosargon",
    "piebot",
    "pierreai",
@@ -5388,7 +5387,6 @@
    "remychessengine",
    "resolutebot",
    "ribfish-bot",
-   "rockingsuperstars",
    "rudim-bot",
    "rust-in-pieces",
    "rust-in-pieces-nnue",
@@ -5402,7 +5400,6 @@
    "scipio-bot",
    "seedchess",
    "seitogakatsu",
-   "sezgi_bot",
    "shallowredbot",
    "sharpsundae",
    "shrevenbot",
@@ -5441,7 +5438,7 @@
    "tente8x",
    "territorybot",
    "thechessblazer",
-   "throrbjorn",
+   "thevariantsnormalbot",
    "thunfisch-bot",
    "tigrament",
    "tikifish",
