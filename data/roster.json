@@ -27,7 +27,7 @@
   },
   "abcd_engine": {
    "first_seen": "2026-09-27",
-   "last_online": "2026-11-10",
+   "last_online": "2026-11-11",
    "username": "abcd_engine"
   },
   "abdcebot": {
@@ -77,7 +77,7 @@
   },
   "ahmedzhanov": {
    "first_seen": "2026-11-06",
-   "last_online": "2026-11-10",
+   "last_online": "2026-11-11",
    "username": "ahmedzhanov"
   },
   "ai-con": {
@@ -942,7 +942,7 @@
   },
   "chessnoobcomp": {
    "first_seen": "2026-10-26",
-   "last_online": "2026-11-08",
+   "last_online": "2026-11-11",
    "username": "ChessNoobComp"
   },
   "chesspion96": {
@@ -1677,7 +1677,7 @@
   },
   "gambitonlybot": {
    "first_seen": "2026-09-28",
-   "last_online": "2026-11-10",
+   "last_online": "2026-11-11",
    "username": "GambitOnlyBot"
   },
   "gambittai": {
@@ -3617,7 +3617,7 @@
   },
   "queensgambot": {
    "first_seen": "2026-09-27",
-   "last_online": "2026-11-10",
+   "last_online": "2026-11-11",
    "username": "QueensGamBOT"
   },
   "quirkafleeg-pc": {
@@ -4452,7 +4452,7 @@
   },
   "tallikebot": {
    "first_seen": "2026-10-17",
-   "last_online": "2026-11-10",
+   "last_online": "2026-11-11",
    "username": "tallikebot"
   },
   "talosbot": {
@@ -5077,12 +5077,14 @@
   }
  },
  "online": {
-  "checked_at": "2026-11-11T01:43:11Z",
+  "checked_at": "2026-11-11T02:43:10Z",
   "ids": [
    "aatk_vanguardx",
+   "abcd_engine",
    "aconcaguabot",
    "aetherbot",
    "aggressivestockfish",
+   "ahmedzhanov",
    "ai-con",
    "ailedbot",
    "aleph_engine",
@@ -5109,6 +5111,7 @@
    "bernstein-2ply",
    "bernstein-4ply",
    "bfiedler-bot",
+   "bitbitbot",
    "bluemoonbot",
    "blujay-bot",
    "blundeel67",
@@ -5134,6 +5137,7 @@
    "chessiverse_luc",
    "chessiverse_pawnza",
    "chessiverse_raak",
+   "chessnoobcomp",
    "cheszter",
    "chill4ce",
    "chiral_ebt",
@@ -5190,6 +5194,7 @@
    "fschess-engine",
    "funcomp",
    "funfishbot",
+   "gambitonlybot",
    "garbobot",
    "geotsibot",
    "glorbo_evermorrow",
@@ -5287,7 +5292,6 @@
    "mate-in-twenty",
    "mate1-bot",
    "matmoi",
-   "maximaengine",
    "maybyen",
    "mayflyengine",
    "mcdonalds1955",
@@ -5357,6 +5361,7 @@
    "psion-chess",
    "puisne",
    "pzchessbot",
+   "queensgambot",
    "quirkafleeg-pc",
    "quirkafleeg-zxnext",
    "r0bspierre",
@@ -5371,7 +5376,6 @@
    "remychessengine",
    "resolutebot",
    "ribfish-bot",
-   "robodoxadrez",
    "rubyai",
    "rudim-bot",
    "rust-in-pieces",
@@ -5420,10 +5424,10 @@
    "sybaibot",
    "sybbot",
    "sykorabot",
+   "tallikebot",
    "talosbot",
    "tempocore",
    "tente-v2",
-   "tente8x",
    "territorybot",
    "thechessblazer",
    "thevariantsnormalbot",
@@ -5454,7 +5458,6 @@
    "usunfish-l7",
    "utrain-chess-bot",
    "uxugin-bot",
-   "vadbot",
    "vanibot",
    "variantsbot",
    "vic98lg",
