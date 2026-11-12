@@ -3667,7 +3667,7 @@
   },
   "queensgambot": {
    "first_seen": "2026-09-27",
-   "last_online": "2026-11-11",
+   "last_online": "2026-11-12",
    "username": "QueensGamBOT"
   },
   "quirkafleeg-pc": {
@@ -4757,7 +4757,7 @@
   },
   "turquoisebot": {
    "first_seen": "2026-10-24",
-   "last_online": "2026-11-09",
+   "last_online": "2026-11-12",
    "username": "TurquoiseBOT"
   },
   "twosillypandas": {
@@ -5132,7 +5132,7 @@
   }
  },
  "online": {
-  "checked_at": "2026-11-12T01:43:10Z",
+  "checked_at": "2026-11-12T02:43:10Z",
   "ids": [
    "abcd_engine",
    "aconcaguabot",
@@ -5149,6 +5149,7 @@
    "anna-bot",
    "annie_archy",
    "anti-bot",
+   "antibotv3-7",
    "aposeij",
    "approximationbot",
    "arasanx",
@@ -5183,7 +5184,6 @@
    "catriever",
    "charibot",
    "chess3bot",
-   "chessgeniusbot",
    "chessiverse_ethan",
    "chessiverse_luc",
    "chessiverse_pawnza",
@@ -5247,13 +5247,12 @@
    "fschess-engine",
    "funcomp",
    "funfishbot",
-   "gambitonlybot",
    "garbobot",
    "geotsibot",
    "glorbo_evermorrow",
    "gnu4u",
+   "goldfish-engine",
    "goopis",
-   "gopandafish",
    "grail-bot",
    "grindfish",
    "gryndor",
@@ -5263,7 +5262,6 @@
    "hiusbot",
    "hummus-bot",
    "hustler_1mb",
-   "hustler_2mb",
    "hustler_5mb",
    "hyperopic",
    "icarus-bot",
@@ -5357,7 +5355,6 @@
    "moteur441",
    "mrdeepseekgpt",
    "mrtonnerre",
-   "munzurbot2",
    "mychessjava",
    "nanozeroorg",
    "ndr1sn",
@@ -5389,6 +5386,7 @@
    "patriciabot",
    "patzerbot135",
    "pawn_git",
+   "pawnopenings",
    "peacemaker-0_0",
    "peachfruit",
    "perl-gigachess",
@@ -5400,7 +5398,6 @@
    "playmarius",
    "plumboi",
    "plumbot",
-   "polvo_engine",
    "premove90-1500",
    "princhess_policy_bot",
    "prokopakop",
@@ -5408,6 +5405,7 @@
    "psion-chess",
    "puisne",
    "pzchessbot",
+   "queensgambot",
    "quirkafleeg-pc",
    "quirkafleeg-zxnext",
    "r0bspierre",
@@ -5497,6 +5495,7 @@
    "turkjs",
    "turochamp-1ply",
    "turochamp-2ply",
+   "turquoisebot",
    "twosillypandas",
    "ultrabrick",
    "unimark",
