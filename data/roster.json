@@ -1632,7 +1632,7 @@
   },
   "flowerlilac": {
    "first_seen": "2026-11-11",
-   "last_online": "2026-11-11",
+   "last_online": "2026-11-12",
    "username": "FlowerLilac"
   },
   "flybrainchess": {
@@ -1692,7 +1692,7 @@
   },
   "gaiachessengine": {
    "first_seen": "2026-11-08",
-   "last_online": "2026-11-11",
+   "last_online": "2026-11-12",
    "username": "GaiaChessEngine"
   },
   "galaxy-stellar-bot": {
@@ -4297,7 +4297,7 @@
   },
   "sparkchessengine": {
    "first_seen": "2026-10-21",
-   "last_online": "2026-11-11",
+   "last_online": "2026-11-12",
    "username": "SparkchessEngine"
   },
   "springerbot": {
@@ -5132,7 +5132,7 @@
   }
  },
  "online": {
-  "checked_at": "2026-11-12T02:43:10Z",
+  "checked_at": "2026-11-12T03:43:10Z",
   "ids": [
    "abcd_engine",
    "aconcaguabot",
@@ -5221,7 +5221,6 @@
    "deepsquare-ai",
    "demen100ns-bot",
    "devchessplayer-bot",
-   "devilfishbot",
    "disrespect_fish",
    "drawfish-reborn",
    "drewschessmachine",
@@ -5241,12 +5240,14 @@
    "fivejoyouspandas",
    "flounderbot",
    "flower-queen",
+   "flowerlilac",
    "forktellbot",
    "fourcuriouspandas",
    "fpga-chess",
    "fschess-engine",
    "funcomp",
    "funfishbot",
+   "gaiachessengine",
    "garbobot",
    "geotsibot",
    "glorbo_evermorrow",
@@ -5332,7 +5333,6 @@
    "maia960-1600",
    "maia960-1900",
    "malanchess",
-   "marlinchessbot",
    "martuni",
    "mate-in-forty",
    "mate-in-thirty",
@@ -5379,7 +5379,6 @@
    "onezenpanda",
    "openingsbot",
    "oxide-eg",
-   "oxybullet",
    "pangubot",
    "panic-fish",
    "partner3615diago",
@@ -5451,10 +5450,10 @@
    "slowmate_bot",
    "smartysprout",
    "solobot",
+   "sparkchessengine",
    "springerbot",
    "squarefish-900",
    "sseh-c",
-   "stargazerengine",
    "stepbot_chess",
    "stickshark99",
    "stockcotsfish",
@@ -5517,7 +5516,6 @@
    "waldemar-the-elf",
    "walpurti",
    "weiawaga",
-   "weledar-bot",
    "worstfish",
    "z-o_aspenlabs",
    "zaglotfish",
