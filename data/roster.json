@@ -342,7 +342,7 @@
   },
   "baby_eubos": {
    "first_seen": "2026-09-27",
-   "last_online": "2026-11-07",
+   "last_online": "2026-11-12",
    "username": "baby_eubos"
   },
   "ballin-bot": {
@@ -1487,7 +1487,7 @@
   },
   "endspiel-pi": {
    "first_seen": "2026-09-27",
-   "last_online": "2026-11-09",
+   "last_online": "2026-11-12",
    "username": "endspiel-pi"
   },
   "enginefromscratch": {
@@ -2062,7 +2062,7 @@
   },
   "io-bot": {
    "first_seen": "2026-09-28",
-   "last_online": "2026-11-07",
+   "last_online": "2026-11-12",
    "username": "io-bot"
   },
   "iran_f72": {
@@ -2412,7 +2412,7 @@
   },
   "lantern_bot": {
    "first_seen": "2026-10-15",
-   "last_online": "2026-11-10",
+   "last_online": "2026-11-12",
    "username": "Lantern_BOT"
   },
   "larryz-alterego": {
@@ -2477,7 +2477,7 @@
   },
   "leelamultiposs": {
    "first_seen": "2026-10-08",
-   "last_online": "2026-11-11",
+   "last_online": "2026-11-12",
    "username": "LeelaMultiPoss"
   },
   "leelapieceodds": {
@@ -3157,7 +3157,7 @@
   },
   "nest-chess": {
    "first_seen": "2026-11-11",
-   "last_online": "2026-11-11",
+   "last_online": "2026-11-12",
    "username": "nest-chess"
   },
   "nethervikings": {
@@ -5162,7 +5162,7 @@
   }
  },
  "online": {
-  "checked_at": "2026-11-12T13:43:12Z",
+  "checked_at": "2026-11-12T14:43:10Z",
   "ids": [
    "aaronsengine",
    "abcd_engine",
@@ -5176,7 +5176,6 @@
    "aliceshiro",
    "alieknek",
    "alliethechessbot",
-   "alynx_bot",
    "angela_eng",
    "anna-bot",
    "annie_archy",
@@ -5190,6 +5189,7 @@
    "ashasevidence",
    "athena-chessbot",
    "axiom_bot",
+   "baby_eubos",
    "banerot",
    "bbc_bot",
    "belzedarian",
@@ -5209,6 +5209,7 @@
    "bretemabot",
    "bubblebot2",
    "bytefish",
+   "c-t-r-l",
    "caiporabot",
    "casanchess-nnue",
    "cassidychess-bot",
@@ -5247,6 +5248,7 @@
    "dala-700",
    "dala-900",
    "darkelectronbot",
+   "darkonbot",
    "darkonweakbot",
    "debzero",
    "deepbecky",
@@ -5265,6 +5267,7 @@
    "eigenmann-chess",
    "elachessbot",
    "elmichess",
+   "endspiel-pi",
    "entebot",
    "fairytailregimebot",
    "falconengine",
@@ -5283,7 +5286,6 @@
    "fschess-engine",
    "funcomp",
    "funfishbot",
-   "gambitonlybot",
    "garbobot",
    "geotsibot",
    "glorbo_evermorrow",
@@ -5298,12 +5300,11 @@
    "hardrok",
    "hiusbot",
    "hummus-bot",
-   "hustler_1mb",
-   "hustler_5mb",
    "hyperopic",
    "icarus-bot",
    "ilovecatgirl",
    "incipit_bot",
+   "io-bot",
    "is_boss",
    "iskelt-corax",
    "jamchess_app",
@@ -5328,12 +5329,13 @@
    "kulubot",
    "kurganuci",
    "lamprook",
+   "lantern_bot",
    "latrunculi-bot",
    "laura-bot",
    "leelaalien",
-   "leelaanyodds",
    "leelajester",
    "leelaknightodds",
+   "leelamultiposs",
    "leelapieceodds",
    "leelaqueenforknight",
    "leelaqueenodds",
@@ -5341,6 +5343,7 @@
    "leelarookodds",
    "leelatroll",
    "leelonardo",
+   "legotechniccontrolpl",
    "levymaia",
    "likeawizard-bot",
    "lilitbot",
@@ -5353,7 +5356,6 @@
    "mac-bot",
    "maia1",
    "maia3-79m_1000",
-   "maia3-79m_1200",
    "maia3-79m_1400",
    "maia3-79m_1600",
    "maia3-79m_1800",
@@ -5362,7 +5364,6 @@
    "maia3-79m_2400",
    "maia3-79m_2600",
    "maia3-79m_600",
-   "maia3-79m_800",
    "maia5",
    "maia9",
    "maia960-1600",
@@ -5374,8 +5375,8 @@
    "mate-in-twenty",
    "mate1-bot",
    "matmoi",
-   "maximaengine",
    "mayflyengine",
+   "mcdonalds1955",
    "mdbot",
    "mega-noob-bot",
    "melsh_bot",
@@ -5396,6 +5397,7 @@
    "mychessjava",
    "nanozeroorg",
    "ndr1sn",
+   "nest-chess",
    "neurosocute",
    "nexastrat",
    "next_uzbek",
@@ -5478,6 +5480,7 @@
    "shrevenbot",
    "silasly",
    "sim3million",
+   "simplechessengine",
    "simpleeval",
    "sj_norbot",
    "slate-engine",
@@ -5531,7 +5534,6 @@
    "twosillypandas",
    "uiagbot",
    "ultrabrick",
-   "unifiedchess-bot",
    "unimark",
    "ursus_bot",
    "usunfish",
@@ -5546,6 +5548,7 @@
    "vic98lg",
    "vicentlittle",
    "vietnamesecoffee",
+   "void_bot",
    "vortex_bot",
    "vortexaurafarm",
    "waldemar-the-elf",
