@@ -7,7 +7,7 @@
   },
   "aaronsengine": {
    "first_seen": "2026-09-27",
-   "last_online": "2026-11-11",
+   "last_online": "2026-11-12",
    "username": "AaronsEngine"
   },
   "aathena101": {
@@ -1112,7 +1112,7 @@
   },
   "craftstockfish": {
    "first_seen": "2026-10-17",
-   "last_online": "2026-10-20",
+   "last_online": "2026-11-12",
    "username": "CraftStockfish"
   },
   "craftyuci": {
@@ -3069,6 +3069,11 @@
    "first_seen": "2026-10-30",
    "last_online": "2026-11-12",
    "username": "MunzurBOT2"
+  },
+  "muralwingsbot": {
+   "first_seen": "2026-11-12",
+   "last_online": "2026-11-12",
+   "username": "MuralwingsBot"
   },
   "musashi-thebot": {
    "first_seen": "2026-09-28",
@@ -5147,15 +5152,15 @@
   }
  },
  "online": {
-  "checked_at": "2026-11-12T09:43:09Z",
+  "checked_at": "2026-11-12T10:43:11Z",
   "ids": [
+   "aaronsengine",
    "abcd_engine",
    "aconcaguabot",
    "aetherbot",
    "aggressivestockfish",
    "ai-con",
    "ailedbot",
-   "alarm2001",
    "alexandrya",
    "aliceshiro",
    "alieknek",
@@ -5181,7 +5186,6 @@
    "bfiedler-bot",
    "bit-fish8",
    "bitbitbot",
-   "black-bishop-kh",
    "bluemoonbot",
    "blujay-bot",
    "blundeel67",
@@ -5222,6 +5226,7 @@
    "colinbot",
    "confidencebuilder",
    "cookiebot711",
+   "craftstockfish",
    "craftyuci",
    "crazyfishbot",
    "croco_bot",
@@ -5241,10 +5246,6 @@
    "deepbecky",
    "deepsquare-ai",
    "demen100ns-bot",
-   "demolito_l1",
-   "demolito_l2",
-   "demolito_l3",
-   "demolito_l5",
    "devchessplayer-bot",
    "disrespect_fish",
    "dravox",
@@ -5382,6 +5383,7 @@
    "moteur441",
    "mrdeepseekgpt",
    "mrtonnerre",
+   "muralwingsbot",
    "musashi-thebot",
    "mychessjava",
    "nanozeroorg",
@@ -5455,6 +5457,7 @@
    "rust-in-pieces-nnue",
    "ryu-ishigori",
    "sapling-bot",
+   "sardinebot",
    "sargon-1ply",
    "sargon-3ply",
    "sbnovella",
@@ -5528,6 +5531,7 @@
    "usunfish-l7",
    "utrain-chess-bot",
    "uxugin-bot",
+   "uzenatch",
    "vanibot",
    "variantsbot",
    "vic98lg",
