@@ -522,7 +522,7 @@
   },
   "blunder-engine": {
    "first_seen": "2026-11-08",
-   "last_online": "2026-11-11",
+   "last_online": "2026-11-12",
    "username": "Blunder-Engine"
   },
   "bobby_pcolla": {
@@ -1717,7 +1717,7 @@
   },
   "galaxy-stellar-bot": {
    "first_seen": "2026-10-22",
-   "last_online": "2026-11-11",
+   "last_online": "2026-11-12",
    "username": "Galaxy-Stellar-Bot"
   },
   "gambitonlybot": {
@@ -1787,7 +1787,7 @@
   },
   "goats-of-bots": {
    "first_seen": "2026-11-07",
-   "last_online": "2026-11-11",
+   "last_online": "2026-11-12",
    "username": "Goats-Of-Bots"
   },
   "goblinajedrezai": {
@@ -2649,6 +2649,11 @@
    "first_seen": "2026-11-09",
    "last_online": "2026-11-10",
    "username": "Lumac0"
+  },
+  "lumac0ne": {
+   "first_seen": "2026-11-12",
+   "last_online": "2026-11-12",
+   "username": "Lumac0ne"
   },
   "luminexbot": {
    "first_seen": "2026-10-25",
@@ -3532,17 +3537,17 @@
   },
   "pirates1": {
    "first_seen": "2026-10-01",
-   "last_online": "2026-11-11",
+   "last_online": "2026-11-12",
    "username": "pirates1"
   },
   "pirates2": {
    "first_seen": "2026-09-30",
-   "last_online": "2026-11-11",
+   "last_online": "2026-11-12",
    "username": "Pirates2"
   },
   "piratesrust": {
    "first_seen": "2026-10-01",
-   "last_online": "2026-11-11",
+   "last_online": "2026-11-12",
    "username": "PiratesRust"
   },
   "pixiegaming": {
@@ -5172,7 +5177,7 @@
   }
  },
  "online": {
-  "checked_at": "2026-11-12T17:43:10Z",
+  "checked_at": "2026-11-12T18:43:10Z",
   "ids": [
    "aaronsengine",
    "abcd_engine",
@@ -5212,6 +5217,7 @@
    "bluemoonbot",
    "blujay-bot",
    "blundeel67",
+   "blunder-engine",
    "bongaclang",
    "borkatower",
    "bot5551",
@@ -5300,10 +5306,13 @@
    "funcomp",
    "funfishbot",
    "gaiachessengine",
+   "galaxy-stellar-bot",
+   "gambitonlybot",
    "garbobot",
    "geotsibot",
    "glorbo_evermorrow",
    "gnu4u",
+   "goats-of-bots",
    "goldfish-engine",
    "goopis",
    "gopandafish",
@@ -5319,10 +5328,10 @@
    "icarus-bot",
    "ilovecatgirl",
    "incipit_bot",
-   "io-bot",
    "is_boss",
    "iskelt-corax",
    "jangine",
+   "jaxakos13_bot",
    "jibbby",
    "jjugle",
    "joan_clone",
@@ -5330,7 +5339,6 @@
    "jongsungkim",
    "joshsbot",
    "jpg-bot",
-   "jurdbird",
    "justbot-v1",
    "kahunabot",
    "karl-engine-v1",
@@ -5358,12 +5366,12 @@
    "legotechniccontrolpl",
    "levymaia",
    "likeawizard-bot",
-   "lili-ai",
    "lilitbot",
    "little-0",
    "littlepatricia",
    "littleply",
    "lukebot",
+   "lumac0ne",
    "lunaenginechess",
    "lynx_bot",
    "mac-bot",
@@ -5413,15 +5421,14 @@
    "nittedal",
    "nnueandthevoices",
    "noabot",
-   "noksiy",
    "notropis",
    "o-rei-cx",
    "odonata-bot",
-   "olimarianbot",
    "onechessbot",
    "onezenpanda",
    "openingsbot",
    "oxide-eg",
+   "oxybullet",
    "pangubot",
    "panic-fish",
    "partner3615diago",
@@ -5437,6 +5444,9 @@
    "piebot",
    "pierreai",
    "piglet_engine",
+   "pirates1",
+   "pirates2",
+   "piratesrust",
    "playmarius",
    "plumboi",
    "plumbot",
@@ -5462,19 +5472,16 @@
    "renegadeengine",
    "resolutebot",
    "ribfish-bot",
-   "rockingsuperstars",
    "rodent-iv",
    "rubyai",
    "rudim-bot",
    "rust-in-pieces",
    "rust-in-pieces-nnue",
-   "ryu-ishigori",
    "sapling-bot",
    "sargon-1ply",
    "sargon-3ply",
    "sbnovella",
    "scalaqueen",
-   "schnecken_bot",
    "scipio-bot",
    "seedchess",
    "seitogakatsu",
@@ -5492,7 +5499,6 @@
    "slowmate_bot",
    "smartysprout",
    "solobot",
-   "sparkchessengine",
    "springerbot",
    "squarefish-900",
    "sseh-c",
@@ -5517,6 +5523,7 @@
    "tente8x",
    "territorybot",
    "thechessblazer",
+   "thevariantsnormalbot",
    "thunfisch-bot",
    "tigrament",
    "tikifish",
@@ -5558,15 +5565,13 @@
    "vortexaurafarm",
    "waldemar-the-elf",
    "walpurti",
-   "wedge_engine",
    "weiawaga",
    "worstfish",
    "yow-experimental",
    "z-o_aspenlabs",
    "zaglotfish",
    "zion-bot",
-   "zipfile_chess-bot",
-   "zzzzzzzzsleep"
+   "zipfile_chess-bot"
   ]
  },
  "schema_version": 1
