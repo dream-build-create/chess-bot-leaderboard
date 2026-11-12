@@ -77,7 +77,7 @@
   },
   "ahmedzhanov": {
    "first_seen": "2026-11-06",
-   "last_online": "2026-11-11",
+   "last_online": "2026-11-12",
    "username": "ahmedzhanov"
   },
   "ai-con": {
@@ -1157,7 +1157,7 @@
   },
   "crustik-bot": {
    "first_seen": "2026-11-03",
-   "last_online": "2026-11-03",
+   "last_online": "2026-11-12",
    "username": "Crustik-bot"
   },
   "cutebot": {
@@ -2852,7 +2852,7 @@
   },
   "maximaengine": {
    "first_seen": "2026-10-23",
-   "last_online": "2026-11-11",
+   "last_online": "2026-11-12",
    "username": "MaximaEngine"
   },
   "maxthedog-esp32": {
@@ -4787,7 +4787,7 @@
   },
   "unifiedchess-bot": {
    "first_seen": "2026-11-11",
-   "last_online": "2026-11-11",
+   "last_online": "2026-11-12",
    "username": "UnifiedChess-Bot"
   },
   "unimark": {
@@ -5142,12 +5142,13 @@
   }
  },
  "online": {
-  "checked_at": "2026-11-12T07:43:11Z",
+  "checked_at": "2026-11-12T08:43:09Z",
   "ids": [
    "abcd_engine",
    "aconcaguabot",
    "aetherbot",
    "aggressivestockfish",
+   "ahmedzhanov",
    "ai-con",
    "ailedbot",
    "alarm2001",
@@ -5159,7 +5160,6 @@
    "anna-bot",
    "annie_archy",
    "anti-bot",
-   "antibotv3-7",
    "aposeij",
    "approximationbot",
    "arasanx",
@@ -5177,7 +5177,6 @@
    "black-bishop-kh",
    "bluemoonbot",
    "blujay-bot",
-   "blundeel67",
    "bongaclang",
    "borkatower",
    "bot5551",
@@ -5195,7 +5194,6 @@
    "catriever",
    "charibot",
    "chess3bot",
-   "chessgeniusbot",
    "chessiverse_ethan",
    "chessiverse_luc",
    "chessiverse_pawnza",
@@ -5221,6 +5219,7 @@
    "croco_little_bot",
    "crocodile_bot",
    "cruelken",
+   "crustik-bot",
    "dala-1100",
    "dala-1300",
    "dala-1600",
@@ -5290,6 +5289,7 @@
    "iskelt-corax",
    "jamchess_app",
    "jangine",
+   "jester7777",
    "jibbby",
    "jjugle",
    "joan_clone",
@@ -5356,6 +5356,7 @@
    "mate-in-twenty",
    "mate1-bot",
    "matmoi",
+   "maximaengine",
    "mayflyengine",
    "mcdonalds1955",
    "mdbot",
@@ -5372,7 +5373,6 @@
    "moteur441",
    "mrdeepseekgpt",
    "mrtonnerre",
-   "munzurbot2",
    "musashi-thebot",
    "mychessjava",
    "nanozeroorg",
@@ -5389,7 +5389,6 @@
    "nittedal",
    "nnueandthevoices",
    "noabot",
-   "noksiy",
    "notropis",
    "o-rei-cx",
    "odonata-bot",
@@ -5404,7 +5403,6 @@
    "patriciabot",
    "patzerbot135",
    "pawn_git",
-   "pawnopenings",
    "peacemaker-0_0",
    "peachfruit",
    "perl-gigachess",
@@ -5425,6 +5423,7 @@
    "pzchessbot",
    "queensgambot",
    "quirkafleeg-pc",
+   "quirkafleeg-zx48k",
    "quirkafleeg-zxnext",
    "r0bspierre",
    "racingkingsbot_1",
@@ -5467,7 +5466,6 @@
    "sleepmindengine",
    "slowmate_bot",
    "smartysprout",
-   "solobot",
    "sparkchessengine",
    "springerbot",
    "squarefish-900",
@@ -5480,7 +5478,6 @@
    "streamervschat",
    "stronggoliath",
    "stupidfishbotbydscs",
-   "styx-chess",
    "sunfish-engine",
    "sunfish-nnue-engine",
    "sxphia",
@@ -5514,6 +5511,7 @@
    "turquoisebot",
    "twosillypandas",
    "ultrabrick",
+   "unifiedchess-bot",
    "unimark",
    "ursus_bot",
    "usunfish",
@@ -5522,7 +5520,6 @@
    "usunfish-l7",
    "utrain-chess-bot",
    "uxugin-bot",
-   "uzenatch",
    "vanibot",
    "variantsbot",
    "vic98lg",
