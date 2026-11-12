@@ -977,7 +977,7 @@
   },
   "chiral_ebt": {
    "first_seen": "2026-11-07",
-   "last_online": "2026-11-11",
+   "last_online": "2026-11-12",
    "username": "chiral_ebt"
   },
   "chmod-bot": {
@@ -1277,17 +1277,17 @@
   },
   "demolito_l1": {
    "first_seen": "2026-09-27",
-   "last_online": "2026-11-09",
+   "last_online": "2026-11-12",
    "username": "Demolito_L1"
   },
   "demolito_l2": {
    "first_seen": "2026-09-27",
-   "last_online": "2026-11-09",
+   "last_online": "2026-11-12",
    "username": "Demolito_L2"
   },
   "demolito_l3": {
    "first_seen": "2026-09-27",
-   "last_online": "2026-11-09",
+   "last_online": "2026-11-12",
    "username": "Demolito_L3"
   },
   "demolito_l4": {
@@ -1297,7 +1297,7 @@
   },
   "demolito_l5": {
    "first_seen": "2026-09-27",
-   "last_online": "2026-11-09",
+   "last_online": "2026-11-12",
    "username": "Demolito_L5"
   },
   "demolito_l6": {
@@ -1737,7 +1737,7 @@
   },
   "georgii_ai": {
    "first_seen": "2026-09-28",
-   "last_online": "2026-11-11",
+   "last_online": "2026-11-12",
    "username": "georgii_ai"
   },
   "geotsibot": {
@@ -2637,7 +2637,7 @@
   },
   "lunaenginechess": {
    "first_seen": "2026-09-28",
-   "last_online": "2026-11-10",
+   "last_online": "2026-11-12",
    "username": "LunaEngineChess"
   },
   "lynx_bot": {
@@ -3682,7 +3682,7 @@
   },
   "quirkafleeg-zx48k": {
    "first_seen": "2026-11-02",
-   "last_online": "2026-11-11",
+   "last_online": "2026-11-12",
    "username": "Quirkafleeg-ZX48K"
   },
   "quirkafleeg-zxnext": {
@@ -5137,7 +5137,7 @@
   }
  },
  "online": {
-  "checked_at": "2026-11-12T05:43:09Z",
+  "checked_at": "2026-11-12T06:43:09Z",
   "ids": [
    "abcd_engine",
    "aconcaguabot",
@@ -5197,6 +5197,7 @@
    "chessnoobcomp",
    "cheszter",
    "chill4ce",
+   "chiral_ebt",
    "chronicgambler",
    "cinder-bot",
    "classical-leela",
@@ -5226,8 +5227,11 @@
    "deepbecky",
    "deepsquare-ai",
    "demen100ns-bot",
+   "demolito_l1",
+   "demolito_l2",
+   "demolito_l3",
+   "demolito_l5",
    "devchessplayer-bot",
-   "devilfishzero",
    "disrespect_fish",
    "drawfish-reborn",
    "drewschessmachine",
@@ -5247,6 +5251,7 @@
    "fivejoyouspandas",
    "flounderbot",
    "flower-queen",
+   "flowerlilac",
    "forktellbot",
    "fourcuriouspandas",
    "fpga-chess",
@@ -5254,6 +5259,7 @@
    "funcomp",
    "funfishbot",
    "garbobot",
+   "georgii_ai",
    "geotsibot",
    "glorbo_evermorrow",
    "gnu4u",
@@ -5276,7 +5282,6 @@
    "iskelt-corax",
    "jangine",
    "jaxakos13_bot",
-   "jester7777",
    "jibbby",
    "jjugle",
    "joan_clone",
@@ -5287,6 +5292,7 @@
    "jurdbird",
    "justbot-v1",
    "kahunabot",
+   "karl-engine-v1",
    "kavinengine",
    "kbelludoo",
    "kestrelstrike",
@@ -5298,7 +5304,6 @@
    "lamprook",
    "latrunculi-bot",
    "laura-bot",
-   "leechgodestroy",
    "leelaalien",
    "leelaanyodds",
    "leelajester",
@@ -5310,7 +5315,6 @@
    "leelarookodds",
    "leelatroll",
    "leelonardo",
-   "legotechniccontrolpl",
    "levymaia",
    "likeawizard-bot",
    "lilitbot",
@@ -5318,6 +5322,7 @@
    "littlepatricia",
    "littleply",
    "lukebot",
+   "lunaenginechess",
    "lynx_bot",
    "mac-bot",
    "maia1",
@@ -5360,6 +5365,7 @@
    "moteur441",
    "mrdeepseekgpt",
    "mrtonnerre",
+   "munzurbot2",
    "musashi-thebot",
    "mychessjava",
    "nanozeroorg",
@@ -5412,6 +5418,7 @@
    "pzchessbot",
    "queensgambot",
    "quirkafleeg-pc",
+   "quirkafleeg-zx48k",
    "quirkafleeg-zxnext",
    "r0bspierre",
    "racingkingsbot_1",
@@ -5456,6 +5463,7 @@
    "slowmate_bot",
    "smartysprout",
    "solobot",
+   "sparkchessengine",
    "springerbot",
    "squarefish-900",
    "sseh-c",
@@ -5484,7 +5492,6 @@
    "throrbjorn",
    "thunfisch-bot",
    "tigrament",
-   "tikifish",
    "tilapiabot",
    "to299d",
    "togaii",
@@ -5516,7 +5523,6 @@
    "vic98lg",
    "vicentlittle",
    "vietnamesecoffee",
-   "void_bot",
    "vortex_bot",
    "vortexaurafarm",
    "waldemar-the-elf",
