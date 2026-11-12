@@ -347,7 +347,7 @@
   },
   "ballin-bot": {
    "first_seen": "2026-10-19",
-   "last_online": "2026-11-10",
+   "last_online": "2026-11-12",
    "username": "Ballin-bot"
   },
   "bamsensbadchessbot": {
@@ -3212,7 +3212,7 @@
   },
   "newengine2022": {
    "first_seen": "2026-10-06",
-   "last_online": "2026-11-05",
+   "last_online": "2026-11-12",
    "username": "newengine2022"
   },
   "newtsbot": {
@@ -5192,7 +5192,7 @@
   }
  },
  "online": {
-  "checked_at": "2026-11-12T21:43:12Z",
+  "checked_at": "2026-11-12T22:43:11Z",
   "ids": [
    "abcd_engine",
    "aconcaguabot",
@@ -5221,6 +5221,7 @@
    "athena-chessbot",
    "axiom_bot",
    "baby_eubos",
+   "ballin-bot",
    "banerot",
    "bbc_bot",
    "belzedarian",
@@ -5239,6 +5240,7 @@
    "bretemabot",
    "bubblebot2",
    "bytefish",
+   "c-t-r-l",
    "caiporabot",
    "capabot",
    "casanchess-nnue",
@@ -5269,6 +5271,7 @@
    "croco_bot",
    "croco_little_bot",
    "crocodile_bot",
+   "cruelken",
    "dala-1100",
    "dala-1300",
    "dala-1600",
@@ -5276,6 +5279,7 @@
    "dala-700",
    "dala-900",
    "darkelectronbot",
+   "darkonbot",
    "darkonweakbot",
    "debzero",
    "deepbecky",
@@ -5407,13 +5411,13 @@
    "matmoi",
    "maybyen",
    "mayflyengine",
+   "mcdonalds1955",
    "mdbot",
    "mega-noob-bot",
    "melsh_bot",
    "michaamateurbot",
    "milanbot",
    "mimirbot",
-   "mind_bot",
    "minopponentmoves",
    "mithandros",
    "mochi_bot",
@@ -5427,6 +5431,7 @@
    "ndr1sn",
    "neryba",
    "neurosocute",
+   "newengine2022",
    "nexastrat",
    "next_uzbek",
    "nibbleknight",
@@ -5458,7 +5463,6 @@
    "peachfruit",
    "perl-gigachess",
    "philidor-142m",
-   "pi0w",
    "picosargon",
    "piebot",
    "pierreai",
@@ -5539,6 +5543,8 @@
    "tente8x",
    "territorybot",
    "thechessblazer",
+   "thevariantsnormalbot",
+   "throrbjorn",
    "thunfisch-bot",
    "tigrament",
    "tilapiabot",
@@ -5556,7 +5562,6 @@
    "turochamp-1ply",
    "turochamp-2ply",
    "twosillypandas",
-   "uiagbot",
    "ultrabrick",
    "unifiedchess-bot",
    "unimark",
@@ -5580,8 +5585,8 @@
    "wannalearnbot",
    "weiawaga",
    "worstfish",
+   "yow-experimental",
    "z-o_aspenlabs",
-   "zaatarthecat",
    "zaglotfish",
    "zion-bot",
    "zipfile_chess-bot"
