@@ -962,7 +962,7 @@
   },
   "chesstransformerbot": {
    "first_seen": "2026-10-08",
-   "last_online": "2026-11-11",
+   "last_online": "2026-11-12",
    "username": "ChessTransformerBot"
   },
   "cheszter": {
@@ -1382,7 +1382,7 @@
   },
   "dravox": {
    "first_seen": "2026-10-24",
-   "last_online": "2026-11-11",
+   "last_online": "2026-11-12",
    "username": "dravox"
   },
   "drawfish-reborn": {
@@ -1567,7 +1567,7 @@
   },
   "fattorini-bot": {
    "first_seen": "2026-11-11",
-   "last_online": "2026-11-11",
+   "last_online": "2026-11-12",
    "username": "fattorini-bot"
   },
   "fayefish": {
@@ -1652,7 +1652,7 @@
   },
   "fornax-engine": {
    "first_seen": "2026-11-02",
-   "last_online": "2026-11-02",
+   "last_online": "2026-11-12",
    "username": "fornax-engine"
   },
   "fourcuriouspandas": {
@@ -1664,6 +1664,11 @@
    "first_seen": "2026-09-28",
    "last_online": "2026-11-12",
    "username": "fpga-chess"
+  },
+  "franfish": {
+   "first_seen": "2026-11-12",
+   "last_online": "2026-11-12",
+   "username": "franfish"
   },
   "friesai": {
    "first_seen": "2026-10-18",
@@ -2102,7 +2107,7 @@
   },
   "jamchess_app": {
    "first_seen": "2026-11-09",
-   "last_online": "2026-11-11",
+   "last_online": "2026-11-12",
    "username": "JamChess_App"
   },
   "jangine": {
@@ -5137,7 +5142,7 @@
   }
  },
  "online": {
-  "checked_at": "2026-11-12T06:43:09Z",
+  "checked_at": "2026-11-12T07:42:02Z",
   "ids": [
    "abcd_engine",
    "aconcaguabot",
@@ -5190,11 +5195,13 @@
    "catriever",
    "charibot",
    "chess3bot",
+   "chessgeniusbot",
    "chessiverse_ethan",
    "chessiverse_luc",
    "chessiverse_pawnza",
    "chessiverse_raak",
    "chessnoobcomp",
+   "chesstransformerbot",
    "cheszter",
    "chill4ce",
    "chiral_ebt",
@@ -5233,6 +5240,7 @@
    "demolito_l5",
    "devchessplayer-bot",
    "disrespect_fish",
+   "dravox",
    "drawfish-reborn",
    "drewschessmachine",
    "duchessai",
@@ -5245,21 +5253,22 @@
    "fairytailregimebot",
    "falconengine",
    "fathzer-jchess",
+   "fattorini-bot",
    "felipe_bot_53",
    "fenrirbot",
    "fetacompli",
    "fivejoyouspandas",
    "flounderbot",
    "flower-queen",
-   "flowerlilac",
    "forktellbot",
+   "fornax-engine",
    "fourcuriouspandas",
    "fpga-chess",
+   "franfish",
    "fschess-engine",
    "funcomp",
    "funfishbot",
    "garbobot",
-   "georgii_ai",
    "geotsibot",
    "glorbo_evermorrow",
    "gnu4u",
@@ -5280,8 +5289,8 @@
    "incipit_bot",
    "is_boss",
    "iskelt-corax",
+   "jamchess_app",
    "jangine",
-   "jaxakos13_bot",
    "jibbby",
    "jjugle",
    "joan_clone",
@@ -5299,7 +5308,6 @@
    "kirinchessbot",
    "kolmato",
    "kopyto_dev",
-   "kulubot",
    "kurganuci",
    "lamprook",
    "latrunculi-bot",
@@ -5418,7 +5426,6 @@
    "pzchessbot",
    "queensgambot",
    "quirkafleeg-pc",
-   "quirkafleeg-zx48k",
    "quirkafleeg-zxnext",
    "r0bspierre",
    "racingkingsbot_1",
@@ -5433,7 +5440,6 @@
    "renegadeengine",
    "resolutebot",
    "ribfish-bot",
-   "robodoxadrez",
    "rubyai",
    "rudim-bot",
    "rust-in-pieces",
