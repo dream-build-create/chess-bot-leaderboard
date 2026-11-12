@@ -145,6 +145,11 @@
    "last_online": "2026-10-13",
    "username": "AlphaNolla"
   },
+  "alynx_bot": {
+   "first_seen": "2026-11-12",
+   "last_online": "2026-11-12",
+   "username": "AlyNX_bot"
+  },
   "amazingcutter": {
    "first_seen": "2026-10-05",
    "last_online": "2026-10-09",
@@ -792,7 +797,7 @@
   },
   "ceraf": {
    "first_seen": "2026-10-01",
-   "last_online": "2026-11-10",
+   "last_online": "2026-11-12",
    "username": "CERAF"
   },
   "chamberiajedrez": {
@@ -1072,7 +1077,7 @@
   },
   "colossusbot": {
    "first_seen": "2026-09-30",
-   "last_online": "2026-11-11",
+   "last_online": "2026-11-12",
    "username": "ColossusBOT"
   },
   "compchess2": {
@@ -3872,7 +3877,7 @@
   },
   "rockingsuperstars": {
    "first_seen": "2026-09-28",
-   "last_online": "2026-11-11",
+   "last_online": "2026-11-12",
    "username": "RockingSuperstars"
   },
   "rodent-iv": {
@@ -5157,7 +5162,7 @@
   }
  },
  "online": {
-  "checked_at": "2026-11-12T11:43:10Z",
+  "checked_at": "2026-11-12T12:43:11Z",
   "ids": [
    "aaronsengine",
    "abcd_engine",
@@ -5170,6 +5175,7 @@
    "aliceshiro",
    "alieknek",
    "alliethechessbot",
+   "alynx_bot",
    "angela_eng",
    "anna-bot",
    "annie_archy",
@@ -5193,7 +5199,6 @@
    "bitbitbot",
    "bluemoonbot",
    "blujay-bot",
-   "blundeel67",
    "bongaclang",
    "borkatower",
    "bot5551",
@@ -5208,6 +5213,7 @@
    "cassidychess-bot",
    "catnail",
    "catriever",
+   "ceraf",
    "charibot",
    "chess3bot",
    "chessgeniusbot",
@@ -5227,6 +5233,7 @@
    "clrsrc_lc0",
    "coda_bot",
    "colinbot",
+   "colossusbot",
    "confidencebuilder",
    "cookiebot711",
    "craftyuci",
@@ -5274,10 +5281,10 @@
    "fornax-engine",
    "fourcuriouspandas",
    "fpga-chess",
+   "franfish",
    "fschess-engine",
    "funcomp",
    "funfishbot",
-   "gaiachessengine",
    "gambitonlybot",
    "garbobot",
    "geotsibot",
@@ -5368,6 +5375,7 @@
    "mate-in-twenty",
    "mate1-bot",
    "matmoi",
+   "maximaengine",
    "mayflyengine",
    "mdbot",
    "mega-noob-bot",
@@ -5383,6 +5391,7 @@
    "moteur441",
    "mrdeepseekgpt",
    "mrtonnerre",
+   "munzurbot2",
    "muralwingsbot",
    "musashi-thebot",
    "mychessjava",
@@ -5399,6 +5408,7 @@
    "nittedal",
    "nnueandthevoices",
    "noabot",
+   "noksiy",
    "notropis",
    "o-rei-cx",
    "odonata-bot",
@@ -5433,6 +5443,7 @@
    "pzchessbot",
    "queensgambot",
    "quirkafleeg-pc",
+   "quirkafleeg-zx48k",
    "quirkafleeg-zxnext",
    "r0bspierre",
    "racingkingsbot_1",
@@ -5447,6 +5458,7 @@
    "renegadeengine",
    "resolutebot",
    "ribfish-bot",
+   "rockingsuperstars",
    "rubyai",
    "rudim-bot",
    "rust-in-pieces",
@@ -5476,6 +5488,7 @@
    "slowmate_bot",
    "smartysprout",
    "solobot",
+   "sparkchessengine",
    "springerbot",
    "squarefish-900",
    "sseh-c",
@@ -5529,7 +5542,6 @@
    "usunfish-l7",
    "utrain-chess-bot",
    "uxugin-bot",
-   "uzenatch",
    "vanibot",
    "variantsbot",
    "vic98lg",
