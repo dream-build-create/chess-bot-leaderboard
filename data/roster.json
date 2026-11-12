@@ -2785,6 +2785,11 @@
    "last_online": "2026-11-11",
    "username": "maia9_30n"
   },
+  "maiaisworking": {
+   "first_seen": "2026-11-12",
+   "last_online": "2026-11-12",
+   "username": "MaiaIsWorking"
+  },
   "maiatrap": {
    "first_seen": "2026-09-27",
    "last_online": "2026-09-29",
@@ -3807,7 +3812,7 @@
   },
   "reaper1bot": {
    "first_seen": "2026-10-10",
-   "last_online": "2026-10-31",
+   "last_online": "2026-11-12",
    "username": "reaper1bot"
   },
   "redbeantree": {
@@ -3882,7 +3887,7 @@
   },
   "rodent-iv": {
    "first_seen": "2026-10-05",
-   "last_online": "2026-11-11",
+   "last_online": "2026-11-12",
    "username": "Rodent-IV"
   },
   "rodent-v": {
@@ -4182,7 +4187,7 @@
   },
   "sisyphus-engine": {
    "first_seen": "2026-10-12",
-   "last_online": "2026-11-10",
+   "last_online": "2026-11-12",
    "username": "Sisyphus-engine"
   },
   "sj_norbot": {
@@ -5162,7 +5167,7 @@
   }
  },
  "online": {
-  "checked_at": "2026-11-12T15:43:12Z",
+  "checked_at": "2026-11-12T16:43:11Z",
   "ids": [
    "aaronsengine",
    "abcd_engine",
@@ -5245,7 +5250,6 @@
    "croco_little_bot",
    "crocodile_bot",
    "dala-1100",
-   "dala-1300",
    "dala-1600",
    "dala-2000",
    "dala-700",
@@ -5262,7 +5266,6 @@
    "disrespect_fish",
    "dravox",
    "drawfish-reborn",
-   "drewschessmachine",
    "dubot",
    "duchessai",
    "dumbotai",
@@ -5360,6 +5363,7 @@
    "maia9",
    "maia960-1600",
    "maia960-1900",
+   "maiaisworking",
    "malanchess",
    "martuni",
    "mate-in-forty",
@@ -5383,11 +5387,13 @@
    "moteur441",
    "mrdeepseekgpt",
    "mrtonnerre",
+   "munzurbot2",
    "muralwingsbot",
    "musashi-thebot",
    "mychessjava",
    "nanozeroorg",
    "ndr1sn",
+   "neryba",
    "nest-chess",
    "neurosocute",
    "nexastrat",
@@ -5445,18 +5451,19 @@
    "ravenengine",
    "ray-bot",
    "rdtchessbot",
+   "reaper1bot",
    "remychessengine",
    "renegadeengine",
    "resolutebot",
    "ribfish-bot",
    "rockingsuperstars",
+   "rodent-iv",
    "rubyai",
    "rudim-bot",
    "rust-in-pieces",
    "rust-in-pieces-nnue",
    "ryu-ishigori",
    "sapling-bot",
-   "sardinebot",
    "sargon-1ply",
    "sargon-3ply",
    "sbnovella",
@@ -5472,6 +5479,7 @@
    "sim3million",
    "simplechessengine",
    "simpleeval",
+   "sisyphus-engine",
    "sj_norbot",
    "slate-engine",
    "sleepish",
@@ -5479,9 +5487,11 @@
    "slowmate_bot",
    "smartysprout",
    "solobot",
+   "sparkchessengine",
    "springerbot",
    "squarefish-900",
    "sseh-c",
+   "stargazerengine",
    "stepbot_chess",
    "stickshark99",
    "stockcotsfish",
@@ -5502,6 +5512,7 @@
    "tente8x",
    "territorybot",
    "thechessblazer",
+   "thevariantsnormalbot",
    "thunfisch-bot",
    "tigrament",
    "tikifish",
@@ -5522,6 +5533,7 @@
    "twosillypandas",
    "uiagbot",
    "ultrabrick",
+   "unifiedchess-bot",
    "unimark",
    "ursus_bot",
    "usunfish",
@@ -5543,6 +5555,7 @@
    "walpurti",
    "weiawaga",
    "worstfish",
+   "yow-experimental",
    "z-o_aspenlabs",
    "zaglotfish",
    "zion-bot",
