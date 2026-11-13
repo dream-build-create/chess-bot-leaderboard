@@ -872,7 +872,7 @@
   },
   "chess-dragon1": {
    "first_seen": "2026-09-27",
-   "last_online": "2026-11-08",
+   "last_online": "2026-11-13",
    "username": "Chess-Dragon1"
   },
   "chess26_bot": {
@@ -1670,6 +1670,11 @@
    "last_online": "2026-11-02",
    "username": "FlyBrainChess"
   },
+  "fobero": {
+   "first_seen": "2026-11-13",
+   "last_online": "2026-11-13",
+   "username": "Fobero"
+  },
   "forktellbot": {
    "first_seen": "2026-10-31",
    "last_online": "2026-11-13",
@@ -2462,7 +2467,7 @@
   },
   "leechgodestroy": {
    "first_seen": "2026-10-16",
-   "last_online": "2026-11-12",
+   "last_online": "2026-11-13",
    "username": "LeechGODestroy"
   },
   "leelaalien": {
@@ -5212,7 +5217,7 @@
   }
  },
  "online": {
-  "checked_at": "2026-11-13T12:43:10Z",
+  "checked_at": "2026-11-13T13:43:10Z",
   "ids": [
    "aaronsengine",
    "aconcaguabot",
@@ -5221,6 +5226,7 @@
    "ai-con",
    "ailedbot",
    "ajedrezchamberi",
+   "alarm2001",
    "alehkine_cat",
    "alexandrya",
    "aliceshiro",
@@ -5251,7 +5257,6 @@
    "bitbitbot",
    "bluemoonbot",
    "blujay-bot",
-   "blundeel67",
    "bongaclang",
    "borkatower",
    "bot5551",
@@ -5270,6 +5275,7 @@
    "catnail",
    "chamberiajedrez",
    "charibot",
+   "chess-dragon1",
    "chess3bot",
    "chess_know",
    "chessgeniusbot",
@@ -5277,7 +5283,6 @@
    "chessiverse_luc",
    "chessiverse_pawnza",
    "chessiverse_raak",
-   "chessmindbot",
    "cheszter",
    "chill4ce",
    "chiral_ebt",
@@ -5338,6 +5343,7 @@
    "fivejoyouspandas",
    "flounderbot",
    "flower-queen",
+   "fobero",
    "forktellbot",
    "fourcuriouspandas",
    "fpga-chess",
@@ -5345,7 +5351,6 @@
    "funcomp",
    "funfishbot",
    "garbobot",
-   "georgii_ai",
    "geotsibot",
    "glorbo_evermorrow",
    "gnu4u",
@@ -5356,6 +5361,7 @@
    "gryndor",
    "hackerchessbot",
    "halcyonbot",
+   "hardrok",
    "hiusbot",
    "hummus-bot",
    "hustler_1mb",
@@ -5392,11 +5398,11 @@
    "lamprook",
    "latrunculi-bot",
    "laura-bot",
+   "leechgodestroy",
    "leelaalien",
    "leelaanyodds",
    "leelajester",
    "leelaknightodds",
-   "leelamultiposs",
    "leelapieceodds",
    "leelaqueenforknight",
    "leelaqueenodds",
@@ -5430,6 +5436,7 @@
    "maia9",
    "maia960-1600",
    "maia960-1900",
+   "maiaisworking",
    "martuni",
    "mate-in-forty",
    "mate-in-thirty",
@@ -5437,7 +5444,6 @@
    "mate1-bot",
    "matmoi",
    "mayflyengine",
-   "mboobot",
    "mcdonalds1955",
    "mdbot",
    "mega-noob-bot",
@@ -5460,7 +5466,6 @@
    "ndr1sn",
    "neryba",
    "neurosocute",
-   "newengine2022",
    "nexastrat",
    "next_uzbek",
    "nibbleknight",
@@ -5479,6 +5484,7 @@
    "onezenpanda",
    "openingsbot",
    "oxide-eg",
+   "oxybullet",
    "pangubot",
    "panic-fish",
    "partner3615diago",
