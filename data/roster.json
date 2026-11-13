@@ -977,7 +977,7 @@
   },
   "chesstransformerbot": {
    "first_seen": "2026-10-08",
-   "last_online": "2026-11-12",
+   "last_online": "2026-11-13",
    "username": "ChessTransformerBot"
   },
   "cheszter": {
@@ -1127,7 +1127,7 @@
   },
   "craftstockfish": {
    "first_seen": "2026-10-17",
-   "last_online": "2026-11-12",
+   "last_online": "2026-11-13",
    "username": "CraftStockfish"
   },
   "craftyuci": {
@@ -5197,8 +5197,9 @@
   }
  },
  "online": {
-  "checked_at": "2026-11-13T06:43:09Z",
+  "checked_at": "2026-11-13T07:13:58Z",
   "ids": [
+   "abcd_engine",
    "aconcaguabot",
    "aetherbot",
    "aggressivestockfish",
@@ -5229,7 +5230,6 @@
    "ballin-bot",
    "banerot",
    "bbc_bot",
-   "beattheengine",
    "belzedarian",
    "bernstein-2ply",
    "bernstein-4ply",
@@ -5237,7 +5237,6 @@
    "bitbitbot",
    "bluemoonbot",
    "blujay-bot",
-   "blundeel67",
    "bongaclang",
    "borkatower",
    "bot5551",
@@ -5260,6 +5259,7 @@
    "chessiverse_luc",
    "chessiverse_pawnza",
    "chessiverse_raak",
+   "chesstransformerbot",
    "cheszter",
    "chill4ce",
    "chiral_ebt",
@@ -5272,6 +5272,7 @@
    "colinbot",
    "confidencebuilder",
    "cookiebot711",
+   "craftstockfish",
    "craftyuci",
    "crazyfishbot",
    "croco_bot",
@@ -5457,7 +5458,6 @@
    "onezenpanda",
    "openingsbot",
    "oxide-eg",
-   "oxybullet",
    "pangubot",
    "panic-fish",
    "partner3615diago",
@@ -5524,7 +5524,6 @@
    "slowmate_bot",
    "smartysprout",
    "solobot",
-   "sparkchessengine",
    "springerbot",
    "squarefish-900",
    "sseh-c",
@@ -5545,7 +5544,6 @@
    "sykorabot",
    "tallikebot",
    "tempocore",
-   "tente-v2",
    "tente8x",
    "territorybot",
    "thechessblazer",
