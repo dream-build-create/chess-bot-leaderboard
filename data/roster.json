@@ -1575,6 +1575,11 @@
    "last_online": "2026-11-13",
    "username": "falconengine"
   },
+  "fancybear_xs": {
+   "first_seen": "2026-11-13",
+   "last_online": "2026-11-13",
+   "username": "FancyBear_XS"
+  },
   "fasterfister1": {
    "first_seen": "2026-10-26",
    "last_online": "2026-10-26",
@@ -1662,7 +1667,7 @@
   },
   "flowerlilac": {
    "first_seen": "2026-11-11",
-   "last_online": "2026-11-12",
+   "last_online": "2026-11-13",
    "username": "FlowerLilac"
   },
   "flybrainchess": {
@@ -2162,7 +2167,7 @@
   },
   "jembok": {
    "first_seen": "2026-10-11",
-   "last_online": "2026-11-12",
+   "last_online": "2026-11-13",
    "username": "JemBok"
   },
   "jenniferx": {
@@ -3932,7 +3937,7 @@
   },
   "rockingsuperstars": {
    "first_seen": "2026-09-28",
-   "last_online": "2026-11-12",
+   "last_online": "2026-11-13",
    "username": "RockingSuperstars"
   },
   "rodent-iv": {
@@ -5050,6 +5055,11 @@
    "last_online": "2026-11-13",
    "username": "wannalearnbot"
   },
+  "ward64-alpha": {
+   "first_seen": "2026-11-13",
+   "last_online": "2026-11-13",
+   "username": "ward64-alpha"
+  },
   "wardnbot": {
    "first_seen": "2026-09-28",
    "last_online": "2026-10-20",
@@ -5232,13 +5242,12 @@
   }
  },
  "online": {
-  "checked_at": "2026-11-13T16:43:11Z",
+  "checked_at": "2026-11-13T17:43:10Z",
   "ids": [
    "aaronsengine",
    "aconcaguabot",
    "aetherbot",
    "aggressivestockfish",
-   "ahmedzhanov",
    "ai-con",
    "ailedbot",
    "ajedrezchamberi",
@@ -5286,7 +5295,6 @@
    "bretemabot",
    "bubblebot2",
    "bytefish",
-   "c-t-r-l",
    "caiporabot",
    "capabot",
    "casanchess-nnue",
@@ -5296,7 +5304,7 @@
    "charibot",
    "chess-dragon1",
    "chess3bot",
-   "chess_know",
+   "chess_set_manager",
    "chessgeniusbot",
    "chessiverse_ethan",
    "chessiverse_luc",
@@ -5331,7 +5339,6 @@
    "dala-700",
    "dala-900",
    "darkelectronbot",
-   "darkonbot",
    "darkonweakbot",
    "debzero",
    "deepbecky",
@@ -5356,6 +5363,7 @@
    "eubos",
    "fairytailregimebot",
    "falconengine",
+   "fancybear_xs",
    "fathzer-jchess",
    "felipe_bot_53",
    "fenrirbot",
@@ -5363,6 +5371,7 @@
    "fivejoyouspandas",
    "flounderbot",
    "flower-queen",
+   "flowerlilac",
    "fobero",
    "forktellbot",
    "fourcuriouspandas",
@@ -5372,7 +5381,6 @@
    "funcomp",
    "funfishbot",
    "galaxy-stellar-bot",
-   "gambitonlybot",
    "garbobot",
    "geotsibot",
    "glorbo_evermorrow",
@@ -5382,7 +5390,6 @@
    "goopis",
    "gopandafish",
    "grail-bot",
-   "grand-master-bot",
    "grindfish",
    "gryndor",
    "hackerchessbot",
@@ -5399,8 +5406,8 @@
    "incipit_bot",
    "is_boss",
    "iskelt-corax",
-   "jamchess_app",
    "jangine",
+   "jembok",
    "jibbby",
    "jjugle",
    "joan_clone",
@@ -5412,11 +5419,9 @@
    "justbot-v1",
    "kahunabot",
    "karl-engine-v1",
-   "kavinengine",
    "kbelludoo",
    "kestrelstrike",
    "kirinchessbot",
-   "knifexn",
    "kolmato",
    "kopyto_dev",
    "kulubot",
@@ -5449,6 +5454,7 @@
    "lunaenginechess",
    "lynx_bot",
    "mac-bot",
+   "magic11bot_coach",
    "maia1",
    "maia3-79m_1000",
    "maia3-79m_1200",
@@ -5474,7 +5480,6 @@
    "matemakingmachine",
    "matmoi",
    "mayflyengine",
-   "mcdonalds1955",
    "mdbot",
    "mega-noob-bot",
    "melsh_bot",
@@ -5494,6 +5499,7 @@
    "ndr1sn",
    "neryba",
    "neurosocute",
+   "newengine2022",
    "nexastrat",
    "next_uzbek",
    "nibbleknight",
@@ -5532,7 +5538,6 @@
    "pirates1",
    "pirates2",
    "piratesrust",
-   "pixiegaming",
    "playmarius",
    "plumboi",
    "plumbot",
@@ -5543,6 +5548,7 @@
    "psion-chess",
    "puisne",
    "pzchessbot",
+   "quirkafleeg-pc",
    "quirkafleeg-zxnext",
    "r0bspierre",
    "racingkingsbot_1",
@@ -5558,6 +5564,7 @@
    "resolutebot",
    "ribfish-bot",
    "robodoxadrez",
+   "rockingsuperstars",
    "rubyai",
    "rudim-bot",
    "rust-in-pieces",
@@ -5626,6 +5633,7 @@
    "turkjs",
    "turochamp-1ply",
    "turochamp-2ply",
+   "turquoisebot",
    "twosillypandas",
    "uiagbot",
    "ultrabrick",
@@ -5649,6 +5657,7 @@
    "vortexaurafarm",
    "waldemar-the-elf",
    "walpurti",
+   "ward64-alpha",
    "weiawaga",
    "weledar-bot",
    "worstfish",
