@@ -7,7 +7,7 @@
   },
   "aaronsengine": {
    "first_seen": "2026-09-27",
-   "last_online": "2026-11-12",
+   "last_online": "2026-11-13",
    "username": "AaronsEngine"
   },
   "aathena101": {
@@ -97,7 +97,7 @@
   },
   "ajedrezchamberi": {
    "first_seen": "2026-09-29",
-   "last_online": "2026-11-11",
+   "last_online": "2026-11-13",
    "username": "AjedrezChamberi"
   },
   "alarm2001": {
@@ -812,7 +812,7 @@
   },
   "chamberiajedrez": {
    "first_seen": "2026-09-29",
-   "last_online": "2026-11-11",
+   "last_online": "2026-11-13",
    "username": "ChamberiAjedrez"
   },
   "chaotong_engine": {
@@ -2072,7 +2072,7 @@
   },
   "io-bot": {
    "first_seen": "2026-09-28",
-   "last_online": "2026-11-12",
+   "last_online": "2026-11-13",
    "username": "io-bot"
   },
   "iran_f72": {
@@ -3217,7 +3217,7 @@
   },
   "newengine2022": {
    "first_seen": "2026-10-06",
-   "last_online": "2026-11-12",
+   "last_online": "2026-11-13",
    "username": "newengine2022"
   },
   "newtsbot": {
@@ -4132,7 +4132,7 @@
   },
   "sezgi_bot": {
    "first_seen": "2026-11-09",
-   "last_online": "2026-11-12",
+   "last_online": "2026-11-13",
    "username": "SEZGI_BOT"
   },
   "sf_bot1nok": {
@@ -5202,14 +5202,15 @@
   }
  },
  "online": {
-  "checked_at": "2026-11-13T09:43:09Z",
+  "checked_at": "2026-11-13T10:43:09Z",
   "ids": [
-   "abcd_engine",
+   "aaronsengine",
    "aconcaguabot",
    "aetherbot",
    "aggressivestockfish",
    "ai-con",
    "ailedbot",
+   "ajedrezchamberi",
    "alehkine_cat",
    "alexandrya",
    "aliceshiro",
@@ -5233,7 +5234,6 @@
    "ballin-bot",
    "banerot",
    "bbc_bot",
-   "beattheengine",
    "belzedarian",
    "bernstein-2ply",
    "bernstein-4ply",
@@ -5241,7 +5241,6 @@
    "bitbitbot",
    "bluemoonbot",
    "blujay-bot",
-   "blundeel67",
    "bongaclang",
    "borkatower",
    "bot5551",
@@ -5253,11 +5252,11 @@
    "bubblebot2",
    "bytefish",
    "caiporabot",
-   "caissa-x",
    "capabot",
    "casanchess-nnue",
    "cassidychess-bot",
    "catnail",
+   "chamberiajedrez",
    "charibot",
    "chess3bot",
    "chess_set_manager",
@@ -5266,7 +5265,6 @@
    "chessiverse_luc",
    "chessiverse_pawnza",
    "chessiverse_raak",
-   "chesstransformerbot",
    "cheszter",
    "chill4ce",
    "chiral_ebt",
@@ -5287,7 +5285,6 @@
    "croco_bot",
    "croco_little_bot",
    "crocodile_bot",
-   "cruelken",
    "dala-1100",
    "dala-1300",
    "dala-1600",
@@ -5353,10 +5350,12 @@
    "icarus-bot",
    "ilovecatgirl",
    "incipit_bot",
+   "io-bot",
    "is_boss",
    "iskelt-corax",
    "jamchess_app",
    "jangine",
+   "jester7777",
    "jibbby",
    "jjugle",
    "joan_clone",
@@ -5418,7 +5417,6 @@
    "maia960-1600",
    "maia960-1900",
    "maiaisworking",
-   "marlinchessbot",
    "martuni",
    "mate-in-forty",
    "mate-in-thirty",
@@ -5446,6 +5444,7 @@
    "nanozeroorg",
    "ndr1sn",
    "neurosocute",
+   "newengine2022",
    "nexastrat",
    "next_uzbek",
    "nibbleknight",
@@ -5518,6 +5517,7 @@
    "scipio-bot",
    "seedchess",
    "seitogakatsu",
+   "sezgi_bot",
    "shallowredbot",
    "sharpsundae",
    "shrevenbot",
@@ -5594,6 +5594,7 @@
    "vortexaurafarm",
    "waldemar-the-elf",
    "walpurti",
+   "wannalearnbot",
    "wedge_engine",
    "weiawaga",
    "worstfish",
