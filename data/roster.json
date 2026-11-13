@@ -2882,7 +2882,7 @@
   },
   "matemakingmachine": {
    "first_seen": "2026-09-29",
-   "last_online": "2026-11-12",
+   "last_online": "2026-11-13",
    "username": "MateMakingMachine"
   },
   "matmoi": {
@@ -4655,6 +4655,11 @@
    "last_online": "2026-11-13",
    "username": "TheChessblazer"
   },
+  "thefinalchesscard": {
+   "first_seen": "2026-11-13",
+   "last_online": "2026-11-13",
+   "username": "TheFinalChessCard"
+  },
   "thegrobbot": {
    "first_seen": "2026-10-12",
    "last_online": "2026-10-29",
@@ -5217,7 +5222,7 @@
   }
  },
  "online": {
-  "checked_at": "2026-11-13T14:43:10Z",
+  "checked_at": "2026-11-13T15:43:10Z",
   "ids": [
    "aaronsengine",
    "aconcaguabot",
@@ -5257,8 +5262,6 @@
    "black-icebot",
    "bluemoonbot",
    "blujay-bot",
-   "blundeel67",
-   "blunder-engine",
    "bongaclang",
    "boris-trapsky",
    "borkatower",
@@ -5282,6 +5285,7 @@
    "chess-dragon1",
    "chess3bot",
    "chess_know",
+   "chessgeniusbot",
    "chessiverse_ethan",
    "chessiverse_luc",
    "chessiverse_pawnza",
@@ -5354,12 +5358,11 @@
    "fschess-engine",
    "funcomp",
    "funfishbot",
-   "galaxy-stellar-bot",
+   "gambitonlybot",
    "garbobot",
    "geotsibot",
    "glorbo_evermorrow",
    "gnu4u",
-   "goats-of-bots",
    "goldfish-engine",
    "goopis",
    "grail-bot",
@@ -5429,7 +5432,6 @@
    "lunaenginechess",
    "lynx_bot",
    "mac-bot",
-   "magic11bot_coach",
    "maia1",
    "maia3-79m_1000",
    "maia3-79m_1200",
@@ -5452,6 +5454,7 @@
    "mate-in-thirty",
    "mate-in-twenty",
    "mate1-bot",
+   "matemakingmachine",
    "matmoi",
    "mayflyengine",
    "mcdonalds1955",
@@ -5493,7 +5496,6 @@
    "onezenpanda",
    "openingsbot",
    "oxide-eg",
-   "oxybullet",
    "pangubot",
    "panic-fish",
    "partner3615diago",
@@ -5510,9 +5512,6 @@
    "piebot",
    "pierreai",
    "piglet_engine",
-   "pirates1",
-   "pirates2",
-   "piratesrust",
    "playmarius",
    "plumboi",
    "plumbot",
@@ -5524,7 +5523,6 @@
    "puisne",
    "pzchessbot",
    "quirkafleeg-pc",
-   "quirkafleeg-zx48k",
    "quirkafleeg-zxnext",
    "r0bspierre",
    "racingkingsbot_1",
@@ -5590,6 +5588,7 @@
    "tente8x",
    "territorybot",
    "thechessblazer",
+   "thefinalchesscard",
    "thunfisch-bot",
    "tigrament",
    "tikifish",
@@ -5630,7 +5629,6 @@
    "vortexaurafarm",
    "waldemar-the-elf",
    "walpurti",
-   "wannalearnbot",
    "wedge_engine",
    "weiawaga",
    "worstfish",
