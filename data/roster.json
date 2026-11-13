@@ -955,6 +955,11 @@
    "last_online": "2026-11-09",
    "username": "chessmate_david"
   },
+  "chessmindbot": {
+   "first_seen": "2026-11-13",
+   "last_online": "2026-11-13",
+   "username": "ChessMindBot"
+  },
   "chessnoobcomp": {
    "first_seen": "2026-10-26",
    "last_online": "2026-11-12",
@@ -1172,7 +1177,7 @@
   },
   "crustik-bot": {
    "first_seen": "2026-11-03",
-   "last_online": "2026-11-12",
+   "last_online": "2026-11-13",
    "username": "Crustik-bot"
   },
   "cutebot": {
@@ -1552,7 +1557,7 @@
   },
   "eunoiabot": {
    "first_seen": "2026-11-02",
-   "last_online": "2026-11-02",
+   "last_online": "2026-11-13",
    "username": "EunoiaBot"
   },
   "european_chess_bot": {
@@ -3425,6 +3430,11 @@
    "last_online": "2026-11-11",
    "username": "palebots"
   },
+  "panda_engine": {
+   "first_seen": "2026-11-13",
+   "last_online": "2026-11-13",
+   "username": "panda_engine"
+  },
   "pangubot": {
    "first_seen": "2026-09-27",
    "last_online": "2026-11-13",
@@ -3732,7 +3742,7 @@
   },
   "quirkafleeg-zx48k": {
    "first_seen": "2026-11-02",
-   "last_online": "2026-11-12",
+   "last_online": "2026-11-13",
    "username": "Quirkafleeg-ZX48K"
   },
   "quirkafleeg-zxnext": {
@@ -3892,7 +3902,7 @@
   },
   "robodoxadrez": {
    "first_seen": "2026-11-01",
-   "last_online": "2026-11-12",
+   "last_online": "2026-11-13",
    "username": "RoboDoXadrez"
   },
   "robotjfischer": {
@@ -4042,7 +4052,7 @@
   },
   "sardinebot": {
    "first_seen": "2026-11-06",
-   "last_online": "2026-11-12",
+   "last_online": "2026-11-13",
    "username": "SardineBot"
   },
   "sargon-1ply": {
@@ -4827,7 +4837,7 @@
   },
   "uiagbot": {
    "first_seen": "2026-10-10",
-   "last_online": "2026-11-12",
+   "last_online": "2026-11-13",
    "username": "uiagBot"
   },
   "ultrabrick": {
@@ -5202,7 +5212,7 @@
   }
  },
  "online": {
-  "checked_at": "2026-11-13T10:43:09Z",
+  "checked_at": "2026-11-13T11:43:10Z",
   "ids": [
    "aaronsengine",
    "aconcaguabot",
@@ -5241,12 +5251,12 @@
    "bitbitbot",
    "bluemoonbot",
    "blujay-bot",
+   "blundeel67",
    "bongaclang",
    "borkatower",
    "bot5551",
    "bot64jaques",
    "bot_adario",
-   "botmonok",
    "bottios",
    "bretemabot",
    "bubblebot2",
@@ -5259,12 +5269,12 @@
    "chamberiajedrez",
    "charibot",
    "chess3bot",
-   "chess_set_manager",
    "chessgeniusbot",
    "chessiverse_ethan",
    "chessiverse_luc",
    "chessiverse_pawnza",
    "chessiverse_raak",
+   "chessmindbot",
    "cheszter",
    "chill4ce",
    "chiral_ebt",
@@ -5285,6 +5295,7 @@
    "croco_bot",
    "croco_little_bot",
    "crocodile_bot",
+   "crustik-bot",
    "dala-1100",
    "dala-1300",
    "dala-1600",
@@ -5314,6 +5325,7 @@
    "endspiel-pi",
    "entebot",
    "eubos",
+   "eunoiabot",
    "fairytailregimebot",
    "falconengine",
    "fathzer-jchess",
@@ -5350,12 +5362,10 @@
    "icarus-bot",
    "ilovecatgirl",
    "incipit_bot",
-   "io-bot",
    "is_boss",
    "iskelt-corax",
    "jamchess_app",
    "jangine",
-   "jester7777",
    "jibbby",
    "jjugle",
    "joan_clone",
@@ -5389,7 +5399,6 @@
    "leelarookodds",
    "leelatroll",
    "leelonardo",
-   "legotechniccontrolpl",
    "levymaia",
    "lightning-762",
    "likeawizard-bot",
@@ -5463,6 +5472,7 @@
    "onezenpanda",
    "openingsbot",
    "oxide-eg",
+   "panda_engine",
    "pangubot",
    "panic-fish",
    "partner3615diago",
@@ -5490,6 +5500,7 @@
    "puisne",
    "pzchessbot",
    "quirkafleeg-pc",
+   "quirkafleeg-zx48k",
    "quirkafleeg-zxnext",
    "r0bspierre",
    "racingkingsbot_1",
@@ -5504,11 +5515,13 @@
    "renegadeengine",
    "resolutebot",
    "ribfish-bot",
+   "robodoxadrez",
    "rubyai",
    "rudim-bot",
    "rust-in-pieces",
    "rust-in-pieces-nnue",
    "sapling-bot",
+   "sardinebot",
    "sargon-1ply",
    "sargon-3ply",
    "sbnovella",
@@ -5557,7 +5570,6 @@
    "thevariantsnormalbot",
    "thunfisch-bot",
    "tigrament",
-   "tikifish",
    "tilapiabot",
    "togaii",
    "tonyengine",
@@ -5573,6 +5585,7 @@
    "turochamp-2ply",
    "turquoisebot",
    "twosillypandas",
+   "uiagbot",
    "ultrabrick",
    "unifiedchess-bot",
    "unimark",
@@ -5589,7 +5602,6 @@
    "vic98lg",
    "vicentlittle",
    "vietnamesecoffee",
-   "void_bot",
    "vortex_bot",
    "vortexaurafarm",
    "waldemar-the-elf",
