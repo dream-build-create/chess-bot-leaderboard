@@ -482,7 +482,7 @@
   },
   "black-icebot": {
    "first_seen": "2026-10-16",
-   "last_online": "2026-11-08",
+   "last_online": "2026-11-13",
    "username": "BLACK-ICEbot"
   },
   "blackeventhorizon": {
@@ -892,7 +892,7 @@
   },
   "chess_set_manager": {
    "first_seen": "2026-09-28",
-   "last_online": "2026-11-03",
+   "last_online": "2026-11-13",
    "username": "chess_set_manager"
   },
   "chessai4f": {
@@ -2127,7 +2127,7 @@
   },
   "jamchess_app": {
    "first_seen": "2026-11-09",
-   "last_online": "2026-11-12",
+   "last_online": "2026-11-13",
    "username": "JamChess_App"
   },
   "jangine": {
@@ -2157,7 +2157,7 @@
   },
   "jester7777": {
    "first_seen": "2026-11-11",
-   "last_online": "2026-11-12",
+   "last_online": "2026-11-13",
    "username": "jester7777"
   },
   "jesterchessrobot": {
@@ -3112,7 +3112,7 @@
   },
   "musashi-thebot": {
    "first_seen": "2026-09-28",
-   "last_online": "2026-11-12",
+   "last_online": "2026-11-13",
    "username": "Musashi-thebot"
   },
   "mxnet-gamemaster": {
@@ -4087,7 +4087,7 @@
   },
   "schnecken_bot": {
    "first_seen": "2026-09-27",
-   "last_online": "2026-11-12",
+   "last_online": "2026-11-13",
    "username": "schnecken_bot"
   },
   "scipio-bot": {
@@ -4347,7 +4347,7 @@
   },
   "sparkchessengine": {
    "first_seen": "2026-10-21",
-   "last_online": "2026-11-12",
+   "last_online": "2026-11-13",
    "username": "SparkchessEngine"
   },
   "springerbot": {
@@ -5197,7 +5197,7 @@
   }
  },
  "online": {
-  "checked_at": "2026-11-13T04:43:09Z",
+  "checked_at": "2026-11-13T05:43:12Z",
   "ids": [
    "abcd_engine",
    "aconcaguabot",
@@ -5235,6 +5235,7 @@
    "bernstein-4ply",
    "bfiedler-bot",
    "bitbitbot",
+   "black-icebot",
    "bluemoonbot",
    "blujay-bot",
    "blundeel67",
@@ -5255,6 +5256,7 @@
    "catnail",
    "charibot",
    "chess3bot",
+   "chess_set_manager",
    "chessiverse_ethan",
    "chessiverse_luc",
    "chessiverse_pawnza",
@@ -5334,7 +5336,6 @@
    "gryndor",
    "hackerchessbot",
    "halcyonbot",
-   "hardrok",
    "hiusbot",
    "hummus-bot",
    "hustler_1mb",
@@ -5346,7 +5347,9 @@
    "incipit_bot",
    "is_boss",
    "iskelt-corax",
+   "jamchess_app",
    "jangine",
+   "jester7777",
    "jibbby",
    "jjugle",
    "joan_clone",
@@ -5431,6 +5434,7 @@
    "moteur441",
    "mrdeepseekgpt",
    "mrtonnerre",
+   "musashi-thebot",
    "mychessjava",
    "nanozeroorg",
    "ndr1sn",
@@ -5506,6 +5510,7 @@
    "sargon-3ply",
    "sbnovella",
    "scalaqueen",
+   "schnecken_bot",
    "scipio-bot",
    "seedchess",
    "seitogakatsu",
@@ -5521,6 +5526,7 @@
    "slowmate_bot",
    "smartysprout",
    "solobot",
+   "sparkchessengine",
    "springerbot",
    "squarefish-900",
    "sseh-c",
@@ -5550,7 +5556,6 @@
    "throrbjorn",
    "thunfisch-bot",
    "tigrament",
-   "tikifish",
    "tilapiabot",
    "togaii",
    "topasbot",
