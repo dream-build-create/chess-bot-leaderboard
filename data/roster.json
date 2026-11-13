@@ -1087,7 +1087,7 @@
   },
   "colossusbot": {
    "first_seen": "2026-09-30",
-   "last_online": "2026-11-12",
+   "last_online": "2026-11-13",
    "username": "ColossusBOT"
   },
   "compchess2": {
@@ -2912,7 +2912,7 @@
   },
   "mboobot": {
    "first_seen": "2026-10-14",
-   "last_online": "2026-11-04",
+   "last_online": "2026-11-13",
    "username": "Mboobot"
   },
   "mcdonalds1955": {
@@ -5202,7 +5202,7 @@
   }
  },
  "online": {
-  "checked_at": "2026-11-13T08:43:10Z",
+  "checked_at": "2026-11-13T09:43:09Z",
   "ids": [
    "abcd_engine",
    "aconcaguabot",
@@ -5210,7 +5210,6 @@
    "aggressivestockfish",
    "ai-con",
    "ailedbot",
-   "alarm2001",
    "alehkine_cat",
    "alexandrya",
    "aliceshiro",
@@ -5234,6 +5233,7 @@
    "ballin-bot",
    "banerot",
    "bbc_bot",
+   "beattheengine",
    "belzedarian",
    "bernstein-2ply",
    "bernstein-4ply",
@@ -5242,7 +5242,6 @@
    "bluemoonbot",
    "blujay-bot",
    "blundeel67",
-   "blunder-engine",
    "bongaclang",
    "borkatower",
    "bot5551",
@@ -5279,6 +5278,7 @@
    "clrsrc_lc0",
    "coda_bot",
    "colinbot",
+   "colossusbot",
    "confidencebuilder",
    "cookiebot711",
    "craftstockfish",
@@ -5332,13 +5332,11 @@
    "fschess-engine",
    "funcomp",
    "funfishbot",
-   "galaxy-stellar-bot",
    "garbobot",
    "georgii_ai",
    "geotsibot",
    "glorbo_evermorrow",
    "gnu4u",
-   "goats-of-bots",
    "goldfish-engine",
    "goopis",
    "grail-bot",
@@ -5428,6 +5426,7 @@
    "mate1-bot",
    "matmoi",
    "mayflyengine",
+   "mboobot",
    "mdbot",
    "mega-noob-bot",
    "melsh_bot",
@@ -5481,9 +5480,6 @@
    "piebot",
    "pierreai",
    "piglet_engine",
-   "pirates1",
-   "pirates2",
-   "piratesrust",
    "playmarius",
    "plumboi",
    "plumbot",
@@ -5494,7 +5490,6 @@
    "psion-chess",
    "puisne",
    "pzchessbot",
-   "queensgambot",
    "quirkafleeg-pc",
    "quirkafleeg-zxnext",
    "r0bspierre",
@@ -5515,7 +5510,6 @@
    "rust-in-pieces",
    "rust-in-pieces-nnue",
    "sapling-bot",
-   "sara_bot1",
    "sargon-1ply",
    "sargon-3ply",
    "sbnovella",
