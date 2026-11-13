@@ -547,7 +547,7 @@
   },
   "borkatower": {
    "first_seen": "2026-09-27",
-   "last_online": "2026-11-12",
+   "last_online": "2026-11-13",
    "username": "BorkaTower"
   },
   "bot-o-tron": {
@@ -4465,6 +4465,11 @@
    "last_online": "2026-11-13",
    "username": "StupidfishBOTBYDSCS"
   },
+  "stupiditybot": {
+   "first_seen": "2026-11-13",
+   "last_online": "2026-11-13",
+   "username": "stupidityBOT"
+  },
   "styx-chess": {
    "first_seen": "2026-10-26",
    "last_online": "2026-11-13",
@@ -4807,7 +4812,7 @@
   },
   "turquoisebot": {
    "first_seen": "2026-10-24",
-   "last_online": "2026-11-12",
+   "last_online": "2026-11-13",
    "username": "TurquoiseBOT"
   },
   "twosillypandas": {
@@ -5192,7 +5197,7 @@
   }
  },
  "online": {
-  "checked_at": "2026-11-13T03:43:09Z",
+  "checked_at": "2026-11-13T04:43:09Z",
   "ids": [
    "abcd_engine",
    "aconcaguabot",
@@ -5225,7 +5230,6 @@
    "ballin-bot",
    "banerot",
    "bbc_bot",
-   "beattheengine",
    "belzedarian",
    "bernstein-2ply",
    "bernstein-4ply",
@@ -5235,6 +5239,7 @@
    "blujay-bot",
    "blundeel67",
    "bongaclang",
+   "borkatower",
    "bot5551",
    "bot64jaques",
    "bot_adario",
@@ -5263,7 +5268,6 @@
    "clessy-bot",
    "cloudia-chess",
    "clrsrc_lc0",
-   "coda_bot",
    "colinbot",
    "confidencebuilder",
    "cookiebot711",
@@ -5287,7 +5291,6 @@
    "deepsquare-ai",
    "demen100ns-bot",
    "devchessplayer-bot",
-   "devilfishzero",
    "disrespect_fish",
    "dravox",
    "drawfish-reborn",
@@ -5354,7 +5357,6 @@
    "jurdbird",
    "justbot-v1",
    "kahunabot",
-   "karl-engine-v1",
    "kavinengine",
    "kbelludoo",
    "kestrelstrike",
@@ -5472,6 +5474,7 @@
    "piglet_engine",
    "playmarius",
    "plumboi",
+   "plumbot",
    "premove90-1500",
    "princhess_policy_bot",
    "prokopakop",
@@ -5529,6 +5532,7 @@
    "streamervschat",
    "stronggoliath",
    "stupidfishbotbydscs",
+   "stupiditybot",
    "styx-chess",
    "sunfish-engine",
    "sunfish-nnue-engine",
@@ -5549,7 +5553,6 @@
    "tikifish",
    "tilapiabot",
    "togaii",
-   "tonyengine",
    "topasbot",
    "trainer-bot",
    "trenerhetman",
@@ -5560,6 +5563,7 @@
    "turkjs",
    "turochamp-1ply",
    "turochamp-2ply",
+   "turquoisebot",
    "twosillypandas",
    "ultrabrick",
    "unifiedchess-bot",
