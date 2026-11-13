@@ -202,7 +202,7 @@
   },
   "apexbot": {
    "first_seen": "2026-10-25",
-   "last_online": "2026-11-11",
+   "last_online": "2026-11-13",
    "username": "ApexBot"
   },
   "apexchess-bot": {
@@ -3102,7 +3102,7 @@
   },
   "munzurbot2": {
    "first_seen": "2026-10-30",
-   "last_online": "2026-11-12",
+   "last_online": "2026-11-13",
    "username": "MunzurBOT2"
   },
   "muralwingsbot": {
@@ -3377,7 +3377,7 @@
   },
   "osaurus": {
    "first_seen": "2026-09-29",
-   "last_online": "2026-11-05",
+   "last_online": "2026-11-13",
    "username": "OSaurus"
   },
   "overfitted": {
@@ -3397,7 +3397,7 @@
   },
   "oxybullet": {
    "first_seen": "2026-09-29",
-   "last_online": "2026-11-12",
+   "last_online": "2026-11-13",
    "username": "Oxybullet"
   },
   "oxydanbot": {
@@ -5192,7 +5192,7 @@
   }
  },
  "online": {
-  "checked_at": "2026-11-13T00:43:09Z",
+  "checked_at": "2026-11-13T01:43:10Z",
   "ids": [
    "abcd_engine",
    "aconcaguabot",
@@ -5212,6 +5212,7 @@
    "annie_archy",
    "anti-bot",
    "antibotv3-7",
+   "apexbot",
    "aposeij",
    "approximationbot",
    "arasanx",
@@ -5237,7 +5238,6 @@
    "bot5551",
    "bot64jaques",
    "bot_adario",
-   "botkingteam33",
    "bottios",
    "bretemabot",
    "bubblebot2",
@@ -5288,7 +5288,6 @@
    "deepsquare-ai",
    "demen100ns-bot",
    "devchessplayer-bot",
-   "devilfishbot",
    "devilfishzero",
    "disrespect_fish",
    "dravox",
@@ -5319,7 +5318,6 @@
    "fschess-engine",
    "funcomp",
    "funfishbot",
-   "gambitonlybot",
    "garbobot",
    "geotsibot",
    "glorbo_evermorrow",
@@ -5407,7 +5405,6 @@
    "maia960-1600",
    "maia960-1900",
    "maiaisworking",
-   "malanchess",
    "marlinchessbot",
    "martuni",
    "mate-in-forty",
@@ -5432,6 +5429,7 @@
    "moteur441",
    "mrdeepseekgpt",
    "mrtonnerre",
+   "munzurbot2",
    "mychessjava",
    "nanozeroorg",
    "ndr1sn",
@@ -5455,7 +5453,9 @@
    "onechessbot",
    "onezenpanda",
    "openingsbot",
+   "osaurus",
    "oxide-eg",
+   "oxybullet",
    "pangubot",
    "panic-fish",
    "partner3615diago",
@@ -5484,7 +5484,6 @@
    "puisne",
    "pzchessbot",
    "quirkafleeg-pc",
-   "quirkafleeg-zxnext",
    "r0bspierre",
    "racingkingsbot_1",
    "radianceengine",
@@ -5498,7 +5497,6 @@
    "renegadeengine",
    "resolutebot",
    "ribfish-bot",
-   "rodent-iv",
    "rubyai",
    "rudim-bot",
    "rust-in-pieces",
@@ -5554,7 +5552,6 @@
    "tigrament",
    "tikifish",
    "tilapiabot",
-   "to299d",
    "togaii",
    "tonyengine",
    "topasbot",
