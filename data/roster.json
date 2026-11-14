@@ -3157,7 +3157,7 @@
   },
   "musashi-thebot": {
    "first_seen": "2026-09-28",
-   "last_online": "2026-11-13",
+   "last_online": "2026-11-14",
    "username": "Musashi-thebot"
   },
   "mxnet-gamemaster": {
@@ -4172,7 +4172,7 @@
   },
   "seedchess": {
    "first_seen": "2026-10-14",
-   "last_online": "2026-11-13",
+   "last_online": "2026-11-14",
    "username": "SeedChess"
   },
   "seitogakatsu": {
@@ -5197,7 +5197,7 @@
   },
   "yow-experimental": {
    "first_seen": "2026-11-12",
-   "last_online": "2026-11-13",
+   "last_online": "2026-11-14",
    "username": "yow-experimental"
   },
   "z-o_aspenlabs": {
@@ -5282,7 +5282,7 @@
   }
  },
  "online": {
-  "checked_at": "2026-11-14T05:43:08Z",
+  "checked_at": "2026-11-14T06:43:08Z",
   "ids": [
    "aconcaguabot",
    "aetherbot",
@@ -5322,7 +5322,6 @@
    "bitbitbot",
    "bluemoonbot",
    "blujay-bot",
-   "blundeel67",
    "bobby_pcolla",
    "bongaclang",
    "boris-trapsky",
@@ -5333,7 +5332,6 @@
    "bubblebot2",
    "byte-knight",
    "bytefish",
-   "c-t-r-l",
    "caiporabot",
    "capabot",
    "casanchess-nnue",
@@ -5341,7 +5339,6 @@
    "catnail",
    "catriever",
    "charibot",
-   "chess_set_manager",
    "chessgeniusbot",
    "chessiverse_ethan",
    "chessiverse_luc",
@@ -5374,7 +5371,6 @@
    "dala-700",
    "dala-900",
    "darkelectronbot",
-   "darkonbot",
    "darkonweakbot",
    "debzero",
    "deepbecky",
@@ -5452,6 +5448,7 @@
    "jurdbird",
    "justbot-v1",
    "kahunabot",
+   "karl-engine-v1",
    "kbelludoo",
    "kestrelstrike",
    "kirinchessbot",
@@ -5500,14 +5497,12 @@
    "maia9",
    "maia960-1600",
    "maia960-1900",
-   "marlinchessbot",
    "martuni",
    "mate-in-forty",
    "mate-in-thirty",
    "mate-in-twenty",
    "mate1-bot",
    "matmoi",
-   "mcdonalds1955",
    "mdbot",
    "mega-noob-bot",
    "melsh_bot",
@@ -5520,9 +5515,8 @@
    "morabandbot",
    "mostlyhuman1900",
    "moteur441",
-   "mrdeepseekgpt",
    "mrtonnerre",
-   "munzurbot2",
+   "musashi-thebot",
    "mychessjava",
    "nanozeroorg",
    "ndr1sn",
@@ -5604,8 +5598,8 @@
    "scalaqueen",
    "schnecken_bot",
    "scipio-bot",
+   "seedchess",
    "seitogakatsu",
-   "sezgi_bot",
    "shallowredbot",
    "sharpsundae",
    "shrevenbot",
@@ -5686,6 +5680,7 @@
    "wedge_engine",
    "weiawaga",
    "worstfish",
+   "yow-experimental",
    "z-o_aspenlabs",
    "zaglotfish",
    "zion-bot",
