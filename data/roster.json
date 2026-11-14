@@ -877,7 +877,7 @@
   },
   "chess-dragon1": {
    "first_seen": "2026-09-27",
-   "last_online": "2026-11-13",
+   "last_online": "2026-11-14",
    "username": "Chess-Dragon1"
   },
   "chess26_bot": {
@@ -917,7 +917,7 @@
   },
   "chessbot2880": {
    "first_seen": "2026-09-27",
-   "last_online": "2026-11-12",
+   "last_online": "2026-11-14",
    "username": "chessbot2880"
   },
   "chessbzero": {
@@ -1687,7 +1687,7 @@
   },
   "fobero": {
    "first_seen": "2026-11-13",
-   "last_online": "2026-11-13",
+   "last_online": "2026-11-14",
    "username": "Fobero"
   },
   "forktellbot": {
@@ -2527,7 +2527,7 @@
   },
   "leelamultiposs": {
    "first_seen": "2026-10-08",
-   "last_online": "2026-11-13",
+   "last_online": "2026-11-14",
    "username": "LeelaMultiPoss"
   },
   "leelapieceodds": {
@@ -3262,7 +3262,7 @@
   },
   "newengine2022": {
    "first_seen": "2026-10-06",
-   "last_online": "2026-11-13",
+   "last_online": "2026-11-14",
    "username": "newengine2022"
   },
   "newtsbot": {
@@ -4022,7 +4022,7 @@
   },
   "rusnikeeai": {
    "first_seen": "2026-10-14",
-   "last_online": "2026-10-14",
+   "last_online": "2026-11-14",
    "username": "RusNikeeAI"
   },
   "russell_bot": {
@@ -5282,7 +5282,7 @@
   }
  },
  "online": {
-  "checked_at": "2026-11-14T10:43:17Z",
+  "checked_at": "2026-11-14T11:43:10Z",
   "ids": [
    "aaronsengine",
    "aconcaguabot",
@@ -5324,7 +5324,6 @@
    "black-bishop-kh",
    "bluemoonbot",
    "blujay-bot",
-   "blunder-engine",
    "bobby_pcolla",
    "bongaclang",
    "boris-trapsky",
@@ -5346,13 +5345,14 @@
    "catriever",
    "chamberiajedrez",
    "charibot",
+   "chess-dragon1",
+   "chessbot2880",
    "chessgeniusbot",
    "chessiverse_ethan",
    "chessiverse_luc",
    "chessiverse_pawnza",
    "chessiverse_raak",
    "chessmindbot",
-   "chessnoobcomp",
    "chesstransformerbot",
    "cheszter",
    "chill4ce",
@@ -5412,18 +5412,18 @@
    "fivejoyouspandas",
    "flounderbot",
    "flower-queen",
+   "fobero",
    "forktellbot",
    "fourcuriouspandas",
    "fpga-chess",
    "fschess-engine",
    "funcomp",
    "funfishbot",
-   "galaxy-stellar-bot",
    "garbobot",
+   "georgii_ai",
    "geotsibot",
    "glorbo_evermorrow",
    "gnu4u",
-   "goats-of-bots",
    "goldfish-engine",
    "goopis",
    "gopandafish",
@@ -5444,7 +5444,6 @@
    "incipit_bot",
    "is_boss",
    "iskelt-corax",
-   "jamchess_app",
    "jangine",
    "jibbby",
    "jimmy_inc3710",
@@ -5471,6 +5470,7 @@
    "leelaanyodds",
    "leelajester",
    "leelaknightodds",
+   "leelamultiposs",
    "leelapieceodds",
    "leelaqueenforknight",
    "leelaqueenodds",
@@ -5478,7 +5478,6 @@
    "leelarookodds",
    "leelatroll",
    "leelonardo",
-   "legotechniccontrolpl",
    "levymaia",
    "lightning-762",
    "likeawizard-bot",
@@ -5487,6 +5486,7 @@
    "littlepatricia",
    "littleply",
    "lukebot",
+   "lumac0ne",
    "lunaenginechess",
    "lynx_bot",
    "mac-bot",
@@ -5528,13 +5528,12 @@
    "moteur441",
    "mrdeepseekgpt",
    "mrtonnerre",
-   "munzurbot2",
    "musashi-thebot",
    "mychessjava",
    "nanozeroorg",
    "ndr1sn",
-   "neryba",
    "neurosocute",
+   "newengine2022",
    "nexastrat",
    "next_uzbek",
    "nibbleknight",
@@ -5545,6 +5544,7 @@
    "nittedal",
    "nnueandthevoices",
    "noabot",
+   "noksiy",
    "notropis",
    "o-rei-cx",
    "odonata-bot",
@@ -5568,10 +5568,6 @@
    "piebot",
    "pierreai",
    "piglet_engine",
-   "pirates1",
-   "pirates2",
-   "piratesrust",
-   "piratesrustv2",
    "pixiegaming",
    "playmarius",
    "plumboi",
@@ -5604,9 +5600,8 @@
    "robodoxadrez",
    "rubyai",
    "rudim-bot",
+   "rusnikeeai",
    "rust-in-pieces",
-   "rust-in-pieces-nnue",
-   "sacrifice-engine",
    "sapling-bot",
    "sargon-1ply",
    "sargon-3ply",
@@ -5658,7 +5653,6 @@
    "throrbjorn",
    "thunfisch-bot",
    "tigrament",
-   "tikifish",
    "tilapiabot",
    "to299d",
    "togaii",
@@ -5689,7 +5683,6 @@
    "vic98lg",
    "vicentlittle",
    "vietnamesecoffee",
-   "void_bot",
    "vortex_bot",
    "vortexaurafarm",
    "waldemar-the-elf",
