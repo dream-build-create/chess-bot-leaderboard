@@ -97,7 +97,7 @@
   },
   "ajedrezchamberi": {
    "first_seen": "2026-09-29",
-   "last_online": "2026-11-13",
+   "last_online": "2026-11-14",
    "username": "AjedrezChamberi"
   },
   "alarm2001": {
@@ -817,7 +817,7 @@
   },
   "chamberiajedrez": {
    "first_seen": "2026-09-29",
-   "last_online": "2026-11-13",
+   "last_online": "2026-11-14",
    "username": "ChamberiAjedrez"
   },
   "chaotong_engine": {
@@ -987,7 +987,7 @@
   },
   "chesstransformerbot": {
    "first_seen": "2026-10-08",
-   "last_online": "2026-11-13",
+   "last_online": "2026-11-14",
    "username": "ChessTransformerBot"
   },
   "cheszter": {
@@ -3622,7 +3622,7 @@
   },
   "pixiegaming": {
    "first_seen": "2026-10-25",
-   "last_online": "2026-11-13",
+   "last_online": "2026-11-14",
    "username": "pixiegaming"
   },
   "platinumbot": {
@@ -4712,7 +4712,7 @@
   },
   "thefinalchesscard": {
    "first_seen": "2026-11-13",
-   "last_online": "2026-11-13",
+   "last_online": "2026-11-14",
    "username": "TheFinalChessCard"
   },
   "thegrobbot": {
@@ -5277,12 +5277,12 @@
   },
   "zzzzzzzzsleep": {
    "first_seen": "2026-11-08",
-   "last_online": "2026-11-12",
+   "last_online": "2026-11-14",
    "username": "ZZZzzzzzSleep"
   }
  },
  "online": {
-  "checked_at": "2026-11-14T06:59:34Z",
+  "checked_at": "2026-11-14T07:43:08Z",
   "ids": [
    "aconcaguabot",
    "aetherbot",
@@ -5290,6 +5290,7 @@
    "ahmedzhanov",
    "ai-con",
    "ailedbot",
+   "ajedrezchamberi",
    "alarm2001",
    "alehkine_cat",
    "alexandrya",
@@ -5339,6 +5340,7 @@
    "cassidychess-bot",
    "catnail",
    "catriever",
+   "chamberiajedrez",
    "charibot",
    "chessgeniusbot",
    "chessiverse_ethan",
@@ -5347,6 +5349,7 @@
    "chessiverse_raak",
    "chessmindbot",
    "chessnoobcomp",
+   "chesstransformerbot",
    "cheszter",
    "chill4ce",
    "chiral_ebt",
@@ -5411,6 +5414,7 @@
    "funcomp",
    "funfishbot",
    "garbobot",
+   "georgii_ai",
    "geotsibot",
    "glorbo_evermorrow",
    "gnu4u",
@@ -5434,7 +5438,6 @@
    "incipit_bot",
    "is_boss",
    "iskelt-corax",
-   "jamchess_app",
    "jangine",
    "jester7777",
    "jibbby",
@@ -5517,7 +5520,6 @@
    "moteur441",
    "mrdeepseekgpt",
    "mrtonnerre",
-   "musashi-thebot",
    "mychessjava",
    "nanozeroorg",
    "ndr1sn",
@@ -5537,7 +5539,6 @@
    "notropis",
    "o-rei-cx",
    "odonata-bot",
-   "olimarianbot",
    "onechessbot",
    "onezenpanda",
    "openingsbot",
@@ -5559,6 +5560,7 @@
    "piebot",
    "pierreai",
    "piglet_engine",
+   "pixiegaming",
    "playmarius",
    "plumboi",
    "plumbot",
@@ -5614,7 +5616,6 @@
    "slowmate_bot",
    "smartysprout",
    "solobot",
-   "sparkchessengine",
    "springerbot",
    "squarefish-900",
    "sseh-c",
@@ -5639,7 +5640,7 @@
    "tente8x",
    "territorybot",
    "thechessblazer",
-   "thevariantsnormalbot",
+   "thefinalchesscard",
    "throrbjorn",
    "thunfisch-bot",
    "tigrament",
@@ -5678,14 +5679,14 @@
    "vortexaurafarm",
    "waldemar-the-elf",
    "walpurti",
-   "wedge_engine",
    "weiawaga",
    "worstfish",
    "yow-experimental",
    "z-o_aspenlabs",
    "zaglotfish",
    "zion-bot",
-   "zipfile_chess-bot"
+   "zipfile_chess-bot",
+   "zzzzzzzzsleep"
   ]
  },
  "schema_version": 1
