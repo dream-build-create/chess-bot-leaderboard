@@ -1,7 +1,7 @@
 {
  "schema_version": 1,
  "generated_at": "2026-11-14T01:05:09Z",
- "online_checked_at": "2026-11-14T18:28:03Z",
+ "online_checked_at": "2026-11-14T18:43:10Z",
  "source": "Lichess public API",
  "rules": {
   "activity_days": 7,
@@ -5870,7 +5870,7 @@
     "rd": 50,
     "games": 55,
     "last_active": "2026-11-14",
-    "online": false,
+    "online": true,
     "stockfish": true,
     "declared_engine": null,
     "bio": "Little Brother of @RacingKingsBot_1 Creators:xxPedroThePlayer and @TEMUNakamamura Fairy-Stockfish for variants and Stockfish for standard chess. Accepts rated games of all variants. Time controls up to 3+0.",
