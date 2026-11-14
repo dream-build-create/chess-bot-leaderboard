@@ -102,7 +102,7 @@
   },
   "alarm2001": {
    "first_seen": "2026-10-01",
-   "last_online": "2026-11-13",
+   "last_online": "2026-11-14",
    "username": "Alarm2001"
   },
   "alehkine_cat": {
@@ -2182,7 +2182,7 @@
   },
   "jester7777": {
    "first_seen": "2026-11-11",
-   "last_online": "2026-11-13",
+   "last_online": "2026-11-14",
    "username": "jester7777"
   },
   "jesterchessrobot": {
@@ -4717,7 +4717,7 @@
   },
   "thevariantsnormalbot": {
    "first_seen": "2026-11-06",
-   "last_online": "2026-11-13",
+   "last_online": "2026-11-14",
    "username": "ThEvArIaNtSnOrMaLbOt"
   },
   "thomengine": {
@@ -5272,13 +5272,14 @@
   }
  },
  "online": {
-  "checked_at": "2026-11-14T00:43:09Z",
+  "checked_at": "2026-11-14T01:43:14Z",
   "ids": [
    "aconcaguabot",
    "aetherbot",
    "aggressivestockfish",
    "ai-con",
    "ailedbot",
+   "alarm2001",
    "alehkine_cat",
    "alexandrya",
    "aliceshiro",
@@ -5315,7 +5316,6 @@
    "boris-trapsky",
    "bot5551",
    "bot_adario",
-   "botkingteam33",
    "bottios",
    "bretemabot",
    "bubblebot2",
@@ -5394,7 +5394,6 @@
    "fivejoyouspandas",
    "flounderbot",
    "flower-queen",
-   "flowerlilac",
    "forktellbot",
    "fourcuriouspandas",
    "fpga-chess",
@@ -5407,7 +5406,6 @@
    "glorbo_evermorrow",
    "gnu4u",
    "goldfish-engine",
-   "goopis",
    "gopandafish",
    "grail-bot",
    "grindfish",
@@ -5427,6 +5425,7 @@
    "is_boss",
    "iskelt-corax",
    "jangine",
+   "jester7777",
    "jibbby",
    "jjugle",
    "joan_clone",
@@ -5469,7 +5468,6 @@
    "littlepatricia",
    "littleply",
    "lukebot",
-   "lumac0ne",
    "lunaenginechess",
    "lynx_bot",
    "mac-bot",
@@ -5551,7 +5549,6 @@
    "pi0w",
    "picosargon",
    "piebot",
-   "pierreai",
    "piglet_engine",
    "playmarius",
    "plumboi",
@@ -5631,6 +5628,7 @@
    "tente8x",
    "territorybot",
    "thechessblazer",
+   "thevariantsnormalbot",
    "throrbjorn",
    "thunfisch-bot",
    "tigrament",
