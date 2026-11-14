@@ -2157,7 +2157,7 @@
   },
   "jamchess_app": {
    "first_seen": "2026-11-09",
-   "last_online": "2026-11-13",
+   "last_online": "2026-11-14",
    "username": "JamChess_App"
   },
   "jangine": {
@@ -2222,7 +2222,7 @@
   },
   "jimmy_inc3710": {
    "first_seen": "2026-10-02",
-   "last_online": "2026-11-11",
+   "last_online": "2026-11-14",
    "username": "Jimmy_inc3710"
   },
   "jinko-chan": {
@@ -3947,7 +3947,7 @@
   },
   "robodoxadrez": {
    "first_seen": "2026-11-01",
-   "last_online": "2026-11-13",
+   "last_online": "2026-11-14",
    "username": "RoboDoXadrez"
   },
   "robotjfischer": {
@@ -4412,7 +4412,7 @@
   },
   "sparkchessengine": {
    "first_seen": "2026-10-21",
-   "last_online": "2026-11-13",
+   "last_online": "2026-11-14",
    "username": "SparkchessEngine"
   },
   "spearfast": {
@@ -5277,7 +5277,7 @@
   }
  },
  "online": {
-  "checked_at": "2026-11-14T03:43:10Z",
+  "checked_at": "2026-11-14T04:43:09Z",
   "ids": [
    "aconcaguabot",
    "aetherbot",
@@ -5345,7 +5345,6 @@
    "chill4ce",
    "chiral_ebt",
    "chronicgambler",
-   "chrusty",
    "cinder-bot",
    "classical-leela",
    "clessy-bot",
@@ -5412,6 +5411,7 @@
    "glorbo_evermorrow",
    "gnu4u",
    "goldfish-engine",
+   "goopis",
    "gopandafish",
    "grail-bot",
    "grindfish",
@@ -5430,9 +5430,10 @@
    "incipit_bot",
    "is_boss",
    "iskelt-corax",
+   "jamchess_app",
    "jangine",
-   "jester7777",
    "jibbby",
+   "jimmy_inc3710",
    "jjugle",
    "joan_clone",
    "joey_chessengine",
@@ -5442,11 +5443,9 @@
    "jurdbird",
    "justbot-v1",
    "kahunabot",
-   "karl-engine-v1",
    "kbelludoo",
    "kestrelstrike",
    "kirinchessbot",
-   "kittyenginev5",
    "kolmato",
    "kopyto_dev",
    "lamprook",
@@ -5538,6 +5537,7 @@
    "onezenpanda",
    "openingsbot",
    "oxide-eg",
+   "oxybullet",
    "pangubot",
    "panic-fish",
    "partner3615diago",
@@ -5557,7 +5557,6 @@
    "playmarius",
    "plumboi",
    "plumbot",
-   "polvo_engine",
    "premove90-1500",
    "princhess_policy_bot",
    "prokopakop",
@@ -5582,6 +5581,7 @@
    "resolutebot",
    "returnyou",
    "ribfish-bot",
+   "robodoxadrez",
    "rubyai",
    "rudim-bot",
    "rust-in-pieces",
@@ -5609,6 +5609,7 @@
    "slowmate_bot",
    "smartysprout",
    "solobot",
+   "sparkchessengine",
    "springerbot",
    "squarefish-900",
    "sseh-c",
@@ -5633,6 +5634,7 @@
    "tente8x",
    "territorybot",
    "thechessblazer",
+   "thevariantsnormalbot",
    "throrbjorn",
    "thunfisch-bot",
    "tigrament",
@@ -5673,7 +5675,6 @@
    "vortexaurafarm",
    "waldemar-the-elf",
    "walpurti",
-   "ward64-alpha",
    "wedge_engine",
    "weiawaga",
    "worstfish",
