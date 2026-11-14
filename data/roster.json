@@ -467,7 +467,7 @@
   },
   "bit-fish8": {
    "first_seen": "2026-11-01",
-   "last_online": "2026-11-12",
+   "last_online": "2026-11-14",
    "username": "Bit-Fish8"
   },
   "bitbitbot": {
@@ -932,7 +932,7 @@
   },
   "chessgeniusbot": {
    "first_seen": "2026-10-02",
-   "last_online": "2026-11-13",
+   "last_online": "2026-11-14",
    "username": "ChessGeniusBot"
   },
   "chessiverse_ethan": {
@@ -967,7 +967,7 @@
   },
   "chessnoobcomp": {
    "first_seen": "2026-10-26",
-   "last_online": "2026-11-12",
+   "last_online": "2026-11-14",
    "username": "ChessNoobComp"
   },
   "chesspion96": {
@@ -1792,7 +1792,7 @@
   },
   "georgii_ai": {
    "first_seen": "2026-09-28",
-   "last_online": "2026-11-13",
+   "last_online": "2026-11-14",
    "username": "georgii_ai"
   },
   "geotsibot": {
@@ -1984,6 +1984,11 @@
    "first_seen": "2026-09-29",
    "last_online": "2026-10-30",
    "username": "holidaybot1225"
+  },
+  "homoludensbot": {
+   "first_seen": "2026-11-14",
+   "last_online": "2026-11-14",
+   "username": "HomoLudensBot"
   },
   "honeycombee": {
    "first_seen": "2026-09-27",
@@ -3142,7 +3147,7 @@
   },
   "munzurbot2": {
    "first_seen": "2026-10-30",
-   "last_online": "2026-11-13",
+   "last_online": "2026-11-14",
    "username": "MunzurBOT2"
   },
   "muralwingsbot": {
@@ -5277,7 +5282,7 @@
   }
  },
  "online": {
-  "checked_at": "2026-11-14T04:43:09Z",
+  "checked_at": "2026-11-14T05:43:08Z",
   "ids": [
    "aconcaguabot",
    "aetherbot",
@@ -5313,6 +5318,7 @@
    "bernstein-2ply",
    "bernstein-4ply",
    "bfiedler-bot",
+   "bit-fish8",
    "bitbitbot",
    "bluemoonbot",
    "blujay-bot",
@@ -5336,11 +5342,13 @@
    "catriever",
    "charibot",
    "chess_set_manager",
+   "chessgeniusbot",
    "chessiverse_ethan",
    "chessiverse_luc",
    "chessiverse_pawnza",
    "chessiverse_raak",
    "chessmindbot",
+   "chessnoobcomp",
    "cheszter",
    "chill4ce",
    "chiral_ebt",
@@ -5405,8 +5413,8 @@
    "fschess-engine",
    "funcomp",
    "funfishbot",
-   "gambitonlybot",
    "garbobot",
+   "georgii_ai",
    "geotsibot",
    "glorbo_evermorrow",
    "gnu4u",
@@ -5418,8 +5426,8 @@
    "gryndor",
    "hackerchessbot",
    "halcyonbot",
-   "hardrok",
    "hiusbot",
+   "homoludensbot",
    "hummus-bot",
    "hustler_1mb",
    "hustler_2mb",
@@ -5432,6 +5440,7 @@
    "iskelt-corax",
    "jamchess_app",
    "jangine",
+   "jester7777",
    "jibbby",
    "jimmy_inc3710",
    "jjugle",
@@ -5513,6 +5522,7 @@
    "moteur441",
    "mrdeepseekgpt",
    "mrtonnerre",
+   "munzurbot2",
    "mychessjava",
    "nanozeroorg",
    "ndr1sn",
@@ -5634,7 +5644,6 @@
    "tente8x",
    "territorybot",
    "thechessblazer",
-   "thevariantsnormalbot",
    "throrbjorn",
    "thunfisch-bot",
    "tigrament",
@@ -5647,7 +5656,6 @@
    "trainer-bot",
    "trenerhetman",
    "trinculobot",
-   "trojanhorsebot",
    "troutbot",
    "tucuengine",
    "turk_gambit",
