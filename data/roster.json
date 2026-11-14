@@ -1007,7 +1007,7 @@
   },
   "chmod-bot": {
    "first_seen": "2026-10-22",
-   "last_online": "2026-11-07",
+   "last_online": "2026-11-14",
    "username": "chmod-bot"
   },
   "chronicgambler": {
@@ -2380,6 +2380,11 @@
    "last_online": "2026-09-30",
    "username": "KiyEngine"
   },
+  "klak_engine": {
+   "first_seen": "2026-11-14",
+   "last_online": "2026-11-14",
+   "username": "Klak_Engine"
+  },
   "knifexn": {
    "first_seen": "2026-11-13",
    "last_online": "2026-11-13",
@@ -3325,6 +3330,11 @@
    "last_online": "2026-10-09",
    "username": "NightRuin"
   },
+  "nikeeai": {
+   "first_seen": "2026-11-14",
+   "last_online": "2026-11-14",
+   "username": "NikeeAI"
+  },
   "nilatacbot": {
    "first_seen": "2026-09-27",
    "last_online": "2026-11-14",
@@ -3972,7 +3982,7 @@
   },
   "rockingsuperstars": {
    "first_seen": "2026-09-28",
-   "last_online": "2026-11-13",
+   "last_online": "2026-11-14",
    "username": "RockingSuperstars"
   },
   "rodent-iv": {
@@ -5297,7 +5307,7 @@
   }
  },
  "online": {
-  "checked_at": "2026-11-14T13:43:12Z",
+  "checked_at": "2026-11-14T14:43:09Z",
   "ids": [
    "aaronsengine",
    "aconcaguabot",
@@ -5333,7 +5343,6 @@
    "bernstein-2ply",
    "bernstein-4ply",
    "bfiedler-bot",
-   "bit-fish8",
    "bitbitbot",
    "black-bishop-kh",
    "bluemoonbot",
@@ -5351,7 +5360,6 @@
    "bubblebot2",
    "byte-knight",
    "bytefish",
-   "c-t-r-l",
    "caiporabot",
    "capabot",
    "casanchess-nnue",
@@ -5373,6 +5381,7 @@
    "cheszter",
    "chill4ce",
    "chiral_ebt",
+   "chmod-bot",
    "chronicgambler",
    "cinder-bot",
    "classical-leela",
@@ -5396,7 +5405,6 @@
    "dala-700",
    "dala-900",
    "darkelectronbot",
-   "darkonbot",
    "darkonweakbot",
    "debzero",
    "deepbecky",
@@ -5418,6 +5426,7 @@
    "elmichess",
    "endspiel-pi",
    "entebot",
+   "eubos",
    "fairytailregimebot",
    "falconengine",
    "fathzer-jchess",
@@ -5439,6 +5448,7 @@
    "glorbo_evermorrow",
    "gnu4u",
    "goldfish-engine",
+   "goopis",
    "gopandafish",
    "grail-bot",
    "grindfish",
@@ -5475,6 +5485,7 @@
    "kbelludoo",
    "kestrelstrike",
    "kirinchessbot",
+   "klak_engine",
    "kolmato",
    "kopyto_dev",
    "lamprook",
@@ -5529,7 +5540,6 @@
    "mate-in-twenty",
    "mate1-bot",
    "matmoi",
-   "mcdonalds1955",
    "mdbot",
    "mega-noob-bot",
    "melsh_bot",
@@ -5556,6 +5566,7 @@
    "nice_bot",
    "nichteliasbot",
    "nickdrohan",
+   "nikeeai",
    "nilatacbot",
    "nittedal",
    "nnueandthevoices",
@@ -5568,6 +5579,7 @@
    "onezenpanda",
    "openingsbot",
    "oxide-eg",
+   "oxybullet",
    "pangubot",
    "panic-fish",
    "partner3615diago",
@@ -5612,6 +5624,7 @@
    "resolutebot",
    "returnyou",
    "ribfish-bot",
+   "rockingsuperstars",
    "rubyai",
    "rudim-bot",
    "rust-in-pieces",
@@ -5693,7 +5706,6 @@
    "usunfish-l7",
    "utrain-chess-bot",
    "uxugin-bot",
-   "vanibot",
    "variantsbot",
    "vic98lg",
    "vicentlittle",
