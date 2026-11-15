@@ -467,7 +467,7 @@
   },
   "bit-fish8": {
    "first_seen": "2026-11-01",
-   "last_online": "2026-11-14",
+   "last_online": "2026-11-15",
    "username": "Bit-Fish8"
   },
   "bitbitbot": {
@@ -3177,7 +3177,7 @@
   },
   "musashi-thebot": {
    "first_seen": "2026-09-28",
-   "last_online": "2026-11-14",
+   "last_online": "2026-11-15",
    "username": "Musashi-thebot"
   },
   "mxnet-gamemaster": {
@@ -4892,7 +4892,7 @@
   },
   "trojanhorsebot": {
    "first_seen": "2026-10-25",
-   "last_online": "2026-11-14",
+   "last_online": "2026-11-15",
    "username": "TrojanHorseBOT"
   },
   "troutbot": {
@@ -5337,7 +5337,7 @@
   }
  },
  "online": {
-  "checked_at": "2026-11-15T05:43:10Z",
+  "checked_at": "2026-11-15T06:43:11Z",
   "ids": [
    "aconcaguabot",
    "aetherbot",
@@ -5370,6 +5370,7 @@
    "bernstein-2ply",
    "bernstein-4ply",
    "bfiedler-bot",
+   "bit-fish8",
    "bitbitbot",
    "bluemoonbot",
    "blujay-bot",
@@ -5503,6 +5504,7 @@
    "jurdbird",
    "justbot-v1",
    "kahunabot",
+   "karl-engine-v1",
    "kbelludoo",
    "kestrelstrike",
    "kirinchessbot",
@@ -5573,6 +5575,8 @@
    "moteur441",
    "mrdeepseekgpt",
    "mrtonnerre",
+   "munzurbot2",
+   "musashi-thebot",
    "mychessjava",
    "nanozeroorg",
    "ndr1sn",
@@ -5588,6 +5592,7 @@
    "nnueandthevoices",
    "noabot",
    "nohopeforman",
+   "noksiy",
    "notropis",
    "o-rei-cx",
    "odonata-bot",
@@ -5614,7 +5619,6 @@
    "piglet_engine",
    "plumboi",
    "plumbot",
-   "ponytail_engine",
    "premove90-1500",
    "princhess_policy_bot",
    "prokopakop",
@@ -5666,7 +5670,6 @@
    "slowmate_bot",
    "smartysprout",
    "solobot",
-   "sparkchessengine",
    "springerbot",
    "squarefish-900",
    "sseh-c",
@@ -5692,7 +5695,6 @@
    "territorybot",
    "thechessblazer",
    "thefinalchesscard",
-   "thevariantsnormalbot",
    "throrbjorn",
    "thunfisch-bot",
    "tigrament",
@@ -5705,6 +5707,7 @@
    "trainer-bot",
    "trenerhetman",
    "trinculobot",
+   "trojanhorsebot",
    "troutbot",
    "tucuengine",
    "turk_gambit",
@@ -5724,7 +5727,6 @@
    "uxugin-bot",
    "uzenatch",
    "variantsbot",
-   "vi-rock-chess",
    "vic98lg",
    "vicentlittle",
    "vietnamesecoffee",
