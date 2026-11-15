@@ -32,7 +32,7 @@
   },
   "abdcebot": {
    "first_seen": "2026-09-27",
-   "last_online": "2026-10-21",
+   "last_online": "2026-11-15",
    "username": "abdcebot"
   },
   "aconcaguabot": {
@@ -59,6 +59,11 @@
    "first_seen": "2026-09-27",
    "last_online": "2026-11-15",
    "username": "AetherBot"
+  },
+  "aethertal_bot": {
+   "first_seen": "2026-11-15",
+   "last_online": "2026-11-15",
+   "username": "AetherTal_Bot"
   },
   "agentc313": {
    "first_seen": "2026-09-30",
@@ -577,12 +582,12 @@
   },
   "bot1e": {
    "first_seen": "2026-09-27",
-   "last_online": "2026-10-21",
+   "last_online": "2026-11-15",
    "username": "bot1e"
   },
   "bot1nokk": {
    "first_seen": "2026-09-27",
-   "last_online": "2026-10-21",
+   "last_online": "2026-11-15",
    "username": "Bot1nokk"
   },
   "bot5551": {
@@ -892,7 +897,7 @@
   },
   "chess-dragon1": {
    "first_seen": "2026-09-27",
-   "last_online": "2026-11-14",
+   "last_online": "2026-11-15",
    "username": "Chess-Dragon1"
   },
   "chess26_bot": {
@@ -3210,6 +3215,11 @@
    "last_online": "2026-11-15",
    "username": "Musashi-thebot"
   },
+  "mutusbot": {
+   "first_seen": "2026-11-15",
+   "last_online": "2026-11-15",
+   "username": "MutusBot"
+  },
   "mxnet-gamemaster": {
    "first_seen": "2026-09-28",
    "last_online": "2026-11-04",
@@ -4022,7 +4032,7 @@
   },
   "rocketengine": {
    "first_seen": "2026-10-11",
-   "last_online": "2026-11-10",
+   "last_online": "2026-11-15",
    "username": "RocketEngine"
   },
   "rockingsuperstars": {
@@ -4032,7 +4042,7 @@
   },
   "rodent-iv": {
    "first_seen": "2026-10-05",
-   "last_online": "2026-11-13",
+   "last_online": "2026-11-15",
    "username": "Rodent-IV"
   },
   "rodent-v": {
@@ -4267,7 +4277,7 @@
   },
   "sf_bot1nok": {
    "first_seen": "2026-09-27",
-   "last_online": "2026-10-21",
+   "last_online": "2026-11-15",
    "username": "SF_Bot1nok"
   },
   "shahmatbot": {
@@ -5377,11 +5387,13 @@
   }
  },
  "online": {
-  "checked_at": "2026-11-15T16:43:10Z",
+  "checked_at": "2026-11-15T17:43:09Z",
   "ids": [
    "aaronsengine",
+   "abdcebot",
    "aconcaguabot",
    "aetherbot",
+   "aethertal_bot",
    "aggressivestockfish",
    "ai-con",
    "ailedbot",
@@ -5414,20 +5426,23 @@
    "bfiedler-bot",
    "bitbitbot",
    "bluemoonbot",
+   "blujay-bot",
    "blundermind-01",
    "bobby_pcolla",
    "bongaclang",
    "boris-trapsky",
+   "bot1e",
+   "bot1nokk",
    "bot5551",
    "bot64jaques",
    "bot_adario",
-   "botkingteam33",
    "bottios",
    "bourbonbot",
    "bretemabot",
    "bubblebot2",
    "byte-knight",
    "bytefish",
+   "c-t-r-l",
    "caiporabot",
    "capabot",
    "carmin-brilliant",
@@ -5437,6 +5452,7 @@
    "catriever",
    "chamberiajedrez",
    "charibot",
+   "chess-dragon1",
    "chess3bot",
    "chess_set_manager",
    "chessgeniusbot",
@@ -5473,6 +5489,7 @@
    "dala-700",
    "dala-900",
    "darkelectronbot",
+   "darkonbot",
    "darkonweakbot",
    "death1234567-hell",
    "debzero",
@@ -5533,6 +5550,7 @@
    "illuminachessengine",
    "ilovecatgirl",
    "incipit_bot",
+   "io-bot",
    "is_boss",
    "iskelt-corax",
    "jamchess_app",
@@ -5556,7 +5574,6 @@
    "kolmato",
    "kopyto_dev",
    "lamprook",
-   "lantern_bot",
    "laura-bot",
    "leechgodestroy",
    "leelaalien",
@@ -5606,11 +5623,11 @@
    "mate-in-twenty",
    "mate1-bot",
    "matmoi",
+   "mcdonalds1955",
    "mdbot",
    "mega-noob-bot",
    "melsh_bot",
    "miccoengine",
-   "michaamateurbot",
    "milanbot",
    "mimirbot",
    "minopponentmoves",
@@ -5621,11 +5638,12 @@
    "moteur441",
    "mrdeepseekgpt",
    "mrtonnerre",
-   "mychessjava",
+   "munzurbot2",
+   "mutusbot",
    "nanozeroorg",
+   "ndr1sn",
    "nebubot",
    "neryba",
-   "nest-chess",
    "neurosocute",
    "newengine2022",
    "nexastrat",
@@ -5688,7 +5706,10 @@
    "resolutebot",
    "returnyou",
    "ribfish-bot",
+   "robodoxadrez",
+   "rocketengine",
    "rockingsuperstars",
+   "rodent-iv",
    "rubyai",
    "rudim-bot",
    "rust-in-pieces",
@@ -5703,6 +5724,7 @@
    "scipio-bot",
    "seedchess",
    "seitogakatsu",
+   "sf_bot1nok",
    "shallowredbot",
    "sharpdubot",
    "sharpsundae",
@@ -5714,10 +5736,10 @@
    "sj_norbot",
    "slate-engine",
    "sleepmindengine",
-   "sleepycpu",
    "slowmate_bot",
    "smartysprout",
    "solobot",
+   "spearfast",
    "springerbot",
    "squarefish-900",
    "sseh-c",
@@ -5766,6 +5788,7 @@
    "turochamp-2ply",
    "twosillypandas",
    "ultrabrick",
+   "unifiedchess-bot",
    "unimark",
    "ursus_bot",
    "usunfish",
