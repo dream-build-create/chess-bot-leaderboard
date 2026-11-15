@@ -652,7 +652,7 @@
   },
   "bourbonbot": {
    "first_seen": "2026-11-14",
-   "last_online": "2026-11-14",
+   "last_online": "2026-11-15",
    "username": "bourbonbot"
   },
   "bravobot": {
@@ -1422,7 +1422,7 @@
   },
   "drewschessmachine": {
    "first_seen": "2026-09-28",
-   "last_online": "2026-11-14",
+   "last_online": "2026-11-15",
    "username": "DrewsChessMachine"
   },
   "drlemonzzbot": {
@@ -3802,7 +3802,7 @@
   },
   "queensgambot": {
    "first_seen": "2026-09-27",
-   "last_online": "2026-11-14",
+   "last_online": "2026-11-15",
    "username": "QueensGamBOT"
   },
   "quirkafleeg-pc": {
@@ -3977,7 +3977,7 @@
   },
   "robodoxadrez": {
    "first_seen": "2026-11-01",
-   "last_online": "2026-11-14",
+   "last_online": "2026-11-15",
    "username": "RoboDoXadrez"
   },
   "robotjfischer": {
@@ -5327,7 +5327,7 @@
   }
  },
  "online": {
-  "checked_at": "2026-11-15T01:43:09Z",
+  "checked_at": "2026-11-15T02:43:09Z",
   "ids": [
    "aconcaguabot",
    "aetherbot",
@@ -5368,6 +5368,7 @@
    "bot5551",
    "bot_adario",
    "bottios",
+   "bourbonbot",
    "bretemabot",
    "bubblebot2",
    "byte-knight",
@@ -5424,6 +5425,7 @@
    "disrespect_fish",
    "dravox",
    "drawfish-reborn",
+   "drewschessmachine",
    "dubot",
    "duchessai",
    "dumbotai",
@@ -5446,7 +5448,6 @@
    "flower-queen",
    "forktellbot",
    "fourcuriouspandas",
-   "fpga-chess",
    "fschess-engine",
    "funcomp",
    "funfishbot",
@@ -5470,13 +5471,13 @@
    "hustler_5mb",
    "hyperopic",
    "icarus-bot",
+   "illuminachessengine",
    "ilovecatgirl",
    "incipit_bot",
    "io-bot",
    "is_boss",
    "iskelt-corax",
    "jangine",
-   "jester7777",
    "jibbby",
    "jimmy_inc3710",
    "jjugle",
@@ -5560,7 +5561,6 @@
    "moteur441",
    "mrdeepseekgpt",
    "mrtonnerre",
-   "munzurbot2",
    "mychessjava",
    "nanozeroorg",
    "ndr1sn",
@@ -5601,7 +5601,6 @@
    "piebot",
    "pierreai",
    "piglet_engine",
-   "playmarius",
    "plumboi",
    "polvo_engine",
    "premove90-1500",
@@ -5610,6 +5609,7 @@
    "psion-chess",
    "puisne",
    "pzchessbot",
+   "queensgambot",
    "quirkafleeg-pc",
    "quirkafleeg-zx48k",
    "quirkafleeg-zxnext",
@@ -5627,6 +5627,7 @@
    "resolutebot",
    "returnyou",
    "ribfish-bot",
+   "robodoxadrez",
    "rubyai",
    "rudim-bot",
    "rust-in-pieces",
@@ -5635,11 +5636,11 @@
    "sardinebot",
    "sargon-1ply",
    "sargon-3ply",
-   "sbdaniel_rucore",
    "sbnovella",
    "scalaqueen",
    "schnecken_bot",
    "scipio-bot",
+   "seedchess",
    "seitogakatsu",
    "shallowredbot",
    "sharpdubot",
