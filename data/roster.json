@@ -525,6 +525,11 @@
    "last_online": "2026-11-14",
    "username": "Blunder-Engine"
   },
+  "blundermind-01": {
+   "first_seen": "2026-11-15",
+   "last_online": "2026-11-15",
+   "username": "Blundermind-01"
+  },
   "bobby_pcolla": {
    "first_seen": "2026-09-27",
    "last_online": "2026-11-15",
@@ -1797,7 +1802,7 @@
   },
   "georgii_ai": {
    "first_seen": "2026-09-28",
-   "last_online": "2026-11-14",
+   "last_online": "2026-11-15",
    "username": "georgii_ai"
   },
   "geotsibot": {
@@ -4782,7 +4787,7 @@
   },
   "throrbjorn": {
    "first_seen": "2026-09-27",
-   "last_online": "2026-11-14",
+   "last_online": "2026-11-15",
    "username": "ThrorBjorn"
   },
   "thunfisch-bot": {
@@ -4997,7 +5002,7 @@
   },
   "utrain-chess-bot": {
    "first_seen": "2026-11-06",
-   "last_online": "2026-11-14",
+   "last_online": "2026-11-15",
    "username": "utrain-chess-bot"
   },
   "uundrstnd": {
@@ -5327,7 +5332,7 @@
   }
  },
  "online": {
-  "checked_at": "2026-11-15T02:43:09Z",
+  "checked_at": "2026-11-15T03:43:11Z",
   "ids": [
    "aconcaguabot",
    "aetherbot",
@@ -5362,6 +5367,7 @@
    "bitbitbot",
    "bluemoonbot",
    "blujay-bot",
+   "blundermind-01",
    "bobby_pcolla",
    "bongaclang",
    "boris-trapsky",
@@ -5453,6 +5459,7 @@
    "funfishbot",
    "gambitonlybot",
    "garbobot",
+   "georgii_ai",
    "geotsibot",
    "glorbo_evermorrow",
    "gnu4u",
@@ -5602,7 +5609,6 @@
    "pierreai",
    "piglet_engine",
    "plumboi",
-   "polvo_engine",
    "premove90-1500",
    "princhess_policy_bot",
    "prokopakop",
@@ -5627,7 +5633,6 @@
    "resolutebot",
    "returnyou",
    "ribfish-bot",
-   "robodoxadrez",
    "rubyai",
    "rudim-bot",
    "rust-in-pieces",
@@ -5659,7 +5664,6 @@
    "springerbot",
    "squarefish-900",
    "sseh-c",
-   "stargazerengine",
    "stepbot_chess",
    "stickshark99",
    "stockconda",
@@ -5682,6 +5686,8 @@
    "territorybot",
    "thechessblazer",
    "thefinalchesscard",
+   "thevariantsnormalbot",
+   "throrbjorn",
    "thunfisch-bot",
    "tigrament",
    "tikifish",
@@ -5708,6 +5714,7 @@
    "usunfish-l0",
    "usunfish-l1",
    "usunfish-l7",
+   "utrain-chess-bot",
    "uxugin-bot",
    "uzenatch",
    "variantsbot",
