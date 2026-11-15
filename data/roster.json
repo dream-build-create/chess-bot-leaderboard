@@ -1112,7 +1112,7 @@
   },
   "colossusbot": {
    "first_seen": "2026-09-30",
-   "last_online": "2026-11-14",
+   "last_online": "2026-11-15",
    "username": "ColossusBOT"
   },
   "compchess2": {
@@ -1284,6 +1284,11 @@
    "first_seen": "2026-09-27",
    "last_online": "2026-10-27",
    "username": "DavidsGuterBot"
+  },
+  "death1234567-hell": {
+   "first_seen": "2026-11-15",
+   "last_online": "2026-11-15",
+   "username": "death1234567-hell"
   },
   "debzero": {
    "first_seen": "2026-09-27",
@@ -1712,7 +1717,7 @@
   },
   "fobero": {
    "first_seen": "2026-11-13",
-   "last_online": "2026-11-14",
+   "last_online": "2026-11-15",
    "username": "Fobero"
   },
   "forktellbot": {
@@ -2412,7 +2417,7 @@
   },
   "klak_engine": {
    "first_seen": "2026-11-14",
-   "last_online": "2026-11-14",
+   "last_online": "2026-11-15",
    "username": "Klak_Engine"
   },
   "knifexn": {
@@ -3297,7 +3302,7 @@
   },
   "newengine2022": {
    "first_seen": "2026-10-06",
-   "last_online": "2026-11-14",
+   "last_online": "2026-11-15",
    "username": "newengine2022"
   },
   "newtsbot": {
@@ -5052,7 +5057,7 @@
   },
   "vanibot": {
    "first_seen": "2026-09-27",
-   "last_online": "2026-11-14",
+   "last_online": "2026-11-15",
    "username": "vanibot"
   },
   "variantsbot": {
@@ -5357,7 +5362,7 @@
   }
  },
  "online": {
-  "checked_at": "2026-11-15T10:43:08Z",
+  "checked_at": "2026-11-15T11:43:14Z",
   "ids": [
    "aaronsengine",
    "aconcaguabot",
@@ -5393,6 +5398,7 @@
    "bernstein-2ply",
    "bernstein-4ply",
    "bfiedler-bot",
+   "bit-fish8",
    "bitbitbot",
    "black-bishop-kh",
    "bluemoonbot",
@@ -5441,6 +5447,7 @@
    "clrsrc_lc0",
    "coda_bot",
    "colinbot",
+   "colossusbot",
    "confidencebuilder",
    "cookiebot711",
    "craftyuci",
@@ -5457,6 +5464,7 @@
    "darkelectronbot",
    "darkonbot",
    "darkonweakbot",
+   "death1234567-hell",
    "debzero",
    "deepbecky",
    "deepsquare-ai",
@@ -5487,6 +5495,7 @@
    "fivejoyouspandas",
    "flounderbot",
    "flower-queen",
+   "fobero",
    "fourcuriouspandas",
    "fschess-engine",
    "funcomp",
@@ -5517,7 +5526,6 @@
    "is_boss",
    "iskelt-corax",
    "jangine",
-   "jibbby",
    "jimmy_inc3710",
    "jjugle",
    "joan_clone",
@@ -5525,14 +5533,13 @@
    "jongsungkim",
    "joshsbot",
    "jpg-bot",
-   "jurdbird",
    "justbot-v1",
    "kahunabot",
    "karl-engine-v1",
    "kbelludoo",
    "kestrelstrike",
    "kirinchessbot",
-   "kolmato",
+   "klak_engine",
    "kopyto_dev",
    "lamprook",
    "laura-bot",
@@ -5548,7 +5555,6 @@
    "leelarookodds",
    "leelatroll",
    "leelonardo",
-   "legotechniccontrolpl",
    "levymaia",
    "lightning-762",
    "likeawizard-bot",
@@ -5605,6 +5611,7 @@
    "ndr1sn",
    "neryba",
    "neurosocute",
+   "newengine2022",
    "nexastrat",
    "nibbleknight",
    "nice_bot",
@@ -5637,6 +5644,7 @@
    "piebot",
    "pierreai",
    "piglet_engine",
+   "playmarius",
    "plumboi",
    "plumbot",
    "premove90-1500",
@@ -5646,6 +5654,7 @@
    "puisne",
    "pzchessbot",
    "queensgambot",
+   "quirkafleeg-pc",
    "quirkafleeg-zx48k",
    "quirkafleeg-zxnext",
    "r0bspierre",
@@ -5700,7 +5709,6 @@
    "stockpapagei",
    "streamervschat",
    "stupidfishbotbydscs",
-   "stupiditybot",
    "styx-chess",
    "sunfish-engine",
    "sunfish-nnue-engine",
@@ -5719,7 +5727,6 @@
    "throrbjorn",
    "thunfisch-bot",
    "tigrament",
-   "tikifish",
    "tilapiabot",
    "to299d",
    "togaii",
@@ -5747,12 +5754,12 @@
    "utrain-chess-bot",
    "uxugin-bot",
    "uzenatch",
+   "vanibot",
    "variantsbot",
    "vi-rock-chess",
    "vic98lg",
    "vicentlittle",
    "vietnamesecoffee",
-   "void_bot",
    "vortex_bot",
    "vortexaurafarm",
    "waldemar-the-elf",
