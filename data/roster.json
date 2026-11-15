@@ -2725,6 +2725,11 @@
    "last_online": "2026-11-06",
    "username": "lol_cc_bot"
   },
+  "losesbot": {
+   "first_seen": "2026-11-15",
+   "last_online": "2026-11-15",
+   "username": "LosesBot"
+  },
   "lostfish-bot": {
    "first_seen": "2026-10-20",
    "last_online": "2026-10-23",
@@ -4172,7 +4177,7 @@
   },
   "sara_bot1": {
    "first_seen": "2026-10-15",
-   "last_online": "2026-11-13",
+   "last_online": "2026-11-15",
    "username": "sAra_bot1"
   },
   "sardinebot": {
@@ -5392,7 +5397,7 @@
   }
  },
  "online": {
-  "checked_at": "2026-11-15T18:43:10Z",
+  "checked_at": "2026-11-15T19:05:09Z",
   "ids": [
    "aaronsengine",
    "abdcebot",
@@ -5435,7 +5440,6 @@
    "bobby_pcolla",
    "bongaclang",
    "boris-trapsky",
-   "borkatower",
    "bot1e",
    "bot1nokk",
    "bot5551",
@@ -5498,6 +5502,7 @@
    "demen100ns-bot",
    "devchessplayer-bot",
    "devilfishbot",
+   "devilfishzero",
    "disrespect_fish",
    "dravox",
    "drawfish-reborn",
@@ -5596,6 +5601,7 @@
    "little-0",
    "littlepatricia",
    "littleply",
+   "losesbot",
    "lukebot",
    "lumac0ne",
    "lynx_bot",
@@ -5638,7 +5644,6 @@
    "moteur441",
    "mrdeepseekgpt",
    "mrtonnerre",
-   "munzurbot2",
    "mutusbot",
    "nanozeroorg",
    "ndr1sn",
@@ -5662,6 +5667,7 @@
    "onechessbot",
    "onezenpanda",
    "openingsbot",
+   "oxide-eg",
    "pangubot",
    "panic-fish",
    "partner3615diago",
@@ -5682,6 +5688,7 @@
    "playmarius",
    "plumboi",
    "plumbot",
+   "polvo_engine",
    "premove90-1500",
    "princhess_policy_bot",
    "prokopakop",
@@ -5713,6 +5720,7 @@
    "rust-in-pieces",
    "rust-in-pieces-nnue",
    "sapling-bot",
+   "sara_bot1",
    "sardinebot",
    "sargon-1ply",
    "sargon-3ply",
@@ -5737,7 +5745,6 @@
    "slowmate_bot",
    "smartysprout",
    "solobot",
-   "spearfast",
    "springerbot",
    "squarefish-900",
    "sseh-c",
@@ -5759,7 +5766,6 @@
    "sykorabot",
    "tallikebot",
    "tempocore",
-   "tente-v2",
    "tente8x",
    "territorybot",
    "thechessblazer",
@@ -5812,7 +5818,6 @@
    "yow-experimental",
    "z-o_aspenlabs",
    "zaglotfish",
-   "zerobauer",
    "zion-bot",
    "zipfile_chess-bot"
   ]
