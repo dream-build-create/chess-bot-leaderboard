@@ -582,7 +582,7 @@
   },
   "bot64jaques": {
    "first_seen": "2026-09-27",
-   "last_online": "2026-11-14",
+   "last_online": "2026-11-15",
    "username": "bot64jaques"
   },
   "bot913": {
@@ -1352,7 +1352,7 @@
   },
   "devichessengine": {
    "first_seen": "2026-11-11",
-   "last_online": "2026-11-11",
+   "last_online": "2026-11-15",
    "username": "devichessengine"
   },
   "devilfishbot": {
@@ -1364,6 +1364,11 @@
    "first_seen": "2026-11-12",
    "last_online": "2026-11-15",
    "username": "DevilfishZero"
+  },
+  "devilfishzerotwo": {
+   "first_seen": "2026-11-15",
+   "last_online": "2026-11-15",
+   "username": "DevilfishZeroTwo"
   },
   "dfy-bot": {
    "first_seen": "2026-10-18",
@@ -3422,7 +3427,7 @@
   },
   "olimarianbot": {
    "first_seen": "2026-10-21",
-   "last_online": "2026-11-14",
+   "last_online": "2026-11-15",
    "username": "Olimarianbot"
   },
   "omegazero-bot": {
@@ -4352,7 +4357,7 @@
   },
   "sleepycpu": {
    "first_seen": "2026-11-14",
-   "last_online": "2026-11-14",
+   "last_online": "2026-11-15",
    "username": "SleepyCPU"
   },
   "sleepypawnofficial": {
@@ -5342,7 +5347,7 @@
   }
  },
  "online": {
-  "checked_at": "2026-11-15T07:43:13Z",
+  "checked_at": "2026-11-15T08:43:07Z",
   "ids": [
    "aconcaguabot",
    "aetherbot",
@@ -5383,6 +5388,7 @@
    "bongaclang",
    "boris-trapsky",
    "bot5551",
+   "bot64jaques",
    "bot_adario",
    "bottios",
    "bourbonbot",
@@ -5390,6 +5396,7 @@
    "bubblebot2",
    "byte-knight",
    "bytefish",
+   "c-t-r-l",
    "caiporabot",
    "caissa-x",
    "capabot",
@@ -5434,14 +5441,16 @@
    "dala-700",
    "dala-900",
    "darkelectronbot",
+   "darkonbot",
    "darkonweakbot",
    "debzero",
    "deepbecky",
    "deepsquare-ai",
    "demen100ns-bot",
    "devchessplayer-bot",
+   "devichessengine",
    "devilfishbot",
-   "devilfishzero",
+   "devilfishzerotwo",
    "disrespect_fish",
    "dravox",
    "drawfish-reborn",
@@ -5463,7 +5472,6 @@
    "felipe_bot_53",
    "fenrirbot",
    "fetacompli",
-   "firebot_pl",
    "fivejoyouspandas",
    "flounderbot",
    "flower-queen",
@@ -5565,6 +5573,7 @@
    "mate-in-twenty",
    "mate1-bot",
    "matmoi",
+   "mcdonalds1955",
    "mdbot",
    "mega-noob-bot",
    "melsh_bot",
@@ -5580,7 +5589,6 @@
    "moteur441",
    "mrdeepseekgpt",
    "mrtonnerre",
-   "munzurbot2",
    "musashi-thebot",
    "mychessjava",
    "nanozeroorg",
@@ -5600,10 +5608,10 @@
    "noksiy",
    "o-rei-cx",
    "odonata-bot",
+   "olimarianbot",
    "onechessbot",
    "onezenpanda",
    "openingsbot",
-   "oxide-eg",
    "oxybullet",
    "pangubot",
    "panic-fish",
@@ -5621,7 +5629,6 @@
    "piebot",
    "pierreai",
    "piglet_engine",
-   "pixiegaming",
    "plumboi",
    "plumbot",
    "premove90-1500",
@@ -5648,6 +5655,7 @@
    "resolutebot",
    "returnyou",
    "ribfish-bot",
+   "robodoxadrez",
    "rubyai",
    "rudim-bot",
    "rust-in-pieces",
@@ -5671,6 +5679,7 @@
    "simpleeval",
    "sj_norbot",
    "slate-engine",
+   "sleepycpu",
    "slowmate_bot",
    "smartysprout",
    "solobot",
@@ -5698,6 +5707,7 @@
    "tente8x",
    "territorybot",
    "thechessblazer",
+   "thefinalchesscard",
    "thevariantsnormalbot",
    "throrbjorn",
    "thunfisch-bot",
@@ -5742,7 +5752,6 @@
    "walpurti",
    "weiawaga",
    "worstfish",
-   "yow-experimental",
    "z-o_aspenlabs",
    "zaglotfish",
    "zion-bot",
