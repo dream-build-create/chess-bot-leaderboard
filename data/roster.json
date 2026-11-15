@@ -207,7 +207,7 @@
   },
   "apexchess-bot": {
    "first_seen": "2026-10-31",
-   "last_online": "2026-11-11",
+   "last_online": "2026-11-15",
    "username": "ApexChess-Bot"
   },
   "aposeij": {
@@ -277,7 +277,7 @@
   },
   "ashasevidence": {
    "first_seen": "2026-10-08",
-   "last_online": "2026-11-14",
+   "last_online": "2026-11-15",
    "username": "ashasevidence"
   },
   "ashnostromo": {
@@ -3672,7 +3672,7 @@
   },
   "plumbot": {
    "first_seen": "2026-10-20",
-   "last_online": "2026-11-14",
+   "last_online": "2026-11-15",
    "username": "plumbot"
   },
   "polvo_engine": {
@@ -3692,7 +3692,7 @@
   },
   "ponytail_engine": {
    "first_seen": "2026-10-28",
-   "last_online": "2026-11-11",
+   "last_online": "2026-11-15",
    "username": "Ponytail_engine"
   },
   "potential_engine": {
@@ -5045,6 +5045,11 @@
    "last_online": "2026-11-15",
    "username": "VariantsBot"
   },
+  "vi-rock-chess": {
+   "first_seen": "2026-11-15",
+   "last_online": "2026-11-15",
+   "username": "vi-rock-chess"
+  },
   "vic98lg": {
    "first_seen": "2026-09-27",
    "last_online": "2026-11-15",
@@ -5332,7 +5337,7 @@
   }
  },
  "online": {
-  "checked_at": "2026-11-15T03:43:11Z",
+  "checked_at": "2026-11-15T04:43:11Z",
   "ids": [
    "aconcaguabot",
    "aetherbot",
@@ -5349,11 +5354,13 @@
    "annie_archy",
    "anti-bot",
    "antibotv3-7",
+   "apexchess-bot",
    "aposeij",
    "approximationbot",
    "arasanx",
    "arkiplayschess",
    "artidigm_research",
+   "ashasevidence",
    "ashnostromo",
    "athena-chessbot",
    "axiom_bot",
@@ -5389,6 +5396,7 @@
    "catriever",
    "charibot",
    "chess3bot",
+   "chess_set_manager",
    "chessiverse_ethan",
    "chessiverse_luc",
    "chessiverse_pawnza",
@@ -5457,7 +5465,6 @@
    "fschess-engine",
    "funcomp",
    "funfishbot",
-   "gambitonlybot",
    "garbobot",
    "georgii_ai",
    "geotsibot",
@@ -5496,14 +5503,12 @@
    "jurdbird",
    "justbot-v1",
    "kahunabot",
-   "karl-engine-v1",
    "kbelludoo",
    "kestrelstrike",
    "kirinchessbot",
    "kolmato",
    "kopyto_dev",
    "lamprook",
-   "latrunculi-bot",
    "laura-bot",
    "leechgodestroy",
    "leelaalien",
@@ -5517,7 +5522,6 @@
    "leelarookodds",
    "leelatroll",
    "leelonardo",
-   "legotechniccontrolpl",
    "levymaia",
    "lightning-762",
    "likeawizard-bot",
@@ -5568,6 +5572,7 @@
    "moteur441",
    "mrdeepseekgpt",
    "mrtonnerre",
+   "munzurbot2",
    "mychessjava",
    "nanozeroorg",
    "ndr1sn",
@@ -5583,7 +5588,6 @@
    "nnueandthevoices",
    "noabot",
    "nohopeforman",
-   "noksiy",
    "notropis",
    "o-rei-cx",
    "odonata-bot",
@@ -5609,6 +5613,8 @@
    "pierreai",
    "piglet_engine",
    "plumboi",
+   "plumbot",
+   "ponytail_engine",
    "premove90-1500",
    "princhess_policy_bot",
    "prokopakop",
@@ -5641,6 +5647,7 @@
    "sardinebot",
    "sargon-1ply",
    "sargon-3ply",
+   "sbdaniel_rucore",
    "sbnovella",
    "scalaqueen",
    "schnecken_bot",
@@ -5653,7 +5660,6 @@
    "shrevenbot",
    "silasly",
    "sim3million",
-   "simple-bot",
    "simpleeval",
    "sj_norbot",
    "slate-engine",
@@ -5686,11 +5692,9 @@
    "territorybot",
    "thechessblazer",
    "thefinalchesscard",
-   "thevariantsnormalbot",
    "throrbjorn",
    "thunfisch-bot",
    "tigrament",
-   "tikifish",
    "tilapiabot",
    "to299d",
    "togaii",
@@ -5718,10 +5722,10 @@
    "uxugin-bot",
    "uzenatch",
    "variantsbot",
+   "vi-rock-chess",
    "vic98lg",
    "vicentlittle",
    "vietnamesecoffee",
-   "void_bot",
    "vortex_bot",
    "vortexaurafarm",
    "waldemar-the-elf",
