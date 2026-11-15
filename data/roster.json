@@ -1862,7 +1862,7 @@
   },
   "goopis": {
    "first_seen": "2026-09-27",
-   "last_online": "2026-11-14",
+   "last_online": "2026-11-15",
    "username": "Goopis"
   },
   "gopandafish": {
@@ -2117,7 +2117,7 @@
   },
   "io-bot": {
    "first_seen": "2026-09-28",
-   "last_online": "2026-11-14",
+   "last_online": "2026-11-15",
    "username": "io-bot"
   },
   "iran_f72": {
@@ -3162,7 +3162,7 @@
   },
   "munzurbot2": {
    "first_seen": "2026-10-30",
-   "last_online": "2026-11-14",
+   "last_online": "2026-11-15",
    "username": "MunzurBOT2"
   },
   "muralwingsbot": {
@@ -3377,7 +3377,7 @@
   },
   "nohopeforman": {
    "first_seen": "2026-10-31",
-   "last_online": "2026-11-12",
+   "last_online": "2026-11-15",
    "username": "NoHopeForMan"
   },
   "noksiy": {
@@ -4067,7 +4067,7 @@
   },
   "rust-in-pieces-nnue": {
    "first_seen": "2026-11-03",
-   "last_online": "2026-11-14",
+   "last_online": "2026-11-15",
    "username": "rust-in-pieces-nnue"
   },
   "rustbot2003": {
@@ -4164,6 +4164,11 @@
    "first_seen": "2026-09-27",
    "last_online": "2026-10-21",
    "username": "SaxtonEngine"
+  },
+  "sbdaniel_rucore": {
+   "first_seen": "2026-11-15",
+   "last_online": "2026-11-15",
+   "username": "SBDaniel_RuCore"
   },
   "sbnovella": {
    "first_seen": "2026-10-09",
@@ -5322,7 +5327,7 @@
   }
  },
  "online": {
-  "checked_at": "2026-11-15T00:43:17Z",
+  "checked_at": "2026-11-15T01:43:09Z",
   "ids": [
    "aconcaguabot",
    "aetherbot",
@@ -5377,7 +5382,6 @@
    "catriever",
    "charibot",
    "chess3bot",
-   "chess_set_manager",
    "chessiverse_ethan",
    "chessiverse_luc",
    "chessiverse_pawnza",
@@ -5452,6 +5456,7 @@
    "glorbo_evermorrow",
    "gnu4u",
    "goldfish-engine",
+   "goopis",
    "gopandafish",
    "grail-bot",
    "grindfish",
@@ -5465,9 +5470,9 @@
    "hustler_5mb",
    "hyperopic",
    "icarus-bot",
-   "illuminachessengine",
    "ilovecatgirl",
    "incipit_bot",
+   "io-bot",
    "is_boss",
    "iskelt-corax",
    "jangine",
@@ -5555,6 +5560,7 @@
    "moteur441",
    "mrdeepseekgpt",
    "mrtonnerre",
+   "munzurbot2",
    "mychessjava",
    "nanozeroorg",
    "ndr1sn",
@@ -5569,6 +5575,7 @@
    "nittedal",
    "nnueandthevoices",
    "noabot",
+   "nohopeforman",
    "noksiy",
    "notropis",
    "o-rei-cx",
@@ -5623,15 +5630,16 @@
    "rubyai",
    "rudim-bot",
    "rust-in-pieces",
+   "rust-in-pieces-nnue",
    "sapling-bot",
    "sardinebot",
    "sargon-1ply",
    "sargon-3ply",
+   "sbdaniel_rucore",
    "sbnovella",
    "scalaqueen",
    "schnecken_bot",
    "scipio-bot",
-   "seedchess",
    "seitogakatsu",
    "shallowredbot",
    "sharpdubot",
@@ -5673,7 +5681,6 @@
    "territorybot",
    "thechessblazer",
    "thefinalchesscard",
-   "thevariantsnormalbot",
    "thunfisch-bot",
    "tigrament",
    "tikifish",
