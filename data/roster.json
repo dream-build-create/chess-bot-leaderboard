@@ -495,6 +495,11 @@
    "last_online": "2026-11-03",
    "username": "blackEventhorizon"
   },
+  "blacktempo_bot": {
+   "first_seen": "2026-11-15",
+   "last_online": "2026-11-15",
+   "username": "BLACKTEMPO_BOT"
+  },
   "blindpewce": {
    "first_seen": "2026-09-30",
    "last_online": "2026-10-12",
@@ -847,7 +852,7 @@
   },
   "checkmare666bot": {
    "first_seen": "2026-09-30",
-   "last_online": "2026-11-05",
+   "last_online": "2026-11-15",
    "username": "CHECKMARE666Bot"
   },
   "checkmatebutlouder": {
@@ -3252,7 +3257,7 @@
   },
   "nebubot": {
    "first_seen": "2026-09-27",
-   "last_online": "2026-10-16",
+   "last_online": "2026-11-15",
    "username": "nebubot"
   },
   "nerachess": {
@@ -3772,7 +3777,7 @@
   },
   "prosperobot": {
    "first_seen": "2026-09-27",
-   "last_online": "2026-11-14",
+   "last_online": "2026-11-15",
    "username": "ProsperoBot"
   },
   "proteinbender": {
@@ -4362,7 +4367,7 @@
   },
   "sleepmindengine": {
    "first_seen": "2026-09-27",
-   "last_online": "2026-11-12",
+   "last_online": "2026-11-15",
    "username": "SleepMindEngine"
   },
   "sleepycpu": {
@@ -4562,7 +4567,7 @@
   },
   "stockfish_bot2": {
    "first_seen": "2026-10-11",
-   "last_online": "2026-11-14",
+   "last_online": "2026-11-15",
    "username": "Stockfish_bot2"
   },
   "stockfishlowdepth": {
@@ -5362,7 +5367,7 @@
   }
  },
  "online": {
-  "checked_at": "2026-11-15T11:43:14Z",
+  "checked_at": "2026-11-15T12:43:09Z",
   "ids": [
    "aaronsengine",
    "aconcaguabot",
@@ -5387,7 +5392,6 @@
    "arkiplayschess",
    "artidigm_research",
    "ashnostromo",
-   "aspirebot",
    "athena-chessbot",
    "axiom_bot",
    "baby_eubos",
@@ -5401,6 +5405,7 @@
    "bit-fish8",
    "bitbitbot",
    "black-bishop-kh",
+   "blacktempo_bot",
    "bluemoonbot",
    "blujay-bot",
    "blundermind-01",
@@ -5418,7 +5423,6 @@
    "bytefish",
    "c-t-r-l",
    "caiporabot",
-   "caissa-x",
    "capabot",
    "carmin-brilliant",
    "casanchess-nnue",
@@ -5427,7 +5431,9 @@
    "catriever",
    "chamberiajedrez",
    "charibot",
+   "checkmare666bot",
    "chess3bot",
+   "chess_set_manager",
    "chessgeniusbot",
    "chessiverse_ethan",
    "chessiverse_luc",
@@ -5464,14 +5470,12 @@
    "darkelectronbot",
    "darkonbot",
    "darkonweakbot",
-   "death1234567-hell",
    "debzero",
    "deepbecky",
    "deepsquare-ai",
    "demen100ns-bot",
    "devchessplayer-bot",
    "devilfishbot",
-   "devilfishzerotwo",
    "disrespect_fish",
    "dravox",
    "drawfish-reborn",
@@ -5523,6 +5527,7 @@
    "illuminachessengine",
    "ilovecatgirl",
    "incipit_bot",
+   "io-bot",
    "is_boss",
    "iskelt-corax",
    "jangine",
@@ -5542,6 +5547,7 @@
    "klak_engine",
    "kopyto_dev",
    "lamprook",
+   "lantern_bot",
    "laura-bot",
    "leechgodestroy",
    "leelaalien",
@@ -5609,6 +5615,7 @@
    "mychessjava",
    "nanozeroorg",
    "ndr1sn",
+   "nebubot",
    "neryba",
    "neurosocute",
    "newengine2022",
@@ -5622,12 +5629,12 @@
    "nnueandthevoices",
    "noabot",
    "nohopeforman",
-   "noksiy",
    "o-rei-cx",
    "odonata-bot",
    "onechessbot",
    "onezenpanda",
    "openingsbot",
+   "oxybullet",
    "pangubot",
    "panic-fish",
    "partner3615diago",
@@ -5650,12 +5657,12 @@
    "premove90-1500",
    "princhess_policy_bot",
    "prokopakop",
+   "prosperobot",
    "psion-chess",
    "puisne",
    "pzchessbot",
    "queensgambot",
    "quirkafleeg-pc",
-   "quirkafleeg-zx48k",
    "quirkafleeg-zxnext",
    "r0bspierre",
    "racingkingsbot_1",
@@ -5694,7 +5701,7 @@
    "simpleeval",
    "sj_norbot",
    "slate-engine",
-   "sleepycpu",
+   "sleepmindengine",
    "slowmate_bot",
    "smartysprout",
    "solobot",
@@ -5705,6 +5712,7 @@
    "stickshark99",
    "stockconda",
    "stockcotsfish",
+   "stockfish_bot2",
    "stockfishlowdepth",
    "stockpapagei",
    "streamervschat",
@@ -5723,7 +5731,6 @@
    "territorybot",
    "thechessblazer",
    "thefinalchesscard",
-   "thevariantsnormalbot",
    "throrbjorn",
    "thunfisch-bot",
    "tigrament",
@@ -5767,7 +5774,6 @@
    "watson-bot",
    "weiawaga",
    "worstfish",
-   "yow-experimental",
    "z-o_aspenlabs",
    "zaglotfish",
    "zion-bot",
