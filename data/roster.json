@@ -97,7 +97,7 @@
   },
   "ajedrezchamberi": {
    "first_seen": "2026-09-29",
-   "last_online": "2026-11-14",
+   "last_online": "2026-11-15",
    "username": "AjedrezChamberi"
   },
   "alarm2001": {
@@ -295,6 +295,11 @@
    "last_online": "2026-11-04",
    "username": "Askaig"
   },
+  "aspirebot": {
+   "first_seen": "2026-11-15",
+   "last_online": "2026-11-15",
+   "username": "AspireBot"
+  },
   "atari-video-chess": {
    "first_seen": "2026-09-27",
    "last_online": "2026-10-27",
@@ -342,7 +347,7 @@
   },
   "baby_eubos": {
    "first_seen": "2026-09-27",
-   "last_online": "2026-11-14",
+   "last_online": "2026-11-15",
    "username": "baby_eubos"
   },
   "ballin-bot": {
@@ -822,7 +827,7 @@
   },
   "chamberiajedrez": {
    "first_seen": "2026-09-29",
-   "last_online": "2026-11-14",
+   "last_online": "2026-11-15",
    "username": "ChamberiAjedrez"
   },
   "chaotong_engine": {
@@ -2492,7 +2497,7 @@
   },
   "lantern_bot": {
    "first_seen": "2026-10-15",
-   "last_online": "2026-11-14",
+   "last_online": "2026-11-15",
    "username": "Lantern_BOT"
   },
   "larryz-alterego": {
@@ -5347,13 +5352,14 @@
   }
  },
  "online": {
-  "checked_at": "2026-11-15T08:43:07Z",
+  "checked_at": "2026-11-15T09:43:08Z",
   "ids": [
    "aconcaguabot",
    "aetherbot",
    "aggressivestockfish",
    "ai-con",
    "ailedbot",
+   "ajedrezchamberi",
    "alehkine_cat",
    "alexandrya",
    "aliceshiro",
@@ -5370,8 +5376,10 @@
    "arkiplayschess",
    "artidigm_research",
    "ashnostromo",
+   "aspirebot",
    "athena-chessbot",
    "axiom_bot",
+   "baby_eubos",
    "ballin-bot",
    "banerot",
    "bbc_bot",
@@ -5379,7 +5387,6 @@
    "bernstein-2ply",
    "bernstein-4ply",
    "bfiedler-bot",
-   "bit-fish8",
    "bitbitbot",
    "bluemoonbot",
    "blujay-bot",
@@ -5405,6 +5412,7 @@
    "cassidychess-bot",
    "catnail",
    "catriever",
+   "chamberiajedrez",
    "charibot",
    "chess3bot",
    "chess_set_manager",
@@ -5448,9 +5456,7 @@
    "deepsquare-ai",
    "demen100ns-bot",
    "devchessplayer-bot",
-   "devichessengine",
    "devilfishbot",
-   "devilfishzerotwo",
    "disrespect_fish",
    "dravox",
    "drawfish-reborn",
@@ -5461,7 +5467,6 @@
    "edwardkillick",
    "eigenmann-chess",
    "elachessbot",
-   "elexunix_chess_bot",
    "elmichess",
    "endspiel-pi",
    "entebot",
@@ -5503,7 +5508,6 @@
    "illuminachessengine",
    "ilovecatgirl",
    "incipit_bot",
-   "io-bot",
    "is_boss",
    "iskelt-corax",
    "jangine",
@@ -5525,6 +5529,7 @@
    "kolmato",
    "kopyto_dev",
    "lamprook",
+   "lantern_bot",
    "laura-bot",
    "leechgodestroy",
    "leelaalien",
@@ -5608,7 +5613,6 @@
    "noksiy",
    "o-rei-cx",
    "odonata-bot",
-   "olimarianbot",
    "onechessbot",
    "onezenpanda",
    "openingsbot",
@@ -5708,7 +5712,6 @@
    "territorybot",
    "thechessblazer",
    "thefinalchesscard",
-   "thevariantsnormalbot",
    "throrbjorn",
    "thunfisch-bot",
    "tigrament",
