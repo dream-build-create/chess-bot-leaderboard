@@ -27,7 +27,7 @@
   },
   "abcd_engine": {
    "first_seen": "2026-09-27",
-   "last_online": "2026-11-14",
+   "last_online": "2026-11-15",
    "username": "abcd_engine"
   },
   "abdcebot": {
@@ -3450,6 +3450,11 @@
    "last_online": "2026-11-03",
    "username": "O_gg_O"
   },
+  "objectivefunction": {
+   "first_seen": "2026-11-15",
+   "last_online": "2026-11-15",
+   "username": "ObjectiveFunction"
+  },
   "odonata-bot": {
    "first_seen": "2026-10-19",
    "last_online": "2026-11-15",
@@ -3497,7 +3502,7 @@
   },
   "osaurus": {
    "first_seen": "2026-09-29",
-   "last_online": "2026-11-13",
+   "last_online": "2026-11-15",
    "username": "OSaurus"
   },
   "overfitted": {
@@ -3622,7 +3627,7 @@
   },
   "peanet0": {
    "first_seen": "2026-10-05",
-   "last_online": "2026-11-14",
+   "last_online": "2026-11-15",
    "username": "PeaNet0"
   },
   "perl-gigachess": {
@@ -4910,6 +4915,11 @@
    "last_online": "2026-11-06",
    "username": "ToromBot"
   },
+  "torre-s3": {
+   "first_seen": "2026-11-15",
+   "last_online": "2026-11-15",
+   "username": "Torre-S3"
+  },
   "trainer-bot": {
    "first_seen": "2026-09-27",
    "last_online": "2026-11-15",
@@ -5397,9 +5407,10 @@
   }
  },
  "online": {
-  "checked_at": "2026-11-15T19:05:09Z",
+  "checked_at": "2026-11-15T19:43:09Z",
   "ids": [
    "aaronsengine",
+   "abcd_engine",
    "abdcebot",
    "aconcaguabot",
    "aetherbot",
@@ -5445,6 +5456,7 @@
    "bot5551",
    "bot64jaques",
    "bot_adario",
+   "botkingteam33",
    "bottios",
    "bourbonbot",
    "bretemabot",
@@ -5514,6 +5526,7 @@
    "edwardkillick",
    "eigenmann-chess",
    "elachessbot",
+   "elexunix_chess_bot",
    "elmichess",
    "endspiel-pi",
    "entebot",
@@ -5527,7 +5540,6 @@
    "fivejoyouspandas",
    "flounderbot",
    "flower-queen",
-   "fobero",
    "fourcuriouspandas",
    "fschess-engine",
    "funcomp",
@@ -5559,7 +5571,6 @@
    "ironfang",
    "is_boss",
    "iskelt-corax",
-   "jamchess_app",
    "jangine",
    "jibbby",
    "jimmy_inc3710",
@@ -5593,7 +5604,6 @@
    "leelarookodds",
    "leelatroll",
    "leelonardo",
-   "legotechniccontrolpl",
    "levymaia",
    "lightning-762",
    "likeawizard-bot",
@@ -5601,7 +5611,6 @@
    "little-0",
    "littlepatricia",
    "littleply",
-   "losesbot",
    "lukebot",
    "lumac0ne",
    "lynx_bot",
@@ -5622,7 +5631,6 @@
    "maia9",
    "maia960-1600",
    "maia960-1900",
-   "marlinchessbot",
    "martuni",
    "mate-in-forty",
    "mate-in-thirty",
@@ -5663,10 +5671,12 @@
    "nohopeforman",
    "noksiy",
    "o-rei-cx",
+   "objectivefunction",
    "odonata-bot",
    "onechessbot",
    "onezenpanda",
    "openingsbot",
+   "osaurus",
    "oxide-eg",
    "pangubot",
    "panic-fish",
@@ -5677,6 +5687,7 @@
    "pawnopenings",
    "peacemaker-0_0",
    "peachfruit",
+   "peanet0",
    "perl-gigachess",
    "philidor-142m",
    "pi0w",
@@ -5720,13 +5731,11 @@
    "rust-in-pieces",
    "rust-in-pieces-nnue",
    "sapling-bot",
-   "sara_bot1",
    "sardinebot",
    "sargon-1ply",
    "sargon-3ply",
    "sbnovella",
    "scalaqueen",
-   "schnecken_bot",
    "scipio-bot",
    "seedchess",
    "seitogakatsu",
@@ -5766,6 +5775,7 @@
    "sykorabot",
    "tallikebot",
    "tempocore",
+   "tente-v2",
    "tente8x",
    "territorybot",
    "thechessblazer",
@@ -5773,13 +5783,13 @@
    "throrbjorn",
    "thunfisch-bot",
    "tigrament",
-   "tikifish",
    "tilapiabot",
    "to299d",
    "togaii",
    "tomahawkbot",
    "tonyengine",
    "topasbot",
+   "torre-s3",
    "trainer-bot",
    "trenerhetman",
    "trinculobot",
@@ -5806,12 +5816,10 @@
    "vic98lg",
    "vicentlittle",
    "vietnamesecoffee",
-   "void_bot",
    "vortex_bot",
    "vortexaurafarm",
    "waldemar-the-elf",
    "walpurti",
-   "wannalearnbot",
    "weiawaga",
    "worstfish",
    "yfbs6767",
