@@ -1482,7 +1482,7 @@
   },
   "eclipsebot": {
    "first_seen": "2026-09-27",
-   "last_online": "2026-11-14",
+   "last_online": "2026-11-15",
    "username": "EclipseBOT"
   },
   "edwardkillick": {
@@ -2207,7 +2207,7 @@
   },
   "jamchess_app": {
    "first_seen": "2026-11-09",
-   "last_online": "2026-11-14",
+   "last_online": "2026-11-15",
    "username": "JamChess_App"
   },
   "jangine": {
@@ -4332,7 +4332,7 @@
   },
   "simplechessengine": {
    "first_seen": "2026-11-04",
-   "last_online": "2026-11-14",
+   "last_online": "2026-11-15",
    "username": "SimpleChessEngine"
   },
   "simplechessnnue": {
@@ -4877,7 +4877,7 @@
   },
   "tomahawkbot": {
    "first_seen": "2026-10-30",
-   "last_online": "2026-11-07",
+   "last_online": "2026-11-15",
    "username": "tomahawkBOT"
   },
   "tonyengine": {
@@ -5177,7 +5177,7 @@
   },
   "wannalearnbot": {
    "first_seen": "2026-09-27",
-   "last_online": "2026-11-13",
+   "last_online": "2026-11-15",
    "username": "wannalearnbot"
   },
   "ward64-alpha": {
@@ -5377,7 +5377,7 @@
   }
  },
  "online": {
-  "checked_at": "2026-11-15T15:43:09Z",
+  "checked_at": "2026-11-15T16:43:10Z",
   "ids": [
    "aaronsengine",
    "aconcaguabot",
@@ -5396,7 +5396,6 @@
    "annie_archy",
    "anti-bot",
    "antibotv3-7",
-   "apexchess-bot",
    "aposeij",
    "approximationbot",
    "arasanx",
@@ -5415,7 +5414,6 @@
    "bfiedler-bot",
    "bitbitbot",
    "bluemoonbot",
-   "blujay-bot",
    "blundermind-01",
    "bobby_pcolla",
    "bongaclang",
@@ -5483,7 +5481,6 @@
    "demen100ns-bot",
    "devchessplayer-bot",
    "devilfishbot",
-   "devilfishzerotwo",
    "disrespect_fish",
    "dravox",
    "drawfish-reborn",
@@ -5491,6 +5488,7 @@
    "dubot",
    "duchessai",
    "dumbotai",
+   "eclipsebot",
    "edwardkillick",
    "eigenmann-chess",
    "elachessbot",
@@ -5525,7 +5523,6 @@
    "hackerchessbot",
    "halcyonbot",
    "hardrok",
-   "hefeisanyou",
    "homoludensbot",
    "hummus-bot",
    "hustler_1mb",
@@ -5538,6 +5535,7 @@
    "incipit_bot",
    "is_boss",
    "iskelt-corax",
+   "jamchess_app",
    "jangine",
    "jibbby",
    "jimmy_inc3710",
@@ -5625,11 +5623,11 @@
    "mrtonnerre",
    "mychessjava",
    "nanozeroorg",
-   "ndr1sn",
    "nebubot",
    "neryba",
    "nest-chess",
    "neurosocute",
+   "newengine2022",
    "nexastrat",
    "nibbleknight",
    "nice_bot",
@@ -5666,7 +5664,6 @@
    "playmarius",
    "plumboi",
    "plumbot",
-   "ponytail_engine",
    "premove90-1500",
    "princhess_policy_bot",
    "prokopakop",
@@ -5691,7 +5688,6 @@
    "resolutebot",
    "returnyou",
    "ribfish-bot",
-   "robodoxadrez",
    "rockingsuperstars",
    "rubyai",
    "rudim-bot",
@@ -5713,17 +5709,19 @@
    "shrevenbot",
    "silasly",
    "sim3million",
+   "simplechessengine",
    "simpleeval",
    "sj_norbot",
    "slate-engine",
    "sleepmindengine",
+   "sleepycpu",
    "slowmate_bot",
    "smartysprout",
    "solobot",
-   "spearfast",
    "springerbot",
    "squarefish-900",
    "sseh-c",
+   "stargazerengine",
    "stepbot_chess",
    "stickshark99",
    "stockconda",
@@ -5753,6 +5751,7 @@
    "tilapiabot",
    "to299d",
    "togaii",
+   "tomahawkbot",
    "tonyengine",
    "topasbot",
    "trainer-bot",
@@ -5767,7 +5766,6 @@
    "turochamp-2ply",
    "twosillypandas",
    "ultrabrick",
-   "unifiedchess-bot",
    "unimark",
    "ursus_bot",
    "usunfish",
@@ -5787,6 +5785,7 @@
    "vortexaurafarm",
    "waldemar-the-elf",
    "walpurti",
+   "wannalearnbot",
    "weiawaga",
    "worstfish",
    "yow-experimental",
