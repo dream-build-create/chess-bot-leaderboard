@@ -937,7 +937,7 @@
   },
   "chessgeniusbot": {
    "first_seen": "2026-10-02",
-   "last_online": "2026-11-14",
+   "last_online": "2026-11-15",
    "username": "ChessGeniusBot"
   },
   "chessiverse_ethan": {
@@ -1942,7 +1942,7 @@
   },
   "hackerchessbot": {
    "first_seen": "2026-09-27",
-   "last_online": "2026-11-14",
+   "last_online": "2026-11-15",
    "username": "HackerChessBot"
   },
   "halcyonbot": {
@@ -4462,7 +4462,7 @@
   },
   "sparkchessengine": {
    "first_seen": "2026-10-21",
-   "last_online": "2026-11-14",
+   "last_online": "2026-11-15",
    "username": "SparkchessEngine"
   },
   "spearfast": {
@@ -5337,7 +5337,7 @@
   }
  },
  "online": {
-  "checked_at": "2026-11-15T04:43:11Z",
+  "checked_at": "2026-11-15T05:43:10Z",
   "ids": [
    "aconcaguabot",
    "aetherbot",
@@ -5354,7 +5354,6 @@
    "annie_archy",
    "anti-bot",
    "antibotv3-7",
-   "apexchess-bot",
    "aposeij",
    "approximationbot",
    "arasanx",
@@ -5397,6 +5396,7 @@
    "charibot",
    "chess3bot",
    "chess_set_manager",
+   "chessgeniusbot",
    "chessiverse_ethan",
    "chessiverse_luc",
    "chessiverse_pawnza",
@@ -5476,8 +5476,8 @@
    "grail-bot",
    "grindfish",
    "gryndor",
+   "hackerchessbot",
    "halcyonbot",
-   "hardrok",
    "homoludensbot",
    "hummus-bot",
    "hustler_1mb",
@@ -5522,6 +5522,7 @@
    "leelarookodds",
    "leelatroll",
    "leelonardo",
+   "legotechniccontrolpl",
    "levymaia",
    "lightning-762",
    "likeawizard-bot",
@@ -5572,7 +5573,6 @@
    "moteur441",
    "mrdeepseekgpt",
    "mrtonnerre",
-   "munzurbot2",
    "mychessjava",
    "nanozeroorg",
    "ndr1sn",
@@ -5639,6 +5639,7 @@
    "resolutebot",
    "returnyou",
    "ribfish-bot",
+   "robodoxadrez",
    "rubyai",
    "rudim-bot",
    "rust-in-pieces",
@@ -5647,7 +5648,6 @@
    "sardinebot",
    "sargon-1ply",
    "sargon-3ply",
-   "sbdaniel_rucore",
    "sbnovella",
    "scalaqueen",
    "schnecken_bot",
@@ -5666,7 +5666,7 @@
    "slowmate_bot",
    "smartysprout",
    "solobot",
-   "spearfast",
+   "sparkchessengine",
    "springerbot",
    "squarefish-900",
    "sseh-c",
@@ -5692,9 +5692,11 @@
    "territorybot",
    "thechessblazer",
    "thefinalchesscard",
+   "thevariantsnormalbot",
    "throrbjorn",
    "thunfisch-bot",
    "tigrament",
+   "tikifish",
    "tilapiabot",
    "to299d",
    "togaii",
@@ -5726,6 +5728,7 @@
    "vic98lg",
    "vicentlittle",
    "vietnamesecoffee",
+   "void_bot",
    "vortex_bot",
    "vortexaurafarm",
    "waldemar-the-elf",
