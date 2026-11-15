@@ -1357,7 +1357,7 @@
   },
   "devilfishbot": {
    "first_seen": "2026-11-11",
-   "last_online": "2026-11-14",
+   "last_online": "2026-11-15",
    "username": "Devilfishbot"
   },
   "devilfishzero": {
@@ -1654,6 +1654,11 @@
    "first_seen": "2026-09-30",
    "last_online": "2026-10-28",
    "username": "Fighting2543"
+  },
+  "firebot_pl": {
+   "first_seen": "2026-11-15",
+   "last_online": "2026-11-15",
+   "username": "FireBot_PL"
   },
   "fischer_bot": {
    "first_seen": "2026-11-07",
@@ -3647,7 +3652,7 @@
   },
   "pixiegaming": {
    "first_seen": "2026-10-25",
-   "last_online": "2026-11-14",
+   "last_online": "2026-11-15",
    "username": "pixiegaming"
   },
   "platinumbot": {
@@ -5337,7 +5342,7 @@
   }
  },
  "online": {
-  "checked_at": "2026-11-15T07:08:53Z",
+  "checked_at": "2026-11-15T07:43:13Z",
   "ids": [
    "aconcaguabot",
    "aetherbot",
@@ -5385,7 +5390,6 @@
    "bubblebot2",
    "byte-knight",
    "bytefish",
-   "c-t-r-l",
    "caiporabot",
    "caissa-x",
    "capabot",
@@ -5430,13 +5434,13 @@
    "dala-700",
    "dala-900",
    "darkelectronbot",
-   "darkonbot",
    "darkonweakbot",
    "debzero",
    "deepbecky",
    "deepsquare-ai",
    "demen100ns-bot",
    "devchessplayer-bot",
+   "devilfishbot",
    "devilfishzero",
    "disrespect_fish",
    "dravox",
@@ -5459,6 +5463,7 @@
    "felipe_bot_53",
    "fenrirbot",
    "fetacompli",
+   "firebot_pl",
    "fivejoyouspandas",
    "flounderbot",
    "flower-queen",
@@ -5560,7 +5565,6 @@
    "mate-in-twenty",
    "mate1-bot",
    "matmoi",
-   "mcdonalds1955",
    "mdbot",
    "mega-noob-bot",
    "melsh_bot",
@@ -5617,6 +5621,7 @@
    "piebot",
    "pierreai",
    "piglet_engine",
+   "pixiegaming",
    "plumboi",
    "plumbot",
    "premove90-1500",
@@ -5643,7 +5648,6 @@
    "resolutebot",
    "returnyou",
    "ribfish-bot",
-   "robodoxadrez",
    "rubyai",
    "rudim-bot",
    "rust-in-pieces",
@@ -5727,6 +5731,7 @@
    "uxugin-bot",
    "uzenatch",
    "variantsbot",
+   "vi-rock-chess",
    "vic98lg",
    "vicentlittle",
    "vietnamesecoffee",
