@@ -7,7 +7,7 @@
   },
   "aaronsengine": {
    "first_seen": "2026-09-27",
-   "last_online": "2026-11-15",
+   "last_online": "2026-11-16",
    "username": "AaronsEngine"
   },
   "aathena101": {
@@ -102,7 +102,7 @@
   },
   "ajedrezchamberi": {
    "first_seen": "2026-09-29",
-   "last_online": "2026-11-15",
+   "last_online": "2026-11-16",
    "username": "AjedrezChamberi"
   },
   "alarm2001": {
@@ -842,7 +842,7 @@
   },
   "chamberiajedrez": {
    "first_seen": "2026-09-29",
-   "last_online": "2026-11-15",
+   "last_online": "2026-11-16",
    "username": "ChamberiAjedrez"
   },
   "chaotong_engine": {
@@ -1127,7 +1127,7 @@
   },
   "colossusbot": {
    "first_seen": "2026-09-30",
-   "last_online": "2026-11-15",
+   "last_online": "2026-11-16",
    "username": "ColossusBOT"
   },
   "compchess2": {
@@ -2707,7 +2707,7 @@
   },
   "lili-ai": {
    "first_seen": "2026-10-22",
-   "last_online": "2026-11-12",
+   "last_online": "2026-11-16",
    "username": "Lili-ai"
   },
   "lilitbot": {
@@ -3777,7 +3777,7 @@
   },
   "ponytail_engine": {
    "first_seen": "2026-10-28",
-   "last_online": "2026-11-15",
+   "last_online": "2026-11-16",
    "username": "Ponytail_engine"
   },
   "potential_engine": {
@@ -4379,6 +4379,11 @@
    "first_seen": "2026-10-18",
    "last_online": "2026-10-18",
    "username": "SimonBot42069"
+  },
+  "simonericafonso": {
+   "first_seen": "2026-11-16",
+   "last_online": "2026-11-16",
+   "username": "SimonEricAfonso"
   },
   "simple-bot": {
    "first_seen": "2026-09-27",
@@ -5447,8 +5452,9 @@
   }
  },
  "online": {
-  "checked_at": "2026-11-16T09:43:09Z",
+  "checked_at": "2026-11-16T10:43:10Z",
   "ids": [
+   "aaronsengine",
    "abcd_engine",
    "abdcebot",
    "aconcaguabot",
@@ -5456,6 +5462,7 @@
    "aggressivestockfish",
    "ai-con",
    "ailedbot",
+   "ajedrezchamberi",
    "alarm2001",
    "alehkine_cat",
    "alexandrya",
@@ -5488,7 +5495,6 @@
    "bluemoonbot",
    "blujay-bot",
    "blundeel67",
-   "blunder-engine",
    "blundermind-01",
    "bobby_pcolla",
    "bongaclang",
@@ -5510,8 +5516,8 @@
    "cassidychess-bot",
    "catnail",
    "catriever",
+   "chamberiajedrez",
    "charibot",
-   "chess_set_manager",
    "chessgeniusbot",
    "chessiverse_ethan",
    "chessiverse_luc",
@@ -5531,6 +5537,7 @@
    "clrsrc_lc0",
    "coda_bot",
    "colinbot",
+   "colossusbot",
    "confidencebuilder",
    "cookiebot711",
    "craftyuci",
@@ -5584,13 +5591,11 @@
    "fschess-engine",
    "funcomp",
    "funfishbot",
-   "galaxy-stellar-bot",
    "garbobot",
    "georgii_ai",
    "geotsibot",
    "glorbo_evermorrow",
    "gnu4u",
-   "goats-of-bots",
    "goldfish-engine",
    "goopis",
    "grail-bot",
@@ -5650,6 +5655,7 @@
    "levymaia",
    "lightning-762",
    "likeawizard-bot",
+   "lili-ai",
    "lilitbot",
    "little-0",
    "littlepatricia",
@@ -5674,14 +5680,12 @@
    "maia9",
    "maia960-1600",
    "maia960-1900",
-   "marlinchessbot",
    "martuni",
    "mate-in-forty",
    "mate-in-thirty",
    "mate-in-twenty",
    "mate1-bot",
    "matmoi",
-   "mcdonalds1955",
    "mdbot",
    "mega-noob-bot",
    "melsh_bot",
@@ -5704,7 +5708,6 @@
    "ndr1sn",
    "nebubot",
    "neurosocute",
-   "newengine2022",
    "nexastrat",
    "nibbleknight",
    "nice_bot",
@@ -5738,14 +5741,11 @@
    "piebot",
    "pierreai",
    "piglet_engine",
-   "pirates1",
-   "pirates2",
-   "piratesrust",
-   "piratesrustv2",
    "playmarius",
    "plumboi",
    "plumbot",
    "polvo_engine",
+   "ponytail_engine",
    "premove90-1500",
    "princhess_policy_bot",
    "prokopakop",
@@ -5771,11 +5771,11 @@
    "resolutebot",
    "returnyou",
    "ribfish-bot",
+   "robodoxadrez",
    "rubyai",
    "rudim-bot",
    "rust-in-pieces",
    "rust-in-pieces-nnue",
-   "sacrifice-engine",
    "sapling-bot",
    "sardinebot",
    "sargon-1ply",
@@ -5792,6 +5792,7 @@
    "sharpsundae",
    "silasly",
    "sim3million",
+   "simonericafonso",
    "simpleeval",
    "sj_norbot",
    "slate-engine",
@@ -5859,7 +5860,6 @@
    "uzenatch",
    "vanibot",
    "variantsbot",
-   "vi-rock-chess",
    "vic98lg",
    "vicentlittle",
    "vietnamesecoffee",
