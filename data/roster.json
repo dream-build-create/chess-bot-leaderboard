@@ -217,7 +217,7 @@
   },
   "apexchess-bot": {
    "first_seen": "2026-10-31",
-   "last_online": "2026-11-15",
+   "last_online": "2026-11-16",
    "username": "ApexChess-Bot"
   },
   "aposeij": {
@@ -3280,6 +3280,11 @@
    "last_online": "2026-10-28",
    "username": "N1742Bot"
   },
+  "najachess": {
+   "first_seen": "2026-11-16",
+   "last_online": "2026-11-16",
+   "username": "NajaChess"
+  },
   "nanochess6": {
    "first_seen": "2026-10-31",
    "last_online": "2026-11-01",
@@ -4082,7 +4087,7 @@
   },
   "rocketengine": {
    "first_seen": "2026-10-11",
-   "last_online": "2026-11-15",
+   "last_online": "2026-11-16",
    "username": "RocketEngine"
   },
   "rockingsuperstars": {
@@ -5457,7 +5462,7 @@
   }
  },
  "online": {
-  "checked_at": "2026-11-16T11:43:10Z",
+  "checked_at": "2026-11-16T12:43:10Z",
   "ids": [
    "aaronsengine",
    "abcd_engine",
@@ -5468,7 +5473,6 @@
    "ai-con",
    "ailedbot",
    "ajedrezchamberi",
-   "alarm2001",
    "alehkine_cat",
    "alexandrya",
    "aliceshiro",
@@ -5480,6 +5484,7 @@
    "anti-anti",
    "anti-bot",
    "antibotv3-7",
+   "apexchess-bot",
    "aposeij",
    "approximationbot",
    "arasanx",
@@ -5497,7 +5502,6 @@
    "bfiedler-bot",
    "bit-fish8",
    "bitbitbot",
-   "black-bishop-kh",
    "bluemoonbot",
    "blujay-bot",
    "blundeel67",
@@ -5505,6 +5509,7 @@
    "bobby_pcolla",
    "bongaclang",
    "boris-trapsky",
+   "borkatower",
    "bot1e",
    "bot1nokk",
    "bot5551",
@@ -5516,6 +5521,7 @@
    "bubblebot2",
    "byte-knight",
    "bytefish",
+   "c-t-r-l",
    "caiporabot",
    "capabot",
    "casanchess-nnue",
@@ -5544,7 +5550,6 @@
    "clrsrc_lc0",
    "coda_bot",
    "colinbot",
-   "colossusbot",
    "confidencebuilder",
    "cookiebot711",
    "craftyuci",
@@ -5559,8 +5564,8 @@
    "dala-700",
    "dala-900",
    "darkelectronbot",
+   "darkonbot",
    "darkonweakbot",
-   "death1234567-hell",
    "debzero",
    "deepbecky",
    "deepsquare-ai",
@@ -5589,6 +5594,7 @@
    "fattorini-bot",
    "felipe_bot_53",
    "fenrirbot",
+   "fetacompli",
    "fivejoyouspandas",
    "flounderbot",
    "flower-queen",
@@ -5610,7 +5616,6 @@
    "gryndor",
    "hackerchessbot",
    "halcyonbot",
-   "hefeisanyou",
    "homoludensbot",
    "humaia",
    "humaia-strong",
@@ -5622,6 +5627,7 @@
    "icarus-bot",
    "ilovecatgirl",
    "incipit_bot",
+   "io-bot",
    "is_boss",
    "iskelt-corax",
    "jangine",
@@ -5695,6 +5701,7 @@
    "mate-in-twenty",
    "mate1-bot",
    "matmoi",
+   "mcdonalds1955",
    "mdbot",
    "mega-noob-bot",
    "melsh_bot",
@@ -5712,6 +5719,7 @@
    "musashi-thebot",
    "mutusbot",
    "mychessjava",
+   "najachess",
    "nanozeroorg",
    "ndr1sn",
    "nebubot",
@@ -5780,6 +5788,7 @@
    "resolutebot",
    "ribfish-bot",
    "robodoxadrez",
+   "rocketengine",
    "rubyai",
    "rudim-bot",
    "rust-in-pieces",
@@ -5842,6 +5851,7 @@
    "tinyairun",
    "to299d",
    "togaii",
+   "tomahawkbot",
    "tonyengine",
    "topasbot",
    "trainer-bot",
@@ -5867,6 +5877,7 @@
    "uzenatch",
    "vanibot",
    "variantsbot",
+   "vi-rock-chess",
    "vic98lg",
    "vicentlittle",
    "vietnamesecoffee",
