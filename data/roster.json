@@ -2782,7 +2782,7 @@
   },
   "louischess48-6k": {
    "first_seen": "2026-09-27",
-   "last_online": "2026-11-05",
+   "last_online": "2026-11-16",
    "username": "LouisChess48-6K"
   },
   "lowhangingfruits": {
@@ -3322,7 +3322,7 @@
   },
   "nebaktinkrds": {
    "first_seen": "2026-11-13",
-   "last_online": "2026-11-13",
+   "last_online": "2026-11-16",
    "username": "nebaktinkrds"
   },
   "nebubot": {
@@ -5472,9 +5472,8 @@
   }
  },
  "online": {
-  "checked_at": "2026-11-16T21:43:11Z",
+  "checked_at": "2026-11-16T22:29:20Z",
   "ids": [
-   "abcd_engine",
    "abdcebot",
    "aconcaguabot",
    "aetherbot",
@@ -5511,7 +5510,6 @@
    "bernstein-4ply",
    "bfiedler-bot",
    "bitbitbot",
-   "black-icebot",
    "bluemoonbot",
    "blujay-bot",
    "blundermind-01",
@@ -5545,7 +5543,6 @@
    "chessmindbot",
    "cheszter",
    "chill4ce",
-   "chiral_ebt",
    "chmod-bot",
    "chronicgambler",
    "cinder-bot",
@@ -5676,6 +5673,7 @@
    "little-0",
    "littlepatricia",
    "littleply",
+   "louischess48-6k",
    "lukebot",
    "luminexbot",
    "lunaenginechess",
@@ -5717,10 +5715,12 @@
    "moteur441",
    "mrdeepseekgpt",
    "mrtonnerre",
+   "munzurbot2",
    "mutusbot",
    "mychessjava",
    "nanozeroorg",
    "ndr1sn",
+   "nebaktinkrds",
    "nebubot",
    "neryba",
    "neurosocute",
@@ -5782,9 +5782,7 @@
    "remychessengine",
    "renegadeengine",
    "resolutebot",
-   "returnyou",
    "ribfish-bot",
-   "robodoxadrez",
    "rodent-iv",
    "rubyai",
    "rudim-bot",
@@ -5843,10 +5841,12 @@
    "tente8x",
    "territorybot",
    "thechessblazer",
+   "thefinalchesscard",
    "throrbjorn",
    "thunfisch-bot",
    "tigrament",
    "tilapiabot",
+   "tinyairun",
    "to299d",
    "togaii",
    "tomahawkbot",
