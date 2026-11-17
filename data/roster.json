@@ -7,7 +7,7 @@
   },
   "aaronsengine": {
    "first_seen": "2026-09-27",
-   "last_online": "2026-11-16",
+   "last_online": "2026-11-17",
    "username": "AaronsEngine"
   },
   "aathena101": {
@@ -102,7 +102,7 @@
   },
   "ajedrezchamberi": {
    "first_seen": "2026-09-29",
-   "last_online": "2026-11-16",
+   "last_online": "2026-11-17",
    "username": "AjedrezChamberi"
   },
   "alarm2001": {
@@ -857,7 +857,7 @@
   },
   "chamberiajedrez": {
    "first_seen": "2026-09-29",
-   "last_online": "2026-11-16",
+   "last_online": "2026-11-17",
    "username": "ChamberiAjedrez"
   },
   "chaotong_engine": {
@@ -957,7 +957,7 @@
   },
   "chessbot2880": {
    "first_seen": "2026-09-27",
-   "last_online": "2026-11-14",
+   "last_online": "2026-11-17",
    "username": "chessbot2880"
   },
   "chessbzero": {
@@ -1142,7 +1142,7 @@
   },
   "colossusbot": {
    "first_seen": "2026-09-30",
-   "last_online": "2026-11-16",
+   "last_online": "2026-11-17",
    "username": "ColossusBOT"
   },
   "compchess2": {
@@ -2727,7 +2727,7 @@
   },
   "lili-ai": {
    "first_seen": "2026-10-22",
-   "last_online": "2026-11-16",
+   "last_online": "2026-11-17",
    "username": "Lili-ai"
   },
   "lilitbot": {
@@ -4330,6 +4330,11 @@
    "last_online": "2026-10-30",
    "username": "SelfLearn"
   },
+  "selimbabapro-bot": {
+   "first_seen": "2026-11-17",
+   "last_online": "2026-11-17",
+   "username": "Selimbabapro-Bot"
+  },
   "semisoja": {
    "first_seen": "2026-10-28",
    "last_online": "2026-10-28",
@@ -4339,6 +4344,11 @@
    "first_seen": "2026-10-21",
    "last_online": "2026-10-25",
    "username": "Senkabalabot"
+  },
+  "serkisbot3000": {
+   "first_seen": "2026-11-17",
+   "last_online": "2026-11-17",
+   "username": "serkisbot3000"
   },
   "sezgi_bot": {
    "first_seen": "2026-11-09",
@@ -5365,6 +5375,11 @@
    "last_online": "2026-11-17",
    "username": "WorstFish"
   },
+  "worstvariantsbot_1": {
+   "first_seen": "2026-11-17",
+   "last_online": "2026-11-17",
+   "username": "WorstVariantsBot_1"
+  },
   "wyxx210704_bot": {
    "first_seen": "2026-10-01",
    "last_online": "2026-11-08",
@@ -5482,14 +5497,16 @@
   }
  },
  "online": {
-  "checked_at": "2026-11-17T09:43:09Z",
+  "checked_at": "2026-11-17T10:43:18Z",
   "ids": [
+   "aaronsengine",
    "abdcebot",
    "aconcaguabot",
    "aetherbot",
    "aggressivestockfish",
    "ai-con",
    "ailedbot",
+   "ajedrezchamberi",
    "alarm2001",
    "alehkine_cat",
    "alexandrya",
@@ -5502,7 +5519,6 @@
    "anti-anti",
    "anti-bot",
    "antibotv3-7",
-   "apexchess-bot",
    "aposeij",
    "approximationbot",
    "arasanx",
@@ -5550,8 +5566,10 @@
    "cassidychess-bot",
    "catnail",
    "catriever",
+   "chamberiajedrez",
    "charibot",
    "chess_set_manager",
+   "chessbot2880",
    "chessgeniusbot",
    "chessiverse_ethan",
    "chessiverse_luc",
@@ -5570,6 +5588,7 @@
    "clrsrc_lc0",
    "coda_bot",
    "colinbot",
+   "colossusbot",
    "confidencebuilder",
    "cookiebot711",
    "craftyuci",
@@ -5683,6 +5702,7 @@
    "levymaia",
    "lightning-762",
    "likeawizard-bot",
+   "lili-ai",
    "lilitbot",
    "little-0",
    "littlepatricia",
@@ -5729,7 +5749,6 @@
    "moteur441",
    "mrdeepseekgpt",
    "mrtonnerre",
-   "munzurbot2",
    "musashi-thebot",
    "mutusbot",
    "mychessjava",
@@ -5747,7 +5766,6 @@
    "nilatacbot",
    "nittedal",
    "noabot",
-   "noksiy",
    "notropis",
    "o-rei-cx",
    "odonata-bot",
@@ -5792,7 +5810,6 @@
    "racingkingsbot_1",
    "radianceengine",
    "raspfish",
-   "ratsu-bot",
    "raven030",
    "ravenengine",
    "ray-bot",
@@ -5819,12 +5836,15 @@
    "scipio-bot",
    "seedchess",
    "seitogakatsu",
+   "selimbabapro-bot",
+   "serkisbot3000",
    "sf_bot1nok",
    "shallowredbot",
    "sharpdubot",
    "sharpsundae",
    "silasly",
    "sim3million",
+   "simonericafonso",
    "simplechessengine",
    "simpleeval",
    "sj_norbot",
@@ -5841,6 +5861,7 @@
    "stepbot_chess",
    "stickshark99",
    "stockconda",
+   "stockcotsfish",
    "stockdory",
    "stockfishlowdepth",
    "stockpapagei",
@@ -5892,7 +5913,6 @@
    "uzenatch",
    "vanibot",
    "variantsbot",
-   "vi-rock-chess",
    "vic98lg",
    "vicentlittle",
    "vietnamesecoffee",
@@ -5903,7 +5923,7 @@
    "wedge_engine",
    "weiawaga",
    "worstfish",
-   "yow-experimental",
+   "worstvariantsbot_1",
    "z-o_aspenlabs",
    "zaglotfish",
    "zion-bot",
