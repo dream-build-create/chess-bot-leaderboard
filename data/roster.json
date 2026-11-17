@@ -502,7 +502,7 @@
   },
   "black-icebot": {
    "first_seen": "2026-10-16",
-   "last_online": "2026-11-16",
+   "last_online": "2026-11-17",
    "username": "BLACK-ICEbot"
   },
   "blackeventhorizon": {
@@ -572,7 +572,7 @@
   },
   "boris-trapsky": {
    "first_seen": "2026-09-27",
-   "last_online": "2026-11-16",
+   "last_online": "2026-11-17",
    "username": "Boris-Trapsky"
   },
   "borkatower": {
@@ -759,6 +759,11 @@
    "first_seen": "2026-09-30",
    "last_online": "2026-11-14",
    "username": "Cactus_Bot"
+  },
+  "caesarbot": {
+   "first_seen": "2026-11-17",
+   "last_online": "2026-11-17",
+   "username": "CAESARbot"
   },
   "caiporabot": {
    "first_seen": "2026-10-01",
@@ -2197,7 +2202,7 @@
   },
   "io-bot": {
    "first_seen": "2026-09-28",
-   "last_online": "2026-11-16",
+   "last_online": "2026-11-17",
    "username": "io-bot"
   },
   "iran_f72": {
@@ -2677,7 +2682,7 @@
   },
   "legotechniccontrolpl": {
    "first_seen": "2026-11-09",
-   "last_online": "2026-11-16",
+   "last_online": "2026-11-17",
    "username": "LegoTechnicControlPl"
   },
   "lemonjuice10": {
@@ -2987,7 +2992,7 @@
   },
   "marlinchessbot": {
    "first_seen": "2026-11-11",
-   "last_online": "2026-11-16",
+   "last_online": "2026-11-17",
    "username": "MarlinChessBot"
   },
   "martuni": {
@@ -3792,7 +3797,7 @@
   },
   "pontiengine": {
    "first_seen": "2026-10-20",
-   "last_online": "2026-11-05",
+   "last_online": "2026-11-17",
    "username": "PontiEngine"
   },
   "ponytail_engine": {
@@ -5212,7 +5217,7 @@
   },
   "void_bot": {
    "first_seen": "2026-09-29",
-   "last_online": "2026-11-16",
+   "last_online": "2026-11-17",
    "username": "Void_Bot"
   },
   "voidbotv2": {
@@ -5472,7 +5477,7 @@
   }
  },
  "online": {
-  "checked_at": "2026-11-17T00:43:09Z",
+  "checked_at": "2026-11-17T01:43:09Z",
   "ids": [
    "abdcebot",
    "aconcaguabot",
@@ -5511,11 +5516,12 @@
    "bernstein-4ply",
    "bfiedler-bot",
    "bitbitbot",
+   "black-icebot",
    "bluemoonbot",
    "blujay-bot",
    "blundermind-01",
-   "bobby_pcolla",
    "bongaclang",
+   "boris-trapsky",
    "borkatower",
    "bot1e",
    "bot1nokk",
@@ -5530,6 +5536,7 @@
    "byte-knight",
    "bytefish",
    "c-t-r-l",
+   "caesarbot",
    "caiporabot",
    "capabot",
    "casanchess-nnue",
@@ -5623,7 +5630,6 @@
    "hackerchessbot",
    "halcyonbot",
    "hardrok",
-   "hefeisanyou",
    "homoludensbot",
    "humaia",
    "humaia-strong",
@@ -5635,6 +5641,7 @@
    "icarus-bot",
    "ilovecatgirl",
    "incipit_bot",
+   "io-bot",
    "is_boss",
    "iskelt-corax",
    "jangine",
@@ -5666,6 +5673,7 @@
    "leelarookodds",
    "leelatroll",
    "leelonardo",
+   "legotechniccontrolpl",
    "lentuschess",
    "levymaia",
    "lightning-762",
@@ -5693,9 +5701,9 @@
    "maia3-79m_600",
    "maia3-79m_800",
    "maia5",
-   "maia9",
    "maia960-1600",
    "maia960-1900",
+   "marlinchessbot",
    "martuni",
    "mate-in-forty",
    "mate-in-thirty",
@@ -5763,6 +5771,7 @@
    "playmarius",
    "plumboi",
    "plumbot",
+   "pontiengine",
    "premove90-1500",
    "princhess_policy_bot",
    "prokopakop",
@@ -5796,7 +5805,6 @@
    "sardinebot",
    "sargon-1ply",
    "sargon-3ply",
-   "sbnovella",
    "scalaqueen",
    "schnecken_bot",
    "scipio-bot",
@@ -5849,7 +5857,6 @@
    "thunfisch-bot",
    "tigrament",
    "tilapiabot",
-   "tinyairun",
    "to299d",
    "togaii",
    "tonyengine",
@@ -5880,6 +5887,7 @@
    "vic98lg",
    "vicentlittle",
    "vietnamesecoffee",
+   "void_bot",
    "vortex_bot",
    "vortexaurafarm",
    "waldemar-the-elf",
