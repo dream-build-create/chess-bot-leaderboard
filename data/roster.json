@@ -547,7 +547,7 @@
   },
   "blunder-engine": {
    "first_seen": "2026-11-08",
-   "last_online": "2026-11-16",
+   "last_online": "2026-11-17",
    "username": "Blunder-Engine"
   },
   "blundermind-01": {
@@ -1822,7 +1822,7 @@
   },
   "galaxy-stellar-bot": {
    "first_seen": "2026-10-22",
-   "last_online": "2026-11-16",
+   "last_online": "2026-11-17",
    "username": "Galaxy-Stellar-Bot"
   },
   "gam3play3r-bot": {
@@ -1897,7 +1897,7 @@
   },
   "goats-of-bots": {
    "first_seen": "2026-11-07",
-   "last_online": "2026-11-16",
+   "last_online": "2026-11-17",
    "username": "Goats-Of-Bots"
   },
   "goblinajedrezai": {
@@ -2627,7 +2627,7 @@
   },
   "leelamultiposs": {
    "first_seen": "2026-10-08",
-   "last_online": "2026-11-16",
+   "last_online": "2026-11-17",
    "username": "LeelaMultiPoss"
   },
   "leelapieceodds": {
@@ -3737,22 +3737,22 @@
   },
   "pirates1": {
    "first_seen": "2026-10-01",
-   "last_online": "2026-11-16",
+   "last_online": "2026-11-17",
    "username": "pirates1"
   },
   "pirates2": {
    "first_seen": "2026-09-30",
-   "last_online": "2026-11-16",
+   "last_online": "2026-11-17",
    "username": "Pirates2"
   },
   "piratesrust": {
    "first_seen": "2026-10-01",
-   "last_online": "2026-11-16",
+   "last_online": "2026-11-17",
    "username": "PiratesRust"
   },
   "piratesrustv2": {
    "first_seen": "2026-11-13",
-   "last_online": "2026-11-16",
+   "last_online": "2026-11-17",
    "username": "PiratesRustV2"
   },
   "pixiegaming": {
@@ -4207,7 +4207,7 @@
   },
   "sacrifice-engine": {
    "first_seen": "2026-11-13",
-   "last_online": "2026-11-16",
+   "last_online": "2026-11-17",
    "username": "Sacrifice-Engine"
   },
   "saisrankarthik_7": {
@@ -4417,7 +4417,7 @@
   },
   "simplechessengine": {
    "first_seen": "2026-11-04",
-   "last_online": "2026-11-16",
+   "last_online": "2026-11-17",
    "username": "SimpleChessEngine"
   },
   "simplechessnnue": {
@@ -4577,7 +4577,7 @@
   },
   "sparkchessengine": {
    "first_seen": "2026-10-21",
-   "last_online": "2026-11-16",
+   "last_online": "2026-11-17",
    "username": "SparkchessEngine"
   },
   "spearfast": {
@@ -5482,9 +5482,8 @@
   }
  },
  "online": {
-  "checked_at": "2026-11-17T07:43:09Z",
+  "checked_at": "2026-11-17T08:26:56Z",
   "ids": [
-   "abdcebot",
    "aconcaguabot",
    "aetherbot",
    "aggressivestockfish",
@@ -5526,11 +5525,11 @@
    "bluemoonbot",
    "blujay-bot",
    "blundeel67",
+   "blunder-engine",
    "blundermind-01",
    "bobby_pcolla",
    "bongaclang",
    "borkatower",
-   "bot1e",
    "bot1nokk",
    "bot5551",
    "bot64jaques",
@@ -5596,7 +5595,6 @@
    "disrespect_fish",
    "dravox",
    "drawfish-reborn",
-   "drewschessmachine",
    "dubot",
    "duchessai",
    "dumbotai",
@@ -5624,11 +5622,12 @@
    "funcomp",
    "funfishbot",
    "gaiachessengine",
+   "galaxy-stellar-bot",
    "garbobot",
    "georgii_ai",
    "geotsibot",
-   "glorbo_evermorrow",
    "gnu4u",
+   "goats-of-bots",
    "goldfish-engine",
    "goopis",
    "grail-bot",
@@ -5646,6 +5645,7 @@
    "icarus-bot",
    "ilovecatgirl",
    "incipit_bot",
+   "io-bot",
    "is_boss",
    "iskelt-corax",
    "jangine",
@@ -5670,6 +5670,7 @@
    "leelaanyodds",
    "leelajester",
    "leelaknightodds",
+   "leelamultiposs",
    "leelapieceodds",
    "leelaqueenforknight",
    "leelaqueenodds",
@@ -5716,7 +5717,6 @@
    "mdbot",
    "mega-noob-bot",
    "melsh_bot",
-   "miccoengine",
    "michaamateurbot",
    "milanbot",
    "mimirbot",
@@ -5728,6 +5728,7 @@
    "moteur441",
    "mrdeepseekgpt",
    "mrtonnerre",
+   "munzurbot2",
    "musashi-thebot",
    "mutusbot",
    "mychessjava",
@@ -5735,6 +5736,7 @@
    "ndr1sn",
    "nebaktinkrds",
    "nebubot",
+   "neryba",
    "neurosocute",
    "newengine2022",
    "nexastrat",
@@ -5767,6 +5769,10 @@
    "piebot",
    "pierreai",
    "piglet_engine",
+   "pirates1",
+   "pirates2",
+   "piratesrust",
+   "piratesrustv2",
    "playmarius",
    "plumboi",
    "plumbot",
@@ -5801,6 +5807,7 @@
    "rust-in-pieces",
    "rust-in-pieces-nnue",
    "rustyrival",
+   "sacrifice-engine",
    "sapling-bot",
    "sargon-1ply",
    "sargon-3ply",
@@ -5810,12 +5817,13 @@
    "scipio-bot",
    "seedchess",
    "seitogakatsu",
-   "sf_bot1nok",
    "shallowredbot",
    "sharpdubot",
    "sharpsundae",
    "silasly",
    "sim3million",
+   "simonericafonso",
+   "simplechessengine",
    "simpleeval",
    "sj_norbot",
    "slate-engine",
@@ -5824,7 +5832,7 @@
    "smartysprout",
    "snaky-bot",
    "solobot",
-   "spearfast",
+   "sparkchessengine",
    "springerbot",
    "squarefish-900",
    "sseh-c",
@@ -5844,6 +5852,7 @@
    "sybaibot",
    "sybbot",
    "sykorabot",
+   "talbotbot",
    "tallikebot",
    "tempocore",
    "tente-v2",
@@ -5853,6 +5862,7 @@
    "thunfisch-bot",
    "tigrament",
    "tilapiabot",
+   "tinyairun",
    "to299d",
    "togaii",
    "tonyengine",
@@ -5890,7 +5900,6 @@
    "walpurti",
    "weiawaga",
    "worstfish",
-   "yow-experimental",
    "z-o_aspenlabs",
    "zaglotfish",
    "zion-bot",
