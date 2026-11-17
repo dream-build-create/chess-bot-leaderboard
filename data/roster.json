@@ -287,7 +287,7 @@
   },
   "ashasevidence": {
    "first_seen": "2026-10-08",
-   "last_online": "2026-11-15",
+   "last_online": "2026-11-17",
    "username": "ashasevidence"
   },
   "ashnostromo": {
@@ -497,7 +497,7 @@
   },
   "black-bishop-kh": {
    "first_seen": "2026-09-28",
-   "last_online": "2026-11-16",
+   "last_online": "2026-11-17",
    "username": "Black-Bishop-Kh"
   },
   "black-icebot": {
@@ -542,7 +542,7 @@
   },
   "blundeel67": {
    "first_seen": "2026-11-07",
-   "last_online": "2026-11-16",
+   "last_online": "2026-11-17",
    "username": "blundeel67"
   },
   "blunder-engine": {
@@ -1707,7 +1707,7 @@
   },
   "firebot_pl": {
    "first_seen": "2026-11-15",
-   "last_online": "2026-11-15",
+   "last_online": "2026-11-17",
    "username": "FireBot_PL"
   },
   "fischer_bot": {
@@ -3267,7 +3267,7 @@
   },
   "musashi-thebot": {
    "first_seen": "2026-09-28",
-   "last_online": "2026-11-16",
+   "last_online": "2026-11-17",
    "username": "Musashi-thebot"
   },
   "mutusbot": {
@@ -3802,7 +3802,7 @@
   },
   "ponytail_engine": {
    "first_seen": "2026-10-28",
-   "last_online": "2026-11-16",
+   "last_online": "2026-11-17",
    "username": "Ponytail_engine"
   },
   "potential_engine": {
@@ -4795,6 +4795,11 @@
    "last_online": "2026-11-08",
    "username": "TakticproChess"
   },
+  "talbotbot": {
+   "first_seen": "2026-11-17",
+   "last_online": "2026-11-17",
+   "username": "Talbotbot"
+  },
   "tallikebot": {
    "first_seen": "2026-10-17",
    "last_online": "2026-11-17",
@@ -5477,7 +5482,7 @@
   }
  },
  "online": {
-  "checked_at": "2026-11-17T04:43:09Z",
+  "checked_at": "2026-11-17T05:43:09Z",
   "ids": [
    "abdcebot",
    "aconcaguabot",
@@ -5503,6 +5508,7 @@
    "arasanx",
    "arkiplayschess",
    "artidigm_research",
+   "ashasevidence",
    "ashnostromo",
    "athena-chessbot",
    "axiom_bot",
@@ -5516,8 +5522,10 @@
    "bernstein-4ply",
    "bfiedler-bot",
    "bitbitbot",
+   "black-bishop-kh",
    "bluemoonbot",
    "blujay-bot",
+   "blundeel67",
    "blundermind-01",
    "bobby_pcolla",
    "bongaclang",
@@ -5534,7 +5542,6 @@
    "bubblebot2",
    "byte-knight",
    "bytefish",
-   "c-t-r-l",
    "caesarbot",
    "caiporabot",
    "capabot",
@@ -5543,7 +5550,6 @@
    "catnail",
    "catriever",
    "charibot",
-   "chess_set_manager",
    "chessiverse_ethan",
    "chessiverse_luc",
    "chessiverse_pawnza",
@@ -5575,7 +5581,6 @@
    "dala-700",
    "dala-900",
    "darkelectronbot",
-   "darkonbot",
    "darkonweakbot",
    "debzero",
    "deepbecky",
@@ -5605,6 +5610,7 @@
    "felipe_bot_53",
    "fenrirbot",
    "fetacompli",
+   "firebot_pl",
    "fivejoyouspandas",
    "flounderbot",
    "flower-queen",
@@ -5625,7 +5631,6 @@
    "grindfish",
    "hackerchessbot",
    "halcyonbot",
-   "hardrok",
    "homoludensbot",
    "humaia",
    "humaia-strong",
@@ -5652,6 +5657,7 @@
    "jurdbird",
    "justbot-v1",
    "kahunabot",
+   "karl-engine-v1",
    "kbelludoo",
    "kestrelstrike",
    "kirinchessbot",
@@ -5705,7 +5711,6 @@
    "mate-in-twenty",
    "mate1-bot",
    "matmoi",
-   "mcdonalds1955",
    "mdbot",
    "mega-noob-bot",
    "melsh_bot",
@@ -5721,7 +5726,7 @@
    "moteur441",
    "mrdeepseekgpt",
    "mrtonnerre",
-   "munzurbot2",
+   "musashi-thebot",
    "mutusbot",
    "mychessjava",
    "nanozeroorg",
@@ -5745,7 +5750,6 @@
    "onechessbot",
    "onezenpanda",
    "oxide-eg",
-   "paconbot",
    "pangubot",
    "panic-fish",
    "partner3615diago",
@@ -5765,6 +5769,7 @@
    "playmarius",
    "plumboi",
    "plumbot",
+   "ponytail_engine",
    "premove90-1500",
    "princhess_policy_bot",
    "prokopakop",
@@ -5833,13 +5838,13 @@
    "stronggoliath",
    "stupidfishbotbydscs",
    "stupiditybot",
-   "styx-chess",
    "sunfish-engine",
    "sunfish-nnue-engine",
    "sxphia",
    "sybaibot",
    "sybbot",
    "sykorabot",
+   "talbotbot",
    "tallikebot",
    "tempocore",
    "tente-v2",
@@ -5847,7 +5852,6 @@
    "territorybot",
    "thechessblazer",
    "thefinalchesscard",
-   "throrbjorn",
    "thunfisch-bot",
    "tigrament",
    "tikifish",
