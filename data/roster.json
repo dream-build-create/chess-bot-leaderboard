@@ -1092,7 +1092,7 @@
   },
   "claudyengine": {
    "first_seen": "2026-09-28",
-   "last_online": "2026-10-15",
+   "last_online": "2026-11-17",
    "username": "ClaudyEngine"
   },
   "clementyne1": {
@@ -2462,7 +2462,7 @@
   },
   "kittyenginev5": {
    "first_seen": "2026-10-20",
-   "last_online": "2026-11-16",
+   "last_online": "2026-11-17",
    "username": "KittyEngineV5"
   },
   "kiwi_cube": {
@@ -3672,7 +3672,7 @@
   },
   "pawnrobot": {
    "first_seen": "2026-09-27",
-   "last_online": "2026-10-27",
+   "last_online": "2026-11-17",
    "username": "pawnrobot"
   },
   "pawny_bot": {
@@ -4487,7 +4487,7 @@
   },
   "sleepycpu": {
    "first_seen": "2026-11-14",
-   "last_online": "2026-11-16",
+   "last_online": "2026-11-17",
    "username": "SleepyCPU"
   },
   "sleepypawnofficial": {
@@ -5062,7 +5062,7 @@
   },
   "trrchessbot": {
    "first_seen": "2026-11-08",
-   "last_online": "2026-11-16",
+   "last_online": "2026-11-17",
    "username": "TrrChessBot"
   },
   "trusia12345678": {
@@ -5517,7 +5517,7 @@
   }
  },
  "online": {
-  "checked_at": "2026-11-17T13:43:10Z",
+  "checked_at": "2026-11-17T14:43:13Z",
   "ids": [
    "aaronsengine",
    "abdcebot",
@@ -5559,10 +5559,8 @@
    "bit-fish8",
    "bitbitbot",
    "black-bishop-kh",
-   "black-icebot",
    "bluemoonbot",
    "blujay-bot",
-   "blundeel67",
    "blundermind-01",
    "bobby_pcolla",
    "bongaclang",
@@ -5601,6 +5599,7 @@
    "chronicgambler",
    "cinder-bot",
    "classical-leela",
+   "claudyengine",
    "clessy-bot",
    "cloudia-chess",
    "clrsrc_lc0",
@@ -5655,12 +5654,12 @@
    "fivejoyouspandas",
    "flounderbot",
    "flower-queen",
-   "forktellbot",
    "fourcuriouspandas",
    "fschess-engine",
    "funcomp",
    "funfishbot",
    "gaiachessengine",
+   "gambitonlybot",
    "garbobot",
    "geotsibot",
    "glorbo_evermorrow",
@@ -5702,6 +5701,7 @@
    "kbelludoo",
    "kestrelstrike",
    "kirinchessbot",
+   "kittyenginev5",
    "knightstalker_uci",
    "kolmato",
    "lamprook",
@@ -5734,7 +5734,6 @@
    "lunaenginechess",
    "lynx_bot",
    "mac-bot",
-   "macbotitsmagic",
    "maia1",
    "maia3-79m_1000",
    "maia3-79m_1200",
@@ -5760,7 +5759,6 @@
    "mdbot",
    "mega-noob-bot",
    "melsh_bot",
-   "miccoengine",
    "michaamateurbot",
    "milanbot",
    "mimirbot",
@@ -5780,7 +5778,6 @@
    "ndr1sn",
    "nebaktinkrds",
    "nebubot",
-   "neryba",
    "neurosocute",
    "newengine2022",
    "nexastrat",
@@ -5803,6 +5800,7 @@
    "patzerbot135",
    "pawn_git",
    "pawnopenings",
+   "pawnrobot",
    "peacemaker-0_0",
    "peachfruit",
    "perl-gigachess",
@@ -5865,16 +5863,17 @@
    "sj_norbot",
    "slate-engine",
    "sleepmindengine",
+   "sleepycpu",
    "slowmate_bot",
    "smartysprout",
    "solobot",
-   "sparkchessengine",
    "springerbot",
    "squarefish-900",
    "sseh-c",
    "stepbot_chess",
    "stickshark99",
    "stockconda",
+   "stockcotsfish",
    "stockdory",
    "stockfishlowdepth",
    "stockpapagei",
@@ -5906,6 +5905,7 @@
    "trenerhetman",
    "trinculobot",
    "troutbot",
+   "trrchessbot",
    "tucuengine",
    "turk_gambit",
    "turkjs",
@@ -5934,7 +5934,6 @@
    "wedge_engine",
    "weiawaga",
    "worstfish",
-   "worstvariantsbot_1",
    "z-o_aspenlabs",
    "zaglotfish",
    "zion-bot",
