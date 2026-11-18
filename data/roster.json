@@ -497,7 +497,7 @@
   },
   "black-bishop-kh": {
    "first_seen": "2026-09-28",
-   "last_online": "2026-11-17",
+   "last_online": "2026-11-18",
    "username": "Black-Bishop-Kh"
   },
   "black-icebot": {
@@ -577,7 +577,7 @@
   },
   "borkatower": {
    "first_seen": "2026-09-27",
-   "last_online": "2026-11-17",
+   "last_online": "2026-11-18",
    "username": "BorkaTower"
   },
   "bot-o-tron": {
@@ -907,7 +907,7 @@
   },
   "chengine_rookery": {
    "first_seen": "2026-09-27",
-   "last_online": "2026-09-29",
+   "last_online": "2026-11-18",
    "username": "chengine_rookery"
   },
   "chess-2-bot": {
@@ -972,7 +972,7 @@
   },
   "chessgeniusbot": {
    "first_seen": "2026-10-02",
-   "last_online": "2026-11-17",
+   "last_online": "2026-11-18",
    "username": "ChessGeniusBot"
   },
   "chessiverse_ethan": {
@@ -1404,6 +1404,11 @@
    "first_seen": "2026-11-16",
    "last_online": "2026-11-17",
    "username": "Devilfish3030"
+  },
+  "devilfishalpha": {
+   "first_seen": "2026-11-18",
+   "last_online": "2026-11-18",
+   "username": "DevilfishAlpha"
   },
   "devilfishbot": {
    "first_seen": "2026-11-11",
@@ -4772,7 +4777,7 @@
   },
   "stupiditybot": {
    "first_seen": "2026-11-13",
-   "last_online": "2026-11-17",
+   "last_online": "2026-11-18",
    "username": "stupidityBOT"
   },
   "styx-chess": {
@@ -5067,7 +5072,7 @@
   },
   "trainingbuddy": {
    "first_seen": "2026-10-28",
-   "last_online": "2026-11-16",
+   "last_online": "2026-11-18",
    "username": "TrainingBuddy"
   },
   "traininggroundbot": {
@@ -5557,7 +5562,7 @@
   }
  },
  "online": {
-  "checked_at": "2026-11-18T05:43:08Z",
+  "checked_at": "2026-11-18T06:43:09Z",
   "ids": [
    "abdcebot",
    "aconcaguabot",
@@ -5582,7 +5587,6 @@
    "arasanx",
    "arkiplayschess",
    "artidigm_research",
-   "ashasevidence",
    "ashnostromo",
    "athena-chessbot",
    "axiom_bot",
@@ -5596,11 +5600,14 @@
    "bernstein-4ply",
    "bfiedler-bot",
    "bitbitbot",
+   "black-bishop-kh",
    "bluemoonbot",
+   "blujay-bot",
    "blundeel67",
    "blundermind-01",
    "bobby_pcolla",
    "bongaclang",
+   "borkatower",
    "bot1e",
    "bot1nokk",
    "bot5551",
@@ -5621,9 +5628,10 @@
    "catriever",
    "charibot",
    "chatgpt5_5",
+   "chengine_rookery",
    "chess3bot",
    "chess_set_manager",
-   "chessbot2880",
+   "chessgeniusbot",
    "chessiverse_ethan",
    "chessiverse_luc",
    "chessiverse_pawnza",
@@ -5632,7 +5640,6 @@
    "chessnoobcomp",
    "cheszter",
    "chill4ce",
-   "chiral_ebt",
    "chronicgambler",
    "cinder-bot",
    "classical-leela",
@@ -5664,6 +5671,7 @@
    "deepsquare-ai",
    "demen100ns-bot",
    "devchessplayer-bot",
+   "devilfishalpha",
    "devilfishzerotwo",
    "diogenes-bot",
    "disrespect_fish",
@@ -5723,7 +5731,6 @@
    "is_boss",
    "iskelt-corax",
    "jangine",
-   "jester7777",
    "jibbby",
    "jimmy_inc3710",
    "jjugle",
@@ -5735,6 +5742,7 @@
    "jurdbird",
    "justbot-v1",
    "kahunabot",
+   "karl-engine-v1",
    "kbelludoo",
    "kestrelstrike",
    "kirinchessbot",
@@ -5742,15 +5750,16 @@
    "kolmato",
    "lamprook",
    "laura-bot",
-   "ldzcj671",
+   "leelaanyodds",
+   "leelajester",
    "leelaknightodds",
    "leelapieceodds",
    "leelaqueenforknight",
    "leelaqueenodds",
    "leelarogue",
    "leelarookodds",
+   "leelatroll",
    "leelonardo",
-   "legotechniccontrolpl",
    "lentuschess",
    "levymaia",
    "lightning-762",
@@ -5780,11 +5789,11 @@
    "maia9",
    "maia960-1600",
    "maia960-1900",
-   "marlinchessbot",
    "martuni",
    "mate-in-forty",
    "mate-in-thirty",
    "mate-in-twenty",
+   "mate1-bot",
    "matmoi",
    "maybyen",
    "mcdonalds1955",
@@ -5811,7 +5820,6 @@
    "nebubot",
    "neryba",
    "neurosocute",
-   "newengine2022",
    "nexastrat",
    "next_uzbek",
    "nibbleknight",
@@ -5872,7 +5880,6 @@
    "remychessengine",
    "renegadeengine",
    "resolutebot",
-   "returnyou",
    "ribfish-bot",
    "robodoxadrez",
    "rubyai",
@@ -5902,7 +5909,7 @@
    "sleepish",
    "sleepmindengine",
    "slowmate_bot",
-   "sparkchessengine",
+   "smartysprout",
    "springerbot",
    "squarefish-900",
    "sseh-c",
@@ -5917,6 +5924,7 @@
    "streamervschat",
    "stronggoliath",
    "stupidfishbotbydscs",
+   "stupiditybot",
    "styx-chess",
    "sunfish-engine",
    "sunfish-nnue-engine",
@@ -5934,7 +5942,6 @@
    "throrbjorn",
    "thunfisch-bot",
    "tigrament",
-   "tikifish",
    "tilapiabot",
    "tinyairun",
    "to299d",
@@ -5942,6 +5949,7 @@
    "tonyengine",
    "topasbot",
    "trainer-bot",
+   "trainingbuddy",
    "trenerhetman",
    "trinculobot",
    "troutbot",
@@ -5966,7 +5974,6 @@
    "vic98lg",
    "vicentlittle",
    "vietnamesecoffee",
-   "void_bot",
    "vortex_bot",
    "vortexaurafarm",
    "waldemar-the-elf",
