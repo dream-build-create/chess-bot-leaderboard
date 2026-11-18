@@ -2057,7 +2057,7 @@
   },
   "hefeisanyou": {
    "first_seen": "2026-11-15",
-   "last_online": "2026-11-17",
+   "last_online": "2026-11-18",
    "username": "HefeiSanyou"
   },
   "hiusbot": {
@@ -2212,7 +2212,7 @@
   },
   "io-bot": {
    "first_seen": "2026-09-28",
-   "last_online": "2026-11-17",
+   "last_online": "2026-11-18",
    "username": "io-bot"
   },
   "iran_f72": {
@@ -2627,7 +2627,7 @@
   },
   "leelaanyodds": {
    "first_seen": "2026-10-30",
-   "last_online": "2026-11-17",
+   "last_online": "2026-11-18",
    "username": "LeelaAnyOdds"
   },
   "leelachesstest": {
@@ -2682,7 +2682,7 @@
   },
   "leelatroll": {
    "first_seen": "2026-09-28",
-   "last_online": "2026-11-17",
+   "last_online": "2026-11-18",
    "username": "LeelaTroll"
   },
   "leelonardo": {
@@ -3947,7 +3947,7 @@
   },
   "queensgambot": {
    "first_seen": "2026-09-27",
-   "last_online": "2026-11-17",
+   "last_online": "2026-11-18",
    "username": "QueensGamBOT"
   },
   "quirkafleeg-pc": {
@@ -4512,7 +4512,7 @@
   },
   "slightknight_11": {
    "first_seen": "2026-09-28",
-   "last_online": "2026-10-20",
+   "last_online": "2026-11-18",
    "username": "SlightKnight_11"
   },
   "slothcomputer": {
@@ -5552,7 +5552,7 @@
   }
  },
  "online": {
-  "checked_at": "2026-11-18T01:43:08Z",
+  "checked_at": "2026-11-18T02:43:09Z",
   "ids": [
    "abdcebot",
    "aconcaguabot",
@@ -5583,7 +5583,6 @@
    "baby_eubos",
    "ballin-bot",
    "banerot",
-   "batyarapro",
    "bbc_bot",
    "belzedarian",
    "benzene_0_2_phenol",
@@ -5602,14 +5601,12 @@
    "bot5551",
    "bot64jaques",
    "bot_adario",
-   "botkingteam33",
    "bottios",
    "bretemabot",
    "bubblebot2",
    "byte-knight",
    "bytefish",
    "c-t-r-l",
-   "cactus_bot",
    "caesarbot",
    "caiporabot",
    "capabot",
@@ -5619,6 +5616,7 @@
    "catriever",
    "charibot",
    "chess3bot",
+   "chess_set_manager",
    "chessbot2880",
    "chessiverse_ethan",
    "chessiverse_luc",
@@ -5705,6 +5703,7 @@
    "hackerchessbot",
    "halcyonbot",
    "hardrok",
+   "hefeisanyou",
    "homoludensbot",
    "humaia",
    "humaia-strong",
@@ -5716,6 +5715,7 @@
    "icarus-bot",
    "ilovecatgirl",
    "incipit_bot",
+   "io-bot",
    "is_boss",
    "iskelt-corax",
    "jangine",
@@ -5739,12 +5739,15 @@
    "lamprook",
    "laura-bot",
    "ldzcj671",
+   "leelaanyodds",
+   "leelajester",
    "leelaknightodds",
    "leelapieceodds",
    "leelaqueenforknight",
    "leelaqueenodds",
    "leelarogue",
    "leelarookodds",
+   "leelatroll",
    "leelonardo",
    "legotechniccontrolpl",
    "lentuschess",
@@ -5852,6 +5855,7 @@
    "psion-chess",
    "puisne",
    "pzchessbot",
+   "queensgambot",
    "quirkafleeg-pc",
    "quirkafleeg-zx48k",
    "quirkafleeg-zxnext",
@@ -5869,11 +5873,11 @@
    "resolutebot",
    "returnyou",
    "ribfish-bot",
+   "robodoxadrez",
    "rubyai",
    "rudim-bot",
    "rust-in-pieces",
    "rust-in-pieces-nnue",
-   "rustyrival",
    "sapling-bot",
    "sardinebot",
    "sargon-1ply",
@@ -5896,6 +5900,7 @@
    "slate-engine",
    "sleepish",
    "sleepmindengine",
+   "slightknight_11",
    "slowmate_bot",
    "smartysprout",
    "springerbot",
@@ -5923,6 +5928,8 @@
    "talbotbot",
    "tallikebot",
    "tempocore",
+   "tente-v2",
+   "tente8x",
    "territorybot",
    "thechessblazer",
    "throrbjorn",
@@ -5967,7 +5974,6 @@
    "walpurti",
    "weiawaga",
    "worstfish",
-   "worstvariantsbot_1",
    "xen-0",
    "z-o_aspenlabs",
    "zion-bot",
