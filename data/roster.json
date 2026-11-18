@@ -27,7 +27,7 @@
   },
   "abcd_engine": {
    "first_seen": "2026-09-27",
-   "last_online": "2026-11-16",
+   "last_online": "2026-11-18",
    "username": "abcd_engine"
   },
   "abdcebot": {
@@ -547,7 +547,7 @@
   },
   "blunder-engine": {
    "first_seen": "2026-11-08",
-   "last_online": "2026-11-17",
+   "last_online": "2026-11-18",
    "username": "Blunder-Engine"
   },
   "blundermind-01": {
@@ -1032,7 +1032,7 @@
   },
   "chesstransformerbot": {
    "first_seen": "2026-10-08",
-   "last_online": "2026-11-17",
+   "last_online": "2026-11-18",
    "username": "ChessTransformerBot"
   },
   "cheszter": {
@@ -1677,7 +1677,7 @@
   },
   "fattorini-bot": {
    "first_seen": "2026-11-11",
-   "last_online": "2026-11-17",
+   "last_online": "2026-11-18",
    "username": "fattorini-bot"
   },
   "fayefish": {
@@ -1832,7 +1832,7 @@
   },
   "galaxy-stellar-bot": {
    "first_seen": "2026-10-22",
-   "last_online": "2026-11-17",
+   "last_online": "2026-11-18",
    "username": "Galaxy-Stellar-Bot"
   },
   "gam3play3r-bot": {
@@ -1912,7 +1912,7 @@
   },
   "goats-of-bots": {
    "first_seen": "2026-11-07",
-   "last_online": "2026-11-17",
+   "last_online": "2026-11-18",
    "username": "Goats-Of-Bots"
   },
   "goblinajedrezai": {
@@ -2232,7 +2232,7 @@
   },
   "ironrooks": {
    "first_seen": "2026-11-05",
-   "last_online": "2026-11-06",
+   "last_online": "2026-11-18",
    "username": "IronRooks"
   },
   "is_boss": {
@@ -3772,22 +3772,22 @@
   },
   "pirates1": {
    "first_seen": "2026-10-01",
-   "last_online": "2026-11-17",
+   "last_online": "2026-11-18",
    "username": "pirates1"
   },
   "pirates2": {
    "first_seen": "2026-09-30",
-   "last_online": "2026-11-17",
+   "last_online": "2026-11-18",
    "username": "Pirates2"
   },
   "piratesrust": {
    "first_seen": "2026-10-01",
-   "last_online": "2026-11-17",
+   "last_online": "2026-11-18",
    "username": "PiratesRust"
   },
   "piratesrustv2": {
    "first_seen": "2026-11-13",
-   "last_online": "2026-11-17",
+   "last_online": "2026-11-18",
    "username": "PiratesRustV2"
   },
   "pixiegaming": {
@@ -4247,7 +4247,7 @@
   },
   "sacrifice-engine": {
    "first_seen": "2026-11-13",
-   "last_online": "2026-11-17",
+   "last_online": "2026-11-18",
    "username": "Sacrifice-Engine"
   },
   "saisrankarthik_7": {
@@ -5562,8 +5562,9 @@
   }
  },
  "online": {
-  "checked_at": "2026-11-18T06:43:09Z",
+  "checked_at": "2026-11-18T07:43:10Z",
   "ids": [
+   "abcd_engine",
    "abdcebot",
    "aconcaguabot",
    "aetherbot",
@@ -5604,6 +5605,7 @@
    "bluemoonbot",
    "blujay-bot",
    "blundeel67",
+   "blunder-engine",
    "blundermind-01",
    "bobby_pcolla",
    "bongaclang",
@@ -5615,7 +5617,6 @@
    "bot_adario",
    "bottios",
    "bretemabot",
-   "bubblebot2",
    "byte-knight",
    "bytefish",
    "c-t-r-l",
@@ -5638,6 +5639,7 @@
    "chessiverse_raak",
    "chessmindbot",
    "chessnoobcomp",
+   "chesstransformerbot",
    "cheszter",
    "chill4ce",
    "chronicgambler",
@@ -5691,6 +5693,7 @@
    "fairytailregimebot",
    "falconengine",
    "fathzer-jchess",
+   "fattorini-bot",
    "felipe_bot_53",
    "fenrirbot",
    "fetacompli",
@@ -5703,12 +5706,14 @@
    "funcomp",
    "funfishbot",
    "gaiachessengine",
+   "galaxy-stellar-bot",
    "garbobot",
    "georgii_ai",
    "geotsibot",
    "gilliamwongbot",
    "glorbo_evermorrow",
    "gnu4u",
+   "goats-of-bots",
    "goldfish-engine",
    "goopis",
    "grail-bot",
@@ -5728,6 +5733,7 @@
    "ilovecatgirl",
    "incipit_bot",
    "io-bot",
+   "ironrooks",
    "is_boss",
    "iskelt-corax",
    "jangine",
@@ -5750,15 +5756,12 @@
    "kolmato",
    "lamprook",
    "laura-bot",
-   "leelaanyodds",
-   "leelajester",
    "leelaknightodds",
    "leelapieceodds",
    "leelaqueenforknight",
    "leelaqueenodds",
    "leelarogue",
    "leelarookodds",
-   "leelatroll",
    "leelonardo",
    "lentuschess",
    "levymaia",
@@ -5795,7 +5798,6 @@
    "mate-in-twenty",
    "mate1-bot",
    "matmoi",
-   "maybyen",
    "mcdonalds1955",
    "mdbot",
    "mega-noob-bot",
@@ -5829,6 +5831,7 @@
    "nittedal",
    "noabot",
    "nohopeforman",
+   "noksiy",
    "notropis",
    "o-rei-cx",
    "odonata-bot",
@@ -5853,6 +5856,10 @@
    "piebot",
    "pierreai",
    "piglet_engine",
+   "pirates1",
+   "pirates2",
+   "piratesrust",
+   "piratesrustv2",
    "plumboi",
    "plumbot",
    "pontiengine",
@@ -5880,6 +5887,7 @@
    "remychessengine",
    "renegadeengine",
    "resolutebot",
+   "returnyou",
    "ribfish-bot",
    "robodoxadrez",
    "rubyai",
@@ -5887,6 +5895,7 @@
    "rust-in-pieces",
    "rust-in-pieces-nnue",
    "rustyrival",
+   "sacrifice-engine",
    "sapling-bot",
    "sardinebot",
    "sargon-1ply",
@@ -5903,6 +5912,7 @@
    "sharpsundae",
    "silasly",
    "sim3million",
+   "simonericafonso",
    "simpleeval",
    "sj_norbot",
    "slate-engine",
@@ -5925,7 +5935,6 @@
    "stronggoliath",
    "stupidfishbotbydscs",
    "stupiditybot",
-   "styx-chess",
    "sunfish-engine",
    "sunfish-nnue-engine",
    "sxphia",
@@ -5935,8 +5944,6 @@
    "talbotbot",
    "tallikebot",
    "tempocore",
-   "tente-v2",
-   "tente8x",
    "territorybot",
    "thechessblazer",
    "throrbjorn",
