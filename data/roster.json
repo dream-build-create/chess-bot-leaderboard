@@ -772,7 +772,7 @@
   },
   "caissa-x": {
    "first_seen": "2026-09-29",
-   "last_online": "2026-11-15",
+   "last_online": "2026-11-18",
    "username": "caissa-x"
   },
   "calciumengine": {
@@ -1624,6 +1624,11 @@
    "first_seen": "2026-09-28",
    "last_online": "2026-11-03",
    "username": "escarbo"
+  },
+  "esperengine": {
+   "first_seen": "2026-11-18",
+   "last_online": "2026-11-18",
+   "username": "EsperEngine"
   },
   "eubos": {
    "first_seen": "2026-09-27",
@@ -2652,7 +2657,7 @@
   },
   "leelamultiposs": {
    "first_seen": "2026-10-08",
-   "last_online": "2026-11-17",
+   "last_online": "2026-11-18",
    "username": "LeelaMultiPoss"
   },
   "leelapieceodds": {
@@ -2752,7 +2757,7 @@
   },
   "lili-ai": {
    "first_seen": "2026-10-22",
-   "last_online": "2026-11-17",
+   "last_online": "2026-11-18",
    "username": "Lili-ai"
   },
   "lilitbot": {
@@ -5562,7 +5567,7 @@
   }
  },
  "online": {
-  "checked_at": "2026-11-18T10:43:09Z",
+  "checked_at": "2026-11-18T11:43:09Z",
   "ids": [
    "aaronsengine",
    "abcd_engine",
@@ -5573,7 +5578,6 @@
    "ai-con",
    "ailedbot",
    "ajedrezchamberi",
-   "alarm2001",
    "alehkine_cat",
    "alexandrya",
    "aliceshiro",
@@ -5605,7 +5609,6 @@
    "bitbitbot",
    "bluemoonbot",
    "blujay-bot",
-   "blundeel67",
    "blundermind-01",
    "bobby_pcolla",
    "bongaclang",
@@ -5620,9 +5623,8 @@
    "bubblebot2",
    "byte-knight",
    "bytefish",
-   "c-t-r-l",
-   "caesarbot",
    "caiporabot",
+   "caissa-x",
    "capabot",
    "casanchess-nnue",
    "cassidychess-bot",
@@ -5633,19 +5635,17 @@
    "chatgpt5_5",
    "chengine_rookery",
    "chess3bot",
-   "chessgeniusbot",
    "chessiverse_ethan",
    "chessiverse_luc",
    "chessiverse_pawnza",
    "chessiverse_raak",
-   "chessnoobcomp",
+   "chessmindbot",
    "chesstransformerbot",
    "cheszter",
    "chill4ce",
    "chronicgambler",
    "cinder-bot",
    "classical-leela",
-   "claudyengine",
    "clessy-bot",
    "cloudia-chess",
    "clrsrc_lc0",
@@ -5665,7 +5665,6 @@
    "dala-700",
    "dala-900",
    "darkelectronbot",
-   "darkonbot",
    "darkonweakbot",
    "davidsguterbot",
    "debzero",
@@ -5674,7 +5673,6 @@
    "demen100ns-bot",
    "devchessplayer-bot",
    "devilfishalpha",
-   "devilfishzerotwo",
    "diogenes-bot",
    "disrespect_fish",
    "dravox",
@@ -5689,6 +5687,7 @@
    "elexunix_chess_bot",
    "elmichess",
    "endspiel-pi",
+   "esperengine",
    "eubos",
    "fairytailregimebot",
    "falconengine",
@@ -5731,6 +5730,7 @@
    "ilerdabot",
    "ilovecatgirl",
    "incipit_bot",
+   "io-bot",
    "ironrooks",
    "is_boss",
    "iskelt-corax",
@@ -5760,6 +5760,7 @@
    "leelaanyodds",
    "leelajester",
    "leelaknightodds",
+   "leelamultiposs",
    "leelapieceodds",
    "leelaqueenforknight",
    "leelaqueenodds",
@@ -5771,6 +5772,7 @@
    "levymaia",
    "lightning-762",
    "likeawizard-bot",
+   "lili-ai",
    "lilitbot",
    "little-0",
    "littlepatricia",
@@ -5802,7 +5804,6 @@
    "mate-in-twenty",
    "mate1-bot",
    "matmoi",
-   "mcdonalds1955",
    "mdbot",
    "mega-noob-bot",
    "melsh_bot",
@@ -5823,7 +5824,6 @@
    "ndr1sn",
    "nebaktinkrds",
    "nebubot",
-   "neryba",
    "neurosocute",
    "nexastrat",
    "next_uzbek",
@@ -5898,7 +5898,6 @@
    "sargon-1ply",
    "sargon-3ply",
    "sbnovella",
-   "scalaqueen",
    "schnecken_bot",
    "scipio-bot",
    "seedchess",
@@ -5911,7 +5910,6 @@
    "silasly",
    "sim3million",
    "simonericafonso",
-   "simplechessengine",
    "simpleeval",
    "sj_norbot",
    "slate-engine",
