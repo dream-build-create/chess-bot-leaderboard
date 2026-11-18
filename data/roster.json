@@ -7,7 +7,7 @@
   },
   "aaronsengine": {
    "first_seen": "2026-09-27",
-   "last_online": "2026-11-17",
+   "last_online": "2026-11-18",
    "username": "AaronsEngine"
   },
   "aathena101": {
@@ -102,7 +102,7 @@
   },
   "ajedrezchamberi": {
    "first_seen": "2026-09-29",
-   "last_online": "2026-11-17",
+   "last_online": "2026-11-18",
    "username": "AjedrezChamberi"
   },
   "alarm2001": {
@@ -857,7 +857,7 @@
   },
   "chamberiajedrez": {
    "first_seen": "2026-09-29",
-   "last_online": "2026-11-17",
+   "last_online": "2026-11-18",
    "username": "ChamberiAjedrez"
   },
   "chaotong_engine": {
@@ -2187,7 +2187,7 @@
   },
   "ilerdabot": {
    "first_seen": "2026-11-10",
-   "last_online": "2026-11-11",
+   "last_online": "2026-11-18",
    "username": "IlerdaBot"
   },
   "illuminachessengine": {
@@ -2542,7 +2542,7 @@
   },
   "kopyto_dev": {
    "first_seen": "2026-09-27",
-   "last_online": "2026-11-16",
+   "last_online": "2026-11-18",
    "username": "kopyto_dev"
   },
   "kowalabi": {
@@ -2627,7 +2627,7 @@
   },
   "leelaalien": {
    "first_seen": "2026-09-28",
-   "last_online": "2026-11-17",
+   "last_online": "2026-11-18",
    "username": "LeelaAlien"
   },
   "leelaanyodds": {
@@ -4402,7 +4402,7 @@
   },
   "shahmatbot": {
    "first_seen": "2026-11-04",
-   "last_online": "2026-11-04",
+   "last_online": "2026-11-18",
    "username": "SHAHMATBOT"
   },
   "shallowredbot": {
@@ -5562,8 +5562,9 @@
   }
  },
  "online": {
-  "checked_at": "2026-11-18T09:43:11Z",
+  "checked_at": "2026-11-18T10:43:09Z",
   "ids": [
+   "aaronsengine",
    "abcd_engine",
    "abdcebot",
    "aconcaguabot",
@@ -5571,6 +5572,7 @@
    "aggressivestockfish",
    "ai-con",
    "ailedbot",
+   "ajedrezchamberi",
    "alarm2001",
    "alehkine_cat",
    "alexandrya",
@@ -5601,13 +5603,12 @@
    "bernstein-4ply",
    "bfiedler-bot",
    "bitbitbot",
-   "black-bishop-kh",
    "bluemoonbot",
    "blujay-bot",
+   "blundeel67",
    "blundermind-01",
    "bobby_pcolla",
    "bongaclang",
-   "boris-trapsky",
    "borkatower",
    "bot1e",
    "bot1nokk",
@@ -5627,7 +5628,9 @@
    "cassidychess-bot",
    "catnail",
    "catriever",
+   "chamberiajedrez",
    "charibot",
+   "chatgpt5_5",
    "chengine_rookery",
    "chess3bot",
    "chessgeniusbot",
@@ -5635,7 +5638,6 @@
    "chessiverse_luc",
    "chessiverse_pawnza",
    "chessiverse_raak",
-   "chessmindbot",
    "chessnoobcomp",
    "chesstransformerbot",
    "cheszter",
@@ -5649,7 +5651,6 @@
    "clrsrc_lc0",
    "coda_bot",
    "colinbot",
-   "colossusbot",
    "confidencebuilder",
    "cookiebot711",
    "craftyuci",
@@ -5727,12 +5728,14 @@
    "hyperopic",
    "ia_horus",
    "icarus-bot",
+   "ilerdabot",
    "ilovecatgirl",
    "incipit_bot",
    "ironrooks",
    "is_boss",
    "iskelt-corax",
    "jangine",
+   "jester7777",
    "jibbby",
    "jimmy_inc3710",
    "jjugle",
@@ -5750,8 +5753,10 @@
    "kirinchessbot",
    "knightstalker_uci",
    "kolmato",
+   "kopyto_dev",
    "lamprook",
    "laura-bot",
+   "leelaalien",
    "leelaanyodds",
    "leelajester",
    "leelaknightodds",
@@ -5899,11 +5904,14 @@
    "seedchess",
    "seitogakatsu",
    "sf_bot1nok",
+   "shahmatbot",
    "shallowredbot",
    "sharpdubot",
    "sharpsundae",
    "silasly",
    "sim3million",
+   "simonericafonso",
+   "simplechessengine",
    "simpleeval",
    "sj_norbot",
    "slate-engine",
