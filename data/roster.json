@@ -1445,6 +1445,11 @@
    "last_online": "2026-10-22",
    "username": "Dilemma5000"
   },
+  "dingusbot": {
+   "first_seen": "2026-11-18",
+   "last_online": "2026-11-18",
+   "username": "DingusBot"
+  },
   "diogenes-bot": {
    "first_seen": "2026-10-26",
    "last_online": "2026-11-18",
@@ -1922,7 +1927,7 @@
   },
   "goblinajedrezai": {
    "first_seen": "2026-09-28",
-   "last_online": "2026-11-16",
+   "last_online": "2026-11-18",
    "username": "GoblinAjedrezAI"
   },
   "gochess6767": {
@@ -3067,7 +3072,7 @@
   },
   "matemakingmachine": {
    "first_seen": "2026-09-29",
-   "last_online": "2026-11-16",
+   "last_online": "2026-11-18",
    "username": "MateMakingMachine"
   },
   "matmoi": {
@@ -4592,7 +4597,7 @@
   },
   "smaugfincamo235": {
    "first_seen": "2026-11-17",
-   "last_online": "2026-11-17",
+   "last_online": "2026-11-18",
    "username": "SmaugFincamo235"
   },
   "snaky-bot": {
@@ -5597,7 +5602,7 @@
   }
  },
  "online": {
-  "checked_at": "2026-11-18T19:43:10Z",
+  "checked_at": "2026-11-18T20:43:11Z",
   "ids": [
    "aaronsengine",
    "abcd_engine",
@@ -5637,7 +5642,6 @@
    "bernstein-4ply",
    "bfiedler-bot",
    "bitbitbot",
-   "black-icebot",
    "bluemoonbot",
    "blujay-bot",
    "blundermind-01",
@@ -5655,7 +5659,6 @@
    "bubblebot2",
    "byte-knight",
    "bytefish",
-   "c-t-r-l",
    "caiporabot",
    "capabot",
    "casanchess-nnue",
@@ -5697,7 +5700,6 @@
    "dala-700",
    "dala-900",
    "darkelectronbot",
-   "darkonbot",
    "darkonweakbot",
    "davidsguterbot",
    "debzero",
@@ -5707,6 +5709,7 @@
    "devchessplayer-bot",
    "devilfishbot",
    "devilfishzero",
+   "dingusbot",
    "diogenes-bot",
    "disrespect_fish",
    "dravox",
@@ -5741,10 +5744,10 @@
    "gilliamwongbot",
    "glorbo_evermorrow",
    "gnu4u",
+   "goblinajedrezai",
    "goldfish-engine",
    "goopis",
    "gopandafish",
-   "gpt6luna",
    "grail-bot",
    "grindfish",
    "hackerchessbot",
@@ -5761,6 +5764,7 @@
    "icarus-bot",
    "ilovecatgirl",
    "incipit_bot",
+   "io-bot",
    "ironrooks",
    "is_boss",
    "iskelt-corax",
@@ -5795,12 +5799,12 @@
    "leelarogue",
    "leelarookodds",
    "leelatroll",
+   "leelonardo",
    "legotechniccontrolpl",
    "lentuschess",
    "levymaia",
    "lightning-762",
    "likeawizard-bot",
-   "lili-ai",
    "lilitbot",
    "little-0",
    "littlepatricia",
@@ -5831,6 +5835,7 @@
    "mate-in-thirty",
    "mate-in-twenty",
    "mate1-bot",
+   "matemakingmachine",
    "matmoi",
    "matthewcarven",
    "mcdonalds1955",
@@ -5892,6 +5897,7 @@
    "plumboi",
    "plumbot",
    "pontiengine",
+   "ponytail_engine",
    "premove90-1500",
    "premoveandcry",
    "princhess_policy_bot",
@@ -5934,7 +5940,6 @@
    "sf_bot1nok",
    "shallowredbot",
    "sharpdubot",
-   "sharpsundae",
    "silasly",
    "sim3million",
    "simonericafonso",
@@ -5946,6 +5951,7 @@
    "sleepmindengine",
    "slowmate_bot",
    "smartysprout",
+   "smaugfincamo235",
    "snaky-bot",
    "sparkchessengine",
    "springerbot",
@@ -5956,6 +5962,7 @@
    "stepbot_chess",
    "stickshark99",
    "stockconda",
+   "stockcotsfish",
    "stockdory",
    "stockfishlowdepth",
    "stockpapagei",
