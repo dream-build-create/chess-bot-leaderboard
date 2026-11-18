@@ -1417,7 +1417,7 @@
   },
   "devilfishzerotwo": {
    "first_seen": "2026-11-15",
-   "last_online": "2026-11-15",
+   "last_online": "2026-11-18",
    "username": "DevilfishZeroTwo"
   },
   "dfy-bot": {
@@ -1867,7 +1867,7 @@
   },
   "georgii_ai": {
    "first_seen": "2026-09-28",
-   "last_online": "2026-11-17",
+   "last_online": "2026-11-18",
    "username": "georgii_ai"
   },
   "geotsibot": {
@@ -4697,7 +4697,7 @@
   },
   "stockcotsfish": {
    "first_seen": "2026-10-07",
-   "last_online": "2026-11-17",
+   "last_online": "2026-11-18",
    "username": "Stockcotsfish"
   },
   "stockdory": {
@@ -5552,7 +5552,7 @@
   }
  },
  "online": {
-  "checked_at": "2026-11-18T02:43:09Z",
+  "checked_at": "2026-11-18T03:43:11Z",
   "ids": [
    "abdcebot",
    "aconcaguabot",
@@ -5590,7 +5590,6 @@
    "bernstein-4ply",
    "bfiedler-bot",
    "bitbitbot",
-   "black-icebot",
    "bluemoonbot",
    "blujay-bot",
    "blundermind-01",
@@ -5658,8 +5657,7 @@
    "deepsquare-ai",
    "demen100ns-bot",
    "devchessplayer-bot",
-   "devilfishbot",
-   "devilfishzero",
+   "devilfishzerotwo",
    "diogenes-bot",
    "disrespect_fish",
    "dravox",
@@ -5690,8 +5688,8 @@
    "funcomp",
    "funfishbot",
    "gaiachessengine",
-   "gambitonlybot",
    "garbobot",
+   "georgii_ai",
    "geotsibot",
    "gilliamwongbot",
    "glorbo_evermorrow",
@@ -5739,8 +5737,6 @@
    "lamprook",
    "laura-bot",
    "ldzcj671",
-   "leelaanyodds",
-   "leelajester",
    "leelaknightodds",
    "leelapieceodds",
    "leelaqueenforknight",
@@ -5760,7 +5756,6 @@
    "littleply",
    "louischess48-6k",
    "lukebot",
-   "luminexbot",
    "lunaenginechess",
    "lynx_bot",
    "mac-bot",
@@ -5817,7 +5812,6 @@
    "next_uzbek",
    "nibbleknight",
    "nichteliasbot",
-   "nickdrohan",
    "nilatacbot",
    "nittedal",
    "noabot",
@@ -5848,6 +5842,7 @@
    "piglet_engine",
    "plumboi",
    "plumbot",
+   "pontiengine",
    "premove90-1500",
    "princhess_policy_bot",
    "prokopakop",
@@ -5878,6 +5873,7 @@
    "rudim-bot",
    "rust-in-pieces",
    "rust-in-pieces-nnue",
+   "rustyrival",
    "sapling-bot",
    "sardinebot",
    "sargon-1ply",
@@ -5900,17 +5896,16 @@
    "slate-engine",
    "sleepish",
    "sleepmindengine",
-   "slightknight_11",
    "slowmate_bot",
    "smartysprout",
    "springerbot",
    "squarefish-900",
    "sseh-c",
    "stardustengine",
-   "stargazerengine",
    "stepbot_chess",
    "stickshark99",
    "stockconda",
+   "stockcotsfish",
    "stockdory",
    "stockfishlowdepth",
    "stockpapagei",
@@ -5974,6 +5969,7 @@
    "walpurti",
    "weiawaga",
    "worstfish",
+   "worstvariantsbot_1",
    "xen-0",
    "z-o_aspenlabs",
    "zion-bot",
