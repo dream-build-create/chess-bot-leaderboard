@@ -377,7 +377,7 @@
   },
   "battlebornthe1st": {
    "first_seen": "2026-10-01",
-   "last_online": "2026-11-01",
+   "last_online": "2026-11-18",
    "username": "BattleBornThe1st"
   },
   "battlebornthe2nd": {
@@ -580,6 +580,11 @@
    "last_online": "2026-11-18",
    "username": "BorkaTower"
   },
+  "bot-kut": {
+   "first_seen": "2026-11-18",
+   "last_online": "2026-11-18",
+   "username": "Bot-Kut"
+  },
   "bot-o-tron": {
    "first_seen": "2026-09-28",
    "last_online": "2026-10-31",
@@ -667,7 +672,7 @@
   },
   "bottrain": {
    "first_seen": "2026-11-15",
-   "last_online": "2026-11-17",
+   "last_online": "2026-11-18",
    "username": "bottrain"
   },
   "botvunnix": {
@@ -1625,6 +1630,11 @@
    "last_online": "2026-11-03",
    "username": "Erin_Brain"
   },
+  "escacsgba_1": {
+   "first_seen": "2026-11-18",
+   "last_online": "2026-11-18",
+   "username": "EscacsGBA_1"
+  },
   "escarbo": {
    "first_seen": "2026-09-28",
    "last_online": "2026-11-03",
@@ -1892,7 +1902,7 @@
   },
   "ghidorah_x": {
    "first_seen": "2026-09-27",
-   "last_online": "2026-11-11",
+   "last_online": "2026-11-18",
    "username": "Ghidorah_X"
   },
   "giffibot": {
@@ -3607,7 +3617,7 @@
   },
   "openingsbot": {
    "first_seen": "2026-10-02",
-   "last_online": "2026-11-17",
+   "last_online": "2026-11-18",
    "username": "OpeningsBot"
   },
   "opycep": {
@@ -5520,6 +5530,11 @@
    "last_online": "2026-11-17",
    "username": "yow-experimental"
   },
+  "yvyraa": {
+   "first_seen": "2026-11-18",
+   "last_online": "2026-11-18",
+   "username": "yvyraa"
+  },
   "z-o_aspenlabs": {
    "first_seen": "2026-09-27",
    "last_online": "2026-11-18",
@@ -5602,7 +5617,7 @@
   }
  },
  "online": {
-  "checked_at": "2026-11-18T21:43:16Z",
+  "checked_at": "2026-11-18T22:43:09Z",
   "ids": [
    "abcd_engine",
    "abdcebot",
@@ -5633,6 +5648,7 @@
    "axiom_bot",
    "baby_eubos",
    "ballin-bot",
+   "battlebornthe1st",
    "bbc_bot",
    "belzedarian",
    "benzene_0_2_phenol",
@@ -5646,17 +5662,18 @@
    "bobby_pcolla",
    "bongaclang",
    "boris-trapsky",
+   "bot-kut",
    "bot1e",
    "bot1nokk",
    "bot5551",
-   "bot64jaques",
    "bot_adario",
+   "botkingteam33",
    "bottios",
+   "bottrain",
    "bretemabot",
    "bubblebot2",
    "byte-knight",
    "bytefish",
-   "cactus_bot",
    "caiporabot",
    "capabot",
    "casanchess-nnue",
@@ -5665,8 +5682,9 @@
    "catriever",
    "chamberiajedrez",
    "charibot",
-   "chatgpt5_5",
    "chess3bot",
+   "chess_set_manager",
+   "chessgeniusbot",
    "chessiverse_ethan",
    "chessiverse_luc",
    "chessiverse_pawnza",
@@ -5682,6 +5700,7 @@
    "clrsrc_lc0",
    "coda_bot",
    "colinbot",
+   "colossusbot",
    "confidencebuilder",
    "cookiebot711",
    "craftyuci",
@@ -5707,7 +5726,6 @@
    "devilfishzero",
    "diogenes-bot",
    "disrespect_fish",
-   "dravox",
    "drawfish-reborn",
    "dubot",
    "duchessai",
@@ -5719,6 +5737,7 @@
    "elexunix_chess_bot",
    "elmichess",
    "endspiel-pi",
+   "escacsgba_1",
    "eubos",
    "fairytailregimebot",
    "falconengine",
@@ -5736,6 +5755,7 @@
    "funfishbot",
    "garbobot",
    "geotsibot",
+   "ghidorah_x",
    "gilliamwongbot",
    "glorbo_evermorrow",
    "gnu4u",
@@ -5841,7 +5861,6 @@
    "morabandbot",
    "mrdeepseekgpt",
    "mrtonnerre",
-   "munzurbot2",
    "mutusbot",
    "mychessjava",
    "nanozeroorg",
@@ -5866,6 +5885,7 @@
    "odonata-bot",
    "onechessbot",
    "onezenpanda",
+   "openingsbot",
    "oxide-eg",
    "pangubot",
    "panic-fish",
@@ -5887,8 +5907,6 @@
    "piglet_engine",
    "plumboi",
    "plumbot",
-   "pontiengine",
-   "ponytail_engine",
    "premove90-1500",
    "princhess_policy_bot",
    "prokopakop",
@@ -5967,7 +5985,6 @@
    "sybaibot",
    "sybbot",
    "sykorabot",
-   "talbotbot",
    "tallikebot",
    "tempocore",
    "tente-v2",
@@ -6016,6 +6033,7 @@
    "worstfish",
    "xen-0",
    "yfbs6767",
+   "yvyraa",
    "z-o_aspenlabs",
    "zion-bot",
    "zipfile_chess-bot"
