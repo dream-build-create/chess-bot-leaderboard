@@ -7,7 +7,7 @@
   },
   "aaronsengine": {
    "first_seen": "2026-09-27",
-   "last_online": "2026-11-18",
+   "last_online": "2026-11-19",
    "username": "AaronsEngine"
   },
   "aathena101": {
@@ -1152,7 +1152,7 @@
   },
   "colossusbot": {
    "first_seen": "2026-09-30",
-   "last_online": "2026-11-18",
+   "last_online": "2026-11-19",
    "username": "ColossusBOT"
   },
   "compchess2": {
@@ -1604,6 +1604,11 @@
    "first_seen": "2026-09-27",
    "last_online": "2026-11-16",
    "username": "entebot"
+  },
+  "enyo_v2": {
+   "first_seen": "2026-11-19",
+   "last_online": "2026-11-19",
+   "username": "Enyo_v2"
   },
   "epimetheusbot": {
    "first_seen": "2026-09-28",
@@ -3032,7 +3037,7 @@
   },
   "makechessbetter": {
    "first_seen": "2026-09-28",
-   "last_online": "2026-11-03",
+   "last_online": "2026-11-19",
    "username": "MakeChessBetter"
   },
   "malanchess": {
@@ -3112,7 +3117,7 @@
   },
   "maybyen": {
    "first_seen": "2026-11-07",
-   "last_online": "2026-11-18",
+   "last_online": "2026-11-19",
    "username": "maybyen"
   },
   "mayflyengine": {
@@ -5637,8 +5642,9 @@
   }
  },
  "online": {
-  "checked_at": "2026-11-19T09:43:09Z",
+  "checked_at": "2026-11-19T10:43:11Z",
   "ids": [
+   "aaronsengine",
    "abcd_engine",
    "abdcebot",
    "aconcaguabot",
@@ -5671,6 +5677,7 @@
    "ballin-bot",
    "bbc_bot",
    "belzedarian",
+   "benzene_0_2_phenol",
    "bernstein-2ply",
    "bernstein-4ply",
    "bfiedler-bot",
@@ -5678,7 +5685,7 @@
    "bitbitbot",
    "bluemoonbot",
    "blujay-bot",
-   "blunder-engine",
+   "blundeel67",
    "blundermind-01",
    "bobby_pcolla",
    "bongaclang",
@@ -5690,6 +5697,7 @@
    "bot64jaques",
    "bot_adario",
    "bottios",
+   "bottrain",
    "bretemabot",
    "bubblebot2",
    "byte-knight",
@@ -5722,6 +5730,7 @@
    "clrsrc_lc0",
    "coda_bot",
    "colinbot",
+   "colossusbot",
    "confidencebuilder",
    "cookiebot711",
    "craftyuci",
@@ -5756,6 +5765,7 @@
    "elachessbot",
    "elexunix_chess_bot",
    "elmichess",
+   "enyo_v2",
    "escacsgba_1",
    "esperengine",
    "eubos",
@@ -5773,12 +5783,10 @@
    "fschess-engine",
    "funcomp",
    "funfishbot",
-   "galaxy-stellar-bot",
    "garbobot",
    "geotsibot",
    "glorbo_evermorrow",
    "gnu4u",
-   "goats-of-bots",
    "goldfish-engine",
    "goopis",
    "gopandafish",
@@ -5801,7 +5809,6 @@
    "is_boss",
    "iskelt-corax",
    "jangine",
-   "jester7777",
    "jibbby",
    "jimmy_inc3710",
    "jjugle",
@@ -5817,7 +5824,6 @@
    "kbelludoo",
    "kestrelstrike",
    "kirinchessbot",
-   "knightstalker_uci",
    "kolmato",
    "kopyto_dev",
    "lamprook",
@@ -5861,6 +5867,7 @@
    "maia9",
    "maia960-1600",
    "maia960-1900",
+   "makechessbetter",
    "marlinchessbot",
    "martuni",
    "mate-in-forty",
@@ -5868,6 +5875,7 @@
    "mate-in-twenty",
    "mate1-bot",
    "matmoi",
+   "maybyen",
    "mcdonalds1955",
    "mdbot",
    "mega-noob-bot",
@@ -5892,6 +5900,7 @@
    "ndr1sn",
    "nebaktinkrds",
    "nebubot",
+   "neryba",
    "neurosocute",
    "newengine2022",
    "nexastrat",
@@ -5903,6 +5912,7 @@
    "nilatacbot",
    "nittedal",
    "noabot",
+   "noksiy",
    "o-rei-cx",
    "odonata-bot",
    "onechessbot",
@@ -5919,7 +5929,6 @@
    "pawnrobot",
    "peacemaker-0_0",
    "peachfruit",
-   "peanet0",
    "peppermintpatty",
    "perl-gigachess",
    "philidor-142m",
@@ -5928,13 +5937,8 @@
    "piebot",
    "pierreai",
    "piglet_engine",
-   "pirates1",
-   "pirates2",
-   "piratesrust",
-   "piratesrustv2",
    "plumboi",
    "plumbot",
-   "ponytail_engine",
    "premove90-1500",
    "princhess_policy_bot",
    "prokopakop",
@@ -5958,12 +5962,12 @@
    "remychessengine",
    "renegadeengine",
    "resolutebot",
+   "returnyou",
    "ribfish-bot",
    "rubyai",
    "rudim-bot",
    "rust-in-pieces",
    "rust-in-pieces-nnue",
-   "sacrifice-engine",
    "sapling-bot",
    "sardinebot",
    "sargon-1ply",
@@ -6020,7 +6024,6 @@
    "tente8x",
    "territorybot",
    "thechessblazer",
-   "throrbjorn",
    "thunfisch-bot",
    "tigrament",
    "tilapiabot",
