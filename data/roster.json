@@ -487,7 +487,7 @@
   },
   "bit-fish8": {
    "first_seen": "2026-11-01",
-   "last_online": "2026-11-17",
+   "last_online": "2026-11-19",
    "username": "Bit-Fish8"
   },
   "bitbitbot": {
@@ -612,7 +612,7 @@
   },
   "bot64jaques": {
    "first_seen": "2026-09-27",
-   "last_online": "2026-11-18",
+   "last_online": "2026-11-19",
    "username": "bot64jaques"
   },
   "bot913": {
@@ -1037,7 +1037,7 @@
   },
   "chesstransformerbot": {
    "first_seen": "2026-10-08",
-   "last_online": "2026-11-18",
+   "last_online": "2026-11-19",
    "username": "ChessTransformerBot"
   },
   "cheszter": {
@@ -5632,7 +5632,7 @@
   }
  },
  "online": {
-  "checked_at": "2026-11-19T06:43:08Z",
+  "checked_at": "2026-11-19T07:43:10Z",
   "ids": [
    "abcd_engine",
    "abdcebot",
@@ -5669,6 +5669,7 @@
    "bernstein-2ply",
    "bernstein-4ply",
    "bfiedler-bot",
+   "bit-fish8",
    "bitbitbot",
    "black-bishop-kh",
    "bluemoonbot",
@@ -5682,6 +5683,7 @@
    "bot1e",
    "bot1nokk",
    "bot5551",
+   "bot64jaques",
    "bot_adario",
    "bottios",
    "bretemabot",
@@ -5696,7 +5698,6 @@
    "catnail",
    "catriever",
    "charibot",
-   "chess3bot",
    "chess_set_manager",
    "chessgeniusbot",
    "chessiverse_ethan",
@@ -5705,9 +5706,9 @@
    "chessiverse_raak",
    "chessmindbot",
    "chessnoobcomp",
+   "chesstransformerbot",
    "cheszter",
    "chill4ce",
-   "chiral_ebt",
    "cinder-bot",
    "classical-leela",
    "claude_bot",
@@ -5945,14 +5946,12 @@
    "remychessengine",
    "renegadeengine",
    "resolutebot",
-   "returnyou",
    "ribfish-bot",
    "rubyai",
    "rudim-bot",
    "rust-in-pieces",
    "rust-in-pieces-nnue",
    "sapling-bot",
-   "sardinebot",
    "sargon-1ply",
    "sargon-3ply",
    "sbnovella",
@@ -5992,7 +5991,6 @@
    "stronggoliath",
    "stupidfishbotbydscs",
    "stupiditybot",
-   "styx-chess",
    "sunfish-engine",
    "sunfish-nnue-engine",
    "supra_engine",
