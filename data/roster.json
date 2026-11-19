@@ -287,7 +287,7 @@
   },
   "ashasevidence": {
    "first_seen": "2026-10-08",
-   "last_online": "2026-11-18",
+   "last_online": "2026-11-19",
    "username": "ashasevidence"
   },
   "ashnostromo": {
@@ -877,7 +877,7 @@
   },
   "chatgpt5_5": {
    "first_seen": "2026-10-04",
-   "last_online": "2026-11-18",
+   "last_online": "2026-11-19",
    "username": "chatgpt5_5"
   },
   "checkmare666bot": {
@@ -1102,7 +1102,7 @@
   },
   "claudyengine": {
    "first_seen": "2026-09-28",
-   "last_online": "2026-11-18",
+   "last_online": "2026-11-19",
    "username": "ClaudyEngine"
   },
   "clementyne1": {
@@ -1452,7 +1452,7 @@
   },
   "dingusbot": {
    "first_seen": "2026-11-18",
-   "last_online": "2026-11-18",
+   "last_online": "2026-11-19",
    "username": "DingusBot"
   },
   "diogenes-bot": {
@@ -1902,7 +1902,7 @@
   },
   "ghidorah_x": {
    "first_seen": "2026-09-27",
-   "last_online": "2026-11-18",
+   "last_online": "2026-11-19",
    "username": "Ghidorah_X"
   },
   "giffibot": {
@@ -2242,7 +2242,7 @@
   },
   "io-bot": {
    "first_seen": "2026-09-28",
-   "last_online": "2026-11-18",
+   "last_online": "2026-11-19",
    "username": "io-bot"
   },
   "iran_f72": {
@@ -2877,7 +2877,7 @@
   },
   "luminexbot": {
    "first_seen": "2026-10-25",
-   "last_online": "2026-11-18",
+   "last_online": "2026-11-19",
    "username": "luminexbot"
   },
   "lunaenginechess": {
@@ -4007,7 +4007,7 @@
   },
   "queensgambot": {
    "first_seen": "2026-09-27",
-   "last_online": "2026-11-18",
+   "last_online": "2026-11-19",
    "username": "QueensGamBOT"
   },
   "quirkafleeg-pc": {
@@ -4169,6 +4169,11 @@
    "first_seen": "2026-09-27",
    "last_online": "2026-11-19",
    "username": "Ribfish-Bot"
+  },
+  "rithik-ak": {
+   "first_seen": "2026-11-19",
+   "last_online": "2026-11-19",
+   "username": "Rithik-AK"
   },
   "rivoentreleslignes": {
    "first_seen": "2026-11-02",
@@ -5627,9 +5632,8 @@
   }
  },
  "online": {
-  "checked_at": "2026-11-19T01:43:10Z",
+  "checked_at": "2026-11-19T02:43:10Z",
   "ids": [
-   "abcd_engine",
    "abdcebot",
    "aconcaguabot",
    "aetherbot",
@@ -5653,6 +5657,7 @@
    "arasanx",
    "arkiplayschess",
    "artidigm_research",
+   "ashasevidence",
    "ashnostromo",
    "athena-chessbot",
    "axiom_bot",
@@ -5682,7 +5687,6 @@
    "byte-knight",
    "bytefish",
    "c-t-r-l",
-   "cactus_bot",
    "caiporabot",
    "capabot",
    "casanchess-nnue",
@@ -5690,6 +5694,7 @@
    "catnail",
    "catriever",
    "charibot",
+   "chatgpt5_5",
    "chess3bot",
    "chess_set_manager",
    "chessiverse_ethan",
@@ -5700,10 +5705,10 @@
    "chessnoobcomp",
    "cheszter",
    "chill4ce",
-   "chronotoby",
    "cinder-bot",
    "classical-leela",
    "claude_bot",
+   "claudyengine",
    "clessy-bot",
    "cloudia-chess",
    "clrsrc_lc0",
@@ -5732,6 +5737,7 @@
    "demen100ns-bot",
    "devchessplayer-bot",
    "devilfishzero",
+   "dingusbot",
    "disrespect_fish",
    "drawfish-reborn",
    "dubot",
@@ -5764,6 +5770,7 @@
    "gambitonlybot",
    "garbobot",
    "geotsibot",
+   "ghidorah_x",
    "gilliamwongbot",
    "glorbo_evermorrow",
    "gnu4u",
@@ -5787,6 +5794,7 @@
    "ilerdabot",
    "ilovecatgirl",
    "incipit_bot",
+   "io-bot",
    "ironrooks",
    "is_boss",
    "iskelt-corax",
@@ -5832,6 +5840,7 @@
    "littleply",
    "louischess48-6k",
    "lukebot",
+   "luminexbot",
    "lynx_bot",
    "mac-bot",
    "maia1",
@@ -5873,6 +5882,7 @@
    "mrdeepseekgpt",
    "mrtonnerre",
    "mudskipperbot",
+   "munzurbot2",
    "mutusbot",
    "mychessjava",
    "nanozeroorg",
@@ -5917,6 +5927,7 @@
    "piebot",
    "pierreai",
    "piglet_engine",
+   "plumboi",
    "plumbot",
    "premove90-1500",
    "princhess_policy_bot",
@@ -5926,6 +5937,7 @@
    "puisne",
    "pzchessbot",
    "quartzthechessbot",
+   "queensgambot",
    "quirkafleeg-pc",
    "quirkafleeg-zx48k",
    "quirkafleeg-zxnext",
@@ -5940,7 +5952,9 @@
    "remychessengine",
    "renegadeengine",
    "resolutebot",
+   "returnyou",
    "ribfish-bot",
+   "rithik-ak",
    "robodoxadrez",
    "rubyai",
    "rudim-bot",
@@ -5970,7 +5984,6 @@
    "sleepmindengine",
    "slowmate_bot",
    "smartysprout",
-   "smasher23445",
    "smaugfincamo235",
    "snaky-bot",
    "sparkchessengine",
