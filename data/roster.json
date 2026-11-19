@@ -497,7 +497,7 @@
   },
   "black-bishop-kh": {
    "first_seen": "2026-09-28",
-   "last_online": "2026-11-18",
+   "last_online": "2026-11-19",
    "username": "Black-Bishop-Kh"
   },
   "black-icebot": {
@@ -1052,7 +1052,7 @@
   },
   "chiral_ebt": {
    "first_seen": "2026-11-07",
-   "last_online": "2026-11-18",
+   "last_online": "2026-11-19",
    "username": "chiral_ebt"
   },
   "chmod-bot": {
@@ -3277,7 +3277,7 @@
   },
   "mostlyhuman1900": {
    "first_seen": "2026-09-27",
-   "last_online": "2026-11-18",
+   "last_online": "2026-11-19",
    "username": "MostlyHuman1900"
   },
   "moteur441": {
@@ -4842,7 +4842,7 @@
   },
   "stupiditybot": {
    "first_seen": "2026-11-13",
-   "last_online": "2026-11-18",
+   "last_online": "2026-11-19",
    "username": "stupidityBOT"
   },
   "styx-chess": {
@@ -5042,7 +5042,7 @@
   },
   "throrbjorn": {
    "first_seen": "2026-09-27",
-   "last_online": "2026-11-18",
+   "last_online": "2026-11-19",
    "username": "ThrorBjorn"
   },
   "thunfisch-bot": {
@@ -5632,7 +5632,7 @@
   }
  },
  "online": {
-  "checked_at": "2026-11-19T05:43:10Z",
+  "checked_at": "2026-11-19T06:43:08Z",
   "ids": [
    "abcd_engine",
    "abdcebot",
@@ -5670,6 +5670,7 @@
    "bernstein-4ply",
    "bfiedler-bot",
    "bitbitbot",
+   "black-bishop-kh",
    "bluemoonbot",
    "blujay-bot",
    "blundeel67",
@@ -5677,12 +5678,12 @@
    "bobby_pcolla",
    "bongaclang",
    "boris-trapsky",
+   "borkatower",
    "bot1e",
    "bot1nokk",
    "bot5551",
    "bot_adario",
    "bottios",
-   "bottrain",
    "bretemabot",
    "bubblebot2",
    "byte-knight",
@@ -5706,6 +5707,7 @@
    "chessnoobcomp",
    "cheszter",
    "chill4ce",
+   "chiral_ebt",
    "cinder-bot",
    "classical-leela",
    "claude_bot",
@@ -5736,7 +5738,6 @@
    "demen100ns-bot",
    "devchessplayer-bot",
    "devilfishzero",
-   "dingusbot",
    "disrespect_fish",
    "drawfish-reborn",
    "dubot",
@@ -5766,19 +5767,16 @@
    "fschess-engine",
    "funcomp",
    "funfishbot",
-   "gaiachessengine",
    "garbobot",
    "geotsibot",
-   "ghidorah_x",
-   "gilliamwongbot",
    "glorbo_evermorrow",
    "gnu4u",
    "goldfish-engine",
+   "goopis",
    "gopandafish",
    "grail-bot",
    "grindfish",
    "hackerchessbot",
-   "halcyonbot",
    "homoludensbot",
    "humaia",
    "humaia-strong",
@@ -5807,6 +5805,7 @@
    "jurdbird",
    "justbot-v1",
    "kahunabot",
+   "karl-engine-v1",
    "kbelludoo",
    "kestrelstrike",
    "kirinchessbot",
@@ -5825,7 +5824,6 @@
    "leelarogue",
    "leelarookodds",
    "leelatroll",
-   "leelonardo",
    "legotechniccontrolpl",
    "lentuschess",
    "levymaia",
@@ -5873,6 +5871,7 @@
    "mithandros",
    "mochi_bot",
    "morabandbot",
+   "mostlyhuman1900",
    "mrcoachbot",
    "mrdeepseekgpt",
    "mrtonnerre",
@@ -5896,7 +5895,6 @@
    "nilatacbot",
    "nittedal",
    "noabot",
-   "noksiy",
    "o-rei-cx",
    "odonata-bot",
    "onechessbot",
@@ -5978,7 +5976,6 @@
    "slowmate_bot",
    "smartysprout",
    "smaugfincamo235",
-   "snaky-bot",
    "sparkchessengine",
    "springerbot",
    "squarefish-900",
@@ -5994,6 +5991,8 @@
    "streamervschat",
    "stronggoliath",
    "stupidfishbotbydscs",
+   "stupiditybot",
+   "styx-chess",
    "sunfish-engine",
    "sunfish-nnue-engine",
    "supra_engine",
@@ -6008,9 +6007,9 @@
    "tente8x",
    "territorybot",
    "thechessblazer",
+   "throrbjorn",
    "thunfisch-bot",
    "tigrament",
-   "tikifish",
    "tilapiabot",
    "tinyairun",
    "to299d",
