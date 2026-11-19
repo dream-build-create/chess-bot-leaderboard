@@ -1417,7 +1417,7 @@
   },
   "devilfishalpha": {
    "first_seen": "2026-11-18",
-   "last_online": "2026-11-18",
+   "last_online": "2026-11-19",
    "username": "DevilfishAlpha"
   },
   "devilfishbot": {
@@ -1614,6 +1614,11 @@
    "first_seen": "2026-11-19",
    "last_online": "2026-11-19",
    "username": "Enyo_v2"
+  },
+  "enyobot": {
+   "first_seen": "2026-11-19",
+   "last_online": "2026-11-19",
+   "username": "EnyoBot"
   },
   "epimetheusbot": {
    "first_seen": "2026-09-28",
@@ -2652,7 +2657,7 @@
   },
   "ldzcj671": {
    "first_seen": "2026-11-17",
-   "last_online": "2026-11-18",
+   "last_online": "2026-11-19",
    "username": "LDZCJ671"
   },
   "learning32": {
@@ -2692,7 +2697,7 @@
   },
   "leelamultiposs": {
    "first_seen": "2026-10-08",
-   "last_online": "2026-11-18",
+   "last_online": "2026-11-19",
    "username": "LeelaMultiPoss"
   },
   "leelapieceodds": {
@@ -3362,7 +3367,7 @@
   },
   "my-bot": {
    "first_seen": "2026-10-03",
-   "last_online": "2026-11-10",
+   "last_online": "2026-11-19",
    "username": "MY-BOT"
   },
   "mychessjava": {
@@ -5137,7 +5142,7 @@
   },
   "torombot": {
    "first_seen": "2026-09-28",
-   "last_online": "2026-11-06",
+   "last_online": "2026-11-19",
    "username": "ToromBot"
   },
   "torre-s3": {
@@ -5647,7 +5652,7 @@
   }
  },
  "online": {
-  "checked_at": "2026-11-19T11:43:11Z",
+  "checked_at": "2026-11-19T12:43:10Z",
   "ids": [
    "aaronsengine",
    "abcd_engine",
@@ -5657,7 +5662,6 @@
    "ai-con",
    "ailedbot",
    "ajedrezchamberi",
-   "alarm2001",
    "alehkine_cat",
    "alexandrya",
    "aliceshiro",
@@ -5751,7 +5755,7 @@
    "deepsquare-ai",
    "demen100ns-bot",
    "devchessplayer-bot",
-   "devilfishzero",
+   "devilfishalpha",
    "disrespect_fish",
    "dravox",
    "drawfish-reborn",
@@ -5764,7 +5768,7 @@
    "elachessbot",
    "elexunix_chess_bot",
    "elmichess",
-   "enyo_v2",
+   "enyobot",
    "escacsgba_1",
    "esperengine",
    "eubos",
@@ -5802,9 +5806,9 @@
    "hustler_5mb",
    "hyperopic",
    "icarus-bot",
+   "ilerdabot",
    "ilovecatgirl",
    "incipit_bot",
-   "io-bot",
    "ironrooks",
    "is_boss",
    "iskelt-corax",
@@ -5824,21 +5828,23 @@
    "kbelludoo",
    "kestrelstrike",
    "kirinchessbot",
+   "knightstalker_uci",
    "kolmato",
    "kopyto_dev",
    "lamprook",
    "laura-bot",
+   "ldzcj671",
    "leelaalien",
    "leelaanyodds",
    "leelajester",
    "leelaknightodds",
+   "leelamultiposs",
    "leelapieceodds",
    "leelaqueenforknight",
    "leelaqueenodds",
    "leelarogue",
    "leelarookodds",
    "leelatroll",
-   "legotechniccontrolpl",
    "lentuschess",
    "levymaia",
    "lightning-762",
@@ -5893,6 +5899,7 @@
    "munzurbot2",
    "musashi-thebot",
    "mutusbot",
+   "my-bot",
    "mychessjava",
    "nanozeroorg",
    "ndr1sn",
@@ -5945,7 +5952,6 @@
    "psion-chess",
    "puisne",
    "pzchessbot",
-   "quartzthechessbot",
    "queensgambot",
    "quirkafleeg-pc",
    "quirkafleeg-zx48k",
@@ -5963,6 +5969,7 @@
    "resolutebot",
    "returnyou",
    "ribfish-bot",
+   "rithik-ak",
    "rubyai",
    "rudim-bot",
    "rust-in-pieces",
@@ -5993,7 +6000,6 @@
    "slowmate_bot",
    "smartysprout",
    "smaugfincamo235",
-   "sparkfish-hce",
    "springerbot",
    "squarefish-900",
    "sseh-c",
@@ -6030,6 +6036,7 @@
    "to299d",
    "togaii",
    "topasbot",
+   "torombot",
    "trainer-bot",
    "trenerhetman",
    "trinculobot",
@@ -6052,10 +6059,8 @@
    "uzenatch",
    "vanibot",
    "variantsbot",
-   "vic98lg",
    "vicentlittle",
    "vietnamesecoffee",
-   "void_bot",
    "vortex_bot",
    "vortexaurafarm",
    "waldemar-the-elf",
