@@ -1250,6 +1250,11 @@
    "last_online": "2026-11-14",
    "username": "CuteBot"
   },
+  "dafuq_bot": {
+   "first_seen": "2026-11-19",
+   "last_online": "2026-11-19",
+   "username": "dafuq_bot"
+  },
   "dagfish": {
    "first_seen": "2026-10-30",
    "last_online": "2026-10-31",
@@ -3700,6 +3705,11 @@
    "last_online": "2026-11-17",
    "username": "PaconBot"
   },
+  "pacu_bot": {
+   "first_seen": "2026-11-19",
+   "last_online": "2026-11-19",
+   "username": "Pacu_Bot"
+  },
   "palebots": {
    "first_seen": "2026-11-07",
    "last_online": "2026-11-16",
@@ -3937,7 +3947,7 @@
   },
   "premoveandcry": {
    "first_seen": "2026-11-18",
-   "last_online": "2026-11-18",
+   "last_online": "2026-11-19",
    "username": "PreMoveAndCry"
   },
   "primeagentbot": {
@@ -3954,6 +3964,11 @@
    "first_seen": "2026-10-26",
    "last_online": "2026-11-19",
    "username": "princhess_policy_bot"
+  },
+  "prismnnue": {
+   "first_seen": "2026-11-19",
+   "last_online": "2026-11-19",
+   "username": "PrismNNUE"
   },
   "project_nebulora": {
    "first_seen": "2026-09-30",
@@ -5167,7 +5182,7 @@
   },
   "trainingbuddy": {
    "first_seen": "2026-10-28",
-   "last_online": "2026-11-18",
+   "last_online": "2026-11-19",
    "username": "TrainingBuddy"
   },
   "traininggroundbot": {
@@ -5677,7 +5692,7 @@
   }
  },
  "online": {
-  "checked_at": "2026-11-19T16:43:10Z",
+  "checked_at": "2026-11-19T17:43:09Z",
   "ids": [
    "aaronsengine",
    "abcd_engine",
@@ -5719,6 +5734,7 @@
    "bitbitbot",
    "bluemoonbot",
    "blujay-bot",
+   "blundeel67",
    "blundermind-01",
    "bobby_pcolla",
    "bongaclang",
@@ -5737,7 +5753,6 @@
    "byte-knight",
    "bytefish",
    "c-t-r-l",
-   "cactus_bot",
    "caiporabot",
    "capabot",
    "casanchess-nnue",
@@ -5750,7 +5765,6 @@
    "chessiverse_luc",
    "chessiverse_pawnza",
    "chessiverse_raak",
-   "chessmindbot",
    "chessnoobcomp",
    "chesstransformerbot",
    "cheszter",
@@ -5771,6 +5785,7 @@
    "croco_bot",
    "croco_little_bot",
    "crocodile_bot",
+   "dafuq_bot",
    "dala-1100",
    "dala-1300",
    "dala-1600",
@@ -5799,6 +5814,7 @@
    "elachessbot",
    "elexunix_chess_bot",
    "elmichess",
+   "enyobot",
    "escacsgba_1",
    "esperengine",
    "eubos",
@@ -5842,6 +5858,7 @@
    "ilerdabot",
    "ilovecatgirl",
    "incipit_bot",
+   "io-bot",
    "ironrooks",
    "is_boss",
    "iskelt-corax",
@@ -5868,7 +5885,6 @@
    "kuniboy4chik",
    "lamprook",
    "laura-bot",
-   "ldzcj671",
    "leelaalien",
    "leelaanyodds",
    "leelajester",
@@ -5879,6 +5895,7 @@
    "leelarogue",
    "leelarookodds",
    "leelatroll",
+   "leelonardo",
    "legotechniccontrolpl",
    "lentuschess",
    "levymaia",
@@ -5915,7 +5932,6 @@
    "mate-in-forty",
    "mate-in-thirty",
    "mate-in-twenty",
-   "mate1-bot",
    "matmoi",
    "matthewcarven",
    "maybyen",
@@ -5936,7 +5952,6 @@
    "mrtonnerre",
    "mudskipperbot",
    "munzurbot2",
-   "musashi-thebot",
    "mutusbot",
    "mychessjava",
    "nanozeroorg",
@@ -5961,6 +5976,7 @@
    "onezenpanda",
    "openingsbot",
    "oxide-eg",
+   "pacu_bot",
    "pangubot",
    "panic-fish",
    "partner3615diago",
@@ -5981,9 +5997,10 @@
    "plumboi",
    "plumbot",
    "pontiengine",
-   "ponytail_engine",
    "premove90-1500",
+   "premoveandcry",
    "princhess_policy_bot",
+   "prismnnue",
    "prokopakop",
    "prosperobot",
    "psion-chess",
@@ -6003,6 +6020,7 @@
    "remychessengine",
    "renegadeengine",
    "resolutebot",
+   "returnyou",
    "ribfish-bot",
    "rubyai",
    "rudim-bot",
@@ -6025,7 +6043,6 @@
    "silasly",
    "sim3million",
    "simonericafonso",
-   "simple_chess_lab",
    "simplechessengine",
    "simpleeval",
    "sj_norbot",
@@ -6073,6 +6090,7 @@
    "tonyengine",
    "topasbot",
    "trainer-bot",
+   "trainingbuddy",
    "trenerhetman",
    "trinculobot",
    "troutbot",
@@ -6094,6 +6112,7 @@
    "uzenatch",
    "vanibot",
    "variantsbot",
+   "vic98lg",
    "vicentlittle",
    "vietnamesecoffee",
    "void_bot",
@@ -6101,13 +6120,12 @@
    "vortexaurafarm",
    "waldemar-the-elf",
    "walpurti",
+   "wannalearnbot",
    "weiawaga",
    "worserfish19",
    "worstfish",
    "xen-0",
-   "yfbs6767",
    "z-o_aspenlabs",
-   "zaatarthecat",
    "zanak-bot",
    "zeval_bot",
    "zion-bot",
