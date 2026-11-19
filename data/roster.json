@@ -2327,7 +2327,7 @@
   },
   "jester7777": {
    "first_seen": "2026-11-11",
-   "last_online": "2026-11-18",
+   "last_online": "2026-11-19",
    "username": "jester7777"
   },
   "jesterchessrobot": {
@@ -3882,7 +3882,7 @@
   },
   "ponytail_engine": {
    "first_seen": "2026-10-28",
-   "last_online": "2026-11-18",
+   "last_online": "2026-11-19",
    "username": "Ponytail_engine"
   },
   "potential_engine": {
@@ -4932,7 +4932,7 @@
   },
   "talbotbot": {
    "first_seen": "2026-11-17",
-   "last_online": "2026-11-18",
+   "last_online": "2026-11-19",
    "username": "Talbotbot"
   },
   "tallikebot": {
@@ -5632,8 +5632,9 @@
   }
  },
  "online": {
-  "checked_at": "2026-11-19T02:43:10Z",
+  "checked_at": "2026-11-19T03:43:09Z",
   "ids": [
+   "abcd_engine",
    "abdcebot",
    "aconcaguabot",
    "aetherbot",
@@ -5694,7 +5695,6 @@
    "catnail",
    "catriever",
    "charibot",
-   "chatgpt5_5",
    "chess3bot",
    "chess_set_manager",
    "chessiverse_ethan",
@@ -5708,7 +5708,6 @@
    "cinder-bot",
    "classical-leela",
    "claude_bot",
-   "claudyengine",
    "clessy-bot",
    "cloudia-chess",
    "clrsrc_lc0",
@@ -5767,10 +5766,8 @@
    "fschess-engine",
    "funcomp",
    "funfishbot",
-   "gambitonlybot",
    "garbobot",
    "geotsibot",
-   "ghidorah_x",
    "gilliamwongbot",
    "glorbo_evermorrow",
    "gnu4u",
@@ -5791,7 +5788,6 @@
    "hustler_5mb",
    "hyperopic",
    "icarus-bot",
-   "ilerdabot",
    "ilovecatgirl",
    "incipit_bot",
    "io-bot",
@@ -5799,6 +5795,7 @@
    "is_boss",
    "iskelt-corax",
    "jangine",
+   "jester7777",
    "jibbby",
    "jimmy_inc3710",
    "jjugle",
@@ -5840,7 +5837,6 @@
    "littleply",
    "louischess48-6k",
    "lukebot",
-   "luminexbot",
    "lynx_bot",
    "mac-bot",
    "maia1",
@@ -5888,7 +5884,6 @@
    "nanozeroorg",
    "ndr1sn",
    "nebaktinkrds",
-   "nebubot",
    "neryba",
    "neurosocute",
    "nexastrat",
@@ -5929,6 +5924,7 @@
    "piglet_engine",
    "plumboi",
    "plumbot",
+   "ponytail_engine",
    "premove90-1500",
    "princhess_policy_bot",
    "prokopakop",
@@ -5954,8 +5950,6 @@
    "resolutebot",
    "returnyou",
    "ribfish-bot",
-   "rithik-ak",
-   "robodoxadrez",
    "rubyai",
    "rudim-bot",
    "rust-in-pieces",
@@ -5976,7 +5970,6 @@
    "silasly",
    "sim3million",
    "simonericafonso",
-   "simple_chess_lab",
    "simpleeval",
    "sj_norbot",
    "slate-engine",
@@ -5991,7 +5984,6 @@
    "squarefish-900",
    "sseh-c",
    "stardustengine",
-   "stargazerengine",
    "stepbot_chess",
    "stickshark99",
    "stockconda",
@@ -6010,6 +6002,7 @@
    "sybaibot",
    "sybbot",
    "sykorabot",
+   "talbotbot",
    "tallikebot",
    "tempocore",
    "tente-v2",
@@ -6046,7 +6039,6 @@
    "uzenatch",
    "vanibot",
    "variantsbot",
-   "vi-rock-chess",
    "vic98lg",
    "vicentlittle",
    "vietnamesecoffee",
