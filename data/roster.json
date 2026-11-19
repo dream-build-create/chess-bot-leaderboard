@@ -102,7 +102,7 @@
   },
   "ajedrezchamberi": {
    "first_seen": "2026-09-29",
-   "last_online": "2026-11-18",
+   "last_online": "2026-11-19",
    "username": "AjedrezChamberi"
   },
   "alarm2001": {
@@ -862,7 +862,7 @@
   },
   "chamberiajedrez": {
    "first_seen": "2026-09-29",
-   "last_online": "2026-11-18",
+   "last_online": "2026-11-19",
    "username": "ChamberiAjedrez"
   },
   "chaotong_engine": {
@@ -5632,7 +5632,7 @@
   }
  },
  "online": {
-  "checked_at": "2026-11-19T07:53:45Z",
+  "checked_at": "2026-11-19T08:43:09Z",
   "ids": [
    "abcd_engine",
    "abdcebot",
@@ -5641,6 +5641,7 @@
    "aggressivestockfish",
    "ai-con",
    "ailedbot",
+   "ajedrezchamberi",
    "alarm2001",
    "alehkine_cat",
    "alexandrya",
@@ -5671,7 +5672,6 @@
    "bfiedler-bot",
    "bit-fish8",
    "bitbitbot",
-   "black-bishop-kh",
    "bluemoonbot",
    "blujay-bot",
    "blundeel67",
@@ -5697,8 +5697,10 @@
    "cassidychess-bot",
    "catnail",
    "catriever",
+   "chamberiajedrez",
    "charibot",
    "chess_set_manager",
+   "chessgeniusbot",
    "chessiverse_ethan",
    "chessiverse_luc",
    "chessiverse_pawnza",
@@ -5750,7 +5752,6 @@
    "elachessbot",
    "elexunix_chess_bot",
    "elmichess",
-   "endspiel-pi",
    "escacsgba_1",
    "esperengine",
    "eubos",
@@ -5789,7 +5790,6 @@
    "icarus-bot",
    "ilovecatgirl",
    "incipit_bot",
-   "io-bot",
    "ironrooks",
    "is_boss",
    "iskelt-corax",
@@ -5885,7 +5885,6 @@
    "ndr1sn",
    "nebaktinkrds",
    "nebubot",
-   "neryba",
    "neurosocute",
    "nexastrat",
    "next_uzbek",
@@ -5932,7 +5931,6 @@
    "pzchessbot",
    "quartzthechessbot",
    "queensgambot",
-   "quirkafleeg-pc",
    "quirkafleeg-zx48k",
    "quirkafleeg-zxnext",
    "r0bspierre",
@@ -5975,7 +5973,6 @@
    "slowmate_bot",
    "smartysprout",
    "smaugfincamo235",
-   "sparkchessengine",
    "springerbot",
    "squarefish-900",
    "sseh-c",
@@ -6043,7 +6040,6 @@
    "vortexaurafarm",
    "waldemar-the-elf",
    "walpurti",
-   "wannalearnbot",
    "weiawaga",
    "worstfish",
    "xen-0",
