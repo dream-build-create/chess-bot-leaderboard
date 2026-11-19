@@ -2897,7 +2897,7 @@
   },
   "lunaenginechess": {
    "first_seen": "2026-09-28",
-   "last_online": "2026-11-18",
+   "last_online": "2026-11-19",
    "username": "LunaEngineChess"
   },
   "lynx_bot": {
@@ -5132,7 +5132,7 @@
   },
   "tonyengine": {
    "first_seen": "2026-09-29",
-   "last_online": "2026-11-18",
+   "last_online": "2026-11-19",
    "username": "TonyEngine"
   },
   "topasbot": {
@@ -5582,7 +5582,7 @@
   },
   "zaatarthecat": {
    "first_seen": "2026-11-12",
-   "last_online": "2026-11-12",
+   "last_online": "2026-11-19",
    "username": "ZaatarTheCat"
   },
   "zaglotfish": {
@@ -5662,7 +5662,7 @@
   }
  },
  "online": {
-  "checked_at": "2026-11-19T13:43:09Z",
+  "checked_at": "2026-11-19T14:43:11Z",
   "ids": [
    "aaronsengine",
    "abcd_engine",
@@ -5739,7 +5739,6 @@
    "chesstransformerbot",
    "cheszter",
    "chill4ce",
-   "chronotoby",
    "cinder-bot",
    "classical-leela",
    "claude_bot",
@@ -5783,6 +5782,7 @@
    "elachessbot",
    "elexunix_chess_bot",
    "elmichess",
+   "enyobot",
    "escacsgba_1",
    "esperengine",
    "eubos",
@@ -5802,6 +5802,7 @@
    "funfishbot",
    "garbobot",
    "geotsibot",
+   "ghidorah_x",
    "glorbo_evermorrow",
    "gnu4u",
    "goldfish-engine",
@@ -5861,6 +5862,7 @@
    "leelarogue",
    "leelarookodds",
    "leelatroll",
+   "leelonardo",
    "lentuschess",
    "levymaia",
    "lightning-762",
@@ -5872,6 +5874,7 @@
    "littleply",
    "louischess48-6k",
    "lukebot",
+   "lunaenginechess",
    "lynx_bot",
    "mac-bot",
    "maia1",
@@ -5955,11 +5958,11 @@
    "pi0w",
    "picosargon",
    "piebot",
-   "pierreai",
    "piglet_engine",
    "plumboi",
    "plumbot",
    "pontiengine",
+   "ponytail_engine",
    "premove90-1500",
    "princhess_policy_bot",
    "prokopakop",
@@ -5984,7 +5987,6 @@
    "resolutebot",
    "returnyou",
    "ribfish-bot",
-   "rithik-ak",
    "rubyai",
    "rudim-bot",
    "rust-in-pieces",
@@ -6016,6 +6018,7 @@
    "slowmate_bot",
    "smartysprout",
    "smaugfincamo235",
+   "sparkchessengine",
    "springerbot",
    "squarefish-900",
    "sseh-c",
@@ -6049,12 +6052,12 @@
    "tinyairun",
    "to299d",
    "togaii",
+   "tonyengine",
    "topasbot",
    "trainer-bot",
    "trenerhetman",
    "trinculobot",
    "troutbot",
-   "trrchessbot",
    "tucuengine",
    "turk_gambit",
    "turkjs",
@@ -6085,6 +6088,7 @@
    "worstfish",
    "xen-0",
    "z-o_aspenlabs",
+   "zaatarthecat",
    "zanak-bot",
    "zion-bot",
    "zipfile_chess-bot"
