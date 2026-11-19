@@ -762,7 +762,7 @@
   },
   "cactus_bot": {
    "first_seen": "2026-09-30",
-   "last_online": "2026-11-18",
+   "last_online": "2026-11-19",
    "username": "Cactus_Bot"
   },
   "caesarbot": {
@@ -1097,7 +1097,7 @@
   },
   "claude_bot": {
    "first_seen": "2026-10-05",
-   "last_online": "2026-11-18",
+   "last_online": "2026-11-19",
    "username": "CLaude_Bot"
   },
   "claudyengine": {
@@ -1642,7 +1642,7 @@
   },
   "esperengine": {
    "first_seen": "2026-11-18",
-   "last_online": "2026-11-18",
+   "last_online": "2026-11-19",
    "username": "EsperEngine"
   },
   "eubos": {
@@ -1962,7 +1962,7 @@
   },
   "goopis": {
    "first_seen": "2026-09-27",
-   "last_online": "2026-11-18",
+   "last_online": "2026-11-19",
    "username": "Goopis"
   },
   "gopandafish": {
@@ -3305,6 +3305,11 @@
    "last_online": "2026-11-13",
    "username": "MrBeauBeauTheBot"
   },
+  "mrcoachbot": {
+   "first_seen": "2026-11-19",
+   "last_online": "2026-11-19",
+   "username": "MrCoachBot"
+  },
   "mrdeepseekgpt": {
    "first_seen": "2026-11-09",
    "last_online": "2026-11-19",
@@ -3314,6 +3319,11 @@
    "first_seen": "2026-09-27",
    "last_online": "2026-11-19",
    "username": "MrTonnerre"
+  },
+  "mudskipperbot": {
+   "first_seen": "2026-11-19",
+   "last_online": "2026-11-19",
+   "username": "MudskipperBot"
   },
   "munzurbot2": {
    "first_seen": "2026-10-30",
@@ -4877,7 +4887,7 @@
   },
   "supra_engine": {
    "first_seen": "2026-11-06",
-   "last_online": "2026-11-18",
+   "last_online": "2026-11-19",
    "username": "Supra_engine"
   },
   "switchless": {
@@ -5617,7 +5627,7 @@
   }
  },
  "online": {
-  "checked_at": "2026-11-19T00:43:10Z",
+  "checked_at": "2026-11-19T01:43:10Z",
   "ids": [
    "abcd_engine",
    "abdcebot",
@@ -5665,7 +5675,6 @@
    "bot1nokk",
    "bot5551",
    "bot_adario",
-   "botkingteam33",
    "bottios",
    "bottrain",
    "bretemabot",
@@ -5673,6 +5682,7 @@
    "byte-knight",
    "bytefish",
    "c-t-r-l",
+   "cactus_bot",
    "caiporabot",
    "capabot",
    "casanchess-nnue",
@@ -5693,6 +5703,7 @@
    "chronotoby",
    "cinder-bot",
    "classical-leela",
+   "claude_bot",
    "clessy-bot",
    "cloudia-chess",
    "clrsrc_lc0",
@@ -5734,6 +5745,7 @@
    "elmichess",
    "endspiel-pi",
    "escacsgba_1",
+   "esperengine",
    "eubos",
    "fairytailregimebot",
    "falconengine",
@@ -5756,6 +5768,7 @@
    "glorbo_evermorrow",
    "gnu4u",
    "goldfish-engine",
+   "goopis",
    "gopandafish",
    "grail-bot",
    "grindfish",
@@ -5856,9 +5869,10 @@
    "mithandros",
    "mochi_bot",
    "morabandbot",
+   "mrcoachbot",
    "mrdeepseekgpt",
    "mrtonnerre",
-   "munzurbot2",
+   "mudskipperbot",
    "mutusbot",
    "mychessjava",
    "nanozeroorg",
@@ -5903,7 +5917,6 @@
    "piebot",
    "pierreai",
    "piglet_engine",
-   "plumboi",
    "plumbot",
    "premove90-1500",
    "princhess_policy_bot",
@@ -5927,7 +5940,6 @@
    "remychessengine",
    "renegadeengine",
    "resolutebot",
-   "returnyou",
    "ribfish-bot",
    "robodoxadrez",
    "rubyai",
@@ -5980,6 +5992,7 @@
    "styx-chess",
    "sunfish-engine",
    "sunfish-nnue-engine",
+   "supra_engine",
    "sxphia",
    "sybaibot",
    "sybbot",
