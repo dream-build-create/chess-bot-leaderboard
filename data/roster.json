@@ -440,6 +440,11 @@
    "last_online": "2026-11-19",
    "username": "Belzedarian"
   },
+  "benzene-phenol-02": {
+   "first_seen": "2026-11-19",
+   "last_online": "2026-11-19",
+   "username": "Benzene-Phenol-02"
+  },
   "benzene_0_2_phenol": {
    "first_seen": "2026-11-16",
    "last_online": "2026-11-19",
@@ -2787,7 +2792,7 @@
   },
   "lili-ai": {
    "first_seen": "2026-10-22",
-   "last_online": "2026-11-18",
+   "last_online": "2026-11-19",
    "username": "Lili-ai"
   },
   "lilitbot": {
@@ -3882,7 +3887,7 @@
   },
   "pontiengine": {
    "first_seen": "2026-10-20",
-   "last_online": "2026-11-18",
+   "last_online": "2026-11-19",
    "username": "PontiEngine"
   },
   "ponytail_engine": {
@@ -5642,14 +5647,13 @@
   }
  },
  "online": {
-  "checked_at": "2026-11-19T10:43:11Z",
+  "checked_at": "2026-11-19T11:43:11Z",
   "ids": [
    "aaronsengine",
    "abcd_engine",
    "abdcebot",
    "aconcaguabot",
    "aetherbot",
-   "aggressivestockfish",
    "ai-con",
    "ailedbot",
    "ajedrezchamberi",
@@ -5677,15 +5681,13 @@
    "ballin-bot",
    "bbc_bot",
    "belzedarian",
-   "benzene_0_2_phenol",
+   "benzene-phenol-02",
    "bernstein-2ply",
    "bernstein-4ply",
    "bfiedler-bot",
-   "bit-fish8",
    "bitbitbot",
    "bluemoonbot",
    "blujay-bot",
-   "blundeel67",
    "blundermind-01",
    "bobby_pcolla",
    "bongaclang",
@@ -5702,7 +5704,6 @@
    "bubblebot2",
    "byte-knight",
    "bytefish",
-   "c-t-r-l",
    "caiporabot",
    "capabot",
    "casanchess-nnue",
@@ -5711,7 +5712,6 @@
    "catriever",
    "chamberiajedrez",
    "charibot",
-   "chess_set_manager",
    "chessgeniusbot",
    "chessiverse_ethan",
    "chessiverse_luc",
@@ -5745,7 +5745,6 @@
    "dala-700",
    "dala-900",
    "darkelectronbot",
-   "darkonbot",
    "darkonweakbot",
    "davidsguterbot",
    "debzero",
@@ -5805,6 +5804,7 @@
    "icarus-bot",
    "ilovecatgirl",
    "incipit_bot",
+   "io-bot",
    "ironrooks",
    "is_boss",
    "iskelt-corax",
@@ -5843,6 +5843,7 @@
    "levymaia",
    "lightning-762",
    "likeawizard-bot",
+   "lili-ai",
    "lilitbot",
    "little-0",
    "littlepatricia",
@@ -5867,8 +5868,6 @@
    "maia9",
    "maia960-1600",
    "maia960-1900",
-   "makechessbetter",
-   "marlinchessbot",
    "martuni",
    "mate-in-forty",
    "mate-in-thirty",
@@ -5876,7 +5875,6 @@
    "mate1-bot",
    "matmoi",
    "maybyen",
-   "mcdonalds1955",
    "mdbot",
    "mega-noob-bot",
    "melsh_bot",
@@ -5939,6 +5937,7 @@
    "piglet_engine",
    "plumboi",
    "plumbot",
+   "pontiengine",
    "premove90-1500",
    "princhess_policy_bot",
    "prokopakop",
