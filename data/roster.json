@@ -547,7 +547,7 @@
   },
   "blunder-engine": {
    "first_seen": "2026-11-08",
-   "last_online": "2026-11-18",
+   "last_online": "2026-11-19",
    "username": "Blunder-Engine"
   },
   "blundermind-01": {
@@ -1852,7 +1852,7 @@
   },
   "galaxy-stellar-bot": {
    "first_seen": "2026-10-22",
-   "last_online": "2026-11-18",
+   "last_online": "2026-11-19",
    "username": "Galaxy-Stellar-Bot"
   },
   "gam3play3r-bot": {
@@ -1932,7 +1932,7 @@
   },
   "goats-of-bots": {
    "first_seen": "2026-11-07",
-   "last_online": "2026-11-18",
+   "last_online": "2026-11-19",
    "username": "Goats-Of-Bots"
   },
   "goblinajedrezai": {
@@ -3452,7 +3452,7 @@
   },
   "newengine2022": {
    "first_seen": "2026-10-06",
-   "last_online": "2026-11-18",
+   "last_online": "2026-11-19",
    "username": "newengine2022"
   },
   "newtsbot": {
@@ -3762,7 +3762,7 @@
   },
   "peanet0": {
    "first_seen": "2026-10-05",
-   "last_online": "2026-11-15",
+   "last_online": "2026-11-19",
    "username": "PeaNet0"
   },
   "peppermintpatty": {
@@ -3817,22 +3817,22 @@
   },
   "pirates1": {
    "first_seen": "2026-10-01",
-   "last_online": "2026-11-18",
+   "last_online": "2026-11-19",
    "username": "pirates1"
   },
   "pirates2": {
    "first_seen": "2026-09-30",
-   "last_online": "2026-11-18",
+   "last_online": "2026-11-19",
    "username": "Pirates2"
   },
   "piratesrust": {
    "first_seen": "2026-10-01",
-   "last_online": "2026-11-18",
+   "last_online": "2026-11-19",
    "username": "PiratesRust"
   },
   "piratesrustv2": {
    "first_seen": "2026-11-13",
-   "last_online": "2026-11-18",
+   "last_online": "2026-11-19",
    "username": "PiratesRustV2"
   },
   "pixiegaming": {
@@ -4307,7 +4307,7 @@
   },
   "sacrifice-engine": {
    "first_seen": "2026-11-13",
-   "last_online": "2026-11-18",
+   "last_online": "2026-11-19",
    "username": "Sacrifice-Engine"
   },
   "saisrankarthik_7": {
@@ -4532,7 +4532,7 @@
   },
   "simplechessengine": {
    "first_seen": "2026-11-04",
-   "last_online": "2026-11-18",
+   "last_online": "2026-11-19",
    "username": "SimpleChessEngine"
   },
   "simplechessnnue": {
@@ -4699,6 +4699,11 @@
    "first_seen": "2026-10-21",
    "last_online": "2026-11-19",
    "username": "SparkchessEngine"
+  },
+  "sparkfish-hce": {
+   "first_seen": "2026-11-19",
+   "last_online": "2026-11-19",
+   "username": "SparkFish-HCE"
   },
   "spearfast": {
    "first_seen": "2026-11-13",
@@ -5632,7 +5637,7 @@
   }
  },
  "online": {
-  "checked_at": "2026-11-19T08:43:09Z",
+  "checked_at": "2026-11-19T09:43:09Z",
   "ids": [
    "abcd_engine",
    "abdcebot",
@@ -5666,7 +5671,6 @@
    "ballin-bot",
    "bbc_bot",
    "belzedarian",
-   "benzene_0_2_phenol",
    "bernstein-2ply",
    "bernstein-4ply",
    "bfiedler-bot",
@@ -5674,7 +5678,7 @@
    "bitbitbot",
    "bluemoonbot",
    "blujay-bot",
-   "blundeel67",
+   "blunder-engine",
    "blundermind-01",
    "bobby_pcolla",
    "bongaclang",
@@ -5769,16 +5773,19 @@
    "fschess-engine",
    "funcomp",
    "funfishbot",
+   "galaxy-stellar-bot",
    "garbobot",
    "geotsibot",
    "glorbo_evermorrow",
    "gnu4u",
+   "goats-of-bots",
    "goldfish-engine",
    "goopis",
    "gopandafish",
    "grail-bot",
    "grindfish",
    "hackerchessbot",
+   "halcyonbot",
    "homoludensbot",
    "humaia",
    "humaia-strong",
@@ -5886,6 +5893,7 @@
    "nebaktinkrds",
    "nebubot",
    "neurosocute",
+   "newengine2022",
    "nexastrat",
    "next_uzbek",
    "nibbleknight",
@@ -5911,6 +5919,7 @@
    "pawnrobot",
    "peacemaker-0_0",
    "peachfruit",
+   "peanet0",
    "peppermintpatty",
    "perl-gigachess",
    "philidor-142m",
@@ -5919,6 +5928,10 @@
    "piebot",
    "pierreai",
    "piglet_engine",
+   "pirates1",
+   "pirates2",
+   "piratesrust",
+   "piratesrustv2",
    "plumboi",
    "plumbot",
    "ponytail_engine",
@@ -5931,6 +5944,7 @@
    "pzchessbot",
    "quartzthechessbot",
    "queensgambot",
+   "quirkafleeg-pc",
    "quirkafleeg-zx48k",
    "quirkafleeg-zxnext",
    "r0bspierre",
@@ -5949,7 +5963,9 @@
    "rudim-bot",
    "rust-in-pieces",
    "rust-in-pieces-nnue",
+   "sacrifice-engine",
    "sapling-bot",
+   "sardinebot",
    "sargon-1ply",
    "sargon-3ply",
    "sbnovella",
@@ -5965,6 +5981,7 @@
    "silasly",
    "sim3million",
    "simonericafonso",
+   "simplechessengine",
    "simpleeval",
    "sj_norbot",
    "slate-engine",
@@ -5973,6 +5990,7 @@
    "slowmate_bot",
    "smartysprout",
    "smaugfincamo235",
+   "sparkfish-hce",
    "springerbot",
    "squarefish-900",
    "sseh-c",
