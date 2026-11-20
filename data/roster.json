@@ -287,7 +287,7 @@
   },
   "ashasevidence": {
    "first_seen": "2026-10-08",
-   "last_online": "2026-11-19",
+   "last_online": "2026-11-20",
    "username": "ashasevidence"
   },
   "ashnostromo": {
@@ -3322,7 +3322,7 @@
   },
   "mostlyhuman1900": {
    "first_seen": "2026-09-27",
-   "last_online": "2026-11-19",
+   "last_online": "2026-11-20",
    "username": "MostlyHuman1900"
   },
   "moteur441": {
@@ -3922,7 +3922,7 @@
   },
   "polvo_engine": {
    "first_seen": "2026-11-04",
-   "last_online": "2026-11-16",
+   "last_online": "2026-11-20",
    "username": "Polvo_engine"
   },
   "pomeranian_bot": {
@@ -3932,7 +3932,7 @@
   },
   "pontiengine": {
    "first_seen": "2026-10-20",
-   "last_online": "2026-11-19",
+   "last_online": "2026-11-20",
    "username": "PontiEngine"
   },
   "ponytail_engine": {
@@ -4067,7 +4067,7 @@
   },
   "queensgambot": {
    "first_seen": "2026-09-27",
-   "last_online": "2026-11-19",
+   "last_online": "2026-11-20",
    "username": "QueensGamBOT"
   },
   "quirkafleeg-pc": {
@@ -5717,7 +5717,7 @@
   }
  },
  "online": {
-  "checked_at": "2026-11-20T01:43:10Z",
+  "checked_at": "2026-11-20T02:43:10Z",
   "ids": [
    "abcd_engine",
    "abdcebot",
@@ -5743,6 +5743,7 @@
    "arasanx",
    "arkiplayschess",
    "artidigm_research",
+   "ashasevidence",
    "ashnostromo",
    "aspirebot",
    "athena-chessbot",
@@ -5769,7 +5770,6 @@
    "bot5551",
    "bot64jaques",
    "bot_adario",
-   "botkingteam33",
    "bottios",
    "bottrain",
    "bretemabot",
@@ -5792,7 +5792,6 @@
    "chessmindbot",
    "cheszter",
    "chill4ce",
-   "chmod-bot",
    "cinder-bot",
    "classical-leela",
    "claude_bot",
@@ -5829,7 +5828,6 @@
    "disrespect_fish",
    "dravox",
    "drawfish-reborn",
-   "drewschessmachine",
    "dubot",
    "duchessai",
    "duckish",
@@ -5886,6 +5884,7 @@
    "incipit_bot",
    "io-bot",
    "ironrooks",
+   "is_boss",
    "iskelt-corax",
    "jangine",
    "jaxakos13_bot",
@@ -5920,7 +5919,6 @@
    "leelarogue",
    "leelarookodds",
    "leelatroll",
-   "leelonardo",
    "legotechniccontrolpl",
    "lentuschess",
    "levymaia",
@@ -5972,11 +5970,11 @@
    "mithandros",
    "mochi_bot",
    "morabandbot",
+   "mostlyhuman1900",
    "mrcoachbot",
    "mrdeepseekgpt",
    "mrtonnerre",
    "mudskipperbot",
-   "munzurbot2",
    "mutusbot",
    "mychessjava",
    "nanozeroorg",
@@ -5994,7 +5992,6 @@
    "nilatacbot",
    "nittedal",
    "noabot",
-   "noksiy",
    "odonata-bot",
    "onechessbot",
    "onezenpanda",
@@ -6010,7 +6007,6 @@
    "pawnrobot",
    "peacemaker-0_0",
    "peachfruit",
-   "pelanca",
    "peppermintpatty",
    "perl-gigachess",
    "philidor-142m",
@@ -6021,6 +6017,8 @@
    "piglet_engine",
    "plumboi",
    "plumbot",
+   "polvo_engine",
+   "pontiengine",
    "ponytail_engine",
    "premove90-1500",
    "princhess_policy_bot",
@@ -6030,6 +6028,7 @@
    "psion-chess",
    "puisne",
    "pzchessbot",
+   "queensgambot",
    "quirkafleeg-pc",
    "quirkafleeg-zx48k",
    "quirkafleeg-zxnext",
@@ -6099,7 +6098,6 @@
    "sybaibot",
    "sybbot",
    "sykorabot",
-   "talbotbot",
    "tallikebot",
    "tempocore",
    "tente-v2",
