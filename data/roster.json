@@ -517,7 +517,7 @@
   },
   "blacktempo_bot": {
    "first_seen": "2026-11-15",
-   "last_online": "2026-11-15",
+   "last_online": "2026-11-20",
    "username": "BLACKTEMPO_BOT"
   },
   "blindpewce": {
@@ -1117,7 +1117,7 @@
   },
   "claudyengine": {
    "first_seen": "2026-09-28",
-   "last_online": "2026-11-19",
+   "last_online": "2026-11-20",
    "username": "ClaudyEngine"
   },
   "clementyne1": {
@@ -1452,7 +1452,7 @@
   },
   "dfy-bot": {
    "first_seen": "2026-10-18",
-   "last_online": "2026-11-19",
+   "last_online": "2026-11-20",
    "username": "Dfy-Bot"
   },
   "dgtrychess": {
@@ -2122,7 +2122,7 @@
   },
   "hefeisanyou": {
    "first_seen": "2026-11-15",
-   "last_online": "2026-11-18",
+   "last_online": "2026-11-20",
    "username": "HefeiSanyou"
   },
   "hiusbot": {
@@ -2262,7 +2262,7 @@
   },
   "implosio": {
    "first_seen": "2026-10-15",
-   "last_online": "2026-11-03",
+   "last_online": "2026-11-20",
    "username": "Implosio"
   },
   "inanisbot": {
@@ -3297,7 +3297,7 @@
   },
   "misere-fish": {
    "first_seen": "2026-10-28",
-   "last_online": "2026-11-04",
+   "last_online": "2026-11-20",
    "username": "Misere-Fish"
   },
   "miss_snowiee": {
@@ -3402,7 +3402,7 @@
   },
   "my-bot": {
    "first_seen": "2026-10-03",
-   "last_online": "2026-11-19",
+   "last_online": "2026-11-20",
    "username": "MY-BOT"
   },
   "mychessjava": {
@@ -3732,7 +3732,7 @@
   },
   "pacu_bot": {
    "first_seen": "2026-11-19",
-   "last_online": "2026-11-19",
+   "last_online": "2026-11-20",
    "username": "Pacu_Bot"
   },
   "palebots": {
@@ -5742,7 +5742,7 @@
   }
  },
  "online": {
-  "checked_at": "2026-11-20T11:43:09Z",
+  "checked_at": "2026-11-20T12:43:11Z",
   "ids": [
    "aaronsengine",
    "abcd_engine",
@@ -5780,8 +5780,8 @@
    "bernstein-2ply",
    "bernstein-4ply",
    "bfiedler-bot",
-   "bit-fish8",
    "bitbitbot",
+   "blacktempo_bot",
    "blowfishlite",
    "bluemoonbot",
    "blujay-bot",
@@ -5790,6 +5790,7 @@
    "blundermind-m3",
    "bongaclang",
    "boris-trapsky",
+   "borkatower",
    "bot1e",
    "bot1nokk",
    "bot5551",
@@ -5810,6 +5811,7 @@
    "catriever",
    "chamberiajedrez",
    "charibot",
+   "chessgeniusbot",
    "chessiverse_ethan",
    "chessiverse_luc",
    "chessiverse_pawnza",
@@ -5822,6 +5824,7 @@
    "cinder-bot",
    "classical-leela",
    "claude_bot",
+   "claudyengine",
    "clessy-bot",
    "cloudia-chess",
    "clrsrc_lc0",
@@ -5849,6 +5852,7 @@
    "devchessplayer-bot",
    "devilfishzero",
    "devilfishzerotwo",
+   "dfy-bot",
    "diogenes-bot",
    "disrespect_fish",
    "dravox",
@@ -5860,7 +5864,6 @@
    "eclipsebot",
    "edwardkillick",
    "eigenmann-chess",
-   "elachessbot",
    "elexunix_chess_bot",
    "elmichess",
    "escacsgba_1",
@@ -5894,6 +5897,7 @@
    "grindfish",
    "hackerchessbot",
    "halcyonbot",
+   "hefeisanyou",
    "homoludensbot",
    "humaia",
    "humaia-strong",
@@ -5904,11 +5908,11 @@
    "hyperopic",
    "icarus-bot",
    "ilovecatgirl",
+   "implosio",
    "incipit_bot",
    "is_boss",
    "iskelt-corax",
    "jangine",
-   "jester7777",
    "jibbby",
    "jimmy_inc3710",
    "jjugle",
@@ -5977,7 +5981,6 @@
    "mate-in-twenty",
    "mate1-bot",
    "matmoi",
-   "mboobot",
    "mchesspro_8_uci",
    "mdbot",
    "mega-noob-bot",
@@ -5986,6 +5989,7 @@
    "milanbot",
    "mimirbot",
    "minopponentmoves",
+   "misere-fish",
    "mithandros",
    "mochi_bot",
    "morabandbot",
@@ -5997,6 +6001,7 @@
    "munzurbot2",
    "musashi-thebot",
    "mutusbot",
+   "my-bot",
    "mychessjava",
    "mzero_dev",
    "nanozeroorg",
@@ -6020,6 +6025,7 @@
    "onezenpanda",
    "openingsbot",
    "oxide-eg",
+   "pacu_bot",
    "pangubot",
    "panic-fish",
    "partner3615diago",
@@ -6075,7 +6081,6 @@
    "rust-in-pieces-nnue",
    "sacrifice-engine",
    "sapling-bot",
-   "sardinebot",
    "sargon-1ply",
    "sargon-3ply",
    "sbnovella",
@@ -6131,7 +6136,6 @@
    "tente8x",
    "territorybot",
    "thechessblazer",
-   "throrbjorn",
    "thunfisch-bot",
    "tigrament",
    "tilapiabot",
