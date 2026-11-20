@@ -792,7 +792,7 @@
   },
   "caissa-x": {
    "first_seen": "2026-09-29",
-   "last_online": "2026-11-18",
+   "last_online": "2026-11-20",
    "username": "caissa-x"
   },
   "calciumengine": {
@@ -992,7 +992,7 @@
   },
   "chessgeniusbot": {
    "first_seen": "2026-10-02",
-   "last_online": "2026-11-19",
+   "last_online": "2026-11-20",
    "username": "ChessGeniusBot"
   },
   "chessiverse_ethan": {
@@ -1052,7 +1052,7 @@
   },
   "chesstransformerbot": {
    "first_seen": "2026-10-08",
-   "last_online": "2026-11-19",
+   "last_online": "2026-11-20",
    "username": "ChessTransformerBot"
   },
   "cheszter": {
@@ -1447,7 +1447,7 @@
   },
   "devilfishzerotwo": {
    "first_seen": "2026-11-15",
-   "last_online": "2026-11-18",
+   "last_online": "2026-11-20",
    "username": "DevilfishZeroTwo"
   },
   "dfy-bot": {
@@ -4537,7 +4537,7 @@
   },
   "shahmatbot": {
    "first_seen": "2026-11-04",
-   "last_online": "2026-11-19",
+   "last_online": "2026-11-20",
    "username": "SHAHMATBOT"
   },
   "shallowredbot": {
@@ -5732,7 +5732,7 @@
   }
  },
  "online": {
-  "checked_at": "2026-11-20T06:43:12Z",
+  "checked_at": "2026-11-20T07:43:03Z",
   "ids": [
    "abcd_engine",
    "abdcebot",
@@ -5759,7 +5759,6 @@
    "arkiplayschess",
    "artidigm_research",
    "ashnostromo",
-   "aspirebot",
    "athena-chessbot",
    "axiom_bot",
    "baby_eubos",
@@ -5792,6 +5791,7 @@
    "bytefish",
    "c-t-r-l",
    "caiporabot",
+   "caissa-x",
    "capabot",
    "casanchess-nnue",
    "cassidychess-bot",
@@ -5799,15 +5799,15 @@
    "catriever",
    "charibot",
    "chatgpt5_5",
-   "chess_set_manager",
+   "chessgeniusbot",
    "chessiverse_ethan",
    "chessiverse_luc",
    "chessiverse_pawnza",
    "chessiverse_raak",
    "chessmindbot",
+   "chesstransformerbot",
    "cheszter",
    "chill4ce",
-   "chmod-bot",
    "cinder-bot",
    "classical-leela",
    "claude_bot",
@@ -5838,8 +5838,8 @@
    "deepsquare-ai",
    "demen100ns-bot",
    "devchessplayer-bot",
-   "devilfishbot",
    "devilfishzero",
+   "devilfishzerotwo",
    "diogenes-bot",
    "disrespect_fish",
    "dravox",
@@ -5873,7 +5873,6 @@
    "funfishbot",
    "gaiachessengine",
    "garbobot",
-   "georgii_ai",
    "geotsibot",
    "gnu4u",
    "goldfish-engine",
@@ -6058,7 +6057,6 @@
    "rust-in-pieces",
    "rust-in-pieces-nnue",
    "sapling-bot",
-   "sardinebot",
    "sargon-1ply",
    "sargon-3ply",
    "sbnovella",
@@ -6067,6 +6065,7 @@
    "scipio-bot",
    "seitogakatsu",
    "sf_bot1nok",
+   "shahmatbot",
    "shallowredbot",
    "sharpdubot",
    "silasly",
@@ -6149,6 +6148,7 @@
    "vortexaurafarm",
    "waldemar-the-elf",
    "walpurti",
+   "wannalearnbot",
    "weiawaga",
    "worstfish",
    "xen-0",
