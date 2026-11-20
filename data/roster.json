@@ -7,7 +7,7 @@
   },
   "aaronsengine": {
    "first_seen": "2026-09-27",
-   "last_online": "2026-11-19",
+   "last_online": "2026-11-20",
    "username": "AaronsEngine"
   },
   "aathena101": {
@@ -102,7 +102,7 @@
   },
   "ajedrezchamberi": {
    "first_seen": "2026-09-29",
-   "last_online": "2026-11-19",
+   "last_online": "2026-11-20",
    "username": "AjedrezChamberi"
   },
   "alarm2001": {
@@ -492,7 +492,7 @@
   },
   "bit-fish8": {
    "first_seen": "2026-11-01",
-   "last_online": "2026-11-19",
+   "last_online": "2026-11-20",
    "username": "Bit-Fish8"
   },
   "bitbitbot": {
@@ -877,7 +877,7 @@
   },
   "chamberiajedrez": {
    "first_seen": "2026-09-29",
-   "last_online": "2026-11-19",
+   "last_online": "2026-11-20",
    "username": "ChamberiAjedrez"
   },
   "chaotong_engine": {
@@ -2722,7 +2722,7 @@
   },
   "leelamultiposs": {
    "first_seen": "2026-10-08",
-   "last_online": "2026-11-19",
+   "last_online": "2026-11-20",
    "username": "LeelaMultiPoss"
   },
   "leelapieceodds": {
@@ -2822,7 +2822,7 @@
   },
   "lili-ai": {
    "first_seen": "2026-10-22",
-   "last_online": "2026-11-19",
+   "last_online": "2026-11-20",
    "username": "Lili-ai"
   },
   "lilitbot": {
@@ -2947,7 +2947,7 @@
   },
   "macbotitsmagic": {
    "first_seen": "2026-11-17",
-   "last_online": "2026-11-19",
+   "last_online": "2026-11-20",
    "username": "macbotitsmagic"
   },
   "mackbot": {
@@ -4054,6 +4054,11 @@
    "first_seen": "2026-10-21",
    "last_online": "2026-11-20",
    "username": "psion-chess"
+  },
+  "ptit-biscuit": {
+   "first_seen": "2026-11-20",
+   "last_online": "2026-11-20",
+   "username": "Ptit-biscuit"
   },
   "puisne": {
    "first_seen": "2026-09-27",
@@ -5737,8 +5742,9 @@
   }
  },
  "online": {
-  "checked_at": "2026-11-20T09:43:11Z",
+  "checked_at": "2026-11-20T10:43:10Z",
   "ids": [
+   "aaronsengine",
    "abcd_engine",
    "abdcebot",
    "aconcaguabot",
@@ -5746,6 +5752,7 @@
    "aggressivestockfish",
    "ai-con",
    "ailedbot",
+   "ajedrezchamberi",
    "alarm2001",
    "alehkine_cat",
    "alexandrya",
@@ -5774,11 +5781,11 @@
    "bernstein-2ply",
    "bernstein-4ply",
    "bfiedler-bot",
+   "bit-fish8",
    "bitbitbot",
    "blowfishlite",
    "bluemoonbot",
    "blujay-bot",
-   "blundeel67",
    "blundermind-01",
    "blundermind-m3",
    "bongaclang",
@@ -5802,6 +5809,7 @@
    "cassidychess-bot",
    "catnail",
    "catriever",
+   "chamberiajedrez",
    "charibot",
    "chessgeniusbot",
    "chessiverse_ethan",
@@ -5875,7 +5883,6 @@
    "fschess-engine",
    "funcomp",
    "funfishbot",
-   "gaiachessengine",
    "garbobot",
    "georgii_ai",
    "geotsibot",
@@ -5923,9 +5930,11 @@
    "kopyto_dev",
    "lamprook",
    "laura-bot",
-   "ldzcj671",
    "leelaalien",
+   "leelaanyodds",
+   "leelajester",
    "leelaknightodds",
+   "leelamultiposs",
    "leelapieceodds",
    "leelaqueenforknight",
    "leelaqueenodds",
@@ -5937,6 +5946,7 @@
    "levymaia",
    "lightning-762",
    "likeawizard-bot",
+   "lili-ai",
    "lilitbot",
    "little-0",
    "littlepatricia",
@@ -5946,7 +5956,7 @@
    "lunaenginechess",
    "lynx_bot",
    "mac-bot",
-   "magic11bot_coach",
+   "macbotitsmagic",
    "maia1",
    "maia3-79m_1000",
    "maia3-79m_1200",
@@ -6040,6 +6050,7 @@
    "prokopakop",
    "prosperobot",
    "psion-chess",
+   "ptit-biscuit",
    "puisne",
    "pzchessbot",
    "quartzthechessbot",
@@ -6063,6 +6074,7 @@
    "rust-in-pieces",
    "rust-in-pieces-nnue",
    "sapling-bot",
+   "sardinebot",
    "sargon-1ply",
    "sargon-3ply",
    "sbnovella",
@@ -6088,7 +6100,6 @@
    "smartysprout",
    "smaugfincamo235",
    "solobot",
-   "sparkfish-hce",
    "springerbot",
    "squarefish-900",
    "sseh-c",
