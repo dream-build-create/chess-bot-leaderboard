@@ -1642,7 +1642,7 @@
   },
   "epimetheusbot": {
    "first_seen": "2026-09-28",
-   "last_online": "2026-11-10",
+   "last_online": "2026-11-20",
    "username": "EpimetheusBot"
   },
   "epo_5_chess_engine": {
@@ -2089,6 +2089,11 @@
    "first_seen": "2026-09-27",
    "last_online": "2026-11-20",
    "username": "halcyonbot"
+  },
+  "halloweanspooky": {
+   "first_seen": "2026-11-20",
+   "last_online": "2026-11-20",
+   "username": "HalloweanSpooky"
   },
   "halloweengambit-bot": {
    "first_seen": "2026-10-30",
@@ -4297,7 +4302,7 @@
   },
   "rodent-iv": {
    "first_seen": "2026-10-05",
-   "last_online": "2026-11-16",
+   "last_online": "2026-11-20",
    "username": "Rodent-IV"
   },
   "rodent-v": {
@@ -5242,7 +5247,7 @@
   },
   "trainingbuddy": {
    "first_seen": "2026-10-28",
-   "last_online": "2026-11-19",
+   "last_online": "2026-11-20",
    "username": "TrainingBuddy"
   },
   "traininggroundbot": {
@@ -5374,6 +5379,11 @@
    "first_seen": "2026-11-06",
    "last_online": "2026-11-20",
    "username": "utrain-chess-bot"
+  },
+  "utrons11": {
+   "first_seen": "2026-11-20",
+   "last_online": "2026-11-20",
+   "username": "Utrons11"
   },
   "uundrstnd": {
    "first_seen": "2026-10-29",
@@ -5762,7 +5772,7 @@
   }
  },
  "online": {
-  "checked_at": "2026-11-20T17:43:18Z",
+  "checked_at": "2026-11-20T18:43:09Z",
   "ids": [
    "aaronsengine",
    "abcd_engine",
@@ -5840,10 +5850,8 @@
    "chessiverse_luc",
    "chessiverse_pawnza",
    "chessiverse_raak",
-   "chesstransformerbot",
    "cheszter",
    "chill4ce",
-   "chiral_ebt",
    "chmod-bot",
    "cinder-bot",
    "classical-leela",
@@ -5884,18 +5892,20 @@
    "drewschessmachine",
    "dubot",
    "duchessai",
+   "duckish",
    "dumbotai",
    "eclipsebot",
    "edwardkillick",
    "eigenmann-chess",
    "elexunix_chess_bot",
    "elmichess",
+   "enyobot",
+   "epimetheusbot",
    "escacsgba_1",
    "eubos",
    "fairytailregimebot",
    "falconengine",
    "fathzer-jchess",
-   "fattorini-bot",
    "felipe_bot_53",
    "fenrirbot",
    "fetacompli",
@@ -5920,6 +5930,7 @@
    "grindfish",
    "hackerchessbot",
    "halcyonbot",
+   "halloweanspooky",
    "hardrok",
    "homoludensbot",
    "humaia",
@@ -5932,6 +5943,7 @@
    "icarus-bot",
    "ilovecatgirl",
    "incipit_bot",
+   "ironrooks",
    "is_boss",
    "iskelt-corax",
    "jangine",
@@ -5956,7 +5968,6 @@
    "kopyto_dev",
    "lamprook",
    "laura-bot",
-   "ldzcj671",
    "leelaalien",
    "leelaanyodds",
    "leelajester",
@@ -5979,7 +5990,6 @@
    "littleply",
    "louischess48-6k",
    "lukebot",
-   "lumac0ne",
    "lynx_bot",
    "maia1",
    "maia3-79m_1000",
@@ -5997,7 +6007,6 @@
    "maia9",
    "maia960-1600",
    "maia960-1900",
-   "makechessbetter",
    "marlinchessbot",
    "martuni",
    "mate-in-forty",
@@ -6030,6 +6039,7 @@
    "ndr1sn",
    "nebaktinkrds",
    "nebubot",
+   "neryba",
    "neurosocute",
    "nexastrat",
    "next_uzbek",
@@ -6040,7 +6050,7 @@
    "nilatacbot",
    "nittedal",
    "noabot",
-   "noksiy",
+   "o-rei-cx",
    "odonata-bot",
    "onechessbot",
    "onezenpanda",
@@ -6088,6 +6098,7 @@
    "returnyou",
    "ribfish-bot",
    "robodoxadrez",
+   "rodent-iv",
    "rubyai",
    "rudim-bot",
    "rust-in-pieces",
@@ -6117,7 +6128,7 @@
    "smartysprout",
    "smaugfincamo235",
    "solobot",
-   "sparkchessengine",
+   "sparkfish-hce",
    "springerbot",
    "squarefish-900",
    "sseh-c",
@@ -6158,7 +6169,9 @@
    "to299d",
    "togaii",
    "topasbot",
+   "torombot",
    "trainer-bot",
+   "trainingbuddy",
    "trenerhetman",
    "trinculobot",
    "troutbot",
@@ -6176,6 +6189,7 @@
    "usunfish-l1",
    "usunfish-l7",
    "utrain-chess-bot",
+   "utrons11",
    "uxugin-bot",
    "uzenatch",
    "vanibot",
