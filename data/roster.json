@@ -62,7 +62,7 @@
   },
   "aethertal_bot": {
    "first_seen": "2026-11-15",
-   "last_online": "2026-11-16",
+   "last_online": "2026-11-20",
    "username": "AetherTal_Bot"
   },
   "agentc313": {
@@ -217,7 +217,7 @@
   },
   "apexchess-bot": {
    "first_seen": "2026-10-31",
-   "last_online": "2026-11-17",
+   "last_online": "2026-11-20",
    "username": "ApexChess-Bot"
   },
   "aposeij": {
@@ -657,7 +657,7 @@
   },
   "bothev": {
    "first_seen": "2026-09-27",
-   "last_online": "2026-11-01",
+   "last_online": "2026-11-20",
    "username": "Bothev"
   },
   "bothev2": {
@@ -2520,6 +2520,11 @@
    "last_online": "2026-10-12",
    "username": "killerstapler420BOT"
   },
+  "kingbobiv": {
+   "first_seen": "2026-11-20",
+   "last_online": "2026-11-20",
+   "username": "KingBobIV"
+  },
   "kingzbot": {
    "first_seen": "2026-10-10",
    "last_online": "2026-11-08",
@@ -4197,7 +4202,7 @@
   },
   "reality_bot": {
    "first_seen": "2026-10-10",
-   "last_online": "2026-11-08",
+   "last_online": "2026-11-20",
    "username": "Reality_BOT"
   },
   "reaper1bot": {
@@ -5262,7 +5267,7 @@
   },
   "trrchessbot": {
    "first_seen": "2026-11-08",
-   "last_online": "2026-11-19",
+   "last_online": "2026-11-20",
    "username": "TrrChessBot"
   },
   "trusia12345678": {
@@ -5742,13 +5747,14 @@
   }
  },
  "online": {
-  "checked_at": "2026-11-20T12:43:11Z",
+  "checked_at": "2026-11-20T13:43:09Z",
   "ids": [
    "aaronsengine",
    "abcd_engine",
    "abdcebot",
    "aconcaguabot",
    "aetherbot",
+   "aethertal_bot",
    "aggressivestockfish",
    "ai-con",
    "ailedbot",
@@ -5764,6 +5770,7 @@
    "anti-anti",
    "anti-bot",
    "antibotv3-7",
+   "apexchess-bot",
    "aposeij",
    "approximationbot",
    "arasanx",
@@ -5781,13 +5788,14 @@
    "bernstein-4ply",
    "bfiedler-bot",
    "bitbitbot",
-   "blacktempo_bot",
    "blowfishlite",
    "bluemoonbot",
    "blujay-bot",
+   "blundeel67",
    "blunder-engine",
    "blundermind-01",
    "blundermind-m3",
+   "bobby_pcolla",
    "bongaclang",
    "boris-trapsky",
    "borkatower",
@@ -5796,6 +5804,7 @@
    "bot5551",
    "bot64jaques",
    "bot_adario",
+   "bothev",
    "bottios",
    "bottrain",
    "bretemabot",
@@ -5803,7 +5812,6 @@
    "byte-knight",
    "bytefish",
    "caiporabot",
-   "caissa-x",
    "capabot",
    "casanchess-nnue",
    "cassidychess-bot",
@@ -5811,7 +5819,6 @@
    "catriever",
    "chamberiajedrez",
    "charibot",
-   "chessgeniusbot",
    "chessiverse_ethan",
    "chessiverse_luc",
    "chessiverse_pawnza",
@@ -5886,7 +5893,6 @@
    "gaiachessengine",
    "galaxy-stellar-bot",
    "garbobot",
-   "georgii_ai",
    "geotsibot",
    "giffibot",
    "gnu4u",
@@ -5897,6 +5903,7 @@
    "grindfish",
    "hackerchessbot",
    "halcyonbot",
+   "hardrok",
    "hefeisanyou",
    "homoludensbot",
    "humaia",
@@ -5927,6 +5934,7 @@
    "karl-engine-v1",
    "kbelludoo",
    "kestrelstrike",
+   "kingbobiv",
    "kirinchessbot",
    "knightstalker_uci",
    "kolmato",
@@ -5989,7 +5997,6 @@
    "milanbot",
    "mimirbot",
    "minopponentmoves",
-   "misere-fish",
    "mithandros",
    "mochi_bot",
    "morabandbot",
@@ -6019,6 +6026,7 @@
    "nilatacbot",
    "nittedal",
    "noabot",
+   "noksiy",
    "o-rei-cx",
    "odonata-bot",
    "onechessbot",
@@ -6071,6 +6079,7 @@
    "ravenengine",
    "ray-bot",
    "rdtchessbot",
+   "reality_bot",
    "remychessengine",
    "renegadeengine",
    "resolutebot",
@@ -6095,7 +6104,6 @@
    "silasly",
    "sim3million",
    "simonericafonso",
-   "simple_chess_lab",
    "simplechessengine",
    "simpleeval",
    "sisyphus-engine",
@@ -6107,6 +6115,7 @@
    "smartysprout",
    "smaugfincamo235",
    "solobot",
+   "sparkchessengine",
    "springerbot",
    "squarefish-900",
    "sseh-c",
@@ -6148,6 +6157,7 @@
    "trenerhetman",
    "trinculobot",
    "troutbot",
+   "trrchessbot",
    "tucuengine",
    "turk_gambit",
    "turkjs",
