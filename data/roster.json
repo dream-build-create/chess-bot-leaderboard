@@ -1732,7 +1732,7 @@
   },
   "fattorini-bot": {
    "first_seen": "2026-11-11",
-   "last_online": "2026-11-18",
+   "last_online": "2026-11-20",
    "username": "fattorini-bot"
   },
   "fayefish": {
@@ -1942,7 +1942,7 @@
   },
   "giffibot": {
    "first_seen": "2026-10-23",
-   "last_online": "2026-11-04",
+   "last_online": "2026-11-20",
    "username": "GiffiBot"
   },
   "gilliamwongbot": {
@@ -4417,7 +4417,7 @@
   },
   "sara_bot1": {
    "first_seen": "2026-10-15",
-   "last_online": "2026-11-15",
+   "last_online": "2026-11-20",
    "username": "sAra_bot1"
   },
   "sardinebot": {
@@ -4607,7 +4607,7 @@
   },
   "simplechessengine": {
    "first_seen": "2026-11-04",
-   "last_online": "2026-11-19",
+   "last_online": "2026-11-20",
    "username": "SimpleChessEngine"
   },
   "simplechessnnue": {
@@ -4874,6 +4874,11 @@
    "first_seen": "2026-09-27",
    "last_online": "2026-11-20",
    "username": "StockfishLowDepth"
+  },
+  "stockfishv19": {
+   "first_seen": "2026-11-20",
+   "last_online": "2026-11-20",
+   "username": "StockFishV19"
   },
   "stockpapagei": {
    "first_seen": "2026-09-27",
@@ -5732,7 +5737,7 @@
   }
  },
  "online": {
-  "checked_at": "2026-11-20T07:43:03Z",
+  "checked_at": "2026-11-20T08:43:10Z",
   "ids": [
    "abcd_engine",
    "abdcebot",
@@ -5823,7 +5828,6 @@
    "croco_bot",
    "croco_little_bot",
    "crocodile_bot",
-   "dafuq_bot",
    "dala-1100",
    "dala-1300",
    "dala-1600",
@@ -5844,7 +5848,6 @@
    "disrespect_fish",
    "dravox",
    "drawfish-reborn",
-   "drewschessmachine",
    "dubot",
    "duchessai",
    "dumbotai",
@@ -5854,12 +5857,12 @@
    "elachessbot",
    "elexunix_chess_bot",
    "elmichess",
-   "enyobot",
    "escacsgba_1",
    "eubos",
    "fairytailregimebot",
    "falconengine",
    "fathzer-jchess",
+   "fattorini-bot",
    "felipe_bot_53",
    "fenrirbot",
    "fetacompli",
@@ -5873,7 +5876,9 @@
    "funfishbot",
    "gaiachessengine",
    "garbobot",
+   "georgii_ai",
    "geotsibot",
+   "giffibot",
    "gnu4u",
    "goldfish-engine",
    "goopis",
@@ -6045,6 +6050,7 @@
    "radianceengine",
    "raspfish",
    "ratsu-bot",
+   "raven030",
    "ravenengine",
    "ray-bot",
    "rdtchessbot",
@@ -6057,6 +6063,7 @@
    "rust-in-pieces",
    "rust-in-pieces-nnue",
    "sapling-bot",
+   "sara_bot1",
    "sargon-1ply",
    "sargon-3ply",
    "sbnovella",
@@ -6072,6 +6079,7 @@
    "sim3million",
    "simonericafonso",
    "simple_chess_lab",
+   "simplechessengine",
    "simpleeval",
    "sj_norbot",
    "slate-engine",
@@ -6091,6 +6099,7 @@
    "stockcotsfish",
    "stockdory",
    "stockfishlowdepth",
+   "stockfishv19",
    "stockpapagei",
    "streamervschat",
    "stroberibot",
