@@ -92,7 +92,7 @@
   },
   "ailedbot": {
    "first_seen": "2026-09-27",
-   "last_online": "2026-11-19",
+   "last_online": "2026-11-20",
    "username": "ailedbot"
   },
   "aivean": {
@@ -227,7 +227,7 @@
   },
   "approximationbot": {
    "first_seen": "2026-09-27",
-   "last_online": "2026-11-19",
+   "last_online": "2026-11-20",
    "username": "ApproximationBot"
   },
   "aqueval-chess": {
@@ -1512,7 +1512,7 @@
   },
   "drewschessmachine": {
    "first_seen": "2026-09-28",
-   "last_online": "2026-11-17",
+   "last_online": "2026-11-20",
    "username": "DrewsChessMachine"
   },
   "drlemonzzbot": {
@@ -1534,6 +1534,11 @@
    "first_seen": "2026-09-27",
    "last_online": "2026-11-20",
    "username": "duchessAI"
+  },
+  "duckish": {
+   "first_seen": "2026-11-20",
+   "last_online": "2026-11-20",
+   "username": "duckish"
   },
   "dumbotai": {
    "first_seen": "2026-09-27",
@@ -1667,7 +1672,7 @@
   },
   "esperengine": {
    "first_seen": "2026-11-18",
-   "last_online": "2026-11-19",
+   "last_online": "2026-11-20",
    "username": "EsperEngine"
   },
   "eubos": {
@@ -2267,7 +2272,7 @@
   },
   "io-bot": {
    "first_seen": "2026-09-28",
-   "last_online": "2026-11-19",
+   "last_online": "2026-11-20",
    "username": "io-bot"
   },
   "iran_f72": {
@@ -3367,7 +3372,7 @@
   },
   "munzurbot2": {
    "first_seen": "2026-10-30",
-   "last_online": "2026-11-19",
+   "last_online": "2026-11-20",
    "username": "MunzurBOT2"
   },
   "muralwingsbot": {
@@ -3809,6 +3814,11 @@
    "first_seen": "2026-10-05",
    "last_online": "2026-11-19",
    "username": "PeaNet0"
+  },
+  "pelanca": {
+   "first_seen": "2026-11-20",
+   "last_online": "2026-11-20",
+   "username": "Pelanca"
   },
   "peppermintpatty": {
    "first_seen": "2026-11-17",
@@ -5117,7 +5127,7 @@
   },
   "tigrament": {
    "first_seen": "2026-09-27",
-   "last_online": "2026-11-19",
+   "last_online": "2026-11-20",
    "username": "Tigrament"
   },
   "tikifish": {
@@ -5707,7 +5717,7 @@
   }
  },
  "online": {
-  "checked_at": "2026-11-20T00:43:11Z",
+  "checked_at": "2026-11-20T01:43:10Z",
   "ids": [
    "abcd_engine",
    "abdcebot",
@@ -5715,6 +5725,7 @@
    "aetherbot",
    "aggressivestockfish",
    "ai-con",
+   "ailedbot",
    "alarm2001",
    "alehkine_cat",
    "alexandrya",
@@ -5728,6 +5739,7 @@
    "anti-bot",
    "antibotv3-7",
    "aposeij",
+   "approximationbot",
    "arasanx",
    "arkiplayschess",
    "artidigm_research",
@@ -5812,14 +5824,15 @@
    "demen100ns-bot",
    "devchessplayer-bot",
    "devilfishbot",
-   "devilfishzero",
    "dingusbot",
    "diogenes-bot",
    "disrespect_fish",
    "dravox",
    "drawfish-reborn",
+   "drewschessmachine",
    "dubot",
    "duchessai",
+   "duckish",
    "dumbotai",
    "eclipsebot",
    "edwardkillick",
@@ -5830,6 +5843,7 @@
    "elmichess",
    "enyobot",
    "escacsgba_1",
+   "esperengine",
    "eubos",
    "fairytailregimebot",
    "falconengine",
@@ -5870,8 +5884,8 @@
    "icarus-bot",
    "ilovecatgirl",
    "incipit_bot",
+   "io-bot",
    "ironrooks",
-   "is_boss",
    "iskelt-corax",
    "jangine",
    "jaxakos13_bot",
@@ -5954,7 +5968,6 @@
    "michaamateurbot",
    "milanbot",
    "mimirbot",
-   "minimax_chessy_lol",
    "minopponentmoves",
    "mithandros",
    "mochi_bot",
@@ -5963,6 +5976,7 @@
    "mrdeepseekgpt",
    "mrtonnerre",
    "mudskipperbot",
+   "munzurbot2",
    "mutusbot",
    "mychessjava",
    "nanozeroorg",
@@ -5996,6 +6010,7 @@
    "pawnrobot",
    "peacemaker-0_0",
    "peachfruit",
+   "pelanca",
    "peppermintpatty",
    "perl-gigachess",
    "philidor-142m",
@@ -6093,6 +6108,7 @@
    "thechessblazer",
    "throrbjorn",
    "thunfisch-bot",
+   "tigrament",
    "tikifish",
    "tilapiabot",
    "tinyairun",
@@ -6130,7 +6146,6 @@
    "vortexaurafarm",
    "waldemar-the-elf",
    "walpurti",
-   "wannalearnbot",
    "weiawaga",
    "worserfish19",
    "worstfish",
