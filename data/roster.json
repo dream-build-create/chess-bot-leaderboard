@@ -1067,7 +1067,7 @@
   },
   "chiral_ebt": {
    "first_seen": "2026-11-07",
-   "last_online": "2026-11-19",
+   "last_online": "2026-11-20",
    "username": "chiral_ebt"
   },
   "chmod-bot": {
@@ -2897,7 +2897,7 @@
   },
   "lucena_973": {
    "first_seen": "2026-11-19",
-   "last_online": "2026-11-19",
+   "last_online": "2026-11-20",
    "username": "Lucena_973"
   },
   "lucientupin_bot": {
@@ -2922,7 +2922,7 @@
   },
   "lumac0ne": {
    "first_seen": "2026-11-12",
-   "last_online": "2026-11-19",
+   "last_online": "2026-11-20",
    "username": "Lumac0ne"
   },
   "luminexbot": {
@@ -4522,7 +4522,7 @@
   },
   "selimbabapro-bot": {
    "first_seen": "2026-11-17",
-   "last_online": "2026-11-17",
+   "last_online": "2026-11-20",
    "username": "Selimbabapro-Bot"
   },
   "semisoja": {
@@ -4912,7 +4912,7 @@
   },
   "strategy_bot": {
    "first_seen": "2026-11-17",
-   "last_online": "2026-11-17",
+   "last_online": "2026-11-20",
    "username": "Strategy_Bot"
   },
   "streamervschat": {
@@ -5227,7 +5227,7 @@
   },
   "torombot": {
    "first_seen": "2026-09-28",
-   "last_online": "2026-11-19",
+   "last_online": "2026-11-20",
    "username": "ToromBot"
   },
   "torre-s3": {
@@ -5752,7 +5752,7 @@
   }
  },
  "online": {
-  "checked_at": "2026-11-20T15:43:08Z",
+  "checked_at": "2026-11-20T16:43:17Z",
   "ids": [
    "aaronsengine",
    "abcd_engine",
@@ -5764,6 +5764,7 @@
    "ai-con",
    "ailedbot",
    "ajedrezchamberi",
+   "alarm2001",
    "alehkine_cat",
    "alexandrya",
    "aliceshiro",
@@ -5794,7 +5795,6 @@
    "bertbot",
    "bfiedler-bot",
    "bitbitbot",
-   "blowfishlite",
    "bluemoonbot",
    "blujay-bot",
    "blunder-engine",
@@ -5826,15 +5826,17 @@
    "catriever",
    "chamberiajedrez",
    "charibot",
+   "chatgpt5_5",
    "chess_set_manager",
+   "chessgeniusbot",
    "chessiverse_ethan",
    "chessiverse_luc",
    "chessiverse_pawnza",
    "chessiverse_raak",
-   "chessmindbot",
    "chesstransformerbot",
    "cheszter",
    "chill4ce",
+   "chiral_ebt",
    "chmod-bot",
    "cinder-bot",
    "classical-leela",
@@ -5899,7 +5901,6 @@
    "funfishbot",
    "gaiachessengine",
    "galaxy-stellar-bot",
-   "gambitonlybot",
    "garbobot",
    "geotsibot",
    "ghidorah_x",
@@ -5923,6 +5924,7 @@
    "hyperopic",
    "icarus-bot",
    "ilovecatgirl",
+   "implosio",
    "incipit_bot",
    "is_boss",
    "iskelt-corax",
@@ -5970,8 +5972,9 @@
    "littlepatricia",
    "littleply",
    "louischess48-6k",
+   "lucena_973",
    "lukebot",
-   "lunaenginechess",
+   "lumac0ne",
    "lynx_bot",
    "maia1",
    "maia3-79m_1000",
@@ -6013,7 +6016,6 @@
    "mrtonnerre",
    "mudskipperbot",
    "munzurbot2",
-   "musashi-thebot",
    "mutusbot",
    "my-bot",
    "my_bot121",
@@ -6064,12 +6066,9 @@
    "piratesrustv2",
    "plumboi",
    "plumbot",
-   "pontiengine",
-   "ponytail_engine",
    "princhess_policy_bot",
    "prismnnue",
    "prokopakop",
-   "prosperobot",
    "psion-chess",
    "puisne",
    "pzchessbot",
@@ -6091,6 +6090,7 @@
    "returnyou",
    "ribfish-bot",
    "robodoxadrez",
+   "rubyai",
    "rudim-bot",
    "rust-in-pieces",
    "rust-in-pieces-nnue",
@@ -6103,6 +6103,7 @@
    "schnecken_bot",
    "scipio-bot",
    "seitogakatsu",
+   "selimbabapro-bot",
    "sf_bot1nok",
    "shahmatbot",
    "shallowredbot",
@@ -6125,6 +6126,7 @@
    "squarefish-900",
    "sseh-c",
    "stardustengine",
+   "stargazerengine",
    "stepbot_chess",
    "stickshark99",
    "stockconda",
@@ -6133,9 +6135,11 @@
    "stockfishlowdepth",
    "stockfishv19",
    "stockpapagei",
+   "strategy_bot",
    "streamervschat",
    "stroberibot",
    "stronggoliath",
+   "stupidfishbotbydscs",
    "styx-chess",
    "sunfish-engine",
    "sunfish-nnue-engine",
@@ -6156,8 +6160,8 @@
    "tinyairun",
    "to299d",
    "togaii",
-   "tonyengine",
    "topasbot",
+   "torombot",
    "trainer-bot",
    "trenerhetman",
    "trinculobot",
@@ -6194,8 +6198,8 @@
    "worstfish",
    "xen-0",
    "z-o_aspenlabs",
-   "zaatarthecat",
    "zanak-bot",
+   "zeval_bot",
    "zion-bot",
    "zipfile_chess-bot"
   ]
