@@ -497,7 +497,7 @@
   },
   "bit-fish8": {
    "first_seen": "2026-11-01",
-   "last_online": "2026-11-20",
+   "last_online": "2026-11-21",
    "username": "Bit-Fish8"
   },
   "bitbitbot": {
@@ -797,7 +797,7 @@
   },
   "caissa-x": {
    "first_seen": "2026-09-29",
-   "last_online": "2026-11-20",
+   "last_online": "2026-11-21",
    "username": "caissa-x"
   },
   "calciumengine": {
@@ -1057,7 +1057,7 @@
   },
   "chesstransformerbot": {
    "first_seen": "2026-10-08",
-   "last_online": "2026-11-20",
+   "last_online": "2026-11-21",
    "username": "ChessTransformerBot"
   },
   "cheszter": {
@@ -2912,7 +2912,7 @@
   },
   "lucena_973": {
    "first_seen": "2026-11-19",
-   "last_online": "2026-11-20",
+   "last_online": "2026-11-21",
    "username": "Lucena_973"
   },
   "lucientupin_bot": {
@@ -3407,7 +3407,7 @@
   },
   "musashi-thebot": {
    "first_seen": "2026-09-28",
-   "last_online": "2026-11-20",
+   "last_online": "2026-11-21",
    "username": "Musashi-thebot"
   },
   "mutusbot": {
@@ -5737,7 +5737,7 @@
   },
   "zero-dot": {
    "first_seen": "2026-11-20",
-   "last_online": "2026-11-20",
+   "last_online": "2026-11-21",
    "username": "ZERO-DOT"
   },
   "zero3-now": {
@@ -5787,7 +5787,7 @@
   }
  },
  "online": {
-  "checked_at": "2026-11-21T06:43:09Z",
+  "checked_at": "2026-11-21T07:40:03Z",
   "ids": [
    "abcd_engine",
    "abdcebot",
@@ -5824,6 +5824,7 @@
    "bernstein-4ply",
    "bertbot",
    "bfiedler-bot",
+   "bit-fish8",
    "bitbitbot",
    "black-icebot",
    "blowfishlite",
@@ -5848,6 +5849,7 @@
    "bytefish",
    "c-t-r-l",
    "caiporabot",
+   "caissa-x",
    "capabot",
    "casanchess-nnue",
    "cassidychess-bot",
@@ -5856,15 +5858,16 @@
    "charibot",
    "chatgpt5_5",
    "chess_set_manager",
+   "chessgeniusbot",
    "chessiverse_ethan",
    "chessiverse_luc",
    "chessiverse_pawnza",
    "chessiverse_raak",
    "chessmindbot",
+   "chesstransformerbot",
    "cheszter",
    "chill4ce",
    "chiral_ebt",
-   "chrusty",
    "cinder-bot",
    "classical-leela",
    "claude_bot",
@@ -5880,7 +5883,6 @@
    "croco_bot",
    "croco_little_bot",
    "crocodile_bot",
-   "crustik-bot",
    "dafuq_bot",
    "dala-1100",
    "dala-1300",
@@ -5934,7 +5936,6 @@
    "gaiachessengine",
    "garbobot",
    "geotsibot",
-   "ghidorah_x",
    "giffibot",
    "glorbo_evermorrow",
    "gnu4u",
@@ -5955,8 +5956,8 @@
    "icarus-bot",
    "ilovecatgirl",
    "incipit_bot",
-   "io-bot",
    "ironrooks",
+   "is_boss",
    "iskelt-corax",
    "jangine",
    "jester7777",
@@ -5982,7 +5983,6 @@
    "laura-bot",
    "leelaalien",
    "leelaanyodds",
-   "leelachesstest",
    "leelajester",
    "leelaknightodds",
    "leelapieceodds",
@@ -6002,6 +6002,7 @@
    "littlepatricia",
    "littleply",
    "louischess48-6k",
+   "lucena_973",
    "lukebot",
    "lynx_bot",
    "maia1",
@@ -6044,7 +6045,7 @@
    "mrdeepseekgpt",
    "mrtonnerre",
    "mudskipperbot",
-   "munzurbot2",
+   "musashi-thebot",
    "mutusbot",
    "mychessjava",
    "mzero_dev",
@@ -6089,7 +6090,6 @@
    "piglet_engine",
    "plumboi",
    "plumbot",
-   "ponytail_engine",
    "princhess_policy_bot",
    "prismnnue",
    "prokopakop",
@@ -6115,7 +6115,6 @@
    "returnyou",
    "ribfish-bot",
    "robodoxadrez",
-   "rodent-iv",
    "rubyai",
    "rudim-bot",
    "rust-in-pieces",
@@ -6224,6 +6223,7 @@
    "xen-0",
    "z-o_aspenlabs",
    "zanak-bot",
+   "zero-dot",
    "zeval_bot",
    "zion-bot",
    "zipfile_chess-bot"
