@@ -3675,6 +3675,11 @@
    "last_online": "2026-11-19",
    "username": "ObjectiveFunction"
   },
+  "octarine-bot": {
+   "first_seen": "2026-11-21",
+   "last_online": "2026-11-21",
+   "username": "octarine-bot"
+  },
   "odonata-bot": {
    "first_seen": "2026-10-19",
    "last_online": "2026-11-21",
@@ -4012,7 +4017,7 @@
   },
   "premoveandcry": {
    "first_seen": "2026-11-18",
-   "last_online": "2026-11-19",
+   "last_online": "2026-11-21",
    "username": "PreMoveAndCry"
   },
   "primeagentbot": {
@@ -5402,7 +5407,7 @@
   },
   "utrons11": {
    "first_seen": "2026-11-20",
-   "last_online": "2026-11-20",
+   "last_online": "2026-11-21",
    "username": "Utrons11"
   },
   "uundrstnd": {
@@ -5792,7 +5797,7 @@
   }
  },
  "online": {
-  "checked_at": "2026-11-21T12:43:11Z",
+  "checked_at": "2026-11-21T13:43:16Z",
   "ids": [
    "aaronsengine",
    "abdcebot",
@@ -5879,7 +5884,6 @@
    "clrsrc_lc0",
    "coda_bot",
    "colinbot",
-   "colossusbot",
    "confidencebuilder",
    "cookiebot711",
    "craftyuci",
@@ -5929,7 +5933,6 @@
    "fivejoyouspandas",
    "flounderbot",
    "flower-queen",
-   "forktellbot",
    "fourcuriouspandas",
    "fschess-engine",
    "funcomp",
@@ -5985,6 +5988,7 @@
    "leelaanyodds",
    "leelajester",
    "leelaknightodds",
+   "leelamultiposs",
    "leelapieceodds",
    "leelaqueenforknight",
    "leelaqueenodds",
@@ -6006,8 +6010,6 @@
    "lukebot",
    "lunaenginechess",
    "lynx_bot",
-   "macbotitsmagic",
-   "magic11bot_coach",
    "maia1",
    "maia3-79m_1000",
    "maia3-79m_1200",
@@ -6038,7 +6040,6 @@
    "michaamateurbot",
    "milanbot",
    "mimirbot",
-   "mind_bot",
    "minopponentmoves",
    "mithandros",
    "mochi_bot",
@@ -6055,7 +6056,6 @@
    "nanozeroorg",
    "ndr1sn",
    "nebubot",
-   "neryba",
    "neurosocute",
    "newengine2022",
    "nexastrat",
@@ -6068,6 +6068,7 @@
    "nittedal",
    "noabot",
    "noksiy",
+   "octarine-bot",
    "odonata-bot",
    "onechessbot",
    "onezenpanda",
@@ -6094,6 +6095,7 @@
    "piglet_engine",
    "plumboi",
    "plumbot",
+   "premoveandcry",
    "princhess_policy_bot",
    "prismnnue",
    "prokopakop",
@@ -6185,7 +6187,6 @@
    "tinyairun",
    "to299d",
    "togaii",
-   "tonyengine",
    "topasbot",
    "trainer-bot",
    "trenerhetman",
@@ -6205,11 +6206,11 @@
    "usunfish-l1",
    "usunfish-l7",
    "utrain-chess-bot",
+   "utrons11",
    "uxugin-bot",
    "uzenatch",
    "vanibot",
    "variantsbot",
-   "vi-rock-chess",
    "vic98lg",
    "vicentlittle",
    "vietnamesecoffee",
@@ -6218,12 +6219,10 @@
    "vyvrael-chess",
    "waldemar-the-elf",
    "walpurti",
-   "wannalearnbot",
    "weiawaga",
    "worserfish19",
    "worstfish",
    "xen-0",
-   "yow-experimental",
    "z-o_aspenlabs",
    "zanak-bot",
    "zeno-bot",
