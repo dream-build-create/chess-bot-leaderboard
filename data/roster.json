@@ -7,7 +7,7 @@
   },
   "aaronsengine": {
    "first_seen": "2026-09-27",
-   "last_online": "2026-11-20",
+   "last_online": "2026-11-21",
    "username": "AaronsEngine"
   },
   "aathena101": {
@@ -2507,7 +2507,7 @@
   },
   "kempelenengine": {
    "first_seen": "2026-10-26",
-   "last_online": "2026-11-07",
+   "last_online": "2026-11-21",
    "username": "KempelenEngine"
   },
   "kepler_bot": {
@@ -2837,7 +2837,7 @@
   },
   "lili-ai": {
    "first_seen": "2026-10-22",
-   "last_online": "2026-11-20",
+   "last_online": "2026-11-21",
    "username": "Lili-ai"
   },
   "lilitbot": {
@@ -2947,7 +2947,7 @@
   },
   "lunaenginechess": {
    "first_seen": "2026-09-28",
-   "last_online": "2026-11-20",
+   "last_online": "2026-11-21",
    "username": "LunaEngineChess"
   },
   "lynx_bot": {
@@ -4817,7 +4817,7 @@
   },
   "spearfast": {
    "first_seen": "2026-11-13",
-   "last_online": "2026-11-18",
+   "last_online": "2026-11-21",
    "username": "spearfast"
   },
   "springerbot": {
@@ -5442,7 +5442,7 @@
   },
   "vi-rock-chess": {
    "first_seen": "2026-11-15",
-   "last_online": "2026-11-20",
+   "last_online": "2026-11-21",
    "username": "vi-rock-chess"
   },
   "vic98lg": {
@@ -5787,9 +5787,10 @@
   }
  },
  "online": {
-  "checked_at": "2026-11-21T09:43:16Z",
+  "checked_at": "2026-11-21T10:43:10Z",
   "ids": [
-   "abcd_engine",
+   "aaronsengine",
+   "abdcebot",
    "aconcaguabot",
    "aetherbot",
    "aethertal_bot",
@@ -5837,17 +5838,17 @@
    "bongaclang",
    "boris-trapsky",
    "borkatower",
+   "bot1e",
+   "bot1nokk",
    "bot5551",
    "bot64jaques",
    "bot_adario",
-   "bothev",
    "bottios",
    "bottrain",
    "bretemabot",
    "bubblebot2",
    "byte-knight",
    "bytefish",
-   "c-t-r-l",
    "caiporabot",
    "capabot",
    "casanchess-nnue",
@@ -5856,7 +5857,6 @@
    "catriever",
    "chamberiajedrez",
    "charibot",
-   "chatgpt5_5",
    "chess_set_manager",
    "chessgeniusbot",
    "chessiverse_ethan",
@@ -5891,7 +5891,6 @@
    "dala-700",
    "dala-900",
    "darkelectronbot",
-   "darkonbot",
    "darkonweakbot",
    "davidsguterbot",
    "debzero",
@@ -5900,7 +5899,6 @@
    "devchessplayer-bot",
    "devilfishbot",
    "devilfishzero",
-   "dfy-bot",
    "diogenes-bot",
    "disrespect_fish",
    "dravox",
@@ -5908,13 +5906,13 @@
    "drewschessmachine",
    "dubot",
    "duchessai",
+   "duckish",
    "dumbotai",
    "eclipsebot",
    "edwardkillick",
    "eigenmann-chess",
    "elexunix_chess_bot",
    "elmichess",
-   "enyobot",
    "epimetheusbot",
    "escacsgba_1",
    "eubos",
@@ -5973,6 +5971,7 @@
    "kahunabot",
    "karl-engine-v1",
    "kbelludoo",
+   "kempelenengine",
    "kestrelstrike",
    "kingbobiv",
    "kirinchessbot",
@@ -5983,9 +5982,9 @@
    "laura-bot",
    "leelaalien",
    "leelaanyodds",
+   "leelachesstest",
    "leelajester",
    "leelaknightodds",
-   "leelamultiposs",
    "leelapieceodds",
    "leelaqueenforknight",
    "leelaqueenodds",
@@ -5998,15 +5997,16 @@
    "levymaia",
    "lightning-762",
    "likeawizard-bot",
+   "lili-ai",
    "lilitbot",
    "little-0",
    "littlepatricia",
    "littleply",
    "louischess48-6k",
    "lukebot",
+   "lunaenginechess",
    "lynx_bot",
    "macbotitsmagic",
-   "magic11bot_coach",
    "maia1",
    "maia3-79m_1000",
    "maia3-79m_1200",
@@ -6098,9 +6098,7 @@
    "psion-chess",
    "puisne",
    "pzchessbot",
-   "quartzthechessbot",
    "queensgambot",
-   "quirkafleeg-pc",
    "quirkafleeg-zx48k",
    "quirkafleeg-zxnext",
    "r0bspierre",
@@ -6116,7 +6114,6 @@
    "returnyou",
    "ribfish-bot",
    "robodoxadrez",
-   "rockingsuperstars",
    "rubyai",
    "rudim-bot",
    "rust-in-pieces",
@@ -6131,6 +6128,7 @@
    "seitogakatsu",
    "selimbabapro-bot",
    "sezgi_bot",
+   "sf_bot1nok",
    "shahmatbot",
    "shallowredbot",
    "sharpdubot",
@@ -6148,6 +6146,7 @@
    "smaugfincamo235",
    "solobot",
    "sparkfish-hce",
+   "spearfast",
    "springerbot",
    "squarefish-900",
    "sseh-c",
@@ -6173,8 +6172,6 @@
    "sykorabot",
    "tallikebot",
    "tempocore",
-   "tente-v2",
-   "tente8x",
    "thechessblazer",
    "throrbjorn",
    "thunfisch-bot",
@@ -6208,6 +6205,7 @@
    "uzenatch",
    "vanibot",
    "variantsbot",
+   "vi-rock-chess",
    "vic98lg",
    "vicentlittle",
    "vietnamesecoffee",
@@ -6224,7 +6222,6 @@
    "xen-0",
    "z-o_aspenlabs",
    "zanak-bot",
-   "zero-dot",
    "zeval_bot",
    "zion-bot",
    "zipfile_chess-bot"
