@@ -1257,7 +1257,7 @@
   },
   "crustik-bot": {
    "first_seen": "2026-11-03",
-   "last_online": "2026-11-13",
+   "last_online": "2026-11-21",
    "username": "Crustik-bot"
   },
   "cutebot": {
@@ -1737,7 +1737,7 @@
   },
   "fattorini-bot": {
    "first_seen": "2026-11-11",
-   "last_online": "2026-11-20",
+   "last_online": "2026-11-21",
    "username": "fattorini-bot"
   },
   "fayefish": {
@@ -4107,7 +4107,7 @@
   },
   "quartzthechessbot": {
    "first_seen": "2026-11-18",
-   "last_online": "2026-11-20",
+   "last_online": "2026-11-21",
    "username": "QuartzTheChessBot"
   },
   "queensgambot": {
@@ -5787,7 +5787,7 @@
   }
  },
  "online": {
-  "checked_at": "2026-11-21T05:43:10Z",
+  "checked_at": "2026-11-21T06:43:09Z",
   "ids": [
    "abcd_engine",
    "abdcebot",
@@ -5864,6 +5864,7 @@
    "cheszter",
    "chill4ce",
    "chiral_ebt",
+   "chrusty",
    "cinder-bot",
    "classical-leela",
    "claude_bot",
@@ -5879,6 +5880,7 @@
    "croco_bot",
    "croco_little_bot",
    "crocodile_bot",
+   "crustik-bot",
    "dafuq_bot",
    "dala-1100",
    "dala-1300",
@@ -5917,6 +5919,7 @@
    "fairytailregimebot",
    "falconengine",
    "fathzer-jchess",
+   "fattorini-bot",
    "felipe_bot_53",
    "fenrirbot",
    "fetacompli",
@@ -5931,6 +5934,7 @@
    "gaiachessengine",
    "garbobot",
    "geotsibot",
+   "ghidorah_x",
    "giffibot",
    "glorbo_evermorrow",
    "gnu4u",
@@ -5953,7 +5957,6 @@
    "incipit_bot",
    "io-bot",
    "ironrooks",
-   "is_boss",
    "iskelt-corax",
    "jangine",
    "jester7777",
@@ -5967,6 +5970,7 @@
    "jurdbird",
    "justbot-v1",
    "kahunabot",
+   "karl-engine-v1",
    "kbelludoo",
    "kestrelstrike",
    "kingbobiv",
@@ -5988,6 +5992,7 @@
    "leelarookodds",
    "leelatroll",
    "leelonardo",
+   "legotechniccontrolpl",
    "lentuschess",
    "levymaia",
    "lightning-762",
@@ -6092,6 +6097,7 @@
    "psion-chess",
    "puisne",
    "pzchessbot",
+   "quartzthechessbot",
    "queensgambot",
    "quirkafleeg-pc",
    "quirkafleeg-zx48k",
@@ -6114,6 +6120,7 @@
    "rudim-bot",
    "rust-in-pieces",
    "rust-in-pieces-nnue",
+   "saintengine",
    "sapling-bot",
    "sardinebot",
    "sargon-1ply",
@@ -6172,6 +6179,7 @@
    "throrbjorn",
    "thunfisch-bot",
    "tigrament",
+   "tikifish",
    "tilapiabot",
    "tinyairun",
    "to299d",
@@ -6182,7 +6190,6 @@
    "trenerhetman",
    "trinculobot",
    "troutbot",
-   "trrchessbot",
    "tucuengine",
    "turk_gambit",
    "turkjs",
