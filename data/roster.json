@@ -3277,7 +3277,7 @@
   },
   "mind_bot": {
    "first_seen": "2026-10-03",
-   "last_online": "2026-11-19",
+   "last_online": "2026-11-21",
    "username": "Mind_BOT"
   },
   "minibotapi": {
@@ -4082,7 +4082,7 @@
   },
   "ptit-biscuit": {
    "first_seen": "2026-11-20",
-   "last_online": "2026-11-20",
+   "last_online": "2026-11-21",
    "username": "Ptit-biscuit"
   },
   "puisne": {
@@ -5732,7 +5732,7 @@
   },
   "zeno-bot": {
    "first_seen": "2026-09-27",
-   "last_online": "2026-11-20",
+   "last_online": "2026-11-21",
    "username": "zeno-bot"
   },
   "zero-dot": {
@@ -5787,7 +5787,7 @@
   }
  },
  "online": {
-  "checked_at": "2026-11-21T10:43:10Z",
+  "checked_at": "2026-11-21T11:43:09Z",
   "ids": [
    "aaronsengine",
    "abdcebot",
@@ -5857,7 +5857,6 @@
    "catriever",
    "chamberiajedrez",
    "charibot",
-   "chess_set_manager",
    "chessgeniusbot",
    "chessiverse_ethan",
    "chessiverse_luc",
@@ -5899,6 +5898,7 @@
    "devchessplayer-bot",
    "devilfishbot",
    "devilfishzero",
+   "dfy-bot",
    "diogenes-bot",
    "disrespect_fish",
    "dravox",
@@ -5971,7 +5971,6 @@
    "kahunabot",
    "karl-engine-v1",
    "kbelludoo",
-   "kempelenengine",
    "kestrelstrike",
    "kingbobiv",
    "kirinchessbot",
@@ -6023,7 +6022,6 @@
    "maia9",
    "maia960-1600",
    "maia960-1900",
-   "marlinchessbot",
    "martuni",
    "mate-in-forty",
    "mate-in-thirty",
@@ -6038,6 +6036,7 @@
    "michaamateurbot",
    "milanbot",
    "mimirbot",
+   "mind_bot",
    "minopponentmoves",
    "mithandros",
    "mochi_bot",
@@ -6047,7 +6046,6 @@
    "mrdeepseekgpt",
    "mrtonnerre",
    "mudskipperbot",
-   "munzurbot2",
    "mutusbot",
    "my-bot",
    "mychessjava",
@@ -6096,9 +6094,11 @@
    "prokopakop",
    "prosperobot",
    "psion-chess",
+   "ptit-biscuit",
    "puisne",
    "pzchessbot",
    "queensgambot",
+   "quirkafleeg-pc",
    "quirkafleeg-zx48k",
    "quirkafleeg-zxnext",
    "r0bspierre",
@@ -6129,7 +6129,6 @@
    "selimbabapro-bot",
    "sezgi_bot",
    "sf_bot1nok",
-   "shahmatbot",
    "shallowredbot",
    "sharpdubot",
    "shrevenbot",
@@ -6172,6 +6171,8 @@
    "sykorabot",
    "tallikebot",
    "tempocore",
+   "tente-v2",
+   "tente8x",
    "thechessblazer",
    "throrbjorn",
    "thunfisch-bot",
@@ -6209,7 +6210,6 @@
    "vic98lg",
    "vicentlittle",
    "vietnamesecoffee",
-   "void_bot",
    "vortex_bot",
    "vortexaurafarm",
    "vyvrael-chess",
@@ -6222,6 +6222,8 @@
    "xen-0",
    "z-o_aspenlabs",
    "zanak-bot",
+   "zeno-bot",
+   "zero-dot",
    "zeval_bot",
    "zion-bot",
    "zipfile_chess-bot"
