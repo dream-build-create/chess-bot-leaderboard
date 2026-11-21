@@ -557,7 +557,7 @@
   },
   "blundeel67": {
    "first_seen": "2026-11-07",
-   "last_online": "2026-11-20",
+   "last_online": "2026-11-21",
    "username": "blundeel67"
   },
   "blunder-engine": {
@@ -1442,7 +1442,7 @@
   },
   "devilfishbot": {
    "first_seen": "2026-11-11",
-   "last_online": "2026-11-20",
+   "last_online": "2026-11-21",
    "username": "Devilfishbot"
   },
   "devilfishzero": {
@@ -2097,7 +2097,7 @@
   },
   "halloweanspooky": {
    "first_seen": "2026-11-20",
-   "last_online": "2026-11-20",
+   "last_online": "2026-11-21",
    "username": "HalloweanSpooky"
   },
   "halloweengambit-bot": {
@@ -2967,7 +2967,7 @@
   },
   "macbotitsmagic": {
    "first_seen": "2026-11-17",
-   "last_online": "2026-11-20",
+   "last_online": "2026-11-21",
    "username": "macbotitsmagic"
   },
   "mackbot": {
@@ -2987,7 +2987,7 @@
   },
   "magic11bot_coach": {
    "first_seen": "2026-10-01",
-   "last_online": "2026-11-20",
+   "last_online": "2026-11-21",
    "username": "Magic11bot_Coach"
   },
   "maia1": {
@@ -4572,7 +4572,7 @@
   },
   "shahmatbot": {
    "first_seen": "2026-11-04",
-   "last_online": "2026-11-20",
+   "last_online": "2026-11-21",
    "username": "SHAHMATBOT"
   },
   "shallowredbot": {
@@ -5787,10 +5787,9 @@
   }
  },
  "online": {
-  "checked_at": "2026-11-21T08:43:09Z",
+  "checked_at": "2026-11-21T09:43:16Z",
   "ids": [
    "abcd_engine",
-   "abdcebot",
    "aconcaguabot",
    "aetherbot",
    "aethertal_bot",
@@ -5831,14 +5830,13 @@
    "blowfishlite",
    "bluemoonbot",
    "blujay-bot",
+   "blundeel67",
    "blundermind-01",
    "blundermind-m3",
    "bobby_pcolla",
    "bongaclang",
    "boris-trapsky",
    "borkatower",
-   "bot1e",
-   "bot1nokk",
    "bot5551",
    "bot64jaques",
    "bot_adario",
@@ -5851,7 +5849,6 @@
    "bytefish",
    "c-t-r-l",
    "caiporabot",
-   "caissa-x",
    "capabot",
    "casanchess-nnue",
    "cassidychess-bot",
@@ -5901,7 +5898,7 @@
    "deepsquare-ai",
    "demen100ns-bot",
    "devchessplayer-bot",
-   "devilfishalpha",
+   "devilfishbot",
    "devilfishzero",
    "dfy-bot",
    "diogenes-bot",
@@ -5936,7 +5933,6 @@
    "fschess-engine",
    "funcomp",
    "funfishbot",
-   "gaiachessengine",
    "garbobot",
    "geotsibot",
    "giffibot",
@@ -5948,6 +5944,7 @@
    "grindfish",
    "hackerchessbot",
    "halcyonbot",
+   "halloweanspooky",
    "homoludensbot",
    "humaia",
    "humaia-strong",
@@ -5958,13 +5955,12 @@
    "hyperopic",
    "icarus-bot",
    "ilovecatgirl",
-   "implosio",
    "incipit_bot",
-   "io-bot",
    "ironrooks",
    "is_boss",
    "iskelt-corax",
    "jangine",
+   "jester7777",
    "jibbby",
    "jjugle",
    "joan_clone",
@@ -6009,6 +6005,8 @@
    "louischess48-6k",
    "lukebot",
    "lynx_bot",
+   "macbotitsmagic",
+   "magic11bot_coach",
    "maia1",
    "maia3-79m_1000",
    "maia3-79m_1200",
@@ -6049,8 +6047,9 @@
    "mrdeepseekgpt",
    "mrtonnerre",
    "mudskipperbot",
-   "musashi-thebot",
+   "munzurbot2",
    "mutusbot",
+   "my-bot",
    "mychessjava",
    "mzero_dev",
    "nanozeroorg",
@@ -6067,7 +6066,6 @@
    "nilatacbot",
    "nittedal",
    "noabot",
-   "noksiy",
    "odonata-bot",
    "onechessbot",
    "onezenpanda",
@@ -6123,7 +6121,6 @@
    "rudim-bot",
    "rust-in-pieces",
    "rust-in-pieces-nnue",
-   "saintengine",
    "sapling-bot",
    "sargon-1ply",
    "sargon-3ply",
@@ -6134,7 +6131,7 @@
    "seitogakatsu",
    "selimbabapro-bot",
    "sezgi_bot",
-   "sf_bot1nok",
+   "shahmatbot",
    "shallowredbot",
    "sharpdubot",
    "shrevenbot",
