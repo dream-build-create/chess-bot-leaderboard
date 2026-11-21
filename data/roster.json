@@ -897,7 +897,7 @@
   },
   "chatgpt5_5": {
    "first_seen": "2026-10-04",
-   "last_online": "2026-11-20",
+   "last_online": "2026-11-21",
    "username": "chatgpt5_5"
   },
   "checkmare666bot": {
@@ -1092,7 +1092,7 @@
   },
   "chrusty": {
    "first_seen": "2026-09-28",
-   "last_online": "2026-11-14",
+   "last_online": "2026-11-21",
    "username": "chrusty"
   },
   "cinder-bot": {
@@ -1457,7 +1457,7 @@
   },
   "dfy-bot": {
    "first_seen": "2026-10-18",
-   "last_online": "2026-11-20",
+   "last_online": "2026-11-21",
    "username": "Dfy-Bot"
   },
   "dgtrychess": {
@@ -2372,7 +2372,7 @@
   },
   "jester7777": {
    "first_seen": "2026-11-11",
-   "last_online": "2026-11-20",
+   "last_online": "2026-11-21",
    "username": "jester7777"
   },
   "jesterchessrobot": {
@@ -3177,7 +3177,7 @@
   },
   "maybyen": {
    "first_seen": "2026-11-07",
-   "last_online": "2026-11-20",
+   "last_online": "2026-11-21",
    "username": "maybyen"
   },
   "mayflyengine": {
@@ -3977,7 +3977,7 @@
   },
   "ponytail_engine": {
    "first_seen": "2026-10-28",
-   "last_online": "2026-11-20",
+   "last_online": "2026-11-21",
    "username": "Ponytail_engine"
   },
   "potential_engine": {
@@ -4112,7 +4112,7 @@
   },
   "queensgambot": {
    "first_seen": "2026-09-27",
-   "last_online": "2026-11-20",
+   "last_online": "2026-11-21",
    "username": "QueensGamBOT"
   },
   "quirkafleeg-pc": {
@@ -5787,7 +5787,7 @@
   }
  },
  "online": {
-  "checked_at": "2026-11-21T01:43:08Z",
+  "checked_at": "2026-11-21T02:43:14Z",
   "ids": [
    "abcd_engine",
    "abdcebot",
@@ -5854,7 +5854,7 @@
    "catnail",
    "catriever",
    "charibot",
-   "chess3bot",
+   "chatgpt5_5",
    "chess_set_manager",
    "chessiverse_ethan",
    "chessiverse_luc",
@@ -5864,6 +5864,7 @@
    "cheszter",
    "chill4ce",
    "chiral_ebt",
+   "chrusty",
    "cinder-bot",
    "classical-leela",
    "claude_bot",
@@ -5895,6 +5896,7 @@
    "demen100ns-bot",
    "devchessplayer-bot",
    "devilfishalpha",
+   "dfy-bot",
    "diogenes-bot",
    "disrespect_fish",
    "dravox",
@@ -5928,6 +5930,7 @@
    "funcomp",
    "funfishbot",
    "gaiachessengine",
+   "gambitonlybot",
    "garbobot",
    "geotsibot",
    "giffibot",
@@ -5956,6 +5959,7 @@
    "is_boss",
    "iskelt-corax",
    "jangine",
+   "jester7777",
    "jibbby",
    "jjugle",
    "joan_clone",
@@ -6023,6 +6027,7 @@
    "mate-in-twenty",
    "mate1-bot",
    "matmoi",
+   "maybyen",
    "mchesspro_8_uci",
    "mdbot",
    "mega-noob-bot",
@@ -6031,6 +6036,7 @@
    "milanbot",
    "mimirbot",
    "minopponentmoves",
+   "mithandros",
    "mochi_bot",
    "morabandbot",
    "mostlyhuman1900",
@@ -6038,6 +6044,7 @@
    "mrdeepseekgpt",
    "mrtonnerre",
    "mudskipperbot",
+   "munzurbot2",
    "mutusbot",
    "mychessjava",
    "mzero_dev",
@@ -6082,6 +6089,7 @@
    "piglet_engine",
    "plumboi",
    "plumbot",
+   "ponytail_engine",
    "princhess_policy_bot",
    "prismnnue",
    "prokopakop",
@@ -6089,6 +6097,7 @@
    "psion-chess",
    "puisne",
    "pzchessbot",
+   "queensgambot",
    "quirkafleeg-pc",
    "quirkafleeg-zx48k",
    "quirkafleeg-zxnext",
@@ -6110,6 +6119,7 @@
    "rudim-bot",
    "rust-in-pieces",
    "rust-in-pieces-nnue",
+   "saintengine",
    "sapling-bot",
    "sardinebot",
    "sargon-1ply",
@@ -6133,6 +6143,7 @@
    "sleepish",
    "sleepmindengine",
    "slowmate_bot",
+   "smartysprout",
    "smaugfincamo235",
    "solobot",
    "sparkfish-hce",
@@ -6179,7 +6190,6 @@
    "trenerhetman",
    "trinculobot",
    "troutbot",
-   "trrchessbot",
    "tucuengine",
    "turk_gambit",
    "turkjs",
