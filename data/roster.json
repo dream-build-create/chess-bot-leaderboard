@@ -670,6 +670,11 @@
    "last_online": "2026-10-02",
    "username": "Bothev2"
   },
+  "botkill-v18x": {
+   "first_seen": "2026-11-21",
+   "last_online": "2026-11-21",
+   "username": "Botkill-v18x"
+  },
   "botkingteam33": {
    "first_seen": "2026-10-11",
    "last_online": "2026-11-21",
@@ -1172,7 +1177,7 @@
   },
   "colossusbot": {
    "first_seen": "2026-09-30",
-   "last_online": "2026-11-19",
+   "last_online": "2026-11-21",
    "username": "ColossusBOT"
   },
   "compchess2": {
@@ -3532,7 +3537,7 @@
   },
   "newengine2022": {
    "first_seen": "2026-10-06",
-   "last_online": "2026-11-19",
+   "last_online": "2026-11-21",
    "username": "newengine2022"
   },
   "newtsbot": {
@@ -3752,7 +3757,7 @@
   },
   "paconbot": {
    "first_seen": "2026-11-05",
-   "last_online": "2026-11-17",
+   "last_online": "2026-11-21",
    "username": "PaconBot"
   },
   "pacu_bot": {
@@ -4807,7 +4812,7 @@
   },
   "sparkchessengine": {
    "first_seen": "2026-10-21",
-   "last_online": "2026-11-20",
+   "last_online": "2026-11-21",
    "username": "SparkchessEngine"
   },
   "sparkfish-hce": {
@@ -5682,7 +5687,7 @@
   },
   "yow-experimental": {
    "first_seen": "2026-11-12",
-   "last_online": "2026-11-17",
+   "last_online": "2026-11-21",
    "username": "yow-experimental"
   },
   "yvyraa": {
@@ -5787,7 +5792,7 @@
   }
  },
  "online": {
-  "checked_at": "2026-11-21T11:43:09Z",
+  "checked_at": "2026-11-21T12:43:11Z",
   "ids": [
    "aaronsengine",
    "abdcebot",
@@ -5798,7 +5803,6 @@
    "ai-con",
    "ailedbot",
    "ajedrezchamberi",
-   "alarm2001",
    "alehkine_cat",
    "alexandrya",
    "aliceshiro",
@@ -5825,7 +5829,6 @@
    "bernstein-4ply",
    "bertbot",
    "bfiedler-bot",
-   "bit-fish8",
    "bitbitbot",
    "black-icebot",
    "blowfishlite",
@@ -5843,6 +5846,7 @@
    "bot5551",
    "bot64jaques",
    "bot_adario",
+   "botkill-v18x",
    "bottios",
    "bottrain",
    "bretemabot",
@@ -5875,6 +5879,7 @@
    "clrsrc_lc0",
    "coda_bot",
    "colinbot",
+   "colossusbot",
    "confidencebuilder",
    "cookiebot711",
    "craftyuci",
@@ -5882,7 +5887,6 @@
    "croco_bot",
    "croco_little_bot",
    "crocodile_bot",
-   "dafuq_bot",
    "dala-1100",
    "dala-1300",
    "dala-1600",
@@ -5898,7 +5902,6 @@
    "devchessplayer-bot",
    "devilfishbot",
    "devilfishzero",
-   "dfy-bot",
    "diogenes-bot",
    "disrespect_fish",
    "dravox",
@@ -5972,7 +5975,6 @@
    "karl-engine-v1",
    "kbelludoo",
    "kestrelstrike",
-   "kingbobiv",
    "kirinchessbot",
    "knightstalker_uci",
    "kolmato",
@@ -5981,7 +5983,6 @@
    "laura-bot",
    "leelaalien",
    "leelaanyodds",
-   "leelachesstest",
    "leelajester",
    "leelaknightodds",
    "leelapieceodds",
@@ -5991,7 +5992,6 @@
    "leelarookodds",
    "leelatroll",
    "leelonardo",
-   "legotechniccontrolpl",
    "lentuschess",
    "levymaia",
    "lightning-762",
@@ -6002,10 +6002,12 @@
    "littlepatricia",
    "littleply",
    "louischess48-6k",
+   "lucena_973",
    "lukebot",
    "lunaenginechess",
    "lynx_bot",
    "macbotitsmagic",
+   "magic11bot_coach",
    "maia1",
    "maia3-79m_1000",
    "maia3-79m_1200",
@@ -6046,8 +6048,8 @@
    "mrdeepseekgpt",
    "mrtonnerre",
    "mudskipperbot",
+   "munzurbot2",
    "mutusbot",
-   "my-bot",
    "mychessjava",
    "mzero_dev",
    "nanozeroorg",
@@ -6055,6 +6057,7 @@
    "nebubot",
    "neryba",
    "neurosocute",
+   "newengine2022",
    "nexastrat",
    "next_uzbek",
    "nibbleknight",
@@ -6064,10 +6067,12 @@
    "nilatacbot",
    "nittedal",
    "noabot",
+   "noksiy",
    "odonata-bot",
    "onechessbot",
    "onezenpanda",
    "oxide-eg",
+   "paconbot",
    "pacu_bot",
    "pangubot",
    "panic-fish",
@@ -6094,7 +6099,6 @@
    "prokopakop",
    "prosperobot",
    "psion-chess",
-   "ptit-biscuit",
    "puisne",
    "pzchessbot",
    "queensgambot",
@@ -6129,6 +6133,7 @@
    "selimbabapro-bot",
    "sezgi_bot",
    "sf_bot1nok",
+   "shahmatbot",
    "shallowredbot",
    "sharpdubot",
    "shrevenbot",
@@ -6140,11 +6145,10 @@
    "slate-engine",
    "sleepish",
    "sleepmindengine",
-   "slowmate_bot",
    "smartysprout",
    "smaugfincamo235",
    "solobot",
-   "sparkfish-hce",
+   "sparkchessengine",
    "spearfast",
    "springerbot",
    "squarefish-900",
@@ -6177,7 +6181,6 @@
    "throrbjorn",
    "thunfisch-bot",
    "tigrament",
-   "tikifish",
    "tilapiabot",
    "tinyairun",
    "to299d",
@@ -6220,6 +6223,7 @@
    "worserfish19",
    "worstfish",
    "xen-0",
+   "yow-experimental",
    "z-o_aspenlabs",
    "zanak-bot",
    "zeno-bot",
