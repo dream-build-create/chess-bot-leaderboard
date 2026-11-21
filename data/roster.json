@@ -537,7 +537,7 @@
   },
   "blowfishlite": {
    "first_seen": "2026-11-20",
-   "last_online": "2026-11-20",
+   "last_online": "2026-11-21",
    "username": "BlowfishLite"
   },
   "blueberry-engine": {
@@ -3422,7 +3422,7 @@
   },
   "my-bot": {
    "first_seen": "2026-10-03",
-   "last_online": "2026-11-20",
+   "last_online": "2026-11-21",
    "username": "MY-BOT"
   },
   "my_bot121": {
@@ -4912,7 +4912,7 @@
   },
   "stockfishv19": {
    "first_seen": "2026-11-20",
-   "last_online": "2026-11-20",
+   "last_online": "2026-11-21",
    "username": "StockFishV19"
   },
   "stockpapagei": {
@@ -5627,7 +5627,7 @@
   },
   "worserfish19": {
    "first_seen": "2026-11-19",
-   "last_online": "2026-11-20",
+   "last_online": "2026-11-21",
    "username": "WorserFish19"
   },
   "worst-ai": {
@@ -5787,7 +5787,7 @@
   }
  },
  "online": {
-  "checked_at": "2026-11-21T02:43:14Z",
+  "checked_at": "2026-11-21T03:43:09Z",
   "ids": [
    "abcd_engine",
    "abdcebot",
@@ -5827,6 +5827,7 @@
    "bfiedler-bot",
    "bitbitbot",
    "black-icebot",
+   "blowfishlite",
    "bluemoonbot",
    "blujay-bot",
    "blundermind-01",
@@ -5864,7 +5865,6 @@
    "cheszter",
    "chill4ce",
    "chiral_ebt",
-   "chrusty",
    "cinder-bot",
    "classical-leela",
    "claude_bot",
@@ -5930,7 +5930,6 @@
    "funcomp",
    "funfishbot",
    "gaiachessengine",
-   "gambitonlybot",
    "garbobot",
    "geotsibot",
    "giffibot",
@@ -6046,8 +6045,8 @@
    "mudskipperbot",
    "munzurbot2",
    "mutusbot",
+   "my-bot",
    "mychessjava",
-   "mzero_dev",
    "nanozeroorg",
    "ndr1sn",
    "nebubot",
@@ -6078,7 +6077,6 @@
    "pawnrobot",
    "peacemaker-0_0",
    "peachfruit",
-   "pelanca",
    "peppermintpatty",
    "perl-gigachess",
    "philidor-142m",
@@ -6151,13 +6149,13 @@
    "squarefish-900",
    "sseh-c",
    "stardustengine",
-   "stargazerengine",
    "stepbot_chess",
    "stickshark99",
    "stockconda",
    "stockcotsfish",
    "stockdory",
    "stockfishlowdepth",
+   "stockfishv19",
    "stockpapagei",
    "strategy_bot",
    "streamervschat",
@@ -6219,6 +6217,7 @@
    "walpurti",
    "wannalearnbot",
    "weiawaga",
+   "worserfish19",
    "worstfish",
    "xen-0",
    "z-o_aspenlabs",
