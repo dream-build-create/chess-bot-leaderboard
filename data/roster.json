@@ -497,7 +497,7 @@
   },
   "bit-fish8": {
    "first_seen": "2026-11-01",
-   "last_online": "2026-11-21",
+   "last_online": "2026-11-22",
    "username": "Bit-Fish8"
   },
   "bitbitbot": {
@@ -1657,7 +1657,7 @@
   },
   "enyobot": {
    "first_seen": "2026-11-19",
-   "last_online": "2026-11-21",
+   "last_online": "2026-11-22",
    "username": "EnyoBot"
   },
   "epimetheusbot": {
@@ -1697,7 +1697,7 @@
   },
   "esperengine": {
    "first_seen": "2026-11-18",
-   "last_online": "2026-11-21",
+   "last_online": "2026-11-22",
    "username": "EsperEngine"
   },
   "eubos": {
@@ -5827,7 +5827,7 @@
   }
  },
  "online": {
-  "checked_at": "2026-11-22T05:43:08Z",
+  "checked_at": "2026-11-22T06:43:08Z",
   "ids": [
    "abcd_engine",
    "abdcebot",
@@ -5862,8 +5862,8 @@
    "belzedarian",
    "bernstein-2ply",
    "bernstein-4ply",
-   "bertbot",
    "bfiedler-bot",
+   "bit-fish8",
    "bitbitbot",
    "black-icebot",
    "blowfishlite",
@@ -5898,7 +5898,6 @@
    "catriever",
    "charibot",
    "chatgpt5_5",
-   "chess_set_manager",
    "chessiverse_ethan",
    "chessiverse_luc",
    "chessiverse_pawnza",
@@ -5937,10 +5936,10 @@
    "deepsquare-ai",
    "demen100ns-bot",
    "devchessplayer-bot",
-   "devilfish3030",
    "devilfishalpha",
    "diogenes-bot",
    "disrespect_fish",
+   "djxjdjzzc_bot",
    "dravox",
    "drawfish-reborn",
    "drewschessmachine",
@@ -5952,8 +5951,10 @@
    "eigenmann-chess",
    "elexunix_chess_bot",
    "elmichess",
+   "enyobot",
    "epimetheusbot",
    "escacsgba_1",
+   "esperengine",
    "eubos",
    "fairytailregimebot",
    "falconengine",
@@ -5966,16 +5967,13 @@
    "fourcuriouspandas",
    "fschess-engine",
    "funfishbot",
-   "gaiachessengine",
    "garbobot",
    "geotsibot",
-   "ghidorah_x",
    "giffibot",
    "glorbo_evermorrow",
    "gnu4u",
    "goldfish-engine",
    "goopis",
-   "gothambotmaia",
    "grail-bot",
    "grindfish",
    "hackerchessbot",
@@ -5991,6 +5989,7 @@
    "icarus-bot",
    "ilovecatgirl",
    "incipit_bot",
+   "io-bot",
    "ironrooks",
    "is_boss",
    "iskelt-corax",
@@ -6005,6 +6004,7 @@
    "jurdbird",
    "justbot-v1",
    "kahunabot",
+   "karl-engine-v1",
    "kbelludoo",
    "kestrelchess",
    "kestrelstrike",
@@ -6197,7 +6197,6 @@
    "stroberibot",
    "stronggoliath",
    "stupidfishbotbydscs",
-   "styx-chess",
    "sunfish-engine",
    "sunfish-nnue-engine",
    "sxphia",
@@ -6212,6 +6211,7 @@
    "throrbjorn",
    "thunfisch-bot",
    "tigrament",
+   "tikifish",
    "tilapiabot",
    "tinyairun",
    "to299d",
@@ -6250,7 +6250,6 @@
    "vyvrael-chess",
    "waldemar-the-elf",
    "walpurti",
-   "wannalearnbot",
    "weiawaga",
    "worserfish19",
    "worstfish",
