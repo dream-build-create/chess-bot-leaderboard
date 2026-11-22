@@ -512,7 +512,7 @@
   },
   "black-icebot": {
    "first_seen": "2026-10-16",
-   "last_online": "2026-11-21",
+   "last_online": "2026-11-22",
    "username": "BLACK-ICEbot"
   },
   "blackeventhorizon": {
@@ -557,7 +557,7 @@
   },
   "blundeel67": {
    "first_seen": "2026-11-07",
-   "last_online": "2026-11-21",
+   "last_online": "2026-11-22",
    "username": "blundeel67"
   },
   "blunder-engine": {
@@ -2534,6 +2534,11 @@
    "first_seen": "2026-10-03",
    "last_online": "2026-10-07",
    "username": "kepler_bot"
+  },
+  "kestrelchess": {
+   "first_seen": "2026-11-22",
+   "last_online": "2026-11-22",
+   "username": "KestrelChess"
   },
   "kestrelstrike": {
    "first_seen": "2026-09-27",
@@ -5822,7 +5827,7 @@
   }
  },
  "online": {
-  "checked_at": "2026-11-22T04:43:08Z",
+  "checked_at": "2026-11-22T05:43:08Z",
   "ids": [
    "abcd_engine",
    "abdcebot",
@@ -5860,9 +5865,11 @@
    "bertbot",
    "bfiedler-bot",
    "bitbitbot",
+   "black-icebot",
    "blowfishlite",
    "bluemoonbot",
    "blujay-bot",
+   "blundeel67",
    "blundermind-01",
    "blundermind-m3",
    "bongaclang",
@@ -5960,7 +5967,6 @@
    "fschess-engine",
    "funfishbot",
    "gaiachessengine",
-   "gambitonlybot",
    "garbobot",
    "geotsibot",
    "ghidorah_x",
@@ -5974,7 +5980,6 @@
    "grindfish",
    "hackerchessbot",
    "halcyonbot",
-   "hardrok",
    "homoludensbot",
    "humaia",
    "humaia-strong",
@@ -5986,11 +5991,11 @@
    "icarus-bot",
    "ilovecatgirl",
    "incipit_bot",
-   "io-bot",
    "ironrooks",
    "is_boss",
    "iskelt-corax",
    "jangine",
+   "jester7777",
    "jibbby",
    "jjugle",
    "joan_clone",
@@ -6001,6 +6006,7 @@
    "justbot-v1",
    "kahunabot",
    "kbelludoo",
+   "kestrelchess",
    "kestrelstrike",
    "kingbobiv",
    "kirinchessbot",
@@ -6050,6 +6056,7 @@
    "maia9",
    "maia960-1600",
    "maia960-1900",
+   "marlinchessbot",
    "martuni",
    "mate-in-forty",
    "mate-in-thirty",
@@ -6072,7 +6079,6 @@
    "mrdeepseekgpt",
    "mrtonnerre",
    "mudskipperbot",
-   "munzurbot2",
    "mutusbot",
    "my-bot",
    "mychessjava",
@@ -6143,6 +6149,7 @@
    "remychessengine",
    "renegadeengine",
    "resolutebot",
+   "returnyou",
    "ribfish-bot",
    "robodoxadrez",
    "rubyai",
