@@ -2575,6 +2575,11 @@
    "last_online": "2026-11-22",
    "username": "KingBobIV"
   },
+  "kingofendgamesbot": {
+   "first_seen": "2026-11-22",
+   "last_online": "2026-11-22",
+   "username": "KingofEndgamesBOT"
+  },
   "kingzbot": {
    "first_seen": "2026-10-10",
    "last_online": "2026-11-08",
@@ -4655,6 +4660,11 @@
    "last_online": "2026-11-18",
    "username": "sharpSundae"
   },
+  "shayanytbot": {
+   "first_seen": "2026-11-22",
+   "last_online": "2026-11-22",
+   "username": "shayanYTBOT"
+  },
   "shrevenbot": {
    "first_seen": "2026-09-27",
    "last_online": "2026-11-22",
@@ -4717,7 +4727,7 @@
   },
   "sisyphus-engine": {
    "first_seen": "2026-10-12",
-   "last_online": "2026-11-20",
+   "last_online": "2026-11-22",
    "username": "Sisyphus-engine"
   },
   "sj_norbot": {
@@ -5835,6 +5845,11 @@
    "last_online": "2026-10-02",
    "username": "ZobristHaescher"
   },
+  "zoo_amrica": {
+   "first_seen": "2026-11-22",
+   "last_online": "2026-11-22",
+   "username": "Zoo_amrica"
+  },
   "zuhammet": {
    "first_seen": "2026-10-28",
    "last_online": "2026-11-07",
@@ -5852,7 +5867,7 @@
   }
  },
  "online": {
-  "checked_at": "2026-11-22T17:43:08Z",
+  "checked_at": "2026-11-22T18:43:10Z",
   "ids": [
    "aaronsengine",
    "abcd_engine",
@@ -5861,13 +5876,16 @@
    "aetherbot",
    "aethertal_bot",
    "aggressivestockfish",
+   "ahmedzhanov",
    "ai-con",
    "ailedbot",
    "ajedrezchamberi",
+   "alarm2001",
    "alehkine_cat",
    "alexandrya",
    "aliceshiro",
    "alieknek",
+   "alliethechessbot",
    "angela_eng",
    "anna-bot",
    "annie_archy",
@@ -5882,7 +5900,6 @@
    "ashnostromo",
    "athena-chessbot",
    "axiom_bot",
-   "baby_eubos",
    "bbc_bot",
    "belzedarian",
    "benzene-phenol-02",
@@ -5906,7 +5923,6 @@
    "bot_adario",
    "bothev",
    "botkill-v18x",
-   "botkingteam33",
    "botmonok",
    "bottios",
    "bottrain",
@@ -5925,14 +5941,13 @@
    "chamberiajedrez",
    "charibot",
    "chatgpt5_5",
-   "chess-2-bot",
    "chess_set_manager",
+   "chessgeniusbot",
    "chessiverse_ethan",
    "chessiverse_luc",
    "chessiverse_pawnza",
    "chessiverse_raak",
    "chessmindbot",
-   "chesstransformerbot",
    "cheszter",
    "chill4ce",
    "cinder-bot",
@@ -5980,7 +5995,6 @@
    "eigenmann-chess",
    "elexunix_chess_bot",
    "elmichess",
-   "enyobot",
    "escacsgba_1",
    "eubos",
    "extrapawncom",
@@ -5996,7 +6010,6 @@
    "fourcuriouspandas",
    "fschess-engine",
    "funfishbot",
-   "gaiachessengine",
    "gambitonlybot",
    "garbobot",
    "geotsibot",
@@ -6040,6 +6053,8 @@
    "kbelludoo",
    "kestrelchess",
    "kestrelstrike",
+   "kingbobiv",
+   "kingofendgamesbot",
    "kirinchessbot",
    "kopyto_dev",
    "lamprook",
@@ -6048,6 +6063,7 @@
    "leelaanyodds",
    "leelajester",
    "leelaknightodds",
+   "leelamultiposs",
    "leelapieceodds",
    "leelaqueenforknight",
    "leelaqueenodds",
@@ -6091,7 +6107,6 @@
    "mate-in-thirty",
    "mate-in-twenty",
    "mate1-bot",
-   "matemakingmachine",
    "matmoi",
    "maybyen",
    "mega-noob-bot",
@@ -6127,7 +6142,6 @@
    "nittedal",
    "nnueisaura",
    "noabot",
-   "noksiy",
    "o-rei-cx",
    "octarine-bot",
    "odonata-bot",
@@ -6186,6 +6200,7 @@
    "sargon-1ply",
    "sargon-3ply",
    "sbnovella",
+   "scalaqueen",
    "schnecken_bot",
    "scipio-bot",
    "seitogakatsu",
@@ -6194,17 +6209,20 @@
    "sf_bot1nok",
    "shallowredbot",
    "sharpdubot",
+   "shayanytbot",
    "shrevenbot",
    "silasly",
    "sim3million",
    "simonericafonso",
    "simple_chess_lab",
    "simpleeval",
+   "sisyphus-engine",
    "sj_norbot",
    "slate-engine",
    "sleepish",
    "sleepmindengine",
    "smartysprout",
+   "smaugfincamo235",
    "solobot",
    "springerbot",
    "squarefish-900",
@@ -6235,7 +6253,6 @@
    "tente-v2",
    "tente8x",
    "thechessblazer",
-   "theunknown-bot",
    "thunfisch-bot",
    "tigrament",
    "tikifish",
@@ -6243,6 +6260,7 @@
    "tinyairun",
    "to299d",
    "togaii",
+   "tomahawkbot",
    "tonyengine",
    "topasbot",
    "torombot",
@@ -6265,7 +6283,6 @@
    "usunfish-l1",
    "usunfish-l7",
    "utrain-chess-bot",
-   "utrons11",
    "uxugin-bot",
    "uzenatch",
    "vanibot",
@@ -6283,11 +6300,11 @@
    "worserfish19",
    "worstfish",
    "xen-0",
-   "z-o_aspenlabs",
    "zanak-bot",
    "zeval_bot",
    "zion-bot",
-   "zipfile_chess-bot"
+   "zipfile_chess-bot",
+   "zoo_amrica"
   ]
  },
  "schema_version": 1
