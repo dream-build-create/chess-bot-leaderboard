@@ -7,7 +7,7 @@
   },
   "aaronsengine": {
    "first_seen": "2026-09-27",
-   "last_online": "2026-11-21",
+   "last_online": "2026-11-22",
    "username": "AaronsEngine"
   },
   "aathena101": {
@@ -312,7 +312,7 @@
   },
   "aspirebot": {
    "first_seen": "2026-11-15",
-   "last_online": "2026-11-21",
+   "last_online": "2026-11-22",
    "username": "AspireBot"
   },
   "atari-video-chess": {
@@ -2122,7 +2122,7 @@
   },
   "halloweanspooky": {
    "first_seen": "2026-11-20",
-   "last_online": "2026-11-21",
+   "last_online": "2026-11-22",
    "username": "HalloweanSpooky"
   },
   "halloweengambit-bot": {
@@ -2615,6 +2615,11 @@
    "last_online": "2026-11-16",
    "username": "Klak_Engine"
   },
+  "klevai": {
+   "first_seen": "2026-11-22",
+   "last_online": "2026-11-22",
+   "username": "KlevAI"
+  },
   "knifexn": {
    "first_seen": "2026-11-13",
    "last_online": "2026-11-13",
@@ -3027,7 +3032,7 @@
   },
   "magic11bot_coach": {
    "first_seen": "2026-10-01",
-   "last_online": "2026-11-21",
+   "last_online": "2026-11-22",
    "username": "Magic11bot_Coach"
   },
   "maia1": {
@@ -3264,6 +3269,11 @@
    "first_seen": "2026-09-27",
    "last_online": "2026-11-22",
    "username": "MEGA-NOOB-BOT"
+  },
+  "mehmetanalyze": {
+   "first_seen": "2026-11-22",
+   "last_online": "2026-11-22",
+   "username": "MehmetAnalyze"
   },
   "meikechess": {
    "first_seen": "2026-10-25",
@@ -5842,8 +5852,9 @@
   }
  },
  "online": {
-  "checked_at": "2026-11-22T09:43:08Z",
+  "checked_at": "2026-11-22T10:43:08Z",
   "ids": [
+   "aaronsengine",
    "abcd_engine",
    "abdcebot",
    "aconcaguabot",
@@ -5870,6 +5881,7 @@
    "arkiplayschess",
    "artidigm_research",
    "ashnostromo",
+   "aspirebot",
    "athena-chessbot",
    "axiom_bot",
    "baby_eubos",
@@ -5879,7 +5891,6 @@
    "bernstein-4ply",
    "bfiedler-bot",
    "bitbitbot",
-   "black-icebot",
    "blowfishlite",
    "bluemoonbot",
    "blujay-bot",
@@ -5894,7 +5905,6 @@
    "bot5551",
    "bot64jaques",
    "bot_adario",
-   "bothev",
    "botkill-v18x",
    "bottios",
    "bottrain",
@@ -5983,6 +5993,7 @@
    "fourcuriouspandas",
    "fschess-engine",
    "funfishbot",
+   "gaiachessengine",
    "garbobot",
    "geotsibot",
    "giffibot",
@@ -5994,6 +6005,7 @@
    "grindfish",
    "hackerchessbot",
    "halcyonbot",
+   "halloweanspooky",
    "homoludensbot",
    "humaia",
    "humaia-strong",
@@ -6027,6 +6039,7 @@
    "kestrelstrike",
    "kingbobiv",
    "kirinchessbot",
+   "klevai",
    "knightstalker_uci",
    "kopyto_dev",
    "lamprook",
@@ -6056,6 +6069,7 @@
    "lukebot",
    "lunaenginechess",
    "lynx_bot",
+   "magic11bot_coach",
    "maia1",
    "maia3-79m_1000",
    "maia3-79m_1200",
@@ -6072,7 +6086,6 @@
    "maia9",
    "maia960-1600",
    "maia960-1900",
-   "marlinchessbot",
    "martuni",
    "mate-in-forty",
    "mate-in-thirty",
@@ -6082,6 +6095,7 @@
    "maybyen",
    "mchesspro_8_uci",
    "mega-noob-bot",
+   "mehmetanalyze",
    "melsh_bot",
    "michaamateurbot",
    "milanbot",
@@ -6144,7 +6158,6 @@
    "pontiengine",
    "princhess_policy_bot",
    "prismnnue",
-   "project_nebulora",
    "prokopakop",
    "prosperobot",
    "psion-chess",
@@ -6165,7 +6178,6 @@
    "remychessengine",
    "renegadeengine",
    "resolutebot",
-   "returnyou",
    "ribfish-bot",
    "robodoxadrez",
    "rubyai",
@@ -6196,11 +6208,9 @@
    "slate-engine",
    "sleepish",
    "sleepmindengine",
-   "slothcomputer",
    "smartysprout",
    "smaugfincamo235",
    "solobot",
-   "sparkchessengine",
    "springerbot",
    "squarefish-900",
    "sseh-c",
