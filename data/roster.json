@@ -1452,7 +1452,7 @@
   },
   "devilfishbot": {
    "first_seen": "2026-11-11",
-   "last_online": "2026-11-21",
+   "last_online": "2026-11-22",
    "username": "Devilfishbot"
   },
   "devilfishzero": {
@@ -1562,7 +1562,7 @@
   },
   "duckish": {
    "first_seen": "2026-11-20",
-   "last_online": "2026-11-21",
+   "last_online": "2026-11-22",
    "username": "duckish"
   },
   "dumbotai": {
@@ -1719,6 +1719,11 @@
    "first_seen": "2026-11-22",
    "last_online": "2026-11-22",
    "username": "EvanCipher"
+  },
+  "extrapawncom": {
+   "first_seen": "2026-11-22",
+   "last_online": "2026-11-22",
+   "username": "ExtraPawnCOM"
   },
   "fairytailregimebot": {
    "first_seen": "2026-11-09",
@@ -2309,6 +2314,11 @@
    "first_seen": "2026-10-02",
    "last_online": "2026-11-22",
    "username": "incipit_bot"
+  },
+  "intermediateplay2026": {
+   "first_seen": "2026-11-22",
+   "last_online": "2026-11-22",
+   "username": "IntermediatePlay2026"
   },
   "io-bot": {
    "first_seen": "2026-09-28",
@@ -4612,7 +4622,7 @@
   },
   "shahmatbot": {
    "first_seen": "2026-11-04",
-   "last_online": "2026-11-21",
+   "last_online": "2026-11-22",
    "username": "SHAHMATBOT"
   },
   "shallowredbot": {
@@ -5832,7 +5842,7 @@
   }
  },
  "online": {
-  "checked_at": "2026-11-22T08:43:09Z",
+  "checked_at": "2026-11-22T09:43:08Z",
   "ids": [
    "abcd_engine",
    "abdcebot",
@@ -5868,7 +5878,6 @@
    "bernstein-2ply",
    "bernstein-4ply",
    "bfiedler-bot",
-   "bit-fish8",
    "bitbitbot",
    "black-icebot",
    "blowfishlite",
@@ -5893,6 +5902,7 @@
    "bubblebot2",
    "byte-knight",
    "bytefish",
+   "c-t-r-l",
    "caesarbot",
    "caiporabot",
    "capabot",
@@ -5934,13 +5944,14 @@
    "dala-700",
    "dala-900",
    "darkelectronbot",
+   "darkonbot",
    "darkonweakbot",
    "davidsguterbot",
    "debzero",
    "deepsquare-ai",
    "demen100ns-bot",
    "devchessplayer-bot",
-   "devilfishalpha",
+   "devilfishbot",
    "diogenes-bot",
    "disrespect_fish",
    "djxjdjzzc_bot",
@@ -5949,6 +5960,7 @@
    "drewschessmachine",
    "dubot",
    "duchessai",
+   "duckish",
    "dumbotai",
    "eclipsebot",
    "edwardkillick",
@@ -5959,6 +5971,7 @@
    "escacsgba_1",
    "esperengine",
    "eubos",
+   "extrapawncom",
    "fairytailregimebot",
    "falconengine",
    "fathzer-jchess",
@@ -5970,7 +5983,6 @@
    "fourcuriouspandas",
    "fschess-engine",
    "funfishbot",
-   "gaiachessengine",
    "garbobot",
    "geotsibot",
    "giffibot",
@@ -5993,6 +6005,7 @@
    "icarus-bot",
    "ilovecatgirl",
    "incipit_bot",
+   "intermediateplay2026",
    "ironrooks",
    "is_boss",
    "iskelt-corax",
@@ -6002,6 +6015,7 @@
    "jjugle",
    "joan_clone",
    "joey_chessengine",
+   "jongsungkim",
    "joshsbot",
    "jpg-bot",
    "jurdbird",
@@ -6038,6 +6052,7 @@
    "littlepatricia",
    "littleply",
    "louischess48-6k",
+   "lucy_ai",
    "lukebot",
    "lunaenginechess",
    "lynx_bot",
@@ -6168,6 +6183,7 @@
    "selimbabapro-bot",
    "sezgi_bot",
    "sf_bot1nok",
+   "shahmatbot",
    "shallowredbot",
    "sharpdubot",
    "shrevenbot",
@@ -6246,7 +6262,6 @@
    "uzenatch",
    "vanibot",
    "variantsbot",
-   "vi-rock-chess",
    "vic98lg",
    "vicentlittle",
    "vietnamesecoffee",
@@ -6262,7 +6277,6 @@
    "xen-0",
    "z-o_aspenlabs",
    "zanak-bot",
-   "zero-dot",
    "zeval_bot",
    "zion-bot",
    "zipfile_chess-bot"
