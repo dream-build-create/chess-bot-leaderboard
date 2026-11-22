@@ -87,7 +87,7 @@
   },
   "ahmedzhanov": {
    "first_seen": "2026-11-06",
-   "last_online": "2026-11-14",
+   "last_online": "2026-11-22",
    "username": "ahmedzhanov"
   },
   "ai-con": {
@@ -942,7 +942,7 @@
   },
   "chess-2-bot": {
    "first_seen": "2026-10-23",
-   "last_online": "2026-10-23",
+   "last_online": "2026-11-22",
    "username": "chess-2-bot"
   },
   "chess-dragon1": {
@@ -3192,7 +3192,7 @@
   },
   "matemakingmachine": {
    "first_seen": "2026-09-29",
-   "last_online": "2026-11-19",
+   "last_online": "2026-11-22",
    "username": "MateMakingMachine"
   },
   "matmoi": {
@@ -5852,7 +5852,7 @@
   }
  },
  "online": {
-  "checked_at": "2026-11-22T15:43:09Z",
+  "checked_at": "2026-11-22T16:43:10Z",
   "ids": [
    "aaronsengine",
    "abcd_engine",
@@ -5861,6 +5861,7 @@
    "aetherbot",
    "aethertal_bot",
    "aggressivestockfish",
+   "ahmedzhanov",
    "ai-con",
    "ailedbot",
    "ajedrezchamberi",
@@ -5875,6 +5876,7 @@
    "anti-bot",
    "aposeij",
    "approximationbot",
+   "aqueval-chess",
    "arasanx",
    "arkiplayschess",
    "artidigm_research",
@@ -5892,7 +5894,6 @@
    "blowfishlite",
    "bluemoonbot",
    "blujay-bot",
-   "blundeel67",
    "blundermind-01",
    "blundermind-m3",
    "bongaclang",
@@ -5906,6 +5907,7 @@
    "bothev",
    "botkill-v18x",
    "botkingteam33",
+   "botmonok",
    "bottios",
    "bottrain",
    "bretemabot",
@@ -5922,6 +5924,7 @@
    "chamberiajedrez",
    "charibot",
    "chatgpt5_5",
+   "chess-2-bot",
    "chess_set_manager",
    "chessgeniusbot",
    "chessiverse_ethan",
@@ -5977,6 +5980,7 @@
    "eigenmann-chess",
    "elexunix_chess_bot",
    "elmichess",
+   "enyobot",
    "escacsgba_1",
    "eubos",
    "extrapawncom",
@@ -6015,8 +6019,8 @@
    "hyperopic",
    "icarus-bot",
    "ilovecatgirl",
-   "implosio",
    "incipit_bot",
+   "intermediateplay2026",
    "ironrooks",
    "is_boss",
    "iskelt-corax",
@@ -6035,13 +6039,13 @@
    "kbelludoo",
    "kestrelchess",
    "kestrelstrike",
-   "kingbobiv",
    "kirinchessbot",
    "kopyto_dev",
    "lamprook",
    "laura-bot",
    "leelaalien",
    "leelaanyodds",
+   "leelajester",
    "leelaknightodds",
    "leelapieceodds",
    "leelaqueenforknight",
@@ -6086,6 +6090,7 @@
    "mate-in-thirty",
    "mate-in-twenty",
    "mate1-bot",
+   "matemakingmachine",
    "matmoi",
    "maybyen",
    "mega-noob-bot",
@@ -6139,7 +6144,6 @@
    "pawnrobot",
    "peacemaker-0_0",
    "peachfruit",
-   "pelanca",
    "peppermintpatty",
    "perl-gigachess",
    "philidor-142m",
@@ -6172,7 +6176,6 @@
    "resolutebot",
    "ribfish-bot",
    "robodoxadrez",
-   "rockingsuperstars",
    "rodent-iv",
    "rubyai",
    "rudim-bot",
@@ -6195,6 +6198,7 @@
    "silasly",
    "sim3million",
    "simonericafonso",
+   "simple_chess_lab",
    "simpleeval",
    "sj_norbot",
    "slate-engine",
@@ -6207,6 +6211,7 @@
    "squarefish-900",
    "sseh-c",
    "stardustengine",
+   "stargazerengine",
    "stickshark99",
    "stockconda",
    "stockcotsfish",
@@ -6283,7 +6288,6 @@
    "xen-0",
    "z-o_aspenlabs",
    "zanak-bot",
-   "zeno-bot",
    "zeval_bot",
    "zion-bot",
    "zipfile_chess-bot"
