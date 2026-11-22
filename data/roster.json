@@ -1447,7 +1447,7 @@
   },
   "devilfishalpha": {
    "first_seen": "2026-11-18",
-   "last_online": "2026-11-21",
+   "last_online": "2026-11-22",
    "username": "DevilfishAlpha"
   },
   "devilfishbot": {
@@ -2942,7 +2942,7 @@
   },
   "lucy_ai": {
    "first_seen": "2026-10-25",
-   "last_online": "2026-11-21",
+   "last_online": "2026-11-22",
    "username": "Lucy_AI"
   },
   "lukebot": {
@@ -5772,7 +5772,7 @@
   },
   "zero-dot": {
    "first_seen": "2026-11-20",
-   "last_online": "2026-11-21",
+   "last_online": "2026-11-22",
    "username": "ZERO-DOT"
   },
   "zero3-now": {
@@ -5822,7 +5822,7 @@
   }
  },
  "online": {
-  "checked_at": "2026-11-22T02:43:09Z",
+  "checked_at": "2026-11-22T03:43:09Z",
   "ids": [
    "abcd_engine",
    "abdcebot",
@@ -5844,7 +5844,6 @@
    "anti-anti",
    "anti-bot",
    "antibotv3-7",
-   "apexchess-bot",
    "aposeij",
    "approximationbot",
    "arasanx",
@@ -5932,7 +5931,7 @@
    "demen100ns-bot",
    "devchessplayer-bot",
    "devilfish3030",
-   "devilfishzerotwo",
+   "devilfishalpha",
    "diogenes-bot",
    "disrespect_fish",
    "dravox",
@@ -6034,6 +6033,7 @@
    "littlepatricia",
    "littleply",
    "louischess48-6k",
+   "lucy_ai",
    "lukebot",
    "lunaenginechess",
    "lynx_bot",
@@ -6049,6 +6049,7 @@
    "maia3-79m_2600",
    "maia3-79m_600",
    "maia3-79m_800",
+   "maia5",
    "maia9",
    "maia960-1600",
    "maia960-1900",
@@ -6151,7 +6152,6 @@
    "rudim-bot",
    "rust-in-pieces",
    "rust-in-pieces-nnue",
-   "saintengine",
    "sapling-bot",
    "sargon-1ply",
    "sargon-3ply",
@@ -6168,6 +6168,7 @@
    "silasly",
    "sim3million",
    "simonericafonso",
+   "simple_chess_lab",
    "simpleeval",
    "sj_norbot",
    "slate-engine",
@@ -6182,7 +6183,6 @@
    "squarefish-900",
    "sseh-c",
    "stardustengine",
-   "stargazerengine",
    "stickshark99",
    "stockconda",
    "stockcotsfish",
@@ -6254,6 +6254,7 @@
    "xen-0",
    "z-o_aspenlabs",
    "zanak-bot",
+   "zero-dot",
    "zeval_bot",
    "zion-bot",
    "zipfile_chess-bot"
