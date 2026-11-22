@@ -1062,7 +1062,7 @@
   },
   "chesstransformerbot": {
    "first_seen": "2026-10-08",
-   "last_online": "2026-11-21",
+   "last_online": "2026-11-22",
    "username": "ChessTransformerBot"
   },
   "cheszter": {
@@ -1714,6 +1714,11 @@
    "first_seen": "2026-09-27",
    "last_online": "2026-11-11",
    "username": "European_Chess_Bot"
+  },
+  "evancipher": {
+   "first_seen": "2026-11-22",
+   "last_online": "2026-11-22",
+   "username": "EvanCipher"
   },
   "fairytailregimebot": {
    "first_seen": "2026-11-09",
@@ -3432,7 +3437,7 @@
   },
   "musashi-thebot": {
    "first_seen": "2026-09-28",
-   "last_online": "2026-11-21",
+   "last_online": "2026-11-22",
    "username": "Musashi-thebot"
   },
   "mutusbot": {
@@ -5827,7 +5832,7 @@
   }
  },
  "online": {
-  "checked_at": "2026-11-22T06:43:08Z",
+  "checked_at": "2026-11-22T07:24:46Z",
   "ids": [
    "abcd_engine",
    "abdcebot",
@@ -5869,7 +5874,6 @@
    "blowfishlite",
    "bluemoonbot",
    "blujay-bot",
-   "blundeel67",
    "blundermind-01",
    "blundermind-m3",
    "bongaclang",
@@ -5898,11 +5902,13 @@
    "catriever",
    "charibot",
    "chatgpt5_5",
+   "chessgeniusbot",
    "chessiverse_ethan",
    "chessiverse_luc",
    "chessiverse_pawnza",
    "chessiverse_raak",
    "chessmindbot",
+   "chesstransformerbot",
    "cheszter",
    "chill4ce",
    "chiral_ebt",
@@ -5951,11 +5957,11 @@
    "eigenmann-chess",
    "elexunix_chess_bot",
    "elmichess",
-   "enyobot",
    "epimetheusbot",
    "escacsgba_1",
    "esperengine",
    "eubos",
+   "evancipher",
    "fairytailregimebot",
    "falconengine",
    "fathzer-jchess",
@@ -6079,6 +6085,7 @@
    "mrdeepseekgpt",
    "mrtonnerre",
    "mudskipperbot",
+   "musashi-thebot",
    "mutusbot",
    "my-bot",
    "mychessjava",
@@ -6182,6 +6189,7 @@
    "smartysprout",
    "smaugfincamo235",
    "solobot",
+   "sparkchessengine",
    "springerbot",
    "squarefish-900",
    "sseh-c",
@@ -6247,7 +6255,6 @@
    "void_bot",
    "vortex_bot",
    "vortexaurafarm",
-   "vyvrael-chess",
    "waldemar-the-elf",
    "walpurti",
    "weiawaga",
