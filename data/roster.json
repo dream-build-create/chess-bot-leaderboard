@@ -957,7 +957,7 @@
   },
   "chess3bot": {
    "first_seen": "2026-09-27",
-   "last_online": "2026-11-21",
+   "last_online": "2026-11-22",
    "username": "Chess3Bot"
   },
   "chess_know": {
@@ -5652,7 +5652,7 @@
   },
   "wedge_engine": {
    "first_seen": "2026-10-22",
-   "last_online": "2026-11-17",
+   "last_online": "2026-11-22",
    "username": "wedge_engine"
   },
   "weeebot": {
@@ -5872,7 +5872,7 @@
   }
  },
  "online": {
-  "checked_at": "2026-11-22T19:43:15Z",
+  "checked_at": "2026-11-22T19:57:12Z",
   "ids": [
    "aaronsengine",
    "abcd_engine",
@@ -5944,6 +5944,7 @@
    "chamberiajedrez",
    "charibot",
    "chatgpt5_5",
+   "chess3bot",
    "chessgeniusbot",
    "chessiverse_ethan",
    "chessiverse_luc",
@@ -5984,7 +5985,6 @@
    "deepsquare-ai",
    "demen100ns-bot",
    "devchessplayer-bot",
-   "devilfishbot",
    "devilfishzero",
    "diogenes-bot",
    "disrespect_fish",
@@ -6041,6 +6041,7 @@
    "ilovecatgirl",
    "incipit_bot",
    "intermediateplay2026",
+   "io-bot",
    "ironrooks",
    "is_boss",
    "iskelt-corax",
@@ -6107,7 +6108,6 @@
    "maia9",
    "maia960-1600",
    "maia960-1900",
-   "marlinchessbot",
    "martuni",
    "mate-in-forty",
    "mate-in-thirty",
@@ -6238,7 +6238,6 @@
    "stockconda",
    "stockcotsfish",
    "stockdory",
-   "stockfish_bot2",
    "stockfishlowdepth",
    "stockfishv19",
    "stockpapagei",
@@ -6268,7 +6267,6 @@
    "tomahawkbot",
    "tonyengine",
    "topasbot",
-   "torombot",
    "trainer-bot",
    "trenerhetman",
    "trinculobot",
@@ -6301,6 +6299,7 @@
    "vyvrael-chess",
    "waldemar-the-elf",
    "walpurti",
+   "wedge_engine",
    "weiawaga",
    "worserfish19",
    "worstfish",
