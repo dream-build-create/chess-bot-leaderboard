@@ -470,6 +470,11 @@
    "last_online": "2026-11-23",
    "username": "bernstein-4ply"
   },
+  "berrycow2": {
+   "first_seen": "2026-11-23",
+   "last_online": "2026-11-23",
+   "username": "berrycow2"
+  },
   "bertbot": {
    "first_seen": "2026-09-27",
    "last_online": "2026-11-23",
@@ -1324,6 +1329,11 @@
    "first_seen": "2026-11-06",
    "last_online": "2026-11-06",
    "username": "dan90113"
+  },
+  "darkdayonip": {
+   "first_seen": "2026-11-23",
+   "last_online": "2026-11-23",
+   "username": "DarkDayOnip"
   },
   "darkelectronbot": {
    "first_seen": "2026-09-27",
@@ -4230,6 +4240,11 @@
    "last_online": "2026-10-17",
    "username": "RandomKerbal"
   },
+  "rapidplayero": {
+   "first_seen": "2026-11-23",
+   "last_online": "2026-11-23",
+   "username": "RapidplayerO"
+  },
   "rascal1": {
    "first_seen": "2026-10-09",
    "last_online": "2026-11-01",
@@ -5877,7 +5892,7 @@
   },
   "zoo_amrica": {
    "first_seen": "2026-11-22",
-   "last_online": "2026-11-22",
+   "last_online": "2026-11-23",
    "username": "Zoo_amrica"
   },
   "zuhammet": {
@@ -5897,7 +5912,7 @@
   }
  },
  "online": {
-  "checked_at": "2026-11-23T11:43:09Z",
+  "checked_at": "2026-11-23T12:43:11Z",
   "ids": [
    "aaronsengine",
    "abcd_engine",
@@ -5906,6 +5921,7 @@
    "aetherbot",
    "aethertal_bot",
    "aggressivestockfish",
+   "ahmedzhanov",
    "ai-con",
    "ailedbot",
    "ajedrezchamberi",
@@ -5935,10 +5951,10 @@
    "belzedarian",
    "bernstein-2ply",
    "bernstein-4ply",
+   "berrycow2",
    "bertbot",
    "bfiedler-bot",
    "bitbitbot",
-   "black-bishop-kh",
    "bluemoonbot",
    "blujay-bot",
    "blundeel67",
@@ -5953,13 +5969,14 @@
    "bot64jaques",
    "bot_adario",
    "botkill-v18x",
+   "botkingteam33",
    "bottios",
    "bottrain",
    "bretemabot",
    "bubblebot2",
    "byte-knight",
+   "caesarbot",
    "caiporabot",
-   "caissa-x",
    "capabot",
    "casanchess-nnue",
    "catnail",
@@ -6001,6 +6018,7 @@
    "dala-2000",
    "dala-700",
    "dala-900",
+   "darkdayonip",
    "darkelectronbot",
    "darkonweakbot",
    "davidsguterbot",
@@ -6011,7 +6029,6 @@
    "devilfishbot",
    "diogenes-bot",
    "disrespect_fish",
-   "djxjdjzzc_bot",
    "dravox",
    "drawfish-reborn",
    "drewschessmachine",
@@ -6025,7 +6042,6 @@
    "elexunix_chess_bot",
    "elmichess",
    "escacsgba_1",
-   "esperengine",
    "eubos",
    "extrapawncom",
    "fairytailregimebot",
@@ -6041,7 +6057,6 @@
    "fschess-engine",
    "funfishbot",
    "garbobot",
-   "georgii_ai",
    "geotsibot",
    "giffibot",
    "gnu4u",
@@ -6065,13 +6080,11 @@
    "icarus-bot",
    "ilovecatgirl",
    "incipit_bot",
-   "io-bot",
    "ironrooks",
    "is_boss",
    "iskelt-corax",
    "jangine",
    "jester7777",
-   "jibbby",
    "jjugle",
    "joan_clone",
    "joey_chessengine",
@@ -6103,7 +6116,6 @@
    "leelarookodds",
    "leelatroll",
    "leelonardo",
-   "legotechniccontrolpl",
    "lentuschess",
    "levymaia",
    "lightning-762",
@@ -6115,6 +6127,7 @@
    "louischess48-6k",
    "lukebot",
    "lynx_bot",
+   "macbotitsmagic",
    "maia1",
    "maia3-79m_1000",
    "maia3-79m_1200",
@@ -6210,6 +6223,7 @@
    "quirkafleeg-pc",
    "r0bspierre",
    "radianceengine",
+   "rapidplayero",
    "raspfish",
    "ratsu-bot",
    "raven030",
@@ -6254,6 +6268,7 @@
    "smotherfishbot3",
    "smotherfishbot4",
    "solobot",
+   "sparkchessengine",
    "springerbot",
    "squarefish-900",
    "sseh-c",
@@ -6283,7 +6298,6 @@
    "theunknown-bot",
    "thunfisch-bot",
    "tigrament",
-   "tikifish",
    "tilapiabot",
    "tinyairun",
    "to299d",
@@ -6315,12 +6329,11 @@
    "uzenatch",
    "vanibot",
    "variantsbot",
-   "vic98lg",
+   "vi-rock-chess",
    "vicentlittle",
    "vidbot",
    "vietnamesecoffee",
    "virutor",
-   "void_bot",
    "vortex_bot",
    "vortexaurafarm",
    "vyvrael-chess",
@@ -6335,7 +6348,8 @@
    "zero-dot",
    "zeval_bot",
    "zion-bot",
-   "zipfile_chess-bot"
+   "zipfile_chess-bot",
+   "zoo_amrica"
   ]
  },
  "schema_version": 1
