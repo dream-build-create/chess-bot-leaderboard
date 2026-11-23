@@ -7,7 +7,7 @@
   },
   "aaronsengine": {
    "first_seen": "2026-09-27",
-   "last_online": "2026-11-22",
+   "last_online": "2026-11-23",
    "username": "AaronsEngine"
   },
   "aathena101": {
@@ -507,7 +507,7 @@
   },
   "black-bishop-kh": {
    "first_seen": "2026-09-28",
-   "last_online": "2026-11-19",
+   "last_online": "2026-11-23",
    "username": "Black-Bishop-Kh"
   },
   "black-icebot": {
@@ -1452,7 +1452,7 @@
   },
   "devilfishbot": {
    "first_seen": "2026-11-11",
-   "last_online": "2026-11-22",
+   "last_online": "2026-11-23",
    "username": "Devilfishbot"
   },
   "devilfishzero": {
@@ -2617,7 +2617,7 @@
   },
   "klak_engine": {
    "first_seen": "2026-11-14",
-   "last_online": "2026-11-16",
+   "last_online": "2026-11-23",
    "username": "Klak_Engine"
   },
   "klevai": {
@@ -4907,7 +4907,7 @@
   },
   "sparkfish-hce": {
    "first_seen": "2026-11-19",
-   "last_online": "2026-11-21",
+   "last_online": "2026-11-23",
    "username": "SparkFish-HCE"
   },
   "spearfast": {
@@ -5252,7 +5252,7 @@
   },
   "theunknown-bot": {
    "first_seen": "2026-11-21",
-   "last_online": "2026-11-22",
+   "last_online": "2026-11-23",
    "username": "TheUnknown-BOT"
   },
   "thevariantsnormalbot": {
@@ -5897,14 +5897,16 @@
   }
  },
  "online": {
-  "checked_at": "2026-11-23T09:43:08Z",
+  "checked_at": "2026-11-23T10:43:09Z",
   "ids": [
+   "aaronsengine",
    "abcd_engine",
    "abdcebot",
    "aconcaguabot",
    "aetherbot",
    "aethertal_bot",
    "aggressivestockfish",
+   "ahmedzhanov",
    "ai-con",
    "ailedbot",
    "ajedrezchamberi",
@@ -5937,6 +5939,7 @@
    "bertbot",
    "bfiedler-bot",
    "bitbitbot",
+   "black-bishop-kh",
    "bluemoonbot",
    "blujay-bot",
    "blundermind-01",
@@ -5949,7 +5952,6 @@
    "bot5551",
    "bot64jaques",
    "bot_adario",
-   "bothev",
    "botkill-v18x",
    "botmonok",
    "bottios",
@@ -5957,8 +5959,6 @@
    "bretemabot",
    "bubblebot2",
    "byte-knight",
-   "c-t-r-l",
-   "caesarbot",
    "caiporabot",
    "capabot",
    "casanchess-nnue",
@@ -6003,13 +6003,13 @@
    "dala-700",
    "dala-900",
    "darkelectronbot",
-   "darkonbot",
    "darkonweakbot",
    "davidsguterbot",
    "deepbecky",
    "deepsquare-ai",
    "demen100ns-bot",
    "devchessplayer-bot",
+   "devilfishbot",
    "diogenes-bot",
    "disrespect_fish",
    "djxjdjzzc_bot",
@@ -6031,6 +6031,7 @@
    "fairytailregimebot",
    "falconengine",
    "fathzer-jchess",
+   "felipe_bot_53",
    "fenrir-bot",
    "fenrirbot",
    "fivejoyouspandas",
@@ -6064,7 +6065,6 @@
    "icarus-bot",
    "ilovecatgirl",
    "incipit_bot",
-   "io-bot",
    "ironrooks",
    "is_boss",
    "iskelt-corax",
@@ -6083,8 +6083,10 @@
    "kbelludoo",
    "kestrelchess",
    "kestrelstrike",
+   "kingbobiv",
    "kingofendgamesbot",
    "kirinchessbot",
+   "klak_engine",
    "kopyto_dev",
    "lamprook",
    "laura-bot",
@@ -6092,7 +6094,6 @@
    "leelaanyodds",
    "leelajester",
    "leelaknightodds",
-   "leelamultiposs",
    "leelapieceodds",
    "leelaqueenforknight",
    "leelaqueenodds",
@@ -6113,7 +6114,6 @@
    "lukebot",
    "lunaenginechess",
    "lynx_bot",
-   "macbotitsmagic",
    "maia1",
    "maia3-79m_1000",
    "maia3-79m_1200",
@@ -6157,6 +6157,7 @@
    "mychessjava",
    "nanozeroorg",
    "ndr1sn",
+   "neryba",
    "neurosocute",
    "nexastrat",
    "next_uzbek",
@@ -6218,13 +6219,11 @@
    "renegadeengine",
    "resolutebot",
    "ribfish-bot",
-   "robodoxadrez",
    "rookrusty",
    "rubyai",
    "rudim-bot",
    "rust-in-pieces",
    "rust-in-pieces-nnue",
-   "saintengine",
    "sapling-bot",
    "sargon-1ply",
    "sargon-3ply",
@@ -6253,6 +6252,7 @@
    "smotherfishbot3",
    "smotherfishbot4",
    "solobot",
+   "sparkfish-hce",
    "springerbot",
    "squarefish-900",
    "sseh-c",
@@ -6279,6 +6279,7 @@
    "tente-v2",
    "tente8x",
    "thechessblazer",
+   "theunknown-bot",
    "thunfisch-bot",
    "tigrament",
    "tikifish",
@@ -6313,8 +6314,6 @@
    "uzenatch",
    "vanibot",
    "variantsbot",
-   "vi-rock-chess",
-   "vic98lg",
    "vicentlittle",
    "vidbot",
    "vietnamesecoffee",
