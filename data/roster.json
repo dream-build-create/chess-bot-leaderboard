@@ -2097,7 +2097,7 @@
   },
   "guitarfish-engine": {
    "first_seen": "2026-09-28",
-   "last_online": "2026-11-02",
+   "last_online": "2026-11-23",
    "username": "guitarfish-engine"
   },
   "guofish": {
@@ -2577,7 +2577,7 @@
   },
   "kingofendgamesbot": {
    "first_seen": "2026-11-22",
-   "last_online": "2026-11-22",
+   "last_online": "2026-11-23",
    "username": "KingofEndgamesBOT"
   },
   "kingzbot": {
@@ -3452,7 +3452,7 @@
   },
   "munzurbot2": {
    "first_seen": "2026-10-30",
-   "last_online": "2026-11-22",
+   "last_online": "2026-11-23",
    "username": "MunzurBOT2"
   },
   "muralwingsbot": {
@@ -3462,7 +3462,7 @@
   },
   "musashi-thebot": {
    "first_seen": "2026-09-28",
-   "last_online": "2026-11-22",
+   "last_online": "2026-11-23",
    "username": "Musashi-thebot"
   },
   "mutusbot": {
@@ -4399,6 +4399,11 @@
    "first_seen": "2026-11-18",
    "last_online": "2026-11-18",
    "username": "RONALDO-CHESS-ROBOT"
+  },
+  "rookrusty": {
+   "first_seen": "2026-11-23",
+   "last_online": "2026-11-23",
+   "username": "RookRusty"
   },
   "ropobot": {
    "first_seen": "2026-10-17",
@@ -5892,7 +5897,7 @@
   }
  },
  "online": {
-  "checked_at": "2026-11-23T04:43:09Z",
+  "checked_at": "2026-11-23T05:43:10Z",
   "ids": [
    "abcd_engine",
    "abdcebot",
@@ -5938,7 +5943,6 @@
    "bobby_pcolla",
    "bongaclang",
    "boris-trapsky",
-   "borkatower",
    "bot1e",
    "bot1nokk",
    "bot5551",
@@ -5952,7 +5956,6 @@
    "bubblebot2",
    "byte-knight",
    "c-t-r-l",
-   "caesarbot",
    "caiporabot",
    "capabot",
    "casanchess-nnue",
@@ -5963,6 +5966,7 @@
    "cheng-4",
    "cheng-4-nn",
    "chess3bot",
+   "chess_set_manager",
    "chesschildren",
    "chessiverse_ethan",
    "chessiverse_luc",
@@ -6005,7 +6009,6 @@
    "devilfishzerotwo",
    "diogenes-bot",
    "disrespect_fish",
-   "djxjdjzzc_bot",
    "dravox",
    "drawfish-reborn",
    "drewschessmachine",
@@ -6042,9 +6045,9 @@
    "gopandafish",
    "grail-bot",
    "grindfish",
+   "guitarfish-engine",
    "hackerchessbot",
    "halcyonbot",
-   "hardrok",
    "homoludensbot",
    "honzovy-sachy",
    "honzovy-sachy-2",
@@ -6076,7 +6079,7 @@
    "kbelludoo",
    "kestrelchess",
    "kestrelstrike",
-   "kingbobiv",
+   "kingofendgamesbot",
    "kirinchessbot",
    "kopyto_dev",
    "lamprook",
@@ -6092,7 +6095,6 @@
    "leelarookodds",
    "leelatroll",
    "leelonardo",
-   "legotechniccontrolpl",
    "lentuschess",
    "levymaia",
    "lightning-762",
@@ -6130,7 +6132,6 @@
    "mate1-bot",
    "matmoi",
    "maybyen",
-   "mcvoid-bot",
    "mega-noob-bot",
    "melsh_bot",
    "michaamateurbot",
@@ -6146,6 +6147,8 @@
    "mrdeepseekgpt",
    "mrtonnerre",
    "mudskipperbot",
+   "munzurbot2",
+   "musashi-thebot",
    "mutusbot",
    "mychessjava",
    "mzero_dev",
@@ -6215,6 +6218,7 @@
    "resolutebot",
    "ribfish-bot",
    "robodoxadrez",
+   "rookrusty",
    "rubyai",
    "rudim-bot",
    "rust-in-pieces",
@@ -6234,14 +6238,13 @@
    "shrevenbot",
    "silasly",
    "sim3million",
-   "simple_chess_lab",
+   "simonericafonso",
    "simpleeval",
    "sj_norbot",
    "slate-engine",
    "sleepish",
    "sleepmindengine",
    "smartysprout",
-   "smotherfishbot1",
    "smotherfishbot2",
    "smotherfishbot3",
    "smotherfishbot4",
@@ -6276,7 +6279,6 @@
    "throrbjorn",
    "thunfisch-bot",
    "tigrament",
-   "tikifish",
    "tilapiabot",
    "tinyairun",
    "to299d",
@@ -6312,7 +6314,6 @@
    "vidbot",
    "vietnamesecoffee",
    "virutor",
-   "void_bot",
    "vortex_bot",
    "vortexaurafarm",
    "vyvrael-chess",
@@ -6324,7 +6325,6 @@
    "xen-0",
    "zanak-bot",
    "zeval_bot",
-   "zfishbot",
    "zion-bot",
    "zipfile_chess-bot"
   ]
