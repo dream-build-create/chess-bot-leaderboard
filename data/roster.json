@@ -2340,6 +2340,11 @@
    "last_online": "2026-11-10",
    "username": "IRAN_F72"
   },
+  "ironbishop_bot": {
+   "first_seen": "2026-11-23",
+   "last_online": "2026-11-23",
+   "username": "IronBishop_BOT"
+  },
   "ironfang": {
    "first_seen": "2026-10-24",
    "last_online": "2026-11-17",
@@ -3342,7 +3347,7 @@
   },
   "mind_bot": {
    "first_seen": "2026-10-03",
-   "last_online": "2026-11-22",
+   "last_online": "2026-11-23",
    "username": "Mind_BOT"
   },
   "minibotapi": {
@@ -3597,7 +3602,7 @@
   },
   "newengine2022": {
    "first_seen": "2026-10-06",
-   "last_online": "2026-11-22",
+   "last_online": "2026-11-23",
    "username": "newengine2022"
   },
   "newtsbot": {
@@ -3827,7 +3832,7 @@
   },
   "paconbot": {
    "first_seen": "2026-11-05",
-   "last_online": "2026-11-22",
+   "last_online": "2026-11-23",
    "username": "PaconBot"
   },
   "pacu_bot": {
@@ -3927,7 +3932,7 @@
   },
   "pelanca": {
    "first_seen": "2026-11-20",
-   "last_online": "2026-11-22",
+   "last_online": "2026-11-23",
    "username": "Pelanca"
   },
   "peppermintpatty": {
@@ -4604,6 +4609,11 @@
    "first_seen": "2026-09-27",
    "last_online": "2026-11-23",
    "username": "scipio-bot"
+  },
+  "sdsfaa": {
+   "first_seen": "2026-11-23",
+   "last_online": "2026-11-23",
+   "username": "sdsfaa"
   },
   "sebvaderbot": {
    "first_seen": "2026-10-11",
@@ -5917,7 +5927,7 @@
   }
  },
  "online": {
-  "checked_at": "2026-11-23T13:43:09Z",
+  "checked_at": "2026-11-23T14:43:12Z",
   "ids": [
    "aaronsengine",
    "abcd_engine",
@@ -5976,6 +5986,7 @@
    "bot_adario",
    "botkill-v18x",
    "botkingteam33",
+   "botmonok",
    "bottios",
    "bottrain",
    "bretemabot",
@@ -6003,7 +6014,6 @@
    "cheszter",
    "chill4ce",
    "chiral_ebt",
-   "chrusty",
    "cinder-bot",
    "classical-leela",
    "claude_bot",
@@ -6027,6 +6037,7 @@
    "dala-900",
    "darkdayonip",
    "darkelectronbot",
+   "darkonbot",
    "darkonweakbot",
    "davidsguterbot",
    "deepbecky",
@@ -6047,7 +6058,6 @@
    "eigenmann-chess",
    "elexunix_chess_bot",
    "elmichess",
-   "enyo_v2",
    "escacsgba_1",
    "esperengine",
    "eubos",
@@ -6065,9 +6075,9 @@
    "fourcuriouspandas",
    "fschess-engine",
    "funfishbot",
-   "gambitonlybot",
    "garbobot",
    "geotsibot",
+   "ghidorah_x",
    "giffibot",
    "gnu4u",
    "goldfish-engine",
@@ -6091,12 +6101,12 @@
    "icarus-bot",
    "ilovecatgirl",
    "incipit_bot",
-   "io-bot",
+   "ironbishop_bot",
    "ironrooks",
    "is_boss",
    "iskelt-corax",
    "jangine",
-   "jester7777",
+   "jibbby",
    "jjugle",
    "joan_clone",
    "joey_chessengine",
@@ -6113,7 +6123,6 @@
    "kingofendgamesbot",
    "kirinchessbot",
    "kittyenginev5",
-   "klak_engine",
    "kopyto_dev",
    "lamprook",
    "laura-bot",
@@ -6169,6 +6178,7 @@
    "michaamateurbot",
    "milanbot",
    "mimirbot",
+   "mind_bot",
    "minimaxpro",
    "minopponentmoves",
    "mithandros",
@@ -6187,6 +6197,7 @@
    "ndr1sn",
    "neryba",
    "neurosocute",
+   "newengine2022",
    "nexastrat",
    "next_uzbek",
    "nibbleknight",
@@ -6197,12 +6208,14 @@
    "nittedal",
    "nnueisaura",
    "noabot",
+   "noksiy",
    "o-rei-cx",
    "octarine-bot",
    "odonata-bot",
    "onechessbot",
    "onezenpanda",
    "oxide-eg",
+   "paconbot",
    "pacu_bot",
    "pangubot",
    "panic-fish",
@@ -6214,6 +6227,7 @@
    "pawnrobot",
    "peacemaker-0_0",
    "peachfruit",
+   "pelanca",
    "peppermintpatty",
    "perl-gigachess",
    "phalanx-xxv",
@@ -6261,6 +6275,7 @@
    "scalaqueen",
    "schnecken_bot",
    "scipio-bot",
+   "sdsfaa",
    "seitogakatsu",
    "sezgi_bot",
    "sf_bot1nok",
@@ -6290,7 +6305,6 @@
    "stockfishv19",
    "stockpapagei",
    "streamervschat",
-   "stroberibot",
    "stronggoliath",
    "stupidfishbotbydscs",
    "styx-chess",
@@ -6338,7 +6352,6 @@
    "uzenatch",
    "vanibot",
    "variantsbot",
-   "veloct_ultimate",
    "vic98lg",
    "vicentlittle",
    "vidbot",
