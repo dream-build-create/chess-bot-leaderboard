@@ -237,7 +237,7 @@
   },
   "aqueval-chess": {
    "first_seen": "2026-11-06",
-   "last_online": "2026-11-22",
+   "last_online": "2026-11-23",
    "username": "aqueval-chess"
   },
   "arabicahce": {
@@ -1927,7 +1927,7 @@
   },
   "gambitonlybot": {
    "first_seen": "2026-09-28",
-   "last_online": "2026-11-22",
+   "last_online": "2026-11-23",
    "username": "GambitOnlyBot"
   },
   "gambittai": {
@@ -4810,6 +4810,21 @@
    "last_online": "2026-11-23",
    "username": "SmotherfishBot1"
   },
+  "smotherfishbot2": {
+   "first_seen": "2026-11-23",
+   "last_online": "2026-11-23",
+   "username": "SmotherfishBot2"
+  },
+  "smotherfishbot3": {
+   "first_seen": "2026-11-23",
+   "last_online": "2026-11-23",
+   "username": "SmotherfishBot3"
+  },
+  "smotherfishbot4": {
+   "first_seen": "2026-11-23",
+   "last_online": "2026-11-23",
+   "username": "SmotherfishBot4"
+  },
   "snaky-bot": {
    "first_seen": "2026-10-16",
    "last_online": "2026-11-19",
@@ -5877,7 +5892,7 @@
   }
  },
  "online": {
-  "checked_at": "2026-11-23T00:43:09Z",
+  "checked_at": "2026-11-23T01:43:10Z",
   "ids": [
    "abcd_engine",
    "abdcebot",
@@ -5901,6 +5916,7 @@
    "anti-bot",
    "aposeij",
    "approximationbot",
+   "aqueval-chess",
    "arasanx",
    "arkiplayschess",
    "artidigm_research",
@@ -5960,7 +5976,6 @@
    "chessmindbot",
    "cheszter",
    "chill4ce",
-   "chiral_ebt",
    "chmod-bot",
    "cinder-bot",
    "classical-leela",
@@ -5987,7 +6002,6 @@
    "darkonbot",
    "darkonweakbot",
    "davidsguterbot",
-   "debzero",
    "deepbecky",
    "deepsquare-ai",
    "demen100ns-bot",
@@ -6022,6 +6036,7 @@
    "fourcuriouspandas",
    "fschess-engine",
    "funfishbot",
+   "gambitonlybot",
    "garbobot",
    "geotsibot",
    "ghidorah_x",
@@ -6090,7 +6105,6 @@
    "lightning-762",
    "likeawizard-bot",
    "lilitbot",
-   "linenetbot",
    "little-0",
    "littlepatricia",
    "littleply",
@@ -6234,6 +6248,9 @@
    "sleepmindengine",
    "smartysprout",
    "smotherfishbot1",
+   "smotherfishbot2",
+   "smotherfishbot3",
+   "smotherfishbot4",
    "solobot",
    "sparkchessengine",
    "springerbot",
@@ -6313,7 +6330,6 @@
    "worserfish19",
    "worstfish",
    "xen-0",
-   "z-o_aspenlabs",
    "zanak-bot",
    "zeval_bot",
    "zfishbot",
