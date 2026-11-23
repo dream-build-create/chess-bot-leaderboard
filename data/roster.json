@@ -1002,7 +1002,7 @@
   },
   "chessgeniusbot": {
    "first_seen": "2026-10-02",
-   "last_online": "2026-11-22",
+   "last_online": "2026-11-23",
    "username": "ChessGeniusBot"
   },
   "chessiverse_ethan": {
@@ -1062,7 +1062,7 @@
   },
   "chesstransformerbot": {
    "first_seen": "2026-10-08",
-   "last_online": "2026-11-22",
+   "last_online": "2026-11-23",
    "username": "ChessTransformerBot"
   },
   "cheszter": {
@@ -5837,7 +5837,7 @@
   },
   "zero-dot": {
    "first_seen": "2026-11-20",
-   "last_online": "2026-11-22",
+   "last_online": "2026-11-23",
    "username": "ZERO-DOT"
   },
   "zero3-now": {
@@ -5897,7 +5897,7 @@
   }
  },
  "online": {
-  "checked_at": "2026-11-23T06:43:12Z",
+  "checked_at": "2026-11-23T07:43:10Z",
   "ids": [
    "abcd_engine",
    "abdcebot",
@@ -5961,7 +5961,6 @@
    "caiporabot",
    "capabot",
    "casanchess-nnue",
-   "cassidychess-bot",
    "catnail",
    "catriever",
    "charibot",
@@ -5970,11 +5969,13 @@
    "chess3bot",
    "chess_set_manager",
    "chesschildren",
+   "chessgeniusbot",
    "chessiverse_ethan",
    "chessiverse_luc",
    "chessiverse_pawnza",
    "chessiverse_raak",
    "chessmindbot",
+   "chesstransformerbot",
    "cheszter",
    "chill4ce",
    "chiral_ebt",
@@ -6024,7 +6025,6 @@
    "edwardkillick",
    "eigenmann-chess",
    "elexunix_chess_bot",
-   "elmichess",
    "escacsgba_1",
    "eubos",
    "extrapawncom",
@@ -6075,6 +6075,7 @@
    "jjugle",
    "joan_clone",
    "joey_chessengine",
+   "jongsungkim",
    "joshsbot",
    "jpg-bot",
    "jurdbird",
@@ -6084,7 +6085,6 @@
    "kbelludoo",
    "kestrelchess",
    "kestrelstrike",
-   "kingbobiv",
    "kingofendgamesbot",
    "kirinchessbot",
    "kopyto_dev",
@@ -6111,7 +6111,6 @@
    "littlepatricia",
    "littleply",
    "louischess48-6k",
-   "lucy_ai",
    "lukebot",
    "lunaenginechess",
    "lynx_bot",
@@ -6158,10 +6157,8 @@
    "musashi-thebot",
    "mutusbot",
    "mychessjava",
-   "mzero_dev",
    "nanozeroorg",
    "ndr1sn",
-   "neryba",
    "neurosocute",
    "nexastrat",
    "next_uzbek",
@@ -6247,6 +6244,7 @@
    "silasly",
    "sim3million",
    "simonericafonso",
+   "simple_chess_lab",
    "simpleeval",
    "sj_norbot",
    "slate-engine",
@@ -6311,6 +6309,7 @@
    "usunfish-l1",
    "usunfish-l7",
    "utrain-chess-bot",
+   "uxugin-bot",
    "uzenatch",
    "vanibot",
    "variantsbot",
@@ -6331,6 +6330,7 @@
    "worstfish",
    "xen-0",
    "zanak-bot",
+   "zero-dot",
    "zeval_bot",
    "zion-bot",
    "zipfile_chess-bot"
