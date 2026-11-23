@@ -107,7 +107,7 @@
   },
   "ajedrezchamberi": {
    "first_seen": "2026-09-29",
-   "last_online": "2026-11-22",
+   "last_online": "2026-11-23",
    "username": "AjedrezChamberi"
   },
   "alarm2001": {
@@ -212,7 +212,7 @@
   },
   "antibotv3-7": {
    "first_seen": "2026-10-14",
-   "last_online": "2026-11-22",
+   "last_online": "2026-11-23",
    "username": "AntiBotV3-7"
   },
   "apexbot": {
@@ -887,7 +887,7 @@
   },
   "chamberiajedrez": {
    "first_seen": "2026-09-29",
-   "last_online": "2026-11-22",
+   "last_online": "2026-11-23",
    "username": "ChamberiAjedrez"
   },
   "chaotong_engine": {
@@ -1957,7 +1957,7 @@
   },
   "georgii_ai": {
    "first_seen": "2026-09-28",
-   "last_online": "2026-11-20",
+   "last_online": "2026-11-23",
    "username": "georgii_ai"
   },
   "geotsibot": {
@@ -3017,7 +3017,7 @@
   },
   "macbotitsmagic": {
    "first_seen": "2026-11-17",
-   "last_online": "2026-11-21",
+   "last_online": "2026-11-23",
    "username": "macbotitsmagic"
   },
   "mackbot": {
@@ -3877,7 +3877,7 @@
   },
   "pawnopenings": {
    "first_seen": "2026-11-05",
-   "last_online": "2026-11-22",
+   "last_online": "2026-11-23",
    "username": "PawnOpenings"
   },
   "pawnrobot": {
@@ -5347,7 +5347,7 @@
   },
   "torombot": {
    "first_seen": "2026-09-28",
-   "last_online": "2026-11-22",
+   "last_online": "2026-11-23",
    "username": "ToromBot"
   },
   "torre-s3": {
@@ -5897,7 +5897,7 @@
   }
  },
  "online": {
-  "checked_at": "2026-11-23T08:43:16Z",
+  "checked_at": "2026-11-23T09:43:08Z",
   "ids": [
    "abcd_engine",
    "abdcebot",
@@ -5905,9 +5905,9 @@
    "aetherbot",
    "aethertal_bot",
    "aggressivestockfish",
-   "ahmedzhanov",
    "ai-con",
    "ailedbot",
+   "ajedrezchamberi",
    "alarm2001",
    "alehkine_cat",
    "alexandrya",
@@ -5919,6 +5919,7 @@
    "annie_archy",
    "anti-anti",
    "anti-bot",
+   "antibotv3-7",
    "aposeij",
    "approximationbot",
    "aqueval-chess",
@@ -5938,7 +5939,6 @@
    "bitbitbot",
    "bluemoonbot",
    "blujay-bot",
-   "blundeel67",
    "blundermind-01",
    "blundermind-m3",
    "bobby_pcolla",
@@ -5964,6 +5964,7 @@
    "casanchess-nnue",
    "catnail",
    "catriever",
+   "chamberiajedrez",
    "charibot",
    "cheng-4",
    "cheng-4-nn",
@@ -6009,7 +6010,6 @@
    "deepsquare-ai",
    "demen100ns-bot",
    "devchessplayer-bot",
-   "devilfishzerotwo",
    "diogenes-bot",
    "disrespect_fish",
    "djxjdjzzc_bot",
@@ -6031,7 +6031,6 @@
    "fairytailregimebot",
    "falconengine",
    "fathzer-jchess",
-   "felipe_bot_53",
    "fenrir-bot",
    "fenrirbot",
    "fivejoyouspandas",
@@ -6041,9 +6040,9 @@
    "fschess-engine",
    "funfishbot",
    "garbobot",
+   "georgii_ai",
    "geotsibot",
    "giffibot",
-   "glorbo_evermorrow",
    "gnu4u",
    "goldfish-engine",
    "goopis",
@@ -6114,6 +6113,7 @@
    "lukebot",
    "lunaenginechess",
    "lynx_bot",
+   "macbotitsmagic",
    "maia1",
    "maia3-79m_1000",
    "maia3-79m_1200",
@@ -6181,6 +6181,7 @@
    "patriciabot",
    "patzerbot135",
    "pawn_git",
+   "pawnopenings",
    "pawnrobot",
    "peacemaker-0_0",
    "peachfruit",
@@ -6205,8 +6206,6 @@
    "pzchessbot",
    "quartzthechessbot",
    "quirkafleeg-pc",
-   "quirkafleeg-zx48k",
-   "quirkafleeg-zxnext",
    "r0bspierre",
    "radianceengine",
    "raspfish",
@@ -6225,6 +6224,7 @@
    "rudim-bot",
    "rust-in-pieces",
    "rust-in-pieces-nnue",
+   "saintengine",
    "sapling-bot",
    "sargon-1ply",
    "sargon-3ply",
@@ -6241,12 +6241,13 @@
    "shrevenbot",
    "silasly",
    "sim3million",
-   "simple_chess_lab",
+   "simonericafonso",
    "simpleeval",
    "sj_norbot",
    "slate-engine",
    "sleepish",
    "sleepmindengine",
+   "smartysprout",
    "smotherfishbot1",
    "smotherfishbot2",
    "smotherfishbot3",
@@ -6288,6 +6289,7 @@
    "tomahawkbot",
    "tonyengine",
    "topasbot",
+   "torombot",
    "trainer-bot",
    "trenerhetman",
    "trinculobot",
@@ -6328,7 +6330,6 @@
    "worstfish",
    "xen-0",
    "zanak-bot",
-   "zero-dot",
    "zeval_bot",
    "zion-bot",
    "zipfile_chess-bot"
