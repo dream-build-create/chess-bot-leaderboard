@@ -802,7 +802,7 @@
   },
   "caissa-x": {
    "first_seen": "2026-09-29",
-   "last_online": "2026-11-21",
+   "last_online": "2026-11-23",
    "username": "caissa-x"
   },
   "calciumengine": {
@@ -1697,7 +1697,7 @@
   },
   "esperengine": {
    "first_seen": "2026-11-18",
-   "last_online": "2026-11-22",
+   "last_online": "2026-11-23",
    "username": "EsperEngine"
   },
   "eubos": {
@@ -2407,7 +2407,7 @@
   },
   "jester7777": {
    "first_seen": "2026-11-11",
-   "last_online": "2026-11-22",
+   "last_online": "2026-11-23",
    "username": "jester7777"
   },
   "jesterchessrobot": {
@@ -3242,7 +3242,7 @@
   },
   "mcdonalds1955": {
    "first_seen": "2026-09-27",
-   "last_online": "2026-11-20",
+   "last_online": "2026-11-23",
    "username": "McDonalds1955"
   },
   "mchess-engine": {
@@ -4667,7 +4667,7 @@
   },
   "shayanytbot": {
    "first_seen": "2026-11-22",
-   "last_online": "2026-11-22",
+   "last_online": "2026-11-23",
    "username": "shayanYTBOT"
   },
   "shrevenbot": {
@@ -5647,7 +5647,7 @@
   },
   "wannalearnbot": {
    "first_seen": "2026-09-27",
-   "last_online": "2026-11-22",
+   "last_online": "2026-11-23",
    "username": "wannalearnbot"
   },
   "ward64-alpha": {
@@ -5897,7 +5897,7 @@
   }
  },
  "online": {
-  "checked_at": "2026-11-23T10:43:09Z",
+  "checked_at": "2026-11-23T11:43:09Z",
   "ids": [
    "aaronsengine",
    "abcd_engine",
@@ -5906,7 +5906,6 @@
    "aetherbot",
    "aethertal_bot",
    "aggressivestockfish",
-   "ahmedzhanov",
    "ai-con",
    "ailedbot",
    "ajedrezchamberi",
@@ -5942,6 +5941,7 @@
    "black-bishop-kh",
    "bluemoonbot",
    "blujay-bot",
+   "blundeel67",
    "blundermind-01",
    "blundermind-m3",
    "bobby_pcolla",
@@ -5953,13 +5953,13 @@
    "bot64jaques",
    "bot_adario",
    "botkill-v18x",
-   "botmonok",
    "bottios",
    "bottrain",
    "bretemabot",
    "bubblebot2",
    "byte-knight",
    "caiporabot",
+   "caissa-x",
    "capabot",
    "casanchess-nnue",
    "catnail",
@@ -5969,7 +5969,6 @@
    "cheng-4",
    "cheng-4-nn",
    "chess3bot",
-   "chess_set_manager",
    "chesschildren",
    "chessgeniusbot",
    "chessiverse_ethan",
@@ -6026,6 +6025,7 @@
    "elexunix_chess_bot",
    "elmichess",
    "escacsgba_1",
+   "esperengine",
    "eubos",
    "extrapawncom",
    "fairytailregimebot",
@@ -6065,15 +6065,16 @@
    "icarus-bot",
    "ilovecatgirl",
    "incipit_bot",
+   "io-bot",
    "ironrooks",
    "is_boss",
    "iskelt-corax",
    "jangine",
+   "jester7777",
    "jibbby",
    "jjugle",
    "joan_clone",
    "joey_chessengine",
-   "jongsungkim",
    "joshsbot",
    "jpg-bot",
    "jurdbird",
@@ -6094,6 +6095,7 @@
    "leelaanyodds",
    "leelajester",
    "leelaknightodds",
+   "leelamultiposs",
    "leelapieceodds",
    "leelaqueenforknight",
    "leelaqueenodds",
@@ -6112,7 +6114,6 @@
    "littleply",
    "louischess48-6k",
    "lukebot",
-   "lunaenginechess",
    "lynx_bot",
    "maia1",
    "maia3-79m_1000",
@@ -6130,13 +6131,13 @@
    "maia9",
    "maia960-1600",
    "maia960-1900",
-   "marlinchessbot",
    "martuni",
    "mate-in-forty",
    "mate-in-thirty",
    "mate-in-twenty",
    "mate1-bot",
    "matmoi",
+   "mcdonalds1955",
    "mega-noob-bot",
    "melsh_bot",
    "michaamateurbot",
@@ -6237,6 +6238,7 @@
    "shahmatbot",
    "shallowredbot",
    "sharpdubot",
+   "shayanytbot",
    "shrevenbot",
    "silasly",
    "sim3million",
@@ -6252,7 +6254,6 @@
    "smotherfishbot3",
    "smotherfishbot4",
    "solobot",
-   "sparkfish-hce",
    "springerbot",
    "squarefish-900",
    "sseh-c",
@@ -6314,6 +6315,7 @@
    "uzenatch",
    "vanibot",
    "variantsbot",
+   "vic98lg",
    "vicentlittle",
    "vidbot",
    "vietnamesecoffee",
@@ -6324,11 +6326,13 @@
    "vyvrael-chess",
    "waldemar-the-elf",
    "walpurti",
+   "wannalearnbot",
    "weiawaga",
    "worserfish19",
    "worstfish",
    "xen-0",
    "zanak-bot",
+   "zero-dot",
    "zeval_bot",
    "zion-bot",
    "zipfile_chess-bot"
