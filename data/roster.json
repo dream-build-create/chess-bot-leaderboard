@@ -502,7 +502,7 @@
   },
   "bit-fish8": {
    "first_seen": "2026-11-01",
-   "last_online": "2026-11-22",
+   "last_online": "2026-11-23",
    "username": "Bit-Fish8"
   },
   "bitbitbot": {
@@ -1102,7 +1102,7 @@
   },
   "chrusty": {
    "first_seen": "2026-09-28",
-   "last_online": "2026-11-21",
+   "last_online": "2026-11-23",
    "username": "chrusty"
   },
   "cinder-bot": {
@@ -1662,7 +1662,7 @@
   },
   "enyo_v2": {
    "first_seen": "2026-11-19",
-   "last_online": "2026-11-19",
+   "last_online": "2026-11-23",
    "username": "Enyo_v2"
   },
   "enyobot": {
@@ -1802,7 +1802,7 @@
   },
   "fetacompli": {
    "first_seen": "2026-10-16",
-   "last_online": "2026-11-22",
+   "last_online": "2026-11-23",
    "username": "FetaCompli"
   },
   "fighting2543": {
@@ -2612,7 +2612,7 @@
   },
   "kittyenginev5": {
    "first_seen": "2026-10-20",
-   "last_online": "2026-11-20",
+   "last_online": "2026-11-23",
    "username": "KittyEngineV5"
   },
   "kiwi_cube": {
@@ -3312,7 +3312,7 @@
   },
   "miccoengine": {
    "first_seen": "2026-10-29",
-   "last_online": "2026-11-17",
+   "last_online": "2026-11-23",
    "username": "MiccoEngine"
   },
   "michaamateurbot": {
@@ -3362,7 +3362,7 @@
   },
   "minimaxpro": {
    "first_seen": "2026-11-07",
-   "last_online": "2026-11-14",
+   "last_online": "2026-11-23",
    "username": "Minimaxpro"
   },
   "minmaxvalgen": {
@@ -4387,7 +4387,7 @@
   },
   "rockingsuperstars": {
    "first_seen": "2026-09-28",
-   "last_online": "2026-11-22",
+   "last_online": "2026-11-23",
    "username": "RockingSuperstars"
   },
   "rodent-iv": {
@@ -5555,6 +5555,11 @@
    "last_online": "2026-11-23",
    "username": "VariantsBot"
   },
+  "veloct_ultimate": {
+   "first_seen": "2026-11-23",
+   "last_online": "2026-11-23",
+   "username": "VeloCT_Ultimate"
+  },
   "vi-rock-chess": {
    "first_seen": "2026-11-15",
    "last_online": "2026-11-23",
@@ -5912,7 +5917,7 @@
   }
  },
  "online": {
-  "checked_at": "2026-11-23T12:43:11Z",
+  "checked_at": "2026-11-23T13:43:09Z",
   "ids": [
    "aaronsengine",
    "abcd_engine",
@@ -5954,6 +5959,7 @@
    "berrycow2",
    "bertbot",
    "bfiedler-bot",
+   "bit-fish8",
    "bitbitbot",
    "bluemoonbot",
    "blujay-bot",
@@ -5997,6 +6003,7 @@
    "cheszter",
    "chill4ce",
    "chiral_ebt",
+   "chrusty",
    "cinder-bot",
    "classical-leela",
    "claude_bot",
@@ -6034,14 +6041,15 @@
    "drewschessmachine",
    "dubot",
    "duchessai",
-   "duckish",
    "dumbotai",
    "eclipsebot",
    "edwardkillick",
    "eigenmann-chess",
    "elexunix_chess_bot",
    "elmichess",
+   "enyo_v2",
    "escacsgba_1",
+   "esperengine",
    "eubos",
    "extrapawncom",
    "fairytailregimebot",
@@ -6050,12 +6058,14 @@
    "felipe_bot_53",
    "fenrir-bot",
    "fenrirbot",
+   "fetacompli",
    "fivejoyouspandas",
    "flounderbot",
    "flower-queen",
    "fourcuriouspandas",
    "fschess-engine",
    "funfishbot",
+   "gambitonlybot",
    "garbobot",
    "geotsibot",
    "giffibot",
@@ -6068,6 +6078,7 @@
    "guitarfish-engine",
    "hackerchessbot",
    "halcyonbot",
+   "hardrok",
    "homoludensbot",
    "honzovy-sachy",
    "honzovy-sachy-2",
@@ -6080,6 +6091,7 @@
    "icarus-bot",
    "ilovecatgirl",
    "incipit_bot",
+   "io-bot",
    "ironrooks",
    "is_boss",
    "iskelt-corax",
@@ -6100,6 +6112,7 @@
    "kingbobiv",
    "kingofendgamesbot",
    "kirinchessbot",
+   "kittyenginev5",
    "klak_engine",
    "kopyto_dev",
    "lamprook",
@@ -6151,11 +6164,12 @@
    "mate1-bot",
    "matmoi",
    "mcdonalds1955",
-   "mega-noob-bot",
    "melsh_bot",
+   "miccoengine",
    "michaamateurbot",
    "milanbot",
    "mimirbot",
+   "minimaxpro",
    "minopponentmoves",
    "mithandros",
    "mochi_bot",
@@ -6234,6 +6248,7 @@
    "renegadeengine",
    "resolutebot",
    "ribfish-bot",
+   "rockingsuperstars",
    "rookrusty",
    "rubyai",
    "rudim-bot",
@@ -6249,7 +6264,6 @@
    "seitogakatsu",
    "sezgi_bot",
    "sf_bot1nok",
-   "shahmatbot",
    "shallowredbot",
    "sharpdubot",
    "shayanytbot",
@@ -6263,12 +6277,7 @@
    "sleepish",
    "sleepmindengine",
    "smartysprout",
-   "smotherfishbot1",
-   "smotherfishbot2",
-   "smotherfishbot3",
-   "smotherfishbot4",
    "solobot",
-   "sparkchessengine",
    "springerbot",
    "squarefish-900",
    "sseh-c",
@@ -6329,7 +6338,8 @@
    "uzenatch",
    "vanibot",
    "variantsbot",
-   "vi-rock-chess",
+   "veloct_ultimate",
+   "vic98lg",
    "vicentlittle",
    "vidbot",
    "vietnamesecoffee",
@@ -6344,6 +6354,7 @@
    "worserfish19",
    "worstfish",
    "xen-0",
+   "z-o_aspenlabs",
    "zanak-bot",
    "zero-dot",
    "zeval_bot",
