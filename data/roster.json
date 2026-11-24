@@ -1692,7 +1692,7 @@
   },
   "enyobot": {
    "first_seen": "2026-11-19",
-   "last_online": "2026-11-22",
+   "last_online": "2026-11-24",
    "username": "EnyoBot"
   },
   "epimetheusbot": {
@@ -2342,7 +2342,7 @@
   },
   "implosio": {
    "first_seen": "2026-10-15",
-   "last_online": "2026-11-22",
+   "last_online": "2026-11-24",
    "username": "Implosio"
   },
   "inanisbot": {
@@ -2767,7 +2767,7 @@
   },
   "lantern_bot": {
    "first_seen": "2026-10-15",
-   "last_online": "2026-11-23",
+   "last_online": "2026-11-24",
    "username": "Lantern_BOT"
   },
   "larryz-alterego": {
@@ -3262,7 +3262,7 @@
   },
   "matthewcarven": {
    "first_seen": "2026-10-14",
-   "last_online": "2026-11-21",
+   "last_online": "2026-11-24",
    "username": "matthewcarven"
   },
   "maximaengine": {
@@ -3477,7 +3477,7 @@
   },
   "mr_sandbar": {
    "first_seen": "2026-09-27",
-   "last_online": "2026-10-05",
+   "last_online": "2026-11-24",
    "username": "Mr_Sandbar"
   },
   "mrbeaubeauthebot": {
@@ -4422,7 +4422,7 @@
   },
   "robodoxadrez": {
    "first_seen": "2026-11-01",
-   "last_online": "2026-11-23",
+   "last_online": "2026-11-24",
    "username": "RoboDoXadrez"
   },
   "robotjfischer": {
@@ -5787,7 +5787,7 @@
   },
   "wedge_engine": {
    "first_seen": "2026-10-22",
-   "last_online": "2026-11-22",
+   "last_online": "2026-11-24",
    "username": "wedge_engine"
   },
   "weeebot": {
@@ -6007,7 +6007,7 @@
   }
  },
  "online": {
-  "checked_at": "2026-11-24T15:43:10Z",
+  "checked_at": "2026-11-24T16:43:17Z",
   "ids": [
    "aaronsengine",
    "abcd_engine",
@@ -6042,11 +6042,9 @@
    "belzedarian",
    "bernstein-2ply",
    "bernstein-4ply",
-   "berrycow2",
    "bertbot",
    "bfiedler-bot",
    "bitbitbot",
-   "black-icebot",
    "bluemoonbot",
    "blujay-bot",
    "blundermind-01",
@@ -6057,15 +6055,16 @@
    "bot5551",
    "bot64jaques",
    "bot_adario",
+   "bothev",
    "botkill-v18x",
    "bottios",
-   "bottrain",
    "bretemabot",
    "bubblebot2",
    "byte-knight",
    "c-t-r-l",
    "caesarbot",
    "caiporabot",
+   "caissa-x",
    "capabot",
    "casanchess-nnue",
    "cassidychess-bot",
@@ -6076,6 +6075,7 @@
    "cheng-4-nn",
    "chess3bot",
    "chesschildren",
+   "chessgeniusbot",
    "chessiverse_ethan",
    "chessiverse_luc",
    "chessiverse_pawnza",
@@ -6126,12 +6126,13 @@
    "dubot",
    "duchessai",
    "dumbotai",
+   "dungine",
    "eclipsebot",
    "edwardkillick",
    "eigenmann-chess",
    "elexunix_chess_bot",
    "elmichess",
-   "enyo_v2",
+   "enyobot",
    "escacsgba_1",
    "eubos",
    "extrapawncom",
@@ -6148,6 +6149,7 @@
    "fschess-engine",
    "funfishbot",
    "gaiachessengine",
+   "gambitonlybot",
    "garbobot",
    "geotsibot",
    "ghidorah_x",
@@ -6172,7 +6174,9 @@
    "hyperopic",
    "icarus-bot",
    "ilovecatgirl",
+   "implosio",
    "incipit_bot",
+   "io-bot",
    "ironbishop_bot",
    "ironrooks",
    "iskelt-corax",
@@ -6195,12 +6199,12 @@
    "knightstalker_uci",
    "kopyto_dev",
    "lamprook",
+   "lantern_bot",
    "laura-bot",
    "leelaalien",
    "leelaanyodds",
    "leelajester",
    "leelaknightodds",
-   "leelamultiposs",
    "leelapieceodds",
    "leelaqueenforknight",
    "leelaqueenodds",
@@ -6243,6 +6247,7 @@
    "mate-in-twenty",
    "mate1-bot",
    "matmoi",
+   "matthewcarven",
    "maximaengine",
    "mchesspro_8_uci",
    "mcvoid-bot",
@@ -6258,16 +6263,17 @@
    "morabandbot",
    "mostlyhuman1900",
    "motor-0",
+   "mr_sandbar",
    "mrcoachbot",
    "mrdeepseekgpt",
    "mrtonnerre",
    "mudskipperbot",
-   "musashi-thebot",
    "mutusbot",
    "mychessjava",
    "nanozeroorg",
    "ndr1sn",
    "neryba",
+   "neurochess_ezy",
    "neurosocute",
    "nexastrat",
    "next_uzbek",
@@ -6308,7 +6314,6 @@
    "playmarius",
    "plumboi",
    "plumbot",
-   "pomeranian_bot",
    "princhess_policy_bot",
    "prismnnue",
    "prokopakop",
@@ -6331,8 +6336,10 @@
    "renegadeengine",
    "resolutebot",
    "ribfish-bot",
+   "robodoxadrez",
    "rookiemaia",
    "rookrusty",
+   "rubyai",
    "rudim-bot",
    "rust-in-pieces",
    "rust-in-pieces-nnue",
@@ -6353,7 +6360,6 @@
    "silasly",
    "sim3million",
    "simonericafonso",
-   "simple_chess_lab",
    "simpleeval",
    "sj_norbot",
    "slate-engine",
@@ -6365,6 +6371,7 @@
    "squarefish-900",
    "sseh-c",
    "stardustengine",
+   "stargazerengine",
    "stickshark99",
    "stockconda",
    "stockcotsfish",
@@ -6382,7 +6389,6 @@
    "sybaibot",
    "sykorabot",
    "talbotbot",
-   "tallikebot",
    "tempocore",
    "tente-v2",
    "tente8x",
@@ -6432,6 +6438,7 @@
    "waldemar-the-elf",
    "walpurti",
    "wannalearnbot",
+   "wedge_engine",
    "weiawaga",
    "worserfish19",
    "worstfish",
