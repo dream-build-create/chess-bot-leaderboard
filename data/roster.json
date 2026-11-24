@@ -2357,7 +2357,7 @@
   },
   "intermediateplay2026": {
    "first_seen": "2026-11-22",
-   "last_online": "2026-11-23",
+   "last_online": "2026-11-24",
    "username": "IntermediatePlay2026"
   },
   "io-bot": {
@@ -2652,7 +2652,7 @@
   },
   "kittyenginev5": {
    "first_seen": "2026-10-20",
-   "last_online": "2026-11-23",
+   "last_online": "2026-11-24",
    "username": "KittyEngineV5"
   },
   "kiwi_cube": {
@@ -4092,7 +4092,7 @@
   },
   "pomeranian_bot": {
    "first_seen": "2026-10-15",
-   "last_online": "2026-10-24",
+   "last_online": "2026-11-24",
    "username": "Pomeranian_Bot"
   },
   "pontiengine": {
@@ -6007,7 +6007,7 @@
   }
  },
  "online": {
-  "checked_at": "2026-11-24T13:43:09Z",
+  "checked_at": "2026-11-24T14:43:14Z",
   "ids": [
    "aaronsengine",
    "abcd_engine",
@@ -6065,6 +6065,7 @@
    "bubblebot2",
    "byte-knight",
    "c-t-r-l",
+   "caesarbot",
    "caiporabot",
    "capabot",
    "casanchess-nnue",
@@ -6075,7 +6076,6 @@
    "cheng-4",
    "cheng-4-nn",
    "chess3bot",
-   "chess_set_manager",
    "chesschildren",
    "chessgeniusbot",
    "chessiverse_ethan",
@@ -6111,6 +6111,7 @@
    "dala-700",
    "dala-900",
    "darkelectronbot",
+   "darkonbot",
    "darkonweakbot",
    "davidsguterbot",
    "debzero",
@@ -6127,13 +6128,12 @@
    "dubot",
    "duchessai",
    "dumbotai",
-   "dungine",
-   "dux-on",
    "eclipsebot",
    "edwardkillick",
    "eigenmann-chess",
    "elexunix_chess_bot",
    "elmichess",
+   "enyo_v2",
    "escacsgba_1",
    "eubos",
    "extrapawncom",
@@ -6154,7 +6154,6 @@
    "giffibot",
    "glorbo_evermorrow",
    "gnu4u",
-   "goblinajedrezai",
    "goldfish-engine",
    "goopis",
    "gopandafish",
@@ -6175,10 +6174,10 @@
    "icarus-bot",
    "ilovecatgirl",
    "incipit_bot",
+   "intermediateplay2026",
    "io-bot",
    "ironbishop_bot",
    "ironrooks",
-   "is_boss",
    "iskelt-corax",
    "jangine",
    "jibbby",
@@ -6197,6 +6196,7 @@
    "kestrelchess",
    "kestrelstrike",
    "kirinchessbot",
+   "kittyenginev5",
    "knightstalker_uci",
    "kopyto_dev",
    "lamprook",
@@ -6310,6 +6310,7 @@
    "playmarius",
    "plumboi",
    "plumbot",
+   "pomeranian_bot",
    "princhess_policy_bot",
    "prismnnue",
    "prokopakop",
@@ -6319,7 +6320,6 @@
    "puisne",
    "pzchessbot",
    "quartzthechessbot",
-   "quirkafleeg-pc",
    "quirkafleeg-zx48k",
    "quirkafleeg-zxnext",
    "r0bspierre",
@@ -6384,7 +6384,6 @@
    "sybaibot",
    "sykorabot",
    "talbotbot",
-   "tallikebot",
    "tempocore",
    "tente-v2",
    "tente8x",
