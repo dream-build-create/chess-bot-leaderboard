@@ -812,7 +812,7 @@
   },
   "caissa-x": {
    "first_seen": "2026-09-29",
-   "last_online": "2026-11-23",
+   "last_online": "2026-11-24",
    "username": "caissa-x"
   },
   "calciumengine": {
@@ -1947,7 +1947,7 @@
   },
   "gaiachessengine": {
    "first_seen": "2026-11-08",
-   "last_online": "2026-11-23",
+   "last_online": "2026-11-24",
    "username": "GaiaChessEngine"
   },
   "galaxy-stellar-bot": {
@@ -5997,7 +5997,7 @@
   }
  },
  "online": {
-  "checked_at": "2026-11-24T07:43:10Z",
+  "checked_at": "2026-11-24T08:43:09Z",
   "ids": [
    "abcd_engine",
    "abdcebot",
@@ -6035,9 +6035,10 @@
    "berrycow2",
    "bertbot",
    "bfiedler-bot",
-   "black-icebot",
+   "bitbitbot",
    "bluemoonbot",
    "blujay-bot",
+   "blundeel67",
    "blundermind-01",
    "blundermind-m3",
    "bobby_pcolla",
@@ -6058,6 +6059,7 @@
    "c-t-r-l",
    "caesarbot",
    "caiporabot",
+   "caissa-x",
    "capabot",
    "casanchess-nnue",
    "cassidychess-bot",
@@ -6067,6 +6069,7 @@
    "cheng-4",
    "cheng-4-nn",
    "chess3bot",
+   "chess_set_manager",
    "chesschildren",
    "chessgeniusbot",
    "chessiverse_ethan",
@@ -6094,7 +6097,6 @@
    "croco_bot",
    "croco_little_bot",
    "crocodile_bot",
-   "crustik-bot",
    "dala-1100",
    "dala-1300",
    "dala-1600",
@@ -6125,7 +6127,6 @@
    "eigenmann-chess",
    "elexunix_chess_bot",
    "elmichess",
-   "enyo_v2",
    "escacsgba_1",
    "eubos",
    "extrapawncom",
@@ -6141,6 +6142,7 @@
    "fourcuriouspandas",
    "fschess-engine",
    "funfishbot",
+   "gaiachessengine",
    "garbobot",
    "geotsibot",
    "giffibot",
@@ -6161,12 +6163,10 @@
    "hustler_1mb",
    "hustler_2mb",
    "hustler_5mb",
-   "hydrachessbot",
    "hyperopic",
    "icarus-bot",
    "ilovecatgirl",
    "incipit_bot",
-   "ironbishop_bot",
    "ironrooks",
    "is_boss",
    "iskelt-corax",
@@ -6211,7 +6211,6 @@
    "littlepatricia",
    "littleply",
    "louischess48-6k",
-   "lucena_973",
    "lukebot",
    "lunaenginechess",
    "lynx_bot",
@@ -6320,6 +6319,7 @@
    "radianceengine",
    "raspfish",
    "ratsu-bot",
+   "raven030",
    "ravenengine",
    "ray-bot",
    "rdtchessbot",
@@ -6339,7 +6339,6 @@
    "scalaqueen",
    "schnecken_bot",
    "scipio-bot",
-   "sdsfaa",
    "seitogakatsu",
    "sf_bot1nok",
    "shallowredbot",
@@ -6432,6 +6431,7 @@
    "xen-0",
    "z-o_aspenlabs",
    "zanak-bot",
+   "zero-dot",
    "zion-bot",
    "zipfile_chess-bot"
   ]
