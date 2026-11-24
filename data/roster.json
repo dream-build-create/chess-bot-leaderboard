@@ -1047,7 +1047,7 @@
   },
   "chessmind_bot": {
    "first_seen": "2026-11-14",
-   "last_online": "2026-11-22",
+   "last_online": "2026-11-24",
    "username": "Chessmind_bot"
   },
   "chessmindbot": {
@@ -4902,22 +4902,22 @@
   },
   "smotherfishbot1": {
    "first_seen": "2026-11-23",
-   "last_online": "2026-11-23",
+   "last_online": "2026-11-24",
    "username": "SmotherfishBot1"
   },
   "smotherfishbot2": {
    "first_seen": "2026-11-23",
-   "last_online": "2026-11-23",
+   "last_online": "2026-11-24",
    "username": "SmotherfishBot2"
   },
   "smotherfishbot3": {
    "first_seen": "2026-11-23",
-   "last_online": "2026-11-23",
+   "last_online": "2026-11-24",
    "username": "SmotherfishBot3"
   },
   "smotherfishbot4": {
    "first_seen": "2026-11-23",
-   "last_online": "2026-11-23",
+   "last_online": "2026-11-24",
    "username": "SmotherfishBot4"
   },
   "snaky-bot": {
@@ -5597,7 +5597,7 @@
   },
   "utrons11": {
    "first_seen": "2026-11-20",
-   "last_online": "2026-11-22",
+   "last_online": "2026-11-24",
    "username": "Utrons11"
   },
   "uundrstnd": {
@@ -5997,7 +5997,7 @@
   },
   "zuhammet": {
    "first_seen": "2026-10-28",
-   "last_online": "2026-11-07",
+   "last_online": "2026-11-24",
    "username": "Zuhammet"
   },
   "zxasdsaasda": {
@@ -6012,7 +6012,7 @@
   }
  },
  "online": {
-  "checked_at": "2026-11-24T18:43:09Z",
+  "checked_at": "2026-11-24T19:43:19Z",
   "ids": [
    "aaronsengine",
    "abcd_engine",
@@ -6034,6 +6034,7 @@
    "annie_archy",
    "anti-anti",
    "anti-bot",
+   "antibotv3-7",
    "aposeij",
    "approximationbot",
    "arasanx",
@@ -6052,6 +6053,7 @@
    "bitbitbot",
    "bluemoonbot",
    "blujay-bot",
+   "blundeel67",
    "blunder-engine",
    "blundermind-01",
    "blundermind-m3",
@@ -6080,11 +6082,11 @@
    "cheng-4-nn",
    "chess3bot",
    "chesschildren",
-   "chessgeniusbot",
    "chessiverse_ethan",
    "chessiverse_luc",
    "chessiverse_pawnza",
    "chessiverse_raak",
+   "chessmind_bot",
    "chessmindbot",
    "chessmode-go",
    "cheszter",
@@ -6130,6 +6132,7 @@
    "dubot",
    "duchessai",
    "dumbotai",
+   "dungine",
    "eclipsebot",
    "edwardkillick",
    "eigenmann-chess",
@@ -6177,10 +6180,8 @@
    "hustler_2mb",
    "hustler_5mb",
    "hyperopic",
-   "hypersion",
    "icarus-bot",
    "ilovecatgirl",
-   "implosio",
    "incipit_bot",
    "io-bot",
    "ironbishop_bot",
@@ -6197,7 +6198,6 @@
    "justbot-v1",
    "kahunabot",
    "karl-engine-v1",
-   "kasdengine",
    "kbelludoo",
    "kestrelchess",
    "kestrelstrike",
@@ -6281,7 +6281,6 @@
    "mychessjava",
    "nanozeroorg",
    "neryba",
-   "neurochess_ezy",
    "neurosocute",
    "nexastrat",
    "next_uzbek",
@@ -6308,6 +6307,7 @@
    "patriciabot",
    "patzerbot135",
    "pawn_git",
+   "pawnopenings",
    "pawnrobot",
    "peacemaker-0_0",
    "peachfruit",
@@ -6373,6 +6373,7 @@
    "silasly",
    "sim3million",
    "simonericafonso",
+   "simple_chess_lab",
    "simpleeval",
    "sj_norbot",
    "slate-engine",
@@ -6380,6 +6381,10 @@
    "sleepmindengine",
    "slothcomputer",
    "smartysprout",
+   "smotherfishbot1",
+   "smotherfishbot2",
+   "smotherfishbot3",
+   "smotherfishbot4",
    "solobot",
    "sparkchessengine",
    "springerbot",
@@ -6400,7 +6405,6 @@
    "stupidfishbotbydscs",
    "sunfish-engine",
    "sunfish-nnue-engine",
-   "supergame5",
    "sxphia",
    "sybaibot",
    "sykorabot",
@@ -6420,6 +6424,7 @@
    "tonyengine",
    "topasbot",
    "trainer-bot",
+   "trainingbuddy",
    "trenerhetman",
    "trinculobot",
    "troutbot",
@@ -6438,6 +6443,7 @@
    "usunfish-l1",
    "usunfish-l7",
    "utrain-chess-bot",
+   "utrons11",
    "uxugin-bot",
    "uzenatch",
    "vanibot",
@@ -6454,16 +6460,15 @@
    "vyvrael-chess",
    "waldemar-the-elf",
    "walpurti",
-   "wannalearnbot",
    "websimfish1",
-   "wedge_engine",
    "weiawaga",
    "worserfish19",
    "worstfish",
    "z-o_aspenlabs",
    "zanak-bot",
    "zfishbot",
-   "zion-bot"
+   "zion-bot",
+   "zuhammet"
   ]
  },
  "schema_version": 1
