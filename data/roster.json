@@ -1077,7 +1077,7 @@
   },
   "chesstransformerbot": {
    "first_seen": "2026-10-08",
-   "last_online": "2026-11-23",
+   "last_online": "2026-11-24",
    "username": "ChessTransformerBot"
   },
   "cheszter": {
@@ -1477,7 +1477,7 @@
   },
   "devilfishzero": {
    "first_seen": "2026-11-12",
-   "last_online": "2026-11-22",
+   "last_online": "2026-11-24",
    "username": "DevilfishZero"
   },
   "devilfishzerotwo": {
@@ -3007,7 +3007,7 @@
   },
   "lucena_973": {
    "first_seen": "2026-11-19",
-   "last_online": "2026-11-23",
+   "last_online": "2026-11-24",
    "username": "Lucena_973"
   },
   "lucientupin_bot": {
@@ -3062,7 +3062,7 @@
   },
   "macbotitsmagic": {
    "first_seen": "2026-11-17",
-   "last_online": "2026-11-23",
+   "last_online": "2026-11-24",
    "username": "macbotitsmagic"
   },
   "mackbot": {
@@ -4552,7 +4552,7 @@
   },
   "saintengine": {
    "first_seen": "2026-11-21",
-   "last_online": "2026-11-23",
+   "last_online": "2026-11-24",
    "username": "SaintEngine"
   },
   "saisrankarthik_7": {
@@ -5742,7 +5742,7 @@
   },
   "wannalearnbot": {
    "first_seen": "2026-09-27",
-   "last_online": "2026-11-23",
+   "last_online": "2026-11-24",
    "username": "wannalearnbot"
   },
   "ward64-alpha": {
@@ -5997,7 +5997,7 @@
   }
  },
  "online": {
-  "checked_at": "2026-11-24T06:43:10Z",
+  "checked_at": "2026-11-24T07:43:10Z",
   "ids": [
    "abcd_engine",
    "abdcebot",
@@ -6005,7 +6005,6 @@
    "aetherbot",
    "aethertal_bot",
    "aggressivestockfish",
-   "ahmedzhanov",
    "ai-con",
    "ailedbot",
    "alarm2001",
@@ -6014,7 +6013,6 @@
    "aliceshiro",
    "alieknek",
    "alliethechessbot",
-   "andybotengine",
    "angela_eng",
    "anna-bot",
    "annie_archy",
@@ -6037,11 +6035,9 @@
    "berrycow2",
    "bertbot",
    "bfiedler-bot",
-   "bitbitbot",
    "black-icebot",
    "bluemoonbot",
    "blujay-bot",
-   "blundeel67",
    "blundermind-01",
    "blundermind-m3",
    "bobby_pcolla",
@@ -6079,6 +6075,7 @@
    "chessiverse_raak",
    "chessmindbot",
    "chessmode-go",
+   "chesstransformerbot",
    "cheszter",
    "chill4ce",
    "chiral_ebt",
@@ -6113,6 +6110,7 @@
    "deepsquare-ai",
    "demen100ns-bot",
    "devchessplayer-bot",
+   "devilfishzero",
    "diogenes-bot",
    "disrespect_fish",
    "dravox",
@@ -6122,13 +6120,11 @@
    "duchessai",
    "dumbotai",
    "dungine",
-   "dux-on",
    "eclipsebot",
    "edwardkillick",
    "eigenmann-chess",
    "elexunix_chess_bot",
    "elmichess",
-   "endspiel-pi",
    "enyo_v2",
    "escacsgba_1",
    "eubos",
@@ -6170,7 +6166,7 @@
    "icarus-bot",
    "ilovecatgirl",
    "incipit_bot",
-   "io-bot",
+   "ironbishop_bot",
    "ironrooks",
    "is_boss",
    "iskelt-corax",
@@ -6215,9 +6211,11 @@
    "littlepatricia",
    "littleply",
    "louischess48-6k",
+   "lucena_973",
    "lukebot",
    "lunaenginechess",
    "lynx_bot",
+   "macbotitsmagic",
    "maia1",
    "maia3-79m_1000",
    "maia3-79m_1200",
@@ -6263,6 +6261,7 @@
    "mychessjava",
    "nanozeroorg",
    "ndr1sn",
+   "neryba",
    "neurochess_ezy",
    "neurosocute",
    "nexastrat",
@@ -6314,7 +6313,6 @@
    "puisne",
    "pzchessbot",
    "quartzthechessbot",
-   "queensgambot",
    "quirkafleeg-pc",
    "quirkafleeg-zx48k",
    "quirkafleeg-zxnext",
@@ -6334,12 +6332,14 @@
    "rust-in-pieces",
    "rust-in-pieces-nnue",
    "safila",
+   "saintengine",
    "sargon-1ply",
    "sargon-3ply",
    "sbnovella",
    "scalaqueen",
    "schnecken_bot",
    "scipio-bot",
+   "sdsfaa",
    "seitogakatsu",
    "sf_bot1nok",
    "shallowredbot",
@@ -6376,12 +6376,12 @@
    "sxphia",
    "sybaibot",
    "sykorabot",
+   "talbotbot",
    "tallikebot",
    "tempocore",
    "tente-v2",
    "tente8x",
    "thechessblazer",
-   "throrbjorn",
    "thunfisch-bot",
    "tigrament",
    "tilapiabot",
@@ -6425,14 +6425,13 @@
    "vyvrael-chess",
    "waldemar-the-elf",
    "walpurti",
+   "wannalearnbot",
    "weiawaga",
    "worserfish19",
    "worstfish",
    "xen-0",
    "z-o_aspenlabs",
    "zanak-bot",
-   "zero-dot",
-   "zeval_bot",
    "zion-bot",
    "zipfile_chess-bot"
   ]
