@@ -7,7 +7,7 @@
   },
   "aaronsengine": {
    "first_seen": "2026-09-27",
-   "last_online": "2026-11-23",
+   "last_online": "2026-11-24",
    "username": "AaronsEngine"
   },
   "aathena101": {
@@ -3435,6 +3435,11 @@
    "last_online": "2026-11-24",
    "username": "Mithandros"
   },
+  "mochi-fat": {
+   "first_seen": "2026-11-24",
+   "last_online": "2026-11-24",
+   "username": "MOCHI-fat"
+  },
   "mochi_bot": {
    "first_seen": "2026-09-27",
    "last_online": "2026-11-24",
@@ -3962,7 +3967,7 @@
   },
   "peanet0": {
    "first_seen": "2026-10-05",
-   "last_online": "2026-11-19",
+   "last_online": "2026-11-24",
    "username": "PeaNet0"
   },
   "pelanca": {
@@ -5427,7 +5432,7 @@
   },
   "torombot": {
    "first_seen": "2026-09-28",
-   "last_online": "2026-11-23",
+   "last_online": "2026-11-24",
    "username": "ToromBot"
   },
   "torre-s3": {
@@ -5997,10 +6002,10 @@
   }
  },
  "online": {
-  "checked_at": "2026-11-24T09:43:09Z",
+  "checked_at": "2026-11-24T10:23:46Z",
   "ids": [
+   "aaronsengine",
    "abcd_engine",
-   "abdcebot",
    "aconcaguabot",
    "aetherbot",
    "aethertal_bot",
@@ -6044,7 +6049,7 @@
    "blundermind-m3",
    "bobby_pcolla",
    "bongaclang",
-   "bot1nokk",
+   "boris-trapsky",
    "bot5551",
    "bot64jaques",
    "bot_adario",
@@ -6199,7 +6204,6 @@
    "leelarookodds",
    "leelatroll",
    "leelonardo",
-   "legotechniccontrolpl",
    "lentuschess",
    "levymaia",
    "lightning-762",
@@ -6212,6 +6216,7 @@
    "lukebot",
    "lunaenginechess",
    "lynx_bot",
+   "macbotitsmagic",
    "maia1",
    "maia3-79m_1000",
    "maia3-79m_1200",
@@ -6234,7 +6239,9 @@
    "mate-in-twenty",
    "mate1-bot",
    "matmoi",
+   "maximaengine",
    "mcdonalds1955",
+   "mcvoid-bot",
    "mega-noob-bot",
    "melsh_bot",
    "michaamateurbot",
@@ -6242,6 +6249,7 @@
    "mimirbot",
    "minopponentmoves",
    "mithandros",
+   "mochi-fat",
    "mochi_bot",
    "morabandbot",
    "mostlyhuman1900",
@@ -6285,6 +6293,7 @@
    "pawnrobot",
    "peacemaker-0_0",
    "peachfruit",
+   "peanet0",
    "pelanca",
    "peppermintpatty",
    "perl-gigachess",
@@ -6327,7 +6336,6 @@
    "rust-in-pieces",
    "rust-in-pieces-nnue",
    "safila",
-   "saintengine",
    "sargon-1ply",
    "sargon-3ply",
    "sbnovella",
@@ -6336,7 +6344,6 @@
    "scipio-bot",
    "sdsfaa",
    "seitogakatsu",
-   "sf_bot1nok",
    "shallowredbot",
    "sharpdubot",
    "shedletskybot",
@@ -6386,6 +6393,7 @@
    "togaii",
    "tonyengine",
    "topasbot",
+   "torombot",
    "trainer-bot",
    "trainingbuddy",
    "trenerhetman",
@@ -6416,7 +6424,6 @@
    "vidbot",
    "vietnamesecoffee",
    "virutor",
-   "void_bot",
    "vortex_bot",
    "vortexaurafarm",
    "vyvrael-chess",
@@ -6429,7 +6436,6 @@
    "xen-0",
    "z-o_aspenlabs",
    "zanak-bot",
-   "zero-dot",
    "zion-bot",
    "zipfile_chess-bot"
   ]
