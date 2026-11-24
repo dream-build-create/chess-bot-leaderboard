@@ -567,7 +567,7 @@
   },
   "blundeel67": {
    "first_seen": "2026-11-07",
-   "last_online": "2026-11-23",
+   "last_online": "2026-11-24",
    "username": "blundeel67"
   },
   "blunder-engine": {
@@ -1282,7 +1282,7 @@
   },
   "crustik-bot": {
    "first_seen": "2026-11-03",
-   "last_online": "2026-11-21",
+   "last_online": "2026-11-24",
    "username": "Crustik-bot"
   },
   "cutebot": {
@@ -1595,6 +1595,11 @@
    "last_online": "2026-11-24",
    "username": "Dungine"
   },
+  "dux-on": {
+   "first_seen": "2026-11-24",
+   "last_online": "2026-11-24",
+   "username": "dux-on"
+  },
   "dysthimi": {
    "first_seen": "2026-11-09",
    "last_online": "2026-11-10",
@@ -1677,7 +1682,7 @@
   },
   "enyo_v2": {
    "first_seen": "2026-11-19",
-   "last_online": "2026-11-23",
+   "last_online": "2026-11-24",
    "username": "Enyo_v2"
   },
   "enyobot": {
@@ -5992,7 +5997,7 @@
   }
  },
  "online": {
-  "checked_at": "2026-11-24T05:43:10Z",
+  "checked_at": "2026-11-24T06:43:10Z",
   "ids": [
    "abcd_engine",
    "abdcebot",
@@ -6033,8 +6038,10 @@
    "bertbot",
    "bfiedler-bot",
    "bitbitbot",
+   "black-icebot",
    "bluemoonbot",
    "blujay-bot",
+   "blundeel67",
    "blundermind-01",
    "blundermind-m3",
    "bobby_pcolla",
@@ -6064,8 +6071,8 @@
    "cheng-4",
    "cheng-4-nn",
    "chess3bot",
-   "chessai4f",
    "chesschildren",
+   "chessgeniusbot",
    "chessiverse_ethan",
    "chessiverse_luc",
    "chessiverse_pawnza",
@@ -6090,6 +6097,7 @@
    "croco_bot",
    "croco_little_bot",
    "crocodile_bot",
+   "crustik-bot",
    "dala-1100",
    "dala-1300",
    "dala-1600",
@@ -6114,12 +6122,14 @@
    "duchessai",
    "dumbotai",
    "dungine",
+   "dux-on",
    "eclipsebot",
    "edwardkillick",
    "eigenmann-chess",
    "elexunix_chess_bot",
    "elmichess",
    "endspiel-pi",
+   "enyo_v2",
    "escacsgba_1",
    "eubos",
    "extrapawncom",
@@ -6137,7 +6147,6 @@
    "funfishbot",
    "garbobot",
    "geotsibot",
-   "ghidorah_x",
    "giffibot",
    "glorbo_evermorrow",
    "gnu4u",
@@ -6147,7 +6156,6 @@
    "grail-bot",
    "grindfish",
    "guitarfish-engine",
-   "hackerchessbot",
    "halcyonbot",
    "homoludensbot",
    "honzovy-sachy",
@@ -6163,7 +6171,6 @@
    "ilovecatgirl",
    "incipit_bot",
    "io-bot",
-   "ironbishop_bot",
    "ironrooks",
    "is_boss",
    "iskelt-corax",
@@ -6179,6 +6186,7 @@
    "jurdbird",
    "justbot-v1",
    "kahunabot",
+   "karl-engine-v1",
    "kbelludoo",
    "kestrelchess",
    "kestrelstrike",
@@ -6233,6 +6241,7 @@
    "mate-in-twenty",
    "mate1-bot",
    "matmoi",
+   "mcvoid-bot",
    "mega-noob-bot",
    "melsh_bot",
    "miccoengine",
@@ -6247,6 +6256,7 @@
    "motor-0",
    "mrcoachbot",
    "mrdeepseekgpt",
+   "mrtonnerre",
    "mudskipperbot",
    "musashi-thebot",
    "mutusbot",
@@ -6312,7 +6322,6 @@
    "radianceengine",
    "raspfish",
    "ratsu-bot",
-   "raven030",
    "ravenengine",
    "ray-bot",
    "rdtchessbot",
@@ -6321,7 +6330,6 @@
    "ribfish-bot",
    "rookiemaia",
    "rookrusty",
-   "rubyai",
    "rudim-bot",
    "rust-in-pieces",
    "rust-in-pieces-nnue",
@@ -6332,7 +6340,6 @@
    "scalaqueen",
    "schnecken_bot",
    "scipio-bot",
-   "sdsfaa",
    "seitogakatsu",
    "sf_bot1nok",
    "shallowredbot",
@@ -6424,6 +6431,7 @@
    "xen-0",
    "z-o_aspenlabs",
    "zanak-bot",
+   "zero-dot",
    "zeval_bot",
    "zion-bot",
    "zipfile_chess-bot"
