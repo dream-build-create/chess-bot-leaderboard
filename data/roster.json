@@ -242,7 +242,7 @@
   },
   "aqueval-chess": {
    "first_seen": "2026-11-06",
-   "last_online": "2026-11-23",
+   "last_online": "2026-11-24",
    "username": "aqueval-chess"
   },
   "arabicahce": {
@@ -2687,7 +2687,7 @@
   },
   "knightstalker_uci": {
    "first_seen": "2026-11-17",
-   "last_online": "2026-11-22",
+   "last_online": "2026-11-24",
    "username": "KnightStalker_UCI"
   },
   "kobal11": {
@@ -3297,7 +3297,7 @@
   },
   "mchesspro_8_uci": {
    "first_seen": "2026-11-19",
-   "last_online": "2026-11-22",
+   "last_online": "2026-11-24",
    "username": "MChessPro_8_UCI"
   },
   "mcvoid-bot": {
@@ -6002,7 +6002,7 @@
   }
  },
  "online": {
-  "checked_at": "2026-11-24T10:43:08Z",
+  "checked_at": "2026-11-24T11:43:09Z",
   "ids": [
    "aaronsengine",
    "abcd_engine",
@@ -6026,6 +6026,7 @@
    "antibotv3-7",
    "aposeij",
    "approximationbot",
+   "aqueval-chess",
    "arasanx",
    "arkiplayschess",
    "artidigm_research",
@@ -6041,9 +6042,9 @@
    "bertbot",
    "bfiedler-bot",
    "bitbitbot",
-   "black-icebot",
    "bluemoonbot",
    "blujay-bot",
+   "blundeel67",
    "blundermind-01",
    "blundermind-m3",
    "bobby_pcolla",
@@ -6071,7 +6072,6 @@
    "chess3bot",
    "chess_set_manager",
    "chesschildren",
-   "chessgeniusbot",
    "chessiverse_ethan",
    "chessiverse_luc",
    "chessiverse_pawnza",
@@ -6120,6 +6120,7 @@
    "dubot",
    "duchessai",
    "dumbotai",
+   "dungine",
    "eclipsebot",
    "edwardkillick",
    "eigenmann-chess",
@@ -6140,8 +6141,8 @@
    "fourcuriouspandas",
    "fschess-engine",
    "funfishbot",
-   "gaiachessengine",
    "garbobot",
+   "georgii_ai",
    "geotsibot",
    "giffibot",
    "glorbo_evermorrow",
@@ -6187,6 +6188,7 @@
    "kestrelchess",
    "kestrelstrike",
    "kirinchessbot",
+   "knightstalker_uci",
    "kopyto_dev",
    "lamprook",
    "laura-bot",
@@ -6213,6 +6215,7 @@
    "lukebot",
    "lunaenginechess",
    "lynx_bot",
+   "macbotitsmagic",
    "maia1",
    "maia3-79m_1000",
    "maia3-79m_1200",
@@ -6237,6 +6240,8 @@
    "matmoi",
    "maximaengine",
    "mcdonalds1955",
+   "mchesspro_8_uci",
+   "mcvoid-bot",
    "mega-noob-bot",
    "melsh_bot",
    "michaamateurbot",
@@ -6288,7 +6293,6 @@
    "pawnrobot",
    "peacemaker-0_0",
    "peachfruit",
-   "peanet0",
    "pelanca",
    "peppermintpatty",
    "perl-gigachess",
@@ -6301,7 +6305,6 @@
    "playmarius",
    "plumboi",
    "plumbot",
-   "pontiengine",
    "princhess_policy_bot",
    "prismnnue",
    "prokopakop",
