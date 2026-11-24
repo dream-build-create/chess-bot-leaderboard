@@ -607,7 +607,7 @@
   },
   "borkatower": {
    "first_seen": "2026-09-27",
-   "last_online": "2026-11-23",
+   "last_online": "2026-11-24",
    "username": "BorkaTower"
   },
   "bot-kut": {
@@ -1987,7 +1987,7 @@
   },
   "georgii_ai": {
    "first_seen": "2026-09-28",
-   "last_online": "2026-11-23",
+   "last_online": "2026-11-24",
    "username": "georgii_ai"
   },
   "geotsibot": {
@@ -2882,7 +2882,7 @@
   },
   "legotechniccontrolpl": {
    "first_seen": "2026-11-09",
-   "last_online": "2026-11-23",
+   "last_online": "2026-11-24",
    "username": "LegoTechnicControlPl"
   },
   "lemonjuice10": {
@@ -3207,7 +3207,7 @@
   },
   "marlinchessbot": {
    "first_seen": "2026-11-11",
-   "last_online": "2026-11-23",
+   "last_online": "2026-11-24",
    "username": "MarlinChessBot"
   },
   "martuni": {
@@ -4217,7 +4217,7 @@
   },
   "quartzthechessbot": {
    "first_seen": "2026-11-18",
-   "last_online": "2026-11-23",
+   "last_online": "2026-11-24",
    "username": "QuartzTheChessBot"
   },
   "queensgambot": {
@@ -5437,7 +5437,7 @@
   },
   "trainingbuddy": {
    "first_seen": "2026-10-28",
-   "last_online": "2026-11-23",
+   "last_online": "2026-11-24",
    "username": "TrainingBuddy"
   },
   "traininggroundbot": {
@@ -5677,7 +5677,7 @@
   },
   "void_bot": {
    "first_seen": "2026-09-29",
-   "last_online": "2026-11-23",
+   "last_online": "2026-11-24",
    "username": "Void_Bot"
   },
   "voidbotv2": {
@@ -5992,7 +5992,7 @@
   }
  },
  "online": {
-  "checked_at": "2026-11-24T03:43:11Z",
+  "checked_at": "2026-11-24T04:43:10Z",
   "ids": [
    "abcd_engine",
    "abdcebot",
@@ -6005,7 +6005,6 @@
    "ailedbot",
    "alarm2001",
    "alehkine_cat",
-   "aleph_engine",
    "alexandrya",
    "aliceshiro",
    "alieknek",
@@ -6041,6 +6040,7 @@
    "bobby_pcolla",
    "bongaclang",
    "boris-trapsky",
+   "borkatower",
    "bot1e",
    "bot1nokk",
    "bot5551",
@@ -6066,7 +6066,6 @@
    "cheng-4",
    "cheng-4-nn",
    "chess3bot",
-   "chess_set_manager",
    "chessai4f",
    "chesschildren",
    "chessiverse_ethan",
@@ -6139,6 +6138,7 @@
    "fschess-engine",
    "funfishbot",
    "garbobot",
+   "georgii_ai",
    "geotsibot",
    "ghidorah_x",
    "giffibot",
@@ -6167,6 +6167,7 @@
    "ilovecatgirl",
    "incipit_bot",
    "io-bot",
+   "ironbishop_bot",
    "ironrooks",
    "is_boss",
    "iskelt-corax",
@@ -6182,17 +6183,16 @@
    "jurdbird",
    "justbot-v1",
    "kahunabot",
-   "karl-engine-v1",
    "kbelludoo",
    "kestrelchess",
    "kestrelstrike",
-   "kingbobiv",
    "kirinchessbot",
    "kopyto_dev",
    "lamprook",
    "laura-bot",
    "leelaalien",
    "leelaanyodds",
+   "leelajester",
    "leelaknightodds",
    "leelapieceodds",
    "leelaqueenforknight",
@@ -6201,6 +6201,7 @@
    "leelarookodds",
    "leelatroll",
    "leelonardo",
+   "legotechniccontrolpl",
    "lentuschess",
    "levymaia",
    "lightning-762",
@@ -6211,7 +6212,6 @@
    "littleply",
    "louischess48-6k",
    "lukebot",
-   "luminexbot",
    "lunaenginechess",
    "lynx_bot",
    "maia1",
@@ -6230,13 +6230,13 @@
    "maia9",
    "maia960-1600",
    "maia960-1900",
+   "marlinchessbot",
    "martuni",
    "mate-in-forty",
    "mate-in-thirty",
    "mate-in-twenty",
    "mate1-bot",
    "matmoi",
-   "maximaengine",
    "mcdonalds1955",
    "mcvoid-bot",
    "mega-noob-bot",
@@ -6309,6 +6309,7 @@
    "psion-chess",
    "puisne",
    "pzchessbot",
+   "quartzthechessbot",
    "queensgambot",
    "quirkafleeg-pc",
    "quirkafleeg-zx48k",
@@ -6337,6 +6338,7 @@
    "scalaqueen",
    "schnecken_bot",
    "scipio-bot",
+   "sdsfaa",
    "seitogakatsu",
    "sf_bot1nok",
    "shallowredbot",
@@ -6389,6 +6391,7 @@
    "tonyengine",
    "topasbot",
    "trainer-bot",
+   "trainingbuddy",
    "trenerhetman",
    "trinculobot",
    "troutbot",
@@ -6416,6 +6419,7 @@
    "vidbot",
    "vietnamesecoffee",
    "virutor",
+   "void_bot",
    "vortex_bot",
    "vortexaurafarm",
    "vyvrael-chess",
@@ -6427,7 +6431,6 @@
    "xen-0",
    "z-o_aspenlabs",
    "zanak-bot",
-   "zero-dot",
    "zeval_bot",
    "zion-bot",
    "zipfile_chess-bot"
