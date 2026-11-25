@@ -2367,7 +2367,7 @@
   },
   "intermediateplay2026": {
    "first_seen": "2026-11-22",
-   "last_online": "2026-11-24",
+   "last_online": "2026-11-25",
    "username": "IntermediatePlay2026"
   },
   "io-bot": {
@@ -4812,7 +4812,7 @@
   },
   "simple_chess_lab": {
    "first_seen": "2026-11-18",
-   "last_online": "2026-11-24",
+   "last_online": "2026-11-25",
    "username": "simple_chess_lab"
   },
   "simplechessengine": {
@@ -6037,7 +6037,7 @@
   }
  },
  "online": {
-  "checked_at": "2026-11-25T14:43:09Z",
+  "checked_at": "2026-11-25T15:43:10Z",
   "ids": [
    "aaronsengine",
    "abcd_engine",
@@ -6180,11 +6180,11 @@
    "gaiachessengine",
    "garbobot",
    "geotsibot",
+   "ghidorah_x",
    "giffibot",
    "glorbo_evermorrow",
    "gnu4u",
    "goldfish-engine",
-   "goopis",
    "gopandafish",
    "grail-bot",
    "grindfish",
@@ -6202,6 +6202,8 @@
    "icarus-bot",
    "ilovecatgirl",
    "incipit_bot",
+   "intermediateplay2026",
+   "io-bot",
    "ironbishop_bot",
    "iskelt-corax",
    "jangine",
@@ -6217,7 +6219,6 @@
    "justbot-v1",
    "kahunabot",
    "karl-engine-v1",
-   "kasdengine",
    "kbelludoo",
    "kestrelchess",
    "kestrelstrike",
@@ -6253,6 +6254,7 @@
    "luminexbot",
    "lunaenginechess",
    "lynx_bot",
+   "macbotitsmagic",
    "maia1",
    "maia3-79m_1000",
    "maia3-79m_1200",
@@ -6279,7 +6281,6 @@
    "mcvoid-bot",
    "mega-noob-bot",
    "melsh_bot",
-   "miccoengine",
    "michaamateurbot",
    "milanbot",
    "mimirbot",
@@ -6342,6 +6343,7 @@
    "playmarius",
    "plumboi",
    "plumbot",
+   "polvo_engine",
    "ponytail_engine",
    "princhess_policy_bot",
    "prismnnue",
@@ -6365,7 +6367,6 @@
    "renegadeengine",
    "resolutebot",
    "robodoxadrez",
-   "rockingsuperstars",
    "rookiemaia",
    "rookrusty",
    "rubyai",
@@ -6391,6 +6392,7 @@
    "silasly",
    "sim3million",
    "simonericafonso",
+   "simple_chess_lab",
    "simplechessengine",
    "simpleeval",
    "sj_norbot",
@@ -6399,7 +6401,6 @@
    "sleepmindengine",
    "smartysprout",
    "solobot",
-   "sparkchessengine",
    "springerbot",
    "squarefish-900",
    "sseh-c",
