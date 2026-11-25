@@ -3312,7 +3312,7 @@
   },
   "mchesspro_8_uci": {
    "first_seen": "2026-11-19",
-   "last_online": "2026-11-24",
+   "last_online": "2026-11-25",
    "username": "MChessPro_8_UCI"
   },
   "mcvoid-bot": {
@@ -4452,7 +4452,7 @@
   },
   "rockingsuperstars": {
    "first_seen": "2026-09-28",
-   "last_online": "2026-11-23",
+   "last_online": "2026-11-25",
    "username": "RockingSuperstars"
   },
   "rodent-iv": {
@@ -4762,7 +4762,7 @@
   },
   "shayanytbot": {
    "first_seen": "2026-11-22",
-   "last_online": "2026-11-23",
+   "last_online": "2026-11-25",
    "username": "shayanYTBOT"
   },
   "shedletskybot": {
@@ -4817,7 +4817,7 @@
   },
   "simplechessengine": {
    "first_seen": "2026-11-04",
-   "last_online": "2026-11-20",
+   "last_online": "2026-11-25",
    "username": "SimpleChessEngine"
   },
   "simplechessnnue": {
@@ -6037,7 +6037,7 @@
   }
  },
  "online": {
-  "checked_at": "2026-11-25T13:43:10Z",
+  "checked_at": "2026-11-25T14:43:09Z",
   "ids": [
    "aaronsengine",
    "abcd_engine",
@@ -6076,7 +6076,6 @@
    "bitbitbot",
    "bluemoonbot",
    "blujay-bot",
-   "blundeel67",
    "blundermind-01",
    "blundermind-m3",
    "bobby_pcolla",
@@ -6109,7 +6108,6 @@
    "chess3bot",
    "chessai4f",
    "chesschildren",
-   "chessgeniusbot",
    "chessiverse_ethan",
    "chessiverse_luc",
    "chessiverse_pawnza",
@@ -6159,20 +6157,17 @@
    "duchessai",
    "dumbotai",
    "dungine",
-   "dux-on",
    "eclipsebot",
    "edwardkillick",
    "eigenmann-chess",
    "elexunix_chess_bot",
    "elmichess",
-   "enyobot",
    "escacsgba_1",
    "eubos",
    "extrapawncom",
    "fairytailregimebot",
    "falconengine",
    "fathzer-jchess",
-   "fattorini-bot",
    "felipe_bot_53",
    "fenrir-bot",
    "fenrirbot",
@@ -6207,7 +6202,6 @@
    "icarus-bot",
    "ilovecatgirl",
    "incipit_bot",
-   "io-bot",
    "ironbishop_bot",
    "iskelt-corax",
    "jangine",
@@ -6227,6 +6221,7 @@
    "kbelludoo",
    "kestrelchess",
    "kestrelstrike",
+   "kingbobiv",
    "kirinchessbot",
    "knightstalker_uci",
    "kopyto_dev",
@@ -6258,7 +6253,6 @@
    "luminexbot",
    "lunaenginechess",
    "lynx_bot",
-   "macbotitsmagic",
    "maia1",
    "maia3-79m_1000",
    "maia3-79m_1200",
@@ -6281,6 +6275,8 @@
    "mate-in-twenty",
    "mate1-bot",
    "matmoi",
+   "mchesspro_8_uci",
+   "mcvoid-bot",
    "mega-noob-bot",
    "melsh_bot",
    "miccoengine",
@@ -6302,7 +6298,6 @@
    "munzurbot2",
    "musashi-thebot",
    "mutusbot",
-   "mxnet-gamemaster",
    "my_bot121",
    "mychessjava",
    "nanozeroorg",
@@ -6370,6 +6365,7 @@
    "renegadeengine",
    "resolutebot",
    "robodoxadrez",
+   "rockingsuperstars",
    "rookiemaia",
    "rookrusty",
    "rubyai",
@@ -6389,11 +6385,13 @@
    "shahmatbot",
    "shallowredbot",
    "sharpdubot",
+   "shayanytbot",
    "shedletskybot",
    "shrevenbot",
    "silasly",
    "sim3million",
    "simonericafonso",
+   "simplechessengine",
    "simpleeval",
    "sj_norbot",
    "slate-engine",
@@ -6401,7 +6399,7 @@
    "sleepmindengine",
    "smartysprout",
    "solobot",
-   "sparkfish-hce",
+   "sparkchessengine",
    "springerbot",
    "squarefish-900",
    "sseh-c",
@@ -6465,6 +6463,7 @@
    "vicentlittle",
    "vidbot",
    "vietnamesecoffee",
+   "virutor",
    "vortex_bot",
    "vortexaurafarm",
    "vyvrael-chess",
