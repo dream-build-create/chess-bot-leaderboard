@@ -3522,7 +3522,7 @@
   },
   "musashi-thebot": {
    "first_seen": "2026-09-28",
-   "last_online": "2026-11-24",
+   "last_online": "2026-11-25",
    "username": "Musashi-thebot"
   },
   "mutusbot": {
@@ -5100,6 +5100,11 @@
    "last_online": "2026-11-25",
    "username": "StockfishLowDepth"
   },
+  "stockfishroulettebot": {
+   "first_seen": "2026-11-25",
+   "last_online": "2026-11-25",
+   "username": "StockfishRouletteBot"
+  },
   "stockfishv19": {
    "first_seen": "2026-11-20",
    "last_online": "2026-11-25",
@@ -5762,7 +5767,7 @@
   },
   "wannalearnbot": {
    "first_seen": "2026-09-27",
-   "last_online": "2026-11-24",
+   "last_online": "2026-11-25",
    "username": "wannalearnbot"
   },
   "ward64-alpha": {
@@ -6022,7 +6027,7 @@
   }
  },
  "online": {
-  "checked_at": "2026-11-25T05:43:10Z",
+  "checked_at": "2026-11-25T06:43:09Z",
   "ids": [
    "abcd_engine",
    "aconcaguabot",
@@ -6067,7 +6072,6 @@
    "bobby_pcolla",
    "bongaclang",
    "boris-trapsky",
-   "borkatower",
    "bot5551",
    "bot64jaques",
    "bot_adario",
@@ -6078,7 +6082,6 @@
    "bubblebot2",
    "byte-knight",
    "bytefish",
-   "c-t-r-l",
    "caesarbot",
    "caiporabot",
    "capabot",
@@ -6090,6 +6093,7 @@
    "cheng-4",
    "cheng-4-nn",
    "chess3bot",
+   "chess_set_manager",
    "chesschildren",
    "chessiverse_ethan",
    "chessiverse_luc",
@@ -6123,12 +6127,10 @@
    "dala-700",
    "dala-900",
    "darkelectronbot",
-   "darkonbot",
    "darkonweakbot",
    "davidsguterbot",
    "debzero",
    "deepbecky",
-   "deepbluetributebot",
    "deepsquare-ai",
    "demen100ns-bot",
    "devchessplayer-bot",
@@ -6166,7 +6168,6 @@
    "garbobot",
    "georgii_ai",
    "geotsibot",
-   "ghidorah_x",
    "giffibot",
    "gnu4u",
    "goldfish-engine",
@@ -6192,7 +6193,6 @@
    "ironrooks",
    "iskelt-corax",
    "jangine",
-   "jester7777",
    "jibbby",
    "jimmy_inc3710",
    "jjugle",
@@ -6262,7 +6262,6 @@
    "mate1-bot",
    "matmoi",
    "mcdonalds1955",
-   "mcvoid-bot",
    "mega-noob-bot",
    "melsh_bot",
    "miccoengine",
@@ -6281,6 +6280,7 @@
    "mrdeepseekgpt",
    "mrtonnerre",
    "mudskipperbot",
+   "musashi-thebot",
    "mutusbot",
    "mychessjava",
    "nanozeroorg",
@@ -6296,7 +6296,6 @@
    "nittedal",
    "nnueisaura",
    "noabot",
-   "noksiy",
    "nx_horse",
    "o-rei-cx",
    "octarine-bot",
@@ -6344,7 +6343,6 @@
    "radianceengine",
    "raspfish",
    "ratsu-bot",
-   "raven030",
    "ravenengine",
    "ray-bot",
    "rdtchessbot",
@@ -6390,6 +6388,7 @@
    "stockcotsfish",
    "stockdory",
    "stockfishlowdepth",
+   "stockfishroulettebot",
    "stockfishv19",
    "stockpapagei",
    "streamervschat",
@@ -6451,6 +6450,7 @@
    "vyvrael-chess",
    "waldemar-the-elf",
    "walpurti",
+   "wannalearnbot",
    "weiawaga",
    "worserfish19",
    "worstfish",
