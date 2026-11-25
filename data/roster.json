@@ -7,7 +7,7 @@
   },
   "aaronsengine": {
    "first_seen": "2026-09-27",
-   "last_online": "2026-11-24",
+   "last_online": "2026-11-25",
    "username": "AaronsEngine"
   },
   "aathena101": {
@@ -2627,7 +2627,7 @@
   },
   "kingbobiv": {
    "first_seen": "2026-11-20",
-   "last_online": "2026-11-24",
+   "last_online": "2026-11-25",
    "username": "KingBobIV"
   },
   "kingofendgamesbot": {
@@ -6032,8 +6032,9 @@
   }
  },
  "online": {
-  "checked_at": "2026-11-25T09:43:10Z",
+  "checked_at": "2026-11-25T10:43:09Z",
   "ids": [
+   "aaronsengine",
    "abcd_engine",
    "aconcaguabot",
    "aetherbot",
@@ -6086,6 +6087,7 @@
    "bubblebot2",
    "byte-knight",
    "bytefish",
+   "c-t-r-l",
    "caesarbot",
    "caiporabot",
    "capabot",
@@ -6196,7 +6198,6 @@
    "ilovecatgirl",
    "incipit_bot",
    "io-bot",
-   "ironbishop_bot",
    "iskelt-corax",
    "jangine",
    "jibbby",
@@ -6214,6 +6215,7 @@
    "kbelludoo",
    "kestrelchess",
    "kestrelstrike",
+   "kingbobiv",
    "kirinchessbot",
    "knightstalker_uci",
    "kopyto_dev",
@@ -6244,6 +6246,7 @@
    "luminexbot",
    "lunaenginechess",
    "lynx_bot",
+   "macbotitsmagic",
    "maia1",
    "maia3-79m_1000",
    "maia3-79m_1200",
@@ -6266,8 +6269,6 @@
    "mate-in-twenty",
    "mate1-bot",
    "matmoi",
-   "mcdonalds1955",
-   "mcvoid-bot",
    "mega-noob-bot",
    "melsh_bot",
    "miccoengine",
@@ -6371,7 +6372,6 @@
    "scalaqueen",
    "schnecken_bot",
    "scipio-bot",
-   "sdsfaa",
    "seitogakatsu",
    "shahmatbot",
    "shallowredbot",
@@ -6388,7 +6388,6 @@
    "sleepmindengine",
    "smartysprout",
    "solobot",
-   "sparkfish-hce",
    "springerbot",
    "squarefish-900",
    "sseh-c",
@@ -6412,7 +6411,6 @@
    "sykorabot",
    "talbotbot",
    "tallikebot",
-   "tempiko-engines",
    "tempocore",
    "tente-v2",
    "tente8x",
@@ -6433,7 +6431,6 @@
    "troutbot",
    "tucuengine",
    "turk_gambit",
-   "turkjs",
    "turochamp-1ply",
    "turochamp-2ply",
    "twosillypandas",
