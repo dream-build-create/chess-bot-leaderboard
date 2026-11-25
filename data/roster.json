@@ -677,7 +677,7 @@
   },
   "bothev": {
    "first_seen": "2026-09-27",
-   "last_online": "2026-11-24",
+   "last_online": "2026-11-25",
    "username": "Bothev"
   },
   "bothev2": {
@@ -3307,7 +3307,7 @@
   },
   "mcvoid-bot": {
    "first_seen": "2026-11-04",
-   "last_online": "2026-11-24",
+   "last_online": "2026-11-25",
    "username": "mcvoid-bot"
   },
   "mdbot": {
@@ -4882,7 +4882,7 @@
   },
   "slychessbot": {
    "first_seen": "2026-10-01",
-   "last_online": "2026-11-23",
+   "last_online": "2026-11-25",
    "username": "SlyChessBot"
   },
   "smartysprout": {
@@ -6017,7 +6017,7 @@
   }
  },
  "online": {
-  "checked_at": "2026-11-25T00:43:10Z",
+  "checked_at": "2026-11-25T01:43:10Z",
   "ids": [
    "abcd_engine",
    "aconcaguabot",
@@ -6066,6 +6066,7 @@
    "bot5551",
    "bot64jaques",
    "bot_adario",
+   "bothev",
    "botkill-v18x",
    "bottios",
    "bretemabot",
@@ -6084,7 +6085,6 @@
    "chatgpt5_5",
    "chess3bot",
    "chess_set_manager",
-   "chessgeniusbot",
    "chessiverse_ethan",
    "chessiverse_luc",
    "chessiverse_pawnza",
@@ -6250,8 +6250,8 @@
    "mate-in-twenty",
    "mate1-bot",
    "matmoi",
-   "maximaengine",
    "mcdonalds1955",
+   "mcvoid-bot",
    "mega-noob-bot",
    "melsh_bot",
    "miccoengine",
@@ -6344,7 +6344,6 @@
    "rust-in-pieces",
    "rust-in-pieces-nnue",
    "safila",
-   "sardinebot",
    "sargon-1ply",
    "sargon-3ply",
    "sbnovella",
@@ -6365,6 +6364,7 @@
    "slate-engine",
    "sleepish",
    "sleepmindengine",
+   "slychessbot",
    "smartysprout",
    "solobot",
    "sparkchessengine",
