@@ -807,7 +807,7 @@
   },
   "cactus_bot": {
    "first_seen": "2026-09-30",
-   "last_online": "2026-11-21",
+   "last_online": "2026-11-25",
    "username": "Cactus_Bot"
   },
   "caesarbot": {
@@ -2392,7 +2392,7 @@
   },
   "ironfang": {
    "first_seen": "2026-10-24",
-   "last_online": "2026-11-17",
+   "last_online": "2026-11-25",
    "username": "Ironfang"
   },
   "ironrooks": {
@@ -2837,7 +2837,7 @@
   },
   "leelachesstest": {
    "first_seen": "2026-09-30",
-   "last_online": "2026-11-24",
+   "last_online": "2026-11-25",
    "username": "LeelaChessTest"
   },
   "leelajester": {
@@ -5622,7 +5622,7 @@
   },
   "utrons11": {
    "first_seen": "2026-11-20",
-   "last_online": "2026-11-24",
+   "last_online": "2026-11-25",
    "username": "Utrons11"
   },
   "uundrstnd": {
@@ -5759,6 +5759,11 @@
    "first_seen": "2026-11-20",
    "last_online": "2026-11-25",
    "username": "Vyvrael-Chess"
+  },
+  "wailly": {
+   "first_seen": "2026-11-25",
+   "last_online": "2026-11-25",
+   "username": "Wailly"
   },
   "waldemar-the-elf": {
    "first_seen": "2026-10-13",
@@ -6042,7 +6047,7 @@
   }
  },
  "online": {
-  "checked_at": "2026-11-25T17:43:09Z",
+  "checked_at": "2026-11-25T18:43:15Z",
   "ids": [
    "aaronsengine",
    "abcd_engine",
@@ -6053,6 +6058,7 @@
    "aggressivestockfish",
    "ai-con",
    "ailedbot",
+   "alehkine_cat",
    "alexandrya",
    "aliceshiro",
    "alieknek",
@@ -6083,6 +6089,7 @@
    "bitbitbot",
    "bluemoonbot",
    "blujay-bot",
+   "blundeel67",
    "blundermind-01",
    "blundermind-m3",
    "bongaclang",
@@ -6099,6 +6106,7 @@
    "bubblebot2",
    "byte-knight",
    "bytefish",
+   "cactus_bot",
    "caesarbot",
    "caiporabot",
    "capabot",
@@ -6119,7 +6127,6 @@
    "chessiverse_raak",
    "chessmindbot",
    "chessmode-go",
-   "chesstransformerbot",
    "cheszter",
    "chill4ce",
    "cinder-bot",
@@ -6209,6 +6216,7 @@
    "incipit_bot",
    "io-bot",
    "ironbishop_bot",
+   "ironfang",
    "iskelt-corax",
    "jangine",
    "jibbby",
@@ -6234,8 +6242,10 @@
    "laura-bot",
    "leelaalien",
    "leelaanyodds",
+   "leelachesstest",
    "leelajester",
    "leelaknightodds",
+   "leelamultiposs",
    "leelapieceodds",
    "leelaqueenforknight",
    "leelaqueenodds",
@@ -6253,7 +6263,6 @@
    "littlepatricia",
    "littleply",
    "louischess48-6k",
-   "lucena_973",
    "lukebot",
    "luminexbot",
    "lunaenginechess",
@@ -6282,12 +6291,12 @@
    "mate-in-twenty",
    "mate1-bot",
    "matmoi",
+   "maximaengine",
    "mcdonalds1955",
    "mchesspro_8_uci",
    "mcvoid-bot",
    "mega-noob-bot",
    "melsh_bot",
-   "michaamateurbot",
    "milanbot",
    "mimirbot",
    "minopponentmoves",
@@ -6303,9 +6312,7 @@
    "mrtonnerre",
    "mudskipperbot",
    "munzurbot2",
-   "musashi-thebot",
    "mutusbot",
-   "my_bot121",
    "mychessjava",
    "nanozeroorg",
    "ndr1sn",
@@ -6349,7 +6356,6 @@
    "playmarius",
    "plumboi",
    "plumbot",
-   "polvo_engine",
    "princhess_policy_bot",
    "prismnnue",
    "prokopakop",
@@ -6390,13 +6396,12 @@
    "shahmatbot",
    "shallowredbot",
    "sharpdubot",
-   "shayanytbot",
    "shedletskybot",
    "shrevenbot",
    "silasly",
    "sim3million",
    "simonericafonso",
-   "simple_chess_lab",
+   "simplechessengine",
    "simpleeval",
    "sj_norbot",
    "slate-engine",
@@ -6431,7 +6436,6 @@
    "tallikebot",
    "tempocore",
    "tente-v2",
-   "tente8x",
    "territorybot",
    "thechessblazer",
    "thunfisch-bot",
@@ -6451,7 +6455,6 @@
    "turochamp-1ply",
    "turochamp-2ply",
    "twosillypandas",
-   "uiagbot",
    "ultrabrick",
    "unimark",
    "ursus_bot",
@@ -6460,6 +6463,7 @@
    "usunfish-l1",
    "usunfish-l7",
    "utrain-chess-bot",
+   "utrons11",
    "uxugin-bot",
    "uzenatch",
    "vanibot",
@@ -6474,6 +6478,7 @@
    "vortex_bot",
    "vortexaurafarm",
    "vyvrael-chess",
+   "wailly",
    "waldemar-the-elf",
    "walpurti",
    "wannalearnbot",
