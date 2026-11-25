@@ -3072,7 +3072,7 @@
   },
   "macbotitsmagic": {
    "first_seen": "2026-11-17",
-   "last_online": "2026-11-24",
+   "last_online": "2026-11-25",
    "username": "macbotitsmagic"
   },
   "mackbot": {
@@ -4112,7 +4112,7 @@
   },
   "ponytail_engine": {
    "first_seen": "2026-10-28",
-   "last_online": "2026-11-24",
+   "last_online": "2026-11-25",
    "username": "Ponytail_engine"
   },
   "potential_engine": {
@@ -4732,7 +4732,7 @@
   },
   "shahmatbot": {
    "first_seen": "2026-11-04",
-   "last_online": "2026-11-23",
+   "last_online": "2026-11-25",
    "username": "SHAHMATBOT"
   },
   "shallowredbot": {
@@ -5312,7 +5312,7 @@
   },
   "territorybot": {
    "first_seen": "2026-11-01",
-   "last_online": "2026-11-20",
+   "last_online": "2026-11-25",
    "username": "TerritoryBot"
   },
   "test-z": {
@@ -6032,7 +6032,7 @@
   }
  },
  "online": {
-  "checked_at": "2026-11-25T07:43:10Z",
+  "checked_at": "2026-11-25T08:43:11Z",
   "ids": [
    "abcd_engine",
    "aconcaguabot",
@@ -6086,7 +6086,6 @@
    "bubblebot2",
    "byte-knight",
    "bytefish",
-   "caesarbot",
    "caiporabot",
    "capabot",
    "casanchess-nnue",
@@ -6113,7 +6112,6 @@
    "cinder-bot",
    "classical-leela",
    "claude_bot",
-   "claudyengine",
    "clessy-bot",
    "cloudia-chess",
    "clrsrc_lc0",
@@ -6148,7 +6146,6 @@
    "drewschessmachine",
    "dubot",
    "duchessai",
-   "duckish",
    "dumbotai",
    "dungine",
    "eclipsebot",
@@ -6197,8 +6194,7 @@
    "icarus-bot",
    "ilovecatgirl",
    "incipit_bot",
-   "ironbishop_bot",
-   "ironrooks",
+   "io-bot",
    "iskelt-corax",
    "jangine",
    "jibbby",
@@ -6232,7 +6228,6 @@
    "leelarookodds",
    "leelatroll",
    "leelonardo",
-   "legotechniccontrolpl",
    "lentuschess",
    "levymaia",
    "lightning-762",
@@ -6246,6 +6241,7 @@
    "luminexbot",
    "lunaenginechess",
    "lynx_bot",
+   "macbotitsmagic",
    "maia1",
    "maia3-79m_1000",
    "maia3-79m_1200",
@@ -6335,6 +6331,7 @@
    "plumbot",
    "polvo_engine",
    "pontiengine",
+   "ponytail_engine",
    "princhess_policy_bot",
    "prismnnue",
    "prokopakop",
@@ -6351,6 +6348,7 @@
    "radianceengine",
    "raspfish",
    "ratsu-bot",
+   "raven030",
    "ravenengine",
    "ray-bot",
    "rdtchessbot",
@@ -6370,14 +6368,15 @@
    "scalaqueen",
    "schnecken_bot",
    "scipio-bot",
-   "sdsfaa",
    "seitogakatsu",
+   "shahmatbot",
    "shallowredbot",
    "sharpdubot",
    "shedletskybot",
    "shrevenbot",
    "silasly",
    "sim3million",
+   "simonericafonso",
    "simpleeval",
    "sj_norbot",
    "slate-engine",
@@ -6413,8 +6412,8 @@
    "tempocore",
    "tente-v2",
    "tente8x",
+   "territorybot",
    "thechessblazer",
-   "throrbjorn",
    "thunfisch-bot",
    "tigrament",
    "tikifish",
@@ -6453,7 +6452,6 @@
    "vidbot",
    "vietnamesecoffee",
    "virutor",
-   "void_bot",
    "vortex_bot",
    "vortexaurafarm",
    "vyvrael-chess",
