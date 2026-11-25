@@ -622,7 +622,7 @@
   },
   "bot-kut": {
    "first_seen": "2026-11-18",
-   "last_online": "2026-11-18",
+   "last_online": "2026-11-25",
    "username": "Bot-Kut"
   },
   "bot-o-tron": {
@@ -3262,7 +3262,7 @@
   },
   "matemakingmachine": {
    "first_seen": "2026-09-29",
-   "last_online": "2026-11-24",
+   "last_online": "2026-11-25",
    "username": "MateMakingMachine"
   },
   "matmoi": {
@@ -3417,7 +3417,7 @@
   },
   "minimaxpro": {
    "first_seen": "2026-11-07",
-   "last_online": "2026-11-23",
+   "last_online": "2026-11-25",
    "username": "Minimaxpro"
   },
   "minmaxvalgen": {
@@ -5015,6 +5015,11 @@
    "last_online": "2026-11-25",
    "username": "SparkFish-HCE"
   },
+  "spartacusbot": {
+   "first_seen": "2026-11-25",
+   "last_online": "2026-11-25",
+   "username": "SPARTACUSbot"
+  },
   "spearfast": {
    "first_seen": "2026-11-13",
    "last_online": "2026-11-21",
@@ -5822,7 +5827,7 @@
   },
   "wedge_engine": {
    "first_seen": "2026-10-22",
-   "last_online": "2026-11-24",
+   "last_online": "2026-11-25",
    "username": "wedge_engine"
   },
   "weeebot": {
@@ -6032,7 +6037,7 @@
   },
   "zuhammet": {
    "first_seen": "2026-10-28",
-   "last_online": "2026-11-24",
+   "last_online": "2026-11-25",
    "username": "Zuhammet"
   },
   "zxasdsaasda": {
@@ -6047,10 +6052,9 @@
   }
  },
  "online": {
-  "checked_at": "2026-11-25T18:43:15Z",
+  "checked_at": "2026-11-25T19:43:11Z",
   "ids": [
    "aaronsengine",
-   "abcd_engine",
    "aconcaguabot",
    "aetherbot",
    "aethertal_bot",
@@ -6089,11 +6093,11 @@
    "bitbitbot",
    "bluemoonbot",
    "blujay-bot",
-   "blundeel67",
    "blundermind-01",
    "blundermind-m3",
    "bongaclang",
    "boris-trapsky",
+   "bot-kut",
    "bot5551",
    "bot64jaques",
    "bot_adario",
@@ -6120,7 +6124,6 @@
    "chess3bot",
    "chessai4f",
    "chesschildren",
-   "chessgeniusbot",
    "chessiverse_ethan",
    "chessiverse_luc",
    "chessiverse_pawnza",
@@ -6212,11 +6215,11 @@
    "hyperopic",
    "icarus-bot",
    "ilovecatgirl",
-   "implosio",
    "incipit_bot",
    "io-bot",
    "ironbishop_bot",
    "ironfang",
+   "ironrooks",
    "iskelt-corax",
    "jangine",
    "jibbby",
@@ -6267,7 +6270,6 @@
    "luminexbot",
    "lunaenginechess",
    "lynx_bot",
-   "macbotitsmagic",
    "maia1",
    "maia3-79m_1000",
    "maia3-79m_1200",
@@ -6290,6 +6292,7 @@
    "mate-in-thirty",
    "mate-in-twenty",
    "mate1-bot",
+   "matemakingmachine",
    "matmoi",
    "maximaengine",
    "mcdonalds1955",
@@ -6297,8 +6300,10 @@
    "mcvoid-bot",
    "mega-noob-bot",
    "melsh_bot",
+   "michaamateurbot",
    "milanbot",
    "mimirbot",
+   "minimaxpro",
    "minopponentmoves",
    "mithandros",
    "mochi-fat",
@@ -6376,7 +6381,6 @@
    "rdtchessbot",
    "renegadeengine",
    "resolutebot",
-   "robodoxadrez",
    "rookiemaia",
    "rookrusty",
    "rubyai",
@@ -6409,12 +6413,14 @@
    "sleepmindengine",
    "smartysprout",
    "solobot",
+   "spartacusbot",
    "springerbot",
    "squarefish-900",
    "sseh-c",
    "stardustengine",
    "stargazerengine",
    "stickshark99",
+   "stockconda",
    "stockcotsfish",
    "stockdory",
    "stockfish_bot2",
@@ -6436,6 +6442,7 @@
    "tallikebot",
    "tempocore",
    "tente-v2",
+   "tente8x",
    "territorybot",
    "thechessblazer",
    "thunfisch-bot",
@@ -6482,14 +6489,16 @@
    "waldemar-the-elf",
    "walpurti",
    "wannalearnbot",
+   "wedge_engine",
    "weiawaga",
    "worserfish19",
    "worstfish",
    "xen-0",
+   "xmtcore",
    "z-o_aspenlabs",
    "zanak-bot",
-   "zfishbot",
-   "zion-bot"
+   "zion-bot",
+   "zuhammet"
   ]
  },
  "schema_version": 1
