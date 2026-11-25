@@ -1010,6 +1010,11 @@
    "last_online": "2026-11-24",
    "username": "chessbot2880"
   },
+  "chessbotbuddy": {
+   "first_seen": "2026-11-25",
+   "last_online": "2026-11-25",
+   "username": "chessbotbuddy"
+  },
   "chessbzero": {
    "first_seen": "2026-10-02",
    "last_online": "2026-10-05",
@@ -2249,6 +2254,11 @@
    "first_seen": "2026-09-27",
    "last_online": "2026-11-25",
    "username": "honzovy-sachy-2"
+  },
+  "hornetbot": {
+   "first_seen": "2026-11-25",
+   "last_online": "2026-11-25",
+   "username": "HornetBot"
   },
   "huginn_bot": {
    "first_seen": "2026-11-01",
@@ -4372,7 +4382,7 @@
   },
   "reality_bot": {
    "first_seen": "2026-10-10",
-   "last_online": "2026-11-20",
+   "last_online": "2026-11-25",
    "username": "Reality_BOT"
   },
   "reaper1bot": {
@@ -6057,14 +6067,13 @@
   }
  },
  "online": {
-  "checked_at": "2026-11-25T21:43:09Z",
+  "checked_at": "2026-11-25T21:57:42Z",
   "ids": [
    "abcd_engine",
    "aconcaguabot",
    "aetherbot",
    "aethertal_bot",
    "agentc313",
-   "aggressivestockfish",
    "ai-con",
    "ailedbot",
    "alehkine_cat",
@@ -6128,6 +6137,7 @@
    "chess3bot",
    "chess_set_manager",
    "chessai4f",
+   "chessbotbuddy",
    "chessgeniusbot",
    "chessiverse_ethan",
    "chessiverse_luc",
@@ -6212,6 +6222,7 @@
    "halcyonbot",
    "hardrok",
    "homoludensbot",
+   "hornetbot",
    "humaia",
    "humaia-strong",
    "hustler_1mb",
@@ -6222,7 +6233,6 @@
    "ilovecatgirl",
    "incipit_bot",
    "io-bot",
-   "ironbishop_bot",
    "ironrooks",
    "iskelt-corax",
    "jangine",
@@ -6298,7 +6308,6 @@
    "maximaengine",
    "mcdonalds1955",
    "mchesspro_8_uci",
-   "mcvoid-bot",
    "mega-noob-bot",
    "melsh_bot",
    "michaamateurbot",
@@ -6315,7 +6324,6 @@
    "mrdeepseekgpt",
    "mrtonnerre",
    "mudskipperbot",
-   "munzurbot2",
    "mutusbot",
    "mychessjava",
    "nanozeroorg",
@@ -6375,6 +6383,7 @@
    "ravenengine",
    "ray-bot",
    "rdtchessbot",
+   "reality_bot",
    "renegadeengine",
    "resolutebot",
    "robodoxadrez",
@@ -6385,7 +6394,6 @@
    "rust-in-pieces",
    "rust-in-pieces-nnue",
    "safila",
-   "saherator",
    "sardinebot",
    "sargon-1ply",
    "sargon-3ply",
@@ -6393,7 +6401,6 @@
    "scalaqueen",
    "schnecken_bot",
    "scipio-bot",
-   "sdsfaa",
    "seitogakatsu",
    "shahmatbot",
    "shallowredbot",
@@ -6467,7 +6474,6 @@
    "usunfish-l1",
    "usunfish-l7",
    "utrain-chess-bot",
-   "utrons11",
    "uxugin-bot",
    "uzenatch",
    "vanibot",
@@ -6481,6 +6487,7 @@
    "vortex_bot",
    "vortexaurafarm",
    "vyvrael-chess",
+   "wailly",
    "waldemar-the-elf",
    "walpurti",
    "wannalearnbot",
@@ -6492,8 +6499,7 @@
    "z-o_aspenlabs",
    "zanak-bot",
    "zfishbot",
-   "zion-bot",
-   "zuhammet"
+   "zion-bot"
   ]
  },
  "schema_version": 1
