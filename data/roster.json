@@ -827,7 +827,7 @@
   },
   "caissa-x": {
    "first_seen": "2026-09-29",
-   "last_online": "2026-11-24",
+   "last_online": "2026-11-26",
    "username": "caissa-x"
   },
   "calciumengine": {
@@ -2630,6 +2630,11 @@
    "last_online": "2026-11-26",
    "username": "kbelludoo"
   },
+  "kekebot": {
+   "first_seen": "2026-11-26",
+   "last_online": "2026-11-26",
+   "username": "kekebot"
+  },
   "kempelenengine": {
    "first_seen": "2026-10-26",
    "last_online": "2026-11-21",
@@ -3807,7 +3812,7 @@
   },
   "notropis": {
    "first_seen": "2026-09-27",
-   "last_online": "2026-11-19",
+   "last_online": "2026-11-26",
    "username": "notropis"
   },
   "nowboy-chess-robot": {
@@ -5492,7 +5497,7 @@
   },
   "tonyengine": {
    "first_seen": "2026-09-29",
-   "last_online": "2026-11-25",
+   "last_online": "2026-11-26",
    "username": "TonyEngine"
   },
   "topasbot": {
@@ -6027,7 +6032,7 @@
   },
   "zero-dot": {
    "first_seen": "2026-11-20",
-   "last_online": "2026-11-25",
+   "last_online": "2026-11-26",
    "username": "ZERO-DOT"
   },
   "zero3-now": {
@@ -6087,7 +6092,7 @@
   }
  },
  "online": {
-  "checked_at": "2026-11-26T05:43:10Z",
+  "checked_at": "2026-11-26T06:43:12Z",
   "ids": [
    "abcd_engine",
    "aconcaguabot",
@@ -6136,7 +6141,6 @@
    "bobby_pcolla",
    "bongaclang",
    "boris-trapsky",
-   "borkatower",
    "bot5551",
    "bot64jaques",
    "bot_adario",
@@ -6151,6 +6155,7 @@
    "c-t-r-l",
    "caesarbot",
    "caiporabot",
+   "caissa-x",
    "capabot",
    "casanchess-nnue",
    "cassidychess-bot",
@@ -6161,7 +6166,6 @@
    "cheng-4-nn",
    "chess3bot",
    "chess_set_manager",
-   "chessai4f",
    "chessbook-1",
    "chessbotbuddy",
    "chesschildren",
@@ -6212,7 +6216,6 @@
    "dubot",
    "duchessai",
    "dumbotai",
-   "dungine",
    "eclipsebot",
    "edwardkillick",
    "eigenmann-chess",
@@ -6237,7 +6240,6 @@
    "garbobot",
    "georgii_ai",
    "geotsibot",
-   "ghidorah_x",
    "giffibot",
    "glorbo_evermorrow",
    "gnu4u",
@@ -6259,6 +6261,7 @@
    "icarus-bot",
    "ilovecatgirl",
    "incipit_bot",
+   "io-bot",
    "ironbishop_bot",
    "ironrooks",
    "iskelt-corax",
@@ -6273,7 +6276,9 @@
    "jurdbird",
    "justbot-v1",
    "kahunabot",
+   "karl-engine-v1",
    "kbelludoo",
+   "kekebot",
    "kestrelchess",
    "kestrelstrike",
    "kirinchessbot",
@@ -6368,6 +6373,7 @@
    "nnueisaura",
    "noabot",
    "noksiy",
+   "notropis",
    "nx_horse",
    "o-rei-cx",
    "octarine-bot",
@@ -6477,18 +6483,18 @@
    "tallikebot",
    "tempocore",
    "tente-v2",
-   "tente8x",
    "territorybot",
    "thechessblazer",
-   "throrbjorn",
    "thunfisch-bot",
    "tigrament",
    "tilapiabot",
    "tinyairun",
    "to299d",
    "togaii",
+   "tonyengine",
    "topasbot",
    "trainer-bot",
+   "trainingbuddy",
    "trenerhetman",
    "trinculobot",
    "troutbot",
@@ -6528,6 +6534,7 @@
    "xen-0",
    "z-o_aspenlabs",
    "zanak-bot",
+   "zero-dot",
    "zion-bot"
   ]
  },
