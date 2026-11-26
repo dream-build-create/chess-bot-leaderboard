@@ -702,7 +702,7 @@
   },
   "botkingteam33": {
    "first_seen": "2026-10-11",
-   "last_online": "2026-11-23",
+   "last_online": "2026-11-26",
    "username": "Botkingteam33"
   },
   "botmonok": {
@@ -1367,7 +1367,7 @@
   },
   "darkdayonip": {
    "first_seen": "2026-11-23",
-   "last_online": "2026-11-23",
+   "last_online": "2026-11-26",
    "username": "DarkDayOnip"
   },
   "darkelectronbot": {
@@ -3427,7 +3427,7 @@
   },
   "mind_bot": {
    "first_seen": "2026-10-03",
-   "last_online": "2026-11-23",
+   "last_online": "2026-11-26",
    "username": "Mind_BOT"
   },
   "minibotapi": {
@@ -4342,7 +4342,7 @@
   },
   "rapidplayero": {
    "first_seen": "2026-11-23",
-   "last_online": "2026-11-23",
+   "last_online": "2026-11-26",
    "username": "RapidplayerO"
   },
   "rascal1": {
@@ -4802,7 +4802,7 @@
   },
   "shayanytbot": {
    "first_seen": "2026-11-22",
-   "last_online": "2026-11-25",
+   "last_online": "2026-11-26",
    "username": "shayanYTBOT"
   },
   "shedletskybot": {
@@ -5612,7 +5612,7 @@
   },
   "uiagbot": {
    "first_seen": "2026-10-10",
-   "last_online": "2026-11-25",
+   "last_online": "2026-11-26",
    "username": "uiagBot"
   },
   "ultrabrick": {
@@ -6072,7 +6072,7 @@
   },
   "zoo_amrica": {
    "first_seen": "2026-11-22",
-   "last_online": "2026-11-23",
+   "last_online": "2026-11-26",
    "username": "Zoo_amrica"
   },
   "zuhammet": {
@@ -6092,7 +6092,7 @@
   }
  },
  "online": {
-  "checked_at": "2026-11-26T10:43:09Z",
+  "checked_at": "2026-11-26T11:43:09Z",
   "ids": [
    "aaronsengine",
    "abcd_engine",
@@ -6147,6 +6147,7 @@
    "bot_adario",
    "bothev",
    "botkill-v18x",
+   "botkingteam33",
    "bottios",
    "bottrain",
    "bretemabot",
@@ -6154,7 +6155,6 @@
    "byte-knight",
    "bytefish",
    "caiporabot",
-   "caissa-x",
    "capabot",
    "casanchess-nnue",
    "cassidychess-bot",
@@ -6201,6 +6201,7 @@
    "dala-2000",
    "dala-700",
    "dala-900",
+   "darkdayonip",
    "darkelectronbot",
    "darkonweakbot",
    "davidsguterbot",
@@ -6219,6 +6220,7 @@
    "dubot",
    "duchessai",
    "dumbotai",
+   "dungine",
    "eclipsebot",
    "edwardkillick",
    "eigenmann-chess",
@@ -6286,6 +6288,7 @@
    "kestrelstrike",
    "kirinchessbot",
    "kittyenginev5",
+   "klak_engine",
    "knightstalker_uci",
    "kopyto_dev",
    "lamprook",
@@ -6340,11 +6343,13 @@
    "maximaengine",
    "mcdonalds1955",
    "mchesspro_8_uci",
+   "mcvoid-bot",
    "mega-noob-bot",
    "melsh_bot",
    "miccoengine",
    "milanbot",
    "mimirbot",
+   "mind_bot",
    "minopponentmoves",
    "mithandros",
    "mochi-fat",
@@ -6357,6 +6362,7 @@
    "mrdeepseekgpt",
    "mrtonnerre",
    "mudskipperbot",
+   "munzurbot2",
    "musashi-thebot",
    "mutusbot",
    "my_bot121",
@@ -6403,7 +6409,6 @@
    "playmarius",
    "plumboi",
    "plumbot",
-   "polvo_engine",
    "princhess_policy_bot",
    "prismnnue",
    "prokopakop",
@@ -6418,6 +6423,7 @@
    "quirkafleeg-zxnext",
    "r0bspierre",
    "radianceengine",
+   "rapidplayero",
    "raspfish",
    "ratsu-bot",
    "raven030",
@@ -6446,6 +6452,7 @@
    "shahmatbot",
    "shallowredbot",
    "sharpdubot",
+   "shayanytbot",
    "shedletskybot",
    "shrevenbot",
    "silasly",
@@ -6458,6 +6465,7 @@
    "sleepmindengine",
    "smartysprout",
    "solobot",
+   "sparkchessengine",
    "springerbot",
    "squarefish-900",
    "sseh-c",
@@ -6505,6 +6513,7 @@
    "turochamp-1ply",
    "turochamp-2ply",
    "twosillypandas",
+   "uiagbot",
    "ultrabrick",
    "unimark",
    "ursus_bot",
@@ -6535,7 +6544,8 @@
    "xmtcore",
    "z-o_aspenlabs",
    "zanak-bot",
-   "zion-bot"
+   "zion-bot",
+   "zoo_amrica"
   ]
  },
  "schema_version": 1
