@@ -7,7 +7,7 @@
   },
   "aaronsengine": {
    "first_seen": "2026-09-27",
-   "last_online": "2026-11-25",
+   "last_online": "2026-11-26",
    "username": "AaronsEngine"
   },
   "aathena101": {
@@ -2472,7 +2472,7 @@
   },
   "jaxakos13_bot": {
    "first_seen": "2026-10-22",
-   "last_online": "2026-11-20",
+   "last_online": "2026-11-26",
    "username": "Jaxakos13_bot"
   },
   "jaxman_n": {
@@ -3112,7 +3112,7 @@
   },
   "macbotitsmagic": {
    "first_seen": "2026-11-17",
-   "last_online": "2026-11-25",
+   "last_online": "2026-11-26",
    "username": "macbotitsmagic"
   },
   "mackbot": {
@@ -5412,7 +5412,7 @@
   },
   "theunknown-bot": {
    "first_seen": "2026-11-21",
-   "last_online": "2026-11-23",
+   "last_online": "2026-11-26",
    "username": "TheUnknown-BOT"
   },
   "thevariantsnormalbot": {
@@ -6092,8 +6092,9 @@
   }
  },
  "online": {
-  "checked_at": "2026-11-26T09:43:09Z",
+  "checked_at": "2026-11-26T10:43:09Z",
   "ids": [
+   "aaronsengine",
    "abcd_engine",
    "aconcaguabot",
    "aetherbot",
@@ -6144,6 +6145,7 @@
    "bot5551",
    "bot64jaques",
    "bot_adario",
+   "bothev",
    "botkill-v18x",
    "bottios",
    "bottrain",
@@ -6200,7 +6202,6 @@
    "dala-700",
    "dala-900",
    "darkelectronbot",
-   "darkonbot",
    "darkonweakbot",
    "davidsguterbot",
    "debzero",
@@ -6264,9 +6265,11 @@
    "ilovecatgirl",
    "incipit_bot",
    "io-bot",
+   "ironbishop_bot",
    "ironrooks",
    "iskelt-corax",
    "jangine",
+   "jaxakos13_bot",
    "jibbby",
    "jimmy_inc3710",
    "jjugle",
@@ -6279,12 +6282,10 @@
    "kahunabot",
    "karl-engine-v1",
    "kbelludoo",
-   "kekebot",
    "kestrelchess",
    "kestrelstrike",
    "kirinchessbot",
    "kittyenginev5",
-   "klak_engine",
    "knightstalker_uci",
    "kopyto_dev",
    "lamprook",
@@ -6313,6 +6314,7 @@
    "luminexbot",
    "lunaenginechess",
    "lynx_bot",
+   "macbotitsmagic",
    "maia1",
    "maia3-79m_1000",
    "maia3-79m_1200",
@@ -6336,6 +6338,7 @@
    "mate1-bot",
    "matmoi",
    "maximaengine",
+   "mcdonalds1955",
    "mchesspro_8_uci",
    "mega-noob-bot",
    "melsh_bot",
@@ -6370,7 +6373,6 @@
    "nittedal",
    "nnueisaura",
    "noabot",
-   "noksiy",
    "notropis",
    "nx_horse",
    "o-rei-cx",
@@ -6432,7 +6434,6 @@
    "rudim-bot",
    "rust-in-pieces",
    "rust-in-pieces-nnue",
-   "saintengine",
    "sardinebot",
    "sargon-1ply",
    "sargon-3ply",
@@ -6440,6 +6441,7 @@
    "scalaqueen",
    "schnecken_bot",
    "scipio-bot",
+   "sdsfaa",
    "seitogakatsu",
    "shahmatbot",
    "shallowredbot",
@@ -6456,7 +6458,6 @@
    "sleepmindengine",
    "smartysprout",
    "solobot",
-   "sparkchessengine",
    "springerbot",
    "squarefish-900",
    "sseh-c",
@@ -6485,6 +6486,7 @@
    "tente8x",
    "territorybot",
    "thechessblazer",
+   "theunknown-bot",
    "thunfisch-bot",
    "tigrament",
    "tikifish",
@@ -6516,6 +6518,7 @@
    "vanibot",
    "variantsbot",
    "veloct_base",
+   "vic98lg",
    "vicentlittle",
    "vidbot",
    "vietnamesecoffee",
@@ -6529,6 +6532,7 @@
    "worserfish19",
    "worstfish",
    "xen-0",
+   "xmtcore",
    "z-o_aspenlabs",
    "zanak-bot",
    "zion-bot"
