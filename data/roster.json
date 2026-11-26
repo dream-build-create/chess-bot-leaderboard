@@ -1405,6 +1405,11 @@
    "last_online": "2026-11-26",
    "username": "DarkVoidReaper"
   },
+  "darwin-chess-bot": {
+   "first_seen": "2026-11-26",
+   "last_online": "2026-11-26",
+   "username": "darwin-chess-bot"
+  },
   "dassi-ai": {
    "first_seen": "2026-10-05",
    "last_online": "2026-10-06",
@@ -2787,7 +2792,7 @@
   },
   "kulubot": {
    "first_seen": "2026-09-27",
-   "last_online": "2026-11-14",
+   "last_online": "2026-11-26",
    "username": "kulubot"
   },
   "kuniboy4chik": {
@@ -5730,6 +5735,11 @@
    "last_online": "2026-11-26",
    "username": "VariantsBot"
   },
+  "veloct-v8": {
+   "first_seen": "2026-11-26",
+   "last_online": "2026-11-26",
+   "username": "VeloCT-V8"
+  },
   "veloct_base": {
    "first_seen": "2026-11-23",
    "last_online": "2026-11-26",
@@ -5827,7 +5837,7 @@
   },
   "wailly": {
    "first_seen": "2026-11-25",
-   "last_online": "2026-11-25",
+   "last_online": "2026-11-26",
    "username": "Wailly"
   },
   "waldemar-the-elf": {
@@ -6112,7 +6122,7 @@
   }
  },
  "online": {
-  "checked_at": "2026-11-26T14:43:09Z",
+  "checked_at": "2026-11-26T15:43:09Z",
   "ids": [
    "aaronsengine",
    "abcd_engine",
@@ -6135,7 +6145,6 @@
    "anti-anti",
    "anti-bot",
    "antibotv3-7",
-   "antifishbot",
    "aposeij",
    "approximationbot",
    "arasanx",
@@ -6166,7 +6175,6 @@
    "bot_adario",
    "bothev",
    "botkill-v18x",
-   "botkingteam33",
    "bottios",
    "bottrain",
    "bretemabot",
@@ -6224,10 +6232,10 @@
    "dala-2000",
    "dala-700",
    "dala-900",
-   "darkdayonip",
    "darkelectronbot",
    "darkonbot",
    "darkonweakbot",
+   "darwin-chess-bot",
    "davidsguterbot",
    "debzero",
    "deepbecky",
@@ -6235,7 +6243,6 @@
    "demen100ns-bot",
    "devchessplayer-bot",
    "devilfishzero",
-   "dingusbot",
    "diogenes-bot",
    "disrespect_fish",
    "dravox",
@@ -6314,6 +6321,7 @@
    "kittyenginev5",
    "knightstalker_uci",
    "kopyto_dev",
+   "kulubot",
    "lamprook",
    "lantern_bot",
    "laura-bot",
@@ -6391,6 +6399,7 @@
    "nanozeroorg",
    "ndr1sn",
    "neryba",
+   "neurochess_ezy",
    "neurosocute",
    "nexastrat",
    "next_uzbek",
@@ -6447,7 +6456,6 @@
    "quirkafleeg-zxnext",
    "r0bspierre",
    "radianceengine",
-   "rapidplayero",
    "raspfish",
    "ratsu-bot",
    "raven030",
@@ -6475,7 +6483,6 @@
    "shahmatbot",
    "shallowredbot",
    "sharpdubot",
-   "shayanytbot",
    "shedletskybot",
    "shrevenbot",
    "silasly",
@@ -6548,6 +6555,7 @@
    "uzenatch",
    "vanibot",
    "variantsbot",
+   "veloct-v8",
    "vic98lg",
    "vicentlittle",
    "vidbot",
@@ -6556,19 +6564,17 @@
    "vortex_bot",
    "vortexaurafarm",
    "vyvrael-chess",
+   "wailly",
    "waldemar-the-elf",
    "walpurti",
    "weiawaga",
    "worserfish19",
    "worstfish",
    "xen-0",
-   "xmtcore",
    "z-o_aspenlabs",
    "zanak-bot",
    "zero-dot",
-   "zion-bot",
-   "zoo_amrica",
-   "zuhammet"
+   "zion-bot"
   ]
  },
  "schema_version": 1
