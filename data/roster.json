@@ -515,6 +515,11 @@
    "last_online": "2026-11-26",
    "username": "bfiedler-bot"
   },
+  "bhaaibot": {
+   "first_seen": "2026-11-26",
+   "last_online": "2026-11-26",
+   "username": "BhaaiBot"
+  },
   "bhonduesque": {
    "first_seen": "2026-09-27",
    "last_online": "2026-10-28",
@@ -547,7 +552,7 @@
   },
   "blackeventhorizon": {
    "first_seen": "2026-09-27",
-   "last_online": "2026-11-03",
+   "last_online": "2026-11-26",
    "username": "blackEventhorizon"
   },
   "blacktempo_bot": {
@@ -2392,7 +2397,7 @@
   },
   "implosio": {
    "first_seen": "2026-10-15",
-   "last_online": "2026-11-25",
+   "last_online": "2026-11-26",
    "username": "Implosio"
   },
   "inanisbot": {
@@ -6122,7 +6127,7 @@
   }
  },
  "online": {
-  "checked_at": "2026-11-26T16:43:17Z",
+  "checked_at": "2026-11-26T17:43:15Z",
   "ids": [
    "aaronsengine",
    "abcd_engine",
@@ -6161,9 +6166,13 @@
    "bernstein-4ply",
    "bertbot",
    "bfiedler-bot",
+   "bhaaibot",
    "bitbitbot",
+   "black-icebot",
+   "blackeventhorizon",
    "bluemoonbot",
    "blujay-bot",
+   "blundeel67",
    "blundermind-01",
    "blundermind-m3",
    "bobby_pcolla",
@@ -6199,6 +6208,7 @@
    "chessbot2880",
    "chessbotbuddy",
    "chesschildren",
+   "chessgeniusbot",
    "chessiverse_ethan",
    "chessiverse_luc",
    "chessiverse_pawnza",
@@ -6296,9 +6306,9 @@
    "hyperopic",
    "icarus-bot",
    "ilovecatgirl",
+   "implosio",
    "incipit_bot",
    "io-bot",
-   "ironbishop_bot",
    "ironrooks",
    "iskelt-corax",
    "jangine",
@@ -6314,7 +6324,6 @@
    "justbot-v1",
    "kahunabot",
    "karl-engine-v1",
-   "kasdengine",
    "kbelludoo",
    "kestrelchess",
    "kestrelstrike",
@@ -6397,7 +6406,6 @@
    "nanozeroorg",
    "ndr1sn",
    "neetroc-bot",
-   "neryba",
    "neurochess_ezy",
    "neurosocute",
    "nexastrat",
@@ -6410,6 +6418,7 @@
    "nittedal",
    "nnueisaura",
    "noabot",
+   "noksiy",
    "notropis",
    "nx_horse",
    "o-rei-cx",
@@ -6477,7 +6486,6 @@
    "scalaqueen",
    "schnecken_bot",
    "scipio-bot",
-   "sdsfaa",
    "seitogakatsu",
    "shahmatbot",
    "shallowredbot",
@@ -6497,6 +6505,7 @@
    "smotherfishbot3",
    "smotherfishbot4",
    "solobot",
+   "sparkchessengine",
    "springerbot",
    "squarefish-900",
    "sseh-c",
@@ -6529,6 +6538,7 @@
    "thecarotheorist",
    "thechessblazer",
    "theunknown-bot",
+   "throrbjorn",
    "thunfisch-bot",
    "tigrament",
    "tilapiabot",
@@ -6568,14 +6578,13 @@
    "vortex_bot",
    "vortexaurafarm",
    "vyvrael-chess",
-   "wailly",
    "waldemar-the-elf",
    "walpurti",
+   "wannalearnbot",
    "weiawaga",
    "worserfish19",
    "worstfish",
    "xen-0",
-   "yow-experimental",
    "z-o_aspenlabs",
    "zanak-bot",
    "zion-bot"
