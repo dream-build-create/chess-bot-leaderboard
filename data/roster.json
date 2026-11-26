@@ -2417,7 +2417,7 @@
   },
   "ironfang": {
    "first_seen": "2026-10-24",
-   "last_online": "2026-11-25",
+   "last_online": "2026-11-26",
    "username": "Ironfang"
   },
   "ironrooks": {
@@ -2492,7 +2492,7 @@
   },
   "jester7777": {
    "first_seen": "2026-11-11",
-   "last_online": "2026-11-25",
+   "last_online": "2026-11-26",
    "username": "jester7777"
   },
   "jesterchessrobot": {
@@ -3120,6 +3120,11 @@
    "last_online": "2026-11-04",
    "username": "MackBot"
   },
+  "macromix": {
+   "first_seen": "2026-11-26",
+   "last_online": "2026-11-26",
+   "username": "MacroMix"
+  },
   "madameengine": {
    "first_seen": "2026-09-28",
    "last_online": "2026-10-29",
@@ -3639,6 +3644,11 @@
    "first_seen": "2026-09-27",
    "last_online": "2026-11-21",
    "username": "nebubot"
+  },
+  "neetroc-bot": {
+   "first_seen": "2026-11-26",
+   "last_online": "2026-11-26",
+   "username": "neetroc-bot"
   },
   "nerachess": {
    "first_seen": "2026-09-27",
@@ -4872,7 +4882,7 @@
   },
   "sisyphus-engine": {
    "first_seen": "2026-10-12",
-   "last_online": "2026-11-22",
+   "last_online": "2026-11-26",
    "username": "Sisyphus-engine"
   },
   "sj_norbot": {
@@ -5389,6 +5399,11 @@
    "first_seen": "2026-10-24",
    "last_online": "2026-10-28",
    "username": "theAyka"
+  },
+  "thecarotheorist": {
+   "first_seen": "2026-11-26",
+   "last_online": "2026-11-26",
+   "username": "TheCaroTheorist"
   },
   "thechessblazer": {
    "first_seen": "2026-09-27",
@@ -6092,14 +6107,13 @@
   }
  },
  "online": {
-  "checked_at": "2026-11-26T11:43:09Z",
+  "checked_at": "2026-11-26T12:43:24Z",
   "ids": [
    "aaronsengine",
    "abcd_engine",
    "aconcaguabot",
    "aetherbot",
    "aethertal_bot",
-   "aggressivestockfish",
    "ai-con",
    "ailedbot",
    "ajedrezchamberi",
@@ -6116,7 +6130,6 @@
    "anti-anti",
    "anti-bot",
    "antibotv3-7",
-   "antifishbot",
    "aposeij",
    "approximationbot",
    "arasanx",
@@ -6266,12 +6279,13 @@
    "icarus-bot",
    "ilovecatgirl",
    "incipit_bot",
-   "io-bot",
    "ironbishop_bot",
+   "ironfang",
    "ironrooks",
    "iskelt-corax",
    "jangine",
    "jaxakos13_bot",
+   "jester7777",
    "jibbby",
    "jimmy_inc3710",
    "jjugle",
@@ -6289,7 +6303,6 @@
    "kirinchessbot",
    "kittyenginev5",
    "klak_engine",
-   "knightstalker_uci",
    "kopyto_dev",
    "lamprook",
    "laura-bot",
@@ -6318,6 +6331,7 @@
    "lunaenginechess",
    "lynx_bot",
    "macbotitsmagic",
+   "macromix",
    "maia1",
    "maia3-79m_1000",
    "maia3-79m_1200",
@@ -6342,14 +6356,12 @@
    "matmoi",
    "maximaengine",
    "mcdonalds1955",
-   "mchesspro_8_uci",
    "mcvoid-bot",
    "mega-noob-bot",
    "melsh_bot",
    "miccoengine",
    "milanbot",
    "mimirbot",
-   "mind_bot",
    "minopponentmoves",
    "mithandros",
    "mochi-fat",
@@ -6368,6 +6380,8 @@
    "my_bot121",
    "nanozeroorg",
    "ndr1sn",
+   "neetroc-bot",
+   "neryba",
    "neurosocute",
    "nexastrat",
    "next_uzbek",
@@ -6433,7 +6447,6 @@
    "renegadeengine",
    "resolutebot",
    "robodoxadrez",
-   "robotjfischer",
    "rookiemaia",
    "rookrusty",
    "rubyai",
@@ -6459,6 +6472,7 @@
    "sim3million",
    "simonericafonso",
    "simpleeval",
+   "sisyphus-engine",
    "sj_norbot",
    "slate-engine",
    "sleepish",
@@ -6493,6 +6507,7 @@
    "tente-v2",
    "tente8x",
    "territorybot",
+   "thecarotheorist",
    "thechessblazer",
    "theunknown-bot",
    "thunfisch-bot",
