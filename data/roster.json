@@ -107,7 +107,7 @@
   },
   "ajedrezchamberi": {
    "first_seen": "2026-09-29",
-   "last_online": "2026-11-23",
+   "last_online": "2026-11-26",
    "username": "AjedrezChamberi"
   },
   "alarm2001": {
@@ -912,7 +912,7 @@
   },
   "chamberiajedrez": {
    "first_seen": "2026-09-29",
-   "last_online": "2026-11-23",
+   "last_online": "2026-11-26",
    "username": "ChamberiAjedrez"
   },
   "chaotong_engine": {
@@ -2162,7 +2162,7 @@
   },
   "gryndor": {
    "first_seen": "2026-10-11",
-   "last_online": "2026-11-17",
+   "last_online": "2026-11-26",
    "username": "Gryndor"
   },
   "grzechu86": {
@@ -4477,7 +4477,7 @@
   },
   "robotjfischer": {
    "first_seen": "2026-09-29",
-   "last_online": "2026-11-24",
+   "last_online": "2026-11-26",
    "username": "RobotJFischer"
   },
   "rocketengine": {
@@ -6092,14 +6092,16 @@
   }
  },
  "online": {
-  "checked_at": "2026-11-26T08:52:15Z",
+  "checked_at": "2026-11-26T09:43:09Z",
   "ids": [
    "abcd_engine",
    "aconcaguabot",
    "aetherbot",
    "aethertal_bot",
+   "aggressivestockfish",
    "ai-con",
    "ailedbot",
+   "ajedrezchamberi",
    "alarm2001",
    "alehkine_cat",
    "alexandrya",
@@ -6113,6 +6115,7 @@
    "anti-anti",
    "anti-bot",
    "antibotv3-7",
+   "antifishbot",
    "aposeij",
    "approximationbot",
    "arasanx",
@@ -6148,13 +6151,14 @@
    "bubblebot2",
    "byte-knight",
    "bytefish",
-   "c-t-r-l",
    "caiporabot",
+   "caissa-x",
    "capabot",
    "casanchess-nnue",
    "cassidychess-bot",
    "catnail",
    "catriever",
+   "chamberiajedrez",
    "charibot",
    "cheng-4",
    "cheng-4-nn",
@@ -6245,6 +6249,7 @@
    "gopandafish",
    "grail-bot",
    "grindfish",
+   "gryndor",
    "halcyonbot",
    "homoludensbot",
    "honzovy-sachy",
@@ -6259,7 +6264,6 @@
    "ilovecatgirl",
    "incipit_bot",
    "io-bot",
-   "ironbishop_bot",
    "ironrooks",
    "iskelt-corax",
    "jangine",
@@ -6279,6 +6283,7 @@
    "kestrelchess",
    "kestrelstrike",
    "kirinchessbot",
+   "kittyenginev5",
    "klak_engine",
    "knightstalker_uci",
    "kopyto_dev",
@@ -6349,7 +6354,6 @@
    "mrdeepseekgpt",
    "mrtonnerre",
    "mudskipperbot",
-   "munzurbot2",
    "musashi-thebot",
    "mutusbot",
    "my_bot121",
@@ -6421,12 +6425,14 @@
    "renegadeengine",
    "resolutebot",
    "robodoxadrez",
+   "robotjfischer",
    "rookiemaia",
    "rookrusty",
    "rubyai",
    "rudim-bot",
    "rust-in-pieces",
    "rust-in-pieces-nnue",
+   "saintengine",
    "sardinebot",
    "sargon-1ply",
    "sargon-3ply",
@@ -6434,7 +6440,6 @@
    "scalaqueen",
    "schnecken_bot",
    "scipio-bot",
-   "sdsfaa",
    "seitogakatsu",
    "shahmatbot",
    "shallowredbot",
@@ -6444,7 +6449,6 @@
    "silasly",
    "sim3million",
    "simonericafonso",
-   "simplechessengine",
    "simpleeval",
    "sj_norbot",
    "slate-engine",
@@ -6527,7 +6531,6 @@
    "xen-0",
    "z-o_aspenlabs",
    "zanak-bot",
-   "zero-dot",
    "zion-bot"
   ]
  },
