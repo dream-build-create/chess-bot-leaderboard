@@ -2012,7 +2012,7 @@
   },
   "gambitonlybot": {
    "first_seen": "2026-09-28",
-   "last_online": "2026-11-24",
+   "last_online": "2026-11-26",
    "username": "GambitOnlyBot"
   },
   "gambittai": {
@@ -2622,7 +2622,7 @@
   },
   "kasdengine": {
    "first_seen": "2026-11-23",
-   "last_online": "2026-11-25",
+   "last_online": "2026-11-26",
    "username": "KasDEngine"
   },
   "katzebot": {
@@ -4972,22 +4972,22 @@
   },
   "smotherfishbot1": {
    "first_seen": "2026-11-23",
-   "last_online": "2026-11-24",
+   "last_online": "2026-11-26",
    "username": "SmotherfishBot1"
   },
   "smotherfishbot2": {
    "first_seen": "2026-11-23",
-   "last_online": "2026-11-24",
+   "last_online": "2026-11-26",
    "username": "SmotherfishBot2"
   },
   "smotherfishbot3": {
    "first_seen": "2026-11-23",
-   "last_online": "2026-11-24",
+   "last_online": "2026-11-26",
    "username": "SmotherfishBot3"
   },
   "smotherfishbot4": {
    "first_seen": "2026-11-23",
-   "last_online": "2026-11-24",
+   "last_online": "2026-11-26",
    "username": "SmotherfishBot4"
   },
   "snaky-bot": {
@@ -5162,7 +5162,7 @@
   },
   "stockfish_bot2": {
    "first_seen": "2026-10-11",
-   "last_online": "2026-11-25",
+   "last_online": "2026-11-26",
    "username": "Stockfish_bot2"
   },
   "stockfishlowdepth": {
@@ -6007,7 +6007,7 @@
   },
   "yow-experimental": {
    "first_seen": "2026-11-12",
-   "last_online": "2026-11-21",
+   "last_online": "2026-11-26",
    "username": "yow-experimental"
   },
   "yvyraa": {
@@ -6122,7 +6122,7 @@
   }
  },
  "online": {
-  "checked_at": "2026-11-26T15:43:09Z",
+  "checked_at": "2026-11-26T16:43:17Z",
   "ids": [
    "aaronsengine",
    "abcd_engine",
@@ -6159,7 +6159,6 @@
    "belzedarian",
    "bernstein-2ply",
    "bernstein-4ply",
-   "berrycow2",
    "bertbot",
    "bfiedler-bot",
    "bitbitbot",
@@ -6170,6 +6169,7 @@
    "bobby_pcolla",
    "bongaclang",
    "boris-trapsky",
+   "borkatower",
    "bot5551",
    "bot64jaques",
    "bot_adario",
@@ -6199,7 +6199,6 @@
    "chessbot2880",
    "chessbotbuddy",
    "chesschildren",
-   "chessgeniusbot",
    "chessiverse_ethan",
    "chessiverse_luc",
    "chessiverse_pawnza",
@@ -6271,6 +6270,7 @@
    "flower-queen",
    "fschess-engine",
    "funfishbot",
+   "gambitonlybot",
    "garbobot",
    "geotsibot",
    "ghidorah_x",
@@ -6314,6 +6314,7 @@
    "justbot-v1",
    "kahunabot",
    "karl-engine-v1",
+   "kasdengine",
    "kbelludoo",
    "kestrelchess",
    "kestrelstrike",
@@ -6323,19 +6324,17 @@
    "kopyto_dev",
    "kulubot",
    "lamprook",
-   "lantern_bot",
    "laura-bot",
    "leelaalien",
    "leelaanyodds",
    "leelajester",
    "leelaknightodds",
-   "leelapieceodds",
    "leelaqueenforknight",
-   "leelaqueenodds",
    "leelarogue",
    "leelarookodds",
    "leelatroll",
    "leelonardo",
+   "legotechniccontrolpl",
    "lentuschess",
    "levymaia",
    "lightning-762",
@@ -6367,6 +6366,7 @@
    "maia9",
    "maia960-1600",
    "maia960-1900",
+   "marlinchessbot",
    "martuni",
    "mate-in-forty",
    "mate-in-thirty",
@@ -6374,7 +6374,6 @@
    "mate1-bot",
    "matmoi",
    "maximaengine",
-   "mcdonalds1955",
    "mchesspro_8_uci",
    "mcvoid-bot",
    "mega-noob-bot",
@@ -6394,10 +6393,10 @@
    "mrtonnerre",
    "mudskipperbot",
    "munzurbot2",
-   "musashi-thebot",
    "mutusbot",
    "nanozeroorg",
    "ndr1sn",
+   "neetroc-bot",
    "neryba",
    "neurochess_ezy",
    "neurosocute",
@@ -6471,7 +6470,7 @@
    "rudim-bot",
    "rust-in-pieces",
    "rust-in-pieces-nnue",
-   "saherator",
+   "sardinebot",
    "sargon-1ply",
    "sargon-3ply",
    "sbnovella",
@@ -6493,17 +6492,21 @@
    "slate-engine",
    "sleepish",
    "sleepmindengine",
-   "smartysprout",
+   "smotherfishbot1",
+   "smotherfishbot2",
+   "smotherfishbot3",
+   "smotherfishbot4",
    "solobot",
-   "sparkchessengine",
    "springerbot",
    "squarefish-900",
    "sseh-c",
    "stardustengine",
+   "stargazerengine",
    "stickshark99",
    "stockconda",
    "stockcotsfish",
    "stockdory",
+   "stockfish_bot2",
    "stockfishlowdepth",
    "stockfishroulettebot",
    "stockfishv19",
@@ -6518,6 +6521,7 @@
    "sxphia",
    "sybaibot",
    "sykorabot",
+   "tallikebot",
    "tempocore",
    "tente-v2",
    "tente8x",
@@ -6555,12 +6559,12 @@
    "uzenatch",
    "vanibot",
    "variantsbot",
-   "veloct-v8",
    "vic98lg",
    "vicentlittle",
    "vidbot",
    "vietnamesecoffee",
    "virutor",
+   "void_bot",
    "vortex_bot",
    "vortexaurafarm",
    "vyvrael-chess",
@@ -6571,9 +6575,9 @@
    "worserfish19",
    "worstfish",
    "xen-0",
+   "yow-experimental",
    "z-o_aspenlabs",
    "zanak-bot",
-   "zero-dot",
    "zion-bot"
   ]
  },
