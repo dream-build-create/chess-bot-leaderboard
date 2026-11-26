@@ -342,7 +342,7 @@
   },
   "atomicenginev1": {
    "first_seen": "2026-09-28",
-   "last_online": "2026-11-22",
+   "last_online": "2026-11-26",
    "username": "AtomicEngineV1"
   },
   "attackerbotpython": {
@@ -682,7 +682,7 @@
   },
   "bothev": {
    "first_seen": "2026-09-27",
-   "last_online": "2026-11-25",
+   "last_online": "2026-11-26",
    "username": "Bothev"
   },
   "bothev2": {
@@ -2917,7 +2917,7 @@
   },
   "legotechniccontrolpl": {
    "first_seen": "2026-11-09",
-   "last_online": "2026-11-25",
+   "last_online": "2026-11-26",
    "username": "LegoTechnicControlPl"
   },
   "lemonjuice10": {
@@ -3242,7 +3242,7 @@
   },
   "marlinchessbot": {
    "first_seen": "2026-11-11",
-   "last_online": "2026-11-25",
+   "last_online": "2026-11-26",
    "username": "MarlinChessBot"
   },
   "martuni": {
@@ -3332,7 +3332,7 @@
   },
   "mcvoid-bot": {
    "first_seen": "2026-11-04",
-   "last_online": "2026-11-25",
+   "last_online": "2026-11-26",
    "username": "mcvoid-bot"
   },
   "mdbot": {
@@ -5747,7 +5747,7 @@
   },
   "void_bot": {
    "first_seen": "2026-09-29",
-   "last_online": "2026-11-25",
+   "last_online": "2026-11-26",
    "username": "Void_Bot"
   },
   "voidbotv2": {
@@ -6032,7 +6032,7 @@
   },
   "zfishbot": {
    "first_seen": "2026-11-22",
-   "last_online": "2026-11-25",
+   "last_online": "2026-11-26",
    "username": "ZFishBot"
   },
   "zion-bot": {
@@ -6072,7 +6072,7 @@
   }
  },
  "online": {
-  "checked_at": "2026-11-26T00:43:10Z",
+  "checked_at": "2026-11-26T01:43:10Z",
   "ids": [
    "abcd_engine",
    "aconcaguabot",
@@ -6100,6 +6100,7 @@
    "artidigm_research",
    "ashnostromo",
    "athena-chessbot",
+   "atomicenginev1",
    "axiom_bot",
    "azzbot",
    "baby_eubos",
@@ -6121,6 +6122,7 @@
    "bot5551",
    "bot64jaques",
    "bot_adario",
+   "bothev",
    "botkill-v18x",
    "bottios",
    "bottrain",
@@ -6138,7 +6140,6 @@
    "catriever",
    "charibot",
    "chess3bot",
-   "chess_set_manager",
    "chessai4f",
    "chessbotbuddy",
    "chessiverse_ethan",
@@ -6269,6 +6270,7 @@
    "leelarookodds",
    "leelatroll",
    "leelonardo",
+   "legotechniccontrolpl",
    "lentuschess",
    "levymaia",
    "lightning-762",
@@ -6298,6 +6300,7 @@
    "maia9",
    "maia960-1600",
    "maia960-1900",
+   "marlinchessbot",
    "martuni",
    "mate-in-forty",
    "mate-in-thirty",
@@ -6306,6 +6309,7 @@
    "matmoi",
    "maximaengine",
    "mchesspro_8_uci",
+   "mcvoid-bot",
    "mega-noob-bot",
    "melsh_bot",
    "miccoengine",
@@ -6323,7 +6327,6 @@
    "mrdeepseekgpt",
    "mrtonnerre",
    "mudskipperbot",
-   "munzurbot2",
    "mutusbot",
    "mychessjava",
    "nanozeroorg",
@@ -6486,6 +6489,7 @@
    "vicentlittle",
    "vidbot",
    "vietnamesecoffee",
+   "void_bot",
    "vortex_bot",
    "vortexaurafarm",
    "vyvrael-chess",
@@ -6499,6 +6503,7 @@
    "xmtcore",
    "z-o_aspenlabs",
    "zanak-bot",
+   "zfishbot",
    "zion-bot"
   ]
  },
