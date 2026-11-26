@@ -1037,7 +1037,7 @@
   },
   "chessgeniusbot": {
    "first_seen": "2026-10-02",
-   "last_online": "2026-11-25",
+   "last_online": "2026-11-26",
    "username": "ChessGeniusBot"
   },
   "chessiverse_ethan": {
@@ -1317,7 +1317,7 @@
   },
   "dafuq_bot": {
    "first_seen": "2026-11-19",
-   "last_online": "2026-11-22",
+   "last_online": "2026-11-26",
    "username": "dafuq_bot"
   },
   "dagfish": {
@@ -1397,7 +1397,7 @@
   },
   "darkvoidreaper": {
    "first_seen": "2026-11-25",
-   "last_online": "2026-11-25",
+   "last_online": "2026-11-26",
    "username": "DarkVoidReaper"
   },
   "dassi-ai": {
@@ -1542,7 +1542,7 @@
   },
   "dingusbot": {
    "first_seen": "2026-11-18",
-   "last_online": "2026-11-25",
+   "last_online": "2026-11-26",
    "username": "DingusBot"
   },
   "diogenes-bot": {
@@ -1582,7 +1582,7 @@
   },
   "dravox": {
    "first_seen": "2026-10-24",
-   "last_online": "2026-11-25",
+   "last_online": "2026-11-26",
    "username": "dravox"
   },
   "drawfish-reborn": {
@@ -2712,7 +2712,7 @@
   },
   "klak_engine": {
    "first_seen": "2026-11-14",
-   "last_online": "2026-11-24",
+   "last_online": "2026-11-26",
    "username": "Klak_Engine"
   },
   "klevai": {
@@ -3582,7 +3582,7 @@
   },
   "my_bot121": {
    "first_seen": "2026-11-20",
-   "last_online": "2026-11-25",
+   "last_online": "2026-11-26",
    "username": "my_bot121"
   },
   "mychessjava": {
@@ -4617,7 +4617,7 @@
   },
   "saintengine": {
    "first_seen": "2026-11-21",
-   "last_online": "2026-11-24",
+   "last_online": "2026-11-26",
    "username": "SaintEngine"
   },
   "saisrankarthik_7": {
@@ -6092,7 +6092,7 @@
   }
  },
  "online": {
-  "checked_at": "2026-11-26T07:43:09Z",
+  "checked_at": "2026-11-26T08:43:10Z",
   "ids": [
    "abcd_engine",
    "aconcaguabot",
@@ -6114,7 +6114,6 @@
    "anti-anti",
    "anti-bot",
    "antibotv3-7",
-   "antifishbot",
    "aposeij",
    "approximationbot",
    "arasanx",
@@ -6140,7 +6139,6 @@
    "blundermind-m3",
    "bobby_pcolla",
    "bongaclang",
-   "boris-trapsky",
    "bot5551",
    "bot64jaques",
    "bot_adario",
@@ -6152,9 +6150,7 @@
    "byte-knight",
    "bytefish",
    "c-t-r-l",
-   "caesarbot",
    "caiporabot",
-   "caissa-x",
    "capabot",
    "casanchess-nnue",
    "cassidychess-bot",
@@ -6164,10 +6160,10 @@
    "cheng-4",
    "cheng-4-nn",
    "chess3bot",
-   "chess_set_manager",
    "chessbook-1",
    "chessbotbuddy",
    "chesschildren",
+   "chessgeniusbot",
    "chessiverse_ethan",
    "chessiverse_luc",
    "chessiverse_pawnza",
@@ -6193,6 +6189,7 @@
    "croco_bot",
    "croco_little_bot",
    "crocodile_bot",
+   "dafuq_bot",
    "dala-1100",
    "dala-1300",
    "dala-1600",
@@ -6202,6 +6199,7 @@
    "darkelectronbot",
    "darkonbot",
    "darkonweakbot",
+   "darkvoidreaper",
    "davidsguterbot",
    "debzero",
    "deepbecky",
@@ -6209,8 +6207,10 @@
    "demen100ns-bot",
    "devchessplayer-bot",
    "devilfishzero",
+   "dingusbot",
    "diogenes-bot",
    "disrespect_fish",
+   "dravox",
    "drawfish-reborn",
    "drewschessmachine",
    "dubot",
@@ -6281,6 +6281,7 @@
    "kestrelchess",
    "kestrelstrike",
    "kirinchessbot",
+   "klak_engine",
    "knightstalker_uci",
    "kopyto_dev",
    "lamprook",
@@ -6333,10 +6334,10 @@
    "matmoi",
    "maximaengine",
    "mchesspro_8_uci",
+   "mcvoid-bot",
    "mega-noob-bot",
    "melsh_bot",
    "miccoengine",
-   "michaamateurbot",
    "milanbot",
    "mimirbot",
    "minopponentmoves",
@@ -6351,10 +6352,9 @@
    "mrdeepseekgpt",
    "mrtonnerre",
    "mudskipperbot",
-   "munzurbot2",
    "musashi-thebot",
    "mutusbot",
-   "mychessjava",
+   "my_bot121",
    "nanozeroorg",
    "ndr1sn",
    "neryba",
@@ -6404,7 +6404,6 @@
    "princhess_policy_bot",
    "prismnnue",
    "prokopakop",
-   "prosperobot",
    "pseudo-0",
    "pseudo-1",
    "psion-chess",
@@ -6431,6 +6430,7 @@
    "rudim-bot",
    "rust-in-pieces",
    "rust-in-pieces-nnue",
+   "saintengine",
    "sardinebot",
    "sargon-1ply",
    "sargon-3ply",
@@ -6463,7 +6463,6 @@
    "stardustengine",
    "stickshark99",
    "stockconda",
-   "stockcotsfish",
    "stockdory",
    "stockfishlowdepth",
    "stockfishroulettebot",
@@ -6516,7 +6515,6 @@
    "vanibot",
    "variantsbot",
    "veloct_base",
-   "vic98lg",
    "vicentlittle",
    "vidbot",
    "vietnamesecoffee",
@@ -6526,7 +6524,6 @@
    "vyvrael-chess",
    "waldemar-the-elf",
    "walpurti",
-   "wannalearnbot",
    "weiawaga",
    "worserfish19",
    "worstfish",
