@@ -602,7 +602,7 @@
   },
   "blunder-engine": {
    "first_seen": "2026-11-08",
-   "last_online": "2026-11-24",
+   "last_online": "2026-11-27",
    "username": "Blunder-Engine"
   },
   "blundermind-01": {
@@ -1187,7 +1187,7 @@
   },
   "claudyengine": {
    "first_seen": "2026-09-28",
-   "last_online": "2026-11-25",
+   "last_online": "2026-11-27",
    "username": "ClaudyEngine"
   },
   "clementyne1": {
@@ -2032,7 +2032,7 @@
   },
   "galaxy-stellar-bot": {
    "first_seen": "2026-10-22",
-   "last_online": "2026-11-24",
+   "last_online": "2026-11-27",
    "username": "Galaxy-Stellar-Bot"
   },
   "gam3play3r-bot": {
@@ -2112,7 +2112,7 @@
   },
   "goats-of-bots": {
    "first_seen": "2026-11-07",
-   "last_online": "2026-11-24",
+   "last_online": "2026-11-27",
    "username": "Goats-Of-Bots"
   },
   "goblinajedrezai": {
@@ -4172,22 +4172,22 @@
   },
   "pirates1": {
    "first_seen": "2026-10-01",
-   "last_online": "2026-11-24",
+   "last_online": "2026-11-27",
    "username": "pirates1"
   },
   "pirates2": {
    "first_seen": "2026-09-30",
-   "last_online": "2026-11-24",
+   "last_online": "2026-11-27",
    "username": "Pirates2"
   },
   "piratesrust": {
    "first_seen": "2026-10-01",
-   "last_online": "2026-11-24",
+   "last_online": "2026-11-27",
    "username": "PiratesRust"
   },
   "piratesrustv2": {
    "first_seen": "2026-11-13",
-   "last_online": "2026-11-24",
+   "last_online": "2026-11-27",
    "username": "PiratesRustV2"
   },
   "pixiegaming": {
@@ -4692,7 +4692,7 @@
   },
   "sacrifice-engine": {
    "first_seen": "2026-11-13",
-   "last_online": "2026-11-24",
+   "last_online": "2026-11-27",
    "username": "Sacrifice-Engine"
   },
   "safila": {
@@ -5827,7 +5827,7 @@
   },
   "veloct-v8": {
    "first_seen": "2026-11-26",
-   "last_online": "2026-11-26",
+   "last_online": "2026-11-27",
    "username": "VeloCT-V8"
   },
   "veloct_base": {
@@ -6212,7 +6212,7 @@
   }
  },
  "online": {
-  "checked_at": "2026-11-27T12:43:09Z",
+  "checked_at": "2026-11-27T13:43:10Z",
   "ids": [
    "aaronsengine",
    "abcd_engine",
@@ -6260,6 +6260,7 @@
    "bluemoonbot",
    "blujay-bot",
    "blundeel67",
+   "blunder-engine",
    "blundermind-01",
    "blundermind-m3",
    "bongaclang",
@@ -6288,7 +6289,6 @@
    "chess3bot",
    "chessai4f",
    "chessbook-1",
-   "chessbotbuddy",
    "chesschildren",
    "chessiverse_ethan",
    "chessiverse_luc",
@@ -6304,6 +6304,7 @@
    "cinder-bot",
    "classical-leela",
    "claude_bot",
+   "claudyengine",
    "clessy-bot",
    "cloudia-chess",
    "clrsrc_lc0",
@@ -6363,12 +6364,12 @@
    "fourcuriouspandas",
    "fschess-engine",
    "funfishbot",
+   "galaxy-stellar-bot",
    "garbobot",
-   "georgii_ai",
    "geotsibot",
    "giffibot",
-   "glorbo_evermorrow",
    "gnu4u",
+   "goats-of-bots",
    "goldfish-engine",
    "goopis",
    "gopandafish",
@@ -6376,6 +6377,7 @@
    "grindfish",
    "gryndor",
    "halcyonbot",
+   "hardrok",
    "homoludensbot",
    "honzovy-sachy",
    "honzovy-sachy-2",
@@ -6405,7 +6407,6 @@
    "jurdbird",
    "justbot-v1",
    "kahunabot",
-   "kale_engine",
    "karl-engine-v1",
    "kbelludoo",
    "kern-0",
@@ -6476,7 +6477,6 @@
    "michaamateurbot",
    "milanbot",
    "mimirbot",
-   "mind_bot",
    "minopponentmoves",
    "mithandros",
    "mochi-fat",
@@ -6534,6 +6534,10 @@
    "piebot",
    "pierreai",
    "piglet_engine",
+   "pirates1",
+   "pirates2",
+   "piratesrust",
+   "piratesrustv2",
    "playmarius",
    "plumboi",
    "plumbot",
@@ -6567,6 +6571,7 @@
    "rudim-bot",
    "rust-in-pieces",
    "rust-in-pieces-nnue",
+   "sacrifice-engine",
    "sardinebot",
    "sargon-1ply",
    "sargon-3ply",
@@ -6616,7 +6621,6 @@
    "sxphia",
    "sybaibot",
    "sykorabot",
-   "tallikebot",
    "tempocore",
    "tente-v2",
    "tente8x",
@@ -6625,7 +6629,6 @@
    "throrbjorn",
    "thunfisch-bot",
    "tigrament",
-   "tikifish",
    "tilapiabot",
    "tinyairun",
    "to299d",
@@ -6654,7 +6657,7 @@
    "vanguardfr",
    "vanibot",
    "variantsbot",
-   "vic98lg",
+   "veloct-v8",
    "vicentlittle",
    "vidbot",
    "vietnamesecoffee",
