@@ -540,6 +540,11 @@
    "last_online": "2026-11-23",
    "username": "Bit-Fish8"
   },
+  "bitarena": {
+   "first_seen": "2026-11-27",
+   "last_online": "2026-11-27",
+   "username": "BitArena"
+  },
   "bitbitbot": {
    "first_seen": "2026-09-27",
    "last_online": "2026-11-27",
@@ -2602,7 +2607,7 @@
   },
   "jongsungkim": {
    "first_seen": "2026-10-05",
-   "last_online": "2026-11-26",
+   "last_online": "2026-11-27",
    "username": "JongsungKim"
   },
   "josefschessenginebot": {
@@ -4032,7 +4037,7 @@
   },
   "pangubot": {
    "first_seen": "2026-09-27",
-   "last_online": "2026-11-25",
+   "last_online": "2026-11-27",
    "username": "pangubot"
   },
   "panic-fish": {
@@ -4702,7 +4707,7 @@
   },
   "saherator": {
    "first_seen": "2026-11-25",
-   "last_online": "2026-11-26",
+   "last_online": "2026-11-27",
    "username": "saherator"
   },
   "saintengine": {
@@ -4962,7 +4967,7 @@
   },
   "sisyphus-engine": {
    "first_seen": "2026-10-12",
-   "last_online": "2026-11-26",
+   "last_online": "2026-11-27",
    "username": "Sisyphus-engine"
   },
   "sj_norbot": {
@@ -5815,6 +5820,11 @@
    "last_online": "2026-11-27",
    "username": "vanguardfr"
   },
+  "vanguardopen": {
+   "first_seen": "2026-11-27",
+   "last_online": "2026-11-27",
+   "username": "VanguardOpen"
+  },
   "vanibot": {
    "first_seen": "2026-09-27",
    "last_online": "2026-11-27",
@@ -6212,7 +6222,7 @@
   }
  },
  "online": {
-  "checked_at": "2026-11-27T13:43:10Z",
+  "checked_at": "2026-11-27T14:43:11Z",
   "ids": [
    "aaronsengine",
    "abcd_engine",
@@ -6255,6 +6265,7 @@
    "bertbot",
    "bfiedler-bot",
    "bhaaibot",
+   "bitarena",
    "bitbitbot",
    "black-icebot",
    "bluemoonbot",
@@ -6290,6 +6301,7 @@
    "chessai4f",
    "chessbook-1",
    "chesschildren",
+   "chessgeniusbot",
    "chessiverse_ethan",
    "chessiverse_luc",
    "chessiverse_pawnza",
@@ -6394,7 +6406,6 @@
    "ironbishop_bot",
    "ironrooks",
    "iskelt-corax",
-   "jamchess_app",
    "jangine",
    "jester7777",
    "jibbby",
@@ -6402,6 +6413,7 @@
    "jjugle",
    "joan_clone",
    "joey_chessengine",
+   "jongsungkim",
    "joshsbot",
    "jpg-bot",
    "jurdbird",
@@ -6415,6 +6427,7 @@
    "kira_ai_bot",
    "kirinchessbot",
    "kittyenginev5",
+   "klak_engine",
    "knightstalker_uci",
    "koi_engine",
    "kopyto_dev",
@@ -6470,11 +6483,10 @@
    "matmoi",
    "maximaengine",
    "mayflyengine",
+   "mcdonalds1955",
    "mchesspro_8_uci",
-   "mcvoid-bot",
    "mega-noob-bot",
    "melsh_bot",
-   "michaamateurbot",
    "milanbot",
    "mimirbot",
    "minopponentmoves",
@@ -6516,6 +6528,7 @@
    "onezenpanda",
    "oxide-eg",
    "pacu_bot",
+   "pangubot",
    "panic-fish",
    "partner3615diago",
    "patriciabot",
@@ -6572,6 +6585,7 @@
    "rust-in-pieces",
    "rust-in-pieces-nnue",
    "sacrifice-engine",
+   "saherator",
    "sardinebot",
    "sargon-1ply",
    "sargon-3ply",
@@ -6589,6 +6603,7 @@
    "sim3million",
    "simonericafonso",
    "simpleeval",
+   "sisyphus-engine",
    "sj_norbot",
    "slate-engine",
    "sleepish",
@@ -6614,18 +6629,17 @@
    "stockpapagei",
    "streamervschat",
    "stroberibot",
-   "studyloversz-bot",
    "stupidfishbotbydscs",
    "sunfish-engine",
    "sunfish-nnue-engine",
    "sxphia",
    "sybaibot",
    "sykorabot",
+   "tallikebot",
    "tempocore",
    "tente-v2",
    "tente8x",
    "territorybot",
-   "the_chessmaster_3000",
    "throrbjorn",
    "thunfisch-bot",
    "tigrament",
@@ -6654,10 +6668,11 @@
    "utrain-chess-bot",
    "uxugin-bot",
    "uzenatch",
-   "vanguardfr",
+   "vanguardopen",
    "vanibot",
    "variantsbot",
    "veloct-v8",
+   "vic98lg",
    "vicentlittle",
    "vidbot",
    "vietnamesecoffee",
