@@ -697,7 +697,7 @@
   },
   "bothev": {
    "first_seen": "2026-09-27",
-   "last_online": "2026-11-26",
+   "last_online": "2026-11-27",
    "username": "Bothev"
   },
   "bothev2": {
@@ -1454,6 +1454,11 @@
    "first_seen": "2026-09-27",
    "last_online": "2026-11-27",
    "username": "DeepSquare-ai"
+  },
+  "defenchessofficial": {
+   "first_seen": "2026-11-27",
+   "last_online": "2026-11-27",
+   "username": "DefenchessOfficial"
   },
   "dehorsed_bot": {
    "first_seen": "2026-11-02",
@@ -2962,7 +2967,7 @@
   },
   "legotechniccontrolpl": {
    "first_seen": "2026-11-09",
-   "last_online": "2026-11-26",
+   "last_online": "2026-11-27",
    "username": "LegoTechnicControlPl"
   },
   "lemonjuice10": {
@@ -3297,7 +3302,7 @@
   },
   "marlinchessbot": {
    "first_seen": "2026-11-11",
-   "last_online": "2026-11-26",
+   "last_online": "2026-11-27",
    "username": "MarlinChessBot"
   },
   "martuni": {
@@ -3387,7 +3392,7 @@
   },
   "mcvoid-bot": {
    "first_seen": "2026-11-04",
-   "last_online": "2026-11-26",
+   "last_online": "2026-11-27",
    "username": "mcvoid-bot"
   },
   "mdbot": {
@@ -3847,7 +3852,7 @@
   },
   "noksiy": {
    "first_seen": "2026-11-07",
-   "last_online": "2026-11-26",
+   "last_online": "2026-11-27",
    "username": "Noksiy"
   },
   "noodlesnake": {
@@ -4222,7 +4227,7 @@
   },
   "premove90-1500": {
    "first_seen": "2026-11-02",
-   "last_online": "2026-11-20",
+   "last_online": "2026-11-27",
    "username": "Premove90-1500"
   },
   "premoveandcry": {
@@ -5822,7 +5827,7 @@
   },
   "void_bot": {
    "first_seen": "2026-09-29",
-   "last_online": "2026-11-26",
+   "last_online": "2026-11-27",
    "username": "Void_Bot"
   },
   "voidbotv2": {
@@ -6007,7 +6012,7 @@
   },
   "xmtcore": {
    "first_seen": "2026-11-24",
-   "last_online": "2026-11-26",
+   "last_online": "2026-11-27",
    "username": "XMTCore"
   },
   "xxx_another_xxx": {
@@ -6147,7 +6152,7 @@
   }
  },
  "online": {
-  "checked_at": "2026-11-27T00:43:14Z",
+  "checked_at": "2026-11-27T01:43:09Z",
   "ids": [
    "abcd_engine",
    "aconcaguabot",
@@ -6198,6 +6203,7 @@
    "bot5551",
    "bot64jaques",
    "bot_adario",
+   "bothev",
    "botkill-v18x",
    "bottios",
    "bottrain",
@@ -6258,6 +6264,7 @@
    "debzero",
    "deepbecky",
    "deepsquare-ai",
+   "defenchessofficial",
    "demen100ns-bot",
    "devchessplayer-bot",
    "devilfishbot",
@@ -6299,7 +6306,6 @@
    "glorbo_evermorrow",
    "gnu4u",
    "goldfish-engine",
-   "goopis",
    "gopandafish",
    "grail-bot",
    "grindfish",
@@ -6357,6 +6363,7 @@
    "leelarookodds",
    "leelatroll",
    "leelonardo",
+   "legotechniccontrolpl",
    "lentuschess",
    "less_than_one",
    "levymaia",
@@ -6387,6 +6394,7 @@
    "maia9",
    "maia960-1600",
    "maia960-1900",
+   "marlinchessbot",
    "martuni",
    "mate-in-forty",
    "mate-in-thirty",
@@ -6396,6 +6404,7 @@
    "maximaengine",
    "mcdonalds1955",
    "mchesspro_8_uci",
+   "mcvoid-bot",
    "mega-noob-bot",
    "melsh_bot",
    "michaamateurbot",
@@ -6432,6 +6441,7 @@
    "nilatacbot",
    "nittedal",
    "noabot",
+   "noksiy",
    "notropis",
    "nx_horse",
    "o-rei-cx",
@@ -6462,6 +6472,7 @@
    "playmarius",
    "plumboi",
    "plumbot",
+   "premove90-1500",
    "princhess_policy_bot",
    "prismnnue",
    "prokopakop",
@@ -6471,7 +6482,6 @@
    "ptit-biscuit",
    "puisne",
    "pzchessbot",
-   "quirkafleeg-pc",
    "quirkafleeg-zx48k",
    "quirkafleeg-zxnext",
    "r0bspierre",
@@ -6491,7 +6501,6 @@
    "rudim-bot",
    "rust-in-pieces",
    "rust-in-pieces-nnue",
-   "sardinebot",
    "sargon-1ply",
    "sargon-3ply",
    "sbnovella",
@@ -6585,6 +6594,7 @@
    "vidbot",
    "vietnamesecoffee",
    "virutor",
+   "void_bot",
    "vortex_bot",
    "vortexaurafarm",
    "vyvrael-chess",
@@ -6595,6 +6605,7 @@
    "worserfish19",
    "worstfish",
    "xen-0",
+   "xmtcore",
    "z-o_aspenlabs",
    "zanak-bot",
    "zion-bot"
