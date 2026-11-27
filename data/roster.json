@@ -1112,7 +1112,7 @@
   },
   "chesstransformerbot": {
    "first_seen": "2026-10-08",
-   "last_online": "2026-11-26",
+   "last_online": "2026-11-27",
    "username": "ChessTransformerBot"
   },
   "cheszter": {
@@ -2482,7 +2482,7 @@
   },
   "jamchess_app": {
    "first_seen": "2026-11-09",
-   "last_online": "2026-11-16",
+   "last_online": "2026-11-27",
    "username": "JamChess_App"
   },
   "jangine": {
@@ -2704,6 +2704,11 @@
    "first_seen": "2026-10-10",
    "last_online": "2026-11-08",
    "username": "Kingzbot"
+  },
+  "kira_ai_bot": {
+   "first_seen": "2026-11-27",
+   "last_online": "2026-11-27",
+   "username": "KIRA_AI_bot"
   },
   "kirinchessbot": {
    "first_seen": "2026-09-27",
@@ -3367,7 +3372,7 @@
   },
   "mayflyengine": {
    "first_seen": "2026-09-27",
-   "last_online": "2026-11-13",
+   "last_online": "2026-11-27",
    "username": "MayFlyEngine"
   },
   "mboobot": {
@@ -3609,6 +3614,11 @@
    "first_seen": "2026-09-28",
    "last_online": "2026-11-27",
    "username": "Musashi-thebot"
+  },
+  "mutlubotbetaaccount": {
+   "first_seen": "2026-11-27",
+   "last_online": "2026-11-27",
+   "username": "mutlubotbetaAccount"
   },
   "mutusbot": {
    "first_seen": "2026-11-15",
@@ -5685,6 +5695,11 @@
    "last_online": "2026-11-27",
    "username": "UltraBrick"
   },
+  "uncrownedclown": {
+   "first_seen": "2026-11-27",
+   "last_online": "2026-11-27",
+   "username": "UncrownedClown"
+  },
   "unifiedchess-bot": {
    "first_seen": "2026-11-11",
    "last_online": "2026-11-17",
@@ -6162,7 +6177,7 @@
   }
  },
  "online": {
-  "checked_at": "2026-11-27T06:43:15Z",
+  "checked_at": "2026-11-27T07:43:14Z",
   "ids": [
    "abcd_engine",
    "aconcaguabot",
@@ -6191,7 +6206,6 @@
    "artidigm_research",
    "ashnostromo",
    "athena-chessbot",
-   "atomicenginev1",
    "axiom_bot",
    "azally",
    "baby_eubos",
@@ -6214,7 +6228,6 @@
    "bot5551",
    "bot64jaques",
    "bot_adario",
-   "bothev",
    "botkill-v18x",
    "bottios",
    "bottrain",
@@ -6244,6 +6257,7 @@
    "chessiverse_raak",
    "chessmindbot",
    "chessmode-go",
+   "chesstransformerbot",
    "cheszter",
    "chill4ce",
    "chiral_ebt",
@@ -6272,7 +6286,6 @@
    "darkelectronbot",
    "darkonbot",
    "darkonweakbot",
-   "darkvoidreaper",
    "darwin-chess-bot",
    "davidsguterbot",
    "debzero",
@@ -6337,9 +6350,9 @@
    "ilovecatgirl",
    "incipit_bot",
    "io-bot",
-   "ironbishop_bot",
    "ironrooks",
    "iskelt-corax",
+   "jamchess_app",
    "jangine",
    "jibbby",
    "jimmy_inc3710",
@@ -6356,6 +6369,7 @@
    "kern-0",
    "kestrelchess",
    "kestrelstrike",
+   "kira_ai_bot",
    "kirinchessbot",
    "kittyenginev5",
    "knightstalker_uci",
@@ -6374,7 +6388,6 @@
    "leelarookodds",
    "leelatroll",
    "leelonardo",
-   "legotechniccontrolpl",
    "lentuschess",
    "less_than_one",
    "levymaia",
@@ -6404,7 +6417,6 @@
    "maia9",
    "maia960-1600",
    "maia960-1900",
-   "marlinchessbot",
    "martuni",
    "mate-in-forty",
    "mate-in-thirty",
@@ -6412,9 +6424,9 @@
    "mate1-bot",
    "matmoi",
    "maximaengine",
+   "mayflyengine",
    "mcdonalds1955",
    "mchesspro_8_uci",
-   "mcvoid-bot",
    "mega-noob-bot",
    "melsh_bot",
    "michaamateurbot",
@@ -6423,7 +6435,6 @@
    "minopponentmoves",
    "mithandros",
    "mochi-fat",
-   "mochi-smol",
    "mochi_bot",
    "morabandbot",
    "mostlyhuman1900",
@@ -6434,6 +6445,7 @@
    "mrtonnerre",
    "mudskipperbot",
    "musashi-thebot",
+   "mutlubotbetaaccount",
    "mutusbot",
    "mychessjava",
    "mzero_dev",
@@ -6450,7 +6462,6 @@
    "nilatacbot",
    "nittedal",
    "noabot",
-   "noksiy",
    "notropis",
    "nx_horse",
    "o-rei-cx",
@@ -6512,13 +6523,13 @@
    "rudim-bot",
    "rust-in-pieces",
    "rust-in-pieces-nnue",
+   "sardinebot",
    "sargon-1ply",
    "sargon-3ply",
    "sbnovella",
    "scalaqueen",
    "schnecken_bot",
    "scipio-bot",
-   "sdsfaa",
    "seitogakatsu",
    "shahmatbot",
    "shallowredbot",
@@ -6568,6 +6579,7 @@
    "throrbjorn",
    "thunfisch-bot",
    "tigrament",
+   "tikifish",
    "tilapiabot",
    "tinyairun",
    "to299d",
@@ -6584,6 +6596,7 @@
    "turochamp-2ply",
    "twosillypandas",
    "ultrabrick",
+   "uncrownedclown",
    "unimark",
    "ursus_bot",
    "usunfish",
@@ -6600,7 +6613,6 @@
    "vidbot",
    "vietnamesecoffee",
    "virutor",
-   "void_bot",
    "vortex_bot",
    "vortexaurafarm",
    "vyvrael-chess",
@@ -6608,6 +6620,7 @@
    "walpurti",
    "wannalearnbot",
    "weiawaga",
+   "worserfish19",
    "worstfish",
    "xen-0",
    "z-o_aspenlabs",
