@@ -722,7 +722,7 @@
   },
   "botkingteam33": {
    "first_seen": "2026-10-11",
-   "last_online": "2026-11-26",
+   "last_online": "2026-11-27",
    "username": "Botkingteam33"
   },
   "botmonok": {
@@ -1157,7 +1157,7 @@
   },
   "chrusty": {
    "first_seen": "2026-09-28",
-   "last_online": "2026-11-25",
+   "last_online": "2026-11-27",
    "username": "chrusty"
   },
   "chuckmate_bot": {
@@ -1392,7 +1392,7 @@
   },
   "darkdayonip": {
    "first_seen": "2026-11-23",
-   "last_online": "2026-11-26",
+   "last_online": "2026-11-27",
    "username": "DarkDayOnip"
   },
   "darkelectronbot": {
@@ -2032,7 +2032,7 @@
   },
   "gaiachessengine": {
    "first_seen": "2026-11-08",
-   "last_online": "2026-11-26",
+   "last_online": "2026-11-27",
    "username": "GaiaChessEngine"
   },
   "galaxy-stellar-bot": {
@@ -3662,7 +3662,7 @@
   },
   "my-bot": {
    "first_seen": "2026-10-03",
-   "last_online": "2026-11-22",
+   "last_online": "2026-11-27",
    "username": "MY-BOT"
   },
   "my_bot121": {
@@ -4437,7 +4437,7 @@
   },
   "rapidplayero": {
    "first_seen": "2026-11-23",
-   "last_online": "2026-11-26",
+   "last_online": "2026-11-27",
    "username": "RapidplayerO"
   },
   "rascal1": {
@@ -4897,7 +4897,7 @@
   },
   "shayanytbot": {
    "first_seen": "2026-11-22",
-   "last_online": "2026-11-26",
+   "last_online": "2026-11-27",
    "username": "shayanYTBOT"
   },
   "shedletskybot": {
@@ -5242,7 +5242,7 @@
   },
   "stockfish_bot2": {
    "first_seen": "2026-10-11",
-   "last_online": "2026-11-26",
+   "last_online": "2026-11-27",
    "username": "Stockfish_bot2"
   },
   "stockfishlowdepth": {
@@ -6202,7 +6202,7 @@
   },
   "zoo_amrica": {
    "first_seen": "2026-11-22",
-   "last_online": "2026-11-26",
+   "last_online": "2026-11-27",
    "username": "Zoo_amrica"
   },
   "zuhammet": {
@@ -6222,7 +6222,7 @@
   }
  },
  "online": {
-  "checked_at": "2026-11-27T14:43:11Z",
+  "checked_at": "2026-11-27T15:43:09Z",
   "ids": [
    "aaronsengine",
    "abcd_engine",
@@ -6233,6 +6233,7 @@
    "ai-con",
    "ailedbot",
    "ajedrezchamberi",
+   "alarm2001",
    "alehkine_cat",
    "alexandrya",
    "aliceshiro",
@@ -6281,6 +6282,7 @@
    "bot64jaques",
    "bot_adario",
    "botkill-v18x",
+   "botkingteam33",
    "bottios",
    "bottrain",
    "bretemabot",
@@ -6312,6 +6314,7 @@
    "cheszter",
    "chill4ce",
    "chiral_ebt",
+   "chrusty",
    "chuckmate_bot",
    "cinder-bot",
    "classical-leela",
@@ -6335,6 +6338,7 @@
    "dala-2000",
    "dala-700",
    "dala-900",
+   "darkdayonip",
    "darkelectronbot",
    "darkonweakbot",
    "darwin-chess-bot",
@@ -6376,6 +6380,7 @@
    "fourcuriouspandas",
    "fschess-engine",
    "funfishbot",
+   "gaiachessengine",
    "galaxy-stellar-bot",
    "garbobot",
    "geotsibot",
@@ -6407,7 +6412,6 @@
    "ironrooks",
    "iskelt-corax",
    "jangine",
-   "jester7777",
    "jibbby",
    "jimmy_inc3710",
    "jjugle",
@@ -6429,9 +6433,7 @@
    "kittyenginev5",
    "klak_engine",
    "knightstalker_uci",
-   "koi_engine",
    "kopyto_dev",
-   "kulubot",
    "kybot",
    "lamprook",
    "laura-bot",
@@ -6458,7 +6460,6 @@
    "luminexbot",
    "lunaenginechess",
    "lynx_bot",
-   "macbotitsmagic",
    "maia1",
    "maia3-79m_1000",
    "maia3-79m_1200",
@@ -6502,8 +6503,10 @@
    "mrdeepseekgpt",
    "mrtonnerre",
    "mudskipperbot",
+   "munzurbot2",
    "mutlubotbetaaccount",
    "mutusbot",
+   "my-bot",
    "mychessjava",
    "nanozeroorg",
    "ndr1sn",
@@ -6569,6 +6572,7 @@
    "quirkafleeg-zxnext",
    "r0bspierre",
    "radianceengine",
+   "rapidplayero",
    "raspfish",
    "ratsu-bot",
    "raven030",
@@ -6585,7 +6589,6 @@
    "rust-in-pieces",
    "rust-in-pieces-nnue",
    "sacrifice-engine",
-   "saherator",
    "sardinebot",
    "sargon-1ply",
    "sargon-3ply",
@@ -6597,6 +6600,7 @@
    "seitogakatsu",
    "shallowredbot",
    "sharpdubot",
+   "shayanytbot",
    "shedletskybot",
    "shrevenbot",
    "silasly",
@@ -6623,6 +6627,7 @@
    "stockconda",
    "stockcotsfish",
    "stockdory",
+   "stockfish_bot2",
    "stockfishlowdepth",
    "stockfishroulettebot",
    "stockfishv19",
@@ -6689,7 +6694,8 @@
    "xen-0",
    "z-o_aspenlabs",
    "zanak-bot",
-   "zion-bot"
+   "zion-bot",
+   "zoo_amrica"
   ]
  },
  "schema_version": 1
