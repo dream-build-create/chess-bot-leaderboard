@@ -7,7 +7,7 @@
   },
   "aaronsengine": {
    "first_seen": "2026-09-27",
-   "last_online": "2026-11-26",
+   "last_online": "2026-11-27",
    "username": "AaronsEngine"
   },
   "aathena101": {
@@ -112,7 +112,7 @@
   },
   "ajedrezchamberi": {
    "first_seen": "2026-09-29",
-   "last_online": "2026-11-26",
+   "last_online": "2026-11-27",
    "username": "AjedrezChamberi"
   },
   "alarm2001": {
@@ -922,7 +922,7 @@
   },
   "chamberiajedrez": {
    "first_seen": "2026-09-29",
-   "last_online": "2026-11-26",
+   "last_online": "2026-11-27",
    "username": "ChamberiAjedrez"
   },
   "chaotong_engine": {
@@ -3767,7 +3767,7 @@
   },
   "newengine2022": {
    "first_seen": "2026-10-06",
-   "last_online": "2026-11-23",
+   "last_online": "2026-11-27",
    "username": "newengine2022"
   },
   "newtsbot": {
@@ -5822,7 +5822,7 @@
   },
   "vi-rock-chess": {
    "first_seen": "2026-11-15",
-   "last_online": "2026-11-23",
+   "last_online": "2026-11-27",
    "username": "vi-rock-chess"
   },
   "vic98lg": {
@@ -6192,8 +6192,9 @@
   }
  },
  "online": {
-  "checked_at": "2026-11-27T09:43:13Z",
+  "checked_at": "2026-11-27T10:43:10Z",
   "ids": [
+   "aaronsengine",
    "abcd_engine",
    "aconcaguabot",
    "aetherbot",
@@ -6201,7 +6202,7 @@
    "aggressivestockfish",
    "ai-con",
    "ailedbot",
-   "alarm2001",
+   "ajedrezchamberi",
    "alehkine_cat",
    "alexandrya",
    "aliceshiro",
@@ -6255,11 +6256,11 @@
    "c-t-r-l",
    "caesarbot",
    "caiporabot",
-   "caissa-x",
    "capabot",
    "casanchess-nnue",
    "catnail",
    "catriever",
+   "chamberiajedrez",
    "charibot",
    "cheng-4",
    "cheng-4-nn",
@@ -6316,7 +6317,6 @@
    "disrespect_fish",
    "dravox",
    "drawfish-reborn",
-   "drei_tage_bot",
    "drewschessmachine",
    "drunken-pipe-bomb",
    "dubot",
@@ -6350,7 +6350,6 @@
    "glorbo_evermorrow",
    "gnu4u",
    "goldfish-engine",
-   "goopis",
    "gopandafish",
    "grail-bot",
    "grindfish",
@@ -6368,11 +6367,11 @@
    "icarus-bot",
    "ilovecatgirl",
    "incipit_bot",
-   "io-bot",
    "ironrooks",
    "iskelt-corax",
    "jamchess_app",
    "jangine",
+   "jester7777",
    "jibbby",
    "jimmy_inc3710",
    "jjugle",
@@ -6444,8 +6443,8 @@
    "matmoi",
    "maximaengine",
    "mayflyengine",
-   "mcdonalds1955",
    "mchesspro_8_uci",
+   "mcvoid-bot",
    "mega-noob-bot",
    "melsh_bot",
    "michaamateurbot",
@@ -6464,7 +6463,6 @@
    "mrdeepseekgpt",
    "mrtonnerre",
    "mudskipperbot",
-   "munzurbot2",
    "musashi-thebot",
    "mutlubotbetaaccount",
    "mutusbot",
@@ -6475,6 +6473,7 @@
    "neetroc-bot",
    "neryba",
    "neurosocute",
+   "newengine2022",
    "nexastrat",
    "next_uzbek",
    "nibbleknight",
@@ -6515,7 +6514,6 @@
    "plumboi",
    "plumbot",
    "polvo_engine",
-   "ponytail_engine",
    "princhess_policy_bot",
    "prismnnue",
    "prokopakop",
@@ -6574,6 +6572,7 @@
    "smotherfishbot3",
    "smotherfishbot4",
    "solobot",
+   "sparkchessengine",
    "springerbot",
    "squarefish-900",
    "sseh-c",
@@ -6631,6 +6630,7 @@
    "uzenatch",
    "vanibot",
    "variantsbot",
+   "vi-rock-chess",
    "vic98lg",
    "vicentlittle",
    "vidbot",
@@ -6641,6 +6641,7 @@
    "vyvrael-chess",
    "waldemar-the-elf",
    "walpurti",
+   "wannalearnbot",
    "weiawaga",
    "worserfish19",
    "worstfish",
