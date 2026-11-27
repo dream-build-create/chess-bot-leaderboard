@@ -2512,7 +2512,7 @@
   },
   "jester7777": {
    "first_seen": "2026-11-11",
-   "last_online": "2026-11-26",
+   "last_online": "2026-11-27",
    "username": "jester7777"
   },
   "jesterchessrobot": {
@@ -4260,6 +4260,11 @@
    "last_online": "2026-11-22",
    "username": "Project_Nebulora"
   },
+  "projectgambit": {
+   "first_seen": "2026-11-27",
+   "last_online": "2026-11-27",
+   "username": "ProjectGambit"
+  },
   "prokopakop": {
    "first_seen": "2026-09-27",
    "last_online": "2026-11-27",
@@ -4332,7 +4337,7 @@
   },
   "quartzthechessbot": {
    "first_seen": "2026-11-18",
-   "last_online": "2026-11-26",
+   "last_online": "2026-11-27",
    "username": "QuartzTheChessBot"
   },
   "queensgambot": {
@@ -6152,7 +6157,7 @@
   }
  },
  "online": {
-  "checked_at": "2026-11-27T03:43:08Z",
+  "checked_at": "2026-11-27T04:43:10Z",
   "ids": [
    "abcd_engine",
    "aconcaguabot",
@@ -6212,7 +6217,6 @@
    "bubblebot2",
    "byte-knight",
    "bytefish",
-   "c-t-r-l",
    "caiporabot",
    "capabot",
    "casanchess-nnue",
@@ -6258,7 +6262,6 @@
    "dala-700",
    "dala-900",
    "darkelectronbot",
-   "darkonbot",
    "darkonweakbot",
    "darwin-chess-bot",
    "davidsguterbot",
@@ -6299,7 +6302,6 @@
    "fourcuriouspandas",
    "fschess-engine",
    "funfishbot",
-   "gambitonlybot",
    "garbobot",
    "georgii_ai",
    "geotsibot",
@@ -6327,10 +6329,12 @@
    "icarus-bot",
    "ilovecatgirl",
    "incipit_bot",
+   "io-bot",
    "ironbishop_bot",
    "ironrooks",
    "iskelt-corax",
    "jangine",
+   "jester7777",
    "jibbby",
    "jimmy_inc3710",
    "jjugle",
@@ -6341,7 +6345,6 @@
    "jurdbird",
    "justbot-v1",
    "kahunabot",
-   "karl-engine-v1",
    "kbelludoo",
    "kern-0",
    "kestrelchess",
@@ -6352,7 +6355,6 @@
    "kulubot",
    "kybot",
    "lamprook",
-   "lantern_bot",
    "laura-bot",
    "leelaalien",
    "leelaanyodds",
@@ -6402,6 +6404,7 @@
    "mate1-bot",
    "matmoi",
    "maximaengine",
+   "mcdonalds1955",
    "mchesspro_8_uci",
    "mega-noob-bot",
    "melsh_bot",
@@ -6411,6 +6414,7 @@
    "minopponentmoves",
    "mithandros",
    "mochi-fat",
+   "mochi-smol",
    "mochi_bot",
    "morabandbot",
    "mostlyhuman1900",
@@ -6471,6 +6475,7 @@
    "polvo_engine",
    "princhess_policy_bot",
    "prismnnue",
+   "projectgambit",
    "prokopakop",
    "pseudo-0",
    "pseudo-1",
@@ -6478,6 +6483,8 @@
    "ptit-biscuit",
    "puisne",
    "pzchessbot",
+   "quartzthechessbot",
+   "quirkafleeg-pc",
    "quirkafleeg-zx48k",
    "quirkafleeg-zxnext",
    "r0bspierre",
@@ -6523,7 +6530,6 @@
    "smotherfishbot3",
    "smotherfishbot4",
    "solobot",
-   "sparkchessengine",
    "springerbot",
    "squarefish-900",
    "sseh-c",
@@ -6549,7 +6555,6 @@
    "tente-v2",
    "tente8x",
    "territorybot",
-   "thechessblazer",
    "throrbjorn",
    "thunfisch-bot",
    "tigrament",
