@@ -630,6 +630,11 @@
    "last_online": "2026-11-27",
    "username": "bobby_pcolla"
   },
+  "boberchessbot": {
+   "first_seen": "2026-11-27",
+   "last_online": "2026-11-27",
+   "username": "BoberChessBot"
+  },
   "bongaclang": {
    "first_seen": "2026-09-27",
    "last_online": "2026-11-27",
@@ -2452,7 +2457,7 @@
   },
   "intermediateplay2026": {
    "first_seen": "2026-11-22",
-   "last_online": "2026-11-26",
+   "last_online": "2026-11-27",
    "username": "IntermediatePlay2026"
   },
   "io-bot": {
@@ -3532,7 +3537,7 @@
   },
   "minimaxpro": {
    "first_seen": "2026-11-07",
-   "last_online": "2026-11-25",
+   "last_online": "2026-11-27",
    "username": "Minimaxpro"
   },
   "minmaxvalgen": {
@@ -6012,7 +6017,7 @@
   },
   "wedge_engine": {
    "first_seen": "2026-10-22",
-   "last_online": "2026-11-25",
+   "last_online": "2026-11-27",
    "username": "wedge_engine"
   },
   "weeebot": {
@@ -6237,7 +6242,7 @@
   }
  },
  "online": {
-  "checked_at": "2026-11-27T19:43:08Z",
+  "checked_at": "2026-11-27T20:43:08Z",
   "ids": [
    "aaronsengine",
    "abcd_engine",
@@ -6275,18 +6280,18 @@
    "belzedarian",
    "bernstein-2ply",
    "bernstein-4ply",
+   "berrycow2",
    "bertbot",
    "bfiedler-bot",
    "bhaaibot",
    "bitarena",
    "bitbitbot",
-   "black-icebot",
    "bluemoonbot",
    "blujay-bot",
-   "blundeel67",
    "blundermind-01",
    "blundermind-m3",
    "bobby_pcolla",
+   "boberchessbot",
    "bongaclang",
    "boris-trapsky",
    "borkatower",
@@ -6322,10 +6327,8 @@
    "chessiverse_raak",
    "chessmindbot",
    "chessmode-go",
-   "chesstransformerbot",
    "cheszter",
    "chill4ce",
-   "chiral_ebt",
    "chuckmate_bot",
    "cinder-bot",
    "classical-leela",
@@ -6415,7 +6418,7 @@
    "icarus-bot",
    "ilovecatgirl",
    "incipit_bot",
-   "io-bot",
+   "intermediateplay2026",
    "ironbishop_bot",
    "ironrooks",
    "iskelt-corax",
@@ -6431,7 +6434,6 @@
    "justbot-v1",
    "kahunabot",
    "karl-engine-v1",
-   "kasdengine",
    "kbelludoo",
    "kern-0",
    "kestrelchess",
@@ -6462,7 +6464,6 @@
    "leelonardo",
    "legotechniccontrolpl",
    "lentuschess",
-   "less_than_one",
    "levymaia",
    "likeawizard-bot",
    "lilitbot",
@@ -6500,10 +6501,12 @@
    "maximaengine",
    "mayflyengine",
    "mchesspro_8_uci",
+   "mcvoid-bot",
    "mega-noob-bot",
    "melsh_bot",
    "milanbot",
    "mimirbot",
+   "minimaxpro",
    "minopponentmoves",
    "mithandros",
    "mochi-fat",
@@ -6513,7 +6516,6 @@
    "mostlyhuman1900",
    "motor-0",
    "mr_sandbar",
-   "mraubot",
    "mrcoachbot",
    "mrdeepseekgpt",
    "mrtonnerre",
@@ -6599,7 +6601,6 @@
    "rust-in-pieces",
    "rust-in-pieces-nnue",
    "ryu-ishigori",
-   "saherator",
    "sardinebot",
    "sargon-1ply",
    "sargon-3ply",
@@ -6645,6 +6646,7 @@
    "streamervschat",
    "stroberibot",
    "stupidfishbotbydscs",
+   "styx-chess",
    "sunfish-engine",
    "sunfish-nnue-engine",
    "sxphia",
@@ -6675,7 +6677,6 @@
    "turochamp-2ply",
    "twosillypandas",
    "ultrabrick",
-   "uncrownedclown",
    "unimark",
    "ursus_bot",
    "usunfish",
@@ -6700,6 +6701,7 @@
    "waldemar-the-elf",
    "walpurti",
    "wannalearnbot",
+   "wedge_engine",
    "weiawaga",
    "worserfish19",
    "worstfish",
