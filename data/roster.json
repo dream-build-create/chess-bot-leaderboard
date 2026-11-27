@@ -380,6 +380,11 @@
    "last_online": "2026-11-27",
    "username": "AZALLY"
   },
+  "azchess-1": {
+   "first_seen": "2026-11-27",
+   "last_online": "2026-11-27",
+   "username": "Azchess-1"
+  },
   "azzbot": {
    "first_seen": "2026-09-27",
    "last_online": "2026-11-26",
@@ -2635,6 +2640,11 @@
    "last_online": "2026-11-05",
    "username": "KaKaBot"
   },
+  "kale_engine": {
+   "first_seen": "2026-11-27",
+   "last_online": "2026-11-27",
+   "username": "kale_engine"
+  },
   "karimbot": {
    "first_seen": "2026-10-07",
    "last_online": "2026-10-12",
@@ -2792,7 +2802,7 @@
   },
   "koi_engine": {
    "first_seen": "2026-10-23",
-   "last_online": "2026-11-09",
+   "last_online": "2026-11-27",
    "username": "koi_engine"
   },
   "kolmato": {
@@ -2932,7 +2942,7 @@
   },
   "leelamultiposs": {
    "first_seen": "2026-10-08",
-   "last_online": "2026-11-25",
+   "last_online": "2026-11-27",
    "username": "LeelaMultiPoss"
   },
   "leelapieceodds": {
@@ -3487,7 +3497,7 @@
   },
   "mind_bot": {
    "first_seen": "2026-10-03",
-   "last_online": "2026-11-26",
+   "last_online": "2026-11-27",
    "username": "Mind_BOT"
   },
   "minibotapi": {
@@ -4302,7 +4312,7 @@
   },
   "prosperobot": {
    "first_seen": "2026-09-27",
-   "last_online": "2026-11-26",
+   "last_online": "2026-11-27",
    "username": "ProsperoBot"
   },
   "proteinbender": {
@@ -5465,6 +5475,11 @@
    "last_online": "2026-11-09",
    "username": "The_Baronet"
   },
+  "the_chessmaster_3000": {
+   "first_seen": "2026-11-27",
+   "last_online": "2026-11-27",
+   "username": "the_chessmaster_3000"
+  },
   "thealexdestroyer": {
    "first_seen": "2026-10-05",
    "last_online": "2026-10-13",
@@ -6192,7 +6207,7 @@
   }
  },
  "online": {
-  "checked_at": "2026-11-27T10:43:10Z",
+  "checked_at": "2026-11-27T11:43:10Z",
   "ids": [
    "aaronsengine",
    "abcd_engine",
@@ -6224,6 +6239,7 @@
    "athena-chessbot",
    "axiom_bot",
    "azally",
+   "azchess-1",
    "baby_eubos",
    "bbc_bot",
    "belzedarian",
@@ -6237,7 +6253,6 @@
    "black-icebot",
    "bluemoonbot",
    "blujay-bot",
-   "blundeel67",
    "blundermind-01",
    "blundermind-m3",
    "bongaclang",
@@ -6253,7 +6268,6 @@
    "bubblebot2",
    "byte-knight",
    "bytefish",
-   "c-t-r-l",
    "caesarbot",
    "caiporabot",
    "capabot",
@@ -6266,9 +6280,9 @@
    "cheng-4-nn",
    "chess3bot",
    "chess_set_manager",
-   "chessai4f",
    "chessbook-1",
    "chesschildren",
+   "chessgeniusbot",
    "chessiverse_ethan",
    "chessiverse_luc",
    "chessiverse_pawnza",
@@ -6318,7 +6332,6 @@
    "dravox",
    "drawfish-reborn",
    "drewschessmachine",
-   "drunken-pipe-bomb",
    "dubot",
    "duchessai",
    "dumbotai",
@@ -6367,6 +6380,8 @@
    "icarus-bot",
    "ilovecatgirl",
    "incipit_bot",
+   "io-bot",
+   "ironbishop_bot",
    "ironrooks",
    "iskelt-corax",
    "jamchess_app",
@@ -6382,6 +6397,7 @@
    "jurdbird",
    "justbot-v1",
    "kahunabot",
+   "kale_engine",
    "karl-engine-v1",
    "kbelludoo",
    "kern-0",
@@ -6391,6 +6407,7 @@
    "kirinchessbot",
    "kittyenginev5",
    "knightstalker_uci",
+   "koi_engine",
    "kopyto_dev",
    "kulubot",
    "kybot",
@@ -6400,6 +6417,7 @@
    "leelaanyodds",
    "leelajester",
    "leelaknightodds",
+   "leelamultiposs",
    "leelaqueenforknight",
    "leelaqueenodds",
    "leelarogue",
@@ -6444,12 +6462,12 @@
    "maximaengine",
    "mayflyengine",
    "mchesspro_8_uci",
-   "mcvoid-bot",
    "mega-noob-bot",
    "melsh_bot",
    "michaamateurbot",
    "milanbot",
    "mimirbot",
+   "mind_bot",
    "minopponentmoves",
    "mithandros",
    "mochi-fat",
@@ -6467,13 +6485,11 @@
    "mutlubotbetaaccount",
    "mutusbot",
    "mychessjava",
-   "mzero_dev",
    "nanozeroorg",
    "ndr1sn",
    "neetroc-bot",
    "neryba",
    "neurosocute",
-   "newengine2022",
    "nexastrat",
    "next_uzbek",
    "nibbleknight",
@@ -6483,6 +6499,7 @@
    "nilatacbot",
    "nittedal",
    "noabot",
+   "noksiy",
    "notropis",
    "nx_horse",
    "o-rei-cx",
@@ -6517,10 +6534,10 @@
    "princhess_policy_bot",
    "prismnnue",
    "prokopakop",
+   "prosperobot",
    "pseudo-0",
    "pseudo-1",
    "psion-chess",
-   "ptit-biscuit",
    "puisne",
    "pzchessbot",
    "quartzthechessbot",
@@ -6551,6 +6568,7 @@
    "scalaqueen",
    "schnecken_bot",
    "scipio-bot",
+   "sdsfaa",
    "seitogakatsu",
    "shahmatbot",
    "shallowredbot",
@@ -6572,7 +6590,6 @@
    "smotherfishbot3",
    "smotherfishbot4",
    "solobot",
-   "sparkchessengine",
    "springerbot",
    "squarefish-900",
    "sseh-c",
@@ -6598,6 +6615,7 @@
    "tente-v2",
    "tente8x",
    "territorybot",
+   "the_chessmaster_3000",
    "throrbjorn",
    "thunfisch-bot",
    "tigrament",
@@ -6630,8 +6648,6 @@
    "uzenatch",
    "vanibot",
    "variantsbot",
-   "vi-rock-chess",
-   "vic98lg",
    "vicentlittle",
    "vidbot",
    "vietnamesecoffee",
