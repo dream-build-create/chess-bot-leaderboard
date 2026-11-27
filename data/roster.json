@@ -297,7 +297,7 @@
   },
   "arroccobot": {
    "first_seen": "2026-10-30",
-   "last_online": "2026-11-26",
+   "last_online": "2026-11-27",
    "username": "ArroccoBot"
   },
   "arthurai": {
@@ -1037,7 +1037,7 @@
   },
   "chessbotbuddy": {
    "first_seen": "2026-11-25",
-   "last_online": "2026-11-26",
+   "last_online": "2026-11-27",
    "username": "chessbotbuddy"
   },
   "chessbzero": {
@@ -5292,7 +5292,7 @@
   },
   "studyloversz-bot": {
    "first_seen": "2026-09-27",
-   "last_online": "2026-11-11",
+   "last_online": "2026-11-27",
    "username": "Studyloversz-bot"
   },
   "stupidchessrobot": {
@@ -5810,6 +5810,11 @@
    "last_online": "2026-10-30",
    "username": "Valhalla-Bot"
   },
+  "vanguardfr": {
+   "first_seen": "2026-11-27",
+   "last_online": "2026-11-27",
+   "username": "vanguardfr"
+  },
   "vanibot": {
    "first_seen": "2026-09-27",
    "last_online": "2026-11-27",
@@ -6207,7 +6212,7 @@
   }
  },
  "online": {
-  "checked_at": "2026-11-27T11:43:10Z",
+  "checked_at": "2026-11-27T12:43:09Z",
   "ids": [
    "aaronsengine",
    "abcd_engine",
@@ -6234,6 +6239,7 @@
    "approximationbot",
    "arasanx",
    "arkiplayschess",
+   "arroccobot",
    "artidigm_research",
    "ashnostromo",
    "athena-chessbot",
@@ -6253,6 +6259,7 @@
    "black-icebot",
    "bluemoonbot",
    "blujay-bot",
+   "blundeel67",
    "blundermind-01",
    "blundermind-m3",
    "bongaclang",
@@ -6279,10 +6286,10 @@
    "cheng-4",
    "cheng-4-nn",
    "chess3bot",
-   "chess_set_manager",
+   "chessai4f",
    "chessbook-1",
+   "chessbotbuddy",
    "chesschildren",
-   "chessgeniusbot",
    "chessiverse_ethan",
    "chessiverse_luc",
    "chessiverse_pawnza",
@@ -6316,7 +6323,6 @@
    "dala-700",
    "dala-900",
    "darkelectronbot",
-   "darkonbot",
    "darkonweakbot",
    "darwin-chess-bot",
    "davidsguterbot",
@@ -6332,6 +6338,7 @@
    "dravox",
    "drawfish-reborn",
    "drewschessmachine",
+   "drunken-pipe-bomb",
    "dubot",
    "duchessai",
    "dumbotai",
@@ -6363,6 +6370,7 @@
    "glorbo_evermorrow",
    "gnu4u",
    "goldfish-engine",
+   "goopis",
    "gopandafish",
    "grail-bot",
    "grindfish",
@@ -6425,6 +6433,7 @@
    "leelatroll",
    "leelonardo",
    "lentuschess",
+   "less_than_one",
    "levymaia",
    "likeawizard-bot",
    "lilitbot",
@@ -6436,7 +6445,6 @@
    "lunaenginechess",
    "lynx_bot",
    "macbotitsmagic",
-   "macromix",
    "maia1",
    "maia3-79m_1000",
    "maia3-79m_1200",
@@ -6462,6 +6470,7 @@
    "maximaengine",
    "mayflyengine",
    "mchesspro_8_uci",
+   "mcvoid-bot",
    "mega-noob-bot",
    "melsh_bot",
    "michaamateurbot",
@@ -6481,13 +6490,11 @@
    "mrdeepseekgpt",
    "mrtonnerre",
    "mudskipperbot",
-   "musashi-thebot",
    "mutlubotbetaaccount",
    "mutusbot",
    "mychessjava",
    "nanozeroorg",
    "ndr1sn",
-   "neetroc-bot",
    "neryba",
    "neurosocute",
    "nexastrat",
@@ -6530,7 +6537,6 @@
    "playmarius",
    "plumboi",
    "plumbot",
-   "polvo_engine",
    "princhess_policy_bot",
    "prismnnue",
    "prokopakop",
@@ -6570,7 +6576,6 @@
    "scipio-bot",
    "sdsfaa",
    "seitogakatsu",
-   "shahmatbot",
    "shallowredbot",
    "sharpdubot",
    "shedletskybot",
@@ -6604,6 +6609,7 @@
    "stockpapagei",
    "streamervschat",
    "stroberibot",
+   "studyloversz-bot",
    "stupidfishbotbydscs",
    "sunfish-engine",
    "sunfish-nnue-engine",
@@ -6636,7 +6642,6 @@
    "turochamp-2ply",
    "twosillypandas",
    "ultrabrick",
-   "uncrownedclown",
    "unimark",
    "ursus_bot",
    "usunfish",
@@ -6646,8 +6651,10 @@
    "utrain-chess-bot",
    "uxugin-bot",
    "uzenatch",
+   "vanguardfr",
    "vanibot",
    "variantsbot",
+   "vic98lg",
    "vicentlittle",
    "vidbot",
    "vietnamesecoffee",
