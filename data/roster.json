@@ -592,7 +592,7 @@
   },
   "blundeel67": {
    "first_seen": "2026-11-07",
-   "last_online": "2026-11-26",
+   "last_online": "2026-11-27",
    "username": "blundeel67"
   },
   "blunder-engine": {
@@ -1149,6 +1149,11 @@
    "first_seen": "2026-09-28",
    "last_online": "2026-11-25",
    "username": "chrusty"
+  },
+  "chuckmate_bot": {
+   "first_seen": "2026-11-27",
+   "last_online": "2026-11-27",
+   "username": "chuckmate_bot"
   },
   "cinder-bot": {
    "first_seen": "2026-09-27",
@@ -3162,7 +3167,7 @@
   },
   "macbotitsmagic": {
    "first_seen": "2026-11-17",
-   "last_online": "2026-11-26",
+   "last_online": "2026-11-27",
    "username": "macbotitsmagic"
   },
   "mackbot": {
@@ -4222,7 +4227,7 @@
   },
   "ponytail_engine": {
    "first_seen": "2026-10-28",
-   "last_online": "2026-11-25",
+   "last_online": "2026-11-27",
    "username": "Ponytail_engine"
   },
   "potential_engine": {
@@ -6187,7 +6192,7 @@
   }
  },
  "online": {
-  "checked_at": "2026-11-27T09:01:58Z",
+  "checked_at": "2026-11-27T09:43:13Z",
   "ids": [
    "abcd_engine",
    "aconcaguabot",
@@ -6231,6 +6236,7 @@
    "black-icebot",
    "bluemoonbot",
    "blujay-bot",
+   "blundeel67",
    "blundermind-01",
    "blundermind-m3",
    "bongaclang",
@@ -6259,9 +6265,9 @@
    "cheng-4-nn",
    "chess3bot",
    "chess_set_manager",
+   "chessai4f",
    "chessbook-1",
    "chesschildren",
-   "chessgeniusbot",
    "chessiverse_ethan",
    "chessiverse_luc",
    "chessiverse_pawnza",
@@ -6272,6 +6278,7 @@
    "cheszter",
    "chill4ce",
    "chiral_ebt",
+   "chuckmate_bot",
    "cinder-bot",
    "classical-leela",
    "claude_bot",
@@ -6411,6 +6418,7 @@
    "luminexbot",
    "lunaenginechess",
    "lynx_bot",
+   "macbotitsmagic",
    "macromix",
    "maia1",
    "maia3-79m_1000",
@@ -6507,6 +6515,7 @@
    "plumboi",
    "plumbot",
    "polvo_engine",
+   "ponytail_engine",
    "princhess_policy_bot",
    "prismnnue",
    "prokopakop",
@@ -6632,7 +6641,6 @@
    "vyvrael-chess",
    "waldemar-the-elf",
    "walpurti",
-   "wannalearnbot",
    "weiawaga",
    "worserfish19",
    "worstfish",
