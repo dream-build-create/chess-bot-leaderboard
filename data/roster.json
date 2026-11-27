@@ -1127,7 +1127,7 @@
   },
   "chesstitanspro": {
    "first_seen": "2026-11-04",
-   "last_online": "2026-11-07",
+   "last_online": "2026-11-27",
    "username": "ChessTitanspro"
   },
   "chesstransformerbot": {
@@ -4160,6 +4160,11 @@
    "last_online": "2026-11-27",
    "username": "philidor-142M"
   },
+  "phoenix_engine": {
+   "first_seen": "2026-11-27",
+   "last_online": "2026-11-27",
+   "username": "Phoenix_Engine"
+  },
   "pi0w": {
    "first_seen": "2026-09-27",
    "last_online": "2026-11-27",
@@ -6242,9 +6247,8 @@
   }
  },
  "online": {
-  "checked_at": "2026-11-27T20:43:08Z",
+  "checked_at": "2026-11-27T21:36:39Z",
   "ids": [
-   "aaronsengine",
    "abcd_engine",
    "aconcaguabot",
    "aetherbot",
@@ -6288,6 +6292,7 @@
    "bitbitbot",
    "bluemoonbot",
    "blujay-bot",
+   "blundeel67",
    "blundermind-01",
    "blundermind-m3",
    "bobby_pcolla",
@@ -6305,7 +6310,6 @@
    "byte-knight",
    "bytefish",
    "c-t-r-l",
-   "caesarbot",
    "caiporabot",
    "capabot",
    "casanchess-nnue",
@@ -6327,6 +6331,7 @@
    "chessiverse_raak",
    "chessmindbot",
    "chessmode-go",
+   "chesstitanspro",
    "cheszter",
    "chill4ce",
    "chuckmate_bot",
@@ -6418,7 +6423,7 @@
    "icarus-bot",
    "ilovecatgirl",
    "incipit_bot",
-   "intermediateplay2026",
+   "io-bot",
    "ironbishop_bot",
    "ironrooks",
    "iskelt-corax",
@@ -6433,6 +6438,7 @@
    "jurdbird",
    "justbot-v1",
    "kahunabot",
+   "kale_engine",
    "karl-engine-v1",
    "kbelludoo",
    "kern-0",
@@ -6442,7 +6448,6 @@
    "kirinchessbot",
    "kittyenginev5",
    "kiyengine",
-   "klak_engine",
    "knightstalker_uci",
    "koi_engine",
    "kolmato",
@@ -6501,7 +6506,6 @@
    "maximaengine",
    "mayflyengine",
    "mchesspro_8_uci",
-   "mcvoid-bot",
    "mega-noob-bot",
    "melsh_bot",
    "milanbot",
@@ -6536,6 +6540,7 @@
    "nilatacbot",
    "nittedal",
    "noabot",
+   "noksiy",
    "notropis",
    "nx_horse",
    "o-rei-cx",
@@ -6560,6 +6565,7 @@
    "perl-gigachess",
    "phalanx-xxv",
    "philidor-142m",
+   "phoenix_engine",
    "pi0w",
    "picosargon",
    "piebot",
@@ -6617,7 +6623,6 @@
    "silasly",
    "sim3million",
    "simonericafonso",
-   "simpleeval",
    "sj_norbot",
    "slate-engine",
    "sleepish",
@@ -6660,6 +6665,7 @@
    "throrbjorn",
    "thunfisch-bot",
    "tigrament",
+   "tikifish",
    "tilapiabot",
    "tinyairun",
    "to299d",
@@ -6701,7 +6707,6 @@
    "waldemar-the-elf",
    "walpurti",
    "wannalearnbot",
-   "wedge_engine",
    "weiawaga",
    "worserfish19",
    "worstfish",
