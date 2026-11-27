@@ -837,7 +837,7 @@
   },
   "caissa-x": {
    "first_seen": "2026-09-29",
-   "last_online": "2026-11-26",
+   "last_online": "2026-11-27",
    "username": "caissa-x"
   },
   "calciumengine": {
@@ -1007,7 +1007,7 @@
   },
   "chessai4f": {
    "first_seen": "2026-10-21",
-   "last_online": "2026-11-26",
+   "last_online": "2026-11-27",
    "username": "ChessAI4F"
   },
   "chessatronbot": {
@@ -1127,7 +1127,7 @@
   },
   "chiral_ebt": {
    "first_seen": "2026-11-07",
-   "last_online": "2026-11-26",
+   "last_online": "2026-11-27",
    "username": "chiral_ebt"
   },
   "chmod-bot": {
@@ -3607,7 +3607,7 @@
   },
   "musashi-thebot": {
    "first_seen": "2026-09-28",
-   "last_online": "2026-11-26",
+   "last_online": "2026-11-27",
    "username": "Musashi-thebot"
   },
   "mutusbot": {
@@ -3637,7 +3637,7 @@
   },
   "mzero_dev": {
    "first_seen": "2026-11-20",
-   "last_online": "2026-11-23",
+   "last_online": "2026-11-27",
    "username": "MZero_dev"
   },
   "n1742bot": {
@@ -4832,7 +4832,7 @@
   },
   "shahmatbot": {
    "first_seen": "2026-11-04",
-   "last_online": "2026-11-26",
+   "last_online": "2026-11-27",
    "username": "SHAHMATBOT"
   },
   "shallowredbot": {
@@ -6162,7 +6162,7 @@
   }
  },
  "online": {
-  "checked_at": "2026-11-27T05:43:10Z",
+  "checked_at": "2026-11-27T06:43:15Z",
   "ids": [
    "abcd_engine",
    "aconcaguabot",
@@ -6222,7 +6222,9 @@
    "bubblebot2",
    "byte-knight",
    "bytefish",
+   "c-t-r-l",
    "caiporabot",
+   "caissa-x",
    "capabot",
    "casanchess-nnue",
    "catnail",
@@ -6231,6 +6233,8 @@
    "cheng-4",
    "cheng-4-nn",
    "chess3bot",
+   "chess_set_manager",
+   "chessai4f",
    "chessbook-1",
    "chesschildren",
    "chessgeniusbot",
@@ -6242,6 +6246,7 @@
    "chessmode-go",
    "cheszter",
    "chill4ce",
+   "chiral_ebt",
    "cinder-bot",
    "classical-leela",
    "claude_bot",
@@ -6265,6 +6270,7 @@
    "dala-700",
    "dala-900",
    "darkelectronbot",
+   "darkonbot",
    "darkonweakbot",
    "darkvoidreaper",
    "darwin-chess-bot",
@@ -6308,7 +6314,6 @@
    "garbobot",
    "georgii_ai",
    "geotsibot",
-   "ghidorah_x",
    "giffibot",
    "glorbo_evermorrow",
    "gnu4u",
@@ -6336,7 +6341,6 @@
    "ironrooks",
    "iskelt-corax",
    "jangine",
-   "jester7777",
    "jibbby",
    "jimmy_inc3710",
    "jjugle",
@@ -6347,11 +6351,13 @@
    "jurdbird",
    "justbot-v1",
    "kahunabot",
+   "karl-engine-v1",
    "kbelludoo",
    "kern-0",
    "kestrelchess",
    "kestrelstrike",
    "kirinchessbot",
+   "kittyenginev5",
    "knightstalker_uci",
    "kopyto_dev",
    "kulubot",
@@ -6427,12 +6433,13 @@
    "mrdeepseekgpt",
    "mrtonnerre",
    "mudskipperbot",
+   "musashi-thebot",
    "mutusbot",
    "mychessjava",
+   "mzero_dev",
    "nanozeroorg",
    "ndr1sn",
    "neetroc-bot",
-   "neryba",
    "neurosocute",
    "nexastrat",
    "next_uzbek",
@@ -6477,7 +6484,6 @@
    "polvo_engine",
    "princhess_policy_bot",
    "prismnnue",
-   "projectgambit",
    "prokopakop",
    "pseudo-0",
    "pseudo-1",
@@ -6514,6 +6520,7 @@
    "scipio-bot",
    "sdsfaa",
    "seitogakatsu",
+   "shahmatbot",
    "shallowredbot",
    "sharpdubot",
    "shedletskybot",
@@ -6601,7 +6608,6 @@
    "walpurti",
    "wannalearnbot",
    "weiawaga",
-   "worserfish19",
    "worstfish",
    "xen-0",
    "z-o_aspenlabs",
