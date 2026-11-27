@@ -1682,7 +1682,7 @@
   },
   "dux-on": {
    "first_seen": "2026-11-24",
-   "last_online": "2026-11-25",
+   "last_online": "2026-11-27",
    "username": "dux-on"
   },
   "dysthimi": {
@@ -2445,6 +2445,11 @@
    "last_online": "2026-11-27",
    "username": "incipit_bot"
   },
+  "indomitasbot": {
+   "first_seen": "2026-11-27",
+   "last_online": "2026-11-27",
+   "username": "IndomitasBot"
+  },
   "intermediateplay2026": {
    "first_seen": "2026-11-22",
    "last_online": "2026-11-26",
@@ -2467,7 +2472,7 @@
   },
   "ironfang": {
    "first_seen": "2026-10-24",
-   "last_online": "2026-11-26",
+   "last_online": "2026-11-27",
    "username": "Ironfang"
   },
   "ironrooks": {
@@ -2667,7 +2672,7 @@
   },
   "kasdengine": {
    "first_seen": "2026-11-23",
-   "last_online": "2026-11-26",
+   "last_online": "2026-11-27",
    "username": "KasDEngine"
   },
   "katzebot": {
@@ -2817,7 +2822,7 @@
   },
   "kolmato": {
    "first_seen": "2026-11-01",
-   "last_online": "2026-11-21",
+   "last_online": "2026-11-27",
    "username": "kolmato"
   },
   "komodo3600": {
@@ -5142,7 +5147,7 @@
   },
   "space_bot": {
    "first_seen": "2026-10-05",
-   "last_online": "2026-11-03",
+   "last_online": "2026-11-27",
    "username": "Space_BOT"
   },
   "sparkchessengine": {
@@ -6187,7 +6192,7 @@
   },
   "zfishbot": {
    "first_seen": "2026-11-22",
-   "last_online": "2026-11-26",
+   "last_online": "2026-11-27",
    "username": "ZFishBot"
   },
   "zion-bot": {
@@ -6227,7 +6232,7 @@
   }
  },
  "online": {
-  "checked_at": "2026-11-27T16:43:11Z",
+  "checked_at": "2026-11-27T17:43:18Z",
   "ids": [
    "aaronsengine",
    "abcd_engine",
@@ -6238,7 +6243,6 @@
    "ai-con",
    "ailedbot",
    "ajedrezchamberi",
-   "alarm2001",
    "alehkine_cat",
    "alexandrya",
    "aliceshiro",
@@ -6275,7 +6279,7 @@
    "black-icebot",
    "bluemoonbot",
    "blujay-bot",
-   "blunder-engine",
+   "blundeel67",
    "blundermind-01",
    "blundermind-m3",
    "bongaclang",
@@ -6307,7 +6311,6 @@
    "chessai4f",
    "chessbook-1",
    "chesschildren",
-   "chessgeniusbot",
    "chessiverse_ethan",
    "chessiverse_luc",
    "chessiverse_pawnza",
@@ -6356,14 +6359,15 @@
    "dingusbot",
    "diogenes-bot",
    "disrespect_fish",
-   "dravox",
    "drawfish-reborn",
+   "drei_tage_bot",
    "drewschessmachine",
    "drunken-pipe-bomb",
    "dubot",
    "duchessai",
    "dumbotai",
    "dungine",
+   "dux-on",
    "eclipsebot",
    "edwardkillick",
    "eigenmann-chess",
@@ -6384,14 +6388,13 @@
    "fourcuriouspandas",
    "fschess-engine",
    "funfishbot",
-   "gaiachessengine",
-   "galaxy-stellar-bot",
+   "gambitonlybot",
    "garbobot",
    "geotsibot",
    "ghidorah_x",
    "giffibot",
+   "glorbo_evermorrow",
    "gnu4u",
-   "goats-of-bots",
    "goldfish-engine",
    "goopis",
    "gopandafish",
@@ -6412,8 +6415,10 @@
    "icarus-bot",
    "ilovecatgirl",
    "incipit_bot",
+   "indomitasbot",
    "io-bot",
    "ironbishop_bot",
+   "ironfang",
    "ironrooks",
    "iskelt-corax",
    "jangine",
@@ -6428,6 +6433,7 @@
    "justbot-v1",
    "kahunabot",
    "karl-engine-v1",
+   "kasdengine",
    "kbelludoo",
    "kern-0",
    "kestrelchess",
@@ -6439,7 +6445,9 @@
    "klak_engine",
    "knightstalker_uci",
    "koi_engine",
+   "kolmato",
    "kopyto_dev",
+   "kulubot",
    "kybot",
    "lamprook",
    "laura-bot",
@@ -6447,7 +6455,6 @@
    "leelaanyodds",
    "leelajester",
    "leelaknightodds",
-   "leelamultiposs",
    "leelaqueenforknight",
    "leelaqueenodds",
    "leelarogue",
@@ -6495,7 +6502,6 @@
    "mayflyengine",
    "mcdonalds1955",
    "mchesspro_8_uci",
-   "mcvoid-bot",
    "mega-noob-bot",
    "melsh_bot",
    "milanbot",
@@ -6513,6 +6519,7 @@
    "mrdeepseekgpt",
    "mrtonnerre",
    "mudskipperbot",
+   "munzurbot2",
    "mutlubotbetaaccount",
    "mutusbot",
    "nanozeroorg",
@@ -6555,15 +6562,12 @@
    "piebot",
    "pierreai",
    "piglet_engine",
-   "pirates1",
-   "pirates2",
-   "piratesrust",
-   "piratesrustv2",
    "playmarius",
    "plumboi",
    "plumbot",
    "princhess_policy_bot",
    "prismnnue",
+   "projectgambit",
    "prokopakop",
    "prosperobot",
    "pseudo-0",
@@ -6594,7 +6598,6 @@
    "rudim-bot",
    "rust-in-pieces",
    "rust-in-pieces-nnue",
-   "sacrifice-engine",
    "saherator",
    "sardinebot",
    "sargon-1ply",
@@ -6614,7 +6617,6 @@
    "sim3million",
    "simonericafonso",
    "simpleeval",
-   "sisyphus-engine",
    "sj_norbot",
    "slate-engine",
    "sleepish",
@@ -6626,6 +6628,7 @@
    "smotherfishbot3",
    "smotherfishbot4",
    "solobot",
+   "space_bot",
    "sparkchessengine",
    "springerbot",
    "squarefish-900",
@@ -6704,6 +6707,7 @@
    "xen-0",
    "z-o_aspenlabs",
    "zanak-bot",
+   "zfishbot",
    "zion-bot",
    "zoo_amrica"
   ]
