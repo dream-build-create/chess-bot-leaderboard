@@ -1407,7 +1407,7 @@
   },
   "darkvoidreaper": {
    "first_seen": "2026-11-25",
-   "last_online": "2026-11-26",
+   "last_online": "2026-11-27",
    "username": "DarkVoidReaper"
   },
   "darwin-chess-bot": {
@@ -4990,6 +4990,11 @@
    "last_online": "2026-11-25",
    "username": "SlyChessBot"
   },
+  "smartfellabot": {
+   "first_seen": "2026-11-27",
+   "last_online": "2026-11-27",
+   "username": "SmartfellaBot"
+  },
   "smartysprout": {
    "first_seen": "2026-11-09",
    "last_online": "2026-11-27",
@@ -6157,7 +6162,7 @@
   }
  },
  "online": {
-  "checked_at": "2026-11-27T04:43:10Z",
+  "checked_at": "2026-11-27T05:43:10Z",
   "ids": [
    "abcd_engine",
    "aconcaguabot",
@@ -6220,14 +6225,12 @@
    "caiporabot",
    "capabot",
    "casanchess-nnue",
-   "cassidychess-bot",
    "catnail",
    "catriever",
    "charibot",
    "cheng-4",
    "cheng-4-nn",
    "chess3bot",
-   "chess_set_manager",
    "chessbook-1",
    "chesschildren",
    "chessgeniusbot",
@@ -6263,12 +6266,12 @@
    "dala-900",
    "darkelectronbot",
    "darkonweakbot",
+   "darkvoidreaper",
    "darwin-chess-bot",
    "davidsguterbot",
    "debzero",
    "deepbecky",
    "deepsquare-ai",
-   "defenchessofficial",
    "demen100ns-bot",
    "devchessplayer-bot",
    "devilfishbot",
@@ -6316,7 +6319,6 @@
    "grindfish",
    "gryndor",
    "halcyonbot",
-   "hardrok",
    "homoludensbot",
    "honzovy-sachy",
    "honzovy-sachy-2",
@@ -6406,6 +6408,7 @@
    "maximaengine",
    "mcdonalds1955",
    "mchesspro_8_uci",
+   "mcvoid-bot",
    "mega-noob-bot",
    "melsh_bot",
    "michaamateurbot",
@@ -6424,7 +6427,6 @@
    "mrdeepseekgpt",
    "mrtonnerre",
    "mudskipperbot",
-   "munzurbot2",
    "mutusbot",
    "mychessjava",
    "nanozeroorg",
@@ -6524,6 +6526,7 @@
    "slate-engine",
    "sleepish",
    "sleepmindengine",
+   "smartfellabot",
    "smartysprout",
    "smotherfishbot1",
    "smotherfishbot2",
