@@ -117,7 +117,7 @@
   },
   "alarm2001": {
    "first_seen": "2026-10-01",
-   "last_online": "2026-11-26",
+   "last_online": "2026-11-27",
    "username": "Alarm2001"
   },
   "alehkine_cat": {
@@ -2842,7 +2842,7 @@
   },
   "lantern_bot": {
    "first_seen": "2026-10-15",
-   "last_online": "2026-11-26",
+   "last_online": "2026-11-27",
    "username": "Lantern_BOT"
   },
   "larryz-alterego": {
@@ -4187,7 +4187,7 @@
   },
   "polvo_engine": {
    "first_seen": "2026-11-04",
-   "last_online": "2026-11-26",
+   "last_online": "2026-11-27",
    "username": "Polvo_engine"
   },
   "pomeranian_bot": {
@@ -4337,7 +4337,7 @@
   },
   "queensgambot": {
    "first_seen": "2026-09-27",
-   "last_online": "2026-11-26",
+   "last_online": "2026-11-27",
    "username": "QueensGamBOT"
   },
   "quirkafleeg-pc": {
@@ -6152,7 +6152,7 @@
   }
  },
  "online": {
-  "checked_at": "2026-11-27T01:43:09Z",
+  "checked_at": "2026-11-27T02:43:08Z",
   "ids": [
    "abcd_engine",
    "aconcaguabot",
@@ -6161,6 +6161,7 @@
    "aggressivestockfish",
    "ai-con",
    "ailedbot",
+   "alarm2001",
    "alehkine_cat",
    "alexandrya",
    "aliceshiro",
@@ -6306,6 +6307,7 @@
    "glorbo_evermorrow",
    "gnu4u",
    "goldfish-engine",
+   "goopis",
    "gopandafish",
    "grail-bot",
    "grindfish",
@@ -6345,13 +6347,12 @@
    "kestrelchess",
    "kestrelstrike",
    "kirinchessbot",
-   "kittyenginev5",
-   "klak_engine",
    "knightstalker_uci",
    "kopyto_dev",
    "kulubot",
    "kybot",
    "lamprook",
+   "lantern_bot",
    "laura-bot",
    "leelaalien",
    "leelaanyodds",
@@ -6430,7 +6431,6 @@
    "ndr1sn",
    "neetroc-bot",
    "neryba",
-   "neurochess_ezy",
    "neurosocute",
    "nexastrat",
    "next_uzbek",
@@ -6472,7 +6472,7 @@
    "playmarius",
    "plumboi",
    "plumbot",
-   "premove90-1500",
+   "polvo_engine",
    "princhess_policy_bot",
    "prismnnue",
    "prokopakop",
@@ -6482,6 +6482,7 @@
    "ptit-biscuit",
    "puisne",
    "pzchessbot",
+   "queensgambot",
    "quirkafleeg-zx48k",
    "quirkafleeg-zxnext",
    "r0bspierre",
@@ -6568,7 +6569,6 @@
    "tonyengine",
    "topasbot",
    "trainer-bot",
-   "trainingbuddy",
    "trenerhetman",
    "trinculobot",
    "troutbot",
@@ -6605,7 +6605,6 @@
    "worserfish19",
    "worstfish",
    "xen-0",
-   "xmtcore",
    "z-o_aspenlabs",
    "zanak-bot",
    "zion-bot"
