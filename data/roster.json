@@ -547,7 +547,7 @@
   },
   "black-icebot": {
    "first_seen": "2026-10-16",
-   "last_online": "2026-11-26",
+   "last_online": "2026-11-27",
    "username": "BLACK-ICEbot"
   },
   "blackeventhorizon": {
@@ -827,7 +827,7 @@
   },
   "caesarbot": {
    "first_seen": "2026-11-17",
-   "last_online": "2026-11-26",
+   "last_online": "2026-11-27",
    "username": "CAESARbot"
   },
   "caiporabot": {
@@ -1610,6 +1610,11 @@
    "last_online": "2026-11-27",
    "username": "Drawfish-reborn"
   },
+  "drei_tage_bot": {
+   "first_seen": "2026-11-27",
+   "last_online": "2026-11-27",
+   "username": "drei_tage_bot"
+  },
   "drewschessmachine": {
    "first_seen": "2026-09-28",
    "last_online": "2026-11-27",
@@ -1619,6 +1624,11 @@
    "first_seen": "2026-10-20",
    "last_online": "2026-10-21",
    "username": "DrLemonzzBOT"
+  },
+  "drunken-pipe-bomb": {
+   "first_seen": "2026-11-27",
+   "last_online": "2026-11-27",
+   "username": "Drunken-pipe-bomb"
   },
   "dtsudo": {
    "first_seen": "2026-10-11",
@@ -6177,7 +6187,7 @@
   }
  },
  "online": {
-  "checked_at": "2026-11-27T08:43:10Z",
+  "checked_at": "2026-11-27T09:01:58Z",
   "ids": [
    "abcd_engine",
    "aconcaguabot",
@@ -6218,6 +6228,7 @@
    "bfiedler-bot",
    "bhaaibot",
    "bitbitbot",
+   "black-icebot",
    "bluemoonbot",
    "blujay-bot",
    "blundermind-01",
@@ -6236,6 +6247,7 @@
    "byte-knight",
    "bytefish",
    "c-t-r-l",
+   "caesarbot",
    "caiporabot",
    "caissa-x",
    "capabot",
@@ -6297,7 +6309,9 @@
    "disrespect_fish",
    "dravox",
    "drawfish-reborn",
+   "drei_tage_bot",
    "drewschessmachine",
+   "drunken-pipe-bomb",
    "dubot",
    "duchessai",
    "dumbotai",
@@ -6442,6 +6456,7 @@
    "mrdeepseekgpt",
    "mrtonnerre",
    "mudskipperbot",
+   "munzurbot2",
    "musashi-thebot",
    "mutlubotbetaaccount",
    "mutusbot",
