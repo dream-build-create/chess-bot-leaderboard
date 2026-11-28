@@ -7,7 +7,7 @@
   },
   "aaronsengine": {
    "first_seen": "2026-09-27",
-   "last_online": "2026-11-27",
+   "last_online": "2026-11-28",
    "username": "AaronsEngine"
   },
   "aathena101": {
@@ -247,7 +247,7 @@
   },
   "apexchess-bot": {
    "first_seen": "2026-10-31",
-   "last_online": "2026-11-22",
+   "last_online": "2026-11-28",
    "username": "ApexChess-Bot"
   },
   "aposeij": {
@@ -607,7 +607,7 @@
   },
   "blundeel67": {
    "first_seen": "2026-11-07",
-   "last_online": "2026-11-27",
+   "last_online": "2026-11-28",
    "username": "blundeel67"
   },
   "blunder-engine": {
@@ -2477,7 +2477,7 @@
   },
   "ironfang": {
    "first_seen": "2026-10-24",
-   "last_online": "2026-11-27",
+   "last_online": "2026-11-28",
    "username": "Ironfang"
   },
   "ironrooks": {
@@ -6262,7 +6262,7 @@
   },
   "zuhammet": {
    "first_seen": "2026-10-28",
-   "last_online": "2026-11-26",
+   "last_online": "2026-11-28",
    "username": "Zuhammet"
   },
   "zxasdsaasda": {
@@ -6277,8 +6277,9 @@
   }
  },
  "online": {
-  "checked_at": "2026-11-28T09:43:09Z",
+  "checked_at": "2026-11-28T10:43:09Z",
   "ids": [
+   "aaronsengine",
    "abcd_engine",
    "aconcaguabot",
    "aetherbot",
@@ -6298,6 +6299,7 @@
    "anti-anti",
    "anti-bot",
    "antibotv3-7",
+   "apexchess-bot",
    "aposeij",
    "approximationbot",
    "arasanx",
@@ -6306,6 +6308,7 @@
    "ashnostromo",
    "athena-chessbot",
    "axiom_bot",
+   "azally",
    "azchess-1",
    "baby_eubos",
    "bbc_bot",
@@ -6320,6 +6323,7 @@
    "black-icebot",
    "bluemoonbot",
    "blujay-bot",
+   "blundeel67",
    "blundermind-01",
    "blundermind-m3",
    "bobby_pcolla",
@@ -6385,7 +6389,6 @@
    "darkelectronbot",
    "darkonbot",
    "darkonweakbot",
-   "darkvoidreaper",
    "darwin-chess-bot",
    "davidsguterbot",
    "death1234567-hell",
@@ -6452,13 +6455,12 @@
    "icarus-bot",
    "ilovecatgirl",
    "incipit_bot",
-   "io-bot",
    "ironbishop_bot",
+   "ironfang",
    "ironrooks",
    "iskelt-corax",
    "jangine",
    "jaxman_n",
-   "jester7777",
    "jibbby",
    "jimmy_inc3710",
    "jjugle",
@@ -6479,6 +6481,7 @@
    "kirinchessbot",
    "kittyenginev5",
    "knightstalker_uci",
+   "koi_engine",
    "kolmato",
    "kopyto_dev",
    "kulubot",
@@ -6532,6 +6535,7 @@
    "mate1-bot",
    "matmoi",
    "maximaengine",
+   "mayflyengine",
    "mcdonalds1955",
    "mdbot",
    "mega-noob-bot",
@@ -6553,7 +6557,7 @@
    "mrdeepseekgpt",
    "mrtonnerre",
    "mudskipperbot",
-   "musashi-thebot",
+   "munzurbot2",
    "mutlubotbetaaccount",
    "mutusbot",
    "mychessjava",
@@ -6614,11 +6618,9 @@
    "puisne",
    "pzchessbot",
    "quartzthechessbot",
-   "quirkafleeg-pc",
    "quirkafleeg-zx48k",
    "quirkafleeg-zxnext",
    "r0bspierre",
-   "r4033",
    "radianceengine",
    "raspfish",
    "ratsu-bot",
@@ -6635,6 +6637,7 @@
    "rust-in-pieces",
    "rust-in-pieces-nnue",
    "ryu-ishigori",
+   "sardinebot",
    "sargon-1ply",
    "sargon-3ply",
    "sbnovella",
@@ -6702,6 +6705,7 @@
    "trainer-bot",
    "trenerhetman",
    "trinculobot",
+   "triumviratusrookodds",
    "troutbot",
    "tucuengine",
    "turk_gambit",
@@ -6739,8 +6743,8 @@
    "xen-0",
    "z-o_aspenlabs",
    "zanak-bot",
-   "zfishbot",
-   "zion-bot"
+   "zion-bot",
+   "zuhammet"
   ]
  },
  "schema_version": 1
