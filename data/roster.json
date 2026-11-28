@@ -2677,7 +2677,7 @@
   },
   "kasdengine": {
    "first_seen": "2026-11-23",
-   "last_online": "2026-11-27",
+   "last_online": "2026-11-28",
    "username": "KasDEngine"
   },
   "katzebot": {
@@ -2772,7 +2772,7 @@
   },
   "kittyenginev5": {
    "first_seen": "2026-10-20",
-   "last_online": "2026-11-27",
+   "last_online": "2026-11-28",
    "username": "KittyEngineV5"
   },
   "kiwi_cube": {
@@ -6267,7 +6267,7 @@
   }
  },
  "online": {
-  "checked_at": "2026-11-28T05:43:09Z",
+  "checked_at": "2026-11-28T06:43:09Z",
   "ids": [
    "abcd_engine",
    "aconcaguabot",
@@ -6296,6 +6296,7 @@
    "ashnostromo",
    "athena-chessbot",
    "axiom_bot",
+   "azally",
    "azchess-1",
    "baby_eubos",
    "bbc_bot",
@@ -6319,7 +6320,6 @@
    "bot5551",
    "bot64jaques",
    "bot_adario",
-   "bothev",
    "botkill-v18x",
    "bretemabot",
    "bubblebot2",
@@ -6456,6 +6456,8 @@
    "jurdbird",
    "justbot-v1",
    "kahunabot",
+   "karl-engine-v1",
+   "kasdengine",
    "kbelludoo",
    "kern-0",
    "kestrelchess",
@@ -6463,6 +6465,7 @@
    "kingbobiv",
    "kira_ai_bot",
    "kirinchessbot",
+   "kittyenginev5",
    "kiyengine",
    "knightstalker_uci",
    "koi_engine",
@@ -6521,7 +6524,6 @@
    "mate1-bot",
    "matmoi",
    "maximaengine",
-   "mayflyengine",
    "mdbot",
    "mega-noob-bot",
    "melsh_bot",
@@ -6592,7 +6594,6 @@
    "polvo_engine",
    "princhess_policy_bot",
    "prismnnue",
-   "projectgambit",
    "prokopakop",
    "prosperobot",
    "pseudo-0",
@@ -6623,7 +6624,6 @@
    "rudim-bot",
    "rust-in-pieces",
    "rust-in-pieces-nnue",
-   "rustyrival",
    "ryu-ishigori",
    "sardinebot",
    "sargon-1ply",
@@ -6653,7 +6653,6 @@
    "smotherfishbot3",
    "smotherfishbot4",
    "solobot",
-   "sparkchessengine",
    "springerbot",
    "squarefish-900",
    "sseh-c",
@@ -6663,7 +6662,6 @@
    "stockcotsfish",
    "stockdory",
    "stockfish19-bot888",
-   "stockfish_bot2",
    "stockfishlowdepth",
    "stockfishroulettebot",
    "stockfishv19",
