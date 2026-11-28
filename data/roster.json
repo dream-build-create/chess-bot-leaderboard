@@ -5270,9 +5270,14 @@
    "last_online": "2026-11-02",
    "username": "StockFail"
   },
+  "stockfish19-bot888": {
+   "first_seen": "2026-11-28",
+   "last_online": "2026-11-28",
+   "username": "Stockfish19-BOT888"
+  },
   "stockfish_bot2": {
    "first_seen": "2026-10-11",
-   "last_online": "2026-11-27",
+   "last_online": "2026-11-28",
    "username": "Stockfish_bot2"
   },
   "stockfishlowdepth": {
@@ -5667,7 +5672,7 @@
   },
   "trainingbuddy": {
    "first_seen": "2026-10-28",
-   "last_online": "2026-11-27",
+   "last_online": "2026-11-28",
    "username": "TrainingBuddy"
   },
   "traininggroundbot": {
@@ -5707,7 +5712,7 @@
   },
   "trrchessbot": {
    "first_seen": "2026-11-08",
-   "last_online": "2026-11-21",
+   "last_online": "2026-11-28",
    "username": "TrrChessBot"
   },
   "truezero-bot": {
@@ -6262,7 +6267,7 @@
   }
  },
  "online": {
-  "checked_at": "2026-11-28T04:43:09Z",
+  "checked_at": "2026-11-28T05:43:09Z",
   "ids": [
    "abcd_engine",
    "aconcaguabot",
@@ -6291,7 +6296,6 @@
    "ashnostromo",
    "athena-chessbot",
    "axiom_bot",
-   "azally",
    "azchess-1",
    "baby_eubos",
    "bbc_bot",
@@ -6334,7 +6338,6 @@
    "cheng-4-nn",
    "chess3bot",
    "chess_set_manager",
-   "chessai4f",
    "chessbook-1",
    "chesschildren",
    "chessiverse_ethan",
@@ -6377,7 +6380,6 @@
    "debzero",
    "deepbecky",
    "deepsquare-ai",
-   "defenchessofficial",
    "demen100ns-bot",
    "devchessplayer-bot",
    "dingusbot",
@@ -6424,7 +6426,6 @@
    "grindfish",
    "gryndor",
    "halcyonbot",
-   "hardrok",
    "homoludensbot",
    "honzovy-sachy",
    "honzovy-sachy-2",
@@ -6527,7 +6528,6 @@
    "michaamateurbot",
    "milanbot",
    "mimirbot",
-   "minimaxpro",
    "minopponentmoves",
    "mithandros",
    "mochi-fat",
@@ -6641,7 +6641,6 @@
    "silasly",
    "sim3million",
    "simonericafonso",
-   "simple_chess_lab",
    "simpleeval",
    "sj_norbot",
    "slate-engine",
@@ -6663,10 +6662,11 @@
    "stockconda",
    "stockcotsfish",
    "stockdory",
+   "stockfish19-bot888",
+   "stockfish_bot2",
    "stockfishlowdepth",
    "stockfishroulettebot",
    "stockfishv19",
-   "stocknafishpa",
    "stockpapagei",
    "streamervschat",
    "stroberibot",
@@ -6693,16 +6693,17 @@
    "tonyengine",
    "topasbot",
    "trainer-bot",
+   "trainingbuddy",
    "trenerhetman",
    "trinculobot",
    "troutbot",
+   "trrchessbot",
    "tucuengine",
    "turk_gambit",
    "turochamp-1ply",
    "turochamp-2ply",
    "twosillypandas",
    "ultrabrick",
-   "uncrownedclown",
    "unimark",
    "ursus_bot",
    "usunfish",
