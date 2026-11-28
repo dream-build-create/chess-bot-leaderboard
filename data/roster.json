@@ -547,7 +547,7 @@
   },
   "bitarena": {
    "first_seen": "2026-11-27",
-   "last_online": "2026-11-27",
+   "last_online": "2026-11-28",
    "username": "BitArena"
   },
   "bitbitbot": {
@@ -562,7 +562,7 @@
   },
   "black-icebot": {
    "first_seen": "2026-10-16",
-   "last_online": "2026-11-27",
+   "last_online": "2026-11-28",
    "username": "BLACK-ICEbot"
   },
   "blackeventhorizon": {
@@ -747,7 +747,7 @@
   },
   "bottios": {
    "first_seen": "2026-09-27",
-   "last_online": "2026-11-27",
+   "last_online": "2026-11-28",
    "username": "Bottios"
   },
   "bottrain": {
@@ -1067,7 +1067,7 @@
   },
   "chessgeniusbot": {
    "first_seen": "2026-10-02",
-   "last_online": "2026-11-27",
+   "last_online": "2026-11-28",
    "username": "ChessGeniusBot"
   },
   "chessiverse_ethan": {
@@ -1552,7 +1552,7 @@
   },
   "devilfishbot": {
    "first_seen": "2026-11-11",
-   "last_online": "2026-11-27",
+   "last_online": "2026-11-28",
    "username": "Devilfishbot"
   },
   "devilfishzero": {
@@ -1817,7 +1817,7 @@
   },
   "esperengine": {
    "first_seen": "2026-11-18",
-   "last_online": "2026-11-24",
+   "last_online": "2026-11-28",
    "username": "EsperEngine"
   },
   "eubos": {
@@ -6267,7 +6267,7 @@
   }
  },
  "online": {
-  "checked_at": "2026-11-28T07:43:08Z",
+  "checked_at": "2026-11-28T08:24:09Z",
   "ids": [
    "abcd_engine",
    "aconcaguabot",
@@ -6306,7 +6306,9 @@
    "berrycow2",
    "bertbot",
    "bfiedler-bot",
+   "bitarena",
    "bitbitbot",
+   "black-icebot",
    "bluemoonbot",
    "blujay-bot",
    "blundermind-01",
@@ -6319,6 +6321,7 @@
    "bot64jaques",
    "bot_adario",
    "botkill-v18x",
+   "bottios",
    "bretemabot",
    "bubblebot2",
    "byte-knight",
@@ -6338,6 +6341,7 @@
    "chess_set_manager",
    "chessbook-1",
    "chesschildren",
+   "chessgeniusbot",
    "chessiverse_ethan",
    "chessiverse_luc",
    "chessiverse_pawnza",
@@ -6380,7 +6384,7 @@
    "deepsquare-ai",
    "demen100ns-bot",
    "devchessplayer-bot",
-   "devilfishzero",
+   "devilfishbot",
    "dingusbot",
    "diogenes-bot",
    "disrespect_fish",
@@ -6397,6 +6401,7 @@
    "elexunix_chess_bot",
    "elmichess",
    "escacsgba_1",
+   "esperengine",
    "eubos",
    "extrapawncom",
    "fairytailregimebot",
@@ -6474,7 +6479,6 @@
    "laura-bot",
    "leelaalien",
    "leelaanyodds",
-   "leelachesstest",
    "leelajester",
    "leelaknightodds",
    "leelaqueenforknight",
@@ -6526,6 +6530,7 @@
    "michaamateurbot",
    "milanbot",
    "mimirbot",
+   "minimaxpro",
    "minopponentmoves",
    "mithandros",
    "mochi-fat",
@@ -6539,7 +6544,7 @@
    "mrdeepseekgpt",
    "mrtonnerre",
    "mudskipperbot",
-   "musashi-thebot",
+   "munzurbot2",
    "mutlubotbetaaccount",
    "mutusbot",
    "mychessjava",
@@ -6576,6 +6581,7 @@
    "peachfruit",
    "pelanca",
    "peppermintpatty",
+   "perl-gigachess",
    "phalanx-xxv",
    "philidor-142m",
    "pi0w",
@@ -6606,6 +6612,7 @@
    "radianceengine",
    "raspfish",
    "ratsu-bot",
+   "raven030",
    "ravenengine",
    "ray-bot",
    "rdtchessbot",
@@ -6633,6 +6640,7 @@
    "shrevenbot",
    "silasly",
    "sim3million",
+   "simonericafonso",
    "simpleeval",
    "sj_norbot",
    "slate-engine",
