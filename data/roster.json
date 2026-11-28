@@ -387,7 +387,7 @@
   },
   "azchess-1": {
    "first_seen": "2026-11-27",
-   "last_online": "2026-11-27",
+   "last_online": "2026-11-28",
    "username": "Azchess-1"
   },
   "azzbot": {
@@ -912,7 +912,7 @@
   },
   "cassidychess-bot": {
    "first_seen": "2026-11-10",
-   "last_online": "2026-11-27",
+   "last_online": "2026-11-28",
    "username": "CassidyChess-Bot"
   },
   "catalyst-ctrl": {
@@ -1027,7 +1027,7 @@
   },
   "chessai4f": {
    "first_seen": "2026-10-21",
-   "last_online": "2026-11-27",
+   "last_online": "2026-11-28",
    "username": "ChessAI4F"
   },
   "chessatronbot": {
@@ -1452,7 +1452,7 @@
   },
   "death1234567-hell": {
    "first_seen": "2026-11-15",
-   "last_online": "2026-11-27",
+   "last_online": "2026-11-28",
    "username": "death1234567-hell"
   },
   "debzero": {
@@ -1482,7 +1482,7 @@
   },
   "defenchessofficial": {
    "first_seen": "2026-11-27",
-   "last_online": "2026-11-27",
+   "last_online": "2026-11-28",
    "username": "DefenchessOfficial"
   },
   "dehorsed_bot": {
@@ -4402,7 +4402,7 @@
   },
   "quartzthechessbot": {
    "first_seen": "2026-11-18",
-   "last_online": "2026-11-27",
+   "last_online": "2026-11-28",
    "username": "QuartzTheChessBot"
   },
   "queensgambot": {
@@ -5327,7 +5327,7 @@
   },
   "stronggoliath": {
    "first_seen": "2026-10-31",
-   "last_online": "2026-11-27",
+   "last_online": "2026-11-28",
    "username": "Stronggoliath"
   },
   "studyloversz-bot": {
@@ -6262,7 +6262,7 @@
   }
  },
  "online": {
-  "checked_at": "2026-11-28T03:43:08Z",
+  "checked_at": "2026-11-28T04:43:09Z",
   "ids": [
    "abcd_engine",
    "aconcaguabot",
@@ -6290,9 +6290,9 @@
    "artidigm_research",
    "ashnostromo",
    "athena-chessbot",
-   "atomicenginev1",
    "axiom_bot",
    "azally",
+   "azchess-1",
    "baby_eubos",
    "bbc_bot",
    "belzedarian",
@@ -6326,6 +6326,7 @@
    "caiporabot",
    "capabot",
    "casanchess-nnue",
+   "cassidychess-bot",
    "catnail",
    "catriever",
    "charibot",
@@ -6333,6 +6334,7 @@
    "cheng-4-nn",
    "chess3bot",
    "chess_set_manager",
+   "chessai4f",
    "chessbook-1",
    "chesschildren",
    "chessiverse_ethan",
@@ -6371,9 +6373,11 @@
    "darkonweakbot",
    "darwin-chess-bot",
    "davidsguterbot",
+   "death1234567-hell",
    "debzero",
    "deepbecky",
    "deepsquare-ai",
+   "defenchessofficial",
    "demen100ns-bot",
    "devchessplayer-bot",
    "dingusbot",
@@ -6433,6 +6437,7 @@
    "icarus-bot",
    "ilovecatgirl",
    "incipit_bot",
+   "io-bot",
    "ironbishop_bot",
    "ironrooks",
    "iskelt-corax",
@@ -6450,7 +6455,6 @@
    "jurdbird",
    "justbot-v1",
    "kahunabot",
-   "karl-engine-v1",
    "kbelludoo",
    "kern-0",
    "kestrelchess",
@@ -6517,7 +6521,6 @@
    "matmoi",
    "maximaengine",
    "mayflyengine",
-   "mcdonalds1955",
    "mdbot",
    "mega-noob-bot",
    "melsh_bot",
@@ -6536,6 +6539,7 @@
    "mr_sandbar",
    "mrcoachbot",
    "mrdeepseekgpt",
+   "mrtonnerre",
    "mudskipperbot",
    "munzurbot2",
    "mutlubotbetaaccount",
@@ -6554,13 +6558,13 @@
    "nilatacbot",
    "nittedal",
    "noabot",
+   "noksiy",
    "nx_horse",
    "o-rei-cx",
    "octarine-bot",
    "odonata-bot",
    "onechessbot",
    "onezenpanda",
-   "oxide-eg",
    "pacu_bot",
    "pangubot",
    "panic-fish",
@@ -6597,6 +6601,7 @@
    "ptit-biscuit",
    "puisne",
    "pzchessbot",
+   "quartzthechessbot",
    "queensgambot",
    "quirkafleeg-pc",
    "quirkafleeg-zx48k",
@@ -6649,6 +6654,7 @@
    "smotherfishbot3",
    "smotherfishbot4",
    "solobot",
+   "sparkchessengine",
    "springerbot",
    "squarefish-900",
    "sseh-c",
@@ -6660,9 +6666,11 @@
    "stockfishlowdepth",
    "stockfishroulettebot",
    "stockfishv19",
+   "stocknafishpa",
    "stockpapagei",
    "streamervschat",
    "stroberibot",
+   "stronggoliath",
    "stupidfishbotbydscs",
    "styx-chess",
    "sunfish-engine",
@@ -6682,6 +6690,7 @@
    "tinyairun",
    "to299d",
    "togaii",
+   "tonyengine",
    "topasbot",
    "trainer-bot",
    "trenerhetman",
